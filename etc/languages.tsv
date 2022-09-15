@@ -1,0 +1,705 @@
+ID	LocalID	Name	Dialect	ISO639P3code	Glottocode
+idi	1	Idi		idi	nucl1597
+taeme	2	Taeme		idi	tame1238
+nen	3	Nen		nqn	nenn1238
+suki	4	Suki		sui	suki1245
+kayardild	5	Kayardild		gyd	kaya1319
+neme	6	Neme		nex	neme1244
+nambu	7	Nambu		ncm	namb1293
+lardil	8	Lardil		lbz	lard1243
+dalabon	9	Dalabon		ngk	ngal1292
+ngkntra	10	Ngkolmpu		kcd	ngka1235
+tamil	11	Tamil		tam	tami1289
+kannada	12	Kannada		kan	nucl1305
+bininj-gun-wok	13	Bininj Gun-wok		gup	gunw1252
+ngalakan	14	Ngalakan		nig	ngal1293
+rembarrnga	15	Rembarrnga		rmb	remb1249
+ngiyambaa	16	Ngiyambaa		wyb	wang1291
+djapu	17	Djapu		duj	dhuw1249
+warta-thundai	18	Warta Thundai		gnt	gunt1241
+paamese	19	Paamese		pma	paam1238
+samoan	20	Samoan		smo	samo1305
+russian	21	Russian		rus	russ1263
+german	22	German		deu	stan1295
+toqabaqita	23	Toqabaqita		mlu	toab1237
+italian	24	Italian		ita	ital1282
+boumaa-fijian	25	Boumaa Fijian		fij	fiji1243
+aneityum	26	Aneityum		aty	anei1239
+komnzo	27	Komnzo			komn1238
+mblafe	28	Mblafe			mbla1238
+kunja-bondobol	29	Kunja (Bondobol)		pep	kunj1246
+latin	31	Latin		lat	lati1261
+dutch	32	Dutch		nld	dutc1256
+ungarinyin	33	Ungarinyin		ung	ngar1284
+maranunggu	34	Maranunggu		zmr	mara1386
+bardi	35	Bardi		bcj	bard1255
+malak-malak	36	Malak-Malak		mpb	mull1237
+kalkutungu	37	Kalkutungu		ktg	kalk1246
+ritharngu	38	Ritharngu		rit	rita1239
+garlali	39	Garlali		gll	kala1380
+paakantyi	40	Paakantyi		drl	darl1243
+wandarang	41	Wandarang		wnd	wand1263
+yuwaalaraay	42	Yuwaalaraay		kld	gami1243
+jaru	43	Jaru		ddj	jaru1254
+tyeraity	44	Tyeraity		woa	tyar1236
+mara	45	Mara		mec	mara1385
+worrorra	46	Worrorra		wro	worr1237
+wilawila	47	Wilawila		wil	wila1240
+gambera	48	Gambera		gma	gamb1251
+yawijibaya	49	Yawijibaya		jbw	yawi1239
+yindjibarndi	50	Yindjibarndi		yij	yind1247
+nyunga	51	Nyunga		nys	nyun1247
+muruwari	52	Muruwari		zmu	muru1266
+wangkajunga	53	Wangkajunga		mpj	mart1256
+tolaki	54	Tolaki		lbw	tola1247
+nyulnyul	55	Nyulnyul		nyv	nyul1247
+yalarnnga	56	Yalarnnga		ylr	yala1262
+salako	57	Salako		knx	kend1254
+timugon-murut	58	Timugon Murut		tih	timu1262
+jingulu	59	Jingulu		jig	djin1251
+wargamay	60	Wargamay		wgy	warr1255
+watjarri	61	Watjarri		wbv	waja1257
+inanwatan	62	Inanwatan		szp	suab1238
+old-church-slavonic	63	Old Church Slavonic		chu	chur1257
+bulgarian	64	Bulgarian		bul	bulg1262
+macedonian	65	Macedonian		mkd	mace1250
+serbian-croatian	66	Serbian/Croatian		srp	sout1528
+slovene	67	Slovene		slv	slov1268
+czech	68	Czech		ces	czec1258
+slovak	69	Slovak		slk	slov1269
+upper-sorbian	70	Upper Sorbian		hsb	uppe1395
+lower-sorbian	71	Lower Sorbian		dsb	lowe1385
+polish	72	Polish		pol	poli1260
+cassubian	73	Cassubian		csb	kash1274
+belorussian	74	Belorussian		bel	bela1254
+ukrainian	75	Ukrainian		ukr	ukra1253
+kwini	76	Kwini		gww	kwin1241
+enggano	77	Enggano		eno	engg1245
+puyuma	78	Puyuma		pyu	puyu1239
+palauan	79	Palauan		pau	pala1344
+spanish	80	Spanish		spa	stan1288
+klon	81	Klon		kyo	kelo1247
+sardinian	82	Sardinian		srd	camp1261
+rumanian	83	Rumanian		ron	roma1327
+occitan	84	Occitan		oci	occi1239
+french	85	French		fra	stan1290
+catalan	86	Catalan		cat	stan1289
+portuguese	87	Portuguese		por	port1283
+gothic	88	Gothic		got	goth1244
+amarasi	89	Amarasi		aaz	amar1273
+awara	90	Awara		awx	awar1248
+selepet	91	Selepet		spl	sele1250
+danish	92	Danish		dan	dani1285
+western-frisian	93	Frisian, Western		fry	west2354
+kuku-yalanji	94	Kuku Yalanji		gvn	kuku1273
+gooniyandi	95	Gooniyandi		gni	goon1238
+salt-yui	96	Salt-Yui		sll	salt1242
+ngankikurungkurr	99	Ngankikurungkurr		nam	nang1259
+djinang	100	Djinang		dji	djin1253
+martuthunira	101	Martuthunira		vma	mart1255
+wambaya	102	Wambaya		wmb	wamb1258
+wunambal	103	Wunambal		wub	wuna1249
+nyawaygi	104	Nyawaygi		nyt	nyaw1247
+wahgi	105	Wahgi		wgi	nucl1620
+chamorro	106	Chamorro		cha	cham1312
+bislama	107	Bislama		bis	bisl1239
+tok-pisin	108	Tok Pisin		tpi	tokp1240
+kristang	109	Kristang		mcm	mala1533
+bunuba	110	Bunuba		bck	buna1275
+ndjebbana	111	Ndjébbana		djj	djee1236
+atampaya	112	Atampaya		amz	atam1239
+angkamuthi	113	Angkamuthi		avm	angg1238
+yorta-yorta	114	Yorta Yorta		xyy	yort1237
+arabana	115	Arabana		ard	arab1267
+korowai	116	Korowai		khe	koro1312
+teiwa	117	Teiwa		twe	teiw1235
+usan	118	Usan		wnu	usan1239
+kobon	119	Kobon		kpw	kobo1249
+amele	120	Amele		aey	amel1241
+tetun-dili	121	Tetun Dili		tdt	tetu1246
+torres-strait-creole	122	Torres Strait Creole		tcs	torr1261
+bayali	123	Bayali		bjy	baya1257
+fasu	124	Fasu		faa	fasu1242
+nabak	125	Nabak		naf	naba1256
+western-dani	126	Western Dani		dnw	west2594
+bunaq	127	Bunaq		bfn	buna1278
+mian	128	Mian		mpt	mian1256
+oksapmin	129	Oksapmin		opm	oksa1245
+yagaria	130	Yagaria		ygr	yaga1260
+fore	131	Fore		for	fore1270
+mathi-mathi	132	Mathi-Mathi		dmd	madh1244
+moken	133	Moken		mwt	moke1242
+sunda	134	Sunda		sun	sund1252
+eipo	135	Eipo		eip	eipo1242
+javanese	136	Javanese		jav	java1254
+makassarese	137	Makassarese		mak	maka1311
+madurese	138	Madurese		mad	nucl1460
+kombai	139	Kombai		tyn	komb1274
+kamoro	140	Kamoro		kgq	kamo1255
+wambon	141	Wambon		wms	wamb1259
+sentani	142	Sentani		set	nucl1632
+abui	143	Abui		abz	abui1241
+lampung	144	Lampung		ljp	lamp1243
+balinese	145	Balinese		ban	bali1278
+tagalog	146	Tagalog		tgl	taga1270
+malagasy-plateau	147	Malagasy, plateau		plt	plat1254
+idaan	148	Ida'an		dbj	idaa1241
+rukai	149	Rukai		dru	ruka1240
+atayal	150	Atayal		tay	atay1247
+bunun	151	Bunun		bnn	bunu1267
+kala-lagaw-ya	152	Kala Lagaw Ya		mwp	kala1377
+siraya	153	Siraya		fos	sira1267
+paiwan	154	Paiwan		pwn	paiw1248
+amis	155	Amis		ami	amis1246
+taroko	156	Taroko		trv	taro1264
+thao	157	Thao		ssf	thao1240
+bugis	158	Bugis		bug	bugi1244
+adang	159	Adang		adn	adan1251
+mauwake	160	Mauwake		mhl	mauw1238
+tainae	161	Tainae		ago	tain1253
+makalero	162	Makalero		mkz	maka1316
+moskona	163	Moskona		mtj	mosk1236
+biak	164	Biak		bhw	biak1248
+loniu	165	Loniu		los	loni1238
+dehu	167	Dehu		dhv	dehu1237
+satawalese	168	Satawalese		stw	sata1237
+mafea	169	Mafea		mkv	mafe1237
+longgu	170	Longgu		lgu	long1395
+lovono	171	Lovono		vnk	vano1237
+tanema	172	Tanema		tnx	tane1237
+teanu	173	Teanu		tkw	tean1237
+tobati	174	Tobati		tti	toba1266
+cebuano	175	Cebuano		ceb	cebu1242
+muna	177	Muna		mnb	muna1247
+tukang-besi	178	Tukang Besi		khc	tuka1248
+kodeoha	179	Kodeoha		vko	kode1237
+limilngan	180	Limilngan		lmc	nucl1327
+bunganditj	181	Bunganditj		xbg	bung1264
+warrnambool	182	Warrnambool		gjm	gund1249
+duna	183	Duna		duc	duna1248
+yulparija	184	Yulparija		mpj	mart1256
+gurindji	185	Gurindji		gue	guri1247
+minkin	186	Minkin		xxm	mink1237
+menya	187	Menya		mcr	meny1245
+ngandi	188	Ngandi		nid	ngan1295
+garrwa	189	Garrwa		wrk	gara1269
+gaagudju	190	Gaagudju		gbu	gaga1251
+sanskrit	191	Sanskrit		san	sans1269
+maklew	192	Maklew		mgf	makl1246
+yelmek	193	Yelmek		jel	yelm1242
+malayalam	194	Malayalam		mal	mala1464
+meyah	195	Meyah		mej	meya1236
+manikion	196	Manikion		mnx	mani1235
+burmeso	197	Burmeso		bzu	burm1264
+isaka	198	I'saka		ksi	kris1246
+skou	199	Skou		skv	nucl1634
+wutung	200	Wutung		wut	wutu1244
+warapu	201	Warapu		wra	wara1302
+vanimo	202	Vanimo		vam	vani1248
+bukiyip	203	Bukiyip		ape	buki1249
+mufian	204	Mufian		aoj	mufi1238
+kombio	205	Kombio		xbi	komb1272
+kamasau	206	Kamasau		kms	kama1367
+au	207	Au		avt	auuu1241
+urim	208	Urim		uri	urim1252
+naasioi	209	Naasioi		nas	naas1242
+koromira	210	Koromira		kqj	koro1313
+terei	211	Terei		buo	tere1278
+siwai	212	Siwai		siw	siwa1245
+sibe	213	Sibe		nco	sibe1248
+english	214	English		eng	stan1293
+rapoisi	215	Rapoisi		kyx	rapo1238
+rotokas	216	Rotokas		roo	roto1249
+abau	217	Abau		aau	abau1245
+sepik-iwam	218	Sepik Iwam		iws	sepi1255
+mende	219	Mende		sim	mend1268
+kwoma	220	Kwoma		kmo	kwom1262
+awtuw	221	Awtuw		kmn	awtu1239
+kapriman	222	Kapriman		dju	kapr1245
+alamblak	223	Alamblak		amp	alam1246
+hewa	224	Hewa		ham	hewa1241
+yessan-mayo	225	Yessan-Mayo		yss	yess1239
+mehek	226	Mehek		nux	mehe1243
+namia	227	Namia		nnm	nami1256
+yahadian	228	Yahadian		ner	yaha1248
+puragi	229	Puragi		pru	pura1253
+kokoda	230	Kokoda		xod	koko1265
+mansim	231	Mansim		had	hata1243
+hatam	232	Hatam		had	hata1243
+toaripi	233	Toaripi		tqo	toar1246
+orokolo	234	Orokolo		oro	orok1267
+fuyug	235	Fuyug		fuy	fuyu1242
+biangai	236	Biangai		big	bian1252
+kunimaipa	237	Kunimaipa		kup	kuni1267
+kaki-ae	238	Kaki Ae		tbd	kaki1249
+kamula	239	Kamula		xla	kamu1260
+kiwai-northeast	240	Kiwai, Northeast		kiw	nort2930
+kiwai-southern	241	Kiwai, Southern		kjd	sout2949
+koitabu	242	Koitabu		kqi	koit1244
+wipim	243	Wipim		gdr	wipi1242
+meriam	244	Meriam		ulk	meri1244
+kalam	245	Kalam		kmh	kala1397
+takia	246	Takia		tbc	taki1248
+waskia	247	Waskia		wsk	wask1241
+nakanai	248	Nakanai		nak	naka1262
+mandarin	249	Mandarin		cmn	mand1415
+awiakay	250	Awiakay			zyud1238
+hindi	251	Hindi		hin	hind1269
+dzongkha	252	Dzongkha		dzo	dzon1239
+kurtop	253	Kurtöp		xkz	kurt1248
+lelepa	254	Lelepa		lpa	lele1267
+standard-arabic	255	Standard Arabic	stan1318	arb	stan1318
+ingush	256	Ingush		inh	ingu1240
+chadian-spoken-arabic-nigerian	257	Chadian Spoken Arabic	Nigerian	shu	chad1249
+ende	258	Ende		end	ende1235
+dargwa-icari	259	Dargwa	Icari	dar	darg1241
+turkish	260	Turkish		tur	nucl1301
+angolar	261	Angolar		aoa	ango1258
+persian-farsi-tehrani	262	Persian (Farsi)	Tehrani	pes	west2369
+nigerian-pidgin	263	Nigerian Pidgin		pcm	nige1257
+moroccan-arabic	264	Moroccan Arabic		ary	moro1292
+bantawa	265	Bantawa		bap	bant1281
+ndyuka	267	Ndyuka		djk	ndyu1242
+egyptian-spoken-arabic-cairene	268	Egyptian Spoken Arabic	Cairene	arz	egyp1253
+koasati	269	Koasati		cku	koas1236
+modern-hebrew	270	Modern Hebrew		heb	hebr1245
+north-levantine-arabic-damascene	271	North Levantine Arabic	Damascene	apc	nort3139
+mbugu-inner	272	Mbugu	Inner	mhd	mbug1240
+mbugu-normal	273	Mbugu	Normal	mhd	mbug1240
+abkhaz	274	Abkhaz		abk	abkh1244
+sunwar-saipu	275	Sunwar	Saipu	suz	sunw1242
+basque-standard	276	Basque	Standard	eus	basq1248
+tschangla	277	Tshangla		tsj	tsha1245
+lepcha	278	Lepcha		lep	lepc1244
+gulf-arabic	279	Gulf Arabic		afb	gulf1241
+somali	280	Somali		som	soma1255
+tuvaluan	281	Tuvaluan		tvl	tuva1244
+savosavo	282	Savosavo		svs	savo1255
+chimariko	283	Chimariko		cid	chim1301
+bullom-so	284	Bullom So		buy	bull1247
+old-hittite	285	Old Hittite		oht	hitt1242
+manchu	286	Manchu		mnc	manc1252
+totonac-misantla	287	Totonac	Misantla	tlc	yecu1235
+kwaza	288	Kwaza		xwa	kwaz1243
+wappo	289	Wappo		wao	wapp1239
+ao-naga	290	Ao Naga	Mongsen	njo	aona1235
+kurukh	291	Kurukh		kru	kuru1302
+brahui	292	Brahui		brh	brah1256
+arbore	293	Arbore		arv	arbo1245
+koya	294	Koya		kff	koya1251
+hausa	295	Hausa		hau	haus1257
+iraqw	297	Iraqw		irk	iraq1241
+slavey	298	Slavey		den	slav1253
+finnish	299	Finnish		fin	finn1318
+adamawa-fulani	300	Adamawa Fulani		fub	adam1253
+maithili	301	Maithili		mai	mait1250
+sarcee	302	Sarcee		srs	sars1236
+khmer-central	303	Khmer	Central	khm	cent1989
+anong	304	Anong		nun	nung1282
+swedish	306	Swedish		swe	swed1254
+hungarian	307	Hungarian		hun	hung1274
+cupeno	308	Cupeño		cup	cupe1243
+morisyen	309	Morisyen		mfe	mori1278
+warao	310	Warao		wba	wara1303
+jamamadi-jarawara	311	Jamamadí	Jarawara	jaa	jama1261
+crow	312	Crow		cro	crow1244
+inuktitut-west-greenlandic	313	Inuktitut	West Greenlandic	kal	kala1399
+pipil	314	Pipil		ppl	pipi1250
+kaingang	315	Kaingang		kgp	kain1272
+pashto-northern	316	Pashto	Northern	pbu	nort2646
+ngarinman-bilinara-pilinara	317	Ngarinman	Bilinara (Pilinara)	nbj	ngar1235
+hixkaryana	318	Hixkaryána		hix	hixk1239
+anindilyakwa	319	Anindilyakwa		aoi	anin1240
+northern-pumi-northwest-yunnan	320	Northern Pumi	Northwest Yunnan	pmi	nort2723
+neverver	321	Neverver		lgk	ling1265
+cantonese	322	Cantonese		yue	yuec1235
+warungu	323	Warungu		wrg	waru1264
+kimaghima	324	Kimaghima		kig	kima1246
+riantana	325	Riantana		ran	rian1263
+ndom	326	Ndom		nqm	ndom1245
+mombum-mso	327	Mombum		mso	nucl1452
+mandobo	329	Mandobo		aax	mand1444
+aghu	330	Aghu		ahh	aghu1255
+asue-awyu	331	Asue Awyu		psa	asue1235
+south-awyu	332	South Awyu		aws	sout2941
+edera-awyu	333	Edera Awyu		awy	eder1237
+ute-southern-paiute	334	Ute-Southern Paiute		ute	utes1238
+itza	337	Itza'		itz	itza1241
+choctaw	338	Choctaw		cho	choc1276
+yimas	339	Yimas		yee	yima1243
+awa	340	Awa		awb	awap1236
+usarufa	341	Usarufa		usa	usar1243
+gadsup	342	Gadsup		gaj	gads1258
+tairora-north	343	Tairora, North		tbg	nort2920
+gende	344	Gende		gaf	gend1249
+alekano	345	Alekano		gah	alek1238
+badimaya-northern	346	Badimaya	Northern	bia	badi1246
+badimaya-southern	347	Badimaya	Southern	bia	badi1246
+nhanda	348	Nhanda		nha	nhan1238
+jaminjung	349	Jaminjung		djd	djam1255
+diyari	350	Diyari		dif	dier1241
+kele	351	Kele		sbc	kele1258
+mussau-emira	352	Mussau-Emira		emi	muss1246
+sobei	353	Sobei		sob	sobe1238
+kairiru	354	Kairiru		kxa	kair1263
+arop-lokep	355	Arop-Lokep		apr	arop1243
+yabem	356	Yabem		jae	yabe1254
+gapapaiwa	357	Gapapaiwa		pwg	gapa1238
+sudest	358	Sudest		tgo	sude1239
+indonesian-colloquial-jakartan	359	Indonesian	Colloquial Jakartan	ind	indo1316
+south-efate	360	South Efate		erk	sout2856
+kokota	361	Kokota		kkk	koko1269
+mavea	362	Mavea		mkv	mafe1237
+iraqi-arabic	363	Iraqi Arabic		acm	meso1252
+kiowa	364	Kiowa		kio	kiow1266
+kaonde	365	Kaonde		kqn	kaon1241
+mongolian-halh	366	Mongolian	Halh	khk	halh1238
+amharic	367	Amharic		amh	amha1245
+turkmen	368	Turkmen		tuk	turk1304
+kawaiisu	369	Kawaiisu		xaw	kawa1283
+tswana	370	Tswana		tsn	tswa1253
+yoruba	371	Yoruba		yor	yoru1245
+tauya	372	Tauya		tya	tauy1241
+north-marquesan	373	North Marquesan		mrq	nort2845
+kham-western-parbate-takale	374	Kham (Western Parbate)	Takale	kjl	west2420
+ket	375	Ket		ket	kett1243
+panare	379	Panare		pbh	enap1235
+tariana	380	Tariana		tae	tari1256
+jamaican-creole-english-london	381	Jamaican Creole English	London	jam	jama1262
+paraguayan-guarani	382	Paraguayan Guaraní		gug	para1311
+urdu	383	Urdu		urd	urdu1245
+berbice-dutch-creole	384	Berbice Dutch Creole		brc	berb1259
+saotomense	385	Sãotomense		cri	saot1239
+antigua-and-barbuda-creole-english-north-antiguan	386	Antigua and Barbuda Creole English	North Antiguan	aig	anti1245
+antigua-and-barbuda-creole-english-south-antiguan	387	Antigua and Barbuda Creole English	South Antiguan	aig	anti1245
+seselwa-creole-french	388	Seselwa Creole French		crs	sese1246
+iwaidja	389	Iwaidja	Iwaidja	ibd	iwai1244
+yukulta	390	Yukulta		gcd	gang1267
+torau	391	Torau		ttu	tora1259
+teop	392	Teop		tio	teop1238
+bannoni	393	Bannoni		bcm	bann1247
+mono	394	Mono		mte	mono1273
+cubeo	395	Cubeo		cub	cube1242
+yanomama	396	Yanomama		yma	yano1262
+greek	397	Greek		ell	mode1248
+malay	398	Malay		zlm	mala1479
+rapa-nui	399	Rapa Nui		rap	rapa1244
+sinaugoro	400	Sinaugoro		snc	sina1266
+big-nambas	402	Big Nambas		nmb	bign1238
+ura	403	Ura		uur	urav1235
+french-st-thomas-us-virgin-islands	404	French	St. Thomas, U.S. Virgin Islands	fra	stan1290
+huallaga-huanuco-quechua	405	Huallaga Huánuco Quechua		qub	hual1241
+ratahan	406	Ratahan		rth	rata1244
+kwamera	407	Kwamera		tnk	kwam1252
+maori	408	Maori		mri	maor1246
+mangarayi	409	Mangarayi		mpc	mang1381
+vaeakau-taumako	410	Vaeakau-Taumako		piv	pile1238
+nothern-sotho	411	Nothern Sotho		nso	pedi1238
+mewati	412	Mewati		wtm	mewa1250
+lingala	413	Lingala		lin	ling1263
+chichewa	414	Chichewa		nya	nyan1308
+yeyi	415	Yeyi		yey	yeyi1239
+ekegusii	416	Ekegusii		guz	gusi1247
+dogon-tommo-so	417	Dogon, Tommo So		dto	tomm1242
+noon	420	Noon		snf	noon1242
+sranan	421	Sranan		srn	sran1240
+sumi	422	Sumi		nsm	sumi1235
+jarai	423	Jarai		jri	jara1266
+daasanach	424	Daasanach		dsh	daas1238
+east-makian-waikyon	425	East Makian	Waikyon	mky	east2440
+saint-lucian-creole-french	427	Saint Lucian Creole French		acf	sain1246
+koromfe	429	Koromfe		kfz	koro1298
+raga	430	Raga		lml	hano1246
+abma-suru-mwerani	431	Abma	Suru Mwerani	app	apma1240
+malecu	432	Malecu		gut	male1297
+guna-san-blas	433	Guna San Blas		cuk	sanb1242
+northern-embera	434	Northern Embera		emp	nort2972
+bribri	435	Bribri		bzd	brib1243
+cabecar	436	Cabecar		cjp	cabe1245
+boruca	437	Boruca		brn	boru1252
+teribe	438	Teribe		trf	trin1276
+buglere-sabanero	439	Buglere	sabanero	sab	bugl1243
+ngabere	440	Ngäbere		gym	ngab1239
+kuna	441	Kuna		kvn	bord1248
+rama	442	Rama		rma	rama1270
+pech	443	Pech		pay	pech1241
+cogui	444	Cogui		kog	cogu1240
+arhuaco	445	Arhuaco		arh	arhu1242
+damana	446	Damana		mbp	mala1522
+chimila	447	Chimila		cbg	chim1309
+bari	448	Bari		mot	bari1297
+chibcha	449	Chibcha		chb	chib1270
+tunebo-central	450	Tunebo Central		tuf	cent2150
+embera-chami	451	Embera-Chamí		cmi	embe1262
+epena	452	Epena		sja	epen1239
+embera-catio	453	Embera-Catío		cto	embe1260
+woun-meu	454	Woun Meu		noa	woun1238
+ekari-mee	455	Ekari	Mee	ekg	ekar1243
+laz	456	Laz			lazz1240
+mayangna	457	Mayangna		yan	maya1285
+ulwa	458	Ulwa		ulw	ulwa1239
+miskito	459	Miskito		miq	misk1235
+tabo	460	Tabo		knv	tabo1241
+triqui-san-copala	461	Triqui San Copala		trc	copa1237
+tol	462	Tol		jic	toll1241
+xinca-guazacapan	463	Xinca-Guazacapan		xin	xinc1246
+xinca-chiquimulilla	464	Xinca-Chiquimulilla		xin	xinc1242
+xinca-yupiltepeque	466	Xinca-Yupiltepeque		xin	xinc1243
+xinca-jumaytepeque	467	Xinca-Jumaytepeque		xin	xink1235
+tojolabal	468	Tojolabal		toj	tojo1241
+baure	469	Baure		brg	baur1253
+guarayu	470	Guarayu		gyr	guar1292
+paunaca	471	Paunaca			paun1241
+shawi	472	Shawi		cbt	chay1248
+yagua	473	Yagua		yad	yagu1244
+bora	474	Bora		boa	bora1263
+awa-cuaiquer	475	Awa-Cuaiquer		kwi	awac1239
+inga	476	Inga		inb	inga1252
+carijona	477	Carijona		cbd	cari1279
+siona	478	Siona		snn	sion1247
+ocaina	479	Ocaina		oca	ocai1244
+muinane	480	Muinane		bmr	muin1242
+siriano	481	Siriano		sri	siri1274
+tuyuca	482	Tuyuca		tue	tuyu1244
+yuruti	483	Yurutí		yui	yuru1263
+macaguan	484	Macaguán		mbn	maca1259
+achagua	485	Achagua		aca	acha1250
+curripaco	486	Curripaco		kpc	curr1243
+piapoco	487	Piapoco		pio	piap1246
+piaroa	488	Piaroa		pid	piar1243
+wayuu	489	Wayuu		guc	wayu1243
+bare	490	Baré		bae	bare1276
+embera-baudo	491	Emberá-Baudó		bdc	embe1259
+nadeb	492	Nadëb		mbj	nade1244
+daw	493	Dâw		kwa	daww1239
+yuhup	494	Yuhup		yab	yuhu1238
+hupde	495	Hupdë		jup	hupd1244
+kakua	496	Kakua		cbv	cacu1241
+nukak-maku	497	Nukak Makú		mbr	nuka1242
+yucuna	498	Yucuna		ycn	yucu1253
+tsafiki	499	Tsafiki		cof	colo1256
+murui-huitoto	500	Murui Huitoto		huu	muru1274
+kotiria	501	Kotiria		gvc	guan1269
+tinigua	502	Tinigua		tit	tini1245
+cabiyari	503	Cabiyarí		cbb	cabi1241
+chapalaati	504	Chachi		cbi	chac1249
+yukpa	505	Yukpa		yup	yukp1241
+guahibo	506	Guahibo		guh	guah1255
+guayabero	507	Guayabero		guo	guay1257
+camsa	508	Camsá		kbh	cams1241
+resigaro	509	Resígaro		rgr	resi1247
+mandahuaca	510	Mandahuaca		mht	mand1448
+guambiano	511	Guambiano		gum	guam1248
+saliba	512	Sáliba		slc	sali1298
+maco	513	Maco		wpc	maco1239
+yuwana	514	Yuwana		yau	yuwa1244
+tucano	515	Tucano		tuo	tuca1252
+paez	516	Páez		pbb	paez1247
+shona	518	Shona		sna	shon1251
+igbo	519	Igbo		ibo	nucl1417
+zulu	520	Zulu		zul	zulu1248
+balanta-kentohe	521	Balanta-Kentohe		ble	bala1301
+bijago	522	Bijago		bjg	bidy1244
+west-central-limba	523	West-Central Limba		lia	west2450
+themne	524	Themne		tem	timn1235
+baga-sitemu	525	Baga Sitemu		bsp	baga1272
+nalu	527	Nalu		naj	nalu1240
+sua	528	Sua		msw	mans1259
+jola-kasa-husuy	529	Jola-Kasa	Husuy	csk	jola1262
+kuwaataay-diembering	530	Kuwaataay	Diembering	cwt	kuwa1246
+cassanga	531	Cassanga		ccj	kasa1248
+cobiana	532	Cobiana		kcj	kobi1241
+banhum	533	Banhum		bab	bain1259
+biafada	534	Biafada		bif	biaf1240
+pajade	535	Pajade		pbp	bady1239
+konyagi	536	Konyagi		cou	wame1240
+tanda	537	Tanda		tnr	bedi1235
+karon	538	Karon		krx	karo1294
+kupang-malay	539	Kupang Malay		mkn	kupa1239
+ndut	540	Ndut		ndv	ndut1239
+wolof	541	Wolof		wol	nucl1347
+engenni	542	Engenni		enn	enge1239
+daloa-bete	544	Daloa Bété		bev	dalo1238
+southern-grebo	545	Southern Grebo		grj	sout2826
+ega	546	Ega		ega	egaa1242
+ewe	547	Ewe		ewe	ewee1241
+aja	548	Aja		ajg	ajab1235
+tafi	549	Tafi		tcd	tafi1243
+akebu	550	Akebu		keu	akeb1238
+tuwuli	551	Tuwuli		bov	tuwu1238
+adioukrou	552	Adioukrou		adj	adio1239
+attie	553	Attié		ati	atti1239
+alladian	554	Alladian		ald	alla1248
+ga	555	Ga		gaa	gaaa1244
+mbato	556	Mbato		gwa	mbat1247
+lelemi	557	Lelemi		lef	lele1264
+logba	558	Logba	Alakpeti	lgq	logb1245
+akan	559	Akan		aka	akan1250
+nawuri	560	Nawuri		naw	nawu1242
+krobu	561	Krobu		kxb	krob1245
+abure	562	Abure		abu	abur1243
+bakwe	563	Bakwé		bjw	bakw1243
+banda-ndele	564	Banda-Ndélé		bfl	band1345
+gbaya-mbodomo	565	Gbaya-Mbodomo		gmm	gbay1281
+ngbandi	566	Ngbandi		ngb	nort2774
+mayogo	567	Mayogo		mdm	mayo1261
+zande	568	Zande		zne	zand1248
+mambay	569	Mambay		mcs	mamb1294
+mumuye-zing	570	Mumuye	Zing	mzm	nucl1240
+dii-mambe	571	Dii	Mambe'	dur	diii1241
+kolbila	572	Kolbila		klc	kolb1240
+fali	573	Fali		fal	sout2782
+tula	574	Tula		tul	tula1252
+dogon-jamsay	575	Dogon, Jamsay		djm	jams1239
+buamu	576	Buamu		box	buam1238
+makwe	578	Makwe		ymk	makw1236
+fulfulde-maasina	579	Fulfulde, Maasina		ffm	maas1239
+konni	580	Konni		kma	konn1242
+gourmanchema	581	Gourmanchéma		gux	gour1243
+gangam	582	Gangam		gng	ngan1299
+karaboro-eastern	583	Karaboro, Eastern		xrb	east2398
+senoufo-supyire	584	Sénoufo, Supyire		spp	supy1237
+viemo	585	Viemo		vig	viem1243
+toussian-northern	586	Toussian, Northern		tsp	nort2787
+tiefo	587	Tiéfo		tiq	tief1242
+wara	588	Wara		wbf	wara1294
+kulango-bouna	589	Kulango, Bouna		nku	boun1243
+bariba	590	Bariba		bba	baat1238
+lobi	591	Lobi		lob	lobi1245
+yom	592	Yom		pli	pali1273
+farefare	593	Farefare		gur	fare1241
+dagaare	594	Dagaare		dga	sout2789
+mampruli	595	Mampruli		maw	mamp1244
+nateni	596	Nateni		ntm	nate1242
+mbelimbe	597	Mbelimbe		mql	mbel1240
+akpes	598	Akpes		ibe	akpe1248
+esan	599	Esan		ish	esan1238
+samba-daka	600	Samba Daka		ccg	samb1311
+kwanja-njanga	601	Kwanja	Njanga	knp	kwan1276
+nizaa	602	Nizaa		sgi	suga1248
+tikar	603	Tikar		tik	tika1246
+kemedzung	604	Kemedzung		dmo	keme1240
+ejagham	605	Ejagham		etu	ejag1239
+izere-fobur	606	Izere	Fobur	izr	izer1241
+denya	607	Denya		anv	deny1238
+noone	609	Noone		nhu	noon1243
+bekwarra	610	Bekwarra		bkv	bekw1241
+bete-bendi	611	Bete-Bendi		btt	bete1262
+ndoe	612	Ndoe		nbb	ndoe1238
+mungbam-munken	613	Mungbam	Munken	mij	abar1238
+mungbam-abar	614	Mungbam	Abar	mij	abar1238
+mungbam-biya	615	Mungbam	Biya	mij	abar1238
+mungbam-missong	616	Mungbam	Missong	mij	abar1238
+mungbam-ngun	617	Mungbam	Ngun	mij	abar1238
+arammba-setavi	618	Arammba	Setavi	stk	aram1253
+wara_morehead	619	Wára		tci	wara1294
+kancha	620	Kánchá		pep	kunj1246
+ranmo	621	Ránmo		bfh	blaf1238
+nama	622	Nama		nmx	nama1266
+dre	623	Dre			dree1234
+namo-tais	624	Namo	Tais	mxw	namo1246
+keo-udiworowatu	625	Keo	Udiworowatu	xxk	keoo1238
+indonesian-standard	626	Indonesian	Standard	ind	indo1316
+ngiti-icr-lb	627	Ngiti-ICR-LB		niy	ngit1239
+mundari-icr-lb	628	Mundari-ICR-LB		unr	mund1320
+mekens-icr-lb	629	Mekens-ICR-LB		skf	saki1248
+ngiti_icr_wb	630	ngiti_ICR_WB			ngit1239
+cora-icr-wb	631	Cora-ICR-WB			elna1235
+mekens-icr-wb	632	Mekens-ICR-WB		skf	saki1248
+welsh-icr-kq	633	Welsh-ICR-KQ		cym	wels1247
+mundari-icr-kq	634	Mundari-ICR-KQ		unr	mund1320
+cora-icr-kq	635	Cora - ICR - KQ		crn	elna1235
+cora_icr_tcc	636	cora_ICR_TCC			elna1235
+cora_icr_tcc_2	637	cora_ICR_TCC_2			elna1235
+mekens_icr_tcc	638	Mekens_ICR_TCC		skf	saki1248
+mundari_icr_tcc	639	Mundari_ICR_TCC		unr	mund1320
+welsh-icr-ne	640	Welsh-ICR-NE			wels1247
+burarra	641	Burarra		bvr	bura1267
+ngiti_icr_tcc	642	ngiti_ICR_TCC			ngit1239
+icr-welsh-rh	643	ICR-Welsh-RH		cym	wels1247
+burarra-icr-rh	644	Burarra-ICR-RH		bvr	bura1267
+mekens-icr-rh	645	Mekens-ICR-RH		skf	saki1248
+cora-icr-ne	646	Cora-ICR-NE			elna1235
+mpakwithi	647	Mpakwithi		awg	angu1242
+yadhaykenu	648	Yadhaykenu		urf	yadh1237
+gamilaraay	649	Gamilaraay		kld	gami1243
+malay-alor	650	Malay	Alor		alor1252
+malay-kupang	651	Malay	Kupang	mkn	kupa1239
+malay-ambon	652	Malay	Ambon	abs	ambo1250
+malay-north-moluccan	653	Malay	North-Moluccan	max	nort2828
+malay-manado	654	Malay	Manado	xmm	mala1481
+malay-banda	655	Malay	Banda	bpq	band1353
+malay-larantuka	656	Malay	Larantuka	lrt	lara1260
+malay-papua	657	Malay	Papua	pmy	papu1250
+kafoa	658	Kafoa		kpu	kafo1240
+rongga	659	Rongga		ror	rong1269
+neveei	660	Neve'ei		vnm	vinm1237
+bukawa	661	Bukawa			buga1250
+mpur	662	Mpur		akc	mpur1239
+numanggang	663	Numanggang		nop	numa1254
+wati-wati	664	Wati-Wati			wadi1260
+letyi-lejti	665	Letyi-Lejti			ladj1234
+cora-icr-lb	666	Cora-ICR-LB		crn	elna1235
+burarra-icr-lb	667	Burarra-ICR-LB		bvr	bura1267
+yir-yoront	668	Yir-Yoront		yiy	yiry1245
+kuuk-thaayorre	669	Kuuk Thaayorre			thay1249
+guugu-yimidhirr	670	Guugu Yimidhirr		kky	gugu1255
+kuuku-yau	671	Kuuku Ya'u			kuuk1238
+yidiny	672	Yidiny		yii	yidi1250
+yei	673	Yei		jei	yeii1239
+nggarna	674	Nggarna		krz	sota1242
+smerki	675	Smerki		kxq	smar1235
+achangxiandao	Achang-Xiandao xian1249.txt	Achang-Xiandao			xian1249
+achterhoeks	Achterhoeks acht1238.txt	Achterhoeks			acht1238
+acoli	Acoli acol1236.txt	Acoli			acol1236
+adzera	Adzera adze1240.txt	Adzera			adze1240
+aguaruna	Aguaruna agua1253.txt	Aguaruna			agua1253
+ahom	Ahom ahom1240.txt	Ahom			ahom1240
+aimol	Aimol aimo1244.txt	Aimol			aimo1244
+ainu	Ainu sakh1245.txt	Ainu			sakh1245
+aiton	Aiton aito1238.txt	Aiton			aito1238
+ajie	Ajie ajie1238.txt	Ajie			ajie1238
+alyawarre	Alyawarre alya1239.txt	Alyawarre			alya1239
+antakarinya	Antakarinya anta1253.txt	Antakarinya			anta1253
+assamese	Assamese assa1263.txt	Assamese			assa1263
+asuri	Asuri asur1254.txt	Asuri			asur1254
+ayiwo	Ayiwo ayiw1239.txt	Ayiwo			ayiw1239
+basay	Basay basa1287.txt	Basay			basa1287
+bikol	Bikol biko1240.txt	Bikol			biko1240
+bonan	Bonan bona1250.txt	Bonan			bona1250
+bugotu	Bugotu bugh1239.txt	Bugotu			bugh1239
+buli	Buli buli1256.txt	Buli			buli1256
+bunong	Bunong buno1240.txt	Bunong			buno1240
+buru	Buru buru1303.txt	Buru			buru1303
+centralnicobarese	Central Nicobarese cent1990.txt	Central Nicobarese			cent1990
+centralsierramiwok	Central Sierra Miwok cent2140.txt	Central Sierra Miwok			cent2140
+chrau	Chrau chra1242.txt	Chrau			chra1242
+dagur	Dagur daur1238.txt	Dagur			daur1238
+darkhat	Darkhat dark1243.txt	Darkhat			dark1243
+dongxiang	Dongxiang dong1285.txt	Dongxiang			dong1285
+dyirbal	Dyirbal dyir1250.txt	Dyirbal			dyir1250
+eastyugur	East Yugur east2337.txt	East Yugur			east2337
+futunaaniwa	Futuna-Aniwa futu1245.txt	Futuna-Aniwa			futu1245
+giramay	Giramay girr1240.txt	Giramay			girr1240
+gorumparenga	Gorum-Parenga pare1266.txt	Gorum-Parenga			pare1266
+hawaiian	Hawaiian hawa1245.txt	Hawaiian			hawa1245
+hoava	Hoava hoav1238.txt	Hoava			hoav1238
+hupdownriver	Hup downriver hupy1235.txt	Hup downriver			hupd1244
+hupumarinorte	Hup umari norte hupy1235.txt	Hup umari norte			hupd1244
+iloko	Iloko ilok1237.txt	Iloko			ilok1237
+jad	Jad jadd1243.txt	Jad			jadd1243
+jadgali	Jadgali jadg1238.txt	Jadgali			jadg1238
+jaunsari	Jaunsari jaun1243.txt	Jaunsari			jaun1243
+jinhgpaw	Jinhgpaw nort3288.txt	Jinhgpaw			nort3288
+kilivila	Kilivila kili1267.txt	Kilivila			kili1267
+kusaghe	Kusaghe kusa1251.txt	Kusaghe			kusa1251
+lemetingbelait	Lemeting (Belait) bela1260.txt	Lemeting (Belait)			bela1260
+motu	Motu motu1246.txt	Motu			motu1246
+phake	Phake phak1238.txt	Phake			phak1238
+shinekhanburyat	Shinekhan Buryat chin1476.txt	Shinekhan Buryat			chin1476
+westernbukidnonmanabo	Western Bukidnon Manabo west2555.txt	Western Bukidnon Manabo			west2555
+windesi	Windesi wind1244.txt	Windesi			wind1244
+woleaian	Woleaian wole1240.txt	Woleaian			wole1240
+wolio	Wolio woli1241.txt	Wolio			woli1241
+yuracare	Yuracare yura1255.txt	Yuracare			yura1255
+kriol	Barunga Kriol krio1252.txt	Kriol	Barunga		krio1252

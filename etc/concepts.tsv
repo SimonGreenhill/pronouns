@@ -1,0 +1,77 @@
+ID	Slug	LocalID	Name	English	Alignment	Person	GrammaticalNumber	Gender	Sequence
+1	2pl_a	100	100	2nd Person Plural	A	2	pl		29
+2	2pl_s	101	101	2nd Person Plural	S	2	pl		30
+3	2pl_o	102	102	2nd Person Plural	O	2	pl		31
+4	2pl_p	103	103	2nd Person Plural	P	2	pl		32
+5	3sg_m_a	104	104	3rd Person Singular Masculine	A	3	sg	M	33
+6	3sg_m_s	105	105	3rd Person Singular Masculine	S	3	sg	M	34
+7	3sg_m_o	106	106	3rd Person Singular Masculine	O	3	sg	M	35
+8	3sg_m_p	107	107	3rd Person Singular Masculine	P	3	sg	M	36
+9	3sg_f_a	108	108	3rd Person Singular Feminine	A	3	sg	F	
+10	3sg_f_s	109	109	3rd Person Singular Feminine	S	3	sg	F	
+11	3sg_f_o	110	110	3rd Person Singular Feminine	O	3	sg	F	
+12	3sg_f_p	111	111	3rd Person Singular Feminine	O	3	sg	F	
+13	3sg_n_a	112	112	3rd Person Singular Neuter	A	3	sg	N	41
+14	3sg_n_s	113	113	3rd Person Singular Neuter	S	3	sg	N	42
+15	3sg_n_o	114	114	3rd Person Singular Neuter	O	3	sg	N	43
+16	3sg_n_p	115	115	3rd Person Singular Neuter	P	3	sg	N	44
+17	3du_m_a	116	116	3rd Person Dual Masculine	A	3	du	M	
+18	3du_m_s	117	117	3rd Person Dual Masculine	S	3	du	M	
+19	3du_m_o	118	118	3rd Person Dual Masculine	O	3	du	M	
+20	3du_m_p	119	119	3rd Person Dual Masculine	P	3	du	M	
+21	3du_f_a	120	120	3rd Person Dual Feminine	A	3	du	F	
+22	3du_f_s	121	121	3rd Person Dual Feminine	S	3	du	F	
+23	3du_f_o	122	122	3rd Person Dual Feminine	O	3	du	F	
+24	3du_f_p	123	123	3rd Person Dual Feminine	P	3	du	F	
+25	3du_n_a	124	124	3rd Person Dual Neuter	A	3	du	N	
+26	3du_n_s	125	125	3rd Person Dual Neuter	S	3	du	N	
+27	3du_n_o	126	126	3rd Person Dual Neuter	O	3	du	N	
+28	3du_n_p	127	127	3rd Person Dual Neuter	P	3	du	N	
+29	3pl_m_a	128	128	3rd Person Plural Masculine	A	3	pl	M	
+30	3pl_m_s	129	129	3rd Person Plural Masculine	S	3	pl	M	
+31	3pl_m_o	130	130	3rd Person Plural Masculine	O	3	pl	M	
+32	3pl_m_p	131	131	3rd Person Plural Masculine	P	3	pl	M	
+33	3pl_f_a	132	132	3rd Person Plural Feminine	A	3	pl	F	
+34	3pl_f_s	133	133	3rd Person Plural Feminine	S	3	pl	F	
+35	3pl_f_o	134	134	3rd Person Plural Feminine	O	3	pl	F	
+36	3pl_f_p	135	135	3rd Person Plural Feminine	P	3	pl	F	
+37	3pl_n_a	136	136	3rd Person Plural Neuter	A	3	pl	N	
+38	3pl_n_s	137	137	3rd Person Plural Neuter	S	3	pl	N	
+39	3pl_n_o	138	138	3rd Person Plural Neuter	O	3	pl	N	
+40	3pl_n_p	139	139	3rd Person Plural Neuter	P	3	pl	N	
+41	3d-a	140	140	3rd Person Dual	A	3	du		45
+42	3d-s	141	141	3rd Person Dual	S	3	du		46
+43	3d-o	142	142	3rd Person Dual	O	3	du		47
+44	3d-p	143	143	3rd Person Dual	P	3	du		48
+45	3p-a	144	144	3rd Person Plural	A	3	pl		57
+46	3p-s	145	145	3rd Person Plural	S	3	pl		58
+47	3p-o	146	146	3rd Person Plural	O	3	pl		59
+48	3p-p	147	147	3rd Person Plural	P	3	pl		60
+49	1sg_a	72	72	1st (excl) Person Singular	A	1	sg		1
+50	1sg_s	73	73	1st (excl) Person Singular	S	1	sg		2
+51	1sg_o	74	74	1st (excl) Person Singular	O	1	sg		3
+52	1sg_p	75	75	1st (excl) Person Singular	P	1	sg		4
+53	1du_a	76	76	1st (excl) Person Dual	A	1	du		5
+54	1du_s	77	77	1st (excl) Person Dual	S	1	du		6
+55	1du_o	78	78	1st (excl) Person Dual	O	1	du		7
+56	1du_p	79	79	1st (excl) Person Dual	P	1	du		8
+57	1pl_a	80	80	1st (excl) Person Plural	A	1	pl		9
+58	1pl_s	81	81	1st (excl) Person Plural	S	1	pl		10
+59	1pl_o	82	82	1st (excl) Person Plural	O	1	pl		11
+60	1pl_p	83	83	1st (excl) Person Plural	P	1	pl		12
+61	12du_a	84	84	1st (incl) Person Dual	A	12	du		13
+62	12du_s	85	85	1st (incl) Person Dual	S	12	du		14
+63	12du_o	86	86	1st (incl) Person Dual	O	12	du		15
+64	12du_p	87	87	1st (incl) Person Dual	P	12	du		16
+65	12pl_a	88	88	1st (incl) Person Plural	A	12	pl		17
+66	12pl_s	89	89	1st (incl) Person Plural	S	12	pl		18
+67	12pl_o	90	90	1st (incl) Person Plural	O	12	pl		19
+68	12pl_p	91	91	1st (incl) Person Plural	P	12	pl		20
+69	2sg_a	92	92	2nd Person Singular	A	2	sg		21
+70	2sg_s	93	93	2nd Person Singular	S	2	sg		22
+71	2sg_o	94	94	2nd Person Singular	O	2	sg		23
+72	2sg_p	95	95	2nd Person Singular	P	2	sg		24
+73	2du_a	96	96	2nd Person Dual	A	2	du		25
+74	2du_s	97	97	2nd Person Dual	S	2	du		26
+75	2du_o	98	98	2nd Person Dual	O	2	du		27
+76	2du_p	99	99	2nd Person Dual	P	2	du		28

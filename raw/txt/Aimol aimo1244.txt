@@ -1,0 +1,49 @@
+word;ipa;parameter;description;alternative;comment;translation;glottocode;source
+kəi;;1sg_a;1st singular transitive subject;;;;aimo1244;Singh2010
+kəi;;1sg_s;1st singular intransitive subject;;;;aimo1244;Singh2010
+kəi;;1sg_o;1st singular transitive object;;;;aimo1244;Singh2010
+kə-;;1sg_p;1st singular possessive;;;;aimo1244;Singh2010
+kəni;;12du_a;1st dual inclusive transitive subject;;;;aimo1244;Singh2010
+kəni;;12du_s;1st dual inclusive intransitive subject;;;;aimo1244;Singh2010
+kəni;;12du_o;1st dual inclusive transitive object;;;;aimo1244;Singh2010
+kən-;;12du_p;1st dual inclusive possessive;;;;aimo1244;Singh2010
+əini;;1du_a;1st dual exclusive transitive subject;;;;aimo1244;Singh2010
+əini;;1du_s;1st dual exclusive intransitive subject;;;;aimo1244;Singh2010
+əini;;1du_o;1st dual exclusive transitive object;;;;aimo1244;Singh2010
+ni-;;1du_p;1st dual exclusive possessive;;;;aimo1244;Singh2010
+kəni;;12pl_a;1st plural inclusive transitive subject;;;;aimo1244;Singh2010
+kəni;;12pl_s;1st plural inclusive intransitive subject;;;;aimo1244;Singh2010
+kəni;;12pl_o;1st plural inclusive transitive object;;;;aimo1244;Singh2010
+kən-;;12pl_p;1st plural inclusive possessive;;;;aimo1244;Singh2010
+əini;;1pl_a;1st plural exclusive transitive subject;;;;aimo1244;Singh2010
+əini;;1pl_s;1st plural exclusive intransitive subject;;;;aimo1244;Singh2010
+əini;;1pl_o;1st plural exclusive transitive object;;;;aimo1244;Singh2010
+ni-;;1pl_p;1st plural exclusive possessive;;;;aimo1244;Singh2010
+neŋ;;2sg_a;2nd singular transitive subject;;;;aimo1244;Singh2010
+neŋ;;2sg_s;2nd singular intransitive subject;;;;aimo1244;Singh2010
+neŋ;;2sg_o;2nd singular transitive object;;;;aimo1244;Singh2010
+ne-;;2sg_p;2nd singular possessive;;;;aimo1244;Singh2010
+neŋni;;2du_a;2nd dual transitive subject;;;;aimo1244;Singh2010
+neŋni;;2du_s;2nd dual intransitive subject;;;;aimo1244;Singh2010
+neŋni;;2du_o;2nd dual transitive object;;;;aimo1244;Singh2010
+nen-;;2du_p;2nd dual possessive;;;;aimo1244;Singh2010
+neŋni;;2pl_a;2nd plural transitive subject;;;;aimo1244;Singh2010
+neŋni;;2pl_s;2nd plural intransitive subject;;;;aimo1244;Singh2010
+neŋni;;2pl_o;2nd plural transitive object;;;;aimo1244;Singh2010
+nen-;;2pl_p;2nd plural possessive;;;;aimo1244;Singh2010
+əma;;3sg_m_a;3rd singular gender1 transitive subject;;;;aimo1244;Singh2010
+əma;;3sg_m_s;3rd singular gender1 intransitive subject;;;;aimo1244;Singh2010
+əma;;3sg_m_o;3rd singular gender1 transitive object;;;;aimo1244;Singh2010
+ə-;;3sg_m_p;3rd singular gender1 possessive;;;;aimo1244;Singh2010
+əma;;3sg_f_a;3rd singular gender2 transitive subject;;;;aimo1244;Singh2010
+əma;;3sg_f_s;3rd singular gender2 intransitive subject;;;;aimo1244;Singh2010
+əma;;3sg_f_o;3rd singular gender2 transitive object;;;;aimo1244;Singh2010
+ə-;;3sg_f_p;3rd singular gender2 possessive;;;;aimo1244;Singh2010
+ənmani;;3d-a;3rd dual transitive subject;;;;aimo1244;Singh2010
+əmani;;3d-s;3rd dual intransitive subject;;;;aimo1244;Singh2010
+ənmani;;3d-o;3rd dual transitive object;;;;aimo1244;Singh2010
+əŋ-;;3d-p;3rd dual possessive;;;;aimo1244;Singh2010
+ənmani;;3p-a;3rd plural transitive subject;;;;aimo1244;Singh2010
+ənmani;;3p-s;3rd plural intransitive subject;;;;aimo1244;Singh2010
+ənmani;;3p-o;3rd plural transitive object;;;;aimo1244;Singh2010
+əŋ-;;3p-p;3rd plural possessive;;;;aimo1244;Singh2010

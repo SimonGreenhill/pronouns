@@ -1,0 +1,49 @@
+word;ipa;parameter;description;alternative;comment;translation;glottocode;source
+ŋaiulu;;1sg_a;1st singular transitive subject;;;;anta1253;BerndtBerndt1942
+ŋaiulu;;1sg_s;1st singular intransitive subject;;The authors note "A dual inclusive was found for the first person, but no dual exclusive could be discovered." p58. Therefore the plural form ahs been entered here for 1du.excl.;;anta1253;BerndtBerndt1942
+ŋaina;;1sg_o;1st singular transitive object;;Third person "balaru" is also a demonstrative.;;anta1253;BerndtBerndt1942
+ŋaiugu;;1sg_p;1st singular possessive;;;;anta1253;BerndtBerndt1942
+nuːraņaːli;;12du_a;1st dual inclusive transitive subject;;;;anta1253;BerndtBerndt1942
+nuːraņaːli;;12du_s;1st dual inclusive intransitive subject;;;;anta1253;BerndtBerndt1942
+#;;12du_o;1st dual inclusive transitive object;;;;anta1253;
+#;;12du_p;1st dual inclusive possessive;;;;anta1253;
+#;;1du_a;1st dual exclusive transitive subject;;;;anta1253;
+#;;1du_s;1st dual exclusive intransitive subject;;;;anta1253;
+#;;1du_o;1st dual exclusive transitive object;;;;anta1253;
+#;;1du_p;1st dual exclusive possessive;;;;anta1253;
+ŋaːli;;12pl_a;1st plural inclusive transitive subject;;;;anta1253;BerndtBerndt1942
+ŋaːli;;12pl_s;1st plural inclusive intransitive subject;;;;anta1253;BerndtBerndt1942
+ŋaːli;;12pl_o;1st plural inclusive transitive object;;;;anta1253;BerndtBerndt1942
+ŋaːligu;;12pl_p;1st plural inclusive possessive;;;;anta1253;BerndtBerndt1942
+ŋaːli;;1pl_a;1st plural exclusive transitive subject;;;;anta1253;BerndtBerndt1942
+ŋaːli;;1pl_s;1st plural exclusive intransitive subject;;;;anta1253;BerndtBerndt1942
+ŋaːli;;1pl_o;1st plural exclusive transitive object;;;;anta1253;BerndtBerndt1942
+ŋaːligu;;1pl_p;1st plural exclusive possessive;;;;anta1253;BerndtBerndt1942
+njuːra, nuːra, nuːrali;;2sg_a;2nd singular transitive subject;;;;anta1253;BerndtBerndt1942
+njuːra, nuːra, nuːrali;;2sg_s;2nd singular intransitive subject;;;;anta1253;BerndtBerndt1942
+nuːra;;2sg_o;2nd singular transitive object;;;;anta1253;BerndtBerndt1942
+nuːramba;;2sg_p;2nd singular possessive;;;;anta1253;BerndtBerndt1942
+balai-a, nuːbali;;2du_a;2nd dual transitive subject;;;;anta1253;BerndtBerndt1942
+balai-a, nuːbali;;2du_s;2nd dual intransitive subject;;;;anta1253;BerndtBerndt1942
+njurada;;2du_o;2nd dual transitive object;;;;anta1253;BerndtBerndt1942
+#;;2du_p;2nd dual possessive;;;;anta1253;
+nuːra, njundu(r)du;;2pl_a;2nd plural transitive subject;;;;anta1253;BerndtBerndt1942
+nuːra, njundu(r)du;;2pl_s;2nd plural intransitive subject;;;;anta1253;BerndtBerndt1942
+nuːrandi;;2pl_o;2nd plural transitive object;;;;anta1253;BerndtBerndt1942
+nuːramba;;2pl_p;2nd plural possessive;;;;anta1253;BerndtBerndt1942
+balaru, balu;;3sg_m_a;3rd singular gender1 transitive subject;;;;anta1253;BerndtBerndt1942
+balaru, balu;;3sg_m_s;3rd singular gender1 intransitive subject;;;;anta1253;BerndtBerndt1942
+balaru, balu;;3sg_m_o;3rd singular gender1 transitive object;;;;anta1253;BerndtBerndt1942
+balumba;;3sg_m_p;3rd singular gender1 possessive;;;;anta1253;BerndtBerndt1942
+balaru, balu;;3sg_f_a;3rd singular gender2 transitive subject;;;;anta1253;BerndtBerndt1942
+balaru, balu;;3sg_f_s;3rd singular gender2 intransitive subject;;;;anta1253;BerndtBerndt1942
+balaru, balu;;3sg_f_o;3rd singular gender2 transitive object;;;;anta1253;BerndtBerndt1942
+balumba;;3sg_f_p;3rd singular gender2 possessive;;;;anta1253;BerndtBerndt1942
+#;;3d-a;3rd dual transitive subject;;;;anta1253;
+#;;3d-s;3rd dual intransitive subject;;;;anta1253;
+#;;3d-o;3rd dual transitive object;;;;anta1253;
+#;;3d-p;3rd dual possessive;;;;anta1253;
+dana;;3p-a;3rd plural transitive subject;;;;anta1253;BerndtBerndt1942
+dana;;3p-s;3rd plural intransitive subject;;;;anta1253;BerndtBerndt1942
+dana;;3p-o;3rd plural transitive object;;;;anta1253;BerndtBerndt1942
+dananba;;3p-p;3rd plural possessive;;;;anta1253;BerndtBerndt1942
