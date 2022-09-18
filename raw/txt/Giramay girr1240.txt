@@ -1,36 +1,36 @@
 word;ipa;parameter;description;alternative;comment;translation;glottocode;source
-ŋayba;;1sg_a;1st singular transitive subject;;;;girr1240;(Dixon, 1972, p. 50)
-ŋaᶁa;;1sg_s;1st singular intransitive subject;;;;girr1240;
-ŋaɲa;;1sg_o;1st singular transitive object;;;;girr1240;
-ŋaygu;;1sg_p;1st singular possessive;;;;girr1240;
-ŋali;;12du_a;1st dual inclusive transitive subject;;;;girr1240;
-ŋali;;12du_s;1st dual inclusive intransitive subject;;;;girr1240;
-ŋaliɲa;;12du_o;1st dual inclusive transitive object;;;;girr1240;
-ŋaliŋu;;12du_p;1st dual inclusive possessive;;;;girr1240;
-ŋali;;1du_a;1st dual exclusive transitive subject;;;;girr1240;
-ŋali;;1du_s;1st dual exclusive intransitive subject;;;;girr1240;
-ŋaliɲa;;1du_o;1st dual exclusive transitive object;;;;girr1240;
-ŋaliŋu;;1du_p;1st dual exclusive possessive;;;;girr1240;
-ŋana;;12pl_a;1st plural inclusive transitive subject;;;;girr1240;
-ŋana;;12pl_s;1st plural inclusive intransitive subject;;;;girr1240;
-ŋanaɲa;;12pl_o;1st plural inclusive transitive object;;;;girr1240;
-ŋanaŋu;;12pl_p;1st plural inclusive possessive;;;;girr1240;
-ŋana;;1pl_a;1st plural exclusive transitive subject;;;;girr1240;
-ŋana;;1pl_s;1st plural exclusive intransitive subject;;;;girr1240;
-ŋanaɲa;;1pl_o;1st plural exclusive transitive object;;;;girr1240;
-ŋanaŋu;;1pl_p;1st plural exclusive possessive;;;;girr1240;
-ŋinba;;2sg_a;2nd singular transitive subject;;;;girr1240;
-ŋinda;;2sg_s;2nd singular intransitive subject;;;;girr1240;
-ŋina;;2sg_o;2nd singular transitive object;;;;girr1240;
-ŋinu;;2sg_p;2nd singular possessive;;;;girr1240;
-ɲubilaᶁi;;2du_a;2nd dual transitive subject;;;;girr1240;
-ɲubilaᶁi;;2du_s;2nd dual intransitive subject;;;;girr1240;
-ɲubilaᶁina;;2du_o;2nd dual transitive object;;;;girr1240;
-ɲubilaᶁinu;;2du_p;2nd dual possessive;;;;girr1240;
-ɲura;;2pl_a;2nd plural transitive subject;;;;girr1240;
-ɲura;;2pl_s;2nd plural intransitive subject;;;;girr1240;
-ɲuraɲa;;2pl_o;2nd plural transitive object;;;;girr1240;
-ɲuraŋu;;2pl_p;2nd plural possessive;;;;girr1240;
+ŋayba;;1sg_a;1st singular transitive subject;;;;girr1240;Dixon1972
+ŋaᶁa;;1sg_s;1st singular intransitive subject;;;;girr1240;Dixon1972
+ŋaɲa;;1sg_o;1st singular transitive object;;;;girr1240;Dixon1972
+ŋaygu;;1sg_p;1st singular possessive;;;;girr1240;Dixon1972
+ŋali;;12du_a;1st dual inclusive transitive subject;;;;girr1240;Dixon1972
+ŋali;;12du_s;1st dual inclusive intransitive subject;;;;girr1240;Dixon1972
+ŋaliɲa;;12du_o;1st dual inclusive transitive object;;;;girr1240;Dixon1972
+ŋaliŋu;;12du_p;1st dual inclusive possessive;;;;girr1240;Dixon1972
+ŋali;;1du_a;1st dual exclusive transitive subject;;;;girr1240;Dixon1972
+ŋali;;1du_s;1st dual exclusive intransitive subject;;;;girr1240;Dixon1972
+ŋaliɲa;;1du_o;1st dual exclusive transitive object;;;;girr1240;Dixon1972
+ŋaliŋu;;1du_p;1st dual exclusive possessive;;;;girr1240;Dixon1972
+ŋana;;12pl_a;1st plural inclusive transitive subject;;;;girr1240;Dixon1972
+ŋana;;12pl_s;1st plural inclusive intransitive subject;;;;girr1240;Dixon1972
+ŋanaɲa;;12pl_o;1st plural inclusive transitive object;;;;girr1240;Dixon1972
+ŋanaŋu;;12pl_p;1st plural inclusive possessive;;;;girr1240;Dixon1972
+ŋana;;1pl_a;1st plural exclusive transitive subject;;;;girr1240;Dixon1972
+ŋana;;1pl_s;1st plural exclusive intransitive subject;;;;girr1240;Dixon1972
+ŋanaɲa;;1pl_o;1st plural exclusive transitive object;;;;girr1240;Dixon1972
+ŋanaŋu;;1pl_p;1st plural exclusive possessive;;;;girr1240;Dixon1972
+ŋinba;;2sg_a;2nd singular transitive subject;;;;girr1240;Dixon1972
+ŋinda;;2sg_s;2nd singular intransitive subject;;;;girr1240;Dixon1972
+ŋina;;2sg_o;2nd singular transitive object;;;;girr1240;Dixon1972
+ŋinu;;2sg_p;2nd singular possessive;;;;girr1240;Dixon1972
+ɲubilaᶁi;;2du_a;2nd dual transitive subject;;;;girr1240;Dixon1972
+ɲubilaᶁi;;2du_s;2nd dual intransitive subject;;;;girr1240;Dixon1972
+ɲubilaᶁina;;2du_o;2nd dual transitive object;;;;girr1240;Dixon1972
+ɲubilaᶁinu;;2du_p;2nd dual possessive;;;;girr1240;Dixon1972
+ɲura;;2pl_a;2nd plural transitive subject;;;;girr1240;Dixon1972
+ɲura;;2pl_s;2nd plural intransitive subject;;;;girr1240;Dixon1972
+ɲuraɲa;;2pl_o;2nd plural transitive object;;;;girr1240;Dixon1972
+ɲuraŋu;;2pl_p;2nd plural possessive;;;;girr1240;Dixon1972
 #;;3sg_m_a;3rd singular gender1 transitive subject;;;;girr1240;
 #;;3sg_m_s;3rd singular gender1 intransitive subject;;;;girr1240;
 #;;3sg_m_o;3rd singular gender1 transitive object;;;;girr1240;
@@ -39,11 +39,11 @@ word;ipa;parameter;description;alternative;comment;translation;glottocode;source
 #;;3sg_f_s;3rd singular gender2 intransitive subject;;;;girr1240;
 #;;3sg_f_o;3rd singular gender2 transitive object;;;;girr1240;
 #;;3sg_f_p;3rd singular gender2 possessive;;;;girr1240;
-bulayᶁu;;3d-a;3rd dual transitive subject;;;;girr1240;
-bulay;;3d-s;3rd dual intransitive subject;;;;girr1240;
-bulay;;3d-o;3rd dual transitive object;;;;girr1240;
-bulayŋu;;3d-p;3rd dual possessive;;;;girr1240;
-ᶁanaŋgu;;3p-a;3rd plural transitive subject;;;;girr1240;
-ᶁana;;3p-s;3rd plural intransitive subject;;;;girr1240;
-ᶁana;;3p-o;3rd plural transitive object;;;;girr1240;
-ᶁanaŋu;;3p-p;3rd plural possessive;;;;girr1240;
+bulayᶁu;;3d-a;3rd dual transitive subject;;;;girr1240;Dixon1972
+bulay;;3d-s;3rd dual intransitive subject;;;;girr1240;Dixon1972
+bulay;;3d-o;3rd dual transitive object;;;;girr1240;Dixon1972
+bulayŋu;;3d-p;3rd dual possessive;;;;girr1240;Dixon1972
+ᶁanaŋgu;;3p-a;3rd plural transitive subject;;;;girr1240;Dixon1972
+ᶁana;;3p-s;3rd plural intransitive subject;;;;girr1240;Dixon1972
+ᶁana;;3p-o;3rd plural transitive object;;;;girr1240;Dixon1972
+ᶁanaŋu;;3p-p;3rd plural possessive;;;;girr1240;Dixon1972

@@ -20,6 +20,15 @@ SOURCES_TO_RENAME = {
     'casad-eugene-1984': 'casad-1984',
     'casad-eugene-h': 'casad-1984',
     'aikhenvald-2003b': 'aikhenvald-2003',
+    'matthew-j-carroll-2017': 'carroll-2017',
+    'carroll-mj-2017': 'carroll-2017',
+    'tsunoda-1988': 'tsunoda-1981',  # wrong year
+    'evans-personal-communication-1': 'evans-2013',
+    'evans-personal-communication-2': 'evans-2013',
+    'doehler': 'doehler-2013',
+    'doehler-christian': 'doehler-2013',
+    'doehler-spreadsheet': 'doehler-2013',
+    
 }
 
 
@@ -162,6 +171,7 @@ class Dataset(pylexibank.Dataset):
         # load source mapping
         sources = {}
         for pk, fields in models['core.source'].items():
+            #print("%s : %s %s %s" % (fields['slug'], fields['author'], fields['year'], fields['reference']))
             sources[pk] = SOURCES_TO_RENAME.get(fields['slug'], fields['slug'])
         
         # add paradigms from website

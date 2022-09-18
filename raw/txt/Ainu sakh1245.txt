@@ -1,49 +1,49 @@
 word;ipa;parameter;description;alternative;comment;translation;glottocode;source
-mɛn;;1sg_a;1st singular transitive subject;;;;sakh1245;Lee-Smith, Mei W. (1996) The Ejnu Language. In Stephen A. Wurm, Peter Mülhäusler & Darrell T. Tryon (eds.), Atlas of Intercultural Communication in the Pacific, Asia, and the Americas volume II.2, 851-863. Berlinː Mouton de Gruyter.
-mɛn;;1sg_s;1st singular intransitive subject;;;;sakh1245;
-mɛn;;1sg_o;1st singular transitive object;;;;sakh1245;
-mɛn;;1sg_p;1st singular possessive;;;;sakh1245;
-biz;;12du_a;1st dual inclusive transitive subject;;;;sakh1245;
-biz;;12du_s;1st dual inclusive intransitive subject;;;;sakh1245;
-biz;;12du_o;1st dual inclusive transitive object;;;;sakh1245;
-biz;;12du_p;1st dual inclusive possessive;;;;sakh1245;
-biz;;1du_a;1st dual exclusive transitive subject;;;;sakh1245;
-biz;;1du_s;1st dual exclusive intransitive subject;;;;sakh1245;
-biz;;1du_o;1st dual exclusive transitive object;;;;sakh1245;
-biz;;1du_p;1st dual exclusive possessive;;;;sakh1245;
-biz;;12pl_a;1st plural inclusive transitive subject;;;;sakh1245;
-biz;;12pl_s;1st plural inclusive intransitive subject;;;;sakh1245;
-biz;;12pl_o;1st plural inclusive transitive object;;;;sakh1245;
-biz;;12pl_p;1st plural inclusive possessive;;;;sakh1245;
-biz;;1pl_a;1st plural exclusive transitive subject;;;;sakh1245;
-biz;;1pl_s;1st plural exclusive intransitive subject;;;;sakh1245;
-biz;;1pl_o;1st plural exclusive transitive object;;;;sakh1245;
-biz;;1pl_p;1st plural exclusive possessive;;;;sakh1245;
-sɛn;;2sg_a;2nd singular transitive subject;;;;sakh1245;
-sɛn;;2sg_s;2nd singular intransitive subject;;;;sakh1245;
-sɛn;;2sg_o;2nd singular transitive object;;;;sakh1245;
-sɛn;;2sg_p;2nd singular possessive;;;;sakh1245;
-silɛr;;2du_a;2nd dual transitive subject;;;;sakh1245;
-silɛr;;2du_s;2nd dual intransitive subject;;;;sakh1245;
-silɛr;;2du_o;2nd dual transitive object;;;;sakh1245;
-silɛr;;2du_p;2nd dual possessive;;;;sakh1245;
-silɛr;;2pl_a;2nd plural transitive subject;;;;sakh1245;
-silɛr;;2pl_s;2nd plural intransitive subject;;;;sakh1245;
-silɛr;;2pl_o;2nd plural transitive object;;;;sakh1245;
-silɛr;;2pl_p;2nd plural possessive;;;;sakh1245;
-u;;3sg_m_a;3rd singular gender1 transitive subject;;;;sakh1245;
-u;;3sg_m_s;3rd singular gender1 intransitive subject;;;;sakh1245;
-u;;3sg_m_o;3rd singular gender1 transitive object;;;;sakh1245;
-u;;3sg_m_p;3rd singular gender1 possessive;;;;sakh1245;
-u;;3sg_f_a;3rd singular gender2 transitive subject;;;;sakh1245;
-u;;3sg_f_s;3rd singular gender2 intransitive subject;;;;sakh1245;
-u;;3sg_f_o;3rd singular gender2 transitive object;;;;sakh1245;
-u;;3sg_f_p;3rd singular gender2 possessive;;;;sakh1245;
-ular;;3d-a;3rd dual transitive subject;;;;sakh1245;
-ular;;3d-s;3rd dual intransitive subject;;;;sakh1245;
-ular;;3d-o;3rd dual transitive object;;;;sakh1245;
-ular;;3d-p;3rd dual possessive;;;;sakh1245;
-ular;;3p-a;3rd plural transitive subject;;;;sakh1245;
-ular;;3p-s;3rd plural intransitive subject;;;;sakh1245;
-ular;;3p-o;3rd plural transitive object;;;;sakh1245;
-ular;;3p-p;3rd plural possessive;;;;sakh1245;
+mɛn;;1sg_a;1st singular transitive subject;;;;sakh1245;LeeSmith1996
+mɛn;;1sg_s;1st singular intransitive subject;;;;sakh1245;LeeSmith1996
+mɛn;;1sg_o;1st singular transitive object;;;;sakh1245;LeeSmith1996
+mɛn;;1sg_p;1st singular possessive;;;;sakh1245;LeeSmith1996
+biz;;12du_a;1st dual inclusive transitive subject;;;;sakh1245;LeeSmith1996
+biz;;12du_s;1st dual inclusive intransitive subject;;;;sakh1245;LeeSmith1996
+biz;;12du_o;1st dual inclusive transitive object;;;;sakh1245;LeeSmith1996
+biz;;12du_p;1st dual inclusive possessive;;;;sakh1245;LeeSmith1996
+biz;;1du_a;1st dual exclusive transitive subject;;;;sakh1245;LeeSmith1996
+biz;;1du_s;1st dual exclusive intransitive subject;;;;sakh1245;LeeSmith1996
+biz;;1du_o;1st dual exclusive transitive object;;;;sakh1245;LeeSmith1996
+biz;;1du_p;1st dual exclusive possessive;;;;sakh1245;LeeSmith1996
+biz;;12pl_a;1st plural inclusive transitive subject;;;;sakh1245;LeeSmith1996
+biz;;12pl_s;1st plural inclusive intransitive subject;;;;sakh1245;LeeSmith1996
+biz;;12pl_o;1st plural inclusive transitive object;;;;sakh1245;LeeSmith1996
+biz;;12pl_p;1st plural inclusive possessive;;;;sakh1245;LeeSmith1996
+biz;;1pl_a;1st plural exclusive transitive subject;;;;sakh1245;LeeSmith1996
+biz;;1pl_s;1st plural exclusive intransitive subject;;;;sakh1245;LeeSmith1996
+biz;;1pl_o;1st plural exclusive transitive object;;;;sakh1245;LeeSmith1996
+biz;;1pl_p;1st plural exclusive possessive;;;;sakh1245;LeeSmith1996
+sɛn;;2sg_a;2nd singular transitive subject;;;;sakh1245;LeeSmith1996
+sɛn;;2sg_s;2nd singular intransitive subject;;;;sakh1245;LeeSmith1996
+sɛn;;2sg_o;2nd singular transitive object;;;;sakh1245;LeeSmith1996
+sɛn;;2sg_p;2nd singular possessive;;;;sakh1245;LeeSmith1996
+silɛr;;2du_a;2nd dual transitive subject;;;;sakh1245;LeeSmith1996
+silɛr;;2du_s;2nd dual intransitive subject;;;;sakh1245;LeeSmith1996
+silɛr;;2du_o;2nd dual transitive object;;;;sakh1245;LeeSmith1996
+silɛr;;2du_p;2nd dual possessive;;;;sakh1245;LeeSmith1996
+silɛr;;2pl_a;2nd plural transitive subject;;;;sakh1245;LeeSmith1996
+silɛr;;2pl_s;2nd plural intransitive subject;;;;sakh1245;LeeSmith1996
+silɛr;;2pl_o;2nd plural transitive object;;;;sakh1245;LeeSmith1996
+silɛr;;2pl_p;2nd plural possessive;;;;sakh1245;LeeSmith1996
+u;;3sg_m_a;3rd singular gender1 transitive subject;;;;sakh1245;LeeSmith1996
+u;;3sg_m_s;3rd singular gender1 intransitive subject;;;;sakh1245;LeeSmith1996
+u;;3sg_m_o;3rd singular gender1 transitive object;;;;sakh1245;LeeSmith1996
+u;;3sg_m_p;3rd singular gender1 possessive;;;;sakh1245;LeeSmith1996
+u;;3sg_f_a;3rd singular gender2 transitive subject;;;;sakh1245;LeeSmith1996
+u;;3sg_f_s;3rd singular gender2 intransitive subject;;;;sakh1245;LeeSmith1996
+u;;3sg_f_o;3rd singular gender2 transitive object;;;;sakh1245;LeeSmith1996
+u;;3sg_f_p;3rd singular gender2 possessive;;;;sakh1245;LeeSmith1996
+ular;;3d-a;3rd dual transitive subject;;;;sakh1245;LeeSmith1996
+ular;;3d-s;3rd dual intransitive subject;;;;sakh1245;LeeSmith1996
+ular;;3d-o;3rd dual transitive object;;;;sakh1245;LeeSmith1996
+ular;;3d-p;3rd dual possessive;;;;sakh1245;LeeSmith1996
+ular;;3p-a;3rd plural transitive subject;;;;sakh1245;LeeSmith1996
+ular;;3p-s;3rd plural intransitive subject;;;;sakh1245;LeeSmith1996
+ular;;3p-o;3rd plural transitive object;;;;sakh1245;LeeSmith1996
+ular;;3p-p;3rd plural possessive;;;;sakh1245;LeeSmith1996
