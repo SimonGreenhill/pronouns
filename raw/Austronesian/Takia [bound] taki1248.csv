@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ŋa-;;1sg_a;1st (excl) Person Singular;48168;;;;taki1248;lynch-et-al-2002
+ŋa-;;1sg_s;1st (excl) Person Singular;48167;;;;taki1248;lynch-et-al-2002
+-ag;;1sg_o;1st (excl) Person Singular;48166;;;;taki1248;lynch-et-al-2002
+-g;;1sg_p;1st (excl) Person Singular;48165;;;;taki1248;lynch-et-al-2002
+ma-;;1du_a;1st (excl) Person Dual;48164;;;;taki1248;lynch-et-al-2002
+ma-;;1du_s;1st (excl) Person Dual;48163;;;;taki1248;lynch-et-al-2002
+-ma;;1du_o;1st (excl) Person Dual;48162;;;;taki1248;lynch-et-al-2002
+-mama;;1du_p;1st (excl) Person Dual;48161;;;;taki1248;lynch-et-al-2002
+ma-;;1pl_a;1st (excl) Person Plural;48160;;;;taki1248;lynch-et-al-2002
+ma-;;1pl_s;1st (excl) Person Plural;48159;;;;taki1248;lynch-et-al-2002
+-ma;;1pl_o;1st (excl) Person Plural;48158;;;;taki1248;lynch-et-al-2002
+-mama;;1pl_p;1st (excl) Person Plural;48157;;;;taki1248;lynch-et-al-2002
+ta-;;12du_a;1st (incl) Person Dual;48156;;;;taki1248;lynch-et-al-2002
+ta-;;12du_s;1st (incl) Person Dual;48155;;;;taki1248;lynch-et-al-2002
+-ad;;12du_o;1st (incl) Person Dual;48154;;;;taki1248;lynch-et-al-2002
+-d;;12du_p;1st (incl) Person Dual;48153;;;;taki1248;lynch-et-al-2002
+ta-;;12pl_a;1st (incl) Person Plural;48152;;;;taki1248;lynch-et-al-2002
+ta-;;12pl_s;1st (incl) Person Plural;48151;;;;taki1248;lynch-et-al-2002
+-ad;;12pl_o;1st (incl) Person Plural;48150;;;;taki1248;lynch-et-al-2002
+-d;;12pl_p;1st (incl) Person Plural;48149;;;;taki1248;lynch-et-al-2002
+u-;;2sg_a;2nd Person Singular;48148;;;;taki1248;lynch-et-al-2002
+u-;;2sg_s;2nd Person Singular;48147;;;;taki1248;lynch-et-al-2002
+-o;;2sg_o;2nd Person Singular;48146;;;;taki1248;lynch-et-al-2002
+-0;;2sg_p;2nd Person Singular;48145;;;;taki1248;lynch-et-al-2002
+a-;;2du_a;2nd Person Dual;48144;;;;taki1248;lynch-et-al-2002
+a-;;2du_s;2nd Person Dual;48143;;;;taki1248;lynch-et-al-2002
+-aŋ;;2du_o;2nd Person Dual;48142;;;;taki1248;lynch-et-al-2002
+-mi;;2du_p;2nd Person Dual;48141;;;;taki1248;lynch-et-al-2002
+a-;;2pl_a;2nd Person Plural;48140;;;;taki1248;lynch-et-al-2002
+a-;;2pl_s;2nd Person Plural;48139;;;;taki1248;lynch-et-al-2002
+-aŋ;;2pl_o;2nd Person Plural;48138;;;;taki1248;lynch-et-al-2002
+-mi;;2pl_p;2nd Person Plural;48137;;;;taki1248;lynch-et-al-2002
+i-;;3sg_m_a;3rd Person Singular Masculine;48136;;;;taki1248;lynch-et-al-2002
+i-;;3sg_m_s;3rd Person Singular Masculine;48135;;;;taki1248;lynch-et-al-2002
+-i;;3sg_m_o;3rd Person Singular Masculine;48134;;;;taki1248;lynch-et-al-2002
+-n;;3sg_m_p;3rd Person Singular Masculine;48133;;;;taki1248;lynch-et-al-2002
+i-;;3sg_n_a;3rd Person Singular Neuter;48132;;;;taki1248;lynch-et-al-2002
+i-;;3sg_n_s;3rd Person Singular Neuter;48131;;;;taki1248;lynch-et-al-2002
+-i;;3sg_n_o;3rd Person Singular Neuter;48130;;;;taki1248;lynch-et-al-2002
+-n;;3sg_n_p;3rd Person Singular Neuter;48129;;;;taki1248;lynch-et-al-2002
+di-;;3d-a;3rd Person Dual;48128;;;;taki1248;lynch-et-al-2002
+di-;;3d-s;3rd Person Dual;48127;;;;taki1248;lynch-et-al-2002
+-ai;;3d-o;3rd Person Dual;48126;;;;taki1248;lynch-et-al-2002
+-di;;3d-p;3rd Person Dual;48125;;;;taki1248;lynch-et-al-2002
+di-;;3p-a;3rd Person Plural;48124;;;;taki1248;lynch-et-al-2002
+di-;;3p-s;3rd Person Plural;48123;;;;taki1248;lynch-et-al-2002
+-ai;;3p-o;3rd Person Plural;48122;;;;taki1248;lynch-et-al-2002
+di;;3p-p;3rd Person Plural;48121;;;;taki1248;lynch-et-al-2002

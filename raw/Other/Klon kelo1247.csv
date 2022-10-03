@@ -1,0 +1,97 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+nan;;1sg_a;1st (excl) Person Singular;38582;;;;kelo1247;baird-2008
+n-;;1sg_s;1st (excl) Person Singular;38583;;;;kelo1247;baird-2008
+nan;;1sg_s;1st (excl) Person Singular;38584;;;;kelo1247;baird-2008
+n-;;1sg_o;1st (excl) Person Singular;38585;;;;kelo1247;baird-2008
+ne;;1sg_p;1st (excl) Person Singular;38586;;;;kelo1247;baird-2008
+nəgəle;;1du_a;1st (excl) Person Dual;38587;;;;kelo1247;baird-2008
+nəgəle;;1du_s;1st (excl) Person Dual;38588;;;;kelo1247;baird-2008
+nəgəle nəg-;;1du_s;1st (excl) Person Dual;38589;;;;kelo1247;baird-2008
+nəgəle nəg-;;1du_o;1st (excl) Person Dual;38590;;;;kelo1247;baird-2008
+nəgəle nəge;;1du_p;1st (excl) Person Dual;38591;;;;kelo1247;baird-2008
+nəgi;;1pl_a;1st (excl) Person Plural;38592;;;;kelo1247;baird-2008
+nəg-;;1pl_s;1st (excl) Person Plural;38593;;;;kelo1247;baird-2008
+nəgi;;1pl_s;1st (excl) Person Plural;38594;;;;kelo1247;baird-2008
+nəg-;;1pl_o;1st (excl) Person Plural;38595;;;;kelo1247;baird-2008
+nəge;;1pl_p;1st (excl) Person Plural;38596;;;;kelo1247;baird-2008
+pəle;;12du_a;1st (incl) Person Dual;38597;;;;kelo1247;baird-2008
+pəle t-;;12du_s;1st (incl) Person Dual;38599;;;;kelo1247;baird-2008
+pəle t-;;12du_o;1st (incl) Person Dual;38600;;;;kelo1247;baird-2008
+pəle pe;;12du_p;1st (incl) Person Dual;38601;;;;kelo1247;baird-2008
+pin;;12pl_s;1st (incl) Person Plural;38598;;;;kelo1247;baird-2008
+pin;;12pl_s;1st (incl) Person Plural;38602;;;;kelo1247;baird-2008
+pin;;12pl_s;1st (incl) Person Plural;38603;;;;kelo1247;baird-2008
+t-;;12pl_s;1st (incl) Person Plural;38604;;;;kelo1247;baird-2008
+t-;;12pl_o;1st (incl) Person Plural;38605;;;;kelo1247;baird-2008
+pe;;12pl_p;1st (incl) Person Plural;38606;;;;kelo1247;baird-2008
+aan;;2sg_a;2nd Person Singular;38607;;;;kelo1247;baird-2008
+V- / 0-;;2sg_s;2nd Person Singular;38608;;"V- before consonant initial stems; 0- before vowel initial stems.";;kelo1247;baird-2008
+aan;;2sg_s;2nd Person Singular;38609;;;;kelo1247;baird-2008
+V- / 0-;;2sg_o;2nd Person Singular;38610;;"V- before consonant initial stems; 0- before vowel initial stems.";;kelo1247;baird-2008
+e;;2sg_p;2nd Person Singular;38611;;;;kelo1247;baird-2008
+egəle;;2du_a;2nd Person Dual;38612;;;;kelo1247;baird-2008
+egəle Vg-;;2du_s;2nd Person Dual;38613;;;;kelo1247;baird-2008
+egəle Vg-;;2du_o;2nd Person Dual;38615;;;;kelo1247;baird-2008
+egəle ege;;2du_p;2nd Person Dual;38616;;;;kelo1247;baird-2008
+igi;;2pl_a;2nd Person Plural;38614;;;;kelo1247;baird-2008
+igi;;2pl_a;2nd Person Plural;38617;;;;kelo1247;baird-2008
+Vg-;;2pl_s;2nd Person Plural;38618;;;;kelo1247;baird-2008
+igi;;2pl_s;2nd Person Plural;38619;;;;kelo1247;baird-2008
+Vg-;;2pl_o;2nd Person Plural;38620;;;;kelo1247;baird-2008
+ege;;2pl_p;2nd Person Plural;38621;;;;kelo1247;baird-2008
+g-;;3sg_m_s;3rd Person Singular Masculine;38623;;;;kelo1247;baird-2008
+g-;;3sg_m_o;3rd Person Singular Masculine;38625;;;;kelo1247;baird-2008
+ge;;3sg_m_p;3rd Person Singular Masculine;38626;;;;kelo1247;baird-2008
+g-;;3sg_f_s;3rd Person Singular Feminine;38628;;;;kelo1247;baird-2008
+g-;;3sg_f_o;3rd Person Singular Feminine;38630;;;;kelo1247;baird-2008
+ge;;3sg_f_p;3rd Person Singular Feminine;38631;;;;kelo1247;baird-2008
+g-;;3sg_n_s;3rd Person Singular Neuter;38633;;;;kelo1247;baird-2008
+g-;;3sg_n_o;3rd Person Singular Neuter;38635;;;;kelo1247;baird-2008
+ge;;3sg_n_p;3rd Person Singular Neuter;38636;;;;kelo1247;baird-2008
+ele g-;;3du_m_s;3rd Person Dual Masculine;38638;;;;kelo1247;baird-2008
+ele g-;;3du_m_o;3rd Person Dual Masculine;38640;;;;kelo1247;baird-2008
+ele g-;;3du_m_o;3rd Person Dual Masculine;38645;;;;kelo1247;baird-2008
+ele ge;;3du_m_p;3rd Person Dual Masculine;38641;;;;kelo1247;baird-2008
+ele ge;;3du_m_p;3rd Person Dual Masculine;38646;;;;kelo1247;baird-2008
+ele g-;;3du_f_s;3rd Person Dual Feminine;38643;;;;kelo1247;baird-2008
+ele g-;;3du_n_s;3rd Person Dual Neuter;38648;;;;kelo1247;baird-2008
+ele g-;;3du_n_o;3rd Person Dual Neuter;38650;;;;kelo1247;baird-2008
+ele ge;;3du_n_p;3rd Person Dual Neuter;38651;;;;kelo1247;baird-2008
+ini;;3pl_m_a;3rd Person Plural Masculine;38622;;;;kelo1247;baird-2008
+ini;;3pl_m_a;3rd Person Plural Masculine;38637;;;;kelo1247;baird-2008
+ini;;3pl_m_a;3rd Person Plural Masculine;38642;;;;kelo1247;baird-2008
+ini;;3pl_m_a;3rd Person Plural Masculine;38652;;;;kelo1247;baird-2008
+ini;;3pl_m_s;3rd Person Plural Masculine;38624;;;;kelo1247;baird-2008
+ini;;3pl_m_s;3rd Person Plural Masculine;38639;;;;kelo1247;baird-2008
+ini;;3pl_m_s;3rd Person Plural Masculine;38653;;;;kelo1247;baird-2008
+ini g-;;3pl_m_s;3rd Person Plural Masculine;38654;;;;kelo1247;baird-2008
+ini g-;;3pl_m_o;3rd Person Plural Masculine;38655;;;;kelo1247;baird-2008
+ini ge;;3pl_m_p;3rd Person Plural Masculine;38656;;;;kelo1247;baird-2008
+ini;;3pl_f_a;3rd Person Plural Feminine;38627;;;;kelo1247;baird-2008
+ini;;3pl_f_a;3rd Person Plural Feminine;38657;;;;kelo1247;baird-2008
+ini;;3pl_f_s;3rd Person Plural Feminine;38629;;;;kelo1247;baird-2008
+ini;;3pl_f_s;3rd Person Plural Feminine;38644;;;;kelo1247;baird-2008
+ini;;3pl_f_s;3rd Person Plural Feminine;38658;;;;kelo1247;baird-2008
+ini g-;;3pl_f_s;3rd Person Plural Feminine;38659;;;;kelo1247;baird-2008
+ini g-;;3pl_f_o;3rd Person Plural Feminine;38660;;;;kelo1247;baird-2008
+ini ge;;3pl_f_p;3rd Person Plural Feminine;38661;;;;kelo1247;baird-2008
+ini;;3pl_n_a;3rd Person Plural Neuter;38632;;;;kelo1247;baird-2008
+ini;;3pl_n_a;3rd Person Plural Neuter;38647;;;;kelo1247;baird-2008
+ini;;3pl_n_a;3rd Person Plural Neuter;38662;;;;kelo1247;baird-2008
+ini;;3pl_n_s;3rd Person Plural Neuter;38634;;;;kelo1247;baird-2008
+ini;;3pl_n_s;3rd Person Plural Neuter;38663;;;;kelo1247;baird-2008
+ini g-;;3pl_n_s;3rd Person Plural Neuter;38664;;;;kelo1247;baird-2008
+ini g-;;3pl_n_o;3rd Person Plural Neuter;38665;;;;kelo1247;baird-2008
+ini ge;;3pl_n_p;3rd Person Plural Neuter;38666;;;;kelo1247;baird-2008
+ini gəle;;3d-a;3rd Person Dual;42455;;;;kelo1247;baird-2008
+gəle;;3d-a;3rd Person Dual;42456;;;;kelo1247;baird-2008
+ele g-;;3d-s;3rd Person Dual;38579;;;;kelo1247;baird-2008
+ele g-;;3d-o;3rd Person Dual;38578;;;;kelo1247;baird-2008
+ele ge;;3d-p;3rd Person Dual;38577;;;;kelo1247;baird-2008
+ini;;3p-a;3rd Person Plural;38576;;;;kelo1247;baird-2008
+ini;;3p-a;3rd Person Plural;38649;;;;kelo1247;baird-2008
+ini;;3p-s;3rd Person Plural;38574;;;;kelo1247;baird-2008
+ini g-;;3p-s;3rd Person Plural;38575;;;;kelo1247;baird-2008
+ini;;3p-s;3rd Person Plural;38580;;;;kelo1247;baird-2008
+ini g-;;3p-o;3rd Person Plural;38573;;;;kelo1247;baird-2008
+ini ge;;3p-p;3rd Person Plural;38572;;;;kelo1247;baird-2008

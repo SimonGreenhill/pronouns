@@ -1,0 +1,61 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+yad;;1sg_a;1st (excl) Person Singular;42714;;;;kala1397;pawley-et-al-2000
+yad;;1sg_s;1st (excl) Person Singular;42713;;;;kala1397;pawley-et-al-2000
+yp;;1sg_o;1st (excl) Person Singular;42712;;;;kala1397;pawley-et-al-2000
+yad;;1sg_p;1st (excl) Person Singular;42833;;;;kala1397;pawley-et-al-2000
+yp;;1sg_p;1st (excl) Person Singular;42834;;;;kala1397;pawley-et-al-2000
+ct;;1du_a;1st (excl) Person Dual;42710;;;;kala1397;pawley-et-al-2000
+ct;;1du_s;1st (excl) Person Dual;42709;;;;kala1397;pawley-et-al-2000
+ctp;;1du_o;1st (excl) Person Dual;42708;;;;kala1397;pawley-et-al-2000
+ct;;1du_p;1st (excl) Person Dual;42831;;;;kala1397;pawley-et-al-2000
+ctp;;1du_p;1st (excl) Person Dual;42832;;;;kala1397;pawley-et-al-2000
+cn;;1pl_a;1st (excl) Person Plural;42706;;;;kala1397;pawley-et-al-2000
+cn;;1pl_s;1st (excl) Person Plural;42705;;;;kala1397;pawley-et-al-2000
+cnp;;1pl_o;1st (excl) Person Plural;42704;;;;kala1397;pawley-et-al-2000
+cn;;1pl_p;1st (excl) Person Plural;42829;;;;kala1397;pawley-et-al-2000
+cnp;;1pl_p;1st (excl) Person Plural;42830;;;;kala1397;pawley-et-al-2000
+ct;;12du_a;1st (incl) Person Dual;42702;;;;kala1397;pawley-et-al-2000
+ct;;12du_s;1st (incl) Person Dual;42701;;;;kala1397;pawley-et-al-2000
+ctp;;12du_o;1st (incl) Person Dual;42700;;;;kala1397;pawley-et-al-2000
+ct;;12du_p;1st (incl) Person Dual;42827;;;;kala1397;pawley-et-al-2000
+ctp;;12du_p;1st (incl) Person Dual;42828;;;;kala1397;pawley-et-al-2000
+cn;;12pl_a;1st (incl) Person Plural;42698;;;;kala1397;pawley-et-al-2000
+cn;;12pl_s;1st (incl) Person Plural;42697;;;;kala1397;pawley-et-al-2000
+cnp;;12pl_o;1st (incl) Person Plural;42696;;;;kala1397;pawley-et-al-2000
+cn;;12pl_p;1st (incl) Person Plural;42825;;;;kala1397;pawley-et-al-2000
+cnp;;12pl_p;1st (incl) Person Plural;42826;;;;kala1397;pawley-et-al-2000
+nad;;2sg_a;2nd Person Singular;42694;;;;kala1397;pawley-et-al-2000
+nad;;2sg_s;2nd Person Singular;42693;;;;kala1397;pawley-et-al-2000
+np;;2sg_o;2nd Person Singular;42692;;;;kala1397;pawley-et-al-2000
+nad;;2sg_p;2nd Person Singular;42823;;;;kala1397;pawley-et-al-2000
+np;;2sg_p;2nd Person Singular;42824;;;;kala1397;pawley-et-al-2000
+nt;;2du_a;2nd Person Dual;42690;;;;kala1397;pawley-et-al-2000
+nt;;2du_s;2nd Person Dual;42689;;;;kala1397;pawley-et-al-2000
+ntp;;2du_o;2nd Person Dual;42688;;;;kala1397;pawley-et-al-2000
+nt;;2du_p;2nd Person Dual;42821;;;;kala1397;pawley-et-al-2000
+ntp;;2du_p;2nd Person Dual;42822;;;;kala1397;pawley-et-al-2000
+nb;;2pl_a;2nd Person Plural;42686;;;;kala1397;pawley-et-al-2000
+nb;;2pl_s;2nd Person Plural;42685;;;;kala1397;pawley-et-al-2000
+nbp;;2pl_o;2nd Person Plural;42684;;;;kala1397;pawley-et-al-2000
+nb;;2pl_p;2nd Person Plural;42819;;;;kala1397;pawley-et-al-2000
+nbp;;2pl_p;2nd Person Plural;42820;;;;kala1397;pawley-et-al-2000
+nuk;;3sg_m_a;3rd Person Singular Masculine;42682;;;;kala1397;pawley-et-al-2000
+nuk;;3sg_m_s;3rd Person Singular Masculine;42681;;;;kala1397;pawley-et-al-2000
+nup;;3sg_m_o;3rd Person Singular Masculine;42680;;;;kala1397;pawley-et-al-2000
+nuk;;3sg_m_p;3rd Person Singular Masculine;42817;;;;kala1397;pawley-et-al-2000
+nup;;3sg_m_p;3rd Person Singular Masculine;42818;;;;kala1397;pawley-et-al-2000
+nuk;;3sg_n_a;3rd Person Singular Neuter;42678;;;;kala1397;pawley-et-al-2000
+nuk;;3sg_n_s;3rd Person Singular Neuter;42677;;;;kala1397;pawley-et-al-2000
+nup;;3sg_n_o;3rd Person Singular Neuter;42676;;;;kala1397;pawley-et-al-2000
+nuk;;3sg_n_p;3rd Person Singular Neuter;42815;;;;kala1397;pawley-et-al-2000
+nup;;3sg_n_p;3rd Person Singular Neuter;42816;;;;kala1397;pawley-et-al-2000
+kikmay;;3d-a;3rd Person Dual;42674;;;;kala1397;pawley-et-al-2000
+kikmay;;3d-s;3rd Person Dual;42673;;;;kala1397;pawley-et-al-2000
+kuypmay;;3d-o;3rd Person Dual;42672;;;;kala1397;pawley-et-al-2000
+kikmay;;3d-p;3rd Person Dual;42813;;;;kala1397;pawley-et-al-2000
+kuypmay;;3d-p;3rd Person Dual;42814;;;;kala1397;pawley-et-al-2000
+kik;;3p-a;3rd Person Plural;42670;;;;kala1397;pawley-et-al-2000
+kik;;3p-s;3rd Person Plural;42669;;;;kala1397;pawley-et-al-2000
+kuyp;;3p-o;3rd Person Plural;42668;;;;kala1397;pawley-et-al-2000
+kik;;3p-p;3rd Person Plural;42811;;;;kala1397;pawley-et-al-2000
+kuyp;;3p-p;3rd Person Plural;42812;;;;kala1397;pawley-et-al-2000

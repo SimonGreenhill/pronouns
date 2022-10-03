@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ana;;1sg_a;1st (excl) Person Singular;43323;;;;chad1249;owens-1993
+ana;;1sg_s;1st (excl) Person Singular;43322;;;;chad1249;owens-1993
+-ni;;1sg_o;1st (excl) Person Singular;43321;;;;chad1249;owens-1993
+-i;;1sg_p;1st (excl) Person Singular;43320;;Alternates with '-yi' which appears suffixed to nouns with a word final vowel (Owens 1993:84).;;chad1249;owens-1993
+aniːna ;;1du_a;1st (excl) Person Dual;43319;;;;chad1249;owens-1993
+aniːna ;;1du_s;1st (excl) Person Dual;43318;;;;chad1249;owens-1993
+-na;;1du_o;1st (excl) Person Dual;43317;;;;chad1249;owens-1993
+-na;;1du_p;1st (excl) Person Dual;43316;;;;chad1249;owens-1993
+aniːna ;;1pl_a;1st (excl) Person Plural;43315;;;;chad1249;owens-1993
+aniːna ;;1pl_s;1st (excl) Person Plural;43314;;;;chad1249;owens-1993
+-na;;1pl_o;1st (excl) Person Plural;43313;;;;chad1249;owens-1993
+-na;;1pl_p;1st (excl) Person Plural;43312;;;;chad1249;owens-1993
+aniːna ;;12du_a;1st (incl) Person Dual;43311;;;;chad1249;owens-1993
+aniːna ;;12du_s;1st (incl) Person Dual;43310;;;;chad1249;owens-1993
+-na;;12du_o;1st (incl) Person Dual;43309;;;;chad1249;owens-1993
+-na;;12du_p;1st (incl) Person Dual;43308;;;;chad1249;owens-1993
+aniːna ;;12pl_a;1st (incl) Person Plural;43307;;;;chad1249;owens-1993
+aniːna ;;12pl_s;1st (incl) Person Plural;43306;;;;chad1249;owens-1993
+-na;;12pl_o;1st (incl) Person Plural;43305;;;;chad1249;owens-1993
+-na;;12pl_p;1st (incl) Person Plural;43304;;;;chad1249;owens-1993
+int̪a;;2sg_a;2nd Person Singular;43303;;'int̪a' is the 2sgM form. The 2sgF form is 'int̪i' (Owens 1993:83-4).;;chad1249;owens-1993
+int̪a;;2sg_s;2nd Person Singular;43302;;'int̪a' is the 2sgM form. The 2sgF form is 'int̪i' (Owens 1993:83-4).;;chad1249;owens-1993
+-ak;;2sg_o;2nd Person Singular;43301;;Alternates with '-k' which appears suffixed to verbs with a word final vowel (Owens 1993:84). 2sgF form is '-'ki' (Owens 1993:84).;;chad1249;owens-1993
+-ak;;2sg_p;2nd Person Singular;43300;;Alternates with '-k' which appears suffixed to nouns with a word final vowel (Owens 1993:84). 2sgF form is '-'ki' (Owens 1993:84).;;chad1249;owens-1993
+int̪u;;2du_a;2nd Person Dual;43299;;'int̪u' is the 2dM form. 2plF form is 'int̪an' (Owens 1993:83).;;chad1249;owens-1993
+int̪u;;2du_s;2nd Person Dual;43298;;'int̪u' is the 2plM form. 2plF form is 'int̪an' (Owens 1993:83).;;chad1249;owens-1993
+-ku;;2du_o;2nd Person Dual;43297;;2dF form is '-kan' (Owens 1993:84).;;chad1249;owens-1993
+-ku;;2du_p;2nd Person Dual;43296;;2dF form is '-kan' (Owens 1993:84).;;chad1249;owens-1993
+int̪u;;2pl_a;2nd Person Plural;43295;;'int̪u' is the 2plM form. 2plF form is 'int̪an' (Owens 1993:83).;;chad1249;owens-1993
+int̪u;;2pl_s;2nd Person Plural;43294;;'intu' is the 2plM form. 2plF form is 'intan' (Owens 1993:83).;;chad1249;owens-1993
+-ku;;2pl_o;2nd Person Plural;43293;;2plF form is '-kan' (Owens 1993:84).;;chad1249;owens-1993
+-ku;;2pl_p;2nd Person Plural;43292;;2plF form is '-kan' (Owens 1993:84).;;chad1249;owens-1993
+hu;;3sg_m_a;3rd Person Singular Masculine;43291;;;;chad1249;owens-1993
+hu;;3sg_m_s;3rd Person Singular Masculine;43290;;;;chad1249;owens-1993
+-a;;3sg_m_o;3rd Person Singular Masculine;43289;;In free variation with '-e' (Owens 1993:84).;;chad1249;owens-1993
+-a;;3sg_m_p;3rd Person Singular Masculine;43288;;In free variation with '-e' (Owens 1993:84).;;chad1249;owens-1993
+hi;;3sg_n_a;3rd Person Singular Neuter;43287;;;;chad1249;owens-1993
+hi;;3sg_n_s;3rd Person Singular Neuter;43286;;;;chad1249;owens-1993
+-ha;;3sg_n_o;3rd Person Singular Neuter;43285;;In free variation with '-a/-he' (Owens 1993:84).;;chad1249;owens-1993
+-ha;;3sg_n_p;3rd Person Singular Neuter;43284;;In free variation with '-a/-he' (Owens 1993:84).;;chad1249;owens-1993
+humma;;3d-a;3rd Person Dual;43283;;'humma' is the 3dM form. 3dF is 'hinna' (Owens 1993:83).;;chad1249;owens-1993
+humma;;3d-s;3rd Person Dual;43282;;'humma' is the 3dM form. 3dF is 'hinna' (Owens 1993:83).;;chad1249;owens-1993
+-hum;;3d-o;3rd Person Dual;43281;;In free variation with '-um' and '-əm', while 3dF form is '-hin' (Owens 1993:84).;;chad1249;owens-1993
+-hum;;3d-p;3rd Person Dual;43280;;In free variation with '-um' and '-əm', while 3dF form is '-hin' (Owens 1993:84).;;chad1249;owens-1993
+humma;;3p-a;3rd Person Plural;43279;;'humma' is the 3dM form. 3dF is 'hinna' (Owens 1993:83).;;chad1249;owens-1993
+humma;;3p-s;3rd Person Plural;43278;;'humma' is the 3dM form. 3dF is 'hinna' (Owens 1993:83).;;chad1249;owens-1993
+-hum;;3p-o;3rd Person Plural;43277;;In free variation with '-um' and '-əm', while 3plF form is '-hin' (Owens 1993:84).;;chad1249;owens-1993
+-hum;;3p-p;3rd Person Plural;43276;;In free variation with '-um' and '-əm', while 3plF form is '-hin' (Owens 1993:84).;;chad1249;owens-1993

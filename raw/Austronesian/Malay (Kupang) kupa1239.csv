@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+beta;;1sg_a;1st (excl) Person Singular;61271;;;;kupa1239;steinhauer-1983
+beta;;1sg_s;1st (excl) Person Singular;61270;;;;kupa1239;steinhauer-1983
+beta;;1sg_o;1st (excl) Person Singular;61269;;;;kupa1239;steinhauer-1983
+beta;;1sg_p;1st (excl) Person Singular;61268;;;;kupa1239;steinhauer-1983
+botong;;1du_a;1st (excl) Person Dual;61267;;;;kupa1239;steinhauer-1983
+botong;;1du_s;1st (excl) Person Dual;61266;;;;kupa1239;steinhauer-1983
+botong;;1du_o;1st (excl) Person Dual;61265;;;;kupa1239;steinhauer-1983
+botong;;1du_p;1st (excl) Person Dual;61264;;;;kupa1239;steinhauer-1983
+botong;;1pl_a;1st (excl) Person Plural;61263;;;;kupa1239;steinhauer-1983
+botong;;1pl_s;1st (excl) Person Plural;61262;;;;kupa1239;steinhauer-1983
+botong;;1pl_o;1st (excl) Person Plural;61261;;;;kupa1239;steinhauer-1983
+botong;;1pl_p;1st (excl) Person Plural;61260;;;;kupa1239;steinhauer-1983
+kotong;;12du_a;1st (incl) Person Dual;61259;;;;kupa1239;steinhauer-1983
+kotong;;12du_s;1st (incl) Person Dual;61258;;;;kupa1239;steinhauer-1983
+kotong;;12du_o;1st (incl) Person Dual;61257;;;;kupa1239;steinhauer-1983
+kotong;;12du_p;1st (incl) Person Dual;61256;;;;kupa1239;steinhauer-1983
+kotong;;12pl_a;1st (incl) Person Plural;61255;;;;kupa1239;steinhauer-1983
+kotong;;12pl_s;1st (incl) Person Plural;61254;;;;kupa1239;steinhauer-1983
+kotong;;12pl_o;1st (incl) Person Plural;61253;;;;kupa1239;steinhauer-1983
+kotong;;12pl_p;1st (incl) Person Plural;61252;;;;kupa1239;steinhauer-1983
+lu;;2sg_a;2nd Person Singular;61251;;;;kupa1239;steinhauer-1983
+lu;;2sg_s;2nd Person Singular;61250;;;;kupa1239;steinhauer-1983
+lu;;2sg_o;2nd Person Singular;61249;;;;kupa1239;steinhauer-1983
+lu;;2sg_p;2nd Person Singular;61248;;;;kupa1239;steinhauer-1983
+bosong;;2du_a;2nd Person Dual;61247;;;;kupa1239;steinhauer-1983
+bosong;;2du_s;2nd Person Dual;61246;;;;kupa1239;steinhauer-1983
+bosong;;2du_o;2nd Person Dual;61245;;;;kupa1239;steinhauer-1983
+bosong;;2du_p;2nd Person Dual;61244;;;;kupa1239;steinhauer-1983
+bosong;;2pl_a;2nd Person Plural;61243;;;;kupa1239;steinhauer-1983
+bosong;;2pl_s;2nd Person Plural;61242;;;;kupa1239;steinhauer-1983
+bosong;;2pl_o;2nd Person Plural;61241;;;;kupa1239;steinhauer-1983
+bosong;;2pl_p;2nd Person Plural;61240;;;;kupa1239;steinhauer-1983
+dia;;3sg_m_a;3rd Person Singular Masculine;61239;;;;kupa1239;steinhauer-1983
+dia;;3sg_m_s;3rd Person Singular Masculine;61238;;;;kupa1239;steinhauer-1983
+dia;;3sg_m_o;3rd Person Singular Masculine;61237;;;;kupa1239;steinhauer-1983
+dia;;3sg_m_p;3rd Person Singular Masculine;61236;;;;kupa1239;steinhauer-1983
+dia;;3sg_n_a;3rd Person Singular Neuter;61235;;;;kupa1239;steinhauer-1983
+dia;;3sg_n_s;3rd Person Singular Neuter;61234;;;;kupa1239;steinhauer-1983
+dia;;3sg_n_o;3rd Person Singular Neuter;61233;;;;kupa1239;steinhauer-1983
+dia;;3sg_n_p;3rd Person Singular Neuter;61232;;;;kupa1239;steinhauer-1983
+dong;;3d-a;3rd Person Dual;61231;;;;kupa1239;steinhauer-1983
+dong;;3d-s;3rd Person Dual;61230;;;;kupa1239;steinhauer-1983
+dong;;3d-o;3rd Person Dual;61229;;;;kupa1239;steinhauer-1983
+dong;;3d-p;3rd Person Dual;61228;;;;kupa1239;steinhauer-1983
+dong;;3p-a;3rd Person Plural;61227;;;;kupa1239;steinhauer-1983
+dong;;3p-s;3rd Person Plural;61226;;;;kupa1239;steinhauer-1983
+dong;;3p-o;3rd Person Plural;61225;;;;kupa1239;steinhauer-1983
+dong;;3p-p;3rd Person Plural;61224;;;;kupa1239;steinhauer-1983

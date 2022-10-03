@@ -1,0 +1,37 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+onda;;1sg_a;1st (excl) Person Singular;41686;;;;mehe1243;paulon-et-al-2002
+onda;;1sg_s;1st (excl) Person Singular;41685;;;;mehe1243;paulon-et-al-2002
+onda;;1sg_o;1st (excl) Person Singular;41684;;;;mehe1243;paulon-et-al-2002
+numbra;;1du_a;1st (excl) Person Dual;41683;;;;mehe1243;paulon-et-al-2002
+numbra;;1du_s;1st (excl) Person Dual;41682;;;;mehe1243;paulon-et-al-2002
+numbra;;1du_o;1st (excl) Person Dual;41681;;;;mehe1243;paulon-et-al-2002
+numbra;;1pl_a;1st (excl) Person Plural;41680;;;;mehe1243;paulon-et-al-2002
+numbra;;1pl_s;1st (excl) Person Plural;41679;;;;mehe1243;paulon-et-al-2002
+numbra;;1pl_o;1st (excl) Person Plural;41678;;;;mehe1243;paulon-et-al-2002
+numbra, yelnda;;12du_a;1st (incl) Person Dual;41677;;;;mehe1243;paulon-et-al-2002
+numbra, yelnda;;12du_s;1st (incl) Person Dual;41676;;;;mehe1243;paulon-et-al-2002
+numbra, yelnda;;12du_o;1st (incl) Person Dual;41675;;;;mehe1243;paulon-et-al-2002
+numbra, yelnda;;12pl_a;1st (incl) Person Plural;41674;;;;mehe1243;paulon-et-al-2002
+numbra, yelnda;;12pl_s;1st (incl) Person Plural;41673;;;;mehe1243;paulon-et-al-2002
+numbra, yelnda;;12pl_o;1st (incl) Person Plural;41672;;;;mehe1243;paulon-et-al-2002
+nura;;2sg_a;2nd Person Singular;41671;;;;mehe1243;paulon-et-al-2002
+nura;;2sg_s;2nd Person Singular;41670;;;;mehe1243;paulon-et-al-2002
+nura;;2sg_o;2nd Person Singular;41669;;;;mehe1243;paulon-et-al-2002
+kumbra;;2du_a;2nd Person Dual;41668;;;;mehe1243;paulon-et-al-2002
+kumbra;;2du_s;2nd Person Dual;41667;;;;mehe1243;paulon-et-al-2002
+kumbra;;2du_o;2nd Person Dual;41666;;;;mehe1243;paulon-et-al-2002
+kumbra;;2pl_a;2nd Person Plural;41665;;;;mehe1243;paulon-et-al-2002
+kumbra;;2pl_s;2nd Person Plural;41664;;;;mehe1243;paulon-et-al-2002
+kumbra;;2pl_o;2nd Person Plural;41663;;;;mehe1243;paulon-et-al-2002
+ora;;3sg_m_a;3rd Person Singular Masculine;41662;;;;mehe1243;paulon-et-al-2002
+ora;;3sg_m_s;3rd Person Singular Masculine;41661;;;;mehe1243;paulon-et-al-2002
+ora;;3sg_m_o;3rd Person Singular Masculine;41660;;;;mehe1243;paulon-et-al-2002
+osa;;3sg_n_a;3rd Person Singular Neuter;41659;;;;mehe1243;paulon-et-al-2002
+osa;;3sg_n_s;3rd Person Singular Neuter;41658;;;;mehe1243;paulon-et-al-2002
+osa;;3sg_n_o;3rd Person Singular Neuter;41657;;;;mehe1243;paulon-et-al-2002
+mura;;3d-a;3rd Person Dual;41656;;;;mehe1243;paulon-et-al-2002
+mura;;3d-s;3rd Person Dual;41655;;;;mehe1243;paulon-et-al-2002
+mura;;3d-o;3rd Person Dual;41654;;;;mehe1243;paulon-et-al-2002
+mura;;3p-a;3rd Person Plural;41653;;;;mehe1243;paulon-et-al-2002
+mura;;3p-s;3rd Person Plural;41652;;;;mehe1243;paulon-et-al-2002
+mura;;3p-o;3rd Person Plural;41651;;;;mehe1243;paulon-et-al-2002

@@ -1,0 +1,77 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ɪx;;1sg_a;1st (excl) Person Singular;23623;;;;stan1295;evans-2013
+ɪx;;1sg_s;1st (excl) Person Singular;23624;;;;stan1295;evans-2013
+mɪx;;1sg_o;1st (excl) Person Singular;23625;;;;stan1295;evans-2013
+majn;;1sg_p;1st (excl) Person Singular;23626;;;;stan1295;evans-2013
+vir;;1du_a;1st (excl) Person Dual;23627;;;;stan1295;evans-2013
+vir;;1du_s;1st (excl) Person Dual;23628;;;;stan1295;evans-2013
+uns;;1du_o;1st (excl) Person Dual;23629;;;;stan1295;evans-2013
+unzer;;1du_p;1st (excl) Person Dual;23630;;;;stan1295;evans-2013
+vir;;1pl_a;1st (excl) Person Plural;23631;;;;stan1295;evans-2013
+vir;;1pl_s;1st (excl) Person Plural;23632;;;;stan1295;evans-2013
+uns;;1pl_o;1st (excl) Person Plural;23633;;;;stan1295;evans-2013
+unzer;;1pl_p;1st (excl) Person Plural;23634;;;;stan1295;evans-2013
+vir;;12du_a;1st (incl) Person Dual;23635;;;;stan1295;evans-2013
+vir;;12du_s;1st (incl) Person Dual;23636;;;;stan1295;evans-2013
+uns;;12du_o;1st (incl) Person Dual;23637;;;;stan1295;evans-2013
+unzer;;12du_p;1st (incl) Person Dual;23638;;;;stan1295;evans-2013
+vir;;12pl_a;1st (incl) Person Plural;23639;;;;stan1295;evans-2013
+vir;;12pl_s;1st (incl) Person Plural;23640;;;;stan1295;evans-2013
+uns;;12pl_o;1st (incl) Person Plural;23641;;;;stan1295;evans-2013
+unzer;;12pl_p;1st (incl) Person Plural;23642;;;;stan1295;evans-2013
+du;;2sg_a;2nd Person Singular;23643;;;;stan1295;evans-2013
+du;;2sg_s;2nd Person Singular;23644;;;;stan1295;evans-2013
+dɪx;;2sg_o;2nd Person Singular;23645;;;;stan1295;evans-2013
+dajn;;2sg_p;2nd Person Singular;23646;;;;stan1295;evans-2013
+iːr;;2du_a;2nd Person Dual;23647;;;;stan1295;evans-2013
+iːr;;2du_s;2nd Person Dual;23648;;;;stan1295;evans-2013
+ojx;;2du_o;2nd Person Dual;23649;;;;stan1295;evans-2013
+ojer;;2du_p;2nd Person Dual;23650;;;;stan1295;evans-2013
+iːr;;2pl_a;2nd Person Plural;23651;;;;stan1295;evans-2013
+iːr;;2pl_s;2nd Person Plural;23652;;;;stan1295;evans-2013
+ojx;;2pl_o;2nd Person Plural;23653;;;;stan1295;evans-2013
+ojer;;2pl_p;2nd Person Plural;23654;;;;stan1295;evans-2013
+er;;3sg_m_a;3rd Person Singular Masculine;23655;;;;stan1295;evans-2013
+er;;3sg_m_s;3rd Person Singular Masculine;23656;;;;stan1295;evans-2013
+iːn;;3sg_m_o;3rd Person Singular Masculine;23657;;;;stan1295;evans-2013
+zajn;;3sg_m_p;3rd Person Singular Masculine;23658;;;;stan1295;evans-2013
+siː;;3sg_f_a;3rd Person Singular Feminine;23659;;;;stan1295;evans-2013
+siː;;3sg_f_s;3rd Person Singular Feminine;23660;;;;stan1295;evans-2013
+siː;;3sg_f_o;3rd Person Singular Feminine;23661;;;;stan1295;evans-2013
+iːr;;3sg_f_p;3rd Person Singular Feminine;23662;;;;stan1295;evans-2013
+zi:;;3sg_n_a;3rd Person Singular Neuter;23663;;;;stan1295;evans-2013
+zi:;;3sg_n_s;3rd Person Singular Neuter;23664;;;;stan1295;evans-2013
+zi:;;3sg_n_o;3rd Person Singular Neuter;23665;;;;stan1295;evans-2013
+i:r;;3sg_n_p;3rd Person Singular Neuter;23666;;;;stan1295;evans-2013
+siː;;3du_m_a;3rd Person Dual Masculine;23667;;;;stan1295;evans-2013
+siː;;3du_m_s;3rd Person Dual Masculine;23668;;;;stan1295;evans-2013
+siː;;3du_m_o;3rd Person Dual Masculine;23669;;;;stan1295;evans-2013
+iːr;;3du_m_p;3rd Person Dual Masculine;23670;;;;stan1295;evans-2013
+siː;;3du_f_a;3rd Person Dual Feminine;23671;;;;stan1295;evans-2013
+siː;;3du_f_s;3rd Person Dual Feminine;23672;;;;stan1295;evans-2013
+siː;;3du_f_o;3rd Person Dual Feminine;23673;;;;stan1295;evans-2013
+iːr;;3du_f_p;3rd Person Dual Feminine;23674;;;;stan1295;evans-2013
+siː;;3du_n_a;3rd Person Dual Neuter;23675;;;;stan1295;evans-2013
+siː;;3du_n_s;3rd Person Dual Neuter;23676;;;;stan1295;evans-2013
+siː;;3du_n_o;3rd Person Dual Neuter;23677;;;;stan1295;evans-2013
+iːr;;3du_n_p;3rd Person Dual Neuter;23678;;;;stan1295;evans-2013
+siː;;3pl_m_a;3rd Person Plural Masculine;23679;;;;stan1295;evans-2013
+siː;;3pl_m_s;3rd Person Plural Masculine;23680;;;;stan1295;evans-2013
+siː;;3pl_m_o;3rd Person Plural Masculine;23681;;;;stan1295;evans-2013
+iːr;;3pl_m_p;3rd Person Plural Masculine;23682;;;;stan1295;evans-2013
+siː;;3pl_f_a;3rd Person Plural Feminine;23683;;;;stan1295;evans-2013
+siː;;3pl_f_s;3rd Person Plural Feminine;23684;;;;stan1295;evans-2013
+siː;;3pl_f_o;3rd Person Plural Feminine;23685;;;;stan1295;evans-2013
+iːr;;3pl_f_p;3rd Person Plural Feminine;23686;;;;stan1295;evans-2013
+siː;;3pl_n_a;3rd Person Plural Neuter;23687;;;;stan1295;evans-2013
+siː;;3pl_n_s;3rd Person Plural Neuter;23688;;;;stan1295;evans-2013
+siː;;3pl_n_o;3rd Person Plural Neuter;23689;;;;stan1295;evans-2013
+iːr;;3pl_n_p;3rd Person Plural Neuter;23690;;;;stan1295;evans-2013
+zi:;;3d-a;3rd Person Dual;36328;;;;stan1295;evans-2013
+zi:;;3d-s;3rd Person Dual;36554;;;;stan1295;evans-2013
+zi:;;3d-o;3rd Person Dual;36780;;;;stan1295;evans-2013
+iːr;;3d-p;3rd Person Dual;36989;;;;stan1295;evans-2013
+zi:;;3p-a;3rd Person Plural;37209;;;;stan1295;evans-2013
+zi:;;3p-s;3rd Person Plural;37435;;;;stan1295;evans-2013
+zi:;;3p-o;3rd Person Plural;37660;;;;stan1295;evans-2013
+iːr;;3p-p;3rd Person Plural;37868;;;;stan1295;evans-2013

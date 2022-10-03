@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+danu;;1sg_a;1st (excl) Person Singular;41918;;;;hata1243;reesink-2002
+danu;;1sg_s;1st (excl) Person Singular;41917;;;;hata1243;reesink-2002
+danu;;1sg_o;1st (excl) Person Singular;41916;;;;hata1243;reesink-2002
+dun;;1sg_p;1st (excl) Person Singular;41915;;;;hata1243;reesink-2002
+niwap;;1du_a;1st (excl) Person Dual;41914;;;;hata1243;reesink-2002
+niwap;;1du_s;1st (excl) Person Dual;41913;;;;hata1243;reesink-2002
+niwap;;1du_o;1st (excl) Person Dual;41912;;;;hata1243;reesink-2002
+ŋun;;1du_p;1st (excl) Person Dual;41911;;;;hata1243;reesink-2002
+niwap;;1pl_a;1st (excl) Person Plural;41910;;;;hata1243;reesink-2002
+niwap;;1pl_s;1st (excl) Person Plural;41909;;;;hata1243;reesink-2002
+niwap;;1pl_o;1st (excl) Person Plural;41908;;;;hata1243;reesink-2002
+ŋun;;1pl_p;1st (excl) Person Plural;41907;;;;hata1243;reesink-2002
+niwap;;12du_a;1st (incl) Person Dual;41906;;;;hata1243;reesink-2002
+niwap;;12du_s;1st (incl) Person Dual;41905;;;;hata1243;reesink-2002
+niwap;;12du_o;1st (incl) Person Dual;41904;;;;hata1243;reesink-2002
+ŋun;;12du_p;1st (incl) Person Dual;41903;;;;hata1243;reesink-2002
+niwap;;12pl_a;1st (incl) Person Plural;41902;;;;hata1243;reesink-2002
+niwap;;12pl_s;1st (incl) Person Plural;41901;;;;hata1243;reesink-2002
+niwap;;12pl_o;1st (incl) Person Plural;41900;;;;hata1243;reesink-2002
+ŋun;;12pl_p;1st (incl) Person Plural;41899;;;;hata1243;reesink-2002
+nanu;;2sg_a;2nd Person Singular;41898;;;;hata1243;reesink-2002
+nanu;;2sg_s;2nd Person Singular;41897;;;;hata1243;reesink-2002
+nanu;;2sg_o;2nd Person Singular;41896;;;;hata1243;reesink-2002
+mbun;;2sg_p;2nd Person Singular;41895;;;;hata1243;reesink-2002
+šenu;;2du_a;2nd Person Dual;41894;;;;hata1243;reesink-2002
+šenu;;2du_s;2nd Person Dual;41893;;;;hata1243;reesink-2002
+šenu;;2du_o;2nd Person Dual;41892;;;;hata1243;reesink-2002
+kun;;2du_p;2nd Person Dual;41891;;;;hata1243;reesink-2002
+šenu;;2pl_a;2nd Person Plural;41890;;;;hata1243;reesink-2002
+šenu;;2pl_s;2nd Person Plural;41889;;;;hata1243;reesink-2002
+šenu;;2pl_o;2nd Person Plural;41888;;;;hata1243;reesink-2002
+sun;;2pl_p;2nd Person Plural;41887;;;;hata1243;reesink-2002
+nenu;;3sg_m_a;3rd Person Singular Masculine;41886;;;;hata1243;reesink-2002
+nenu;;3sg_m_s;3rd Person Singular Masculine;41885;;;;hata1243;reesink-2002
+nenu;;3sg_m_o;3rd Person Singular Masculine;41884;;;;hata1243;reesink-2002
+den;;3sg_m_p;3rd Person Singular Masculine;41883;;;;hata1243;reesink-2002
+nenu;;3sg_n_a;3rd Person Singular Neuter;41882;;;;hata1243;reesink-2002
+nenu;;3sg_n_s;3rd Person Singular Neuter;41881;;;;hata1243;reesink-2002
+nenu;;3sg_n_o;3rd Person Singular Neuter;41880;;;;hata1243;reesink-2002
+den;;3sg_n_p;3rd Person Singular Neuter;41879;;;;hata1243;reesink-2002
+šenu;;3d-a;3rd Person Dual;41878;;;;hata1243;reesink-2002
+šenu;;3d-s;3rd Person Dual;41877;;;;hata1243;reesink-2002
+šenu;;3d-o;3rd Person Dual;41876;;;;hata1243;reesink-2002
+kun;;3d-p;3rd Person Dual;41875;;;;hata1243;reesink-2002
+šenu;;3p-a;3rd Person Plural;41874;;;;hata1243;reesink-2002
+šenu;;3p-s;3rd Person Plural;41873;;;;hata1243;reesink-2002
+šenu;;3p-o;3rd Person Plural;41872;;;;hata1243;reesink-2002
+sun;;3p-p;3rd Person Plural;41871;;;;hata1243;reesink-2002

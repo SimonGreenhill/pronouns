@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ana;;1sg_a;1st (excl) Person Singular;43658;;;;moro1292;harrell-1962
+ana;;1sg_s;1st (excl) Person Singular;43657;;;;moro1292;harrell-1962
+-i;;1sg_o;1st (excl) Person Singular;43656;;;;moro1292;harrell-1962
+-i;;1sg_p;1st (excl) Person Singular;43655;;;;moro1292;harrell-1962
+ħna ;;1du_a;1st (excl) Person Dual;43654;;;;moro1292;harrell-1962
+ħna ;;1du_s;1st (excl) Person Dual;43653;;;;moro1292;harrell-1962
+-na;;1du_o;1st (excl) Person Dual;43652;;;;moro1292;harrell-1962
+-na;;1du_p;1st (excl) Person Dual;43651;;;;moro1292;harrell-1962
+ħna ;;1pl_a;1st (excl) Person Plural;43650;;;;moro1292;harrell-1962
+ħna ;;1pl_s;1st (excl) Person Plural;43649;;;;moro1292;harrell-1962
+-na;;1pl_o;1st (excl) Person Plural;43648;;;;moro1292;harrell-1962
+-na;;1pl_p;1st (excl) Person Plural;43647;;;;moro1292;harrell-1962
+ħna ;;12du_a;1st (incl) Person Dual;43646;;;;moro1292;harrell-1962
+ħna ;;12du_s;1st (incl) Person Dual;43645;;;;moro1292;harrell-1962
+-na;;12du_o;1st (incl) Person Dual;43644;;;;moro1292;harrell-1962
+-na;;12du_p;1st (incl) Person Dual;43643;;;;moro1292;harrell-1962
+ħna ;;12pl_a;1st (incl) Person Plural;43642;;;;moro1292;harrell-1962
+ħna ;;12pl_s;1st (incl) Person Plural;43641;;;;moro1292;harrell-1962
+-na;;12pl_o;1st (incl) Person Plural;43640;;;;moro1292;harrell-1962
+-na;;12pl_p;1st (incl) Person Plural;43639;;;;moro1292;harrell-1962
+nta ;;2sg_a;2nd Person Singular;43638;;'nta' is in fact the 2sgM form, 'nti ~ ntija' are the 2sgF forms (Harrell 1962:134).;;moro1292;harrell-1962
+nta ;;2sg_s;2nd Person Singular;43637;;'nta' is in fact the 2sgM form, 'nti ~ ntija' are the 2sgF forms (Harrell 1962:134).;;moro1292;harrell-1962
+-ek;;2sg_o;2nd Person Singular;43636;;;;moro1292;harrell-1962
+-ek;;2sg_p;2nd Person Singular;43635;;;;moro1292;harrell-1962
+ntuma ;;2du_a;2nd Person Dual;43634;;;;moro1292;harrell-1962
+ntuma ;;2du_s;2nd Person Dual;43633;;;;moro1292;harrell-1962
+-kom;;2du_o;2nd Person Dual;43632;;;;moro1292;harrell-1962
+-kom;;2du_p;2nd Person Dual;43631;;;;moro1292;harrell-1962
+ntuma ;;2pl_a;2nd Person Plural;43630;;;;moro1292;harrell-1962
+ntuma ;;2pl_s;2nd Person Plural;43629;;;;moro1292;harrell-1962
+-kom;;2pl_o;2nd Person Plural;43628;;;;moro1292;harrell-1962
+-kom;;2pl_p;2nd Person Plural;43627;;;;moro1292;harrell-1962
+huwa ;;3sg_m_a;3rd Person Singular Masculine;43626;;;;moro1292;harrell-1962
+huwa ;;3sg_m_s;3rd Person Singular Masculine;43625;;;;moro1292;harrell-1962
+-u;;3sg_m_o;3rd Person Singular Masculine;43624;;;;moro1292;harrell-1962
+-u;;3sg_m_p;3rd Person Singular Masculine;43623;;;;moro1292;harrell-1962
+huwa ;;3sg_n_a;3rd Person Singular Neuter;43622;;;;moro1292;harrell-1962
+huwa ;;3sg_n_s;3rd Person Singular Neuter;43621;;;;moro1292;harrell-1962
+-ha;;3sg_n_o;3rd Person Singular Neuter;43620;;;;moro1292;harrell-1962
+-ha;;3sg_n_p;3rd Person Singular Neuter;43619;;;;moro1292;harrell-1962
+huma ;;3d-a;3rd Person Dual;43618;;;;moro1292;harrell-1962
+huma ;;3d-s;3rd Person Dual;43617;;;;moro1292;harrell-1962
+-hom;;3d-o;3rd Person Dual;43616;;;;moro1292;harrell-1962
+-hom;;3d-p;3rd Person Dual;43615;;;;moro1292;harrell-1962
+huma ;;3p-a;3rd Person Plural;43614;;;;moro1292;harrell-1962
+huma ;;3p-s;3rd Person Plural;43613;;;;moro1292;harrell-1962
+-hom;;3p-o;3rd Person Plural;43612;;;;moro1292;harrell-1962
+-hom;;3p-p;3rd Person Plural;43611;;;;moro1292;harrell-1962

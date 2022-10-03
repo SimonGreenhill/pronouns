@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ama;;1sg_a;1st (excl) Person Singular;47118;;;;yima1243;foley-2005
+ama;;1sg_s;1st (excl) Person Singular;47117;;;;yima1243;foley-2005
+ama;;1sg_o;1st (excl) Person Singular;47116;;;;yima1243;foley-2005
+ama-;;1sg_p;1st (excl) Person Singular;47115;;;;yima1243;foley-2005
+kapa;;1du_a;1st (excl) Person Dual;47114;;;;yima1243;foley-2005
+kapa;;1du_s;1st (excl) Person Dual;47113;;;;yima1243;foley-2005
+kapa;;1du_o;1st (excl) Person Dual;47112;;;;yima1243;foley-2005
+kapa-;;1du_p;1st (excl) Person Dual;47111;;;;yima1243;foley-2005
+ipa;;1pl_a;1st (excl) Person Plural;47110;;;;yima1243;foley-2005
+ipa;;1pl_s;1st (excl) Person Plural;47109;;;;yima1243;foley-2005
+ipa;;1pl_o;1st (excl) Person Plural;47108;;;;yima1243;foley-2005
+ipa-;;1pl_p;1st (excl) Person Plural;47107;;;;yima1243;foley-2005
+kapa;;12du_a;1st (incl) Person Dual;47106;;;;yima1243;foley-2005
+kapa;;12du_s;1st (incl) Person Dual;47105;;;;yima1243;foley-2005
+kapa;;12du_o;1st (incl) Person Dual;47104;;;;yima1243;foley-2005
+kapa-;;12du_p;1st (incl) Person Dual;47103;;;;yima1243;foley-2005
+ipa;;12pl_a;1st (incl) Person Plural;47102;;;;yima1243;foley-2005
+ipa;;12pl_s;1st (incl) Person Plural;47101;;;;yima1243;foley-2005
+ipa;;12pl_o;1st (incl) Person Plural;47100;;;;yima1243;foley-2005
+ipa-;;12pl_p;1st (incl) Person Plural;47099;;;;yima1243;foley-2005
+mi;;2sg_a;2nd Person Singular;47098;;;;yima1243;foley-2005
+mi;;2sg_s;2nd Person Singular;47097;;;;yima1243;foley-2005
+mi;;2sg_o;2nd Person Singular;47096;;;;yima1243;foley-2005
+mi-;;2sg_p;2nd Person Singular;47095;;;;yima1243;foley-2005
+kapwa;;2du_a;2nd Person Dual;47094;;;;yima1243;foley-2005
+kapwa;;2du_s;2nd Person Dual;47093;;;;yima1243;foley-2005
+kapwa;;2du_o;2nd Person Dual;47092;;;;yima1243;foley-2005
+kapwa-;;2du_p;2nd Person Dual;47091;;;;yima1243;foley-2005
+ipwa;;2pl_a;2nd Person Plural;47090;;;;yima1243;foley-2005
+ipwa;;2pl_s;2nd Person Plural;47089;;;;yima1243;foley-2005
+ipwa;;2pl_o;2nd Person Plural;47088;;;;yima1243;foley-2005
+ipwa-;;2pl_p;2nd Person Plural;47087;;;;yima1243;foley-2005
+mɨn;;3sg_m_a;3rd Person Singular Masculine;47086;;;;yima1243;foley-2005
+mɨn;;3sg_m_s;3rd Person Singular Masculine;47085;;;;yima1243;foley-2005
+mɨn;;3sg_m_o;3rd Person Singular Masculine;47084;;;;yima1243;foley-2005
+m-;;3sg_m_p;3rd Person Singular Masculine;47083;;;;yima1243;foley-2005
+mɨn;;3sg_n_a;3rd Person Singular Neuter;47082;;;;yima1243;foley-2005
+mɨn;;3sg_n_s;3rd Person Singular Neuter;47081;;;;yima1243;foley-2005
+mɨn;;3sg_n_o;3rd Person Singular Neuter;47080;;;;yima1243;foley-2005
+m-;;3sg_n_p;3rd Person Singular Neuter;47079;;;;yima1243;foley-2005
+impan;;3d-a;3rd Person Dual;47078;;;;yima1243;foley-2005
+impan;;3d-s;3rd Person Dual;47077;;;;yima1243;foley-2005
+impan;;3d-o;3rd Person Dual;47076;;;;yima1243;foley-2005
+mpi-;;3d-p;3rd Person Dual;47075;;;;yima1243;foley-2005
+mum;;3p-a;3rd Person Plural;47074;;;;yima1243;foley-2005
+mum;;3p-s;3rd Person Plural;47073;;;;yima1243;foley-2005
+mum;;3p-o;3rd Person Plural;47072;;;;yima1243;foley-2005
+mpu-;;3p-p;3rd Person Plural;47071;;;;yima1243;foley-2005

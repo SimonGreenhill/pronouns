@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+mafa;;1sg_a;1st (excl) Person Singular;50062;;;;mono1273;evans-2015
+mafa;;1sg_s;1st (excl) Person Singular;50061;;;;mono1273;evans-2015
+-afa;;1sg_o;1st (excl) Person Singular;50060;;;;mono1273;evans-2015
+-gu;;1sg_p;1st (excl) Person Singular;50059;;;;mono1273;evans-2015
+mani;;1du_a;1st (excl) Person Dual;50058;;;;mono1273;evans-2015
+mani;;1du_s;1st (excl) Person Dual;50057;;;;mono1273;evans-2015
+mani;;1du_o;1st (excl) Person Dual;50056;;;;mono1273;evans-2015
+-mang;;1du_p;1st (excl) Person Dual;50055;;The form '-ma' also exists.;;mono1273;evans-2015
+mani;;1pl_a;1st (excl) Person Plural;50054;;;;mono1273;evans-2015
+mani;;1pl_s;1st (excl) Person Plural;50053;;;;mono1273;evans-2015
+mani;;1pl_o;1st (excl) Person Plural;50052;;;;mono1273;evans-2015
+-mang;;1pl_p;1st (excl) Person Plural;50051;;The form '-ma' also exists.;;mono1273;evans-2015
+maita;;12du_a;1st (incl) Person Dual;50050;;;;mono1273;evans-2015
+maita;;12du_s;1st (incl) Person Dual;50049;;;;mono1273;evans-2015
+maita;;12du_o;1st (incl) Person Dual;50048;;;;mono1273;evans-2015
+-ra;;12du_p;1st (incl) Person Dual;50047;;;;mono1273;evans-2015
+maita;;12pl_a;1st (incl) Person Plural;50046;;;;mono1273;evans-2015
+maita;;12pl_s;1st (incl) Person Plural;50045;;;;mono1273;evans-2015
+maita;;12pl_o;1st (incl) Person Plural;50044;;;;mono1273;evans-2015
+-ra;;12pl_p;1st (incl) Person Plural;50043;;;;mono1273;evans-2015
+maito;;2sg_a;2nd Person Singular;50042;;;;mono1273;evans-2015
+maito;;2sg_s;2nd Person Singular;50041;;;;mono1273;evans-2015
+-o;;2sg_o;2nd Person Singular;50040;;;;mono1273;evans-2015
+-ng;;2sg_p;2nd Person Singular;50039;;;;mono1273;evans-2015
+maang;;2du_a;2nd Person Dual;50038;;;;mono1273;evans-2015
+maang;;2du_s;2nd Person Dual;50037;;;;mono1273;evans-2015
+maang;;2du_o;2nd Person Dual;50036;;;;mono1273;evans-2015
+-mia;;2du_p;2nd Person Dual;50035;;;;mono1273;evans-2015
+maang;;2pl_a;2nd Person Plural;50034;;;;mono1273;evans-2015
+maang;;2pl_s;2nd Person Plural;50033;;;;mono1273;evans-2015
+maang;;2pl_o;2nd Person Plural;50032;;;;mono1273;evans-2015
+-mia;;2pl_p;2nd Person Plural;50031;;;;mono1273;evans-2015
+∅;;3sg_m_a;3rd Person Singular Masculine;50030;;;;mono1273;evans-2015
+∅;;3sg_m_s;3rd Person Singular Masculine;50029;;;;mono1273;evans-2015
+-i;;3sg_m_o;3rd Person Singular Masculine;50028;;The form '-ng' also exists.;;mono1273;evans-2015
+-na;;3sg_m_p;3rd Person Singular Masculine;50027;;;;mono1273;evans-2015
+∅;;3sg_n_a;3rd Person Singular Neuter;50026;;;;mono1273;evans-2015
+∅;;3sg_n_s;3rd Person Singular Neuter;50025;;;;mono1273;evans-2015
+-i;;3sg_n_o;3rd Person Singular Neuter;50024;;The form '-ng' also exists.;;mono1273;evans-2015
+-na;;3sg_n_p;3rd Person Singular Neuter;50023;;;;mono1273;evans-2015
+∅;;3d-a;3rd Person Dual;50022;;;;mono1273;evans-2015
+∅;;3d-s;3rd Person Dual;50021;;;;mono1273;evans-2015
+∅;;3d-o;3rd Person Dual;50020;;;;mono1273;evans-2015
+-iri;;3d-p;3rd Person Dual;50019;;The form '-ri' also exists.;;mono1273;evans-2015
+∅;;3p-a;3rd Person Plural;50018;;;;mono1273;evans-2015
+∅;;3p-s;3rd Person Plural;50017;;;;mono1273;evans-2015
+∅;;3p-o;3rd Person Plural;50016;;;;mono1273;evans-2015
+-iri;;3p-p;3rd Person Plural;50015;;The form '-ri' also exists.;;mono1273;evans-2015

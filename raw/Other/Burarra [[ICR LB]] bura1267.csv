@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ngaypa;;1sg_a;1st (excl) Person Singular;62099;;;;bura1267;green-1987
+ngaypa;;1sg_s;1st (excl) Person Singular;62098;;;;bura1267;green-1987
+ngaypa;;1sg_o;1st (excl) Person Singular;62097;;;;bura1267;green-1987
+gun=ngaypa;;1sg_p;1st (excl) Person Singular;62096;;;;bura1267;green-1987
+ngatipa;;1du_a;1st (excl) Person Dual;62095;;;;bura1267;green-1987
+ngatipa;;1du_s;1st (excl) Person Dual;62094;;;;bura1267;green-1987
+ngatipa;;1du_o;1st (excl) Person Dual;62093;;;;bura1267;green-1987
+gun=ngatipa;;1du_p;1st (excl) Person Dual;62092;;;;bura1267;green-1987
+ngayburrpa;;1pl_a;1st (excl) Person Plural;62091;;;;bura1267;green-1987
+ngayburrpa;;1pl_s;1st (excl) Person Plural;62090;;;;bura1267;green-1987
+ngayburrpa;;1pl_o;1st (excl) Person Plural;62089;;;;bura1267;green-1987
+gun=ngayburrpa;;1pl_p;1st (excl) Person Plural;62088;;;;bura1267;green-1987
+ngarripa;;12du_a;1st (incl) Person Dual;62087;;;;bura1267;green-1987
+ngarripa;;12du_s;1st (incl) Person Dual;62086;;;;bura1267;green-1987
+ngarripa;;12du_o;1st (incl) Person Dual;62085;;;;bura1267;green-1987
+gun=ngarripa;;12du_p;1st (incl) Person Dual;62084;;;;bura1267;green-1987
+ngayburrpa;;12pl_a;1st (incl) Person Plural;62083;;;;bura1267;green-1987
+ngayburrpa;;12pl_s;1st (incl) Person Plural;62082;;;;bura1267;green-1987
+ngayburrpa;;12pl_o;1st (incl) Person Plural;62081;;;;bura1267;green-1987
+gun=ngayburrpa;;12pl_p;1st (incl) Person Plural;62080;;;;bura1267;green-1987
+nginyipa;;2sg_a;2nd Person Singular;62079;;;;bura1267;green-1987
+nginyipa;;2sg_s;2nd Person Singular;62078;;;;bura1267;green-1987
+nginyipa;;2sg_o;2nd Person Singular;62077;;;;bura1267;green-1987
+gun=nginyipa;;2sg_p;2nd Person Singular;62076;;;;bura1267;green-1987
+anagotipa;;2du_a;2nd Person Dual;62075;;anagotipa is the non-feminine form. anagorrinyjipa is the feminine form.;;bura1267;green-1987
+anagotipa;;2du_s;2nd Person Dual;62074;;anagotipa is the non-feminine form. anagorrinyjipa is the feminine form.;;bura1267;green-1987
+anagotipa;;2du_o;2nd Person Dual;62073;;anagotipa is the non-feminine form. anagorrinyjipa is the feminine form.;;bura1267;green-1987
+gun=anagotipa;;2du_p;2nd Person Dual;62072;;;;bura1267;green-1987
+anagoyburrpa;;2pl_a;2nd Person Plural;62071;;;;bura1267;green-1987
+anagoyburrpa;;2pl_s;2nd Person Plural;62070;;;;bura1267;green-1987
+anagoyburrpa;;2pl_o;2nd Person Plural;62069;;;;bura1267;green-1987
+gun=anagoyburrpa;;2pl_p;2nd Person Plural;62068;;;;bura1267;green-1987
+nipa;;3sg_m_a;3rd Person Singular Masculine;62067;;;;bura1267;green-1987
+nipa;;3sg_m_s;3rd Person Singular Masculine;62066;;;;bura1267;green-1987
+nipa;;3sg_m_o;3rd Person Singular Masculine;62065;;;;bura1267;green-1987
+gun=nipa;;3sg_m_p;3rd Person Singular Masculine;62064;;;;bura1267;green-1987
+nipa;;3sg_n_a;3rd Person Singular Neuter;62063;;;;bura1267;green-1987
+nipa;;3sg_n_s;3rd Person Singular Neuter;62062;;;;bura1267;green-1987
+nipa;;3sg_n_o;3rd Person Singular Neuter;62061;;;;bura1267;green-1987
+gun=nipa;;3sg_n_p;3rd Person Singular Neuter;62060;;;;bura1267;green-1987
+bitipa;;3d-a;3rd Person Dual;62059;;bitipa is the non-feminine form. birrinyjipa is the feminine form.;;bura1267;green-1987
+bitipa;;3d-s;3rd Person Dual;62058;;bitipa is the non-feminine form. birrinyjipa is the feminine form.;;bura1267;green-1987
+bitipa;;3d-o;3rd Person Dual;62057;;bitipa is the non-feminine form. birrinyjipa is the feminine form.;;bura1267;green-1987
+gun=bitipa;;3d-p;3rd Person Dual;62056;;;;bura1267;green-1987
+birripa;;3p-a;3rd Person Plural;62055;;;;bura1267;green-1987
+birripa;;3p-s;3rd Person Plural;62054;;;;bura1267;green-1987
+birripa;;3p-o;3rd Person Plural;62053;;;;bura1267;green-1987
+gun=birripa;;3p-p;3rd Person Plural;62052;;;;bura1267;green-1987

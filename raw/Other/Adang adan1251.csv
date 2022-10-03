@@ -1,0 +1,133 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+na;;1sg_a;1st (excl) Person Singular;38402;;;;adan1251;haan-2001
+na;;1sg_s;1st (excl) Person Singular;38403;;;;adan1251;haan-2001
+nari;;1sg_o;1st (excl) Person Singular;38405;;;;adan1251;haan-2001
+nɔ;;1sg_p;1st (excl) Person Singular;38408;;;;adan1251;haan-2001
+ni;;1du_a;1st (excl) Person Dual;38409;;;;adan1251;haan-2001
+ni;;1du_s;1st (excl) Person Dual;38410;;;;adan1251;haan-2001
+iri;;1du_o;1st (excl) Person Dual;38411;;;;adan1251;haan-2001
+ni;;1du_p;1st (excl) Person Dual;38413;;;;adan1251;haan-2001
+ni;;1pl_a;1st (excl) Person Plural;38416;;;;adan1251;haan-2001
+ni;;1pl_s;1st (excl) Person Plural;38417;;;;adan1251;haan-2001
+iri;;1pl_o;1st (excl) Person Plural;38418;;;;adan1251;haan-2001
+ni;;1pl_p;1st (excl) Person Plural;38420;;;;adan1251;haan-2001
+pi;;12du_a;1st (incl) Person Dual;38423;;;;adan1251;haan-2001
+pi;;12du_s;1st (incl) Person Dual;38424;;;;adan1251;haan-2001
+tari;;12du_o;1st (incl) Person Dual;38427;;;;adan1251;haan-2001
+tɔ;;12du_p;1st (incl) Person Dual;38432;;;;adan1251;haan-2001
+pi;;12pl_a;1st (incl) Person Plural;38433;;;;adan1251;haan-2001
+pi;;12pl_s;1st (incl) Person Plural;38434;;;;adan1251;haan-2001
+tari;;12pl_o;1st (incl) Person Plural;38437;;;;adan1251;haan-2001
+tɔ;;12pl_p;1st (incl) Person Plural;38442;;;;adan1251;haan-2001
+a;;2sg_a;2nd Person Singular;38443;;;;adan1251;haan-2001
+a;;2sg_s;2nd Person Singular;38444;;;;adan1251;haan-2001
+ari;;2sg_o;2nd Person Singular;38446;;;;adan1251;haan-2001
+ɔ;;2sg_p;2nd Person Singular;38449;;;;adan1251;haan-2001
+i;;2du_a;2nd Person Dual;38450;;;;adan1251;haan-2001
+i;;2du_s;2nd Person Dual;38451;;;;adan1251;haan-2001
+iri;;2du_o;2nd Person Dual;38453;;;;adan1251;haan-2001
+i;;2du_p;2nd Person Dual;38454;;;;adan1251;haan-2001
+i;;2pl_a;2nd Person Plural;38457;;;;adan1251;haan-2001
+i;;2pl_s;2nd Person Plural;38458;;;;adan1251;haan-2001
+iri;;2pl_o;2nd Person Plural;38460;;;;adan1251;haan-2001
+i;;2pl_p;2nd Person Plural;38461;;;;adan1251;haan-2001
+sa;;3sg_m_a;3rd Person Singular Masculine;38464;;;;adan1251;haan-2001
+sa;;3sg_m_s;3rd Person Singular Masculine;38465;;;;adan1251;haan-2001
+sari;;3sg_m_o;3rd Person Singular Masculine;38467;;;;adan1251;haan-2001
+sɔ;;3sg_m_p;3rd Person Singular Masculine;38472;;;;adan1251;haan-2001
+sa;;3sg_f_a;3rd Person Singular Feminine;38476;;;;adan1251;haan-2001
+sa;;3sg_f_s;3rd Person Singular Feminine;38477;;;;adan1251;haan-2001
+sa-;;3sg_f_o;3rd Person Singular Feminine;38478;;;;adan1251;haan-2001
+sari;;3sg_f_o;3rd Person Singular Feminine;38479;;;;adan1251;haan-2001
+ʔa-;;3sg_f_o;3rd Person Singular Feminine;38480;;;;adan1251;haan-2001
+ʔari;;3sg_f_o;3rd Person Singular Feminine;38481;;;;adan1251;haan-2001
+sa-;;3sg_f_p;3rd Person Singular Feminine;38482;;;;adan1251;haan-2001
+se;;3sg_f_p;3rd Person Singular Feminine;38483;;;;adan1251;haan-2001
+sɔ;;3sg_f_p;3rd Person Singular Feminine;38484;;;;adan1251;haan-2001
+ʔa-;;3sg_f_p;3rd Person Singular Feminine;38485;;;;adan1251;haan-2001
+ʔe;;3sg_f_p;3rd Person Singular Feminine;38486;;;;adan1251;haan-2001
+ʔɔ;;3sg_f_p;3rd Person Singular Feminine;38487;;;;adan1251;haan-2001
+sa;;3sg_n_a;3rd Person Singular Neuter;38488;;;;adan1251;haan-2001
+sa;;3sg_n_s;3rd Person Singular Neuter;38489;;;;adan1251;haan-2001
+sari;;3sg_n_o;3rd Person Singular Neuter;38491;;;;adan1251;haan-2001
+sɔ;;3sg_n_p;3rd Person Singular Neuter;38496;;;;adan1251;haan-2001
+supi;;3du_m_a;3rd Person Dual Masculine;38500;;;;adan1251;haan-2001
+supi;;3du_m_s;3rd Person Dual Masculine;38501;;;;adan1251;haan-2001
+sa-;;3du_m_o;3rd Person Dual Masculine;38502;;;;adan1251;haan-2001
+sari;;3du_m_o;3rd Person Dual Masculine;38503;;;;adan1251;haan-2001
+supi (aʔri);;3du_m_o;3rd Person Dual Masculine;38504;;;;adan1251;haan-2001
+ʔa-;;3du_m_o;3rd Person Dual Masculine;38505;;;;adan1251;haan-2001
+sa-;;3du_m_p;3rd Person Dual Masculine;38506;;;;adan1251;haan-2001
+se;;3du_m_p;3rd Person Dual Masculine;38507;;;;adan1251;haan-2001
+supi ʔe;;3du_m_p;3rd Person Dual Masculine;38508;;;;adan1251;haan-2001
+supi ʔɔ;;3du_m_p;3rd Person Dual Masculine;38509;;;;adan1251;haan-2001
+sɔ;;3du_m_p;3rd Person Dual Masculine;38510;;;;adan1251;haan-2001
+ʔa-;;3du_m_p;3rd Person Dual Masculine;38511;;;;adan1251;haan-2001
+supi;;3du_f_a;3rd Person Dual Feminine;38512;;;;adan1251;haan-2001
+supi;;3du_f_s;3rd Person Dual Feminine;38513;;;;adan1251;haan-2001
+sa-;;3du_f_o;3rd Person Dual Feminine;38514;;;;adan1251;haan-2001
+sari;;3du_f_o;3rd Person Dual Feminine;38515;;;;adan1251;haan-2001
+supi (aʔri);;3du_f_o;3rd Person Dual Feminine;38516;;;;adan1251;haan-2001
+ʔa-;;3du_f_o;3rd Person Dual Feminine;38517;;;;adan1251;haan-2001
+sa-;;3du_f_p;3rd Person Dual Feminine;38518;;;;adan1251;haan-2001
+se;;3du_f_p;3rd Person Dual Feminine;38519;;;;adan1251;haan-2001
+supi ʔe;;3du_f_p;3rd Person Dual Feminine;38520;;;;adan1251;haan-2001
+supi ʔɔ;;3du_f_p;3rd Person Dual Feminine;38521;;;;adan1251;haan-2001
+sɔ;;3du_f_p;3rd Person Dual Feminine;38522;;;;adan1251;haan-2001
+ʔa-;;3du_f_p;3rd Person Dual Feminine;38523;;;;adan1251;haan-2001
+supi;;3du_n_a;3rd Person Dual Neuter;38524;;;;adan1251;haan-2001
+supi;;3du_n_s;3rd Person Dual Neuter;38525;;;;adan1251;haan-2001
+sa-;;3du_n_o;3rd Person Dual Neuter;38526;;;;adan1251;haan-2001
+sari;;3du_n_o;3rd Person Dual Neuter;38527;;;;adan1251;haan-2001
+supi (aʔri);;3du_n_o;3rd Person Dual Neuter;38528;;;;adan1251;haan-2001
+ʔa-;;3du_n_o;3rd Person Dual Neuter;38529;;;;adan1251;haan-2001
+sa-;;3du_n_p;3rd Person Dual Neuter;38530;;;;adan1251;haan-2001
+se;;3du_n_p;3rd Person Dual Neuter;38531;;;;adan1251;haan-2001
+supi ʔe;;3du_n_p;3rd Person Dual Neuter;38532;;;;adan1251;haan-2001
+supi ʔɔ;;3du_n_p;3rd Person Dual Neuter;38533;;;;adan1251;haan-2001
+sɔ;;3du_n_p;3rd Person Dual Neuter;38534;;;;adan1251;haan-2001
+ʔa-;;3du_n_p;3rd Person Dual Neuter;38535;;;;adan1251;haan-2001
+supi;;3pl_m_a;3rd Person Plural Masculine;38536;;;;adan1251;haan-2001
+supi;;3pl_m_s;3rd Person Plural Masculine;38537;;;;adan1251;haan-2001
+sa-;;3pl_m_o;3rd Person Plural Masculine;38538;;;;adan1251;haan-2001
+sari;;3pl_m_o;3rd Person Plural Masculine;38539;;;;adan1251;haan-2001
+supi (aʔri);;3pl_m_o;3rd Person Plural Masculine;38540;;;;adan1251;haan-2001
+ʔa-;;3pl_m_o;3rd Person Plural Masculine;38541;;;;adan1251;haan-2001
+sa-;;3pl_m_p;3rd Person Plural Masculine;38542;;;;adan1251;haan-2001
+se;;3pl_m_p;3rd Person Plural Masculine;38543;;;;adan1251;haan-2001
+supi ʔe;;3pl_m_p;3rd Person Plural Masculine;38544;;;;adan1251;haan-2001
+supi ʔɔ;;3pl_m_p;3rd Person Plural Masculine;38545;;;;adan1251;haan-2001
+sɔ;;3pl_m_p;3rd Person Plural Masculine;38546;;;;adan1251;haan-2001
+ʔa-;;3pl_m_p;3rd Person Plural Masculine;38547;;;;adan1251;haan-2001
+supi;;3pl_f_a;3rd Person Plural Feminine;38548;;;;adan1251;haan-2001
+supi;;3pl_f_s;3rd Person Plural Feminine;38549;;;;adan1251;haan-2001
+sa-;;3pl_f_o;3rd Person Plural Feminine;38550;;;;adan1251;haan-2001
+sari;;3pl_f_o;3rd Person Plural Feminine;38551;;;;adan1251;haan-2001
+supi (aʔri);;3pl_f_o;3rd Person Plural Feminine;38552;;;;adan1251;haan-2001
+ʔa-;;3pl_f_o;3rd Person Plural Feminine;38553;;;;adan1251;haan-2001
+sa-;;3pl_f_p;3rd Person Plural Feminine;38554;;;;adan1251;haan-2001
+se;;3pl_f_p;3rd Person Plural Feminine;38555;;;;adan1251;haan-2001
+supi ʔe;;3pl_f_p;3rd Person Plural Feminine;38556;;;;adan1251;haan-2001
+supi ʔɔ;;3pl_f_p;3rd Person Plural Feminine;38557;;;;adan1251;haan-2001
+sɔ;;3pl_f_p;3rd Person Plural Feminine;38558;;;;adan1251;haan-2001
+ʔa-;;3pl_f_p;3rd Person Plural Feminine;38559;;;;adan1251;haan-2001
+supi;;3pl_n_a;3rd Person Plural Neuter;38560;;;;adan1251;haan-2001
+supi;;3pl_n_s;3rd Person Plural Neuter;38561;;;;adan1251;haan-2001
+sa-;;3pl_n_o;3rd Person Plural Neuter;38562;;;;adan1251;haan-2001
+sari;;3pl_n_o;3rd Person Plural Neuter;38563;;;;adan1251;haan-2001
+supi (aʔri);;3pl_n_o;3rd Person Plural Neuter;38564;;;;adan1251;haan-2001
+ʔa-;;3pl_n_o;3rd Person Plural Neuter;38565;;;;adan1251;haan-2001
+sa-;;3pl_n_p;3rd Person Plural Neuter;38566;;;;adan1251;haan-2001
+se;;3pl_n_p;3rd Person Plural Neuter;38567;;;;adan1251;haan-2001
+supi ʔe;;3pl_n_p;3rd Person Plural Neuter;38568;;;;adan1251;haan-2001
+supi ʔɔ;;3pl_n_p;3rd Person Plural Neuter;38569;;;;adan1251;haan-2001
+sɔ;;3pl_n_p;3rd Person Plural Neuter;38570;;;;adan1251;haan-2001
+ʔa-;;3pl_n_p;3rd Person Plural Neuter;38571;;;;adan1251;haan-2001
+supi;;3d-a;3rd Person Dual;38401;;;;adan1251;haan-2001
+supi;;3d-s;3rd Person Dual;38400;;;;adan1251;haan-2001
+sari;;3d-o;3rd Person Dual;38397;;;;adan1251;haan-2001
+sɔ;;3d-p;3rd Person Dual;38394;;;;adan1251;haan-2001
+supi;;3p-a;3rd Person Plural;38389;;;;adan1251;haan-2001
+supi;;3p-s;3rd Person Plural;38388;;;;adan1251;haan-2001
+sari;;3p-o;3rd Person Plural;38385;;;;adan1251;haan-2001
+sɔ;;3p-p;3rd Person Plural;38382;;;;adan1251;haan-2001

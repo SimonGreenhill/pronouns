@@ -1,0 +1,77 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+je;;1sg_a;1st (excl) Person Singular;27620;;;;stan1290;harris-1988
+je;;1sg_s;1st (excl) Person Singular;27621;;;;stan1290;harris-1988
+me;;1sg_o;1st (excl) Person Singular;27622;;;;stan1290;harris-1988
+mon;;1sg_p;1st (excl) Person Singular;27623;;;;stan1290;harris-1988
+nous;;1du_a;1st (excl) Person Dual;27624;;;;stan1290;harris-1988
+nous;;1du_s;1st (excl) Person Dual;27625;;;;stan1290;harris-1988
+nous;;1du_o;1st (excl) Person Dual;27626;;;;stan1290;harris-1988
+notre;;1du_p;1st (excl) Person Dual;27627;;;;stan1290;harris-1988
+nous;;1pl_a;1st (excl) Person Plural;27628;;;;stan1290;harris-1988
+nous;;1pl_s;1st (excl) Person Plural;27629;;;;stan1290;harris-1988
+nous;;1pl_o;1st (excl) Person Plural;27630;;;;stan1290;harris-1988
+notre;;1pl_p;1st (excl) Person Plural;27631;;;;stan1290;harris-1988
+nous;;12du_a;1st (incl) Person Dual;27632;;;;stan1290;harris-1988
+nous;;12du_s;1st (incl) Person Dual;27633;;;;stan1290;harris-1988
+nous;;12du_o;1st (incl) Person Dual;27634;;;;stan1290;harris-1988
+notre;;12du_p;1st (incl) Person Dual;27635;;;;stan1290;harris-1988
+nous;;12pl_a;1st (incl) Person Plural;27636;;;;stan1290;harris-1988
+nous;;12pl_s;1st (incl) Person Plural;27637;;;;stan1290;harris-1988
+nous;;12pl_o;1st (incl) Person Plural;27638;;;;stan1290;harris-1988
+notre;;12pl_p;1st (incl) Person Plural;27639;;;;stan1290;harris-1988
+tu;;2sg_a;2nd Person Singular;27640;;;;stan1290;harris-1988
+tu;;2sg_s;2nd Person Singular;27641;;;;stan1290;harris-1988
+te;;2sg_o;2nd Person Singular;27642;;;;stan1290;harris-1988
+ton;;2sg_p;2nd Person Singular;27643;;;;stan1290;harris-1988
+vous;;2du_a;2nd Person Dual;27644;;;;stan1290;harris-1988
+vous;;2du_s;2nd Person Dual;27645;;;;stan1290;harris-1988
+vous;;2du_o;2nd Person Dual;27646;;;;stan1290;harris-1988
+votre;;2du_p;2nd Person Dual;27647;;;;stan1290;harris-1988
+vous;;2pl_a;2nd Person Plural;27648;;;;stan1290;harris-1988
+vous;;2pl_s;2nd Person Plural;27649;;;;stan1290;harris-1988
+vous;;2pl_o;2nd Person Plural;27650;;;;stan1290;harris-1988
+votre;;2pl_p;2nd Person Plural;27651;;;;stan1290;harris-1988
+il;;3sg_m_a;3rd Person Singular Masculine;27652;;;;stan1290;harris-1988
+il;;3sg_m_s;3rd Person Singular Masculine;27653;;;;stan1290;harris-1988
+le;;3sg_m_o;3rd Person Singular Masculine;27654;;;;stan1290;harris-1988
+son;;3sg_m_p;3rd Person Singular Masculine;27655;;;;stan1290;harris-1988
+elle;;3sg_f_a;3rd Person Singular Feminine;27656;;;;stan1290;harris-1988
+elle;;3sg_f_s;3rd Person Singular Feminine;27657;;;;stan1290;harris-1988
+la;;3sg_f_o;3rd Person Singular Feminine;27658;;;;stan1290;harris-1988
+son;;3sg_f_p;3rd Person Singular Feminine;27659;;;;stan1290;harris-1988
+ce;;3sg_n_a;3rd Person Singular Neuter;27660;;;;stan1290;harris-1988
+ce;;3sg_n_s;3rd Person Singular Neuter;27661;;;;stan1290;harris-1988
+le;;3sg_n_o;3rd Person Singular Neuter;27662;;;;stan1290;harris-1988
+son;;3sg_n_p;3rd Person Singular Neuter;27663;;;;stan1290;harris-1988
+ils;;3du_m_a;3rd Person Dual Masculine;27664;;;;stan1290;harris-1988
+ils;;3du_m_s;3rd Person Dual Masculine;27665;;;;stan1290;harris-1988
+les;;3du_m_o;3rd Person Dual Masculine;27666;;;;stan1290;harris-1988
+leur;;3du_m_p;3rd Person Dual Masculine;27667;;;;stan1290;harris-1988
+elles;;3du_f_a;3rd Person Dual Feminine;27668;;;;stan1290;harris-1988
+elles;;3du_f_s;3rd Person Dual Feminine;27669;;;;stan1290;harris-1988
+les;;3du_f_o;3rd Person Dual Feminine;27670;;;;stan1290;harris-1988
+leur;;3du_f_p;3rd Person Dual Feminine;27671;;;;stan1290;harris-1988
+ils;;3du_n_a;3rd Person Dual Neuter;27672;;;;stan1290;harris-1988
+ils;;3du_n_s;3rd Person Dual Neuter;27673;;;;stan1290;harris-1988
+les;;3du_n_o;3rd Person Dual Neuter;27674;;;;stan1290;harris-1988
+leur;;3du_n_p;3rd Person Dual Neuter;27675;;;;stan1290;harris-1988
+ils;;3pl_m_a;3rd Person Plural Masculine;27676;;;;stan1290;harris-1988
+ils;;3pl_m_s;3rd Person Plural Masculine;27677;;;;stan1290;harris-1988
+les;;3pl_m_o;3rd Person Plural Masculine;27678;;;;stan1290;harris-1988
+leur;;3pl_m_p;3rd Person Plural Masculine;27679;;;;stan1290;harris-1988
+elles;;3pl_f_a;3rd Person Plural Feminine;27680;;;;stan1290;harris-1988
+elles;;3pl_f_s;3rd Person Plural Feminine;27681;;;;stan1290;harris-1988
+les;;3pl_f_o;3rd Person Plural Feminine;27682;;;;stan1290;harris-1988
+leur;;3pl_f_p;3rd Person Plural Feminine;27683;;;;stan1290;harris-1988
+ils;;3pl_n_a;3rd Person Plural Neuter;27684;;;;stan1290;harris-1988
+ils;;3pl_n_s;3rd Person Plural Neuter;27685;;;;stan1290;harris-1988
+les;;3pl_n_o;3rd Person Plural Neuter;27686;;;;stan1290;harris-1988
+leur;;3pl_n_p;3rd Person Plural Neuter;27687;;;;stan1290;harris-1988
+ils;;3d-a;3rd Person Dual;36251;;;;stan1290;harris-1988
+ils;;3d-s;3rd Person Dual;36471;;;;stan1290;harris-1988
+les;;3d-o;3rd Person Dual;36699;;;;stan1290;harris-1988
+leur;;3d-p;3rd Person Dual;36919;;;;stan1290;harris-1988
+ils;;3p-a;3rd Person Plural;37131;;;;stan1290;harris-1988
+ils;;3p-s;3rd Person Plural;37352;;;;stan1290;harris-1988
+les;;3p-o;3rd Person Plural;37579;;;;stan1290;harris-1988
+leur;;3p-p;3rd Person Plural;37797;;;;stan1290;harris-1988

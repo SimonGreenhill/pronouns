@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+mo;;1sg_a;1st (excl) Person Singular;45830;;;;mori1278;baker-1972
+mo;;1sg_s;1st (excl) Person Singular;45829;;;;mori1278;baker-1972
+mwa;;1sg_o;1st (excl) Person Singular;45828;;;;mori1278;baker-1972
+mo;;1sg_p;1st (excl) Person Singular;45827;;;;mori1278;baker-1972
+nuzot;;1du_a;1st (excl) Person Dual;45826;;;;mori1278;baker-1972
+nuzot;;1du_s;1st (excl) Person Dual;45825;;;;mori1278;baker-1972
+nuzot;;1du_o;1st (excl) Person Dual;45824;;;;mori1278;baker-1972
+nu;;1du_p;1st (excl) Person Dual;45823;;;;mori1278;baker-1972
+nuzot;;1pl_a;1st (excl) Person Plural;45822;;;;mori1278;baker-1972
+nuzot;;1pl_s;1st (excl) Person Plural;45821;;;;mori1278;baker-1972
+nuzot;;1pl_o;1st (excl) Person Plural;45820;;;;mori1278;baker-1972
+nu;;1pl_p;1st (excl) Person Plural;45819;;;;mori1278;baker-1972
+nutu;;12du_a;1st (incl) Person Dual;45818;;;;mori1278;baker-1972
+nutu;;12du_s;1st (incl) Person Dual;45817;;;;mori1278;baker-1972
+nutu;;12du_o;1st (incl) Person Dual;45816;;;;mori1278;baker-1972
+nu;;12du_p;1st (incl) Person Dual;45815;;;;mori1278;baker-1972
+nutu;;12pl_a;1st (incl) Person Plural;45814;;;;mori1278;baker-1972
+nutu;;12pl_s;1st (incl) Person Plural;45813;;;;mori1278;baker-1972
+nutu;;12pl_o;1st (incl) Person Plural;45812;;;;mori1278;baker-1972
+nu;;12pl_p;1st (incl) Person Plural;45811;;;;mori1278;baker-1972
+to, u;;2sg_a;2nd Person Singular;45810;;to is familiar, u is formal.;;mori1278;baker-1972
+to, u;;2sg_s;2nd Person Singular;45809;;to is familiar, u is formal.;;mori1278;baker-1972
+twa, u;;2sg_o;2nd Person Singular;45808;;twa is familiar, u is formal.;;mori1278;baker-1972
+to, u;;2sg_p;2nd Person Singular;45807;;to is familiar, u is polite;;mori1278;baker-1972
+zot-tu;;2du_a;2nd Person Dual;45806;;;;mori1278;baker-1972
+zot-tu;;2du_s;2nd Person Dual;45805;;;;mori1278;baker-1972
+zot-tu;;2du_o;2nd Person Dual;45804;;;;mori1278;baker-1972
+zot;;2du_p;2nd Person Dual;45803;;;;mori1278;baker-1972
+zot-tu;;2pl_a;2nd Person Plural;45802;;;;mori1278;baker-1972
+zot-tu;;2pl_s;2nd Person Plural;45801;;;;mori1278;baker-1972
+zot-tu;;2pl_o;2nd Person Plural;45800;;;;mori1278;baker-1972
+zot;;2pl_p;2nd Person Plural;45799;;;;mori1278;baker-1972
+li;;3sg_m_a;3rd Person Singular Masculine;45798;;;;mori1278;baker-1972
+li;;3sg_m_s;3rd Person Singular Masculine;45797;;;;mori1278;baker-1972
+li;;3sg_m_o;3rd Person Singular Masculine;45796;;;;mori1278;baker-1972
+so;;3sg_m_p;3rd Person Singular Masculine;45795;;;;mori1278;baker-1972
+li;;3sg_n_a;3rd Person Singular Neuter;45794;;;;mori1278;baker-1972
+li;;3sg_n_s;3rd Person Singular Neuter;45793;;;;mori1278;baker-1972
+li;;3sg_n_o;3rd Person Singular Neuter;45792;;;;mori1278;baker-1972
+so;;3sg_n_p;3rd Person Singular Neuter;45791;;;;mori1278;baker-1972
+bania;;3d-a;3rd Person Dual;45790;;;;mori1278;baker-1972
+bania;;3d-s;3rd Person Dual;45789;;;;mori1278;baker-1972
+bania;;3d-o;3rd Person Dual;45788;;;;mori1278;baker-1972
+zot;;3d-p;3rd Person Dual;45787;;;;mori1278;baker-1972
+banla;;3p-a;3rd Person Plural;45786;;;;mori1278;baker-1972
+banla;;3p-s;3rd Person Plural;45785;;;;mori1278;baker-1972
+banla;;3p-o;3rd Person Plural;45784;;;;mori1278;baker-1972
+zot;;3p-p;3rd Person Plural;45783;;;;mori1278;baker-1972

@@ -1,0 +1,134 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+an;;1sg_a;1st (excl) Person Singular;30462;;;;west2594;barclay-2008
+an;;1sg_s;1st (excl) Person Singular;30463;;;;west2594;barclay-2008
+an;;1sg_o;1st (excl) Person Singular;30464;;;;west2594;barclay-2008
+n-;;1sg_p;1st (excl) Person Singular;30465;;;;west2594;barclay-2008
+no-;;1sg_p;1st (excl) Person Singular;30466;;;;west2594;barclay-2008
+ne-;;1sg_p;1st (excl) Person Singular;30467;;;;west2594;barclay-2008
+na-;;1sg_p;1st (excl) Person Singular;30468;;;;west2594;barclay-2008
+nit;;1du_a;1st (excl) Person Dual;30469;;;;west2594;barclay-2008
+nit;;1du_s;1st (excl) Person Dual;30470;;;;west2594;barclay-2008
+nit;;1du_o;1st (excl) Person Dual;30471;;;;west2594;barclay-2008
+nin-;;1du_p;1st (excl) Person Dual;30472;;;;west2594;barclay-2008
+nino-;;1du_p;1st (excl) Person Dual;30473;;;;west2594;barclay-2008
+nine-;;1du_p;1st (excl) Person Dual;30474;;;;west2594;barclay-2008
+nina-;;1du_p;1st (excl) Person Dual;30475;;;;west2594;barclay-2008
+nit;;1pl_a;1st (excl) Person Plural;30476;;;;west2594;barclay-2008
+nit;;1pl_s;1st (excl) Person Plural;30477;;;;west2594;barclay-2008
+nit;;1pl_o;1st (excl) Person Plural;30478;;;;west2594;barclay-2008
+nin-;;1pl_p;1st (excl) Person Plural;30479;;;;west2594;barclay-2008
+nino-;;1pl_p;1st (excl) Person Plural;30480;;;;west2594;barclay-2008
+nine-;;1pl_p;1st (excl) Person Plural;30481;;;;west2594;barclay-2008
+nina-;;1pl_p;1st (excl) Person Plural;30482;;;;west2594;barclay-2008
+nit;;12du_a;1st (incl) Person Dual;30483;;;;west2594;barclay-2008
+nit;;12du_s;1st (incl) Person Dual;30484;;;;west2594;barclay-2008
+nit;;12du_o;1st (incl) Person Dual;30485;;;;west2594;barclay-2008
+nin-;;12du_p;1st (incl) Person Dual;30486;;;;west2594;barclay-2008
+nino-;;12du_p;1st (incl) Person Dual;30487;;;;west2594;barclay-2008
+nine-;;12du_p;1st (incl) Person Dual;30488;;;;west2594;barclay-2008
+nina-;;12du_p;1st (incl) Person Dual;30489;;;;west2594;barclay-2008
+nit;;12pl_a;1st (incl) Person Plural;30490;;;;west2594;barclay-2008
+nit;;12pl_s;1st (incl) Person Plural;30491;;;;west2594;barclay-2008
+nit;;12pl_o;1st (incl) Person Plural;30492;;;;west2594;barclay-2008
+nin-;;12pl_p;1st (incl) Person Plural;30493;;;;west2594;barclay-2008
+nino-;;12pl_p;1st (incl) Person Plural;30494;;;;west2594;barclay-2008
+nine-;;12pl_p;1st (incl) Person Plural;30495;;;;west2594;barclay-2008
+nina-;;12pl_p;1st (incl) Person Plural;30496;;;;west2594;barclay-2008
+kat;;2sg_a;2nd Person Singular;30497;;;;west2594;barclay-2008
+kat;;2sg_s;2nd Person Singular;30498;;;;west2594;barclay-2008
+kat;;2sg_o;2nd Person Singular;30499;;;;west2594;barclay-2008
+k-;;2sg_p;2nd Person Singular;30500;;;;west2594;barclay-2008
+ko-;;2sg_p;2nd Person Singular;30501;;;;west2594;barclay-2008
+ke-;;2sg_p;2nd Person Singular;30502;;;;west2594;barclay-2008
+ka-;;2sg_p;2nd Person Singular;30503;;;;west2594;barclay-2008
+kit;;2du_a;2nd Person Dual;30504;;;;west2594;barclay-2008
+kit;;2du_s;2nd Person Dual;30505;;;;west2594;barclay-2008
+kit;;2du_o;2nd Person Dual;30506;;;;west2594;barclay-2008
+kin-;;2du_p;2nd Person Dual;30507;;;;west2594;barclay-2008
+kino-;;2du_p;2nd Person Dual;30508;;;;west2594;barclay-2008
+kine-;;2du_p;2nd Person Dual;30509;;;;west2594;barclay-2008
+kina-;;2du_p;2nd Person Dual;30510;;;;west2594;barclay-2008
+kit;;2pl_a;2nd Person Plural;30511;;;;west2594;barclay-2008
+kit;;2pl_s;2nd Person Plural;30512;;;;west2594;barclay-2008
+kit;;2pl_o;2nd Person Plural;30513;;;;west2594;barclay-2008
+kin-;;2pl_p;2nd Person Plural;30514;;;;west2594;barclay-2008
+kino-;;2pl_p;2nd Person Plural;30515;;;;west2594;barclay-2008
+kine-;;2pl_p;2nd Person Plural;30516;;;;west2594;barclay-2008
+kina-;;2pl_p;2nd Person Plural;30517;;;;west2594;barclay-2008
+at;;3sg_m_a;3rd Person Singular Masculine;30518;;;;west2594;barclay-2008
+at;;3sg_m_s;3rd Person Singular Masculine;30519;;;;west2594;barclay-2008
+at;;3sg_m_o;3rd Person Singular Masculine;30520;;;;west2594;barclay-2008
+∅-;;3sg_m_p;3rd Person Singular Masculine;30521;;;;west2594;barclay-2008
+o-;;3sg_m_p;3rd Person Singular Masculine;30522;;;;west2594;barclay-2008
+e-;;3sg_m_p;3rd Person Singular Masculine;30523;;;;west2594;barclay-2008
+a-;;3sg_m_p;3rd Person Singular Masculine;30524;;;;west2594;barclay-2008
+at;;3sg_f_a;3rd Person Singular Feminine;30525;;;;west2594;barclay-2008
+at;;3sg_f_s;3rd Person Singular Feminine;30526;;;;west2594;barclay-2008
+at;;3sg_f_o;3rd Person Singular Feminine;30527;;;;west2594;barclay-2008
+-;;3sg_f_p;3rd Person Singular Feminine;30528;;;;west2594;barclay-2008
+o-;;3sg_f_p;3rd Person Singular Feminine;30529;;;;west2594;barclay-2008
+e-;;3sg_f_p;3rd Person Singular Feminine;30530;;;;west2594;barclay-2008
+a-;;3sg_f_p;3rd Person Singular Feminine;30531;;;;west2594;barclay-2008
+at;;3sg_n_a;3rd Person Singular Neuter;30532;;;;west2594;barclay-2008
+at;;3sg_n_s;3rd Person Singular Neuter;30533;;;;west2594;barclay-2008
+at;;3sg_n_o;3rd Person Singular Neuter;30534;;;;west2594;barclay-2008
+∅-;;3sg_n_p;3rd Person Singular Neuter;30535;;;;west2594;barclay-2008
+o-;;3sg_n_p;3rd Person Singular Neuter;30536;;;;west2594;barclay-2008
+e-;;3sg_n_p;3rd Person Singular Neuter;30537;;;;west2594;barclay-2008
+a-;;3sg_n_p;3rd Person Singular Neuter;30538;;;;west2594;barclay-2008
+it;;3du_m_a;3rd Person Dual Masculine;30539;;;;west2594;barclay-2008
+it;;3du_m_s;3rd Person Dual Masculine;30540;;;;west2594;barclay-2008
+it;;3du_m_o;3rd Person Dual Masculine;30541;;;;west2594;barclay-2008
+in-;;3du_m_p;3rd Person Dual Masculine;30542;;;;west2594;barclay-2008
+ino-;;3du_m_p;3rd Person Dual Masculine;30543;;;;west2594;barclay-2008
+ine-;;3du_m_p;3rd Person Dual Masculine;30544;;;;west2594;barclay-2008
+ina-;;3du_m_p;3rd Person Dual Masculine;30545;;;;west2594;barclay-2008
+it;;3du_f_a;3rd Person Dual Feminine;30546;;;;west2594;barclay-2008
+it;;3du_f_s;3rd Person Dual Feminine;30547;;;;west2594;barclay-2008
+it;;3du_f_o;3rd Person Dual Feminine;30548;;;;west2594;barclay-2008
+in-;;3du_f_p;3rd Person Dual Feminine;30549;;;;west2594;barclay-2008
+ino-;;3du_f_p;3rd Person Dual Feminine;30550;;;;west2594;barclay-2008
+ine-;;3du_f_p;3rd Person Dual Feminine;30551;;;;west2594;barclay-2008
+ina-;;3du_f_p;3rd Person Dual Feminine;30552;;;;west2594;barclay-2008
+it;;3du_n_a;3rd Person Dual Neuter;30553;;;;west2594;barclay-2008
+it;;3du_n_s;3rd Person Dual Neuter;30554;;;;west2594;barclay-2008
+it;;3du_n_o;3rd Person Dual Neuter;30555;;;;west2594;barclay-2008
+in-;;3du_n_p;3rd Person Dual Neuter;30556;;;;west2594;barclay-2008
+ino-;;3du_n_p;3rd Person Dual Neuter;30557;;;;west2594;barclay-2008
+ine-;;3du_n_p;3rd Person Dual Neuter;30558;;;;west2594;barclay-2008
+ina-;;3du_n_p;3rd Person Dual Neuter;30559;;;;west2594;barclay-2008
+it;;3pl_m_a;3rd Person Plural Masculine;30560;;;;west2594;barclay-2008
+it;;3pl_m_s;3rd Person Plural Masculine;30561;;;;west2594;barclay-2008
+it;;3pl_m_o;3rd Person Plural Masculine;30562;;;;west2594;barclay-2008
+in-;;3pl_m_p;3rd Person Plural Masculine;30563;;;;west2594;barclay-2008
+ino-;;3pl_m_p;3rd Person Plural Masculine;30564;;;;west2594;barclay-2008
+ine-;;3pl_m_p;3rd Person Plural Masculine;30565;;;;west2594;barclay-2008
+ina-;;3pl_m_p;3rd Person Plural Masculine;30566;;;;west2594;barclay-2008
+it;;3pl_f_a;3rd Person Plural Feminine;30567;;;;west2594;barclay-2008
+it;;3pl_f_s;3rd Person Plural Feminine;30568;;;;west2594;barclay-2008
+it;;3pl_f_o;3rd Person Plural Feminine;30569;;;;west2594;barclay-2008
+in-;;3pl_f_p;3rd Person Plural Feminine;30570;;;;west2594;barclay-2008
+ino-;;3pl_f_p;3rd Person Plural Feminine;30571;;;;west2594;barclay-2008
+ine-;;3pl_f_p;3rd Person Plural Feminine;30572;;;;west2594;barclay-2008
+ina-;;3pl_f_p;3rd Person Plural Feminine;30573;;;;west2594;barclay-2008
+it;;3pl_n_a;3rd Person Plural Neuter;30574;;;;west2594;barclay-2008
+it;;3pl_n_s;3rd Person Plural Neuter;30575;;;;west2594;barclay-2008
+it;;3pl_n_o;3rd Person Plural Neuter;30576;;;;west2594;barclay-2008
+in-;;3pl_n_p;3rd Person Plural Neuter;30577;;;;west2594;barclay-2008
+ino-;;3pl_n_p;3rd Person Plural Neuter;30578;;;;west2594;barclay-2008
+ine-;;3pl_n_p;3rd Person Plural Neuter;30579;;;;west2594;barclay-2008
+ina-;;3pl_n_p;3rd Person Plural Neuter;30580;;;;west2594;barclay-2008
+it;;3d-a;3rd Person Dual;36235;;;;west2594;barclay-2008
+it;;3d-s;3rd Person Dual;36455;;;;west2594;barclay-2008
+it;;3d-o;3rd Person Dual;36683;;;;west2594;barclay-2008
+in-;;3d-p;3rd Person Dual;36903;;;;west2594;barclay-2008
+ina-;;3d-p;3rd Person Dual;36904;;;;west2594;barclay-2008
+ine-;;3d-p;3rd Person Dual;36905;;;;west2594;barclay-2008
+ino-;;3d-p;3rd Person Dual;36906;;;;west2594;barclay-2008
+it;;3p-a;3rd Person Plural;37115;;;;west2594;barclay-2008
+it;;3p-s;3rd Person Plural;37336;;;;west2594;barclay-2008
+it;;3p-o;3rd Person Plural;37563;;;;west2594;barclay-2008
+in-;;3p-p;3rd Person Plural;37781;;;;west2594;barclay-2008
+ina-;;3p-p;3rd Person Plural;37782;;;;west2594;barclay-2008
+ine-;;3p-p;3rd Person Plural;37783;;;;west2594;barclay-2008
+ino-;;3p-p;3rd Person Plural;37784;;;;west2594;barclay-2008

@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+na;;1sg_a;1st (excl) Person Singular;50014;;;;bann1247;evans-2015
+na;;1sg_s;1st (excl) Person Singular;50013;;;;bann1247;evans-2015
+-aa;;1sg_o;1st (excl) Person Singular;50012;;;;bann1247;evans-2015
+-ghe;;1sg_p;1st (excl) Person Singular;50011;;;;bann1247;evans-2015
+ghamam;;1du_a;1st (excl) Person Dual;50010;;;;bann1247;evans-2015
+ghamam;;1du_s;1st (excl) Person Dual;50009;;;;bann1247;evans-2015
+-mam;;1du_o;1st (excl) Person Dual;50008;;;;bann1247;evans-2015
+-mam;;1du_p;1st (excl) Person Dual;50007;;;;bann1247;evans-2015
+ghamam;;1pl_a;1st (excl) Person Plural;50006;;;;bann1247;evans-2015
+ghamam;;1pl_s;1st (excl) Person Plural;50005;;;;bann1247;evans-2015
+-mam;;1pl_o;1st (excl) Person Plural;50004;;;;bann1247;evans-2015
+-mam;;1pl_p;1st (excl) Person Plural;50003;;;;bann1247;evans-2015
+ghata;;12du_a;1st (incl) Person Dual;50002;;;;bann1247;evans-2015
+ghata;;12du_s;1st (incl) Person Dual;50001;;;;bann1247;evans-2015
+-ra;;12du_o;1st (incl) Person Dual;50000;;;;bann1247;evans-2015
+-ra;;12du_p;1st (incl) Person Dual;49999;;;;bann1247;evans-2015
+ghata;;12pl_a;1st (incl) Person Plural;49998;;;;bann1247;evans-2015
+ghata;;12pl_s;1st (incl) Person Plural;49997;;;;bann1247;evans-2015
+-ra;;12pl_o;1st (incl) Person Plural;49996;;;;bann1247;evans-2015
+-ra;;12pl_p;1st (incl) Person Plural;49995;;;;bann1247;evans-2015
+na;;2sg_a;2nd Person Singular;49994;;;;bann1247;evans-2015
+na;;2sg_s;2nd Person Singular;49993;;;;bann1247;evans-2015
+-igho;;2sg_o;2nd Person Singular;49992;;;;bann1247;evans-2015
+-m;;2sg_p;2nd Person Singular;49991;;;;bann1247;evans-2015
+gham;;2du_a;2nd Person Dual;49990;;;;bann1247;evans-2015
+gham;;2du_s;2nd Person Dual;49989;;;;bann1247;evans-2015
+-mi;;2du_o;2nd Person Dual;49988;;;;bann1247;evans-2015
+-mi;;2du_p;2nd Person Dual;49987;;;;bann1247;evans-2015
+gham;;2pl_a;2nd Person Plural;49986;;;;bann1247;evans-2015
+gham;;2pl_s;2nd Person Plural;49985;;;;bann1247;evans-2015
+-mi;;2pl_o;2nd Person Plural;49984;;;;bann1247;evans-2015
+-mi;;2pl_p;2nd Person Plural;49983;;;;bann1247;evans-2015
+nna;;3sg_m_a;3rd Person Singular Masculine;49982;;;;bann1247;evans-2015
+nna;;3sg_m_s;3rd Person Singular Masculine;49981;;;;bann1247;evans-2015
+-a;;3sg_m_o;3rd Person Singular Masculine;49980;;;;bann1247;evans-2015
+-na;;3sg_m_p;3rd Person Singular Masculine;49979;;;;bann1247;evans-2015
+nna;;3sg_n_a;3rd Person Singular Neuter;49978;;;;bann1247;evans-2015
+nna;;3sg_n_s;3rd Person Singular Neuter;49977;;;;bann1247;evans-2015
+-a;;3sg_n_o;3rd Person Singular Neuter;49976;;;;bann1247;evans-2015
+-na;;3sg_n_p;3rd Person Singular Neuter;49975;;;;bann1247;evans-2015
+nari;;3d-a;3rd Person Dual;49974;;;;bann1247;evans-2015
+nari;;3d-s;3rd Person Dual;49973;;;;bann1247;evans-2015
+-ria;;3d-o;3rd Person Dual;49972;;;;bann1247;evans-2015
+-ri;;3d-p;3rd Person Dual;49971;;;;bann1247;evans-2015
+nari;;3p-a;3rd Person Plural;49970;;;;bann1247;evans-2015
+nari;;3p-s;3rd Person Plural;49969;;;;bann1247;evans-2015
+-ria;;3p-o;3rd Person Plural;49968;;;;bann1247;evans-2015
+-ri;;3p-p;3rd Person Plural;49967;;;;bann1247;evans-2015

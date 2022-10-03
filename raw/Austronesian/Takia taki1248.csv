@@ -1,0 +1,51 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ŋai;;1sg_a;1st (excl) Person Singular;42718;;;;taki1248;ross-2014
+ŋai;;1sg_s;1st (excl) Person Singular;42717;;;;taki1248;ross-2014
+ŋai;;1sg_o;1st (excl) Person Singular;42716;;;;taki1248;ross-2014
+ŋai sag;;1sg_p;1st (excl) Person Singular;42715;;;;taki1248;ross-2014
+maŋ;;1du_a;1st (excl) Person Dual;42751;;;;taki1248;ross-2014
+maŋ;;1du_s;1st (excl) Person Dual;42750;;;;taki1248;ross-2014
+maŋ;;1du_o;1st (excl) Person Dual;42749;;;;taki1248;ross-2014
+maŋ sama;;1du_p;1st (excl) Person Dual;42762;;;;taki1248;ross-2014
+maŋ;;1pl_a;1st (excl) Person Plural;42748;;;;taki1248;ross-2014
+maŋ;;1pl_s;1st (excl) Person Plural;42747;;;;taki1248;ross-2014
+maŋ;;1pl_o;1st (excl) Person Plural;42746;;;;taki1248;ross-2014
+maŋ sama;;1pl_p;1st (excl) Person Plural;42761;;;;taki1248;ross-2014
+id;;12du_a;1st (incl) Person Dual;42745;;;;taki1248;ross-2014
+id;;12du_s;1st (incl) Person Dual;42744;;;;taki1248;ross-2014
+id;;12du_o;1st (incl) Person Dual;42743;;;;taki1248;ross-2014
+id sad;;12du_p;1st (incl) Person Dual;42760;;;;taki1248;ross-2014
+id;;12pl_a;1st (incl) Person Plural;42742;;;;taki1248;ross-2014
+id;;12pl_s;1st (incl) Person Plural;42741;;;;taki1248;ross-2014
+id;;12pl_o;1st (incl) Person Plural;42740;;;;taki1248;ross-2014
+id sad;;12pl_p;1st (incl) Person Plural;42759;;;;taki1248;ross-2014
+oŋ;;2sg_a;2nd Person Singular;42739;;;;taki1248;ross-2014
+oŋ;;2sg_s;2nd Person Singular;42738;;;;taki1248;ross-2014
+oŋ;;2sg_o;2nd Person Singular;42737;;;;taki1248;ross-2014
+oŋ sa;;2sg_p;2nd Person Singular;42758;;;;taki1248;ross-2014
+aŋ;;2du_a;2nd Person Dual;42736;;;;taki1248;ross-2014
+aŋ;;2du_s;2nd Person Dual;42735;;;;taki1248;ross-2014
+aŋ;;2du_o;2nd Person Dual;42734;;;;taki1248;ross-2014
+oŋ sam;;2du_p;2nd Person Dual;42757;;;;taki1248;ross-2014
+aŋ;;2pl_a;2nd Person Plural;42733;;;;taki1248;ross-2014
+aŋ;;2pl_s;2nd Person Plural;42732;;;;taki1248;ross-2014
+aŋ;;2pl_o;2nd Person Plural;42731;;;;taki1248;ross-2014
+oŋ sam;;2pl_p;2nd Person Plural;42756;;;;taki1248;ross-2014
+iŋ;;3sg_m_a;3rd Person Singular Masculine;42730;;;;taki1248;ross-2014
+iŋ;;3sg_m_s;3rd Person Singular Masculine;42729;;;;taki1248;ross-2014
+iŋ;;3sg_m_o;3rd Person Singular Masculine;42728;;;;taki1248;ross-2014
+iŋ san;;3sg_m_p;3rd Person Singular Masculine;42755;;;;taki1248;ross-2014
+iŋ;;3sg_n_a;3rd Person Singular Neuter;42727;;;;taki1248;ross-2014
+iŋ;;3sg_n_s;3rd Person Singular Neuter;42726;;;;taki1248;ross-2014
+iŋ;;3sg_n_o;3rd Person Singular Neuter;42725;;;;taki1248;ross-2014
+iŋ san;;3sg_n_p;3rd Person Singular Neuter;42754;;;;taki1248;ross-2014
+iŋ;;3d-a;3rd Person Dual;42724;;;;taki1248;ross-2014
+iŋ;;3d-s;3rd Person Dual;42723;;;;taki1248;ross-2014
+iŋ;;3d-o;3rd Person Dual;42722;;;;taki1248;ross-2014
+iŋ sadi;;3d-p;3rd Person Dual;42837;;;;taki1248;ross-2014
+iŋ sad;;3d-p;3rd Person Dual;42838;;;;taki1248;ross-2014
+iŋ;;3p-a;3rd Person Plural;42721;;;;taki1248;ross-2014
+iŋ;;3p-s;3rd Person Plural;42720;;;;taki1248;ross-2014
+iŋ;;3p-o;3rd Person Plural;42719;;;;taki1248;ross-2014
+iŋ sadi;;3p-p;3rd Person Plural;42835;;;;taki1248;ross-2014
+iŋ sad;;3p-p;3rd Person Plural;42836;;;;taki1248;ross-2014

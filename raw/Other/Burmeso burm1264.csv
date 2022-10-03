@@ -1,0 +1,37 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+da;;1sg_a;1st (excl) Person Singular;40389;;;;burm1264;donohue-2001
+da;;1sg_s;1st (excl) Person Singular;40388;;;;burm1264;donohue-2001
+da;;1sg_o;1st (excl) Person Singular;40387;;;;burm1264;donohue-2001
+de;;1sg_p;1st (excl) Person Singular;40386;;;;burm1264;donohue-2001
+day;;1du_a;1st (excl) Person Dual;40385;;;;burm1264;donohue-2001
+day;;1du_s;1st (excl) Person Dual;40384;;;;burm1264;donohue-2001
+day;;1du_o;1st (excl) Person Dual;40383;;;;burm1264;donohue-2001
+de;;1du_p;1st (excl) Person Dual;40382;;;;burm1264;donohue-2001
+boro;;1pl_a;1st (excl) Person Plural;40381;;;;burm1264;donohue-2001
+boro;;1pl_s;1st (excl) Person Plural;40380;;;;burm1264;donohue-2001
+boro;;1pl_o;1st (excl) Person Plural;40379;;;;burm1264;donohue-2001
+te;;1pl_p;1st (excl) Person Plural;40378;;;;burm1264;donohue-2001
+day;;12du_a;1st (incl) Person Dual;40377;;;;burm1264;donohue-2001
+day;;12du_s;1st (incl) Person Dual;40376;;;;burm1264;donohue-2001
+day;;12du_o;1st (incl) Person Dual;40375;;;;burm1264;donohue-2001
+de;;12du_p;1st (incl) Person Dual;40374;;;;burm1264;donohue-2001
+boro;;12pl_a;1st (incl) Person Plural;40373;;;;burm1264;donohue-2001
+boro;;12pl_s;1st (incl) Person Plural;40372;;;;burm1264;donohue-2001
+boro;;12pl_o;1st (incl) Person Plural;40371;;;;burm1264;donohue-2001
+te;;12pl_p;1st (incl) Person Plural;40370;;;;burm1264;donohue-2001
+ba;;2sg_a;2nd Person Singular;40369;;;;burm1264;donohue-2001
+ba;;2sg_s;2nd Person Singular;40368;;;;burm1264;donohue-2001
+ba;;2sg_o;2nd Person Singular;40367;;;;burm1264;donohue-2001
+be;;2sg_p;2nd Person Singular;40366;;;;burm1264;donohue-2001
+bito;;2du_a;2nd Person Dual;40365;;;;burm1264;donohue-2001
+bito;;2du_s;2nd Person Dual;40364;;;;burm1264;donohue-2001
+bito;;2du_o;2nd Person Dual;40363;;;;burm1264;donohue-2001
+te;;2du_p;2nd Person Dual;40362;;;;burm1264;donohue-2001
+bito;;2pl_a;2nd Person Plural;40361;;;;burm1264;donohue-2001
+bito;;2pl_s;2nd Person Plural;40360;;;;burm1264;donohue-2001
+bito;;2pl_o;2nd Person Plural;40359;;;;burm1264;donohue-2001
+te;;2pl_p;2nd Person Plural;40358;;;;burm1264;donohue-2001
+e;;3sg_m_p;3rd Person Singular Masculine;40357;;;;burm1264;donohue-2001
+e;;3sg_n_p;3rd Person Singular Neuter;40356;;;;burm1264;donohue-2001
+te;;3d-p;3rd Person Dual;40355;;;;burm1264;donohue-2001
+te;;3p-p;3rd Person Plural;40354;;;;burm1264;donohue-2001

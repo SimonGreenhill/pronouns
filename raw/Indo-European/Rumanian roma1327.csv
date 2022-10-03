@@ -1,0 +1,77 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+eu;;1sg_a;1st (excl) Person Singular;27484;;;;roma1327;mallinson-1988
+eu;;1sg_s;1st (excl) Person Singular;27485;;;;roma1327;mallinson-1988
+-mă;;1sg_o;1st (excl) Person Singular;27486;;;;roma1327;mallinson-1988
+meu;;1sg_p;1st (excl) Person Singular;27487;;;;roma1327;mallinson-1988
+noi;;1du_a;1st (excl) Person Dual;27488;;;;roma1327;mallinson-1988
+noi;;1du_s;1st (excl) Person Dual;27489;;;;roma1327;mallinson-1988
+-ne;;1du_o;1st (excl) Person Dual;27490;;;;roma1327;mallinson-1988
+nostru;;1du_p;1st (excl) Person Dual;27491;;;;roma1327;mallinson-1988
+noi;;1pl_a;1st (excl) Person Plural;27492;;;;roma1327;mallinson-1988
+noi;;1pl_s;1st (excl) Person Plural;27493;;;;roma1327;mallinson-1988
+-ne;;1pl_o;1st (excl) Person Plural;27494;;;;roma1327;mallinson-1988
+nostru;;1pl_p;1st (excl) Person Plural;27495;;;;roma1327;mallinson-1988
+noi;;12du_a;1st (incl) Person Dual;27496;;;;roma1327;mallinson-1988
+noi;;12du_s;1st (incl) Person Dual;27497;;;;roma1327;mallinson-1988
+-ne;;12du_o;1st (incl) Person Dual;27498;;;;roma1327;mallinson-1988
+nostru;;12du_p;1st (incl) Person Dual;27499;;;;roma1327;mallinson-1988
+noi;;12pl_a;1st (incl) Person Plural;27500;;;;roma1327;mallinson-1988
+noi;;12pl_s;1st (incl) Person Plural;27501;;;;roma1327;mallinson-1988
+-ne;;12pl_o;1st (incl) Person Plural;27502;;;;roma1327;mallinson-1988
+nostru;;12pl_p;1st (incl) Person Plural;27503;;;;roma1327;mallinson-1988
+tu;;2sg_a;2nd Person Singular;27504;;;;roma1327;mallinson-1988
+tu;;2sg_s;2nd Person Singular;27505;;;;roma1327;mallinson-1988
+-te;;2sg_o;2nd Person Singular;27506;;;;roma1327;mallinson-1988
+tău;;2sg_p;2nd Person Singular;27507;;;;roma1327;mallinson-1988
+voi;;2du_a;2nd Person Dual;27508;;;;roma1327;mallinson-1988
+voi;;2du_s;2nd Person Dual;27509;;;;roma1327;mallinson-1988
+-vă;;2du_o;2nd Person Dual;27510;;;;roma1327;mallinson-1988
+vostru;;2du_p;2nd Person Dual;27511;;;;roma1327;mallinson-1988
+voi;;2pl_a;2nd Person Plural;27512;;;;roma1327;mallinson-1988
+voi;;2pl_s;2nd Person Plural;27513;;;;roma1327;mallinson-1988
+-vă;;2pl_o;2nd Person Plural;27514;;;;roma1327;mallinson-1988
+vostru;;2pl_p;2nd Person Plural;27515;;;;roma1327;mallinson-1988
+el;;3sg_m_a;3rd Person Singular Masculine;27516;;;;roma1327;mallinson-1988
+el;;3sg_m_s;3rd Person Singular Masculine;27517;;;;roma1327;mallinson-1988
+-îl;;3sg_m_o;3rd Person Singular Masculine;27518;;;;roma1327;mallinson-1988
+lui;;3sg_m_p;3rd Person Singular Masculine;27519;;;;roma1327;mallinson-1988
+ea;;3sg_f_a;3rd Person Singular Feminine;27520;;;;roma1327;mallinson-1988
+ea;;3sg_f_s;3rd Person Singular Feminine;27521;;;;roma1327;mallinson-1988
+-o;;3sg_f_o;3rd Person Singular Feminine;27522;;;;roma1327;mallinson-1988
+lui;;3sg_f_p;3rd Person Singular Feminine;27523;;;;roma1327;mallinson-1988
+el;;3sg_n_a;3rd Person Singular Neuter;27524;;;;roma1327;mallinson-1988
+el;;3sg_n_s;3rd Person Singular Neuter;27525;;;;roma1327;mallinson-1988
+-îl;;3sg_n_o;3rd Person Singular Neuter;27526;;;;roma1327;mallinson-1988
+lui;;3sg_n_p;3rd Person Singular Neuter;27527;;;;roma1327;mallinson-1988
+ei;;3du_m_a;3rd Person Dual Masculine;27528;;;;roma1327;mallinson-1988
+ei;;3du_m_s;3rd Person Dual Masculine;27529;;;;roma1327;mallinson-1988
+-îl;;3du_m_o;3rd Person Dual Masculine;27530;;;;roma1327;mallinson-1988
+lor;;3du_m_p;3rd Person Dual Masculine;27531;;;;roma1327;mallinson-1988
+ele;;3du_f_a;3rd Person Dual Feminine;27532;;;;roma1327;mallinson-1988
+ele;;3du_f_s;3rd Person Dual Feminine;27533;;;;roma1327;mallinson-1988
+-le;;3du_f_o;3rd Person Dual Feminine;27534;;;;roma1327;mallinson-1988
+lor;;3du_f_p;3rd Person Dual Feminine;27535;;;;roma1327;mallinson-1988
+ei;;3du_n_a;3rd Person Dual Neuter;27536;;;;roma1327;mallinson-1988
+ei;;3du_n_s;3rd Person Dual Neuter;27537;;;;roma1327;mallinson-1988
+-îl;;3du_n_o;3rd Person Dual Neuter;27538;;;;roma1327;mallinson-1988
+lor;;3du_n_p;3rd Person Dual Neuter;27539;;;;roma1327;mallinson-1988
+ei;;3pl_m_a;3rd Person Plural Masculine;27540;;;;roma1327;mallinson-1988
+ei;;3pl_m_s;3rd Person Plural Masculine;27541;;;;roma1327;mallinson-1988
+-îl;;3pl_m_o;3rd Person Plural Masculine;27542;;;;roma1327;mallinson-1988
+lor;;3pl_m_p;3rd Person Plural Masculine;27543;;;;roma1327;mallinson-1988
+ele;;3pl_f_a;3rd Person Plural Feminine;27544;;;;roma1327;mallinson-1988
+ele;;3pl_f_s;3rd Person Plural Feminine;27545;;;;roma1327;mallinson-1988
+-le;;3pl_f_o;3rd Person Plural Feminine;27546;;;;roma1327;mallinson-1988
+lor;;3pl_f_p;3rd Person Plural Feminine;27547;;;;roma1327;mallinson-1988
+ei;;3pl_n_a;3rd Person Plural Neuter;27548;;;;roma1327;mallinson-1988
+ei;;3pl_n_s;3rd Person Plural Neuter;27549;;;;roma1327;mallinson-1988
+-îl;;3pl_n_o;3rd Person Plural Neuter;27550;;;;roma1327;mallinson-1988
+lor;;3pl_n_p;3rd Person Plural Neuter;27551;;;;roma1327;mallinson-1988
+ei;;3d-a;3rd Person Dual;36220;;;;roma1327;mallinson-1988
+ei;;3d-s;3rd Person Dual;36440;;;;roma1327;mallinson-1988
+-îl;;3d-o;3rd Person Dual;36666;;;;roma1327;mallinson-1988
+lor;;3d-p;3rd Person Dual;36889;;;;roma1327;mallinson-1988
+ei;;3p-a;3rd Person Plural;37101;;;;roma1327;mallinson-1988
+ei;;3p-s;3rd Person Plural;37322;;;;roma1327;mallinson-1988
+-îl;;3p-o;3rd Person Plural;37546;;;;roma1327;mallinson-1988
+lor;;3p-p;3rd Person Plural;37767;;;;roma1327;mallinson-1988

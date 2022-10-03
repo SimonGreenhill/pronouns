@@ -1,0 +1,77 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+hau;;1sg_a;1st (excl) Person Singular;30105;;;;tetu1246;williams-van-klinken-et-al-2002
+hau;;1sg_s;1st (excl) Person Singular;30106;;;;tetu1246;williams-van-klinken-et-al-2002
+hau;;1sg_o;1st (excl) Person Singular;30107;;;;tetu1246;williams-van-klinken-et-al-2002
+hau nia;;1sg_p;1st (excl) Person Singular;30108;;;;tetu1246;williams-van-klinken-et-al-2002
+ami;;1du_a;1st (excl) Person Dual;30109;;;;tetu1246;williams-van-klinken-et-al-2002
+ami;;1du_s;1st (excl) Person Dual;30110;;;;tetu1246;williams-van-klinken-et-al-2002
+ami;;1du_o;1st (excl) Person Dual;30111;;;;tetu1246;williams-van-klinken-et-al-2002
+ami nia;;1du_p;1st (excl) Person Dual;30112;;;;tetu1246;williams-van-klinken-et-al-2002
+ami;;1pl_a;1st (excl) Person Plural;30113;;;;tetu1246;williams-van-klinken-et-al-2002
+ami;;1pl_s;1st (excl) Person Plural;30114;;;;tetu1246;williams-van-klinken-et-al-2002
+ami;;1pl_o;1st (excl) Person Plural;30115;;;;tetu1246;williams-van-klinken-et-al-2002
+ami nia;;1pl_p;1st (excl) Person Plural;30116;;;;tetu1246;williams-van-klinken-et-al-2002
+ita;;12du_a;1st (incl) Person Dual;30117;;;;tetu1246;williams-van-klinken-et-al-2002
+ita;;12du_s;1st (incl) Person Dual;30118;;;;tetu1246;williams-van-klinken-et-al-2002
+ita;;12du_o;1st (incl) Person Dual;30119;;;;tetu1246;williams-van-klinken-et-al-2002
+ita nia;;12du_p;1st (incl) Person Dual;30120;;;;tetu1246;williams-van-klinken-et-al-2002
+ita;;12pl_a;1st (incl) Person Plural;30121;;;;tetu1246;williams-van-klinken-et-al-2002
+ita;;12pl_s;1st (incl) Person Plural;30122;;;;tetu1246;williams-van-klinken-et-al-2002
+ita;;12pl_o;1st (incl) Person Plural;30123;;;;tetu1246;williams-van-klinken-et-al-2002
+ita nia;;12pl_p;1st (incl) Person Plural;30124;;;;tetu1246;williams-van-klinken-et-al-2002
+o;;2sg_a;2nd Person Singular;30125;;;;tetu1246;williams-van-klinken-et-al-2002
+o;;2sg_s;2nd Person Singular;30126;;;;tetu1246;williams-van-klinken-et-al-2002
+o;;2sg_o;2nd Person Singular;30127;;;;tetu1246;williams-van-klinken-et-al-2002
+o nia;;2sg_p;2nd Person Singular;30128;;;;tetu1246;williams-van-klinken-et-al-2002
+imi;;2du_a;2nd Person Dual;30129;;;;tetu1246;williams-van-klinken-et-al-2002
+imi;;2du_s;2nd Person Dual;30130;;;;tetu1246;williams-van-klinken-et-al-2002
+imi;;2du_o;2nd Person Dual;30131;;;;tetu1246;williams-van-klinken-et-al-2002
+imi nia;;2du_p;2nd Person Dual;30132;;;;tetu1246;williams-van-klinken-et-al-2002
+imi;;2pl_a;2nd Person Plural;30133;;;;tetu1246;williams-van-klinken-et-al-2002
+imi;;2pl_s;2nd Person Plural;30134;;;;tetu1246;williams-van-klinken-et-al-2002
+imi;;2pl_o;2nd Person Plural;30135;;;;tetu1246;williams-van-klinken-et-al-2002
+imi nia;;2pl_p;2nd Person Plural;30136;;;;tetu1246;williams-van-klinken-et-al-2002
+nia;;3sg_m_a;3rd Person Singular Masculine;30137;;;;tetu1246;williams-van-klinken-et-al-2002
+nia;;3sg_m_s;3rd Person Singular Masculine;30138;;;;tetu1246;williams-van-klinken-et-al-2002
+nia;;3sg_m_o;3rd Person Singular Masculine;30139;;;;tetu1246;williams-van-klinken-et-al-2002
+nia nia;;3sg_m_p;3rd Person Singular Masculine;30140;;;;tetu1246;williams-van-klinken-et-al-2002
+nia;;3sg_f_a;3rd Person Singular Feminine;30141;;;;tetu1246;williams-van-klinken-et-al-2002
+nia;;3sg_f_s;3rd Person Singular Feminine;30142;;;;tetu1246;williams-van-klinken-et-al-2002
+nia;;3sg_f_o;3rd Person Singular Feminine;30143;;;;tetu1246;williams-van-klinken-et-al-2002
+nia nia;;3sg_f_p;3rd Person Singular Feminine;30144;;;;tetu1246;williams-van-klinken-et-al-2002
+nia;;3sg_n_a;3rd Person Singular Neuter;30145;;;;tetu1246;williams-van-klinken-et-al-2002
+nia;;3sg_n_s;3rd Person Singular Neuter;30146;;;;tetu1246;williams-van-klinken-et-al-2002
+nia;;3sg_n_o;3rd Person Singular Neuter;30147;;;;tetu1246;williams-van-klinken-et-al-2002
+nia nia;;3sg_n_p;3rd Person Singular Neuter;30148;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3du_m_a;3rd Person Dual Masculine;30149;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3du_m_s;3rd Person Dual Masculine;30150;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3du_m_o;3rd Person Dual Masculine;30151;;;;tetu1246;williams-van-klinken-et-al-2002
+sira nia;;3du_m_p;3rd Person Dual Masculine;30152;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3du_f_a;3rd Person Dual Feminine;30153;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3du_f_s;3rd Person Dual Feminine;30154;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3du_f_o;3rd Person Dual Feminine;30155;;;;tetu1246;williams-van-klinken-et-al-2002
+sira nia;;3du_f_p;3rd Person Dual Feminine;30156;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3du_n_a;3rd Person Dual Neuter;30157;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3du_n_s;3rd Person Dual Neuter;30158;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3du_n_o;3rd Person Dual Neuter;30159;;;;tetu1246;williams-van-klinken-et-al-2002
+sira nia;;3du_n_p;3rd Person Dual Neuter;30160;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3pl_m_a;3rd Person Plural Masculine;30161;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3pl_m_s;3rd Person Plural Masculine;30162;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3pl_m_o;3rd Person Plural Masculine;30163;;;;tetu1246;williams-van-klinken-et-al-2002
+sira nia;;3pl_m_p;3rd Person Plural Masculine;30164;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3pl_f_a;3rd Person Plural Feminine;30165;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3pl_f_s;3rd Person Plural Feminine;30166;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3pl_f_o;3rd Person Plural Feminine;30167;;;;tetu1246;williams-van-klinken-et-al-2002
+sira nia;;3pl_f_p;3rd Person Plural Feminine;30168;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3pl_n_a;3rd Person Plural Neuter;30169;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3pl_n_s;3rd Person Plural Neuter;30170;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3pl_n_o;3rd Person Plural Neuter;30171;;;;tetu1246;williams-van-klinken-et-al-2002
+sira nia;;3pl_n_p;3rd Person Plural Neuter;30172;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3d-a;3rd Person Dual;36290;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3d-s;3rd Person Dual;36511;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3d-o;3rd Person Dual;36739;;;;tetu1246;williams-van-klinken-et-al-2002
+sira nia;;3d-p;3rd Person Dual;36951;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3p-a;3rd Person Plural;37171;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3p-s;3rd Person Plural;37392;;;;tetu1246;williams-van-klinken-et-al-2002
+sira;;3p-o;3rd Person Plural;37619;;;;tetu1246;williams-van-klinken-et-al-2002
+sira nia;;3p-p;3rd Person Plural;37830;;;;tetu1246;williams-van-klinken-et-al-2002

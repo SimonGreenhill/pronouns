@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ka;;1sg_a;1st (excl) Person Singular;42666;;;;meri1244;piper-1989
+ka;;1sg_s;1st (excl) Person Singular;42665;;;;meri1244;piper-1989
+kári;;1sg_o;1st (excl) Person Singular;42664;;;;meri1244;piper-1989
+kára;;1sg_p;1st (excl) Person Singular;42663;;;;meri1244;piper-1989
+ki;;1du_a;1st (excl) Person Dual;42662;;;;meri1244;piper-1989
+ki;;1du_s;1st (excl) Person Dual;42661;;;;meri1244;piper-1989
+kerbi;;1du_o;1st (excl) Person Dual;42660;;;;meri1244;piper-1989
+keriba;;1du_p;1st (excl) Person Dual;42659;;;;meri1244;piper-1989
+ki;;1pl_a;1st (excl) Person Plural;42658;;;;meri1244;piper-1989
+ki;;1pl_s;1st (excl) Person Plural;42657;;;;meri1244;piper-1989
+kerbi;;1pl_o;1st (excl) Person Plural;42656;;;;meri1244;piper-1989
+keriba;;1pl_p;1st (excl) Person Plural;42655;;;;meri1244;piper-1989
+mi;;12du_a;1st (incl) Person Dual;42654;;;;meri1244;piper-1989
+mi;;12du_s;1st (incl) Person Dual;42653;;;;meri1244;piper-1989
+merbi;;12du_o;1st (incl) Person Dual;42652;;;;meri1244;piper-1989
+meriba;;12du_p;1st (incl) Person Dual;42651;;;;meri1244;piper-1989
+mi;;12pl_a;1st (incl) Person Plural;42650;;;;meri1244;piper-1989
+mi;;12pl_s;1st (incl) Person Plural;42649;;;;meri1244;piper-1989
+merbi;;12pl_o;1st (incl) Person Plural;42648;;;;meri1244;piper-1989
+meriba;;12pl_p;1st (incl) Person Plural;42647;;;;meri1244;piper-1989
+ma;;2sg_a;2nd Person Singular;42646;;;;meri1244;piper-1989
+ma;;2sg_s;2nd Person Singular;42645;;;;meri1244;piper-1989
+mári;;2sg_o;2nd Person Singular;42644;;;;meri1244;piper-1989
+mára;;2sg_p;2nd Person Singular;42643;;;;meri1244;piper-1989
+wa;;2du_a;2nd Person Dual;42642;;;;meri1244;piper-1989
+wa;;2du_s;2nd Person Dual;42641;;;;meri1244;piper-1989
+wábi;;2du_o;2nd Person Dual;42640;;;;meri1244;piper-1989
+wába;;2du_p;2nd Person Dual;42639;;;;meri1244;piper-1989
+wa;;2pl_a;2nd Person Plural;42638;;;;meri1244;piper-1989
+wa;;2pl_s;2nd Person Plural;42637;;;;meri1244;piper-1989
+wábi;;2pl_o;2nd Person Plural;42636;;;;meri1244;piper-1989
+wába;;2pl_p;2nd Person Plural;42635;;;;meri1244;piper-1989
+e;;3sg_m_a;3rd Person Singular Masculine;42634;;;;meri1244;piper-1989
+e;;3sg_m_s;3rd Person Singular Masculine;42633;;;;meri1244;piper-1989
+ábi;;3sg_m_o;3rd Person Singular Masculine;42632;;;;meri1244;piper-1989
+ábra;;3sg_m_p;3rd Person Singular Masculine;42631;;;;meri1244;piper-1989
+e;;3sg_n_a;3rd Person Singular Neuter;42630;;;;meri1244;piper-1989
+e;;3sg_n_s;3rd Person Singular Neuter;42629;;;;meri1244;piper-1989
+ábi;;3sg_n_o;3rd Person Singular Neuter;42628;;;;meri1244;piper-1989
+ábra;;3sg_n_p;3rd Person Singular Neuter;42627;;;;meri1244;piper-1989
+wi;;3d-a;3rd Person Dual;42626;;for this and other 3nsg forms, just the w-initial variants are given: this and other 3nsgA/S forms alternatie wi and i, while the O and genitive forms alterate wiyabi and yábi;;meri1244;piper-1989
+wi;;3d-s;3rd Person Dual;42625;;;;meri1244;piper-1989
+wiyabi;;3d-o;3rd Person Dual;42624;;;;meri1244;piper-1989
+wiyaba;;3d-p;3rd Person Dual;42623;;;;meri1244;piper-1989
+wi;;3p-a;3rd Person Plural;42622;;;;meri1244;piper-1989
+wi;;3p-s;3rd Person Plural;42621;;;;meri1244;piper-1989
+wiyabi;;3p-o;3rd Person Plural;42620;;;;meri1244;piper-1989
+wiyaba;;3p-p;3rd Person Plural;42619;;;;meri1244;piper-1989

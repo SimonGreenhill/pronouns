@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+aaz;;1sg_a;1st (excl) Person Singular;43227;;;;ingu1240;nichols-2011
+so;;1sg_s;1st (excl) Person Singular;43226;;;;ingu1240;nichols-2011
+so;;1sg_o;1st (excl) Person Singular;43225;;;;ingu1240;nichols-2011
+sy;;1sg_p;1st (excl) Person Singular;43224;;;;ingu1240;nichols-2011
+oaxa;;1du_a;1st (excl) Person Dual;43223;;;;ingu1240;nichols-2011
+txo;;1du_s;1st (excl) Person Dual;43222;;;;ingu1240;nichols-2011
+txo;;1du_o;1st (excl) Person Dual;43221;;;;ingu1240;nichols-2011
+txy;;1du_p;1st (excl) Person Dual;43220;;;;ingu1240;nichols-2011
+oaxa;;1pl_a;1st (excl) Person Plural;43219;;;;ingu1240;nichols-2011
+txo;;1pl_s;1st (excl) Person Plural;43218;;;;ingu1240;nichols-2011
+txo;;1pl_o;1st (excl) Person Plural;43217;;;;ingu1240;nichols-2011
+txy;;1pl_p;1st (excl) Person Plural;43216;;;;ingu1240;nichols-2011
+vai;;12du_a;1st (incl) Person Dual;43215;;;;ingu1240;nichols-2011
+vai;;12du_s;1st (incl) Person Dual;43214;;;;ingu1240;nichols-2011
+vai;;12du_o;1st (incl) Person Dual;43213;;;;ingu1240;nichols-2011
+vai;;12du_p;1st (incl) Person Dual;43212;;;;ingu1240;nichols-2011
+vai;;12pl_a;1st (incl) Person Plural;43211;;;;ingu1240;nichols-2011
+vai;;12pl_s;1st (incl) Person Plural;43210;;;;ingu1240;nichols-2011
+vai;;12pl_o;1st (incl) Person Plural;43209;;;;ingu1240;nichols-2011
+vai;;12pl_p;1st (incl) Person Plural;43208;;;;ingu1240;nichols-2011
+wa;;2sg_a;2nd Person Singular;43207;;;;ingu1240;nichols-2011
+hwo;;2sg_s;2nd Person Singular;43206;;;;ingu1240;nichols-2011
+hwo;;2sg_o;2nd Person Singular;43205;;;;ingu1240;nichols-2011
+hwa;;2sg_p;2nd Person Singular;43204;;;;ingu1240;nichols-2011
+oasha;;2du_a;2nd Person Dual;43203;;;;ingu1240;nichols-2011
+sho, shu;;2du_s;2nd Person Dual;43202;;;;ingu1240;nichols-2011
+sho, shu;;2du_o;2nd Person Dual;43201;;;;ingu1240;nichols-2011
+shyn;;2du_p;2nd Person Dual;43200;;;;ingu1240;nichols-2011
+oasha;;2pl_a;2nd Person Plural;43199;;;;ingu1240;nichols-2011
+sho, shu;;2pl_s;2nd Person Plural;43198;;;;ingu1240;nichols-2011
+sho, shu;;2pl_o;2nd Person Plural;43197;;;;ingu1240;nichols-2011
+shyn;;2pl_p;2nd Person Plural;43196;;;;ingu1240;nichols-2011
+cuo;;3sg_m_a;3rd Person Singular Masculine;43195;;;;ingu1240;nichols-2011
+yz;;3sg_m_s;3rd Person Singular Masculine;43194;;;;ingu1240;nichols-2011
+yz;;3sg_m_o;3rd Person Singular Masculine;43193;;;;ingu1240;nichols-2011
+cyn, cun;;3sg_m_p;3rd Person Singular Masculine;43192;;;;ingu1240;nichols-2011
+cuo;;3sg_n_a;3rd Person Singular Neuter;43191;;;;ingu1240;nichols-2011
+yz;;3sg_n_s;3rd Person Singular Neuter;43190;;;;ingu1240;nichols-2011
+yz;;3sg_n_o;3rd Person Singular Neuter;43189;;;;ingu1240;nichols-2011
+cyn, cun;;3sg_n_p;3rd Person Singular Neuter;43188;;;;ingu1240;nichols-2011
+caar, caara;;3d-a;3rd Person Dual;43187;;;;ingu1240;nichols-2011
+yzh;;3d-s;3rd Person Dual;43186;;;;ingu1240;nichols-2011
+yzh;;3d-o;3rd Person Dual;43185;;;;ingu1240;nichols-2011
+caar, caara;;3d-p;3rd Person Dual;43184;;;;ingu1240;nichols-2011
+caar, caara;;3p-a;3rd Person Plural;43183;;;;ingu1240;nichols-2011
+yzh;;3p-s;3rd Person Plural;43182;;;;ingu1240;nichols-2011
+yzh;;3p-o;3rd Person Plural;43181;;;;ingu1240;nichols-2011
+caar, caara;;3p-p;3rd Person Plural;43180;;;;ingu1240;nichols-2011

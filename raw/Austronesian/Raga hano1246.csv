@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+inau;;1sg_a;1st (excl) Person Singular;51730;;;;hano1246;vari-bogiri-2011
+inau;;1sg_s;1st (excl) Person Singular;51729;;;;hano1246;vari-bogiri-2011
+-au;;1sg_o;1st (excl) Person Singular;51728;;;;hano1246;vari-bogiri-2011
+-ku, -γu, -ṋgu;;1sg_p;1st (excl) Person Singular;51727;;;;hano1246;vari-bogiri-2011
+kamaru;;1du_a;1st (excl) Person Dual;51726;;;;hano1246;vari-bogiri-2011
+kamaru;;1du_s;1st (excl) Person Dual;51725;;;;hano1246;vari-bogiri-2011
+kamaru;;1du_o;1st (excl) Person Dual;51724;;;;hano1246;vari-bogiri-2011
+-maru;;1du_p;1st (excl) Person Dual;51723;;;;hano1246;vari-bogiri-2011
+kamai;;1pl_a;1st (excl) Person Plural;51722;;;;hano1246;vari-bogiri-2011
+kamai;;1pl_s;1st (excl) Person Plural;51721;;;;hano1246;vari-bogiri-2011
+kamai;;1pl_o;1st (excl) Person Plural;51720;;;;hano1246;vari-bogiri-2011
+-mai;;1pl_p;1st (excl) Person Plural;51719;;;;hano1246;vari-bogiri-2011
+γidaru;;12du_a;1st (incl) Person Dual;51718;;;;hano1246;vari-bogiri-2011
+γidaru;;12du_s;1st (incl) Person Dual;51717;;;;hano1246;vari-bogiri-2011
+γidaru;;12du_o;1st (incl) Person Dual;51716;;;;hano1246;vari-bogiri-2011
+-daru;;12du_p;1st (incl) Person Dual;51715;;;;hano1246;vari-bogiri-2011
+γida;;12pl_a;1st (incl) Person Plural;51714;;;;hano1246;vari-bogiri-2011
+γida;;12pl_s;1st (incl) Person Plural;51713;;;;hano1246;vari-bogiri-2011
+γida;;12pl_o;1st (incl) Person Plural;51712;;;;hano1246;vari-bogiri-2011
+-da;;12pl_p;1st (incl) Person Plural;51711;;;;hano1246;vari-bogiri-2011
+hiṋgo;;2sg_a;2nd Person Singular;51710;;;;hano1246;vari-bogiri-2011
+hiṋgo;;2sg_s;2nd Person Singular;51709;;;;hano1246;vari-bogiri-2011
+-γo;;2sg_o;2nd Person Singular;51708;;;;hano1246;vari-bogiri-2011
+-mwa;;2sg_p;2nd Person Singular;51707;;;;hano1246;vari-bogiri-2011
+kimiru;;2du_a;2nd Person Dual;51706;;;;hano1246;vari-bogiri-2011
+kimiru;;2du_s;2nd Person Dual;51705;;;;hano1246;vari-bogiri-2011
+kimiru;;2du_o;2nd Person Dual;51704;;;;hano1246;vari-bogiri-2011
+-miru;;2du_p;2nd Person Dual;51703;;;;hano1246;vari-bogiri-2011
+kimiu;;2pl_a;2nd Person Plural;51702;;;;hano1246;vari-bogiri-2011
+kimiu;;2pl_s;2nd Person Plural;51701;;;;hano1246;vari-bogiri-2011
+kimiu;;2pl_o;2nd Person Plural;51700;;;;hano1246;vari-bogiri-2011
+-miu;;2pl_p;2nd Person Plural;51699;;;;hano1246;vari-bogiri-2011
+kea;;3sg_m_a;3rd Person Singular Masculine;51698;;;;hano1246;vari-bogiri-2011
+kea;;3sg_m_s;3rd Person Singular Masculine;51697;;;;hano1246;vari-bogiri-2011
+-a, -e;;3sg_m_o;3rd Person Singular Masculine;51696;;;;hano1246;vari-bogiri-2011
+-na;;3sg_m_p;3rd Person Singular Masculine;51695;;;;hano1246;vari-bogiri-2011
+kea;;3sg_n_a;3rd Person Singular Neuter;51694;;;;hano1246;vari-bogiri-2011
+kea;;3sg_n_s;3rd Person Singular Neuter;51693;;;;hano1246;vari-bogiri-2011
+-a, -e;;3sg_n_o;3rd Person Singular Neuter;51692;;;;hano1246;vari-bogiri-2011
+-na;;3sg_n_p;3rd Person Singular Neuter;51691;;;;hano1246;vari-bogiri-2011
+kera, kera γairua;;3d-a;3rd Person Dual;51690;;;;hano1246;vari-bogiri-2011
+kera, kera γairua;;3d-s;3rd Person Dual;51689;;;;hano1246;vari-bogiri-2011
+-ra;;3d-o;3rd Person Dual;51688;;;;hano1246;vari-bogiri-2011
+-ra;;3d-p;3rd Person Dual;51687;;;;hano1246;vari-bogiri-2011
+kera;;3p-a;3rd Person Plural;51686;;;;hano1246;vari-bogiri-2011
+kera;;3p-s;3rd Person Plural;51685;;;;hano1246;vari-bogiri-2011
+-ra;;3p-o;3rd Person Plural;51684;;;;hano1246;vari-bogiri-2011
+-ra;;3p-p;3rd Person Plural;51683;;;;hano1246;vari-bogiri-2011

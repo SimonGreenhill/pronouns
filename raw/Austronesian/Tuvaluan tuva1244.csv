@@ -1,0 +1,61 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+au;;1sg_a;1st (excl) Person Singular;44486;;;;tuva1244;besnier-2000
+au;;1sg_s;1st (excl) Person Singular;44485;;;;tuva1244;besnier-2000
+au;;1sg_o;1st (excl) Person Singular;44484;;;;tuva1244;besnier-2000
+-ku;;1sg_p;1st (excl) Person Singular;44435;;;;tuva1244;besnier-2000
+-ku;;1sg_p;1st (excl) Person Singular;44483;;;;tuva1244;besnier-2000
+maaua;;1du_a;1st (excl) Person Dual;44482;;;;tuva1244;besnier-2000
+maaua;;1du_s;1st (excl) Person Dual;44481;;;;tuva1244;besnier-2000
+maaua;;1du_o;1st (excl) Person Dual;44480;;;;tuva1244;besnier-2000
+-maa;;1du_p;1st (excl) Person Dual;44431;;;;tuva1244;besnier-2000
+-maa;;1du_p;1st (excl) Person Dual;44479;;;;tuva1244;besnier-2000
+maatou;;1pl_a;1st (excl) Person Plural;44478;;;;tuva1244;besnier-2000
+maatou;;1pl_s;1st (excl) Person Plural;44429;;;;tuva1244;besnier-2000
+maatou;;1pl_o;1st (excl) Person Plural;44476;;;;tuva1244;besnier-2000
+-motou;;1pl_p;1st (excl) Person Plural;44427;;;;tuva1244;besnier-2000
+-motou;;1pl_p;1st (excl) Person Plural;44475;;;;tuva1244;besnier-2000
+taaua;;12du_a;1st (incl) Person Dual;44474;;;;tuva1244;besnier-2000
+taaua;;12du_s;1st (incl) Person Dual;44425;;;;tuva1244;besnier-2000
+taaua;;12du_o;1st (incl) Person Dual;44472;;;;tuva1244;besnier-2000
+-taa;;12du_p;1st (incl) Person Dual;44423;;;;tuva1244;besnier-2000
+-taa;;12du_p;1st (incl) Person Dual;44471;;;;tuva1244;besnier-2000
+taatou;;12pl_a;1st (incl) Person Plural;44422;;;;tuva1244;besnier-2000
+taatou;;12pl_s;1st (incl) Person Plural;44421;;;;tuva1244;besnier-2000
+taatou;;12pl_o;1st (incl) Person Plural;44420;;;;tuva1244;besnier-2000
+-ttou;;12pl_p;1st (incl) Person Plural;44419;;;;tuva1244;besnier-2000
+-ttou;;12pl_p;1st (incl) Person Plural;44467;;;;tuva1244;besnier-2000
+koe;;2sg_a;2nd Person Singular;44466;;;;tuva1244;besnier-2000
+koe;;2sg_s;2nd Person Singular;44417;;;;tuva1244;besnier-2000
+koe;;2sg_o;2nd Person Singular;44416;;;;tuva1244;besnier-2000
+-u;;2sg_p;2nd Person Singular;44415;;;;tuva1244;besnier-2000
+-u;;2sg_p;2nd Person Singular;44463;;;;tuva1244;besnier-2000
+koulua;;2du_a;2nd Person Dual;44414;;;;tuva1244;besnier-2000
+koulua;;2du_s;2nd Person Dual;44413;;;;tuva1244;besnier-2000
+koulua;;2du_o;2nd Person Dual;44412;;;;tuva1244;besnier-2000
+-lua;;2du_p;2nd Person Dual;44411;;;;tuva1244;besnier-2000
+-lua;;2du_p;2nd Person Dual;44459;;;;tuva1244;besnier-2000
+koutou;;2pl_a;2nd Person Plural;44410;;;;tuva1244;besnier-2000
+koutou;;2pl_s;2nd Person Plural;44457;;;;tuva1244;besnier-2000
+koutou;;2pl_o;2nd Person Plural;44456;;;;tuva1244;besnier-2000
+-ootou;;2pl_p;2nd Person Plural;44407;;;;tuva1244;besnier-2000
+-ootou;;2pl_p;2nd Person Plural;44455;;;;tuva1244;besnier-2000
+ia;;3sg_m_a;3rd Person Singular Masculine;44406;;;;tuva1244;besnier-2000
+ia;;3sg_m_s;3rd Person Singular Masculine;44405;;;;tuva1244;besnier-2000
+ia;;3sg_m_o;3rd Person Singular Masculine;44404;;;;tuva1244;besnier-2000
+-na;;3sg_m_p;3rd Person Singular Masculine;44403;;;;tuva1244;besnier-2000
+-na;;3sg_m_p;3rd Person Singular Masculine;44451;;;;tuva1244;besnier-2000
+ia;;3sg_n_a;3rd Person Singular Neuter;44402;;;;tuva1244;besnier-2000
+ia;;3sg_n_s;3rd Person Singular Neuter;44401;;;;tuva1244;besnier-2000
+ia;;3sg_n_o;3rd Person Singular Neuter;44400;;;;tuva1244;besnier-2000
+-na;;3sg_n_p;3rd Person Singular Neuter;44399;;;;tuva1244;besnier-2000
+-na;;3sg_n_p;3rd Person Singular Neuter;44447;;;;tuva1244;besnier-2000
+laaua;;3d-a;3rd Person Dual;44446;;;;tuva1244;besnier-2000
+laaua;;3d-s;3rd Person Dual;44445;;;;tuva1244;besnier-2000
+laaua;;3d-o;3rd Person Dual;44397;;;;tuva1244;besnier-2000
+-laa;;3d-p;3rd Person Dual;44396;;;;tuva1244;besnier-2000
+-laa;;3d-p;3rd Person Dual;44443;;;;tuva1244;besnier-2000
+laatou;;3p-a;3rd Person Plural;44395;;;;tuva1244;besnier-2000
+laatou;;3p-s;3rd Person Plural;44394;;;;tuva1244;besnier-2000
+laatou;;3p-o;3rd Person Plural;44393;;;;tuva1244;besnier-2000
+-lotou;;3p-p;3rd Person Plural;44392;;;;tuva1244;besnier-2000
+-lotou;;3p-p;3rd Person Plural;44439;;;;tuva1244;besnier-2000

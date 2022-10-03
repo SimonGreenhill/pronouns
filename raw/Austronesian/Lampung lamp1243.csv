@@ -1,0 +1,77 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ñaʔ, saya;;1sg_a;1st (excl) Person Singular;32245;;;;lamp1243;walker-1976
+ñaʔ, saya;;1sg_s;1st (excl) Person Singular;32246;;;;lamp1243;walker-1976
+ñaʔ, saya;;1sg_o;1st (excl) Person Singular;32247;;;;lamp1243;walker-1976
+-ku;;1sg_p;1st (excl) Person Singular;32248;;;;lamp1243;walker-1976
+sikam, sikandua;;1du_a;1st (excl) Person Dual;32249;;;;lamp1243;walker-1976
+sikam, sikandua;;1du_s;1st (excl) Person Dual;32250;;;;lamp1243;walker-1976
+sikam, sikandua;;1du_o;1st (excl) Person Dual;32251;;;;lamp1243;walker-1976
+-ni sikam;;1du_p;1st (excl) Person Dual;32252;;;;lamp1243;walker-1976
+sikam, sikandua;;1pl_a;1st (excl) Person Plural;32253;;;;lamp1243;walker-1976
+sikam, sikandua;;1pl_s;1st (excl) Person Plural;32254;;;;lamp1243;walker-1976
+sikam, sikandua;;1pl_o;1st (excl) Person Plural;32255;;;;lamp1243;walker-1976
+-ni sikam;;1pl_p;1st (excl) Person Plural;32256;;;;lamp1243;walker-1976
+xam;;12du_a;1st (incl) Person Dual;32257;;;;lamp1243;walker-1976
+xam;;12du_s;1st (incl) Person Dual;32258;;;;lamp1243;walker-1976
+xam;;12du_o;1st (incl) Person Dual;32259;;;;lamp1243;walker-1976
+-ni xam;;12du_p;1st (incl) Person Dual;32260;;;;lamp1243;walker-1976
+xam;;12pl_a;1st (incl) Person Plural;32261;;;;lamp1243;walker-1976
+xam;;12pl_s;1st (incl) Person Plural;32262;;;;lamp1243;walker-1976
+xam;;12pl_o;1st (incl) Person Plural;32263;;;;lamp1243;walker-1976
+-ni xam;;12pl_p;1st (incl) Person Plural;32264;;;;lamp1243;walker-1976
+niku, pusikam;;2sg_a;2nd Person Singular;32265;;;;lamp1243;walker-1976
+niku, pusikam;;2sg_s;2nd Person Singular;32266;;;;lamp1243;walker-1976
+niku, pusikam;;2sg_o;2nd Person Singular;32267;;;;lamp1243;walker-1976
+-mu;;2sg_p;2nd Person Singular;32268;;;;lamp1243;walker-1976
+kuti, pusikam;;2du_a;2nd Person Dual;32269;;;;lamp1243;walker-1976
+kuti, pusikam;;2du_s;2nd Person Dual;32270;;;;lamp1243;walker-1976
+kuti, pusikam;;2du_o;2nd Person Dual;32271;;;;lamp1243;walker-1976
+-ni kuti;;2du_p;2nd Person Dual;32272;;;;lamp1243;walker-1976
+kuti, pusikam;;2pl_a;2nd Person Plural;32273;;;;lamp1243;walker-1976
+kuti, pusikam;;2pl_s;2nd Person Plural;32274;;;;lamp1243;walker-1976
+kuti, pusikam;;2pl_o;2nd Person Plural;32275;;;;lamp1243;walker-1976
+-ni kuti;;2pl_p;2nd Person Plural;32276;;;;lamp1243;walker-1976
+ia, beliaw(an);;3sg_m_a;3rd Person Singular Masculine;32277;;;;lamp1243;walker-1976
+ia,  beliaw(an);;3sg_m_s;3rd Person Singular Masculine;32278;;;;lamp1243;walker-1976
+ia,  beliaw(an);;3sg_m_o;3rd Person Singular Masculine;32279;;;;lamp1243;walker-1976
+-ni;;3sg_m_p;3rd Person Singular Masculine;32280;;;;lamp1243;walker-1976
+ia;;3sg_f_a;3rd Person Singular Feminine;32281;;;;lamp1243;walker-1976
+ia;;3sg_f_s;3rd Person Singular Feminine;32282;;;;lamp1243;walker-1976
+ia;;3sg_f_o;3rd Person Singular Feminine;32283;;;;lamp1243;walker-1976
+-ni;;3sg_f_p;3rd Person Singular Feminine;32284;;;;lamp1243;walker-1976
+ia,  beliaw(an);;3sg_n_a;3rd Person Singular Neuter;32285;;;;lamp1243;walker-1976
+ia,  beliaw(an);;3sg_n_s;3rd Person Singular Neuter;32286;;;;lamp1243;walker-1976
+ia,  beliaw(an);;3sg_n_o;3rd Person Singular Neuter;32287;;;;lamp1243;walker-1976
+-ni;;3sg_n_p;3rd Person Singular Neuter;32288;;;;lamp1243;walker-1976
+tian;;3du_m_a;3rd Person Dual Masculine;32289;;;;lamp1243;walker-1976
+tian;;3du_m_s;3rd Person Dual Masculine;32290;;;;lamp1243;walker-1976
+tian;;3du_m_o;3rd Person Dual Masculine;32291;;;;lamp1243;walker-1976
+-ni (tian);;3du_m_p;3rd Person Dual Masculine;32292;;;;lamp1243;walker-1976
+tian;;3du_f_a;3rd Person Dual Feminine;32293;;;;lamp1243;walker-1976
+tian;;3du_f_s;3rd Person Dual Feminine;32294;;;;lamp1243;walker-1976
+tian;;3du_f_o;3rd Person Dual Feminine;32295;;;;lamp1243;walker-1976
+-ni (tian);;3du_f_p;3rd Person Dual Feminine;32296;;;;lamp1243;walker-1976
+tian;;3du_n_a;3rd Person Dual Neuter;32297;;;;lamp1243;walker-1976
+tian;;3du_n_s;3rd Person Dual Neuter;32298;;;;lamp1243;walker-1976
+tian;;3du_n_o;3rd Person Dual Neuter;32299;;;;lamp1243;walker-1976
+-ni (tian);;3du_n_p;3rd Person Dual Neuter;32300;;;;lamp1243;walker-1976
+tian;;3pl_m_a;3rd Person Plural Masculine;32301;;;;lamp1243;walker-1976
+tian;;3pl_m_s;3rd Person Plural Masculine;32302;;;;lamp1243;walker-1976
+tian;;3pl_m_o;3rd Person Plural Masculine;32303;;;;lamp1243;walker-1976
+-ni (tian);;3pl_m_p;3rd Person Plural Masculine;32304;;;;lamp1243;walker-1976
+tian;;3pl_f_a;3rd Person Plural Feminine;32305;;;;lamp1243;walker-1976
+tian;;3pl_f_s;3rd Person Plural Feminine;32306;;;;lamp1243;walker-1976
+tian;;3pl_f_o;3rd Person Plural Feminine;32307;;;;lamp1243;walker-1976
+-ni (tian);;3pl_f_p;3rd Person Plural Feminine;32308;;;;lamp1243;walker-1976
+tian;;3pl_n_a;3rd Person Plural Neuter;32309;;;;lamp1243;walker-1976
+tian;;3pl_n_s;3rd Person Plural Neuter;32310;;;;lamp1243;walker-1976
+tian;;3pl_n_o;3rd Person Plural Neuter;32311;;;;lamp1243;walker-1976
+-ni (tian);;3pl_n_p;3rd Person Plural Neuter;32312;;;;lamp1243;walker-1976
+tian,  beliaw(an);;3d-a;3rd Person Dual;36327;;;;lamp1243;walker-1976
+tian,  beliaw(an);;3d-s;3rd Person Dual;36553;;;;lamp1243;walker-1976
+tian,  beliaw(an);;3d-o;3rd Person Dual;36779;;;;lamp1243;walker-1976
+-ni (tian);;3d-p;3rd Person Dual;36988;;;;lamp1243;walker-1976
+tian,  beliaw(an);;3p-a;3rd Person Plural;37208;;;;lamp1243;walker-1976
+tian,  beliaw(an);;3p-s;3rd Person Plural;37434;;;;lamp1243;walker-1976
+tian,  beliaw(an);;3p-o;3rd Person Plural;37659;;;;lamp1243;walker-1976
+-ni (tian);;3p-p;3rd Person Plural;37867;;;;lamp1243;walker-1976

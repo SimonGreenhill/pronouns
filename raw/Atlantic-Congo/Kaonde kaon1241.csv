@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+amiwa;;1sg_a;1st (excl) Person Singular;48814;;;;kaon1241;wright-2008
+amiwa;;1sg_s;1st (excl) Person Singular;48813;;;;kaon1241;wright-2008
+amiwa;;1sg_o;1st (excl) Person Singular;48812;;;;kaon1241;wright-2008
+-ami;;1sg_p;1st (excl) Person Singular;48811;;;;kaon1241;wright-2008
+atweba;;1du_a;1st (excl) Person Dual;48810;;;;kaon1241;wright-2008
+atweba;;1du_s;1st (excl) Person Dual;48809;;;;kaon1241;wright-2008
+atweba;;1du_o;1st (excl) Person Dual;48808;;;;kaon1241;wright-2008
+-itu ;;1du_p;1st (excl) Person Dual;48807;;;;kaon1241;wright-2008
+atweba;;1pl_a;1st (excl) Person Plural;48806;;;;kaon1241;wright-2008
+atweba;;1pl_s;1st (excl) Person Plural;48805;;;;kaon1241;wright-2008
+atweba;;1pl_o;1st (excl) Person Plural;48804;;;;kaon1241;wright-2008
+-itu ;;1pl_p;1st (excl) Person Plural;48803;;;;kaon1241;wright-2008
+atweba;;12du_a;1st (incl) Person Dual;48802;;;;kaon1241;wright-2008
+atweba;;12du_s;1st (incl) Person Dual;48801;;;;kaon1241;wright-2008
+atweba;;12du_o;1st (incl) Person Dual;48800;;;;kaon1241;wright-2008
+-itu ;;12du_p;1st (incl) Person Dual;48799;;;;kaon1241;wright-2008
+atweba;;12pl_a;1st (incl) Person Plural;48798;;;;kaon1241;wright-2008
+atweba;;12pl_s;1st (incl) Person Plural;48797;;;;kaon1241;wright-2008
+atweba;;12pl_o;1st (incl) Person Plural;48796;;;;kaon1241;wright-2008
+-itu ;;12pl_p;1st (incl) Person Plural;48795;;;;kaon1241;wright-2008
+obewa;;2sg_a;2nd Person Singular;48794;;;;kaon1241;wright-2008
+obewa;;2sg_s;2nd Person Singular;48793;;;;kaon1241;wright-2008
+obewa;;2sg_o;2nd Person Singular;48792;;;;kaon1241;wright-2008
+-obe;;2sg_p;2nd Person Singular;48791;;;;kaon1241;wright-2008
+anweba;;2du_a;2nd Person Dual;48790;;;;kaon1241;wright-2008
+anweba;;2du_s;2nd Person Dual;48789;;;;kaon1241;wright-2008
+anweba;;2du_o;2nd Person Dual;48788;;;;kaon1241;wright-2008
+-inu;;2du_p;2nd Person Dual;48787;;;;kaon1241;wright-2008
+anweba;;2pl_a;2nd Person Plural;48786;;;;kaon1241;wright-2008
+anweba;;2pl_s;2nd Person Plural;48785;;;;kaon1241;wright-2008
+anweba;;2pl_o;2nd Person Plural;48784;;;;kaon1241;wright-2008
+-inu;;2pl_p;2nd Person Plural;48783;;;;kaon1241;wright-2008
+u-;;3sg_m_a;3rd Person Singular Masculine;48782;;The form 'a-' is also listed (Wright 2008:20).;;kaon1241;wright-2008
+u-;;3sg_m_s;3rd Person Singular Masculine;48781;;The form 'a-' is also listed (Wright 2008:20).;;kaon1241;wright-2008
+mu-;;3sg_m_o;3rd Person Singular Masculine;48780;;;;kaon1241;wright-2008
+nji-;;3sg_m_p;3rd Person Singular Masculine;48779;;;;kaon1241;wright-2008
+u-;;3sg_n_a;3rd Person Singular Neuter;48778;;The form 'a-' is also listed (Wright 2008:20).;;kaon1241;wright-2008
+u-;;3sg_n_s;3rd Person Singular Neuter;48777;;The form 'a-' is also listed (Wright 2008:20).;;kaon1241;wright-2008
+mu-;;3sg_n_o;3rd Person Singular Neuter;48776;;;;kaon1241;wright-2008
+nji-;;3sg_n_p;3rd Person Singular Neuter;48775;;;;kaon1241;wright-2008
+ba-;;3d-a;3rd Person Dual;48774;;;;kaon1241;wright-2008
+ba-;;3d-s;3rd Person Dual;48773;;;;kaon1241;wright-2008
+iba-;;3d-o;3rd Person Dual;48772;;;;kaon1241;wright-2008
+bo-;;3d-p;3rd Person Dual;48771;;;;kaon1241;wright-2008
+ba-;;3p-a;3rd Person Plural;48770;;;;kaon1241;wright-2008
+ba-;;3p-s;3rd Person Plural;48769;;;;kaon1241;wright-2008
+iba-;;3p-o;3rd Person Plural;48768;;;;kaon1241;wright-2008
+bo-;;3p-p;3rd Person Plural;48767;;;;kaon1241;wright-2008

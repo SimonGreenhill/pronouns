@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+inau;;1sg_a;1st (excl) Person Singular;49918;;;;tora1259;evans-2015
+inau;;1sg_s;1st (excl) Person Singular;49917;;;;tora1259;evans-2015
+inau;;1sg_o;1st (excl) Person Singular;49916;;;;tora1259;evans-2015
+-gu;;1sg_p;1st (excl) Person Singular;49915;;;;tora1259;evans-2015
+nimani;;1du_a;1st (excl) Person Dual;49914;;;;tora1259;evans-2015
+nimani;;1du_s;1st (excl) Person Dual;49913;;;;tora1259;evans-2015
+nimani;;1du_o;1st (excl) Person Dual;49912;;;;tora1259;evans-2015
+-mani;;1du_p;1st (excl) Person Dual;49911;;;;tora1259;evans-2015
+nimani;;1pl_a;1st (excl) Person Plural;49910;;;;tora1259;evans-2015
+nimani;;1pl_s;1st (excl) Person Plural;49909;;;;tora1259;evans-2015
+nimani;;1pl_o;1st (excl) Person Plural;49908;;;;tora1259;evans-2015
+-mani;;1pl_p;1st (excl) Person Plural;49907;;;;tora1259;evans-2015
+nida;;12du_a;1st (incl) Person Dual;49906;;;;tora1259;evans-2015
+nida;;12du_s;1st (incl) Person Dual;49905;;;;tora1259;evans-2015
+nida;;12du_o;1st (incl) Person Dual;49904;;;;tora1259;evans-2015
+-da;;12du_p;1st (incl) Person Dual;49903;;;;tora1259;evans-2015
+nida;;12pl_a;1st (incl) Person Plural;49902;;;;tora1259;evans-2015
+nida;;12pl_s;1st (incl) Person Plural;49901;;;;tora1259;evans-2015
+nida;;12pl_o;1st (incl) Person Plural;49900;;;;tora1259;evans-2015
+-da;;12pl_p;1st (incl) Person Plural;49899;;;;tora1259;evans-2015
+ine;;2sg_a;2nd Person Singular;49898;;;;tora1259;evans-2015
+ine;;2sg_s;2nd Person Singular;49897;;;;tora1259;evans-2015
+ine;;2sg_o;2nd Person Singular;49896;;;;tora1259;evans-2015
+-u;;2sg_p;2nd Person Singular;49895;;;;tora1259;evans-2015
+nimu;;2du_a;2nd Person Dual;49894;;;;tora1259;evans-2015
+nimu;;2du_s;2nd Person Dual;49893;;;;tora1259;evans-2015
+nimu;;2du_o;2nd Person Dual;49892;;;;tora1259;evans-2015
+-mu;;2du_p;2nd Person Dual;49891;;;;tora1259;evans-2015
+nimu;;2pl_a;2nd Person Plural;49890;;;;tora1259;evans-2015
+nimu;;2pl_s;2nd Person Plural;49889;;;;tora1259;evans-2015
+nimu;;2pl_o;2nd Person Plural;49888;;;;tora1259;evans-2015
+-mu;;2pl_p;2nd Person Plural;49887;;;;tora1259;evans-2015
+0;;3sg_m_a;3rd Person Singular Masculine;49886;;;;tora1259;evans-2015
+0;;3sg_m_s;3rd Person Singular Masculine;49885;;;;tora1259;evans-2015
+0;;3sg_m_o;3rd Person Singular Masculine;49884;;;;tora1259;evans-2015
+-la;;3sg_m_p;3rd Person Singular Masculine;49883;;The form '-na' also exists.;;tora1259;evans-2015
+0;;3sg_n_a;3rd Person Singular Neuter;49882;;;;tora1259;evans-2015
+0;;3sg_n_s;3rd Person Singular Neuter;49881;;;;tora1259;evans-2015
+0;;3sg_n_o;3rd Person Singular Neuter;49880;;;;tora1259;evans-2015
+-la;;3sg_n_p;3rd Person Singular Neuter;49879;;The form '-na' also exists.;;tora1259;evans-2015
+0;;3d-a;3rd Person Dual;49878;;;;tora1259;evans-2015
+0;;3d-s;3rd Person Dual;49877;;;;tora1259;evans-2015
+0;;3d-o;3rd Person Dual;49876;;;;tora1259;evans-2015
+-dia;;3d-p;3rd Person Dual;49875;;;;tora1259;evans-2015
+0;;3p-a;3rd Person Plural;49874;;;;tora1259;evans-2015
+0;;3p-s;3rd Person Plural;49873;;;;tora1259;evans-2015
+0;;3p-o;3rd Person Plural;49872;;;;tora1259;evans-2015
+-dia;;3p-p;3rd Person Plural;49871;;;;tora1259;evans-2015

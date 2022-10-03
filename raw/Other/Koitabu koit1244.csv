@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+daka;;1sg_a;1st (excl) Person Singular;42446;;;;koit1244;dutton-1975
+daka;;1sg_s;1st (excl) Person Singular;42445;;;;koit1244;dutton-1975
+da;;1sg_o;1st (excl) Person Singular;42444;;;;koit1244;dutton-1975
+di;;1sg_p;1st (excl) Person Singular;42443;;;;koit1244;dutton-1975
+noka;;1du_a;1st (excl) Person Dual;42442;;;;koit1244;dutton-1975
+noka;;1du_s;1st (excl) Person Dual;42441;;;;koit1244;dutton-1975
+no;;1du_o;1st (excl) Person Dual;42440;;;;koit1244;dutton-1975
+ni;;1du_p;1st (excl) Person Dual;42439;;;;koit1244;dutton-1975
+noka;;1pl_a;1st (excl) Person Plural;42438;;;;koit1244;dutton-1975
+noka;;1pl_s;1st (excl) Person Plural;42437;;;;koit1244;dutton-1975
+no;;1pl_o;1st (excl) Person Plural;42436;;;;koit1244;dutton-1975
+ni;;1pl_p;1st (excl) Person Plural;42435;;;;koit1244;dutton-1975
+noka;;12du_a;1st (incl) Person Dual;42434;;;;koit1244;dutton-1975
+noka;;12du_s;1st (incl) Person Dual;42433;;;;koit1244;dutton-1975
+no;;12du_o;1st (incl) Person Dual;42432;;;;koit1244;dutton-1975
+ni;;12du_p;1st (incl) Person Dual;42431;;;;koit1244;dutton-1975
+noka;;12pl_a;1st (incl) Person Plural;42430;;;;koit1244;dutton-1975
+noka;;12pl_s;1st (incl) Person Plural;42429;;;;koit1244;dutton-1975
+no;;12pl_o;1st (incl) Person Plural;42428;;;;koit1244;dutton-1975
+ni;;12pl_p;1st (incl) Person Plural;42427;;;;koit1244;dutton-1975
+aka;;2sg_a;2nd Person Singular;42426;;;;koit1244;dutton-1975
+aka;;2sg_s;2nd Person Singular;42425;;;;koit1244;dutton-1975
+a;;2sg_o;2nd Person Singular;42424;;;;koit1244;dutton-1975
+ai;;2sg_p;2nd Person Singular;42423;;;;koit1244;dutton-1975
+yaka;;2du_a;2nd Person Dual;42422;;;;koit1244;dutton-1975
+yaka;;2du_s;2nd Person Dual;42421;;;;koit1244;dutton-1975
+ya;;2du_o;2nd Person Dual;42420;;;;koit1244;dutton-1975
+yai;;2du_p;2nd Person Dual;42419;;;;koit1244;dutton-1975
+yaka;;2pl_a;2nd Person Plural;42418;;;;koit1244;dutton-1975
+yaka;;2pl_s;2nd Person Plural;42417;;;;koit1244;dutton-1975
+ya;;2pl_o;2nd Person Plural;42416;;;;koit1244;dutton-1975
+yai;;2pl_p;2nd Person Plural;42415;;;;koit1244;dutton-1975
+auka;;3sg_m_a;3rd Person Singular Masculine;42414;;;;koit1244;dutton-1975
+auka;;3sg_m_s;3rd Person Singular Masculine;42413;;;;koit1244;dutton-1975
+au;;3sg_m_o;3rd Person Singular Masculine;42412;;;;koit1244;dutton-1975
+au;;3sg_m_p;3rd Person Singular Masculine;42411;;;;koit1244;dutton-1975
+auka;;3sg_n_a;3rd Person Singular Neuter;42410;;;;koit1244;dutton-1975
+auka;;3sg_n_s;3rd Person Singular Neuter;42409;;;;koit1244;dutton-1975
+au;;3sg_n_o;3rd Person Singular Neuter;42408;;;;koit1244;dutton-1975
+au;;3sg_n_p;3rd Person Singular Neuter;42407;;;;koit1244;dutton-1975
+yauka;;3d-a;3rd Person Dual;42406;;;;koit1244;dutton-1975
+yauka;;3d-s;3rd Person Dual;42405;;;;koit1244;dutton-1975
+yau;;3d-o;3rd Person Dual;42404;;;;koit1244;dutton-1975
+yau;;3d-p;3rd Person Dual;42403;;;;koit1244;dutton-1975
+yauka;;3p-a;3rd Person Plural;42402;;;;koit1244;dutton-1975
+yauka;;3p-s;3rd Person Plural;42401;;;;koit1244;dutton-1975
+yau;;3p-o;3rd Person Plural;42400;;;;koit1244;dutton-1975
+yau;;3p-p;3rd Person Plural;42399;;;;koit1244;dutton-1975

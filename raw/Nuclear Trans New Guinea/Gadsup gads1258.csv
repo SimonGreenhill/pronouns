@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+te;;1sg_a;1st (excl) Person Singular;47254;;;;gads1258;ross-1995
+te;;1sg_s;1st (excl) Person Singular;47253;;;;gads1258;ross-1995
+ti-;;1sg_o;1st (excl) Person Singular;47252;;;;gads1258;ross-1995
+ti-;;1sg_p;1st (excl) Person Singular;47251;;;;gads1258;ross-1995
+mayau;;1du_a;1st (excl) Person Dual;47250;;;;gads1258;ross-1995
+mayau;;1du_s;1st (excl) Person Dual;47249;;;;gads1258;ross-1995
+ti-;;1du_o;1st (excl) Person Dual;47248;;;;gads1258;ross-1995
+ti-;;1du_p;1st (excl) Person Dual;47247;;;;gads1258;ross-1995
+mayau;;1pl_a;1st (excl) Person Plural;47246;;;;gads1258;ross-1995
+mayau;;1pl_s;1st (excl) Person Plural;47245;;;;gads1258;ross-1995
+ti-;;1pl_o;1st (excl) Person Plural;47244;;;;gads1258;ross-1995
+ti-;;1pl_p;1st (excl) Person Plural;47243;;;;gads1258;ross-1995
+mayau;;12du_a;1st (incl) Person Dual;47242;;;;gads1258;ross-1995
+mayau;;12du_s;1st (incl) Person Dual;47241;;;;gads1258;ross-1995
+ti-;;12du_o;1st (incl) Person Dual;47240;;;;gads1258;ross-1995
+ti-;;12du_p;1st (incl) Person Dual;47239;;;;gads1258;ross-1995
+mayau;;12pl_a;1st (incl) Person Plural;47238;;;;gads1258;ross-1995
+mayau;;12pl_s;1st (incl) Person Plural;47237;;;;gads1258;ross-1995
+ti-;;12pl_o;1st (incl) Person Plural;47236;;;;gads1258;ross-1995
+ti-;;12pl_p;1st (incl) Person Plural;47235;;;;gads1258;ross-1995
+e;;2sg_a;2nd Person Singular;47234;;;;gads1258;ross-1995
+e;;2sg_s;2nd Person Singular;47233;;;;gads1258;ross-1995
+a-;;2sg_o;2nd Person Singular;47232;;;;gads1258;ross-1995
+a-;;2sg_p;2nd Person Singular;47231;;;;gads1258;ross-1995
+ike;;2du_a;2nd Person Dual;47230;;;;gads1258;ross-1995
+ike;;2du_s;2nd Person Dual;47229;;;;gads1258;ross-1995
+yi-;;2du_o;2nd Person Dual;47228;;;;gads1258;ross-1995
+yi-;;2du_p;2nd Person Dual;47227;;;;gads1258;ross-1995
+ike;;2pl_a;2nd Person Plural;47226;;;;gads1258;ross-1995
+ike;;2pl_s;2nd Person Plural;47225;;;;gads1258;ross-1995
+yi-;;2pl_o;2nd Person Plural;47224;;;;gads1258;ross-1995
+yi-;;2pl_p;2nd Person Plural;47223;;;;gads1258;ross-1995
+be;;3sg_m_a;3rd Person Singular Masculine;47222;;;;gads1258;ross-1995
+be;;3sg_m_s;3rd Person Singular Masculine;47221;;;;gads1258;ross-1995
+a-;;3sg_m_o;3rd Person Singular Masculine;47220;;;;gads1258;ross-1995
+a-;;3sg_m_p;3rd Person Singular Masculine;47219;;;;gads1258;ross-1995
+be;;3sg_n_a;3rd Person Singular Neuter;47218;;;;gads1258;ross-1995
+be;;3sg_n_s;3rd Person Singular Neuter;47217;;;;gads1258;ross-1995
+a-;;3sg_n_o;3rd Person Singular Neuter;47216;;;;gads1258;ross-1995
+a-;;3sg_n_p;3rd Person Singular Neuter;47215;;;;gads1258;ross-1995
+ye, mayau;;3d-a;3rd Person Dual;47214;;;;gads1258;ross-1995
+ye, mayau;;3d-s;3rd Person Dual;47213;;;;gads1258;ross-1995
+yi-;;3d-o;3rd Person Dual;47212;;;;gads1258;ross-1995
+yi-;;3d-p;3rd Person Dual;47211;;;;gads1258;ross-1995
+ye, mayau;;3p-a;3rd Person Plural;47210;;;;gads1258;ross-1995
+ye, mayau;;3p-s;3rd Person Plural;47209;;;;gads1258;ross-1995
+yi-;;3p-o;3rd Person Plural;47208;;;;gads1258;ross-1995
+yi-;;3p-p;3rd Person Plural;47207;;;;gads1258;ross-1995

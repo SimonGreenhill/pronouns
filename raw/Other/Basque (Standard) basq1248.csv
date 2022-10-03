@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+nik ;;1sg_a;1st (excl) Person Singular;44199;;;;basq1248;de-2008
+ni ;;1sg_s;1st (excl) Person Singular;44198;;;;basq1248;de-2008
+ni ;;1sg_o;1st (excl) Person Singular;44197;;;;basq1248;de-2008
+nire ;;1sg_p;1st (excl) Person Singular;44196;;;;basq1248;de-2008
+guk ;;1du_a;1st (excl) Person Dual;44195;;;;basq1248;de-2008
+gu ;;1du_s;1st (excl) Person Dual;44194;;;;basq1248;de-2008
+gu ;;1du_o;1st (excl) Person Dual;44193;;;;basq1248;de-2008
+gure ;;1du_p;1st (excl) Person Dual;44192;;;;basq1248;de-2008
+guk ;;1pl_a;1st (excl) Person Plural;44191;;;;basq1248;de-2008
+gu ;;1pl_s;1st (excl) Person Plural;44190;;;;basq1248;de-2008
+gu ;;1pl_o;1st (excl) Person Plural;44189;;;;basq1248;de-2008
+gure ;;1pl_p;1st (excl) Person Plural;44188;;;;basq1248;de-2008
+guk ;;12du_a;1st (incl) Person Dual;44187;;;;basq1248;de-2008
+gu ;;12du_s;1st (incl) Person Dual;44186;;;;basq1248;de-2008
+gu ;;12du_o;1st (incl) Person Dual;44185;;;;basq1248;de-2008
+gure;;12du_p;1st (incl) Person Dual;44184;;;;basq1248;de-2008
+guk ;;12pl_a;1st (incl) Person Plural;44183;;;;basq1248;de-2008
+gu ;;12pl_s;1st (incl) Person Plural;44182;;;;basq1248;de-2008
+gu ;;12pl_o;1st (incl) Person Plural;44181;;;;basq1248;de-2008
+gure ;;12pl_p;1st (incl) Person Plural;44180;;;;basq1248;de-2008
+zuk ;;2sg_a;2nd Person Singular;44179;;;;basq1248;de-2008
+zu;;2sg_s;2nd Person Singular;44178;;"zu is a polite form, and considered the unmarked ""normal"" pronoun.";;basq1248;de-2008
+zu;;2sg_o;2nd Person Singular;44177;;"zu is a polite form, and considered the unmarked ""normal"" pronoun.";;basq1248;de-2008
+zure ;;2sg_p;2nd Person Singular;44176;;;;basq1248;de-2008
+zuek ;;2du_a;2nd Person Dual;44175;;;;basq1248;de-2008
+zuek ;;2du_s;2nd Person Dual;44174;;;;basq1248;de-2008
+zuek ;;2du_o;2nd Person Dual;44173;;;;basq1248;de-2008
+zuen ;;2du_p;2nd Person Dual;44172;;;;basq1248;de-2008
+zuek ;;2pl_a;2nd Person Plural;44171;;;;basq1248;de-2008
+zuek ;;2pl_s;2nd Person Plural;44170;;;;basq1248;de-2008
+zuek ;;2pl_o;2nd Person Plural;44169;;;;basq1248;de-2008
+zuen ;;2pl_p;2nd Person Plural;44168;;;;basq1248;de-2008
+honek ;;3sg_m_a;3rd Person Singular Masculine;44167;;;;basq1248;de-2008
+hau;;3sg_m_s;3rd Person Singular Masculine;44166;;;;basq1248;de-2008
+hau;;3sg_m_o;3rd Person Singular Masculine;44165;;;;basq1248;de-2008
+bere;;3sg_m_p;3rd Person Singular Masculine;44164;;;;basq1248;de-2008
+honek ;;3sg_n_a;3rd Person Singular Neuter;44163;;;;basq1248;de-2008
+hau;;3sg_n_s;3rd Person Singular Neuter;44162;;;;basq1248;de-2008
+hau;;3sg_n_o;3rd Person Singular Neuter;44161;;;;basq1248;de-2008
+bere;;3sg_n_p;3rd Person Singular Neuter;44160;;;;basq1248;de-2008
+hauek;;3d-a;3rd Person Dual;44159;;;;basq1248;de-2008
+hauek;;3d-s;3rd Person Dual;44158;;;;basq1248;de-2008
+hauek;;3d-o;3rd Person Dual;44157;;;;basq1248;de-2008
+beren;;3d-p;3rd Person Dual;44156;;;;basq1248;de-2008
+hauek;;3p-a;3rd Person Plural;44155;;;;basq1248;de-2008
+hauek;;3p-s;3rd Person Plural;44154;;;;basq1248;de-2008
+hauek;;3p-o;3rd Person Plural;44153;;;;basq1248;de-2008
+beren;;3p-p;3rd Person Plural;44152;;;;basq1248;de-2008

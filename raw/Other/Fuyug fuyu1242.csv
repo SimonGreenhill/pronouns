@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+na;;1sg_a;1st (excl) Person Singular;42110;;;;fuyu1242;bradshaw-2007
+na;;1sg_s;1st (excl) Person Singular;42109;;;;fuyu1242;bradshaw-2007
+na;;1sg_o;1st (excl) Person Singular;42108;;;;fuyu1242;bradshaw-2007
+nal;;1sg_p;1st (excl) Person Singular;42107;;;;fuyu1242;bradshaw-2007
+da;;1du_a;1st (excl) Person Dual;42106;;;;fuyu1242;bradshaw-2007
+da;;1du_s;1st (excl) Person Dual;42105;;;;fuyu1242;bradshaw-2007
+da;;1du_o;1st (excl) Person Dual;42104;;;;fuyu1242;bradshaw-2007
+dal;;1du_p;1st (excl) Person Dual;42103;;;;fuyu1242;bradshaw-2007
+di;;1pl_a;1st (excl) Person Plural;42102;;;;fuyu1242;bradshaw-2007
+di;;1pl_s;1st (excl) Person Plural;42101;;;;fuyu1242;bradshaw-2007
+di;;1pl_o;1st (excl) Person Plural;42100;;;;fuyu1242;bradshaw-2007
+dil;;1pl_p;1st (excl) Person Plural;42099;;;;fuyu1242;bradshaw-2007
+da;;12du_a;1st (incl) Person Dual;42098;;;;fuyu1242;bradshaw-2007
+da;;12du_s;1st (incl) Person Dual;42097;;;;fuyu1242;bradshaw-2007
+da;;12du_o;1st (incl) Person Dual;42096;;;;fuyu1242;bradshaw-2007
+dal;;12du_p;1st (incl) Person Dual;42095;;;;fuyu1242;bradshaw-2007
+di;;12pl_a;1st (incl) Person Plural;42094;;;;fuyu1242;bradshaw-2007
+di;;12pl_s;1st (incl) Person Plural;42093;;;;fuyu1242;bradshaw-2007
+di;;12pl_o;1st (incl) Person Plural;42092;;;;fuyu1242;bradshaw-2007
+dil;;12pl_p;1st (incl) Person Plural;42091;;;;fuyu1242;bradshaw-2007
+nu;;2sg_a;2nd Person Singular;42090;;;;fuyu1242;bradshaw-2007
+nu;;2sg_s;2nd Person Singular;42089;;;;fuyu1242;bradshaw-2007
+nu;;2sg_o;2nd Person Singular;42088;;;;fuyu1242;bradshaw-2007
+nul;;2sg_p;2nd Person Singular;42087;;;;fuyu1242;bradshaw-2007
+ya;;2du_a;2nd Person Dual;42086;;;;fuyu1242;bradshaw-2007
+ya;;2du_s;2nd Person Dual;42085;;;;fuyu1242;bradshaw-2007
+ya;;2du_o;2nd Person Dual;42084;;;;fuyu1242;bradshaw-2007
+yal;;2du_p;2nd Person Dual;42083;;;;fuyu1242;bradshaw-2007
+yi;;2pl_a;2nd Person Plural;42082;;;;fuyu1242;bradshaw-2007
+yi;;2pl_s;2nd Person Plural;42081;;;;fuyu1242;bradshaw-2007
+yi;;2pl_o;2nd Person Plural;42080;;;;fuyu1242;bradshaw-2007
+yil;;2pl_p;2nd Person Plural;42079;;;;fuyu1242;bradshaw-2007
+hu;;3sg_m_a;3rd Person Singular Masculine;42078;;;;fuyu1242;bradshaw-2007
+hu;;3sg_m_s;3rd Person Singular Masculine;42077;;;;fuyu1242;bradshaw-2007
+hu;;3sg_m_o;3rd Person Singular Masculine;42076;;;;fuyu1242;bradshaw-2007
+hul, hule;;3sg_m_p;3rd Person Singular Masculine;42075;;;;fuyu1242;bradshaw-2007
+hu;;3sg_n_a;3rd Person Singular Neuter;42074;;;;fuyu1242;bradshaw-2007
+hu;;3sg_n_s;3rd Person Singular Neuter;42073;;;;fuyu1242;bradshaw-2007
+hu;;3sg_n_o;3rd Person Singular Neuter;42072;;;;fuyu1242;bradshaw-2007
+hul, hule;;3sg_n_p;3rd Person Singular Neuter;42071;;;;fuyu1242;bradshaw-2007
+tu;;3d-a;3rd Person Dual;42070;;;;fuyu1242;bradshaw-2007
+tu;;3d-s;3rd Person Dual;42069;;;;fuyu1242;bradshaw-2007
+tu;;3d-o;3rd Person Dual;42068;;;;fuyu1242;bradshaw-2007
+tul;;3d-p;3rd Person Dual;42067;;;;fuyu1242;bradshaw-2007
+mu;;3p-a;3rd Person Plural;42066;;;;fuyu1242;bradshaw-2007
+mu;;3p-s;3rd Person Plural;42065;;;;fuyu1242;bradshaw-2007
+mu;;3p-o;3rd Person Plural;42064;;;;fuyu1242;bradshaw-2007
+mul;;3p-p;3rd Person Plural;42063;;;;fuyu1242;bradshaw-2007

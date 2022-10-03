@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+kyau;;1sg_a;1st (excl) Person Singular;48072;;;;kair1263;lynch-et-al-2002
+kyau;;1sg_s;1st (excl) Person Singular;48071;;;;kair1263;lynch-et-al-2002
+kyau;;1sg_o;1st (excl) Person Singular;48070;;;;kair1263;lynch-et-al-2002
+okyau;;1sg_p;1st (excl) Person Singular;48069;;;;kair1263;lynch-et-al-2002
+tu;;1du_a;1st (excl) Person Dual;48068;;;;kair1263;lynch-et-al-2002
+tu;;1du_s;1st (excl) Person Dual;48067;;;;kair1263;lynch-et-al-2002
+tu;;1du_o;1st (excl) Person Dual;48066;;;;kair1263;lynch-et-al-2002
+taqatu;;1du_p;1st (excl) Person Dual;48065;;;;kair1263;lynch-et-al-2002
+qait;;1pl_a;1st (excl) Person Plural;48064;;;;kair1263;lynch-et-al-2002
+qait;;1pl_s;1st (excl) Person Plural;48063;;;;kair1263;lynch-et-al-2002
+qait;;1pl_o;1st (excl) Person Plural;48062;;;;kair1263;lynch-et-al-2002
+taqait;;1pl_p;1st (excl) Person Plural;48061;;;;kair1263;lynch-et-al-2002
+tuyieq;;12du_a;1st (incl) Person Dual;48060;;;;kair1263;lynch-et-al-2002
+tuyieq;;12du_s;1st (incl) Person Dual;48059;;;;kair1263;lynch-et-al-2002
+tuyieq;;12du_o;1st (incl) Person Dual;48058;;;;kair1263;lynch-et-al-2002
+taqatu;;12du_p;1st (incl) Person Dual;48057;;;;kair1263;lynch-et-al-2002
+taqam;;12pl_a;1st (incl) Person Plural;48056;;;;kair1263;lynch-et-al-2002
+taqam;;12pl_s;1st (incl) Person Plural;48055;;;;kair1263;lynch-et-al-2002
+taqam;;12pl_o;1st (incl) Person Plural;48054;;;;kair1263;lynch-et-al-2002
+tamoit;;12pl_p;1st (incl) Person Plural;48053;;;;kair1263;lynch-et-al-2002
+yieq;;2sg_a;2nd Person Singular;48052;;;;kair1263;lynch-et-al-2002
+yieq;;2sg_s;2nd Person Singular;48051;;;;kair1263;lynch-et-al-2002
+yieq;;2sg_o;2nd Person Singular;48050;;;;kair1263;lynch-et-al-2002
+yieqayieq;;2sg_p;2nd Person Singular;48049;;;;kair1263;lynch-et-al-2002
+qum;;2du_a;2nd Person Dual;48048;;;;kair1263;lynch-et-al-2002
+qum;;2du_s;2nd Person Dual;48047;;;;kair1263;lynch-et-al-2002
+qum;;2du_o;2nd Person Dual;48046;;;;kair1263;lynch-et-al-2002
+moqum;;2du_p;2nd Person Dual;48045;;;;kair1263;lynch-et-al-2002
+qam;;2pl_a;2nd Person Plural;48044;;;;kair1263;lynch-et-al-2002
+qam;;2pl_s;2nd Person Plural;48043;;;;kair1263;lynch-et-al-2002
+qam;;2pl_o;2nd Person Plural;48042;;;;kair1263;lynch-et-al-2002
+maqam;;2pl_p;2nd Person Plural;48041;;;;kair1263;lynch-et-al-2002
+ei;;3sg_m_a;3rd Person Singular Masculine;48040;;;;kair1263;lynch-et-al-2002
+ei;;3sg_m_s;3rd Person Singular Masculine;48039;;;;kair1263;lynch-et-al-2002
+ei;;3sg_m_o;3rd Person Singular Masculine;48038;;;;kair1263;lynch-et-al-2002
+yaqai;;3sg_m_p;3rd Person Singular Masculine;48037;;;;kair1263;lynch-et-al-2002
+ei;;3sg_n_a;3rd Person Singular Neuter;48036;;;;kair1263;lynch-et-al-2002
+ei;;3sg_n_s;3rd Person Singular Neuter;48035;;;;kair1263;lynch-et-al-2002
+ei;;3sg_n_o;3rd Person Singular Neuter;48034;;;;kair1263;lynch-et-al-2002
+yaqai;;3sg_n_p;3rd Person Singular Neuter;48033;;;;kair1263;lynch-et-al-2002
+ru;;3d-a;3rd Person Dual;48032;;;;kair1263;lynch-et-al-2002
+ru;;3d-s;3rd Person Dual;48031;;;;kair1263;lynch-et-al-2002
+ru;;3d-o;3rd Person Dual;48030;;;;kair1263;lynch-et-al-2002
+raqaru;;3d-p;3rd Person Dual;48029;;;;kair1263;lynch-et-al-2002
+ri;;3p-a;3rd Person Plural;48028;;;;kair1263;lynch-et-al-2002
+ri;;3p-s;3rd Person Plural;48027;;;;kair1263;lynch-et-al-2002
+ri;;3p-o;3rd Person Plural;48026;;;;kair1263;lynch-et-al-2002
+raqari;;3p-p;3rd Person Plural;48025;;;;kair1263;lynch-et-al-2002

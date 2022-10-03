@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+(ĩ)nʸaa;;1sg_a;1st (excl) Person Singular;60400;;;;elna1235;casad-1984
+(ĩ)nʸaa;;1sg_s;1st (excl) Person Singular;60399;;;;elna1235;casad-1984
+(ĩ)nʸeeci;;1sg_o;1st (excl) Person Singular;60398;;;;elna1235;casad-1984
+(ĩ)nʸeeci;;1sg_p;1st (excl) Person Singular;60397;;;;elna1235;casad-1984
+(ĩ)tʸan;;1du_a;1st (excl) Person Dual;60396;;;;elna1235;casad-1984
+(ĩ)tʸan;;1du_s;1st (excl) Person Dual;60395;;;;elna1235;casad-1984
+(ĩ)tʸehmi;;1du_o;1st (excl) Person Dual;60394;;;;elna1235;casad-1984
+(ĩ)tʸehmi;;1du_p;1st (excl) Person Dual;60393;;;;elna1235;casad-1984
+(ĩ)tʸan;;1pl_a;1st (excl) Person Plural;60392;;;;elna1235;casad-1984
+(ĩ)tʸan;;1pl_s;1st (excl) Person Plural;60391;;;;elna1235;casad-1984
+(ĩ)tʸehmi;;1pl_o;1st (excl) Person Plural;60390;;;;elna1235;casad-1984
+(ĩ)tʸehmi;;1pl_p;1st (excl) Person Plural;60389;;;;elna1235;casad-1984
+(ĩ)tʸan;;12du_a;1st (incl) Person Dual;60388;;;;elna1235;casad-1984
+(ĩ)tʸan;;12du_s;1st (incl) Person Dual;60387;;;;elna1235;casad-1984
+(ĩ)tʸehmi;;12du_o;1st (incl) Person Dual;60386;;;;elna1235;casad-1984
+(ĩ)tʸehmi;;12du_p;1st (incl) Person Dual;60385;;;;elna1235;casad-1984
+(ĩ)tʸan;;12pl_a;1st (incl) Person Plural;60384;;;;elna1235;casad-1984
+(ĩ)tʸan;;12pl_s;1st (incl) Person Plural;60383;;;;elna1235;casad-1984
+(ĩ)tʸehmi;;12pl_o;1st (incl) Person Plural;60382;;;;elna1235;casad-1984
+(ĩ)tʸehmi;;12pl_p;1st (incl) Person Plural;60381;;;;elna1235;casad-1984
+mʷãa;;2sg_a;2nd Person Singular;60380;;;;elna1235;casad-1984
+mʷãa;;2sg_s;2nd Person Singular;60379;;;;elna1235;casad-1984
+mʷẽeci;;2sg_o;2nd Person Singular;60378;;;;elna1235;casad-1984
+mʷẽeci;;2sg_p;2nd Person Singular;60377;;;;elna1235;casad-1984
+mʷãn;;2du_a;2nd Person Dual;60376;;;;elna1235;casad-1984
+mʷãn;;2du_s;2nd Person Dual;60375;;;;elna1235;casad-1984
+mʷẽhmi;;2du_o;2nd Person Dual;60374;;;;elna1235;casad-1984
+mʷẽhmi;;2du_p;2nd Person Dual;60373;;;;elna1235;casad-1984
+mʷãn;;2pl_a;2nd Person Plural;60372;;;;elna1235;casad-1984
+mʷãn;;2pl_s;2nd Person Plural;60371;;;;elna1235;casad-1984
+mʷẽhmi;;2pl_o;2nd Person Plural;60370;;;;elna1235;casad-1984
+mʷẽhmi;;2pl_p;2nd Person Plural;60369;;;;elna1235;casad-1984
+aɨ;;3sg_m_a;3rd Person Singular Masculine;60368;;unseen: deictic reference, not gender;;elna1235;casad-1984
+aɨh;;3sg_m_s;3rd Person Singular Masculine;60367;;;;elna1235;casad-1984
+aɨh;;3sg_m_o;3rd Person Singular Masculine;60366;;;;elna1235;casad-1984
+aɨh;;3sg_m_p;3rd Person Singular Masculine;60365;;no direct example of possessive 3rd person in the grammar, though the authors says that 3rd person possessive pronouns are equal to object pronouns;;elna1235;casad-1984
+amɨ;;3sg_n_a;3rd Person Singular Neuter;60364;;distant (seen): deictic reference, not gender;;elna1235;casad-1984
+amɨh;;3sg_n_s;3rd Person Singular Neuter;60363;;;;elna1235;casad-1984
+amɨh;;3sg_n_o;3rd Person Singular Neuter;60362;;;;elna1235;casad-1984
+amɨh;;3sg_n_p;3rd Person Singular Neuter;60361;;;;elna1235;casad-1984
+aɨ;;3d-a;3rd Person Dual;60360;;;;elna1235;casad-1984
+aɨmeh;;3d-s;3rd Person Dual;60359;;;;elna1235;casad-1984
+aɨmeh;;3d-o;3rd Person Dual;60358;;;;elna1235;casad-1984
+aɨmeh;;3d-p;3rd Person Dual;60357;;;;elna1235;casad-1984
+aɨ;;3p-a;3rd Person Plural;60356;;;;elna1235;casad-1984
+aɨmeh;;3p-s;3rd Person Plural;60355;;;;elna1235;casad-1984
+aɨmeh;;3p-o;3rd Person Plural;60354;;;;elna1235;casad-1984
+aɨmeh;;3p-p;3rd Person Plural;60353;;;;elna1235;casad-1984

@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+te;;1sg_a;1st (excl) Person Singular;47302;;;;nort2920;ross-1995
+te;;1sg_s;1st (excl) Person Singular;47301;;;;nort2920;ross-1995
+ti-;;1sg_o;1st (excl) Person Singular;47300;;;;nort2920;ross-1995
+h-;;1sg_p;1st (excl) Person Singular;47299;;;;nort2920;ross-1995
+te;;1du_a;1st (excl) Person Dual;47298;;;;nort2920;ross-1995
+te;;1du_s;1st (excl) Person Dual;47297;;;;nort2920;ross-1995
+ti-;;1du_o;1st (excl) Person Dual;47296;;;;nort2920;ross-1995
+h-;;1du_p;1st (excl) Person Dual;47295;;;;nort2920;ross-1995
+te;;1pl_a;1st (excl) Person Plural;47294;;;;nort2920;ross-1995
+te;;1pl_s;1st (excl) Person Plural;47293;;;;nort2920;ross-1995
+ti-;;1pl_o;1st (excl) Person Plural;47292;;;;nort2920;ross-1995
+h-;;1pl_p;1st (excl) Person Plural;47291;;;;nort2920;ross-1995
+te;;12du_a;1st (incl) Person Dual;47290;;;;nort2920;ross-1995
+te;;12du_s;1st (incl) Person Dual;47289;;;;nort2920;ross-1995
+ti-;;12du_o;1st (incl) Person Dual;47288;;;;nort2920;ross-1995
+h-;;12du_p;1st (incl) Person Dual;47287;;;;nort2920;ross-1995
+te;;12pl_a;1st (incl) Person Plural;47286;;;;nort2920;ross-1995
+te;;12pl_s;1st (incl) Person Plural;47285;;;;nort2920;ross-1995
+ti-;;12pl_o;1st (incl) Person Plural;47284;;;;nort2920;ross-1995
+h-;;12pl_p;1st (incl) Person Plural;47283;;;;nort2920;ross-1995
+are;;2sg_a;2nd Person Singular;47282;;;;nort2920;ross-1995
+are;;2sg_s;2nd Person Singular;47281;;;;nort2920;ross-1995
+a-;;2sg_o;2nd Person Singular;47280;;;;nort2920;ross-1995
+a-;;2sg_p;2nd Person Singular;47279;;;;nort2920;ross-1995
+be;;2du_a;2nd Person Dual;47278;;;;nort2920;ross-1995
+be;;2du_s;2nd Person Dual;47277;;;;nort2920;ross-1995
+ti-;;2du_o;2nd Person Dual;47276;;;;nort2920;ross-1995
+n-;;2du_p;2nd Person Dual;47275;;;;nort2920;ross-1995
+be;;2pl_a;2nd Person Plural;47274;;;;nort2920;ross-1995
+be;;2pl_s;2nd Person Plural;47273;;;;nort2920;ross-1995
+ti-;;2pl_o;2nd Person Plural;47272;;;;nort2920;ross-1995
+n-;;2pl_p;2nd Person Plural;47271;;;;nort2920;ross-1995
+bi;;3sg_m_a;3rd Person Singular Masculine;47270;;;;nort2920;ross-1995
+bi;;3sg_m_s;3rd Person Singular Masculine;47269;;;;nort2920;ross-1995
+a-;;3sg_m_o;3rd Person Singular Masculine;47268;;;;nort2920;ross-1995
+a-;;3sg_m_p;3rd Person Singular Masculine;47267;;;;nort2920;ross-1995
+bi;;3sg_n_a;3rd Person Singular Neuter;47266;;;;nort2920;ross-1995
+bi;;3sg_n_s;3rd Person Singular Neuter;47265;;;;nort2920;ross-1995
+a-;;3sg_n_o;3rd Person Singular Neuter;47264;;;;nort2920;ross-1995
+a-;;3sg_n_p;3rd Person Singular Neuter;47263;;;;nort2920;ross-1995
+bi;;3d-a;3rd Person Dual;47262;;;;nort2920;ross-1995
+bi;;3d-s;3rd Person Dual;47261;;;;nort2920;ross-1995
+ti-;;3d-o;3rd Person Dual;47260;;;;nort2920;ross-1995
+n-;;3d-p;3rd Person Dual;47259;;;;nort2920;ross-1995
+bi;;3p-a;3rd Person Plural;47258;;;;nort2920;ross-1995
+bi;;3p-s;3rd Person Plural;47257;;;;nort2920;ross-1995
+ti-;;3p-o;3rd Person Plural;47256;;;;nort2920;ross-1995
+n-;;3p-p;3rd Person Plural;47255;;;;nort2920;ross-1995

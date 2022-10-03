@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+bi;;1sg_a;1st (excl) Person Singular;44726;;;;manc1252;gorelova-2002
+bi;;1sg_s;1st (excl) Person Singular;44725;;;;manc1252;gorelova-2002
+mimbe;;1sg_o;1st (excl) Person Singular;44724;;;;manc1252;gorelova-2002
+mini;;1sg_p;1st (excl) Person Singular;44723;;;;manc1252;gorelova-2002
+be;;1du_a;1st (excl) Person Dual;44722;;;;manc1252;gorelova-2002
+be;;1du_s;1st (excl) Person Dual;44721;;;;manc1252;gorelova-2002
+membe;;1du_o;1st (excl) Person Dual;44720;;;;manc1252;gorelova-2002
+meni;;1du_p;1st (excl) Person Dual;44719;;;;manc1252;gorelova-2002
+be;;1pl_a;1st (excl) Person Plural;44718;;;;manc1252;gorelova-2002
+be;;1pl_s;1st (excl) Person Plural;44717;;;;manc1252;gorelova-2002
+membe;;1pl_o;1st (excl) Person Plural;44716;;;;manc1252;gorelova-2002
+meni;;1pl_p;1st (excl) Person Plural;44715;;;;manc1252;gorelova-2002
+muse;;12du_a;1st (incl) Person Dual;44714;;;;manc1252;gorelova-2002
+muse;;12du_s;1st (incl) Person Dual;44713;;;;manc1252;gorelova-2002
+musebe;;12du_o;1st (incl) Person Dual;44712;;;;manc1252;gorelova-2002
+musei;;12du_p;1st (incl) Person Dual;44711;;;;manc1252;gorelova-2002
+muse;;12pl_a;1st (incl) Person Plural;44710;;;;manc1252;gorelova-2002
+muse;;12pl_s;1st (incl) Person Plural;44709;;;;manc1252;gorelova-2002
+musebe;;12pl_o;1st (incl) Person Plural;44708;;;;manc1252;gorelova-2002
+musei;;12pl_p;1st (incl) Person Plural;44707;;;;manc1252;gorelova-2002
+si;;2sg_a;2nd Person Singular;44706;;;;manc1252;gorelova-2002
+si;;2sg_s;2nd Person Singular;44705;;;;manc1252;gorelova-2002
+simbe;;2sg_o;2nd Person Singular;44704;;;;manc1252;gorelova-2002
+sini;;2sg_p;2nd Person Singular;44703;;;;manc1252;gorelova-2002
+suwe;;2du_a;2nd Person Dual;44702;;;;manc1252;gorelova-2002
+suwe;;2du_s;2nd Person Dual;44701;;;;manc1252;gorelova-2002
+suwembe;;2du_o;2nd Person Dual;44700;;;;manc1252;gorelova-2002
+suweni;;2du_p;2nd Person Dual;44699;;;;manc1252;gorelova-2002
+suwe;;2pl_a;2nd Person Plural;44698;;;;manc1252;gorelova-2002
+suwe;;2pl_s;2nd Person Plural;44697;;;;manc1252;gorelova-2002
+suwembe;;2pl_o;2nd Person Plural;44696;;;;manc1252;gorelova-2002
+suweni;;2pl_p;2nd Person Plural;44695;;;;manc1252;gorelova-2002
+i;;3sg_m_a;3rd Person Singular Masculine;44694;;;;manc1252;gorelova-2002
+i;;3sg_m_s;3rd Person Singular Masculine;44693;;;;manc1252;gorelova-2002
+imbe;;3sg_m_o;3rd Person Singular Masculine;44692;;;;manc1252;gorelova-2002
+ini;;3sg_m_p;3rd Person Singular Masculine;44691;;;;manc1252;gorelova-2002
+i;;3sg_n_a;3rd Person Singular Neuter;44690;;;;manc1252;gorelova-2002
+i;;3sg_n_s;3rd Person Singular Neuter;44689;;;;manc1252;gorelova-2002
+imbe;;3sg_n_o;3rd Person Singular Neuter;44688;;;;manc1252;gorelova-2002
+ini;;3sg_n_p;3rd Person Singular Neuter;44687;;;;manc1252;gorelova-2002
+ce;;3d-a;3rd Person Dual;44686;;;;manc1252;gorelova-2002
+ce;;3d-s;3rd Person Dual;44685;;;;manc1252;gorelova-2002
+cembe;;3d-o;3rd Person Dual;44684;;;;manc1252;gorelova-2002
+ceni;;3d-p;3rd Person Dual;44683;;;;manc1252;gorelova-2002
+ce;;3p-a;3rd Person Plural;44682;;;;manc1252;gorelova-2002
+ce;;3p-s;3rd Person Plural;44681;;;;manc1252;gorelova-2002
+cembe;;3p-o;3rd Person Plural;44680;;;;manc1252;gorelova-2002
+ceni;;3p-p;3rd Person Plural;44679;;;;manc1252;gorelova-2002

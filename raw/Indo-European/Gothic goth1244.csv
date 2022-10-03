@@ -1,0 +1,83 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ik;;1sg_a;1st (excl) Person Singular;27824;;;;goth1244;harbert-2007
+ik;;1sg_s;1st (excl) Person Singular;27825;;;;goth1244;harbert-2007
+mik;;1sg_o;1st (excl) Person Singular;27826;;;;goth1244;harbert-2007
+meina;;1sg_p;1st (excl) Person Singular;27827;;;;goth1244;harbert-2007
+wit;;1du_a;1st (excl) Person Dual;27828;;;;goth1244;harbert-2007
+wit;;1du_s;1st (excl) Person Dual;27829;;;;goth1244;harbert-2007
+ugkis;;1du_o;1st (excl) Person Dual;27830;;;;goth1244;harbert-2007
+unsara;;1du_p;1st (excl) Person Dual;27831;;;;goth1244;harbert-2007
+weis;;1pl_a;1st (excl) Person Plural;27832;;;;goth1244;harbert-2007
+weis;;1pl_s;1st (excl) Person Plural;27833;;;;goth1244;harbert-2007
+unsis;;1pl_o;1st (excl) Person Plural;27834;;;;goth1244;harbert-2007
+unsara;;1pl_p;1st (excl) Person Plural;27835;;;;goth1244;harbert-2007
+wit;;12du_a;1st (incl) Person Dual;27836;;;;goth1244;harbert-2007
+wit;;12du_s;1st (incl) Person Dual;27837;;;;goth1244;harbert-2007
+ugkis;;12du_o;1st (incl) Person Dual;27838;;;;goth1244;harbert-2007
+unsara;;12du_p;1st (incl) Person Dual;27839;;;;goth1244;harbert-2007
+weis;;12pl_a;1st (incl) Person Plural;27840;;;;goth1244;harbert-2007
+weis;;12pl_s;1st (incl) Person Plural;27841;;;;goth1244;harbert-2007
+unsis;;12pl_o;1st (incl) Person Plural;27842;;;;goth1244;harbert-2007
+unsara;;12pl_p;1st (incl) Person Plural;27843;;;;goth1244;harbert-2007
+þu;;2sg_a;2nd Person Singular;27844;;;;goth1244;harbert-2007
+þu;;2sg_s;2nd Person Singular;27845;;;;goth1244;harbert-2007
+þuk;;2sg_o;2nd Person Singular;27846;;;;goth1244;harbert-2007
+þeina;;2sg_p;2nd Person Singular;27847;;;;goth1244;harbert-2007
+it;;2du_a;2nd Person Dual;27848;;;;goth1244;harbert-2007
+it;;2du_s;2nd Person Dual;27849;;;;goth1244;harbert-2007
+igqis;;2du_o;2nd Person Dual;27850;;;;goth1244;harbert-2007
+igqara;;2du_p;2nd Person Dual;27851;;;;goth1244;harbert-2007
+jus;;2pl_a;2nd Person Plural;27852;;;;goth1244;harbert-2007
+jus;;2pl_s;2nd Person Plural;27853;;;;goth1244;harbert-2007
+izwis;;2pl_o;2nd Person Plural;27854;;;;goth1244;harbert-2007
+izwara;;2pl_p;2nd Person Plural;27855;;;;goth1244;harbert-2007
+is;;3sg_m_a;3rd Person Singular Masculine;27856;;;;goth1244;harbert-2007
+is;;3sg_m_s;3rd Person Singular Masculine;27857;;;;goth1244;harbert-2007
+ina;;3sg_m_o;3rd Person Singular Masculine;27858;;;;goth1244;harbert-2007
+is;;3sg_m_p;3rd Person Singular Masculine;27859;;;;goth1244;harbert-2007
+si;;3sg_f_a;3rd Person Singular Feminine;27860;;;;goth1244;harbert-2007
+si;;3sg_f_s;3rd Person Singular Feminine;27861;;;;goth1244;harbert-2007
+ija;;3sg_f_o;3rd Person Singular Feminine;27862;;;;goth1244;harbert-2007
+izōs;;3sg_f_p;3rd Person Singular Feminine;27863;;;;goth1244;harbert-2007
+ita;;3sg_n_a;3rd Person Singular Neuter;27864;;is is the masculine form, ita is the neuter form and si is the feminine form.;;goth1244;harbert-2007
+ita;;3sg_n_s;3rd Person Singular Neuter;27865;;is is the masculine form, ita is the neuter form and si is the feminine form.;;goth1244;harbert-2007
+ita;;3sg_n_o;3rd Person Singular Neuter;27866;;ina is the masculine form, ita is the neuter form and ija is the feminine form.;;goth1244;harbert-2007
+is;;3sg_n_p;3rd Person Singular Neuter;27867;;is is the masculine and neuter form, izōs is the feminine form.;;goth1244;harbert-2007
+eis;;3du_m_a;3rd Person Dual Masculine;27868;;;;goth1244;harbert-2007
+eis;;3du_m_s;3rd Person Dual Masculine;27869;;;;goth1244;harbert-2007
+ins;;3du_m_o;3rd Person Dual Masculine;27870;;;;goth1244;harbert-2007
+izē;;3du_m_p;3rd Person Dual Masculine;27871;;;;goth1244;harbert-2007
+ijōs;;3du_f_a;3rd Person Dual Feminine;27872;;;;goth1244;harbert-2007
+ijōs;;3du_f_s;3rd Person Dual Feminine;27873;;;;goth1244;harbert-2007
+ijōs;;3du_f_o;3rd Person Dual Feminine;27874;;;;goth1244;harbert-2007
+izō;;3du_f_p;3rd Person Dual Feminine;27875;;;;goth1244;harbert-2007
+ija;;3du_n_a;3rd Person Dual Neuter;27876;;;;goth1244;harbert-2007
+ija;;3du_n_s;3rd Person Dual Neuter;27877;;;;goth1244;harbert-2007
+ija;;3du_n_o;3rd Person Dual Neuter;27878;;;;goth1244;harbert-2007
+izē;;3du_n_p;3rd Person Dual Neuter;27879;;;;goth1244;harbert-2007
+eis;;3pl_m_a;3rd Person Plural Masculine;27880;;;;goth1244;harbert-2007
+eis;;3pl_m_s;3rd Person Plural Masculine;27881;;;;goth1244;harbert-2007
+ins;;3pl_m_o;3rd Person Plural Masculine;27882;;;;goth1244;harbert-2007
+izē;;3pl_m_p;3rd Person Plural Masculine;27883;;;;goth1244;harbert-2007
+ijōs;;3pl_f_a;3rd Person Plural Feminine;27884;;;;goth1244;harbert-2007
+ijōs;;3pl_f_s;3rd Person Plural Feminine;27885;;;;goth1244;harbert-2007
+ijōs;;3pl_f_o;3rd Person Plural Feminine;27886;;;;goth1244;harbert-2007
+izō;;3pl_f_p;3rd Person Plural Feminine;27887;;;;goth1244;harbert-2007
+ija;;3pl_n_a;3rd Person Plural Neuter;27888;;;;goth1244;harbert-2007
+ija;;3pl_n_s;3rd Person Plural Neuter;27889;;;;goth1244;harbert-2007
+ija;;3pl_n_o;3rd Person Plural Neuter;27890;;;;goth1244;harbert-2007
+izē;;3pl_n_p;3rd Person Plural Neuter;27891;;;;goth1244;harbert-2007
+eis;;3d-a;3rd Person Dual;36243;;;;goth1244;harbert-2007
+ija,ijōs;;3d-a;3rd Person Dual;36244;;eis is masculine, ija is neuter, ijōs is feminine.;;goth1244;harbert-2007
+eis;;3d-s;3rd Person Dual;36463;;;;goth1244;harbert-2007
+ija, ijōs;;3d-s;3rd Person Dual;36464;;eis is masculine, ija is neuter, ijōs is feminine.;;goth1244;harbert-2007
+ins, izō;;3d-o;3rd Person Dual;36691;;ija is masculine, ins is neuter, izō is feminine.;;goth1244;harbert-2007
+ija;;3d-o;3rd Person Dual;36692;;;;goth1244;harbert-2007
+izē, izō;;3d-p;3rd Person Dual;36912;;izē is masculine and neuter, izō is feminine.;;goth1244;harbert-2007
+eis;;3p-a;3rd Person Plural;37123;;;;goth1244;harbert-2007
+ija, ijōs;;3p-a;3rd Person Plural;37124;;eis is masculine, ija is neuter, ijōs is feminine.;;goth1244;harbert-2007
+eis;;3p-s;3rd Person Plural;37344;;;;goth1244;harbert-2007
+ija, ijōs;;3p-s;3rd Person Plural;37345;;eis is masculine, ija is neuter, ijōs is feminine.;;goth1244;harbert-2007
+ins, izō;;3p-o;3rd Person Plural;37571;;ija is masculine, ins is neuter, izō is feminine.;;goth1244;harbert-2007
+ija;;3p-o;3rd Person Plural;37572;;;;goth1244;harbert-2007
+izē, izō;;3p-p;3rd Person Plural;37790;;izē is masculine and neuter, izō is feminine.;;goth1244;harbert-2007

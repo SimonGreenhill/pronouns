@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ʔinh;;1sg_a;1st (excl) Person Singular;46118;;The form '-nh' is also listed (Wiesemann 1972:100).;;kain1272;wiesemann-1972
+ʔinh;;1sg_s;1st (excl) Person Singular;46117;;The form '-nh' is also listed (Wiesemann 1972:100).;;kain1272;wiesemann-1972
+ʔinh;;1sg_o;1st (excl) Person Singular;46116;;The form '-nh' is also listed (Wiesemann 1972:100).;;kain1272;wiesemann-1972
+ʔinh;;1sg_p;1st (excl) Person Singular;46115;;The form '-nh' is also listed (Wiesemann 1972:100).;;kain1272;wiesemann-1972
+ʔẽg;;1du_a;1st (excl) Person Dual;46114;;;;kain1272;wiesemann-1972
+ʔẽg;;1du_s;1st (excl) Person Dual;46113;;;;kain1272;wiesemann-1972
+ʔẽg;;1du_o;1st (excl) Person Dual;46112;;;;kain1272;wiesemann-1972
+ʔẽg;;1du_p;1st (excl) Person Dual;46111;;;;kain1272;wiesemann-1972
+ʔẽg;;1pl_a;1st (excl) Person Plural;46110;;;;kain1272;wiesemann-1972
+ʔẽg;;1pl_s;1st (excl) Person Plural;46109;;;;kain1272;wiesemann-1972
+ʔẽg;;1pl_o;1st (excl) Person Plural;46108;;;;kain1272;wiesemann-1972
+ʔẽg;;1pl_p;1st (excl) Person Plural;46107;;;;kain1272;wiesemann-1972
+ʔẽg;;12du_a;1st (incl) Person Dual;46106;;;;kain1272;wiesemann-1972
+ʔẽg;;12du_s;1st (incl) Person Dual;46105;;;;kain1272;wiesemann-1972
+ʔẽg;;12du_o;1st (incl) Person Dual;46104;;;;kain1272;wiesemann-1972
+ʔẽg;;12du_p;1st (incl) Person Dual;46103;;;;kain1272;wiesemann-1972
+ʔẽg;;12pl_a;1st (incl) Person Plural;46102;;;;kain1272;wiesemann-1972
+ʔẽg;;12pl_s;1st (incl) Person Plural;46101;;;;kain1272;wiesemann-1972
+ʔẽg;;12pl_o;1st (incl) Person Plural;46100;;;;kain1272;wiesemann-1972
+ʔẽg;;12pl_p;1st (incl) Person Plural;46099;;;;kain1272;wiesemann-1972
+ʔɑ̃;;2sg_a;2nd Person Singular;46098;;;;kain1272;wiesemann-1972
+ʔɑ̃;;2sg_s;2nd Person Singular;46097;;;;kain1272;wiesemann-1972
+ʔɑ̃;;2sg_o;2nd Person Singular;46096;;;;kain1272;wiesemann-1972
+ʔɑ̃;;2sg_p;2nd Person Singular;46095;;;;kain1272;wiesemann-1972
+ʔɑ̃jɑg;;2du_a;2nd Person Dual;46094;;;;kain1272;wiesemann-1972
+ʔɑ̃jɑg;;2du_s;2nd Person Dual;46093;;;;kain1272;wiesemann-1972
+ʔɑ̃jɑg;;2du_o;2nd Person Dual;46092;;;;kain1272;wiesemann-1972
+ʔɑ̃jɑg;;2du_p;2nd Person Dual;46091;;;;kain1272;wiesemann-1972
+ʔɑ̃jɑg;;2pl_a;2nd Person Plural;46090;;;;kain1272;wiesemann-1972
+ʔɑ̃jɑg;;2pl_s;2nd Person Plural;46089;;;;kain1272;wiesemann-1972
+ʔɑ̃jɑg;;2pl_o;2nd Person Plural;46088;;;;kain1272;wiesemann-1972
+ʔɑ̃jɑg;;2pl_p;2nd Person Plural;46087;;;;kain1272;wiesemann-1972
+ti;;3sg_m_a;3rd Person Singular Masculine;46086;;The form '-n' is also listed (Wiesemann 1972:101).;;kain1272;wiesemann-1972
+ti;;3sg_m_s;3rd Person Singular Masculine;46085;;The form '-n' is also listed (Wiesemann 1972:101).;;kain1272;wiesemann-1972
+ti;;3sg_m_o;3rd Person Singular Masculine;46084;;The form '-n' is also listed (Wiesemann 1972:101).;;kain1272;wiesemann-1972
+ti;;3sg_m_p;3rd Person Singular Masculine;46083;;The form '-n' is also listed (Wiesemann 1972:101).;;kain1272;wiesemann-1972
+fi;;3sg_n_a;3rd Person Singular Neuter;46082;;The form '-hi' is also listed (Wiesemann 1972:101).;;kain1272;wiesemann-1972
+fi;;3sg_n_s;3rd Person Singular Neuter;46081;;The form '-hi' is also listed (Wiesemann 1972:101).;;kain1272;wiesemann-1972
+fi;;3sg_n_o;3rd Person Singular Neuter;46080;;The form '-hi' is also listed (Wiesemann 1972:101).;;kain1272;wiesemann-1972
+fi;;3sg_n_p;3rd Person Singular Neuter;46079;;The form '-hi' is also listed (Wiesemann 1972:101).;;kain1272;wiesemann-1972
+ʔɑg;;3d-a;3rd Person Dual;46078;;;;kain1272;wiesemann-1972
+ʔɑg;;3d-s;3rd Person Dual;46077;;;;kain1272;wiesemann-1972
+ʔɑg;;3d-o;3rd Person Dual;46076;;;;kain1272;wiesemann-1972
+ʔɑg;;3d-p;3rd Person Dual;46075;;;;kain1272;wiesemann-1972
+ʔɑg;;3p-a;3rd Person Plural;46074;;;;kain1272;wiesemann-1972
+ʔɑg;;3p-s;3rd Person Plural;46073;;;;kain1272;wiesemann-1972
+ʔɑg;;3p-o;3rd Person Plural;46072;;;;kain1272;wiesemann-1972
+ʔɑg;;3p-p;3rd Person Plural;46071;;;;kain1272;wiesemann-1972

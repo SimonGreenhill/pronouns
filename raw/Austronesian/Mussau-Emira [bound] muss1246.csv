@@ -1,0 +1,35 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+a=;;1sg_a;1st (excl) Person Singular;47902;;;;muss1246;lynch-et-al-2002
+a=;;1sg_s;1st (excl) Person Singular;47901;;;;muss1246;lynch-et-al-2002
+=eqi;;1sg_o;1st (excl) Person Singular;47900;;;;muss1246;lynch-et-al-2002
+-qi;;1sg_p;1st (excl) Person Singular;47899;;;;muss1246;lynch-et-al-2002
+=egalua;;1du_o;1st (excl) Person Dual;47898;;;;muss1246;lynch-et-al-2002
+-galua;;1du_p;1st (excl) Person Dual;47897;;;;muss1246;lynch-et-al-2002
+=mami;;1pl_o;1st (excl) Person Plural;47896;;;;muss1246;lynch-et-al-2002
+-mami;;1pl_p;1st (excl) Person Plural;47895;;;;muss1246;lynch-et-al-2002
+=talua;;12du_o;1st (incl) Person Dual;47894;;;;muss1246;lynch-et-al-2002
+-italua;;12du_p;1st (incl) Person Dual;47893;;;;muss1246;lynch-et-al-2002
+=ta;;12pl_o;1st (incl) Person Plural;47892;;;;muss1246;lynch-et-al-2002
+-ita;;12pl_p;1st (incl) Person Plural;47891;;;;muss1246;lynch-et-al-2002
+u=;;2sg_a;2nd Person Singular;47890;;;;muss1246;lynch-et-al-2002
+u=;;2sg_s;2nd Person Singular;47889;;;;muss1246;lynch-et-al-2002
+=o;;2sg_o;2nd Person Singular;47888;;;;muss1246;lynch-et-al-2002
+-m;;2sg_p;2nd Person Singular;47887;;;;muss1246;lynch-et-al-2002
+=emalua;;2du_o;2nd Person Dual;47886;;;;muss1246;lynch-et-al-2002
+-imalua;;2du_p;2nd Person Dual;47885;;;;muss1246;lynch-et-al-2002
+=em;;2pl_o;2nd Person Plural;47884;;;;muss1246;lynch-et-al-2002
+-imim;;2pl_p;2nd Person Plural;47883;;;;muss1246;lynch-et-al-2002
+e=;;3sg_m_a;3rd Person Singular Masculine;47882;;;;muss1246;lynch-et-al-2002
+e=;;3sg_m_s;3rd Person Singular Masculine;47881;;;;muss1246;lynch-et-al-2002
+=a;;3sg_m_o;3rd Person Singular Masculine;47880;;;;muss1246;lynch-et-al-2002
+-na;;3sg_m_p;3rd Person Singular Masculine;47879;;;;muss1246;lynch-et-al-2002
+e=;;3sg_n_a;3rd Person Singular Neuter;47878;;;;muss1246;lynch-et-al-2002
+e=;;3sg_n_s;3rd Person Singular Neuter;47877;;;;muss1246;lynch-et-al-2002
+=a;;3sg_n_o;3rd Person Singular Neuter;47876;;;;muss1246;lynch-et-al-2002
+-na;;3sg_n_p;3rd Person Singular Neuter;47875;;;;muss1246;lynch-et-al-2002
+=lalua;;3d-o;3rd Person Dual;47874;;;;muss1246;lynch-et-al-2002
+-irarua;;3d-p;3rd Person Dual;47873;;;;muss1246;lynch-et-al-2002
+la=;;3p-a;3rd Person Plural;47872;;;;muss1246;lynch-et-al-2002
+la=;;3p-s;3rd Person Plural;47871;;;;muss1246;lynch-et-al-2002
+=la;;3p-o;3rd Person Plural;47870;;;;muss1246;lynch-et-al-2002
+-ira;;3p-p;3rd Person Plural;47869;;;;muss1246;lynch-et-al-2002

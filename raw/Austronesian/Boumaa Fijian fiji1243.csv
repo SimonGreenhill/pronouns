@@ -1,0 +1,83 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+au;;1sg_a;1st (excl) Person Singular;23874;;;;fiji1243;dixon-1988
+u;;1sg_a;1st (excl) Person Singular;23875;;;;fiji1243;dixon-1988
+au;;1sg_s;1st (excl) Person Singular;23876;;;;fiji1243;dixon-1988
+o;;1sg_s;1st (excl) Person Singular;23877;;;;fiji1243;dixon-1988
+au;;1sg_o;1st (excl) Person Singular;23878;;;;fiji1243;dixon-1988
+qou;;1sg_p;1st (excl) Person Singular;23879;;;;fiji1243;dixon-1988
+'eirau;;1du_a;1st (excl) Person Dual;23880;;;;fiji1243;dixon-1988
+'eirau;;1du_s;1st (excl) Person Dual;23881;;;;fiji1243;dixon-1988
+'eirau;;1du_o;1st (excl) Person Dual;23882;;;;fiji1243;dixon-1988
+weirau;;1du_p;1st (excl) Person Dual;23883;;;;fiji1243;dixon-1988
+'eimami;;1pl_a;1st (excl) Person Plural;23884;;;;fiji1243;dixon-1988
+'eimami;;1pl_s;1st (excl) Person Plural;23885;;;;fiji1243;dixon-1988
+'eimami;;1pl_o;1st (excl) Person Plural;23886;;;;fiji1243;dixon-1988
+weimami;;1pl_p;1st (excl) Person Plural;23887;;;;fiji1243;dixon-1988
+etaru;;12du_a;1st (incl) Person Dual;23888;;;;fiji1243;dixon-1988
+etaru;;12du_s;1st (incl) Person Dual;23889;;;;fiji1243;dixon-1988
+'eetaru;;12du_o;1st (incl) Person Dual;23890;;;;fiji1243;dixon-1988
+weetaru;;12du_p;1st (incl) Person Dual;23891;;;;fiji1243;dixon-1988
+eta;;12pl_a;1st (incl) Person Plural;23892;;;;fiji1243;dixon-1988
+eta;;12pl_s;1st (incl) Person Plural;23893;;;;fiji1243;dixon-1988
+'eta;;12pl_o;1st (incl) Person Plural;23894;;;;fiji1243;dixon-1988
+weta;;12pl_p;1st (incl) Person Plural;23895;;;;fiji1243;dixon-1988
+o;;2sg_a;2nd Person Singular;23896;;;;fiji1243;dixon-1988
+o;;2sg_s;2nd Person Singular;23897;;;;fiji1243;dixon-1988
+i'o;;2sg_o;2nd Person Singular;23898;;;;fiji1243;dixon-1988
+omu;;2sg_p;2nd Person Singular;23899;;;;fiji1243;dixon-1988
+omudrau;;2du_a;2nd Person Dual;23900;;;;fiji1243;dixon-1988
+odrau;;2du_a;2nd Person Dual;23901;;;;fiji1243;dixon-1988
+omudrau;;2du_s;2nd Person Dual;23902;;;;fiji1243;dixon-1988
+odrau;;2du_s;2nd Person Dual;23903;;;;fiji1243;dixon-1988
+'emudrau;;2du_o;2nd Person Dual;23904;;;;fiji1243;dixon-1988
+omudrau;;2du_p;2nd Person Dual;23905;;;;fiji1243;dixon-1988
+omunuu;;2pl_a;2nd Person Plural;23906;;;;fiji1243;dixon-1988
+onuu;;2pl_a;2nd Person Plural;23907;;;;fiji1243;dixon-1988
+omunuu;;2pl_s;2nd Person Plural;23908;;;;fiji1243;dixon-1988
+onuu;;2pl_s;2nd Person Plural;23909;;;;fiji1243;dixon-1988
+'emunuu;;2pl_o;2nd Person Plural;23910;;;;fiji1243;dixon-1988
+omunuu;;2pl_p;2nd Person Plural;23911;;;;fiji1243;dixon-1988
+e;;3sg_m_a;3rd Person Singular Masculine;23912;;;;fiji1243;dixon-1988
+e;;3sg_m_s;3rd Person Singular Masculine;23913;;;;fiji1243;dixon-1988
+'ea;;3sg_m_o;3rd Person Singular Masculine;23914;;;;fiji1243;dixon-1988
+ona;;3sg_m_p;3rd Person Singular Masculine;23915;;;;fiji1243;dixon-1988
+e;;3sg_f_a;3rd Person Singular Feminine;23916;;;;fiji1243;dixon-1988
+e;;3sg_f_s;3rd Person Singular Feminine;23917;;;;fiji1243;dixon-1988
+'ea;;3sg_f_o;3rd Person Singular Feminine;23918;;;;fiji1243;dixon-1988
+ona;;3sg_f_p;3rd Person Singular Feminine;23919;;;;fiji1243;dixon-1988
+e;;3sg_n_a;3rd Person Singular Neuter;23920;;;;fiji1243;dixon-1988
+e;;3sg_n_s;3rd Person Singular Neuter;23921;;;;fiji1243;dixon-1988
+'ea;;3sg_n_o;3rd Person Singular Neuter;23922;;;;fiji1243;dixon-1988
+ona;;3sg_n_p;3rd Person Singular Neuter;23923;;;;fiji1243;dixon-1988
+erau;;3du_m_a;3rd Person Dual Masculine;23924;;;;fiji1243;dixon-1988
+erau;;3du_m_s;3rd Person Dual Masculine;23925;;;;fiji1243;dixon-1988
+rau;;3du_m_o;3rd Person Dual Masculine;23926;;;;fiji1243;dixon-1988
+oodrau;;3du_m_p;3rd Person Dual Masculine;23927;;;;fiji1243;dixon-1988
+erau;;3du_f_a;3rd Person Dual Feminine;23928;;;;fiji1243;dixon-1988
+erau;;3du_f_s;3rd Person Dual Feminine;23929;;;;fiji1243;dixon-1988
+rau;;3du_f_o;3rd Person Dual Feminine;23930;;;;fiji1243;dixon-1988
+oodrau;;3du_f_p;3rd Person Dual Feminine;23931;;;;fiji1243;dixon-1988
+erau;;3du_n_a;3rd Person Dual Neuter;23932;;;;fiji1243;dixon-1988
+erau;;3du_n_s;3rd Person Dual Neuter;23933;;;;fiji1243;dixon-1988
+rau;;3du_n_o;3rd Person Dual Neuter;23934;;;;fiji1243;dixon-1988
+oodrau;;3du_n_p;3rd Person Dual Neuter;23935;;;;fiji1243;dixon-1988
+era;;3pl_m_a;3rd Person Plural Masculine;23936;;;;fiji1243;dixon-1988
+era;;3pl_m_s;3rd Person Plural Masculine;23937;;;;fiji1243;dixon-1988
+ira;;3pl_m_o;3rd Person Plural Masculine;23938;;;;fiji1243;dixon-1988
+odra;;3pl_m_p;3rd Person Plural Masculine;23939;;;;fiji1243;dixon-1988
+era;;3pl_f_a;3rd Person Plural Feminine;23940;;;;fiji1243;dixon-1988
+era;;3pl_f_s;3rd Person Plural Feminine;23941;;;;fiji1243;dixon-1988
+ira;;3pl_f_o;3rd Person Plural Feminine;23942;;;;fiji1243;dixon-1988
+odra;;3pl_f_p;3rd Person Plural Feminine;23943;;;;fiji1243;dixon-1988
+era;;3pl_n_a;3rd Person Plural Neuter;23944;;;;fiji1243;dixon-1988
+era;;3pl_n_s;3rd Person Plural Neuter;23945;;;;fiji1243;dixon-1988
+ira;;3pl_n_o;3rd Person Plural Neuter;23946;;;;fiji1243;dixon-1988
+odra;;3pl_n_p;3rd Person Plural Neuter;23947;;;;fiji1243;dixon-1988
+erau;;3d-a;3rd Person Dual;36334;;;;fiji1243;dixon-1988
+erau;;3d-s;3rd Person Dual;36561;;;;fiji1243;dixon-1988
+rau;;3d-o;3rd Person Dual;36787;;;;fiji1243;dixon-1988
+oodrau;;3d-p;3rd Person Dual;36997;;;;fiji1243;dixon-1988
+era;;3p-a;3rd Person Plural;37216;;;;fiji1243;dixon-1988
+era;;3p-s;3rd Person Plural;37442;;;;fiji1243;dixon-1988
+ira;;3p-o;3rd Person Plural;37667;;;;fiji1243;dixon-1988
+odra;;3p-p;3rd Person Plural;37876;;;;fiji1243;dixon-1988

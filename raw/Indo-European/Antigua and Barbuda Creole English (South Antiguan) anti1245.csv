@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+mi ;;1sg_a;1st (excl) Person Singular;49726;;;;anti1245;farquhar-1974
+mi ;;1sg_s;1st (excl) Person Singular;49725;;;;anti1245;farquhar-1974
+mi ;;1sg_o;1st (excl) Person Singular;49724;;;;anti1245;farquhar-1974
+fumi ;;1sg_p;1st (excl) Person Singular;49723;;;;anti1245;farquhar-1974
+aawi;;1du_a;1st (excl) Person Dual;49722;;;;anti1245;farquhar-1974
+aawi;;1du_s;1st (excl) Person Dual;49721;;;;anti1245;farquhar-1974
+aawi;;1du_o;1st (excl) Person Dual;49720;;;;anti1245;farquhar-1974
+fuaawi ;;1du_p;1st (excl) Person Dual;49719;;;;anti1245;farquhar-1974
+aawi;;1pl_a;1st (excl) Person Plural;49718;;;;anti1245;farquhar-1974
+aawi;;1pl_s;1st (excl) Person Plural;49717;;;;anti1245;farquhar-1974
+aawi;;1pl_o;1st (excl) Person Plural;49716;;;;anti1245;farquhar-1974
+fuaawi ;;1pl_p;1st (excl) Person Plural;49715;;;;anti1245;farquhar-1974
+aawi;;12du_a;1st (incl) Person Dual;49714;;;;anti1245;farquhar-1974
+aawi;;12du_s;1st (incl) Person Dual;49713;;;;anti1245;farquhar-1974
+aawi;;12du_o;1st (incl) Person Dual;49712;;;;anti1245;farquhar-1974
+fuaawi ;;12du_p;1st (incl) Person Dual;49711;;;;anti1245;farquhar-1974
+aawi;;12pl_a;1st (incl) Person Plural;49710;;;;anti1245;farquhar-1974
+aawi;;12pl_s;1st (incl) Person Plural;49709;;;;anti1245;farquhar-1974
+aawi;;12pl_o;1st (incl) Person Plural;49708;;;;anti1245;farquhar-1974
+fuaawi ;;12pl_p;1st (incl) Person Plural;49707;;;;anti1245;farquhar-1974
+yu;;2sg_a;2nd Person Singular;49706;;;;anti1245;farquhar-1974
+yu;;2sg_s;2nd Person Singular;49705;;;;anti1245;farquhar-1974
+yu;;2sg_o;2nd Person Singular;49704;;;;anti1245;farquhar-1974
+fuyu;;2sg_p;2nd Person Singular;49703;;;;anti1245;farquhar-1974
+aayu;;2du_a;2nd Person Dual;49702;;;;anti1245;farquhar-1974
+aayu;;2du_s;2nd Person Dual;49701;;;;anti1245;farquhar-1974
+aayu;;2du_o;2nd Person Dual;49700;;;;anti1245;farquhar-1974
+fuaayu;;2du_p;2nd Person Dual;49699;;;;anti1245;farquhar-1974
+aayu;;2pl_a;2nd Person Plural;49698;;;;anti1245;farquhar-1974
+aayu;;2pl_s;2nd Person Plural;49697;;;;anti1245;farquhar-1974
+aayu;;2pl_o;2nd Person Plural;49696;;;;anti1245;farquhar-1974
+fuaayu;;2pl_p;2nd Person Plural;49695;;;;anti1245;farquhar-1974
+i;;3sg_m_a;3rd Person Singular Masculine;49694;;;;anti1245;farquhar-1974
+i;;3sg_m_s;3rd Person Singular Masculine;49693;;;;anti1245;farquhar-1974
+om;;3sg_m_o;3rd Person Singular Masculine;49692;;;;anti1245;farquhar-1974
+fuhi;;3sg_m_p;3rd Person Singular Masculine;49691;;;;anti1245;farquhar-1974
+i;;3sg_n_a;3rd Person Singular Neuter;49690;;;;anti1245;farquhar-1974
+i;;3sg_n_s;3rd Person Singular Neuter;49689;;;;anti1245;farquhar-1974
+om;;3sg_n_o;3rd Person Singular Neuter;49688;;;;anti1245;farquhar-1974
+fuʃi;;3sg_n_p;3rd Person Singular Neuter;49687;;;;anti1245;farquhar-1974
+dem;;3d-a;3rd Person Dual;49686;;;;anti1245;farquhar-1974
+dem;;3d-s;3rd Person Dual;49685;;;;anti1245;farquhar-1974
+dem;;3d-o;3rd Person Dual;49684;;;;anti1245;farquhar-1974
+fudem ;;3d-p;3rd Person Dual;49683;;;;anti1245;farquhar-1974
+dem;;3p-a;3rd Person Plural;49682;;;;anti1245;farquhar-1974
+dem;;3p-s;3rd Person Plural;49681;;;;anti1245;farquhar-1974
+dem;;3p-o;3rd Person Plural;49680;;;;anti1245;farquhar-1974
+fudem ;;3p-p;3rd Person Plural;49679;;;;anti1245;farquhar-1974

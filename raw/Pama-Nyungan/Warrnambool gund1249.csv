@@ -1,0 +1,77 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ngathuka;;1sg_a;1st (excl) Person Singular;35035;;;;gund1249;blake-barry-2003
+ngathuk;;1sg_s;1st (excl) Person Singular;35036;;;;gund1249;blake-barry-2003
+ngathuk;;1sg_o;1st (excl) Person Singular;35037;;;;gund1249;blake-barry-2003
+-ngan;;1sg_p;1st (excl) Person Singular;35038;;;;gund1249;blake-barry-2003
+ngathungalina;;1du_a;1st (excl) Person Dual;35039;;;;gund1249;blake-barry-2003
+ngathungalin;;1du_s;1st (excl) Person Dual;35040;;;;gund1249;blake-barry-2003
+ngathungalin;;1du_o;1st (excl) Person Dual;35041;;;;gund1249;blake-barry-2003
+-ngayi;;1du_p;1st (excl) Person Dual;62579;;;;gund1249;blake-barry-2003
+ngathunganina;;1pl_a;1st (excl) Person Plural;35043;;;;gund1249;blake-barry-2003
+ngathunganin;;1pl_s;1st (excl) Person Plural;35044;;;;gund1249;blake-barry-2003
+ngathunganin;;1pl_o;1st (excl) Person Plural;35045;;;;gund1249;blake-barry-2003
+-ngayi;;1pl_p;1st (excl) Person Plural;62580;;;;gund1249;blake-barry-2003
+ngathungala;;12du_a;1st (incl) Person Dual;35047;;;;gund1249;blake-barry-2003
+ngathungal;;12du_s;1st (incl) Person Dual;35048;;;;gund1249;blake-barry-2003
+ngathungal;;12du_o;1st (incl) Person Dual;35049;;;;gund1249;blake-barry-2003
+-ngatnin;;12du_p;1st (incl) Person Dual;62581;;;;gund1249;blake-barry-2003
+ngathungana;;12pl_a;1st (incl) Person Plural;35051;;;;gund1249;blake-barry-2003
+ngathungan;;12pl_s;1st (incl) Person Plural;35052;;;;gund1249;blake-barry-2003
+ngathungan;;12pl_o;1st (incl) Person Plural;35053;;;;gund1249;blake-barry-2003
+-ngatnin;;12pl_p;1st (incl) Person Plural;62582;;;;gund1249;blake-barry-2003
+ngutuka;;2sg_a;2nd Person Singular;35055;;;;gund1249;blake-barry-2003
+ngutuk;;2sg_s;2nd Person Singular;35056;;;;gund1249;blake-barry-2003
+ngutuk;;2sg_o;2nd Person Singular;35057;;;;gund1249;blake-barry-2003
+-ngu;;2sg_p;2nd Person Singular;35058;;;;gund1249;blake-barry-2003
+ngutuwala;;2du_a;2nd Person Dual;35059;;;;gund1249;blake-barry-2003
+ngutuwal;;2du_s;2nd Person Dual;35060;;;;gund1249;blake-barry-2003
+ngutuwal;;2du_o;2nd Person Dual;35061;;;;gund1249;blake-barry-2003
+-ngutin;;2du_p;2nd Person Dual;62583;;;;gund1249;blake-barry-2003
+ngutuwara;;2pl_a;2nd Person Plural;35063;;;;gund1249;blake-barry-2003
+ngutuwar;;2pl_s;2nd Person Plural;35064;;;;gund1249;blake-barry-2003
+ngutuwar;;2pl_o;2nd Person Plural;35065;;;;gund1249;blake-barry-2003
+-ngutin;;2pl_p;2nd Person Plural;62584;;;;gund1249;blake-barry-2003
+nhunga;;3sg_m_a;3rd Person Singular Masculine;35067;;;;gund1249;blake-barry-2003
+nhung;;3sg_m_s;3rd Person Singular Masculine;35068;;;;gund1249;blake-barry-2003
+nhung;;3sg_m_o;3rd Person Singular Masculine;35069;;;;gund1249;blake-barry-2003
+-nhung, -nyung;;3sg_m_p;3rd Person Singular Masculine;35070;;;;gund1249;blake-barry-2003
+ñuŋa;;3sg_f_a;3rd Person Singular Feminine;35071;;;;gund1249;blake-barry-2003
+ñuŋ;;3sg_f_s;3rd Person Singular Feminine;35072;;;;gund1249;blake-barry-2003
+ñuŋ;;3sg_f_o;3rd Person Singular Feminine;35073;;;;gund1249;blake-barry-2003
+ñuŋat;;3sg_f_p;3rd Person Singular Feminine;35074;;;;gund1249;blake-barry-2003
+nhunga;;3sg_n_a;3rd Person Singular Neuter;35075;;;;gund1249;blake-barry-2003
+nhung;;3sg_n_s;3rd Person Singular Neuter;35076;;;;gund1249;blake-barry-2003
+nhung;;3sg_n_o;3rd Person Singular Neuter;35077;;;;gund1249;blake-barry-2003
+-nhung, -nyung;;3sg_n_p;3rd Person Singular Neuter;35078;;;;gund1249;blake-barry-2003
+tilakala;;3du_m_a;3rd Person Dual Masculine;35079;;;;gund1249;blake-barry-2003
+tilakal;;3du_m_s;3rd Person Dual Masculine;35080;;;;gund1249;blake-barry-2003
+tilakal;;3du_m_o;3rd Person Dual Masculine;35081;;;;gund1249;blake-barry-2003
+?;;3du_m_p;3rd Person Dual Masculine;35082;;;;gund1249;blake-barry-2003
+tilakala;;3du_f_a;3rd Person Dual Feminine;35083;;;;gund1249;blake-barry-2003
+tilakal;;3du_f_s;3rd Person Dual Feminine;35084;;;;gund1249;blake-barry-2003
+tilakal;;3du_f_o;3rd Person Dual Feminine;35085;;;;gund1249;blake-barry-2003
+?;;3du_f_p;3rd Person Dual Feminine;35086;;;;gund1249;blake-barry-2003
+tilakala;;3du_n_a;3rd Person Dual Neuter;35087;;;;gund1249;blake-barry-2003
+tilakal;;3du_n_s;3rd Person Dual Neuter;35088;;;;gund1249;blake-barry-2003
+tilakal;;3du_n_o;3rd Person Dual Neuter;35089;;;;gund1249;blake-barry-2003
+?;;3du_n_p;3rd Person Dual Neuter;35090;;;;gund1249;blake-barry-2003
+dilakandaa;;3pl_m_a;3rd Person Plural Masculine;35091;;;;gund1249;blake-barry-2003
+dilakanda;;3pl_m_s;3rd Person Plural Masculine;35092;;;;gund1249;blake-barry-2003
+dilakanda;;3pl_m_o;3rd Person Plural Masculine;35093;;;;gund1249;blake-barry-2003
+?;;3pl_m_p;3rd Person Plural Masculine;35094;;;;gund1249;blake-barry-2003
+dilakandaa;;3pl_f_a;3rd Person Plural Feminine;35095;;;;gund1249;blake-barry-2003
+dilakanda;;3pl_f_s;3rd Person Plural Feminine;35096;;;;gund1249;blake-barry-2003
+dilakanda;;3pl_f_o;3rd Person Plural Feminine;35097;;;;gund1249;blake-barry-2003
+?;;3pl_f_p;3rd Person Plural Feminine;35098;;;;gund1249;blake-barry-2003
+dilakandaa;;3pl_n_a;3rd Person Plural Neuter;35099;;;;gund1249;blake-barry-2003
+dilakanda;;3pl_n_s;3rd Person Plural Neuter;35100;;;;gund1249;blake-barry-2003
+dilakanda;;3pl_n_o;3rd Person Plural Neuter;35101;;;;gund1249;blake-barry-2003
+?;;3pl_n_p;3rd Person Plural Neuter;35102;;;;gund1249;blake-barry-2003
+tilakala;;3d-a;3rd Person Dual;36429;;;;gund1249;blake-barry-2003
+tilakal;;3d-s;3rd Person Dual;36656;;;;gund1249;blake-barry-2003
+tilakal;;3d-o;3rd Person Dual;36879;;;;gund1249;blake-barry-2003
+-tjin;;3d-p;3rd Person Dual;62585;;;;gund1249;blake-barry-2003
+dilakandaa;;3p-a;3rd Person Plural;37311;;;;gund1249;blake-barry-2003
+dilakanda;;3p-s;3rd Person Plural;37536;;;;gund1249;blake-barry-2003
+dilakanda;;3p-o;3rd Person Plural;37757;;;;gund1249;blake-barry-2003
+-tjin;;3p-p;3rd Person Plural;62586;;;;gund1249;blake-barry-2003

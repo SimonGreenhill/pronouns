@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+mo;;1sg_a;1st (excl) Person Singular;42350;;;;nort2930;brown-2009
+mo;;1sg_s;1st (excl) Person Singular;42349;;;;nort2930;brown-2009
+mo;;1sg_o;1st (excl) Person Singular;42348;;;;nort2930;brown-2009
+mo;;1sg_p;1st (excl) Person Singular;42347;;;;nort2930;brown-2009
+nimoiti;;1du_a;1st (excl) Person Dual;42346;;;;nort2930;brown-2009
+nimoiti;;1du_s;1st (excl) Person Dual;42345;;;;nort2930;brown-2009
+nimoiti;;1du_o;1st (excl) Person Dual;42344;;;;nort2930;brown-2009
+nimoiti;;1du_p;1st (excl) Person Dual;42343;;;;nort2930;brown-2009
+nimo;;1pl_a;1st (excl) Person Plural;42342;;;;nort2930;brown-2009
+nimo;;1pl_s;1st (excl) Person Plural;42341;;;;nort2930;brown-2009
+nimo;;1pl_o;1st (excl) Person Plural;42340;;;;nort2930;brown-2009
+nimo;;1pl_p;1st (excl) Person Plural;42339;;;;nort2930;brown-2009
+nimoiti;;12du_a;1st (incl) Person Dual;42338;;;;nort2930;brown-2009
+nimoiti;;12du_s;1st (incl) Person Dual;42337;;;;nort2930;brown-2009
+nimoiti;;12du_o;1st (incl) Person Dual;42336;;;;nort2930;brown-2009
+nimoiti;;12du_p;1st (incl) Person Dual;42335;;;;nort2930;brown-2009
+nimo;;12pl_a;1st (incl) Person Plural;42334;;;;nort2930;brown-2009
+nimo;;12pl_s;1st (incl) Person Plural;42333;;;;nort2930;brown-2009
+nimo;;12pl_o;1st (incl) Person Plural;42332;;;;nort2930;brown-2009
+nimo;;12pl_p;1st (incl) Person Plural;42331;;;;nort2930;brown-2009
+ro;;2sg_a;2nd Person Singular;42330;;;;nort2930;brown-2009
+ro;;2sg_s;2nd Person Singular;42329;;;;nort2930;brown-2009
+ro;;2sg_o;2nd Person Singular;42328;;;;nort2930;brown-2009
+ro;;2sg_p;2nd Person Singular;42327;;;;nort2930;brown-2009
+rioti;;2du_a;2nd Person Dual;42326;;;;nort2930;brown-2009
+rioti;;2du_s;2nd Person Dual;42325;;;;nort2930;brown-2009
+rioti;;2du_o;2nd Person Dual;42324;;;;nort2930;brown-2009
+rioti;;2du_p;2nd Person Dual;42323;;;;nort2930;brown-2009
+rio;;2pl_a;2nd Person Plural;42322;;;;nort2930;brown-2009
+rio;;2pl_s;2nd Person Plural;42321;;;;nort2930;brown-2009
+rio;;2pl_o;2nd Person Plural;42320;;;;nort2930;brown-2009
+rio;;2pl_p;2nd Person Plural;42319;;;;nort2930;brown-2009
+nu;;3sg_m_a;3rd Person Singular Masculine;42318;;;;nort2930;brown-2009
+nu;;3sg_m_s;3rd Person Singular Masculine;42317;;;;nort2930;brown-2009
+nu;;3sg_m_o;3rd Person Singular Masculine;42316;;;;nort2930;brown-2009
+nu;;3sg_m_p;3rd Person Singular Masculine;42315;;;;nort2930;brown-2009
+nu;;3sg_n_a;3rd Person Singular Neuter;42314;;;;nort2930;brown-2009
+nu;;3sg_n_s;3rd Person Singular Neuter;42313;;;;nort2930;brown-2009
+nu;;3sg_n_o;3rd Person Singular Neuter;42312;;;;nort2930;brown-2009
+nu;;3sg_n_p;3rd Person Singular Neuter;42311;;;;nort2930;brown-2009
+niti;;3d-a;3rd Person Dual;42310;;;;nort2930;brown-2009
+niti;;3d-s;3rd Person Dual;42309;;;;nort2930;brown-2009
+niti;;3d-o;3rd Person Dual;42308;;;;nort2930;brown-2009
+niti;;3d-p;3rd Person Dual;42307;;;;nort2930;brown-2009
+ni;;3p-a;3rd Person Plural;42306;;;;nort2930;brown-2009
+ni;;3p-s;3rd Person Plural;42305;;;;nort2930;brown-2009
+ni;;3p-o;3rd Person Plural;42304;;;;nort2930;brown-2009
+ni;;3p-p;3rd Person Plural;42303;;;;nort2930;brown-2009

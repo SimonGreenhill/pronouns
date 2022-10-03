@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+i;;1sg_a;1st (excl) Person Singular;60270;;;;wels1247;king-2003
+i;;1sg_s;1st (excl) Person Singular;60269;;;;wels1247;king-2003
+fi;;1sg_o;1st (excl) Person Singular;60268;;;;wels1247;king-2003
+fy;;1sg_p;1st (excl) Person Singular;60267;;;;wels1247;king-2003
+ni;;1du_a;1st (excl) Person Dual;60266;;;;wels1247;king-2003
+ni;;1du_s;1st (excl) Person Dual;60265;;;;wels1247;king-2003
+ni;;1du_o;1st (excl) Person Dual;60264;;;;wels1247;king-2003
+ein;;1du_p;1st (excl) Person Dual;60263;;;;wels1247;king-2003
+ni;;1pl_a;1st (excl) Person Plural;60262;;;;wels1247;king-2003
+ni;;1pl_s;1st (excl) Person Plural;60261;;;;wels1247;king-2003
+ni;;1pl_o;1st (excl) Person Plural;60260;;;;wels1247;king-2003
+ein;;1pl_p;1st (excl) Person Plural;60259;;;;wels1247;king-2003
+ni;;12du_a;1st (incl) Person Dual;60258;;;;wels1247;king-2003
+ni;;12du_s;1st (incl) Person Dual;60257;;;;wels1247;king-2003
+ni;;12du_o;1st (incl) Person Dual;60256;;;;wels1247;king-2003
+ein;;12du_p;1st (incl) Person Dual;60255;;;;wels1247;king-2003
+ni;;12pl_a;1st (incl) Person Plural;60254;;;;wels1247;king-2003
+ni;;12pl_s;1st (incl) Person Plural;60253;;;;wels1247;king-2003
+ni;;12pl_o;1st (incl) Person Plural;60252;;;;wels1247;king-2003
+ein;;12pl_p;1st (incl) Person Plural;60251;;;;wels1247;king-2003
+ti;;2sg_a;2nd Person Singular;60250;;;;wels1247;king-2003
+ti;;2sg_s;2nd Person Singular;60249;;;;wels1247;king-2003
+ti;;2sg_o;2nd Person Singular;60248;;;;wels1247;king-2003
+dy-;;2sg_p;2nd Person Singular;60247;;mutation pattern issue;;wels1247;king-2003
+chi;;2du_a;2nd Person Dual;60246;;;;wels1247;king-2003
+chi;;2du_s;2nd Person Dual;60245;;;;wels1247;king-2003
+chi;;2du_o;2nd Person Dual;60244;;;;wels1247;king-2003
+eich;;2du_p;2nd Person Dual;60243;;;;wels1247;king-2003
+chi;;2pl_a;2nd Person Plural;60242;;;;wels1247;king-2003
+chi;;2pl_s;2nd Person Plural;60241;;;;wels1247;king-2003
+chi;;2pl_o;2nd Person Plural;60240;;;;wels1247;king-2003
+eich;;2pl_p;2nd Person Plural;60239;;;;wels1247;king-2003
+e, o;;3sg_m_a;3rd Person Singular Masculine;60238;;;;wels1247;king-2003
+e, o;;3sg_m_s;3rd Person Singular Masculine;60237;;;;wels1247;king-2003
+fe, fo;;3sg_m_o;3rd Person Singular Masculine;60236;;;;wels1247;king-2003
+ei-;;3sg_m_p;3rd Person Singular Masculine;60235;;mutation pattern;;wels1247;king-2003
+hi;;3sg_n_a;3rd Person Singular Neuter;60234;;;;wels1247;king-2003
+hi;;3sg_n_s;3rd Person Singular Neuter;60233;;;;wels1247;king-2003
+hi;;3sg_n_o;3rd Person Singular Neuter;60232;;;;wels1247;king-2003
+ei-;;3sg_n_p;3rd Person Singular Neuter;60231;;;;wels1247;king-2003
+nhw;;3d-a;3rd Person Dual;60230;;;;wels1247;king-2003
+nhw;;3d-s;3rd Person Dual;60229;;;;wels1247;king-2003
+nhw;;3d-o;3rd Person Dual;60228;;;;wels1247;king-2003
+eu;;3d-p;3rd Person Dual;60227;;;;wels1247;king-2003
+nhw;;3p-a;3rd Person Plural;60226;;;;wels1247;king-2003
+nhw;;3p-s;3rd Person Plural;60225;;;;wels1247;king-2003
+nhw;;3p-o;3rd Person Plural;60224;;;;wels1247;king-2003
+eu;;3p-p;3rd Person Plural;60223;;;;wels1247;king-2003

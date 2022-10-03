@@ -1,0 +1,77 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+yndo;;1sg_a;1st (excl) Person Singular;22285;;;;namb1293;evans-2013
+ynd;;1sg_s;1st (excl) Person Singular;22286;;;;namb1293;evans-2013
+ynd;;1sg_o;1st (excl) Person Singular;22287;;;;namb1293;evans-2013
+tane;;1sg_p;1st (excl) Person Singular;22288;;;;namb1293;evans-2013
+yndbem;;1du_a;1st (excl) Person Dual;22289;;;;namb1293;evans-2013
+ynd;;1du_s;1st (excl) Person Dual;22290;;;;namb1293;evans-2013
+ynd;;1du_o;1st (excl) Person Dual;22291;;;;namb1293;evans-2013
+tbene;;1du_p;1st (excl) Person Dual;22292;;;;namb1293;evans-2013
+yndbem;;1pl_a;1st (excl) Person Plural;22293;;;;namb1293;evans-2013
+ynd;;1pl_s;1st (excl) Person Plural;22294;;;;namb1293;evans-2013
+ynd;;1pl_o;1st (excl) Person Plural;22295;;;;namb1293;evans-2013
+tbene;;1pl_p;1st (excl) Person Plural;22296;;;;namb1293;evans-2013
+yndbem;;12du_a;1st (incl) Person Dual;22297;;;;namb1293;evans-2013
+ynd;;12du_s;1st (incl) Person Dual;22298;;;;namb1293;evans-2013
+ynd;;12du_o;1st (incl) Person Dual;22299;;;;namb1293;evans-2013
+tbene;;12du_p;1st (incl) Person Dual;22300;;;;namb1293;evans-2013
+yndbem;;12pl_a;1st (incl) Person Plural;22301;;;;namb1293;evans-2013
+ynd;;12pl_s;1st (incl) Person Plural;22302;;;;namb1293;evans-2013
+ynd;;12pl_o;1st (incl) Person Plural;22303;;;;namb1293;evans-2013
+tbene;;12pl_p;1st (incl) Person Plural;22304;;;;namb1293;evans-2013
+bmo;;2sg_a;2nd Person Singular;22305;;;;namb1293;evans-2013
+bm;;2sg_s;2nd Person Singular;22306;;;;namb1293;evans-2013
+bm;;2sg_o;2nd Person Singular;22307;;;;namb1293;evans-2013
+bene;;2sg_p;2nd Person Singular;22308;;;;namb1293;evans-2013
+bmovem;;2du_a;2nd Person Dual;22309;;;;namb1293;evans-2013
+bm;;2du_s;2nd Person Dual;22310;;;;namb1293;evans-2013
+bm;;2du_o;2nd Person Dual;22311;;;;namb1293;evans-2013
+bbene;;2du_p;2nd Person Dual;22312;;;;namb1293;evans-2013
+bmovem;;2pl_a;2nd Person Plural;22313;;;;namb1293;evans-2013
+bm;;2pl_s;2nd Person Plural;22314;;;;namb1293;evans-2013
+bm;;2pl_o;2nd Person Plural;22315;;;;namb1293;evans-2013
+bbene;;2pl_p;2nd Person Plural;22316;;;;namb1293;evans-2013
+ymo;;3sg_m_a;3rd Person Singular Masculine;22317;;;;namb1293;evans-2013
+bä;;3sg_m_s;3rd Person Singular Masculine;22318;;;;namb1293;evans-2013
+bä;;3sg_m_o;3rd Person Singular Masculine;22319;;;;namb1293;evans-2013
+yäne;;3sg_m_p;3rd Person Singular Masculine;22320;;;;namb1293;evans-2013
+ymo;;3sg_f_a;3rd Person Singular Feminine;22321;;;;namb1293;evans-2013
+bä;;3sg_f_s;3rd Person Singular Feminine;22322;;;;namb1293;evans-2013
+bä;;3sg_f_o;3rd Person Singular Feminine;22323;;;;namb1293;evans-2013
+yäne;;3sg_f_p;3rd Person Singular Feminine;22324;;;;namb1293;evans-2013
+ymo;;3sg_n_a;3rd Person Singular Neuter;22325;;;;namb1293;evans-2013
+bä;;3sg_n_s;3rd Person Singular Neuter;22326;;;;namb1293;evans-2013
+bä;;3sg_n_o;3rd Person Singular Neuter;22327;;;;namb1293;evans-2013
+yäne;;3sg_n_p;3rd Person Singular Neuter;22328;;;;namb1293;evans-2013
+ymovem;;3du_m_a;3rd Person Dual Masculine;22329;;;;namb1293;evans-2013
+bä;;3du_m_s;3rd Person Dual Masculine;22330;;;;namb1293;evans-2013
+bä;;3du_m_o;3rd Person Dual Masculine;22331;;;;namb1293;evans-2013
+ybene;;3du_m_p;3rd Person Dual Masculine;22332;;;;namb1293;evans-2013
+ymovem;;3du_f_a;3rd Person Dual Feminine;22333;;;;namb1293;evans-2013
+bä;;3du_f_s;3rd Person Dual Feminine;22334;;;;namb1293;evans-2013
+bä;;3du_f_o;3rd Person Dual Feminine;22335;;;;namb1293;evans-2013
+ybene;;3du_f_p;3rd Person Dual Feminine;22336;;;;namb1293;evans-2013
+ymovem;;3du_n_a;3rd Person Dual Neuter;22337;;;;namb1293;evans-2013
+bä;;3du_n_s;3rd Person Dual Neuter;22338;;;;namb1293;evans-2013
+bä;;3du_n_o;3rd Person Dual Neuter;22339;;;;namb1293;evans-2013
+ybene;;3du_n_p;3rd Person Dual Neuter;22340;;;;namb1293;evans-2013
+ymovem;;3pl_m_a;3rd Person Plural Masculine;22341;;;;namb1293;evans-2013
+bä;;3pl_m_s;3rd Person Plural Masculine;22342;;;;namb1293;evans-2013
+bä;;3pl_m_o;3rd Person Plural Masculine;22343;;;;namb1293;evans-2013
+ybene;;3pl_m_p;3rd Person Plural Masculine;22344;;;;namb1293;evans-2013
+ymovem;;3pl_f_a;3rd Person Plural Feminine;22345;;;;namb1293;evans-2013
+bä;;3pl_f_s;3rd Person Plural Feminine;22346;;;;namb1293;evans-2013
+bä;;3pl_f_o;3rd Person Plural Feminine;22347;;;;namb1293;evans-2013
+ybene;;3pl_f_p;3rd Person Plural Feminine;22348;;;;namb1293;evans-2013
+ymovem;;3pl_n_a;3rd Person Plural Neuter;22349;;;;namb1293;evans-2013
+bä;;3pl_n_s;3rd Person Plural Neuter;22350;;;;namb1293;evans-2013
+bä;;3pl_n_o;3rd Person Plural Neuter;22351;;;;namb1293;evans-2013
+ybene;;3pl_n_p;3rd Person Plural Neuter;22352;;;;namb1293;evans-2013
+ymovem;;3d-a;3rd Person Dual;36352;;;;namb1293;evans-2013
+bä;;3d-s;3rd Person Dual;36579;;;;namb1293;evans-2013
+bä;;3d-o;3rd Person Dual;36805;;;;namb1293;evans-2013
+ybene;;3d-p;3rd Person Dual;37015;;;;namb1293;evans-2013
+ymovem;;3p-a;3rd Person Plural;37235;;;;namb1293;evans-2013
+bä;;3p-s;3rd Person Plural;37461;;;;namb1293;evans-2013
+bä;;3p-o;3rd Person Plural;37684;;;;namb1293;evans-2013
+ybene;;3p-p;3rd Person Plural;37893;;;;namb1293;evans-2013

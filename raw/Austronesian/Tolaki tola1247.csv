@@ -1,0 +1,86 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+inaku;;1sg_a;1st (excl) Person Singular;25587;;;;tola1247;edwards
+inaku;;1sg_s;1st (excl) Person Singular;25588;;;;tola1247;edwards
+inaku;;1sg_o;1st (excl) Person Singular;25589;;;;tola1247;edwards
+-ŋgu;;1sg_p;1st (excl) Person Singular;25590;;;;tola1247;edwards
+iŋgami;;1du_a;1st (excl) Person Dual;25591;;;;tola1247;edwards
+iŋgami;;1du_s;1st (excl) Person Dual;25592;;;;tola1247;edwards
+iŋgami;;1du_o;1st (excl) Person Dual;25593;;;;tola1247;edwards
+-mami;;1du_p;1st (excl) Person Dual;25594;;;;tola1247;edwards
+iŋgami;;1pl_a;1st (excl) Person Plural;25595;;;;tola1247;edwards
+iŋgami;;1pl_s;1st (excl) Person Plural;25596;;;;tola1247;edwards
+iŋgami;;1pl_o;1st (excl) Person Plural;25597;;;;tola1247;edwards
+-mami;;1pl_p;1st (excl) Person Plural;25598;;;;tola1247;edwards
+iŋgito;;12du_a;1st (incl) Person Dual;25599;;;;tola1247;edwards
+iŋgito;;12du_s;1st (incl) Person Dual;25600;;;;tola1247;edwards
+iŋgito;;12du_o;1st (incl) Person Dual;25601;;;;tola1247;edwards
+-ndo;;12du_p;1st (incl) Person Dual;25602;;;;tola1247;edwards
+iŋgito;;12pl_a;1st (incl) Person Plural;25603;;;;tola1247;edwards
+iŋgito;;12pl_s;1st (incl) Person Plural;25604;;;;tola1247;edwards
+iŋgito;;12pl_o;1st (incl) Person Plural;25605;;;;tola1247;edwards
+-ndo;;12pl_p;1st (incl) Person Plural;25606;;;;tola1247;edwards
+iŋgoʔo;;2sg_a;2nd Person Singular;25607;;;;tola1247;edwards
+iŋgoʔo;;2sg_s;2nd Person Singular;25608;;;;tola1247;edwards
+iŋgoʔo;;2sg_o;2nd Person Singular;25609;;;;tola1247;edwards
+-mu;;2sg_p;2nd Person Singular;25610;;;;tola1247;edwards
+iŋgomiu;;2du_a;2nd Person Dual;25611;;;;tola1247;edwards
+iŋgomiu;;2du_s;2nd Person Dual;25612;;;;tola1247;edwards
+iŋgomiu;;2du_o;2nd Person Dual;25613;;;;tola1247;edwards
+-miu;;2du_p;2nd Person Dual;25614;;;;tola1247;edwards
+iŋgomiu;;2pl_a;2nd Person Plural;25615;;;;tola1247;edwards
+iŋgomiu;;2pl_s;2nd Person Plural;25616;;;;tola1247;edwards
+iŋgomiu;;2pl_o;2nd Person Plural;25617;;;;tola1247;edwards
+-miu;;2pl_p;2nd Person Plural;25618;;;;tola1247;edwards
+iee;;3sg_m_a;3rd Person Singular Masculine;25619;;;;tola1247;edwards
+ieʔi;;3sg_m_a;3rd Person Singular Masculine;25620;;;;tola1247;edwards
+iee;;3sg_m_s;3rd Person Singular Masculine;25621;;;;tola1247;edwards
+ieʔi;;3sg_m_s;3rd Person Singular Masculine;25622;;;;tola1247;edwards
+iee;;3sg_m_o;3rd Person Singular Masculine;25623;;;;tola1247;edwards
+ieʔi;;3sg_m_o;3rd Person Singular Masculine;25624;;;;tola1247;edwards
+-no;;3sg_m_p;3rd Person Singular Masculine;25625;;;;tola1247;edwards
+iee;;3sg_f_a;3rd Person Singular Feminine;25626;;;;tola1247;edwards
+ieʔi;;3sg_f_a;3rd Person Singular Feminine;25627;;;;tola1247;edwards
+iee;;3sg_f_s;3rd Person Singular Feminine;25628;;;;tola1247;edwards
+ieʔi;;3sg_f_s;3rd Person Singular Feminine;25629;;;;tola1247;edwards
+iee;;3sg_f_o;3rd Person Singular Feminine;25630;;;;tola1247;edwards
+ieʔi;;3sg_f_o;3rd Person Singular Feminine;25631;;;;tola1247;edwards
+-no;;3sg_f_p;3rd Person Singular Feminine;25632;;;;tola1247;edwards
+iee;;3sg_n_a;3rd Person Singular Neuter;25633;;;;tola1247;edwards
+ieʔi;;3sg_n_a;3rd Person Singular Neuter;25634;;;;tola1247;edwards
+iee;;3sg_n_s;3rd Person Singular Neuter;25635;;;;tola1247;edwards
+ieʔi;;3sg_n_s;3rd Person Singular Neuter;25636;;;;tola1247;edwards
+iee;;3sg_n_o;3rd Person Singular Neuter;25637;;;;tola1247;edwards
+ieʔi;;3sg_n_o;3rd Person Singular Neuter;25638;;;;tola1247;edwards
+-no;;3sg_n_p;3rd Person Singular Neuter;25639;;;;tola1247;edwards
+ihiro;;3du_m_a;3rd Person Dual Masculine;25640;;;;tola1247;edwards
+ihiro;;3du_m_s;3rd Person Dual Masculine;25641;;;;tola1247;edwards
+ihiro;;3du_m_o;3rd Person Dual Masculine;25642;;;;tola1247;edwards
+-ro;;3du_m_p;3rd Person Dual Masculine;25643;;;;tola1247;edwards
+ihiro;;3du_f_a;3rd Person Dual Feminine;25644;;;;tola1247;edwards
+ihiro;;3du_f_s;3rd Person Dual Feminine;25645;;;;tola1247;edwards
+ihiro;;3du_f_o;3rd Person Dual Feminine;25646;;;;tola1247;edwards
+-ro;;3du_f_p;3rd Person Dual Feminine;25647;;;;tola1247;edwards
+ihiro;;3du_n_a;3rd Person Dual Neuter;25648;;;;tola1247;edwards
+ihiro;;3du_n_s;3rd Person Dual Neuter;25649;;;;tola1247;edwards
+ihiro;;3du_n_o;3rd Person Dual Neuter;25650;;;;tola1247;edwards
+-ro;;3du_n_p;3rd Person Dual Neuter;25651;;;;tola1247;edwards
+ihiro;;3pl_m_a;3rd Person Plural Masculine;25652;;;;tola1247;edwards
+ihiro;;3pl_m_s;3rd Person Plural Masculine;25653;;;;tola1247;edwards
+ihiro;;3pl_m_o;3rd Person Plural Masculine;25654;;;;tola1247;edwards
+-ro;;3pl_m_p;3rd Person Plural Masculine;25655;;;;tola1247;edwards
+ihiro;;3pl_f_a;3rd Person Plural Feminine;25656;;;;tola1247;edwards
+ihiro;;3pl_f_s;3rd Person Plural Feminine;25657;;;;tola1247;edwards
+ihiro;;3pl_f_o;3rd Person Plural Feminine;25658;;;;tola1247;edwards
+-ro;;3pl_f_p;3rd Person Plural Feminine;25659;;;;tola1247;edwards
+ihiro;;3pl_n_a;3rd Person Plural Neuter;25660;;;;tola1247;edwards
+ihiro;;3pl_n_s;3rd Person Plural Neuter;25661;;;;tola1247;edwards
+ihiro;;3pl_n_o;3rd Person Plural Neuter;25662;;;;tola1247;edwards
+-ro;;3pl_n_p;3rd Person Plural Neuter;25663;;;;tola1247;edwards
+ihiro;;3d-a;3rd Person Dual;36310;;;;tola1247;edwards
+ihiro;;3d-s;3rd Person Dual;36530;;;;tola1247;edwards
+ihiro;;3d-o;3rd Person Dual;36758;;;;tola1247;edwards
+-ro;;3d-p;3rd Person Dual;36969;;;;tola1247;edwards
+ihiro;;3p-a;3rd Person Plural;37192;;;;tola1247;edwards
+ihiro;;3p-s;3rd Person Plural;37412;;;;tola1247;edwards
+ihiro;;3p-o;3rd Person Plural;37639;;;;tola1247;edwards
+-ro;;3p-p;3rd Person Plural;37849;;;;tola1247;edwards

@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+na;;1sg_a;1st (excl) Person Singular;47346;;;;gend1249;ross-1995
+na;;1sg_s;1st (excl) Person Singular;47345;;;;gend1249;ross-1995
+n-;;1sg_o;1st (excl) Person Singular;47344;;;;gend1249;ross-1995
+n-;;1sg_p;1st (excl) Person Singular;47343;;;;gend1249;ross-1995
+ta;;1du_a;1st (excl) Person Dual;47342;;;;gend1249;ross-1995
+ta;;1du_s;1st (excl) Person Dual;47341;;;;gend1249;ross-1995
+t-;;1du_o;1st (excl) Person Dual;47340;;;;gend1249;ross-1995
+t-;;1du_p;1st (excl) Person Dual;47339;;;;gend1249;ross-1995
+ta;;1pl_a;1st (excl) Person Plural;47338;;;;gend1249;ross-1995
+ta;;1pl_s;1st (excl) Person Plural;47337;;;;gend1249;ross-1995
+t-;;1pl_o;1st (excl) Person Plural;47336;;;;gend1249;ross-1995
+t-;;1pl_p;1st (excl) Person Plural;47335;;;;gend1249;ross-1995
+ta;;12du_a;1st (incl) Person Dual;47334;;;;gend1249;ross-1995
+ta;;12du_s;1st (incl) Person Dual;47333;;;;gend1249;ross-1995
+t-;;12du_o;1st (incl) Person Dual;47332;;;;gend1249;ross-1995
+t-;;12du_p;1st (incl) Person Dual;47331;;;;gend1249;ross-1995
+ta;;12pl_a;1st (incl) Person Plural;47330;;;;gend1249;ross-1995
+ta;;12pl_s;1st (incl) Person Plural;47329;;;;gend1249;ross-1995
+t-;;12pl_o;1st (incl) Person Plural;47328;;;;gend1249;ross-1995
+t-;;12pl_p;1st (incl) Person Plural;47327;;;;gend1249;ross-1995
+ka;;2sg_a;2nd Person Singular;47326;;;;gend1249;ross-1995
+ka;;2sg_s;2nd Person Singular;47325;;;;gend1249;ross-1995
+k-;;2sg_o;2nd Person Singular;47324;;;;gend1249;ross-1995
+k-;;2sg_p;2nd Person Singular;47323;;;;gend1249;ross-1995
+ta;;2du_a;2nd Person Dual;47322;;;;gend1249;ross-1995
+ta;;2du_s;2nd Person Dual;47321;;;;gend1249;ross-1995
+tiniŋ-;;2du_o;2nd Person Dual;47320;;;;gend1249;ross-1995
+tin-;;2du_p;2nd Person Dual;47319;;;;gend1249;ross-1995
+ta;;2pl_a;2nd Person Plural;47318;;;;gend1249;ross-1995
+ta;;2pl_s;2nd Person Plural;47317;;;;gend1249;ross-1995
+tiniŋ-;;2pl_o;2nd Person Plural;47316;;;;gend1249;ross-1995
+tin-;;2pl_p;2nd Person Plural;47315;;;;gend1249;ross-1995
+ya;;3sg_m_a;3rd Person Singular Masculine;47314;;;;gend1249;ross-1995
+ya;;3sg_m_s;3rd Person Singular Masculine;47313;;;;gend1249;ross-1995
+∅-;;3sg_m_o;3rd Person Singular Masculine;61145;;;;gend1249;ross-1995
+∅-;;3sg_m_p;3rd Person Singular Masculine;61146;;;;gend1249;ross-1995
+ya;;3sg_n_a;3rd Person Singular Neuter;47312;;;;gend1249;ross-1995
+ya;;3sg_n_s;3rd Person Singular Neuter;47311;;;;gend1249;ross-1995
+∅-;;3sg_n_o;3rd Person Singular Neuter;61147;;;;gend1249;ross-1995
+∅-;;3sg_n_p;3rd Person Singular Neuter;61148;;;;gend1249;ross-1995
+ya;;3d-a;3rd Person Dual;47310;;;;gend1249;ross-1995
+ya;;3d-s;3rd Person Dual;47309;;;;gend1249;ross-1995
+tiniŋ-;;3d-o;3rd Person Dual;47308;;;;gend1249;ross-1995
+in-;;3d-p;3rd Person Dual;47307;;;;gend1249;ross-1995
+ya;;3p-a;3rd Person Plural;47306;;;;gend1249;ross-1995
+ya;;3p-s;3rd Person Plural;47305;;;;gend1249;ross-1995
+tiniŋ-;;3p-o;3rd Person Plural;47304;;;;gend1249;ross-1995
+in-;;3p-p;3rd Person Plural;47303;;;;gend1249;ross-1995

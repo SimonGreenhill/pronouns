@@ -1,0 +1,70 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+yeti, yanda;;1sg_a;1st (excl) Person Singular;30991;;;;madh1244;blake-et-al-2011
+yeti, yanda;;1sg_s;1st (excl) Person Singular;30992;;;;madh1244;blake-et-al-2011
+yenin, yandin;;1sg_o;1st (excl) Person Singular;30993;;;;madh1244;blake-et-al-2011
+yenayu;;1sg_p;1st (excl) Person Singular;30994;;;;madh1244;blake-et-al-2011
+ngalu;;1du_a;1st (excl) Person Dual;30995;;;;wadi1260;blake-et-al-2011
+ngalu;;1du_s;1st (excl) Person Dual;30996;;;;wadi1260;blake-et-al-2011
+ngalungin;;1du_o;1st (excl) Person Dual;30997;;;;wadi1260;blake-et-al-2011
+ngalathung, ngalathatyu;;1du_p;1st (excl) Person Dual;30998;;;;wadi1260;blake-et-al-2011
+yandhak;;1pl_a;1st (excl) Person Plural;30999;;;;wadi1260;blake-et-al-2011
+yandhak;;1pl_s;1st (excl) Person Plural;31000;;;;wadi1260;blake-et-al-2011
+yandhathu;;1pl_p;1st (excl) Person Plural;31001;;;;wadi1260;blake-et-al-2011
+ngalai;;12du_a;1st (incl) Person Dual;31002;;;;wadi1260;blake-et-al-2011
+ngalai;;12du_s;1st (incl) Person Dual;31003;;;;wadi1260;blake-et-al-2011
+ngalaithu(ŋ);;12du_p;1st (incl) Person Dual;31004;;;;wadi1260;blake-et-al-2011
+yangur;;12pl_a;1st (incl) Person Plural;31005;;;;wadi1260;blake-et-al-2011
+yangur;;12pl_s;1st (incl) Person Plural;31006;;;;wadi1260;blake-et-al-2011
+yangurathu;;12pl_p;1st (incl) Person Plural;31007;;;;wadi1260;blake-et-al-2011
+nginma, ngindi;;2sg_a;2nd Person Singular;31008;;;;wadi1260;blake-et-al-2011
+nginma, ngindi;;2sg_s;2nd Person Singular;31009;;;;wadi1260;blake-et-al-2011
+nginin;;2sg_o;2nd Person Singular;31010;;;;wadi1260;blake-et-al-2011
+nginayu;;2sg_p;2nd Person Singular;31011;;;;wadi1260;blake-et-al-2011
+ngula;;2du_a;2nd Person Dual;31012;;;;wadi1260;blake-et-al-2011
+ŋula;;2du_s;2nd Person Dual;31013;;;;madh1244;blake-et-al-2011
+ngulathu;;2du_p;2nd Person Dual;31014;;;;wadi1260;blake-et-al-2011
+pula(ng);;2pl_a;2nd Person Plural;31015;;;;wadi1260;blake-et-al-2011
+pula(ng);;2pl_s;2nd Person Plural;31016;;;;wadi1260;blake-et-al-2011
+pulin;;2pl_o;2nd Person Plural;31017;;;;madh1244;blake-et-al-2011
+pulathu;;2pl_p;2nd Person Plural;31018;;;;wadi1260;blake-et-al-2011
+ngundhi;;3sg_m_a;3rd Person Singular Masculine;31019;;;;wadi1260;blake-et-al-2011
+ngundhi;;3sg_m_s;3rd Person Singular Masculine;31020;;;;wadi1260;blake-et-al-2011
+ngukayu;;3sg_m_p;3rd Person Singular Masculine;31021;;;;wadi1260;blake-et-al-2011
+ŋunði;;3sg_f_a;3rd Person Singular Feminine;31022;;;;madh1244;blake-et-al-2011
+ŋunði;;3sg_f_s;3rd Person Singular Feminine;31023;;;;madh1244;blake-et-al-2011
+ŋukayu;;3sg_f_p;3rd Person Singular Feminine;31024;;;;madh1244;blake-et-al-2011
+ngundhi;;3sg_n_a;3rd Person Singular Neuter;31025;;;;wadi1260;blake-et-al-2011
+ngundhi;;3sg_n_s;3rd Person Singular Neuter;31026;;;;wadi1260;blake-et-al-2011
+ngukayu;;3sg_n_p;3rd Person Singular Neuter;31027;;;;wadi1260;blake-et-al-2011
+θana;;3du_m_a;3rd Person Dual Masculine;31028;;;;madh1244;blake-et-al-2011
+θana;;3du_m_s;3rd Person Dual Masculine;31029;;;;madh1244;blake-et-al-2011
+θanin;;3du_m_o;3rd Person Dual Masculine;31030;;;;madh1244;blake-et-al-2011
+θanaθu;;3du_m_p;3rd Person Dual Masculine;31031;;;;madh1244;blake-et-al-2011
+θana;;3du_f_a;3rd Person Dual Feminine;31032;;;;madh1244;blake-et-al-2011
+θana;;3du_f_s;3rd Person Dual Feminine;31033;;;;madh1244;blake-et-al-2011
+θanin;;3du_f_o;3rd Person Dual Feminine;31034;;;;madh1244;blake-et-al-2011
+θanaθu;;3du_f_p;3rd Person Dual Feminine;31035;;;;madh1244;blake-et-al-2011
+θana;;3du_n_a;3rd Person Dual Neuter;31036;;;;madh1244;blake-et-al-2011
+θana;;3du_n_s;3rd Person Dual Neuter;31037;;;;madh1244;blake-et-al-2011
+θanin;;3du_n_o;3rd Person Dual Neuter;31038;;;;madh1244;blake-et-al-2011
+θanaθu;;3du_n_p;3rd Person Dual Neuter;31039;;;;madh1244;blake-et-al-2011
+θana;;3pl_m_a;3rd Person Plural Masculine;31040;;;;madh1244;blake-et-al-2011
+θana;;3pl_m_s;3rd Person Plural Masculine;31041;;;;madh1244;blake-et-al-2011
+θanin;;3pl_m_o;3rd Person Plural Masculine;31042;;;;madh1244;blake-et-al-2011
+θanaθu;;3pl_m_p;3rd Person Plural Masculine;31043;;;;madh1244;blake-et-al-2011
+θana;;3pl_f_a;3rd Person Plural Feminine;31044;;;;madh1244;blake-et-al-2011
+θana;;3pl_f_s;3rd Person Plural Feminine;31045;;;;madh1244;blake-et-al-2011
+θanin;;3pl_f_o;3rd Person Plural Feminine;31046;;;;madh1244;blake-et-al-2011
+θanaθu;;3pl_f_p;3rd Person Plural Feminine;31047;;;;madh1244;blake-et-al-2011
+θana;;3pl_n_a;3rd Person Plural Neuter;31048;;;;madh1244;blake-et-al-2011
+θana;;3pl_n_s;3rd Person Plural Neuter;31049;;;;madh1244;blake-et-al-2011
+θanin;;3pl_n_o;3rd Person Plural Neuter;31050;;;;madh1244;blake-et-al-2011
+θanaθu;;3pl_n_p;3rd Person Plural Neuter;31051;;;;madh1244;blake-et-al-2011
+thana;;3d-a;3rd Person Dual;36348;;;;wadi1260;blake-et-al-2011
+thana;;3d-s;3rd Person Dual;36575;;;;wadi1260;blake-et-al-2011
+thanin;;3d-o;3rd Person Dual;36801;;;;wadi1260;blake-et-al-2011
+thanathu;;3d-p;3rd Person Dual;37011;;;;wadi1260;blake-et-al-2011
+thana;;3p-a;3rd Person Plural;37231;;;;wadi1260;blake-et-al-2011
+thana;;3p-s;3rd Person Plural;37457;;;;wadi1260;blake-et-al-2011
+thanin;;3p-o;3rd Person Plural;37680;;;;wadi1260;blake-et-al-2011
+thanathu;;3p-p;3rd Person Plural;37889;;;;wadi1260;blake-et-al-2011

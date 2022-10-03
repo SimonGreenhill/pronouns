@@ -1,0 +1,48 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ya=;;1sg_a;1st (excl) Person Singular;47996;;;;sobe1238;lynch-et-al-2002
+ya=;;1sg_s;1st (excl) Person Singular;47995;;;;sobe1238;lynch-et-al-2002
+-eyau;;1sg_o;1st (excl) Person Singular;47994;;;;sobe1238;lynch-et-al-2002
+mim=;;1du_a;1st (excl) Person Dual;47993;;;;sobe1238;lynch-et-al-2002
+mim=;;1du_s;1st (excl) Person Dual;47992;;;;sobe1238;lynch-et-al-2002
+-emim;;1du_o;1st (excl) Person Dual;47991;;;;sobe1238;lynch-et-al-2002
+-rim;;1du_p;1st (excl) Person Dual;47990;;;;sobe1238;lynch-et-al-2002
+mim=;;1pl_a;1st (excl) Person Plural;47989;;;;sobe1238;lynch-et-al-2002
+mim=;;1pl_s;1st (excl) Person Plural;47988;;;;sobe1238;lynch-et-al-2002
+-emim;;1pl_o;1st (excl) Person Plural;47987;;;;sobe1238;lynch-et-al-2002
+-rim;;1pl_p;1st (excl) Person Plural;47986;;;;sobe1238;lynch-et-al-2002
+rer=;;12du_a;1st (incl) Person Dual;47985;;;;sobe1238;lynch-et-al-2002
+rer=;;12du_s;1st (incl) Person Dual;47984;;;;sobe1238;lynch-et-al-2002
+-erer;;12du_o;1st (incl) Person Dual;47983;;;;sobe1238;lynch-et-al-2002
+-rir;;12du_p;1st (incl) Person Dual;47982;;;;sobe1238;lynch-et-al-2002
+rer=;;12pl_a;1st (incl) Person Plural;47981;;;;sobe1238;lynch-et-al-2002
+rer=;;12pl_s;1st (incl) Person Plural;47980;;;;sobe1238;lynch-et-al-2002
+-erer;;12pl_o;1st (incl) Person Plural;47979;;;;sobe1238;lynch-et-al-2002
+-rir;;12pl_p;1st (incl) Person Plural;47978;;;;sobe1238;lynch-et-al-2002
+u=;;2sg_a;2nd Person Singular;47977;;;;sobe1238;lynch-et-al-2002
+u=;;2sg_s;2nd Person Singular;47976;;;;sobe1238;lynch-et-al-2002
+-u;;2sg_o;2nd Person Singular;47975;;;;sobe1238;lynch-et-al-2002
+-m;;2sg_p;2nd Person Singular;47974;;;;sobe1238;lynch-et-al-2002
+yam=;;2du_a;2nd Person Dual;47973;;;;sobe1238;lynch-et-al-2002
+yam=;;2du_s;2nd Person Dual;47972;;;;sobe1238;lynch-et-al-2002
+-im;;2du_o;2nd Person Dual;47971;;;;sobe1238;lynch-et-al-2002
+-rim;;2du_p;2nd Person Dual;47970;;;;sobe1238;lynch-et-al-2002
+yam=;;2pl_a;2nd Person Plural;47969;;;;sobe1238;lynch-et-al-2002
+yam=;;2pl_s;2nd Person Plural;47968;;;;sobe1238;lynch-et-al-2002
+-im;;2pl_o;2nd Person Plural;47967;;;;sobe1238;lynch-et-al-2002
+-rim;;2pl_p;2nd Person Plural;47966;;;;sobe1238;lynch-et-al-2002
+e=;;3sg_m_a;3rd Person Singular Masculine;47965;;;;sobe1238;lynch-et-al-2002
+e=;;3sg_m_s;3rd Person Singular Masculine;47964;;;;sobe1238;lynch-et-al-2002
+-e;;3sg_m_o;3rd Person Singular Masculine;47963;;;;sobe1238;lynch-et-al-2002
+-n;;3sg_m_p;3rd Person Singular Masculine;47962;;;;sobe1238;lynch-et-al-2002
+e=;;3sg_n_a;3rd Person Singular Neuter;47961;;;;sobe1238;lynch-et-al-2002
+e=;;3sg_n_s;3rd Person Singular Neuter;47960;;;;sobe1238;lynch-et-al-2002
+-e;;3sg_n_o;3rd Person Singular Neuter;47959;;;;sobe1238;lynch-et-al-2002
+-n;;3sg_n_p;3rd Person Singular Neuter;47958;;;;sobe1238;lynch-et-al-2002
+ri=;;3d-a;3rd Person Dual;47957;;;;sobe1238;lynch-et-al-2002
+ri=;;3d-s;3rd Person Dual;47956;;;;sobe1238;lynch-et-al-2002
+-i;;3d-o;3rd Person Dual;47955;;;;sobe1238;lynch-et-al-2002
+-ri;;3d-p;3rd Person Dual;47954;;;;sobe1238;lynch-et-al-2002
+ri=;;3p-a;3rd Person Plural;47953;;;;sobe1238;lynch-et-al-2002
+ri=;;3p-s;3rd Person Plural;47952;;;;sobe1238;lynch-et-al-2002
+-i;;3p-o;3rd Person Plural;47951;;;;sobe1238;lynch-et-al-2002
+-ri;;3p-p;3rd Person Plural;47950;;;;sobe1238;lynch-et-al-2002

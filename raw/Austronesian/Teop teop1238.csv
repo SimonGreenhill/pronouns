@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+naa;;1sg_a;1st (excl) Person Singular;49966;;;;teop1238;evans-2015
+naa;;1sg_s;1st (excl) Person Singular;49965;;;;teop1238;evans-2015
+naa;;1sg_o;1st (excl) Person Singular;49964;;;;teop1238;evans-2015
+-naa;;1sg_p;1st (excl) Person Singular;49963;;;;teop1238;evans-2015
+nam;;1du_a;1st (excl) Person Dual;49962;;;;teop1238;evans-2015
+nam;;1du_s;1st (excl) Person Dual;49961;;;;teop1238;evans-2015
+nam;;1du_o;1st (excl) Person Dual;49960;;;;teop1238;evans-2015
+ma-nam;;1du_p;1st (excl) Person Dual;49959;;;;teop1238;evans-2015
+nam;;1pl_a;1st (excl) Person Plural;49958;;;;teop1238;evans-2015
+nam;;1pl_s;1st (excl) Person Plural;49957;;;;teop1238;evans-2015
+nam;;1pl_o;1st (excl) Person Plural;49956;;;;teop1238;evans-2015
+ma-nam;;1pl_p;1st (excl) Person Plural;49955;;;;teop1238;evans-2015
+ara;;12du_a;1st (incl) Person Dual;49954;;;;teop1238;evans-2015
+ara;;12du_s;1st (incl) Person Dual;49953;;;;teop1238;evans-2015
+ara;;12du_o;1st (incl) Person Dual;49952;;;;teop1238;evans-2015
+ra-ara;;12du_p;1st (incl) Person Dual;49951;;;;teop1238;evans-2015
+ara;;12pl_a;1st (incl) Person Plural;49950;;;;teop1238;evans-2015
+ara;;12pl_s;1st (incl) Person Plural;49949;;;;teop1238;evans-2015
+ara;;12pl_o;1st (incl) Person Plural;49948;;;;teop1238;evans-2015
+ra-ara;;12pl_p;1st (incl) Person Plural;49947;;;;teop1238;evans-2015
+ani;;2sg_a;2nd Person Singular;49946;;The form 'an' also exists.;;teop1238;evans-2015
+ani;;2sg_s;2nd Person Singular;49945;;The form 'an' also exists.;;teop1238;evans-2015
+ani;;2sg_o;2nd Person Singular;49944;;The form 'an' also exists.;;teop1238;evans-2015
+-m-an;;2sg_p;2nd Person Singular;49943;;;;teop1238;evans-2015
+am;;2du_a;2nd Person Dual;49942;;;;teop1238;evans-2015
+am;;2du_s;2nd Person Dual;49941;;;;teop1238;evans-2015
+am;;2du_o;2nd Person Dual;49940;;;;teop1238;evans-2015
+me-am;;2du_p;2nd Person Dual;49939;;;;teop1238;evans-2015
+am;;2pl_a;2nd Person Plural;49938;;;;teop1238;evans-2015
+am;;2pl_s;2nd Person Plural;49937;;;;teop1238;evans-2015
+am;;2pl_o;2nd Person Plural;49936;;;;teop1238;evans-2015
+me-am;;2pl_p;2nd Person Plural;49935;;;;teop1238;evans-2015
+eve;;3sg_m_a;3rd Person Singular Masculine;49934;;The forms 'e' and 'ee' also exist.;;teop1238;evans-2015
+eve;;3sg_m_s;3rd Person Singular Masculine;49933;;The forms 'e' and 'ee' also exist.;;teop1238;evans-2015
+eve;;3sg_m_o;3rd Person Singular Masculine;49932;;The forms 'e' and 'ee' also exist.;;teop1238;evans-2015
+-na-e;;3sg_m_p;3rd Person Singular Masculine;49931;;;;teop1238;evans-2015
+eve;;3sg_n_a;3rd Person Singular Neuter;49930;;The forms 'e' and 'ee' also exist.;;teop1238;evans-2015
+eve;;3sg_n_s;3rd Person Singular Neuter;49929;;The forms 'e' and 'ee' also exist.;;teop1238;evans-2015
+eve;;3sg_n_o;3rd Person Singular Neuter;49928;;The forms 'e' and 'ee' also exist.;;teop1238;evans-2015
+-na-e;;3sg_n_p;3rd Person Singular Neuter;49927;;;;teop1238;evans-2015
+ori;;3d-a;3rd Person Dual;49926;;;;teop1238;evans-2015
+ori;;3d-s;3rd Person Dual;49925;;;;teop1238;evans-2015
+ori;;3d-o;3rd Person Dual;49924;;;;teop1238;evans-2015
+ri-ori;;3d-p;3rd Person Dual;49923;;;;teop1238;evans-2015
+ori;;3p-a;3rd Person Plural;49922;;;;teop1238;evans-2015
+ori;;3p-s;3rd Person Plural;49921;;;;teop1238;evans-2015
+ori;;3p-o;3rd Person Plural;49920;;;;teop1238;evans-2015
+ri-ori;;3p-p;3rd Person Plural;49919;;;;teop1238;evans-2015

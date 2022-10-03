@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ani ;;1sg_a;1st (excl) Person Singular;43911;;;;hebr1245;glinert-1989
+ani ;;1sg_s;1st (excl) Person Singular;43910;;;;hebr1245;glinert-1989
+-i ;;1sg_o;1st (excl) Person Singular;43909;;;;hebr1245;glinert-1989
+-i ;;1sg_p;1st (excl) Person Singular;43908;;;;hebr1245;glinert-1989
+anˈaxnu ;;1du_a;1st (excl) Person Dual;43907;;;;hebr1245;glinert-1989
+anˈaxnu ;;1du_s;1st (excl) Person Dual;43906;;;;hebr1245;glinert-1989
+-ˈɛnu ;;1du_o;1st (excl) Person Dual;43905;;;;hebr1245;glinert-1989
+-ˈɛnu ;;1du_p;1st (excl) Person Dual;43904;;;;hebr1245;glinert-1989
+anˈaxnu ;;1pl_a;1st (excl) Person Plural;43903;;;;hebr1245;glinert-1989
+anˈaxnu ;;1pl_s;1st (excl) Person Plural;43902;;;;hebr1245;glinert-1989
+-ˈɛnu ;;1pl_o;1st (excl) Person Plural;43901;;;;hebr1245;glinert-1989
+-ˈɛnu ;;1pl_p;1st (excl) Person Plural;43900;;;;hebr1245;glinert-1989
+anˈaxnu ;;12du_a;1st (incl) Person Dual;43899;;;;hebr1245;glinert-1989
+anˈaxnu ;;12du_s;1st (incl) Person Dual;43898;;;;hebr1245;glinert-1989
+-ˈɛnu ;;12du_o;1st (incl) Person Dual;43897;;;;hebr1245;glinert-1989
+-ˈɛnu ;;12du_p;1st (incl) Person Dual;43896;;;;hebr1245;glinert-1989
+anˈaxnu ;;12pl_a;1st (incl) Person Plural;43895;;;;hebr1245;glinert-1989
+anˈaxnu ;;12pl_s;1st (incl) Person Plural;43894;;;;hebr1245;glinert-1989
+-ˈɛnu ;;12pl_o;1st (incl) Person Plural;43893;;;;hebr1245;glinert-1989
+-ˈɛnu ;;12pl_p;1st (incl) Person Plural;43892;;;;hebr1245;glinert-1989
+ata;;2sg_a;2nd Person Singular;43891;;‘ata’ is in fact the 2sgM form, the 2sgF form is ‘at’ (Gilnert 1989).;;hebr1245;glinert-1989
+ata;;2sg_s;2nd Person Singular;43890;;‘ata’ is in fact the 2sgM form, the 2sgF form is ‘at’ (Gilnert 1989).;;hebr1245;glinert-1989
+-xa ;;2sg_o;2nd Person Singular;43889;;‘-xa’ is in fact the 2sgM form, the 2sgF form is ‘-ɛx’ (Gilnert 1989:30-1).;;hebr1245;glinert-1989
+-xa ;;2sg_p;2nd Person Singular;43888;;‘-xa’ is in fact the 2sgM form, the 2sgF form is ‘-ɛx’ (Gilnert 1989:30-1).;;hebr1245;glinert-1989
+atɛm;;2du_a;2nd Person Dual;43887;;;;hebr1245;glinert-1989
+atɛm;;2du_s;2nd Person Dual;43886;;;;hebr1245;glinert-1989
+-xɛm ;;2du_o;2nd Person Dual;43885;;‘-xɛm’ is in fact the 2plM form, the 2plF form is ‘-xɛn’ (Gilnert 1989:30-1).;;hebr1245;glinert-1989
+-xɛm ;;2du_p;2nd Person Dual;43884;;‘-xɛm’ is in fact the 2plM form, the 2plF form is ‘-xɛn’ (Gilnert 1989:30-1).;;hebr1245;glinert-1989
+atɛm;;2pl_a;2nd Person Plural;43883;;‘atɛm’ is in fact the 2plM form, the 2plF form is ‘atɛn’ (Gilnert 1989).;;hebr1245;glinert-1989
+atɛm;;2pl_s;2nd Person Plural;43882;;‘atɛm’ is in fact the 2plM form, the 2plF form is ‘atɛn’ (Gilnert 1989).;;hebr1245;glinert-1989
+-xɛm ;;2pl_o;2nd Person Plural;43881;;‘-xɛm’ is in fact the 2plM form, the 2plF form is ‘-xɛn’ (Gilnert 1989:30-1).;;hebr1245;glinert-1989
+-xɛm ;;2pl_p;2nd Person Plural;43880;;‘-xɛm’ is in fact the 2plM form, the 2plF form is ‘-xɛn’ (Gilnert 1989:30-1).;;hebr1245;glinert-1989
+hu;;3sg_m_a;3rd Person Singular Masculine;43879;;;;hebr1245;glinert-1989
+hu;;3sg_m_s;3rd Person Singular Masculine;43878;;;;hebr1245;glinert-1989
+-o ;;3sg_m_o;3rd Person Singular Masculine;43877;;;;hebr1245;glinert-1989
+-o ;;3sg_m_p;3rd Person Singular Masculine;43876;;;;hebr1245;glinert-1989
+hi;;3sg_n_a;3rd Person Singular Neuter;43875;;;;hebr1245;glinert-1989
+hi;;3sg_n_s;3rd Person Singular Neuter;43874;;;;hebr1245;glinert-1989
+-a ;;3sg_n_o;3rd Person Singular Neuter;43873;;;;hebr1245;glinert-1989
+-a ;;3sg_n_p;3rd Person Singular Neuter;43872;;;;hebr1245;glinert-1989
+hɛm;;3d-a;3rd Person Dual;43871;;‘hɛm’ is in fact the 3plM form, the 3plF form is ‘hɛn’ (Gilnert 1989).;;hebr1245;glinert-1989
+hɛm;;3d-s;3rd Person Dual;43870;;‘hɛm’ is in fact the 3plM form, the 3plF form is ‘hɛn’ (Gilnert 1989).;;hebr1245;glinert-1989
+-am ;;3d-o;3rd Person Dual;43869;;‘-am’ is in fact the 3plM form, the 3plF form is ‘-an’ (Gilnert 1989:30-1).;;hebr1245;glinert-1989
+-am ;;3d-p;3rd Person Dual;43868;;‘-am’ is in fact the 3plM form, the 3plF form is ‘-an’ (Gilnert 1989:30-1).;;hebr1245;glinert-1989
+hɛm;;3p-a;3rd Person Plural;43867;;‘hɛm’ is in fact the 3plM form, the 3plF form is ‘hɛn’ (Gilnert 1989).;;hebr1245;glinert-1989
+hɛm;;3p-s;3rd Person Plural;43866;;‘hɛm’ is in fact the 3plM form, the 3plF form is ‘hɛn’ (Gilnert 1989).;;hebr1245;glinert-1989
+-am ;;3p-o;3rd Person Plural;43865;;‘-am’ is in fact the 3plM form, the 3plF form is ‘-an’ (Gilnert 1989:30-1).;;hebr1245;glinert-1989
+-am ;;3p-p;3rd Person Plural;43864;;‘-am’ is in fact the 3plM form, the 3plF form is ‘-an’ (Gilnert 1989:30-1).;;hebr1245;glinert-1989

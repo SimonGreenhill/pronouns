@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+na;;1sg_a;1st (excl) Person Singular;46358;;;;ling1265;barbour-2012
+na;;1sg_s;1st (excl) Person Singular;46357;;;;ling1265;barbour-2012
+na;;1sg_o;1st (excl) Person Singular;46356;;;;ling1265;barbour-2012
+tna;;1sg_p;1st (excl) Person Singular;46355;;;;ling1265;barbour-2012
+nam;;1du_a;1st (excl) Person Dual;46354;;The form '(ŋ͡gu)mam' is also listed (Barbour 2012:72).;;ling1265;barbour-2012
+nam;;1du_s;1st (excl) Person Dual;46353;;The form '(ŋ͡gu)mam' is also listed (Barbour 2012:72);;ling1265;barbour-2012
+nam;;1du_o;1st (excl) Person Dual;46352;;The form '(ŋ͡gu)mam' is also listed (Barbour 2012:72);;ling1265;barbour-2012
+tnam;;1du_p;1st (excl) Person Dual;46351;;The form 'tmam' is also listed (Barbour 2012:75).;;ling1265;barbour-2012
+nam;;1pl_a;1st (excl) Person Plural;46350;;The form '(ŋ͡gu)mam' is also listed (Barbour 2012:72);;ling1265;barbour-2012
+nam;;1pl_s;1st (excl) Person Plural;46349;;The form '(ŋ͡gu)mam' is also listed (Barbour 2012:72);;ling1265;barbour-2012
+nam;;1pl_o;1st (excl) Person Plural;46348;;The form '(ŋ͡gu)mam' is also listed (Barbour 2012:72);;ling1265;barbour-2012
+tnam;;1pl_p;1st (excl) Person Plural;46347;;The form 'tmam' is also listed (Barbour 2012:75).;;ling1265;barbour-2012
+ŋ͡git;;12du_a;1st (incl) Person Dual;46346;;;;ling1265;barbour-2012
+ŋ͡git;;12du_s;1st (incl) Person Dual;46345;;;;ling1265;barbour-2012
+ŋ͡git;;12du_o;1st (incl) Person Dual;46344;;;;ling1265;barbour-2012
+tŋ͡git;;12du_p;1st (incl) Person Dual;46343;;;;ling1265;barbour-2012
+ŋ͡git;;12pl_a;1st (incl) Person Plural;46342;;;;ling1265;barbour-2012
+ŋ͡git;;12pl_s;1st (incl) Person Plural;46341;;;;ling1265;barbour-2012
+ŋ͡git;;12pl_o;1st (incl) Person Plural;46340;;;;ling1265;barbour-2012
+tŋ͡git;;12pl_p;1st (incl) Person Plural;46339;;;;ling1265;barbour-2012
+oɣ;;2sg_a;2nd Person Singular;46338;;;;ling1265;barbour-2012
+oɣ;;2sg_s;2nd Person Singular;46337;;;;ling1265;barbour-2012
+oɣ;;2sg_o;2nd Person Singular;46336;;;;ling1265;barbour-2012
+tox;;2sg_p;2nd Person Singular;46335;;;;ling1265;barbour-2012
+ŋ͡gam;;2du_a;2nd Person Dual;46334;;;;ling1265;barbour-2012
+ŋ͡gam;;2du_s;2nd Person Dual;46333;;;;ling1265;barbour-2012
+ŋ͡gam;;2du_o;2nd Person Dual;46332;;;;ling1265;barbour-2012
+tŋ͡gam;;2du_p;2nd Person Dual;46331;;;;ling1265;barbour-2012
+ŋ͡gam;;2pl_a;2nd Person Plural;46330;;;;ling1265;barbour-2012
+ŋ͡gam;;2pl_s;2nd Person Plural;46329;;;;ling1265;barbour-2012
+ŋ͡gam;;2pl_o;2nd Person Plural;46328;;;;ling1265;barbour-2012
+tŋ͡gam;;2pl_p;2nd Person Plural;46327;;;;ling1265;barbour-2012
+ei;;3sg_m_a;3rd Person Singular Masculine;46326;;;;ling1265;barbour-2012
+ei;;3sg_m_s;3rd Person Singular Masculine;46325;;;;ling1265;barbour-2012
+ei;;3sg_m_o;3rd Person Singular Masculine;46324;;;;ling1265;barbour-2012
+titi;;3sg_m_p;3rd Person Singular Masculine;46323;;;;ling1265;barbour-2012
+ei;;3sg_n_a;3rd Person Singular Neuter;46322;;;;ling1265;barbour-2012
+ei;;3sg_n_s;3rd Person Singular Neuter;46321;;;;ling1265;barbour-2012
+ei;;3sg_n_o;3rd Person Singular Neuter;46320;;;;ling1265;barbour-2012
+titi ;;3sg_n_p;3rd Person Singular Neuter;46319;;;;ling1265;barbour-2012
+an͡dr;;3d-a;3rd Person Dual;46318;;;;ling1265;barbour-2012
+an͡dr;;3d-s;3rd Person Dual;46317;;;;ling1265;barbour-2012
+an͡dr;;3d-o;3rd Person Dual;46316;;;;ling1265;barbour-2012
+titn͡dr ;;3d-p;3rd Person Dual;46315;;;;ling1265;barbour-2012
+an͡dr;;3p-a;3rd Person Plural;46314;;;;ling1265;barbour-2012
+an͡dr;;3p-s;3rd Person Plural;46313;;;;ling1265;barbour-2012
+an͡dr;;3p-o;3rd Person Plural;46312;;;;ling1265;barbour-2012
+titn͡dr ;;3p-p;3rd Person Plural;46311;;;;ling1265;barbour-2012

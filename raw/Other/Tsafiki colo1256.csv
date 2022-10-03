@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+la;;1sg_a;1st (excl) Person Singular;53885;;;;colo1256;2002
+la;;1sg_s;1st (excl) Person Singular;53884;;;;colo1256;2002
+laka;;1sg_o;1st (excl) Person Singular;53883;;;;colo1256;2002
+lachi;;1sg_p;1st (excl) Person Singular;53882;;;;colo1256;2002
+chikela, chila;;1du_a;1st (excl) Person Dual;53881;;;;colo1256;2002
+chikela, chila;;1du_s;1st (excl) Person Dual;53880;;;;colo1256;2002
+chikelaka, chilaka;;1du_o;1st (excl) Person Dual;53879;;;;colo1256;2002
+chilachi;;1du_p;1st (excl) Person Dual;53878;;;;colo1256;2002
+chikela, chila;;1pl_a;1st (excl) Person Plural;53877;;;;colo1256;2002
+chikela, chila;;1pl_s;1st (excl) Person Plural;53876;;;;colo1256;2002
+chikelaka, chilaka;;1pl_o;1st (excl) Person Plural;53875;;;;colo1256;2002
+chilachi;;1pl_p;1st (excl) Person Plural;53874;;;;colo1256;2002
+chikela, chila;;12du_a;1st (incl) Person Dual;53873;;;;colo1256;2002
+chikela, chila;;12du_s;1st (incl) Person Dual;53872;;;;colo1256;2002
+chikelaka, chilaka;;12du_o;1st (incl) Person Dual;53871;;;;colo1256;2002
+chlachi;;12du_p;1st (incl) Person Dual;53870;;;;colo1256;2002
+chikela, chila;;12pl_a;1st (incl) Person Plural;53869;;;;colo1256;2002
+chikela, chila;;12pl_s;1st (incl) Person Plural;53868;;;;colo1256;2002
+chikelaka, chilaka;;12pl_o;1st (incl) Person Plural;53867;;;;colo1256;2002
+chilachi;;12pl_p;1st (incl) Person Plural;53866;;;;colo1256;2002
+nu;;2sg_a;2nd Person Singular;62545;;;;colo1256;2002
+nu;;2sg_s;2nd Person Singular;62546;;;;colo1256;2002
+nuka;;2sg_o;2nd Person Singular;62547;;;;colo1256;2002
+nuchi;;2sg_p;2nd Person Singular;62554;;;;colo1256;2002
+nula;;2du_a;2nd Person Dual;62548;;;;colo1256;2002
+nula;;2du_s;2nd Person Dual;62549;;;;colo1256;2002
+nulaka;;2du_o;2nd Person Dual;62550;;;;colo1256;2002
+nulachi;;2du_p;2nd Person Dual;62555;;;;colo1256;2002
+nula;;2pl_a;2nd Person Plural;62551;;;;colo1256;2002
+nula;;2pl_s;2nd Person Plural;62552;;;;colo1256;2002
+nulaka;;2pl_o;2nd Person Plural;62553;;;;colo1256;2002
+nulachi;;2pl_p;2nd Person Plural;62556;;;;colo1256;2002
+in, ya, jun, jaa;;3sg_m_a;3rd Person Singular Masculine;53865;;;;colo1256;2002
+in, ya, jun, jaa;;3sg_m_s;3rd Person Singular Masculine;53864;;;;colo1256;2002
+inka, yaka, junka, jaaka;;3sg_m_o;3rd Person Singular Masculine;53863;;;;colo1256;2002
+inchi, yachi, junchi, jaachi;;3sg_m_p;3rd Person Singular Masculine;53862;;;;colo1256;2002
+in, ya, jun, jaa;;3sg_n_a;3rd Person Singular Neuter;53861;;;;colo1256;2002
+in, ya, jun, jaa;;3sg_n_s;3rd Person Singular Neuter;53860;;;;colo1256;2002
+inka, yaka, junka, jaaka;;3sg_n_o;3rd Person Singular Neuter;53859;;;;colo1256;2002
+inchi, yachi, junchi, jaachi;;3sg_n_p;3rd Person Singular Neuter;53858;;;;colo1256;2002
+inla, yala, junla, jaala;;3d-a;3rd Person Dual;53857;;;;colo1256;2002
+inla, yala, junla, jaala;;3d-s;3rd Person Dual;53856;;;;colo1256;2002
+inlaka, yalaka, junlaka, jaalaka;;3d-o;3rd Person Dual;53855;;;;colo1256;2002
+inlachi, yalachi, junlachi, jaalachi;;3d-p;3rd Person Dual;53854;;;;colo1256;2002
+inla, yala, junla, jaala;;3p-a;3rd Person Plural;53853;;;;colo1256;2002
+inla, yala, junla, jaala;;3p-s;3rd Person Plural;53852;;;;colo1256;2002
+inlaka, yalaka, junlaka, jaalaka;;3p-o;3rd Person Plural;53851;;;;colo1256;2002
+inlachi, yalachi, junlachi, jaalachi;;3p-p;3rd Person Plural;53850;;;;colo1256;2002

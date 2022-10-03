@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+beta;;1sg_a;1st (excl) Person Singular;61319;;;;ambo1250;minde-1997
+beta;;1sg_s;1st (excl) Person Singular;61318;;;;ambo1250;minde-1997
+beta;;1sg_o;1st (excl) Person Singular;61317;;;;ambo1250;minde-1997
+beta;;1sg_p;1st (excl) Person Singular;61316;;;;ambo1250;minde-1997
+katong;;1du_a;1st (excl) Person Dual;61315;;;;ambo1250;minde-1997
+katong;;1du_s;1st (excl) Person Dual;61314;;;;ambo1250;minde-1997
+katong;;1du_o;1st (excl) Person Dual;61313;;;;ambo1250;minde-1997
+katong;;1du_p;1st (excl) Person Dual;61312;;;;ambo1250;minde-1997
+katong;;1pl_a;1st (excl) Person Plural;61311;;;;ambo1250;minde-1997
+katong;;1pl_s;1st (excl) Person Plural;61310;;;;ambo1250;minde-1997
+katong;;1pl_o;1st (excl) Person Plural;61309;;;;ambo1250;minde-1997
+katong;;1pl_p;1st (excl) Person Plural;61308;;;;ambo1250;minde-1997
+katong;;12du_a;1st (incl) Person Dual;61307;;;;ambo1250;minde-1997
+katong;;12du_s;1st (incl) Person Dual;61306;;;;ambo1250;minde-1997
+katong;;12du_o;1st (incl) Person Dual;61305;;;;ambo1250;minde-1997
+katong;;12du_p;1st (incl) Person Dual;61304;;;;ambo1250;minde-1997
+katong;;12pl_a;1st (incl) Person Plural;61303;;;;ambo1250;minde-1997
+katong;;12pl_s;1st (incl) Person Plural;61302;;;;ambo1250;minde-1997
+katong;;12pl_o;1st (incl) Person Plural;61301;;;;ambo1250;minde-1997
+katong;;12pl_p;1st (incl) Person Plural;61300;;;;ambo1250;minde-1997
+ose, ale;;2sg_a;2nd Person Singular;61299;;ale is the intimate form;;ambo1250;minde-1997
+ose, ale;;2sg_s;2nd Person Singular;61298;;ale is the intimate form;;ambo1250;minde-1997
+ose, ale;;2sg_o;2nd Person Singular;61297;;ale is the intimate form;;ambo1250;minde-1997
+ose, ale;;2sg_p;2nd Person Singular;61296;;ale is the intimate form;;ambo1250;minde-1997
+dorang;;2du_a;2nd Person Dual;61295;;;;ambo1250;minde-1997
+dorang;;2du_s;2nd Person Dual;61294;;;;ambo1250;minde-1997
+dorang;;2du_o;2nd Person Dual;61293;;;;ambo1250;minde-1997
+dorang;;2du_p;2nd Person Dual;61292;;;;ambo1250;minde-1997
+dorang;;2pl_a;2nd Person Plural;61291;;;;ambo1250;minde-1997
+dorang;;2pl_s;2nd Person Plural;61290;;;;ambo1250;minde-1997
+dorang;;2pl_o;2nd Person Plural;61289;;;;ambo1250;minde-1997
+dorang;;2pl_p;2nd Person Plural;61288;;;;ambo1250;minde-1997
+dia;;3sg_m_a;3rd Person Singular Masculine;61287;;;;ambo1250;minde-1997
+dia;;3sg_m_s;3rd Person Singular Masculine;61286;;;;ambo1250;minde-1997
+dia;;3sg_m_o;3rd Person Singular Masculine;61285;;;;ambo1250;minde-1997
+dia;;3sg_m_p;3rd Person Singular Masculine;61284;;;;ambo1250;minde-1997
+antua, akang;;3sg_n_a;3rd Person Singular Neuter;61283;;antua is a polite form, akang is neutral;;ambo1250;minde-1997
+antua, akang;;3sg_n_s;3rd Person Singular Neuter;61282;;antua is a polite form, akang is neutral;;ambo1250;minde-1997
+antua, akang;;3sg_n_o;3rd Person Singular Neuter;61281;;antua is a polite form, akang is neutral;;ambo1250;minde-1997
+antua, akang;;3sg_n_p;3rd Person Singular Neuter;61280;;;;ambo1250;minde-1997
+dorang;;3d-a;3rd Person Dual;61279;;;;ambo1250;minde-1997
+dorang;;3d-s;3rd Person Dual;61278;;;;ambo1250;minde-1997
+dorang;;3d-o;3rd Person Dual;61277;;;;ambo1250;minde-1997
+dorang;;3d-p;3rd Person Dual;61276;;;;ambo1250;minde-1997
+dorang;;3p-a;3rd Person Plural;61275;;;;ambo1250;minde-1997
+dorang;;3p-s;3rd Person Plural;61274;;;;ambo1250;minde-1997
+dorang;;3p-o;3rd Person Plural;61273;;;;ambo1250;minde-1997
+dorang;;3p-p;3rd Person Plural;61272;;;;ambo1250;minde-1997

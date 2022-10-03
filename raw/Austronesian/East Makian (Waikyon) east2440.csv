@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+jak ;;1sg_a;1st (excl) Person Singular;51490;;;;east2440;bowden-2001
+jak ;;1sg_s;1st (excl) Person Singular;51489;;;;east2440;bowden-2001
+jak ;;1sg_o;1st (excl) Person Singular;51488;;;;east2440;bowden-2001
+nik ;;1sg_p;1st (excl) Person Singular;51487;;;;east2440;bowden-2001
+am ;;1du_a;1st (excl) Person Dual;51486;;;;east2440;bowden-2001
+am ;;1du_s;1st (excl) Person Dual;51485;;;;east2440;bowden-2001
+am ;;1du_o;1st (excl) Person Dual;51484;;;;east2440;bowden-2001
+amam ;;1du_p;1st (excl) Person Dual;51483;;;;east2440;bowden-2001
+am ;;1pl_a;1st (excl) Person Plural;51482;;;;east2440;bowden-2001
+am ;;1pl_s;1st (excl) Person Plural;51481;;;;east2440;bowden-2001
+am ;;1pl_o;1st (excl) Person Plural;51480;;;;east2440;bowden-2001
+amam ;;1pl_p;1st (excl) Person Plural;51479;;;;east2440;bowden-2001
+tit ;;12du_a;1st (incl) Person Dual;51478;;;;east2440;bowden-2001
+tit ;;12du_s;1st (incl) Person Dual;51477;;;;east2440;bowden-2001
+tit ;;12du_o;1st (incl) Person Dual;51476;;;;east2440;bowden-2001
+nit ;;12du_p;1st (incl) Person Dual;51475;;;;east2440;bowden-2001
+tit ;;12pl_a;1st (incl) Person Plural;51474;;;;east2440;bowden-2001
+tit ;;12pl_s;1st (incl) Person Plural;51473;;;;east2440;bowden-2001
+tit ;;12pl_o;1st (incl) Person Plural;51472;;;;east2440;bowden-2001
+nit ;;12pl_p;1st (incl) Person Plural;51471;;;;east2440;bowden-2001
+au ;;2sg_a;2nd Person Singular;51470;;;;east2440;bowden-2001
+au ;;2sg_s;2nd Person Singular;51469;;;;east2440;bowden-2001
+au ;;2sg_o;2nd Person Singular;51468;;;;east2440;bowden-2001
+nim ;;2sg_p;2nd Person Singular;51467;;;;east2440;bowden-2001
+meu ;;2du_a;2nd Person Dual;51466;;;;east2440;bowden-2001
+meu ;;2du_s;2nd Person Dual;51465;;;;east2440;bowden-2001
+meu ;;2du_o;2nd Person Dual;51464;;;;east2440;bowden-2001
+memeu ;;2du_p;2nd Person Dual;51463;;;;east2440;bowden-2001
+meu ;;2pl_a;2nd Person Plural;51462;;;;east2440;bowden-2001
+meu ;;2pl_s;2nd Person Plural;51461;;;;east2440;bowden-2001
+meu ;;2pl_o;2nd Person Plural;51460;;;;east2440;bowden-2001
+memeu ;;2pl_p;2nd Person Plural;51459;;;;east2440;bowden-2001
+i;;3sg_m_a;3rd Person Singular Masculine;51458;;;;east2440;bowden-2001
+i;;3sg_m_s;3rd Person Singular Masculine;51457;;;;east2440;bowden-2001
+i;;3sg_m_o;3rd Person Singular Masculine;51456;;;;east2440;bowden-2001
+ni ;;3sg_m_p;3rd Person Singular Masculine;51455;;;;east2440;bowden-2001
+i;;3sg_n_a;3rd Person Singular Neuter;51454;;;;east2440;bowden-2001
+i;;3sg_n_s;3rd Person Singular Neuter;51453;;;;east2440;bowden-2001
+i;;3sg_n_o;3rd Person Singular Neuter;51452;;;;east2440;bowden-2001
+ni ;;3sg_n_p;3rd Person Singular Neuter;51451;;;;east2440;bowden-2001
+si;;3d-a;3rd Person Dual;51450;;;;east2440;bowden-2001
+si;;3d-s;3rd Person Dual;51449;;;;east2440;bowden-2001
+si;;3d-o;3rd Person Dual;51448;;;;east2440;bowden-2001
+nidi ;;3d-p;3rd Person Dual;51447;;;;east2440;bowden-2001
+si;;3p-a;3rd Person Plural;51446;;;;east2440;bowden-2001
+si;;3p-s;3rd Person Plural;51445;;;;east2440;bowden-2001
+si;;3p-o;3rd Person Plural;51444;;;;east2440;bowden-2001
+nidi ;;3p-p;3rd Person Plural;51443;;;;east2440;bowden-2001

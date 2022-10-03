@@ -1,0 +1,49 @@
+word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
+ta;;1sg_a;1st (excl) Person Singular;52103;;;;trin1276;quesada-2000
+ta;;1sg_s;1st (excl) Person Singular;52102;;;;trin1276;quesada-2000
+bor;;1sg_o;1st (excl) Person Singular;52101;;;;trin1276;quesada-2000
+botoya;;1sg_p;1st (excl) Person Singular;52100;;;;trin1276;quesada-2000
+tawa;;1du_a;1st (excl) Person Dual;52099;;;;trin1276;quesada-2000
+tawa;;1du_s;1st (excl) Person Dual;52098;;;;trin1276;quesada-2000
+borwa;;1du_o;1st (excl) Person Dual;52097;;;;trin1276;quesada-2000
+borwatoy;;1du_p;1st (excl) Person Dual;52096;;;;trin1276;quesada-2000
+tawa;;1pl_a;1st (excl) Person Plural;52095;;;;trin1276;quesada-2000
+tawa;;1pl_s;1st (excl) Person Plural;52094;;;;trin1276;quesada-2000
+borwa;;1pl_o;1st (excl) Person Plural;52093;;;;trin1276;quesada-2000
+borwatoy;;1pl_p;1st (excl) Person Plural;52092;;;;trin1276;quesada-2000
+shi;;12du_a;1st (incl) Person Dual;52091;;;;trin1276;quesada-2000
+shi;;12du_s;1st (incl) Person Dual;52090;;;;trin1276;quesada-2000
+bi;;12du_o;1st (incl) Person Dual;52089;;;;trin1276;quesada-2000
+bishiya;;12du_p;1st (incl) Person Dual;52088;;;;trin1276;quesada-2000
+shi;;12pl_a;1st (incl) Person Plural;52087;;;;trin1276;quesada-2000
+shi;;12pl_s;1st (incl) Person Plural;52086;;;;trin1276;quesada-2000
+bi;;12pl_o;1st (incl) Person Plural;52085;;;;trin1276;quesada-2000
+bishiya;;12pl_p;1st (incl) Person Plural;52084;;;;trin1276;quesada-2000
+pa;;2sg_a;2nd Person Singular;52083;;;;trin1276;quesada-2000
+pa;;2sg_s;2nd Person Singular;52082;;;;trin1276;quesada-2000
+bop;;2sg_o;2nd Person Singular;52081;;;;trin1276;quesada-2000
+bopoya;;2sg_p;2nd Person Singular;52080;;;;trin1276;quesada-2000
+pãy;;2du_a;2nd Person Dual;52079;;;;trin1276;quesada-2000
+pãy;;2du_s;2nd Person Dual;52078;;;;trin1276;quesada-2000
+bomi;;2du_o;2nd Person Dual;52077;;;;trin1276;quesada-2000
+bomipoy;;2du_p;2nd Person Dual;52076;;;;trin1276;quesada-2000
+pãy;;2pl_a;2nd Person Plural;52075;;;;trin1276;quesada-2000
+pãy;;2pl_s;2nd Person Plural;52074;;;;trin1276;quesada-2000
+bomi;;2pl_o;2nd Person Plural;52073;;;;trin1276;quesada-2000
+bomipoy;;2pl_p;2nd Person Plural;52072;;;;trin1276;quesada-2000
+ba;;3sg_m_a;3rd Person Singular Masculine;52071;;;;trin1276;quesada-2000
+ba;;3sg_m_s;3rd Person Singular Masculine;52070;;;;trin1276;quesada-2000
+ba;;3sg_m_o;3rd Person Singular Masculine;52069;;;;trin1276;quesada-2000
+baĩya;;3sg_m_p;3rd Person Singular Masculine;52068;;;;trin1276;quesada-2000
+ba;;3sg_n_a;3rd Person Singular Neuter;52067;;;;trin1276;quesada-2000
+ba;;3sg_n_s;3rd Person Singular Neuter;52066;;;;trin1276;quesada-2000
+ba;;3sg_n_o;3rd Person Singular Neuter;52065;;;;trin1276;quesada-2000
+baĩya;;3sg_n_p;3rd Person Singular Neuter;52064;;;;trin1276;quesada-2000
+ebga;;3d-a;3rd Person Dual;52063;;;;trin1276;quesada-2000
+ebga;;3d-s;3rd Person Dual;52062;;;;trin1276;quesada-2000
+ba;;3d-o;3rd Person Dual;52061;;;;trin1276;quesada-2000
+baĩya lok;;3d-p;3rd Person Dual;52060;;;;trin1276;quesada-2000
+ebga;;3p-a;3rd Person Plural;52059;;;;trin1276;quesada-2000
+ebga;;3p-s;3rd Person Plural;52058;;;;trin1276;quesada-2000
+ba;;3p-o;3rd Person Plural;52057;;;;trin1276;quesada-2000
+baĩya lok;;3p-p;3rd Person Plural;52056;;;;trin1276;quesada-2000
