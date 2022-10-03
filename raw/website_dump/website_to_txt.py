@@ -168,10 +168,10 @@ def write_csv(filename, records):
         'comment', 'translation', 'glottocode', 'source'
     ]
 
-    with csvw.UnicodeWriter(filename, delimiter=";") as writer:
+    with csvw.UnicodeWriter(filename, delimiter=",") as writer:
         writer.writerow(header)
         for record in records:
-            writer.writerow([record[h] for h in header])
+            writer.writerow([record[h].strip() for h in header])
 
 
 
@@ -198,7 +198,7 @@ if __name__ == '__main__':
     # load languages from etc mapping (which has updated glottocodes etc)
     glottocodes = {}
     # ('ID', 'gapapaiwa'), ('LocalID', '357'), ('Name', 'Gapapaiwa'), ('Dialect', ''), ('ISO639P3code', 'pwg'), ('Glottocode', 'gapa1238')])
-    with csvw.UnicodeDictReader(RAW_DIR / '../etc/languages.tsv', delimiter="\t") as reader:
+    with csvw.UnicodeDictReader(RAW_DIR / '../../etc/languages.tsv', delimiter="\t") as reader:
         for row in reader:
             try:
                 pk = int(row['LocalID'])
@@ -210,7 +210,7 @@ if __name__ == '__main__':
 
     # load pronoun keys for sorting purposes below:
     pronoun_keys = {}
-    with csvw.UnicodeDictReader(RAW_DIR / '../etc/concepts.tsv', delimiter="\t") as reader:
+    with csvw.UnicodeDictReader(RAW_DIR / '../../etc/concepts.tsv', delimiter="\t") as reader:
         for row in reader:
             pronoun_keys[row['Slug']] = int(row['LocalID'])
 
@@ -222,7 +222,7 @@ if __name__ == '__main__':
     # Kulin', 'information': '', 'family': []}
     languages = {}
     for pk, fields in models['core.language'].items():
-        assert pk in glottocodes, 'LocalID: %s not in ../etc/languages.tsv' % pk
+        assert pk in glottocodes, 'LocalID: %s not in ../../etc/languages.tsv' % pk
         languages[pk] = {'slug': fields['slug'], 'language': fields['language'], 'dialect': fields['dialect']}
     
     
@@ -342,7 +342,7 @@ if __name__ == '__main__':
             'Comment': fields['comment'],
         })
     
-    header = ["ID", "LocalID", "Name", "Dialect", "Variant", "ISO639P3code", "Glottocode", "Analect", "Comment"]
+    header = ["ID", "LocalID", "Name", "Dialect", "Variant", "Filename", "ISO639P3code", "Glottocode", "Analect", "Comment"]
     with csvw.UnicodeWriter('languages.tmp', delimiter="\t") as writer:
         writer.writerow(header)
         for p in written_paradigms:
