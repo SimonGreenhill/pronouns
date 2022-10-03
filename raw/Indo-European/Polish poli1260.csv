@@ -1,85 +1,85 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ja;;1sg_a;1st (excl) Person Singular;26773;;;;poli1260;rothstein-1993
-ja;;1sg_s;1st (excl) Person Singular;26774;;;;poli1260;rothstein-1993
-mnię;;1sg_o;1st (excl) Person Singular;26775;;Corrected by T. Mark Ellison;;poli1260;rothstein-1993
-mój;;1sg_p;1st (excl) Person Singular;26776;;;;poli1260;rothstein-1993
-my;;1du_a;1st (excl) Person Dual;26777;;;;poli1260;rothstein-1993
-my;;1du_s;1st (excl) Person Dual;26778;;;;poli1260;rothstein-1993
-nas;;1du_o;1st (excl) Person Dual;26779;;;;poli1260;rothstein-1993
-nasz;;1du_p;1st (excl) Person Dual;26780;;;;poli1260;rothstein-1993
-my;;1pl_a;1st (excl) Person Plural;26781;;;;poli1260;rothstein-1993
-my;;1pl_s;1st (excl) Person Plural;26782;;;;poli1260;rothstein-1993
-nas;;1pl_o;1st (excl) Person Plural;26783;;;;poli1260;rothstein-1993
-nasz;;1pl_p;1st (excl) Person Plural;26784;;;;poli1260;rothstein-1993
-my;;12du_a;1st (incl) Person Dual;26785;;;;poli1260;rothstein-1993
-my;;12du_s;1st (incl) Person Dual;26786;;;;poli1260;rothstein-1993
-nas;;12du_o;1st (incl) Person Dual;26787;;;;poli1260;rothstein-1993
-nasz;;12du_p;1st (incl) Person Dual;26788;;;;poli1260;rothstein-1993
-my;;12pl_a;1st (incl) Person Plural;26789;;;;poli1260;rothstein-1993
-my;;12pl_s;1st (incl) Person Plural;26790;;;;poli1260;rothstein-1993
-nas;;12pl_o;1st (incl) Person Plural;26791;;;;poli1260;rothstein-1993
-nasz;;12pl_p;1st (incl) Person Plural;26792;;;;poli1260;rothstein-1993
-ty;;2sg_a;2nd Person Singular;26793;;;;poli1260;rothstein-1993
-ty;;2sg_s;2nd Person Singular;26794;;;;poli1260;rothstein-1993
-ciebie;;2sg_o;2nd Person Singular;26795;;;;poli1260;rothstein-1993
-twój;;2sg_p;2nd Person Singular;26796;;;;poli1260;rothstein-1993
-wy;;2du_a;2nd Person Dual;26797;;;;poli1260;rothstein-1993
-wy;;2du_s;2nd Person Dual;26798;;;;poli1260;rothstein-1993
-was;;2du_o;2nd Person Dual;26799;;;;poli1260;rothstein-1993
-wasz;;2du_p;2nd Person Dual;26800;;;;poli1260;rothstein-1993
-wy;;2pl_a;2nd Person Plural;26801;;;;poli1260;rothstein-1993
-wy;;2pl_s;2nd Person Plural;26802;;;;poli1260;rothstein-1993
-was;;2pl_o;2nd Person Plural;26803;;;;poli1260;rothstein-1993
-wasz;;2pl_p;2nd Person Plural;26804;;;;poli1260;rothstein-1993
-on;;3sg_m_a;3rd Person Singular Masculine;26805;;"on is masculine; ono is neuter; ona is feminine.";;poli1260;rothstein-1993
-on;;3sg_m_s;3rd Person Singular Masculine;26806;;"on is masculine; ono is neuter; ona is feminine.";;poli1260;rothstein-1993
-jego;;3sg_m_o;3rd Person Singular Masculine;26807;;"jego is the masculine emphatic form; nie is the neuter form; niã is the feminine form.";;poli1260;rothstein-1993
-jego;;3sg_m_p;3rd Person Singular Masculine;26808;;jego is the masculine and neuter form, jej is the feminine form.;;poli1260;rothstein-1993
-ona;;3sg_f_a;3rd Person Singular Feminine;26809;;;;poli1260;rothstein-1993
-ona;;3sg_f_s;3rd Person Singular Feminine;26810;;;;poli1260;rothstein-1993
-ją;;3sg_f_o;3rd Person Singular Feminine;26811;;;;poli1260;rothstein-1993
-ta;;3sg_f_p;3rd Person Singular Feminine;26812;;;;poli1260;rothstein-1993
-ono;;3sg_n_a;3rd Person Singular Neuter;26813;;"on is masculine; ono is neuter; ona is feminine.";;poli1260;rothstein-1993
-ono;;3sg_n_s;3rd Person Singular Neuter;26814;;"on is masculine; ono is neuter; ona is feminine.";;poli1260;rothstein-1993
-nie;;3sg_n_o;3rd Person Singular Neuter;26815;;"jego is the masculine emphatic form; nie is the neuter form; niã is the feminine form.";;poli1260;rothstein-1993
-jego;;3sg_n_p;3rd Person Singular Neuter;26816;;jego is the masculine and neuter form, jej is the feminine form.;;poli1260;rothstein-1993
-oni;;3du_m_a;3rd Person Dual Masculine;26817;;;;poli1260;rothstein-1993
-oni;;3du_m_s;3rd Person Dual Masculine;26818;;;;poli1260;rothstein-1993
-ich;;3du_m_o;3rd Person Dual Masculine;26819;;;;poli1260;rothstein-1993
-ci;;3du_m_p;3rd Person Dual Masculine;26820;;;;poli1260;rothstein-1993
-one;;3du_f_a;3rd Person Dual Feminine;26821;;;;poli1260;rothstein-1993
-one;;3du_f_s;3rd Person Dual Feminine;26822;;;;poli1260;rothstein-1993
-je;;3du_f_o;3rd Person Dual Feminine;26823;;;;poli1260;rothstein-1993
-te;;3du_f_p;3rd Person Dual Feminine;26824;;;;poli1260;rothstein-1993
-one;;3du_n_a;3rd Person Dual Neuter;26825;;;;poli1260;rothstein-1993
-one;;3du_n_s;3rd Person Dual Neuter;26826;;;;poli1260;rothstein-1993
-je;;3du_n_o;3rd Person Dual Neuter;26827;;;;poli1260;rothstein-1993
-te;;3du_n_p;3rd Person Dual Neuter;26828;;;;poli1260;rothstein-1993
-oni;;3pl_m_a;3rd Person Plural Masculine;26829;;;;poli1260;rothstein-1993
-oni;;3pl_m_s;3rd Person Plural Masculine;26830;;;;poli1260;rothstein-1993
-ich;;3pl_m_o;3rd Person Plural Masculine;26831;;;;poli1260;rothstein-1993
-ci;;3pl_m_p;3rd Person Plural Masculine;26832;;;;poli1260;rothstein-1993
-one;;3pl_f_a;3rd Person Plural Feminine;26833;;;;poli1260;rothstein-1993
-one;;3pl_f_s;3rd Person Plural Feminine;26834;;;;poli1260;rothstein-1993
-je;;3pl_f_o;3rd Person Plural Feminine;26835;;;;poli1260;rothstein-1993
-te;;3pl_f_p;3rd Person Plural Feminine;26836;;;;poli1260;rothstein-1993
-one;;3pl_n_a;3rd Person Plural Neuter;26837;;;;poli1260;rothstein-1993
-one;;3pl_n_s;3rd Person Plural Neuter;26838;;;;poli1260;rothstein-1993
-je;;3pl_n_o;3rd Person Plural Neuter;26839;;;;poli1260;rothstein-1993
-te;;3pl_n_p;3rd Person Plural Neuter;26840;;;;poli1260;rothstein-1993
-oni;;3d-a;3rd Person Dual;36275;;;;poli1260;rothstein-1993
-one;;3d-a;3rd Person Dual;36276;;;;poli1260;rothstein-1993
-oni;;3d-s;3rd Person Dual;36495;;;;poli1260;rothstein-1993
-one;;3d-s;3rd Person Dual;36496;;;;poli1260;rothstein-1993
-ich;;3d-o;3rd Person Dual;36723;;;;poli1260;rothstein-1993
-je;;3d-o;3rd Person Dual;36724;;;;poli1260;rothstein-1993
-ich;;3d-p;3rd Person Dual;36938;;;;poli1260;rothstein-1993
-ich;;3d-p;3rd Person Dual;36939;;;;poli1260;rothstein-1993
-oni;;3p-a;3rd Person Plural;37155;;;;poli1260;rothstein-1993
-one;;3p-a;3rd Person Plural;37156;;;;poli1260;rothstein-1993
-oni;;3p-s;3rd Person Plural;37376;;;;poli1260;rothstein-1993
-one;;3p-s;3rd Person Plural;37377;;;;poli1260;rothstein-1993
-ich;;3p-o;3rd Person Plural;37603;;;;poli1260;rothstein-1993
-je;;3p-o;3rd Person Plural;37604;;;;poli1260;rothstein-1993
-ich;;3p-p;3rd Person Plural;37817;;;;poli1260;rothstein-1993
-ich;;3p-p;3rd Person Plural;37818;;;;poli1260;rothstein-1993
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ja,,1sg_a,1st (excl) Person Singular,26773,,,,poli1260,rothstein-1993
+ja,,1sg_s,1st (excl) Person Singular,26774,,,,poli1260,rothstein-1993
+mnię,,1sg_o,1st (excl) Person Singular,26775,,Corrected by T. Mark Ellison,,poli1260,rothstein-1993
+mój,,1sg_p,1st (excl) Person Singular,26776,,,,poli1260,rothstein-1993
+my,,1du_a,1st (excl) Person Dual,26777,,,,poli1260,rothstein-1993
+my,,1du_s,1st (excl) Person Dual,26778,,,,poli1260,rothstein-1993
+nas,,1du_o,1st (excl) Person Dual,26779,,,,poli1260,rothstein-1993
+nasz,,1du_p,1st (excl) Person Dual,26780,,,,poli1260,rothstein-1993
+my,,1pl_a,1st (excl) Person Plural,26781,,,,poli1260,rothstein-1993
+my,,1pl_s,1st (excl) Person Plural,26782,,,,poli1260,rothstein-1993
+nas,,1pl_o,1st (excl) Person Plural,26783,,,,poli1260,rothstein-1993
+nasz,,1pl_p,1st (excl) Person Plural,26784,,,,poli1260,rothstein-1993
+my,,12du_a,1st (incl) Person Dual,26785,,,,poli1260,rothstein-1993
+my,,12du_s,1st (incl) Person Dual,26786,,,,poli1260,rothstein-1993
+nas,,12du_o,1st (incl) Person Dual,26787,,,,poli1260,rothstein-1993
+nasz,,12du_p,1st (incl) Person Dual,26788,,,,poli1260,rothstein-1993
+my,,12pl_a,1st (incl) Person Plural,26789,,,,poli1260,rothstein-1993
+my,,12pl_s,1st (incl) Person Plural,26790,,,,poli1260,rothstein-1993
+nas,,12pl_o,1st (incl) Person Plural,26791,,,,poli1260,rothstein-1993
+nasz,,12pl_p,1st (incl) Person Plural,26792,,,,poli1260,rothstein-1993
+ty,,2sg_a,2nd Person Singular,26793,,,,poli1260,rothstein-1993
+ty,,2sg_s,2nd Person Singular,26794,,,,poli1260,rothstein-1993
+ciebie,,2sg_o,2nd Person Singular,26795,,,,poli1260,rothstein-1993
+twój,,2sg_p,2nd Person Singular,26796,,,,poli1260,rothstein-1993
+wy,,2du_a,2nd Person Dual,26797,,,,poli1260,rothstein-1993
+wy,,2du_s,2nd Person Dual,26798,,,,poli1260,rothstein-1993
+was,,2du_o,2nd Person Dual,26799,,,,poli1260,rothstein-1993
+wasz,,2du_p,2nd Person Dual,26800,,,,poli1260,rothstein-1993
+wy,,2pl_a,2nd Person Plural,26801,,,,poli1260,rothstein-1993
+wy,,2pl_s,2nd Person Plural,26802,,,,poli1260,rothstein-1993
+was,,2pl_o,2nd Person Plural,26803,,,,poli1260,rothstein-1993
+wasz,,2pl_p,2nd Person Plural,26804,,,,poli1260,rothstein-1993
+on,,3sg_m_a,3rd Person Singular Masculine,26805,,on is masculine; ono is neuter; ona is feminine.,,poli1260,rothstein-1993
+on,,3sg_m_s,3rd Person Singular Masculine,26806,,on is masculine; ono is neuter; ona is feminine.,,poli1260,rothstein-1993
+jego,,3sg_m_o,3rd Person Singular Masculine,26807,,jego is the masculine emphatic form; nie is the neuter form; niã is the feminine form.,,poli1260,rothstein-1993
+jego,,3sg_m_p,3rd Person Singular Masculine,26808,,"jego is the masculine and neuter form, jej is the feminine form.",,poli1260,rothstein-1993
+ona,,3sg_f_a,3rd Person Singular Feminine,26809,,,,poli1260,rothstein-1993
+ona,,3sg_f_s,3rd Person Singular Feminine,26810,,,,poli1260,rothstein-1993
+ją,,3sg_f_o,3rd Person Singular Feminine,26811,,,,poli1260,rothstein-1993
+ta,,3sg_f_p,3rd Person Singular Feminine,26812,,,,poli1260,rothstein-1993
+ono,,3sg_n_a,3rd Person Singular Neuter,26813,,on is masculine; ono is neuter; ona is feminine.,,poli1260,rothstein-1993
+ono,,3sg_n_s,3rd Person Singular Neuter,26814,,on is masculine; ono is neuter; ona is feminine.,,poli1260,rothstein-1993
+nie,,3sg_n_o,3rd Person Singular Neuter,26815,,jego is the masculine emphatic form; nie is the neuter form; niã is the feminine form.,,poli1260,rothstein-1993
+jego,,3sg_n_p,3rd Person Singular Neuter,26816,,"jego is the masculine and neuter form, jej is the feminine form.",,poli1260,rothstein-1993
+oni,,3du_m_a,3rd Person Dual Masculine,26817,,,,poli1260,rothstein-1993
+oni,,3du_m_s,3rd Person Dual Masculine,26818,,,,poli1260,rothstein-1993
+ich,,3du_m_o,3rd Person Dual Masculine,26819,,,,poli1260,rothstein-1993
+ci,,3du_m_p,3rd Person Dual Masculine,26820,,,,poli1260,rothstein-1993
+one,,3du_f_a,3rd Person Dual Feminine,26821,,,,poli1260,rothstein-1993
+one,,3du_f_s,3rd Person Dual Feminine,26822,,,,poli1260,rothstein-1993
+je,,3du_f_o,3rd Person Dual Feminine,26823,,,,poli1260,rothstein-1993
+te,,3du_f_p,3rd Person Dual Feminine,26824,,,,poli1260,rothstein-1993
+one,,3du_n_a,3rd Person Dual Neuter,26825,,,,poli1260,rothstein-1993
+one,,3du_n_s,3rd Person Dual Neuter,26826,,,,poli1260,rothstein-1993
+je,,3du_n_o,3rd Person Dual Neuter,26827,,,,poli1260,rothstein-1993
+te,,3du_n_p,3rd Person Dual Neuter,26828,,,,poli1260,rothstein-1993
+oni,,3pl_m_a,3rd Person Plural Masculine,26829,,,,poli1260,rothstein-1993
+oni,,3pl_m_s,3rd Person Plural Masculine,26830,,,,poli1260,rothstein-1993
+ich,,3pl_m_o,3rd Person Plural Masculine,26831,,,,poli1260,rothstein-1993
+ci,,3pl_m_p,3rd Person Plural Masculine,26832,,,,poli1260,rothstein-1993
+one,,3pl_f_a,3rd Person Plural Feminine,26833,,,,poli1260,rothstein-1993
+one,,3pl_f_s,3rd Person Plural Feminine,26834,,,,poli1260,rothstein-1993
+je,,3pl_f_o,3rd Person Plural Feminine,26835,,,,poli1260,rothstein-1993
+te,,3pl_f_p,3rd Person Plural Feminine,26836,,,,poli1260,rothstein-1993
+one,,3pl_n_a,3rd Person Plural Neuter,26837,,,,poli1260,rothstein-1993
+one,,3pl_n_s,3rd Person Plural Neuter,26838,,,,poli1260,rothstein-1993
+je,,3pl_n_o,3rd Person Plural Neuter,26839,,,,poli1260,rothstein-1993
+te,,3pl_n_p,3rd Person Plural Neuter,26840,,,,poli1260,rothstein-1993
+oni,,3d-a,3rd Person Dual,36275,,,,poli1260,rothstein-1993
+one,,3d-a,3rd Person Dual,36276,,,,poli1260,rothstein-1993
+oni,,3d-s,3rd Person Dual,36495,,,,poli1260,rothstein-1993
+one,,3d-s,3rd Person Dual,36496,,,,poli1260,rothstein-1993
+ich,,3d-o,3rd Person Dual,36723,,,,poli1260,rothstein-1993
+je,,3d-o,3rd Person Dual,36724,,,,poli1260,rothstein-1993
+ich,,3d-p,3rd Person Dual,36938,,,,poli1260,rothstein-1993
+ich,,3d-p,3rd Person Dual,36939,,,,poli1260,rothstein-1993
+oni,,3p-a,3rd Person Plural,37155,,,,poli1260,rothstein-1993
+one,,3p-a,3rd Person Plural,37156,,,,poli1260,rothstein-1993
+oni,,3p-s,3rd Person Plural,37376,,,,poli1260,rothstein-1993
+one,,3p-s,3rd Person Plural,37377,,,,poli1260,rothstein-1993
+ich,,3p-o,3rd Person Plural,37603,,,,poli1260,rothstein-1993
+je,,3p-o,3rd Person Plural,37604,,,,poli1260,rothstein-1993
+ich,,3p-p,3rd Person Plural,37817,,,,poli1260,rothstein-1993
+ich,,3p-p,3rd Person Plural,37818,,,,poli1260,rothstein-1993

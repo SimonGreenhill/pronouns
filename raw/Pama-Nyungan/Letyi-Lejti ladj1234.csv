@@ -1,14 +1,14 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-yeti;;1sg_a;1st (excl) Person Singular;62001;;;;ladj1234;blake-et-al-2011
-yewa;;1sg_s;1st (excl) Person Singular;62000;;;;ladj1234;blake-et-al-2011
-yetwa;;1sg_o;1st (excl) Person Singular;61999;;;;ladj1234;blake-et-al-2011
-ngalangali, ngali;;1du_a;1st (excl) Person Dual;61998;;;;ladj1234;blake-et-al-2011
-yangwa;;1pl_s;1st (excl) Person Plural;61997;;;;ladj1234;blake-et-al-2011
-ngalangali, ngali;;12du_a;1st (incl) Person Dual;61996;;;;ladj1234;blake-et-al-2011
-yangwa;;12pl_s;1st (incl) Person Plural;61995;;;;ladj1234;blake-et-al-2011
-ngini;;2sg_a;2nd Person Singular;61994;;;;ladj1234;blake-et-al-2011
-nginwa;;2sg_s;2nd Person Singular;61993;;;;ladj1234;blake-et-al-2011
-wulang;;2du_a;2nd Person Dual;61992;;;;ladj1234;blake-et-al-2011
-nhinyala;;3sg_m_a;3rd Person Singular Masculine;61991;;;;ladj1234;blake-et-al-2011
-bulang;;3d-a;3rd Person Dual;61990;;;;ladj1234;blake-et-al-2011
-wuthu;;3p-a;3rd Person Plural;61989;;;;ladj1234;blake-et-al-2011
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+yeti,,1sg_a,1st (excl) Person Singular,62001,,,,ladj1234,blake-et-al-2011
+yewa,,1sg_s,1st (excl) Person Singular,62000,,,,ladj1234,blake-et-al-2011
+yetwa,,1sg_o,1st (excl) Person Singular,61999,,,,ladj1234,blake-et-al-2011
+"ngalangali, ngali",,1du_a,1st (excl) Person Dual,61998,,,,ladj1234,blake-et-al-2011
+yangwa,,1pl_s,1st (excl) Person Plural,61997,,,,ladj1234,blake-et-al-2011
+"ngalangali, ngali",,12du_a,1st (incl) Person Dual,61996,,,,ladj1234,blake-et-al-2011
+yangwa,,12pl_s,1st (incl) Person Plural,61995,,,,ladj1234,blake-et-al-2011
+ngini,,2sg_a,2nd Person Singular,61994,,,,ladj1234,blake-et-al-2011
+nginwa,,2sg_s,2nd Person Singular,61993,,,,ladj1234,blake-et-al-2011
+wulang,,2du_a,2nd Person Dual,61992,,,,ladj1234,blake-et-al-2011
+nhinyala,,3sg_m_a,3rd Person Singular Masculine,61991,,,,ladj1234,blake-et-al-2011
+bulang,,3d-a,3rd Person Dual,61990,,,,ladj1234,blake-et-al-2011
+wuthu,,3p-a,3rd Person Plural,61989,,,,ladj1234,blake-et-al-2011

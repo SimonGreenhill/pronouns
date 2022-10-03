@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ṇúɑ;;1sg_a;1st (excl) Person Singular;52854;;;;curr1243;mosonyi-2000
-ṇúɑ;;1sg_s;1st (excl) Person Singular;52853;;;;curr1243;mosonyi-2000
-ṇúɑ;;1sg_o;1st (excl) Person Singular;52852;;;;curr1243;mosonyi-2000
--nu;;1sg_p;1st (excl) Person Singular;52851;;;;curr1243;mosonyi-2000
-ẉɑ́ɑ;;1du_a;1st (excl) Person Dual;52850;;;;curr1243;mosonyi-2000
-ẉɑ́ɑ;;1du_s;1st (excl) Person Dual;52849;;;;curr1243;mosonyi-2000
-ẉɑ́ɑ;;1du_o;1st (excl) Person Dual;52848;;;;curr1243;mosonyi-2000
--wa;;1du_p;1st (excl) Person Dual;52847;;;;curr1243;mosonyi-2000
-ẉɑ́ɑ;;1pl_a;1st (excl) Person Plural;52846;;;;curr1243;mosonyi-2000
-ẉɑ́ɑ;;1pl_s;1st (excl) Person Plural;52845;;;;curr1243;mosonyi-2000
-ẉɑ́ɑ;;1pl_o;1st (excl) Person Plural;52844;;;;curr1243;mosonyi-2000
--wa;;1pl_p;1st (excl) Person Plural;52843;;;;curr1243;mosonyi-2000
-ẉɑ́ɑ;;12du_a;1st (incl) Person Dual;52842;;;;curr1243;mosonyi-2000
-ẉɑ́ɑ;;12du_s;1st (incl) Person Dual;52841;;;;curr1243;mosonyi-2000
-ẉɑ́ɑ;;12du_o;1st (incl) Person Dual;52840;;;;curr1243;mosonyi-2000
--wa;;12du_p;1st (incl) Person Dual;52839;;;;curr1243;mosonyi-2000
-ẉɑ́ɑ;;12pl_a;1st (incl) Person Plural;52838;;;;curr1243;mosonyi-2000
-ẉɑ́ɑ;;12pl_s;1st (incl) Person Plural;52837;;;;curr1243;mosonyi-2000
-ẉɑ́ɑ;;12pl_o;1st (incl) Person Plural;52836;;;;curr1243;mosonyi-2000
--wa;;12pl_p;1st (incl) Person Plural;52835;;;;curr1243;mosonyi-2000
-pʰiɑ;;2sg_a;2nd Person Singular;52834;;;;curr1243;mosonyi-2000
-pʰiɑ;;2sg_s;2nd Person Singular;52833;;;;curr1243;mosonyi-2000
-pʰiɑ;;2sg_o;2nd Person Singular;52832;;;;curr1243;mosonyi-2000
--pi;;2sg_p;2nd Person Singular;52831;;;;curr1243;mosonyi-2000
-ʃɑ́ɑ;;2du_a;2nd Person Dual;52830;;;;curr1243;mosonyi-2000
-ʃɑ́ɑ;;2du_s;2nd Person Dual;52829;;;;curr1243;mosonyi-2000
-ʃɑ́ɑ;;2du_o;2nd Person Dual;52828;;;;curr1243;mosonyi-2000
--i;;2du_p;2nd Person Dual;52827;;;;curr1243;mosonyi-2000
-ʃɑ́ɑ;;2pl_a;2nd Person Plural;52826;;;;curr1243;mosonyi-2000
-ʃɑ́ɑ;;2pl_s;2nd Person Plural;52825;;;;curr1243;mosonyi-2000
-ʃɑ́ɑ;;2pl_o;2nd Person Plural;52824;;;;curr1243;mosonyi-2000
--i;;2pl_p;2nd Person Plural;52823;;;;curr1243;mosonyi-2000
-hiȴiɑ;;3sg_m_a;3rd Person Singular Masculine;52822;;;;curr1243;mosonyi-2000
-hiȴiɑ;;3sg_m_s;3rd Person Singular Masculine;52821;;;;curr1243;mosonyi-2000
-hiȴiɑ;;3sg_m_o;3rd Person Singular Masculine;52820;;;;curr1243;mosonyi-2000
-li-, -i ;;3sg_m_p;3rd Person Singular Masculine;52819;;;;curr1243;mosonyi-2000
-srúɑ;;3sg_n_a;3rd Person Singular Neuter;52818;;;;curr1243;mosonyi-2000
-srúɑ;;3sg_n_s;3rd Person Singular Neuter;52817;;;;curr1243;mosonyi-2000
-srúɑ;;3sg_n_o;3rd Person Singular Neuter;52816;;;;curr1243;mosonyi-2000
-i-, rru;;3sg_n_p;3rd Person Singular Neuter;52815;;;;curr1243;mosonyi-2000
-nɑ́ɑ;;3d-a;3rd Person Dual;52814;;;;curr1243;mosonyi-2000
-nɑ́ɑ;;3d-s;3rd Person Dual;52813;;;;curr1243;mosonyi-2000
-nɑ́ɑ;;3d-o;3rd Person Dual;52812;;;;curr1243;mosonyi-2000
-i-,nɑ-, pɑ-;;3d-p;3rd Person Dual;52811;;;;curr1243;mosonyi-2000
-nɑ́ɑ;;3p-a;3rd Person Plural;52810;;;;curr1243;mosonyi-2000
-nɑ́ɑ;;3p-s;3rd Person Plural;52809;;;;curr1243;mosonyi-2000
-nɑ́ɑ;;3p-o;3rd Person Plural;52808;;;;curr1243;mosonyi-2000
-i-,nɑ-, pɑ-;;3p-p;3rd Person Plural;52807;;;;curr1243;mosonyi-2000
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ṇúɑ,,1sg_a,1st (excl) Person Singular,52854,,,,curr1243,mosonyi-2000
+ṇúɑ,,1sg_s,1st (excl) Person Singular,52853,,,,curr1243,mosonyi-2000
+ṇúɑ,,1sg_o,1st (excl) Person Singular,52852,,,,curr1243,mosonyi-2000
+-nu,,1sg_p,1st (excl) Person Singular,52851,,,,curr1243,mosonyi-2000
+ẉɑ́ɑ,,1du_a,1st (excl) Person Dual,52850,,,,curr1243,mosonyi-2000
+ẉɑ́ɑ,,1du_s,1st (excl) Person Dual,52849,,,,curr1243,mosonyi-2000
+ẉɑ́ɑ,,1du_o,1st (excl) Person Dual,52848,,,,curr1243,mosonyi-2000
+-wa,,1du_p,1st (excl) Person Dual,52847,,,,curr1243,mosonyi-2000
+ẉɑ́ɑ,,1pl_a,1st (excl) Person Plural,52846,,,,curr1243,mosonyi-2000
+ẉɑ́ɑ,,1pl_s,1st (excl) Person Plural,52845,,,,curr1243,mosonyi-2000
+ẉɑ́ɑ,,1pl_o,1st (excl) Person Plural,52844,,,,curr1243,mosonyi-2000
+-wa,,1pl_p,1st (excl) Person Plural,52843,,,,curr1243,mosonyi-2000
+ẉɑ́ɑ,,12du_a,1st (incl) Person Dual,52842,,,,curr1243,mosonyi-2000
+ẉɑ́ɑ,,12du_s,1st (incl) Person Dual,52841,,,,curr1243,mosonyi-2000
+ẉɑ́ɑ,,12du_o,1st (incl) Person Dual,52840,,,,curr1243,mosonyi-2000
+-wa,,12du_p,1st (incl) Person Dual,52839,,,,curr1243,mosonyi-2000
+ẉɑ́ɑ,,12pl_a,1st (incl) Person Plural,52838,,,,curr1243,mosonyi-2000
+ẉɑ́ɑ,,12pl_s,1st (incl) Person Plural,52837,,,,curr1243,mosonyi-2000
+ẉɑ́ɑ,,12pl_o,1st (incl) Person Plural,52836,,,,curr1243,mosonyi-2000
+-wa,,12pl_p,1st (incl) Person Plural,52835,,,,curr1243,mosonyi-2000
+pʰiɑ,,2sg_a,2nd Person Singular,52834,,,,curr1243,mosonyi-2000
+pʰiɑ,,2sg_s,2nd Person Singular,52833,,,,curr1243,mosonyi-2000
+pʰiɑ,,2sg_o,2nd Person Singular,52832,,,,curr1243,mosonyi-2000
+-pi,,2sg_p,2nd Person Singular,52831,,,,curr1243,mosonyi-2000
+ʃɑ́ɑ,,2du_a,2nd Person Dual,52830,,,,curr1243,mosonyi-2000
+ʃɑ́ɑ,,2du_s,2nd Person Dual,52829,,,,curr1243,mosonyi-2000
+ʃɑ́ɑ,,2du_o,2nd Person Dual,52828,,,,curr1243,mosonyi-2000
+-i,,2du_p,2nd Person Dual,52827,,,,curr1243,mosonyi-2000
+ʃɑ́ɑ,,2pl_a,2nd Person Plural,52826,,,,curr1243,mosonyi-2000
+ʃɑ́ɑ,,2pl_s,2nd Person Plural,52825,,,,curr1243,mosonyi-2000
+ʃɑ́ɑ,,2pl_o,2nd Person Plural,52824,,,,curr1243,mosonyi-2000
+-i,,2pl_p,2nd Person Plural,52823,,,,curr1243,mosonyi-2000
+hiȴiɑ,,3sg_m_a,3rd Person Singular Masculine,52822,,,,curr1243,mosonyi-2000
+hiȴiɑ,,3sg_m_s,3rd Person Singular Masculine,52821,,,,curr1243,mosonyi-2000
+hiȴiɑ,,3sg_m_o,3rd Person Singular Masculine,52820,,,,curr1243,mosonyi-2000
+"li-, -i",,3sg_m_p,3rd Person Singular Masculine,52819,,,,curr1243,mosonyi-2000
+srúɑ,,3sg_n_a,3rd Person Singular Neuter,52818,,,,curr1243,mosonyi-2000
+srúɑ,,3sg_n_s,3rd Person Singular Neuter,52817,,,,curr1243,mosonyi-2000
+srúɑ,,3sg_n_o,3rd Person Singular Neuter,52816,,,,curr1243,mosonyi-2000
+"i-, rru",,3sg_n_p,3rd Person Singular Neuter,52815,,,,curr1243,mosonyi-2000
+nɑ́ɑ,,3d-a,3rd Person Dual,52814,,,,curr1243,mosonyi-2000
+nɑ́ɑ,,3d-s,3rd Person Dual,52813,,,,curr1243,mosonyi-2000
+nɑ́ɑ,,3d-o,3rd Person Dual,52812,,,,curr1243,mosonyi-2000
+"i-,nɑ-, pɑ-",,3d-p,3rd Person Dual,52811,,,,curr1243,mosonyi-2000
+nɑ́ɑ,,3p-a,3rd Person Plural,52810,,,,curr1243,mosonyi-2000
+nɑ́ɑ,,3p-s,3rd Person Plural,52809,,,,curr1243,mosonyi-2000
+nɑ́ɑ,,3p-o,3rd Person Plural,52808,,,,curr1243,mosonyi-2000
+"i-,nɑ-, pɑ-",,3p-p,3rd Person Plural,52807,,,,curr1243,mosonyi-2000

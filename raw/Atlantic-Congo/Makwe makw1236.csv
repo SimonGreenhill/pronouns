@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-míipa;;1sg_a;1st (excl) Person Singular;57584;;;;makw1236;devos-2008
-míipa;;1sg_s;1st (excl) Person Singular;57583;;;;makw1236;devos-2008
-míipa;;1sg_o;1st (excl) Person Singular;57582;;;;makw1236;devos-2008
--ŋgu;;1sg_p;1st (excl) Person Singular;57581;;;;makw1236;devos-2008
-wéepa;;1du_a;1st (excl) Person Dual;57580;;;;makw1236;devos-2008
-wéepa;;1du_s;1st (excl) Person Dual;57579;;;;makw1236;devos-2008
-wéepa;;1du_o;1st (excl) Person Dual;57578;;;;makw1236;devos-2008
--etu;;1du_p;1st (excl) Person Dual;57577;;;;makw1236;devos-2008
-wéepa;;1pl_a;1st (excl) Person Plural;57576;;;;makw1236;devos-2008
-wéepa;;1pl_s;1st (excl) Person Plural;57575;;;;makw1236;devos-2008
-wéepa;;1pl_o;1st (excl) Person Plural;57574;;;;makw1236;devos-2008
--etu;;1pl_p;1st (excl) Person Plural;57573;;;;makw1236;devos-2008
-wéepa;;12du_a;1st (incl) Person Dual;57572;;;;makw1236;devos-2008
-wéepa;;12du_s;1st (incl) Person Dual;57571;;;;makw1236;devos-2008
-wéepa;;12du_o;1st (incl) Person Dual;57570;;;;makw1236;devos-2008
--etu;;12du_p;1st (incl) Person Dual;57569;;;;makw1236;devos-2008
-wéepa;;12pl_a;1st (incl) Person Plural;57568;;;;makw1236;devos-2008
-wéepa;;12pl_s;1st (incl) Person Plural;57567;;;;makw1236;devos-2008
-wéepa;;12pl_o;1st (incl) Person Plural;57566;;;;makw1236;devos-2008
--etu;;12pl_p;1st (incl) Person Plural;57565;;;;makw1236;devos-2008
-wéepo;;2sg_a;2nd Person Singular;57564;;;;makw1236;devos-2008
-wéepo;;2sg_s;2nd Person Singular;57563;;;;makw1236;devos-2008
-wéepo;;2sg_o;2nd Person Singular;57562;;;;makw1236;devos-2008
--ko;;2sg_p;2nd Person Singular;57561;;;;makw1236;devos-2008
-mwéepo;;2du_a;2nd Person Dual;57560;;;;makw1236;devos-2008
-mwéepo;;2du_s;2nd Person Dual;57559;;;;makw1236;devos-2008
-mwéepo;;2du_o;2nd Person Dual;57558;;;;makw1236;devos-2008
--enu;;2du_p;2nd Person Dual;57557;;;;makw1236;devos-2008
-mwéepo;;2pl_a;2nd Person Plural;57556;;;;makw1236;devos-2008
-mwéepo;;2pl_s;2nd Person Plural;57555;;;;makw1236;devos-2008
-mwéepo;;2pl_o;2nd Person Plural;57554;;;;makw1236;devos-2008
--enu;;2pl_p;2nd Person Plural;57553;;;;makw1236;devos-2008
-náame;;3sg_m_a;3rd Person Singular Masculine;57552;;;;makw1236;devos-2008
-náame;;3sg_m_s;3rd Person Singular Masculine;57551;;;;makw1236;devos-2008
-náame;;3sg_m_o;3rd Person Singular Masculine;57550;;;;makw1236;devos-2008
--ke;;3sg_m_p;3rd Person Singular Masculine;57549;;;;makw1236;devos-2008
-unáamo;;3sg_n_a;3rd Person Singular Neuter;57548;;;;makw1236;devos-2008
-unáamo;;3sg_n_s;3rd Person Singular Neuter;57547;;;;makw1236;devos-2008
-unáamo;;3sg_n_o;3rd Person Singular Neuter;57546;;;;makw1236;devos-2008
--ke;;3sg_n_p;3rd Person Singular Neuter;57545;;;;makw1236;devos-2008
-unáamo;;3d-a;3rd Person Dual;57544;;;;makw1236;devos-2008
-unáamo;;3d-s;3rd Person Dual;57543;;;;makw1236;devos-2008
-unáamo;;3d-o;3rd Person Dual;57542;;;;makw1236;devos-2008
--o;;3d-p;3rd Person Dual;57541;;;;makw1236;devos-2008
-unáamo;;3p-a;3rd Person Plural;57540;;;;makw1236;devos-2008
-unáamo;;3p-s;3rd Person Plural;57539;;;;makw1236;devos-2008
-unáamo;;3p-o;3rd Person Plural;57538;;;;makw1236;devos-2008
--o;;3p-p;3rd Person Plural;57537;;;;makw1236;devos-2008
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+míipa,,1sg_a,1st (excl) Person Singular,57584,,,,makw1236,devos-2008
+míipa,,1sg_s,1st (excl) Person Singular,57583,,,,makw1236,devos-2008
+míipa,,1sg_o,1st (excl) Person Singular,57582,,,,makw1236,devos-2008
+-ŋgu,,1sg_p,1st (excl) Person Singular,57581,,,,makw1236,devos-2008
+wéepa,,1du_a,1st (excl) Person Dual,57580,,,,makw1236,devos-2008
+wéepa,,1du_s,1st (excl) Person Dual,57579,,,,makw1236,devos-2008
+wéepa,,1du_o,1st (excl) Person Dual,57578,,,,makw1236,devos-2008
+-etu,,1du_p,1st (excl) Person Dual,57577,,,,makw1236,devos-2008
+wéepa,,1pl_a,1st (excl) Person Plural,57576,,,,makw1236,devos-2008
+wéepa,,1pl_s,1st (excl) Person Plural,57575,,,,makw1236,devos-2008
+wéepa,,1pl_o,1st (excl) Person Plural,57574,,,,makw1236,devos-2008
+-etu,,1pl_p,1st (excl) Person Plural,57573,,,,makw1236,devos-2008
+wéepa,,12du_a,1st (incl) Person Dual,57572,,,,makw1236,devos-2008
+wéepa,,12du_s,1st (incl) Person Dual,57571,,,,makw1236,devos-2008
+wéepa,,12du_o,1st (incl) Person Dual,57570,,,,makw1236,devos-2008
+-etu,,12du_p,1st (incl) Person Dual,57569,,,,makw1236,devos-2008
+wéepa,,12pl_a,1st (incl) Person Plural,57568,,,,makw1236,devos-2008
+wéepa,,12pl_s,1st (incl) Person Plural,57567,,,,makw1236,devos-2008
+wéepa,,12pl_o,1st (incl) Person Plural,57566,,,,makw1236,devos-2008
+-etu,,12pl_p,1st (incl) Person Plural,57565,,,,makw1236,devos-2008
+wéepo,,2sg_a,2nd Person Singular,57564,,,,makw1236,devos-2008
+wéepo,,2sg_s,2nd Person Singular,57563,,,,makw1236,devos-2008
+wéepo,,2sg_o,2nd Person Singular,57562,,,,makw1236,devos-2008
+-ko,,2sg_p,2nd Person Singular,57561,,,,makw1236,devos-2008
+mwéepo,,2du_a,2nd Person Dual,57560,,,,makw1236,devos-2008
+mwéepo,,2du_s,2nd Person Dual,57559,,,,makw1236,devos-2008
+mwéepo,,2du_o,2nd Person Dual,57558,,,,makw1236,devos-2008
+-enu,,2du_p,2nd Person Dual,57557,,,,makw1236,devos-2008
+mwéepo,,2pl_a,2nd Person Plural,57556,,,,makw1236,devos-2008
+mwéepo,,2pl_s,2nd Person Plural,57555,,,,makw1236,devos-2008
+mwéepo,,2pl_o,2nd Person Plural,57554,,,,makw1236,devos-2008
+-enu,,2pl_p,2nd Person Plural,57553,,,,makw1236,devos-2008
+náame,,3sg_m_a,3rd Person Singular Masculine,57552,,,,makw1236,devos-2008
+náame,,3sg_m_s,3rd Person Singular Masculine,57551,,,,makw1236,devos-2008
+náame,,3sg_m_o,3rd Person Singular Masculine,57550,,,,makw1236,devos-2008
+-ke,,3sg_m_p,3rd Person Singular Masculine,57549,,,,makw1236,devos-2008
+unáamo,,3sg_n_a,3rd Person Singular Neuter,57548,,,,makw1236,devos-2008
+unáamo,,3sg_n_s,3rd Person Singular Neuter,57547,,,,makw1236,devos-2008
+unáamo,,3sg_n_o,3rd Person Singular Neuter,57546,,,,makw1236,devos-2008
+-ke,,3sg_n_p,3rd Person Singular Neuter,57545,,,,makw1236,devos-2008
+unáamo,,3d-a,3rd Person Dual,57544,,,,makw1236,devos-2008
+unáamo,,3d-s,3rd Person Dual,57543,,,,makw1236,devos-2008
+unáamo,,3d-o,3rd Person Dual,57542,,,,makw1236,devos-2008
+-o,,3d-p,3rd Person Dual,57541,,,,makw1236,devos-2008
+unáamo,,3p-a,3rd Person Plural,57540,,,,makw1236,devos-2008
+unáamo,,3p-s,3rd Person Plural,57539,,,,makw1236,devos-2008
+unáamo,,3p-o,3rd Person Plural,57538,,,,makw1236,devos-2008
+-o,,3p-p,3rd Person Plural,57537,,,,makw1236,devos-2008

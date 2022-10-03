@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-knjom ;;1sg_a;1st (excl) Person Singular;45542;;;;cent1989;haiman-2011
-knjom ;;1sg_s;1st (excl) Person Singular;45541;;;;cent1989;haiman-2011
-knjom ;;1sg_o;1st (excl) Person Singular;45540;;;;cent1989;haiman-2011
-knjom ;;1sg_p;1st (excl) Person Singular;45539;;;;cent1989;haiman-2011
-knjom ;;1du_a;1st (excl) Person Dual;45538;;;;cent1989;haiman-2011
-knjom ;;1du_s;1st (excl) Person Dual;45537;;;;cent1989;haiman-2011
-knjom ;;1du_o;1st (excl) Person Dual;45536;;;;cent1989;haiman-2011
-knjom ;;1du_p;1st (excl) Person Dual;45535;;;;cent1989;haiman-2011
-knjom ;;1pl_a;1st (excl) Person Plural;45534;;;;cent1989;haiman-2011
-knjom ;;1pl_s;1st (excl) Person Plural;45533;;;;cent1989;haiman-2011
-knjom ;;1pl_o;1st (excl) Person Plural;45532;;;;cent1989;haiman-2011
-knjom ;;1pl_p;1st (excl) Person Plural;45531;;;;cent1989;haiman-2011
-knjom ;;12du_a;1st (incl) Person Dual;45530;;;;cent1989;haiman-2011
-knjom ;;12du_s;1st (incl) Person Dual;45529;;;;cent1989;haiman-2011
-knjom ;;12du_o;1st (incl) Person Dual;45528;;;;cent1989;haiman-2011
-knjom ;;12du_p;1st (incl) Person Dual;45527;;;;cent1989;haiman-2011
-knjom ;;12pl_a;1st (incl) Person Plural;45526;;;;cent1989;haiman-2011
-knjom ;;12pl_s;1st (incl) Person Plural;45525;;;;cent1989;haiman-2011
-knjom ;;12pl_o;1st (incl) Person Plural;45524;;;;cent1989;haiman-2011
-knjom ;;12pl_p;1st (incl) Person Plural;45523;;;;cent1989;haiman-2011
-loːk;;2sg_a;2nd Person Singular;45522;;;;cent1989;haiman-2011
-loːk;;2sg_s;2nd Person Singular;45521;;;;cent1989;haiman-2011
-loːk;;2sg_o;2nd Person Singular;45520;;;;cent1989;haiman-2011
-loːk;;2sg_p;2nd Person Singular;45519;;;;cent1989;haiman-2011
-loːk;;2du_a;2nd Person Dual;45518;;;;cent1989;haiman-2011
-loːk;;2du_s;2nd Person Dual;45517;;;;cent1989;haiman-2011
-loːk;;2du_o;2nd Person Dual;45516;;;;cent1989;haiman-2011
-loːk;;2du_p;2nd Person Dual;45515;;;;cent1989;haiman-2011
-loːk;;2pl_a;2nd Person Plural;45514;;;;cent1989;haiman-2011
-loːk;;2pl_s;2nd Person Plural;45513;;;;cent1989;haiman-2011
-loːk;;2pl_o;2nd Person Plural;45512;;;;cent1989;haiman-2011
-loːk;;2pl_p;2nd Person Plural;45511;;;;cent1989;haiman-2011
-koat ;;3sg_m_a;3rd Person Singular Masculine;45510;;;;cent1989;haiman-2011
-koat ;;3sg_m_s;3rd Person Singular Masculine;45509;;;;cent1989;haiman-2011
-koat ;;3sg_m_o;3rd Person Singular Masculine;45508;;;;cent1989;haiman-2011
-koat ;;3sg_m_p;3rd Person Singular Masculine;45507;;;;cent1989;haiman-2011
-koat ;;3sg_n_a;3rd Person Singular Neuter;45506;;;;cent1989;haiman-2011
-koat ;;3sg_n_s;3rd Person Singular Neuter;45505;;;;cent1989;haiman-2011
-koat ;;3sg_n_o;3rd Person Singular Neuter;45504;;;;cent1989;haiman-2011
-koat ;;3sg_n_p;3rd Person Singular Neuter;45503;;;;cent1989;haiman-2011
-koat ;;3d-a;3rd Person Dual;45502;;;;cent1989;haiman-2011
-koat ;;3d-s;3rd Person Dual;45501;;;;cent1989;haiman-2011
-koat ;;3d-o;3rd Person Dual;45500;;;;cent1989;haiman-2011
-koat ;;3d-p;3rd Person Dual;45499;;;;cent1989;haiman-2011
-koat ;;3p-a;3rd Person Plural;45498;;;;cent1989;haiman-2011
-koat ;;3p-s;3rd Person Plural;45497;;;;cent1989;haiman-2011
-koat ;;3p-o;3rd Person Plural;45496;;;;cent1989;haiman-2011
-koat ;;3p-p;3rd Person Plural;45495;;;;cent1989;haiman-2011
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+knjom,,1sg_a,1st (excl) Person Singular,45542,,,,cent1989,haiman-2011
+knjom,,1sg_s,1st (excl) Person Singular,45541,,,,cent1989,haiman-2011
+knjom,,1sg_o,1st (excl) Person Singular,45540,,,,cent1989,haiman-2011
+knjom,,1sg_p,1st (excl) Person Singular,45539,,,,cent1989,haiman-2011
+knjom,,1du_a,1st (excl) Person Dual,45538,,,,cent1989,haiman-2011
+knjom,,1du_s,1st (excl) Person Dual,45537,,,,cent1989,haiman-2011
+knjom,,1du_o,1st (excl) Person Dual,45536,,,,cent1989,haiman-2011
+knjom,,1du_p,1st (excl) Person Dual,45535,,,,cent1989,haiman-2011
+knjom,,1pl_a,1st (excl) Person Plural,45534,,,,cent1989,haiman-2011
+knjom,,1pl_s,1st (excl) Person Plural,45533,,,,cent1989,haiman-2011
+knjom,,1pl_o,1st (excl) Person Plural,45532,,,,cent1989,haiman-2011
+knjom,,1pl_p,1st (excl) Person Plural,45531,,,,cent1989,haiman-2011
+knjom,,12du_a,1st (incl) Person Dual,45530,,,,cent1989,haiman-2011
+knjom,,12du_s,1st (incl) Person Dual,45529,,,,cent1989,haiman-2011
+knjom,,12du_o,1st (incl) Person Dual,45528,,,,cent1989,haiman-2011
+knjom,,12du_p,1st (incl) Person Dual,45527,,,,cent1989,haiman-2011
+knjom,,12pl_a,1st (incl) Person Plural,45526,,,,cent1989,haiman-2011
+knjom,,12pl_s,1st (incl) Person Plural,45525,,,,cent1989,haiman-2011
+knjom,,12pl_o,1st (incl) Person Plural,45524,,,,cent1989,haiman-2011
+knjom,,12pl_p,1st (incl) Person Plural,45523,,,,cent1989,haiman-2011
+loːk,,2sg_a,2nd Person Singular,45522,,,,cent1989,haiman-2011
+loːk,,2sg_s,2nd Person Singular,45521,,,,cent1989,haiman-2011
+loːk,,2sg_o,2nd Person Singular,45520,,,,cent1989,haiman-2011
+loːk,,2sg_p,2nd Person Singular,45519,,,,cent1989,haiman-2011
+loːk,,2du_a,2nd Person Dual,45518,,,,cent1989,haiman-2011
+loːk,,2du_s,2nd Person Dual,45517,,,,cent1989,haiman-2011
+loːk,,2du_o,2nd Person Dual,45516,,,,cent1989,haiman-2011
+loːk,,2du_p,2nd Person Dual,45515,,,,cent1989,haiman-2011
+loːk,,2pl_a,2nd Person Plural,45514,,,,cent1989,haiman-2011
+loːk,,2pl_s,2nd Person Plural,45513,,,,cent1989,haiman-2011
+loːk,,2pl_o,2nd Person Plural,45512,,,,cent1989,haiman-2011
+loːk,,2pl_p,2nd Person Plural,45511,,,,cent1989,haiman-2011
+koat,,3sg_m_a,3rd Person Singular Masculine,45510,,,,cent1989,haiman-2011
+koat,,3sg_m_s,3rd Person Singular Masculine,45509,,,,cent1989,haiman-2011
+koat,,3sg_m_o,3rd Person Singular Masculine,45508,,,,cent1989,haiman-2011
+koat,,3sg_m_p,3rd Person Singular Masculine,45507,,,,cent1989,haiman-2011
+koat,,3sg_n_a,3rd Person Singular Neuter,45506,,,,cent1989,haiman-2011
+koat,,3sg_n_s,3rd Person Singular Neuter,45505,,,,cent1989,haiman-2011
+koat,,3sg_n_o,3rd Person Singular Neuter,45504,,,,cent1989,haiman-2011
+koat,,3sg_n_p,3rd Person Singular Neuter,45503,,,,cent1989,haiman-2011
+koat,,3d-a,3rd Person Dual,45502,,,,cent1989,haiman-2011
+koat,,3d-s,3rd Person Dual,45501,,,,cent1989,haiman-2011
+koat,,3d-o,3rd Person Dual,45500,,,,cent1989,haiman-2011
+koat,,3d-p,3rd Person Dual,45499,,,,cent1989,haiman-2011
+koat,,3p-a,3rd Person Plural,45498,,,,cent1989,haiman-2011
+koat,,3p-s,3rd Person Plural,45497,,,,cent1989,haiman-2011
+koat,,3p-o,3rd Person Plural,45496,,,,cent1989,haiman-2011
+koat,,3p-p,3rd Person Plural,45495,,,,cent1989,haiman-2011

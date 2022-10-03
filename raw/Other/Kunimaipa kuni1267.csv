@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ne;;1sg_a;1st (excl) Person Singular;42206;;;;kuni1267;geary-1977
-ne;;1sg_s;1st (excl) Person Singular;42205;;;;kuni1267;geary-1977
-ne;;1sg_o;1st (excl) Person Singular;42204;;;;kuni1267;geary-1977
-nema;;1sg_p;1st (excl) Person Singular;42203;;;;kuni1267;geary-1977
-reipi;;1du_a;1st (excl) Person Dual;42202;;;;kuni1267;geary-1977
-reipi;;1du_s;1st (excl) Person Dual;42201;;;;kuni1267;geary-1977
-reipi;;1du_o;1st (excl) Person Dual;42200;;;;kuni1267;geary-1977
-reipima;;1du_p;1st (excl) Person Dual;42199;;;;kuni1267;geary-1977
-rei;;1pl_a;1st (excl) Person Plural;42198;;;;kuni1267;geary-1977
-rei;;1pl_s;1st (excl) Person Plural;42197;;;;kuni1267;geary-1977
-rei;;1pl_o;1st (excl) Person Plural;42196;;;;kuni1267;geary-1977
-reima;;1pl_p;1st (excl) Person Plural;42195;;;;kuni1267;geary-1977
-reipi;;12du_a;1st (incl) Person Dual;42194;;;;kuni1267;geary-1977
-reipi;;12du_s;1st (incl) Person Dual;42193;;;;kuni1267;geary-1977
-reipi;;12du_o;1st (incl) Person Dual;42192;;;;kuni1267;geary-1977
-reipima;;12du_p;1st (incl) Person Dual;42191;;;;kuni1267;geary-1977
-rari;;12pl_a;1st (incl) Person Plural;42190;;;;kuni1267;geary-1977
-rari;;12pl_s;1st (incl) Person Plural;42189;;;;kuni1267;geary-1977
-rari;;12pl_o;1st (incl) Person Plural;42188;;;;kuni1267;geary-1977
-rarima;;12pl_p;1st (incl) Person Plural;42187;;;;kuni1267;geary-1977
-ni;;2sg_a;2nd Person Singular;42186;;;;kuni1267;geary-1977
-ni;;2sg_s;2nd Person Singular;42185;;;;kuni1267;geary-1977
-ni;;2sg_o;2nd Person Singular;42184;;;;kuni1267;geary-1977
-nima;;2sg_p;2nd Person Singular;42183;;;;kuni1267;geary-1977
-aripi;;2du_a;2nd Person Dual;42182;;;;kuni1267;geary-1977
-aripi;;2du_s;2nd Person Dual;42181;;;;kuni1267;geary-1977
-aripi;;2du_o;2nd Person Dual;42180;;;;kuni1267;geary-1977
-aripima;;2du_p;2nd Person Dual;42179;;;;kuni1267;geary-1977
-ari;;2pl_a;2nd Person Plural;42178;;;;kuni1267;geary-1977
-ari;;2pl_s;2nd Person Plural;42177;;;;kuni1267;geary-1977
-ari;;2pl_o;2nd Person Plural;42176;;;;kuni1267;geary-1977
-arima;;2pl_p;2nd Person Plural;42175;;;;kuni1267;geary-1977
-pi;;3sg_m_a;3rd Person Singular Masculine;42174;;;;kuni1267;geary-1977
-pi;;3sg_m_s;3rd Person Singular Masculine;42173;;;;kuni1267;geary-1977
-pi;;3sg_m_o;3rd Person Singular Masculine;42172;;;;kuni1267;geary-1977
-pima;;3sg_m_p;3rd Person Singular Masculine;42171;;;;kuni1267;geary-1977
-pi;;3sg_n_a;3rd Person Singular Neuter;42170;;;;kuni1267;geary-1977
-pi;;3sg_n_s;3rd Person Singular Neuter;42169;;;;kuni1267;geary-1977
-pi;;3sg_n_o;3rd Person Singular Neuter;42168;;;;kuni1267;geary-1977
-pima;;3sg_n_p;3rd Person Singular Neuter;42167;;;;kuni1267;geary-1977
-parupi;;3d-a;3rd Person Dual;42166;;;;kuni1267;geary-1977
-parupi;;3d-s;3rd Person Dual;42165;;;;kuni1267;geary-1977
-parupi;;3d-o;3rd Person Dual;42164;;;;kuni1267;geary-1977
-parupima;;3d-p;3rd Person Dual;42163;;;;kuni1267;geary-1977
-paru;;3p-a;3rd Person Plural;42162;;;;kuni1267;geary-1977
-paru;;3p-s;3rd Person Plural;42161;;;;kuni1267;geary-1977
-paru;;3p-o;3rd Person Plural;42160;;;;kuni1267;geary-1977
-paruma;;3p-p;3rd Person Plural;42159;;;;kuni1267;geary-1977
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ne,,1sg_a,1st (excl) Person Singular,42206,,,,kuni1267,geary-1977
+ne,,1sg_s,1st (excl) Person Singular,42205,,,,kuni1267,geary-1977
+ne,,1sg_o,1st (excl) Person Singular,42204,,,,kuni1267,geary-1977
+nema,,1sg_p,1st (excl) Person Singular,42203,,,,kuni1267,geary-1977
+reipi,,1du_a,1st (excl) Person Dual,42202,,,,kuni1267,geary-1977
+reipi,,1du_s,1st (excl) Person Dual,42201,,,,kuni1267,geary-1977
+reipi,,1du_o,1st (excl) Person Dual,42200,,,,kuni1267,geary-1977
+reipima,,1du_p,1st (excl) Person Dual,42199,,,,kuni1267,geary-1977
+rei,,1pl_a,1st (excl) Person Plural,42198,,,,kuni1267,geary-1977
+rei,,1pl_s,1st (excl) Person Plural,42197,,,,kuni1267,geary-1977
+rei,,1pl_o,1st (excl) Person Plural,42196,,,,kuni1267,geary-1977
+reima,,1pl_p,1st (excl) Person Plural,42195,,,,kuni1267,geary-1977
+reipi,,12du_a,1st (incl) Person Dual,42194,,,,kuni1267,geary-1977
+reipi,,12du_s,1st (incl) Person Dual,42193,,,,kuni1267,geary-1977
+reipi,,12du_o,1st (incl) Person Dual,42192,,,,kuni1267,geary-1977
+reipima,,12du_p,1st (incl) Person Dual,42191,,,,kuni1267,geary-1977
+rari,,12pl_a,1st (incl) Person Plural,42190,,,,kuni1267,geary-1977
+rari,,12pl_s,1st (incl) Person Plural,42189,,,,kuni1267,geary-1977
+rari,,12pl_o,1st (incl) Person Plural,42188,,,,kuni1267,geary-1977
+rarima,,12pl_p,1st (incl) Person Plural,42187,,,,kuni1267,geary-1977
+ni,,2sg_a,2nd Person Singular,42186,,,,kuni1267,geary-1977
+ni,,2sg_s,2nd Person Singular,42185,,,,kuni1267,geary-1977
+ni,,2sg_o,2nd Person Singular,42184,,,,kuni1267,geary-1977
+nima,,2sg_p,2nd Person Singular,42183,,,,kuni1267,geary-1977
+aripi,,2du_a,2nd Person Dual,42182,,,,kuni1267,geary-1977
+aripi,,2du_s,2nd Person Dual,42181,,,,kuni1267,geary-1977
+aripi,,2du_o,2nd Person Dual,42180,,,,kuni1267,geary-1977
+aripima,,2du_p,2nd Person Dual,42179,,,,kuni1267,geary-1977
+ari,,2pl_a,2nd Person Plural,42178,,,,kuni1267,geary-1977
+ari,,2pl_s,2nd Person Plural,42177,,,,kuni1267,geary-1977
+ari,,2pl_o,2nd Person Plural,42176,,,,kuni1267,geary-1977
+arima,,2pl_p,2nd Person Plural,42175,,,,kuni1267,geary-1977
+pi,,3sg_m_a,3rd Person Singular Masculine,42174,,,,kuni1267,geary-1977
+pi,,3sg_m_s,3rd Person Singular Masculine,42173,,,,kuni1267,geary-1977
+pi,,3sg_m_o,3rd Person Singular Masculine,42172,,,,kuni1267,geary-1977
+pima,,3sg_m_p,3rd Person Singular Masculine,42171,,,,kuni1267,geary-1977
+pi,,3sg_n_a,3rd Person Singular Neuter,42170,,,,kuni1267,geary-1977
+pi,,3sg_n_s,3rd Person Singular Neuter,42169,,,,kuni1267,geary-1977
+pi,,3sg_n_o,3rd Person Singular Neuter,42168,,,,kuni1267,geary-1977
+pima,,3sg_n_p,3rd Person Singular Neuter,42167,,,,kuni1267,geary-1977
+parupi,,3d-a,3rd Person Dual,42166,,,,kuni1267,geary-1977
+parupi,,3d-s,3rd Person Dual,42165,,,,kuni1267,geary-1977
+parupi,,3d-o,3rd Person Dual,42164,,,,kuni1267,geary-1977
+parupima,,3d-p,3rd Person Dual,42163,,,,kuni1267,geary-1977
+paru,,3p-a,3rd Person Plural,42162,,,,kuni1267,geary-1977
+paru,,3p-s,3rd Person Plural,42161,,,,kuni1267,geary-1977
+paru,,3p-o,3rd Person Plural,42160,,,,kuni1267,geary-1977
+paruma,,3p-p,3rd Person Plural,42159,,,,kuni1267,geary-1977

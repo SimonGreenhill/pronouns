@@ -1,45 +1,45 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-àmi;;1sg_a;1st (excl) Person Singular;59009;;;;bekw1241;stanford-1967
-àmi;;1sg_s;1st (excl) Person Singular;59008;;;;bekw1241;stanford-1967
-mi, m;;1sg_o;1st (excl) Person Singular;59007;;;;bekw1241;stanford-1967
-íyi;;1sg_p;1st (excl) Person Singular;59006;;;;bekw1241;stanford-1967
-àbère;;1du_a;1st (excl) Person Dual;59005;;;;bekw1241;stanford-1967
-àbère;;1du_s;1st (excl) Person Dual;59004;;;;bekw1241;stanford-1967
-ti;;1du_o;1st (excl) Person Dual;59003;;;;bekw1241;stanford-1967
-íten;;1du_p;1st (excl) Person Dual;59002;;;;bekw1241;stanford-1967
-àbère;;1pl_a;1st (excl) Person Plural;59001;;;;bekw1241;stanford-1967
-àbère;;1pl_s;1st (excl) Person Plural;59000;;;;bekw1241;stanford-1967
-ti;;1pl_o;1st (excl) Person Plural;58999;;;;bekw1241;stanford-1967
-íten;;1pl_p;1st (excl) Person Plural;58998;;;;bekw1241;stanford-1967
-àbère;;12du_a;1st (incl) Person Dual;58997;;;;bekw1241;stanford-1967
-àbère;;12du_s;1st (incl) Person Dual;58996;;;;bekw1241;stanford-1967
-ti;;12du_o;1st (incl) Person Dual;58995;;;;bekw1241;stanford-1967
-íten;;12du_p;1st (incl) Person Dual;58994;;;;bekw1241;stanford-1967
-àbère;;12pl_a;1st (incl) Person Plural;58993;;;;bekw1241;stanford-1967
-àbère;;12pl_s;1st (incl) Person Plural;58992;;;;bekw1241;stanford-1967
-ti;;12pl_o;1st (incl) Person Plural;58991;;;;bekw1241;stanford-1967
-íten;;12pl_p;1st (incl) Person Plural;58990;;;;bekw1241;stanford-1967
-àwo;;2sg_a;2nd Person Singular;58989;;;;bekw1241;stanford-1967
-àwo;;2sg_s;2nd Person Singular;58988;;;;bekw1241;stanford-1967
-wo;;2sg_o;2nd Person Singular;58987;;;;bekw1241;stanford-1967
-íwòn;;2sg_p;2nd Person Singular;58986;;;;bekw1241;stanford-1967
-amin;;2du_a;2nd Person Dual;58985;;;;bekw1241;stanford-1967
-amin;;2du_s;2nd Person Dual;58984;;;;bekw1241;stanford-1967
-amin;;2du_o;2nd Person Dual;58983;;;;bekw1241;stanford-1967
-ínèn;;2du_p;2nd Person Dual;58982;;;;bekw1241;stanford-1967
-amin;;2pl_a;2nd Person Plural;58981;;;;bekw1241;stanford-1967
-amin;;2pl_s;2nd Person Plural;58980;;;;bekw1241;stanford-1967
-amin;;2pl_o;2nd Person Plural;58979;;;;bekw1241;stanford-1967
-ínèn;;2pl_p;2nd Person Plural;58978;;;;bekw1241;stanford-1967
-àhe;;3sg_m_a;3rd Person Singular Masculine;58977;;;;bekw1241;stanford-1967
-àhe;;3sg_m_s;3rd Person Singular Masculine;58976;;;;bekw1241;stanford-1967
-he;;3sg_m_o;3rd Person Singular Masculine;58975;;;;bekw1241;stanford-1967
-ímin;;3sg_m_p;3rd Person Singular Masculine;58974;;;;bekw1241;stanford-1967
-abe, àhe;;3d-a;3rd Person Dual;58973;;;;bekw1241;stanford-1967
-abe, àhe;;3d-s;3rd Person Dual;58972;;;;bekw1241;stanford-1967
-abe;;3d-o;3rd Person Dual;58971;;;;bekw1241;stanford-1967
-íbere;;3d-p;3rd Person Dual;58970;;;;bekw1241;stanford-1967
-abe, àhe;;3p-a;3rd Person Plural;58969;;;;bekw1241;stanford-1967
-abe, àhe;;3p-s;3rd Person Plural;58968;;;;bekw1241;stanford-1967
-abe;;3p-o;3rd Person Plural;58967;;;;bekw1241;stanford-1967
-íbere;;3p-p;3rd Person Plural;58966;;;;bekw1241;stanford-1967
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+àmi,,1sg_a,1st (excl) Person Singular,59009,,,,bekw1241,stanford-1967
+àmi,,1sg_s,1st (excl) Person Singular,59008,,,,bekw1241,stanford-1967
+"mi, m",,1sg_o,1st (excl) Person Singular,59007,,,,bekw1241,stanford-1967
+íyi,,1sg_p,1st (excl) Person Singular,59006,,,,bekw1241,stanford-1967
+àbère,,1du_a,1st (excl) Person Dual,59005,,,,bekw1241,stanford-1967
+àbère,,1du_s,1st (excl) Person Dual,59004,,,,bekw1241,stanford-1967
+ti,,1du_o,1st (excl) Person Dual,59003,,,,bekw1241,stanford-1967
+íten,,1du_p,1st (excl) Person Dual,59002,,,,bekw1241,stanford-1967
+àbère,,1pl_a,1st (excl) Person Plural,59001,,,,bekw1241,stanford-1967
+àbère,,1pl_s,1st (excl) Person Plural,59000,,,,bekw1241,stanford-1967
+ti,,1pl_o,1st (excl) Person Plural,58999,,,,bekw1241,stanford-1967
+íten,,1pl_p,1st (excl) Person Plural,58998,,,,bekw1241,stanford-1967
+àbère,,12du_a,1st (incl) Person Dual,58997,,,,bekw1241,stanford-1967
+àbère,,12du_s,1st (incl) Person Dual,58996,,,,bekw1241,stanford-1967
+ti,,12du_o,1st (incl) Person Dual,58995,,,,bekw1241,stanford-1967
+íten,,12du_p,1st (incl) Person Dual,58994,,,,bekw1241,stanford-1967
+àbère,,12pl_a,1st (incl) Person Plural,58993,,,,bekw1241,stanford-1967
+àbère,,12pl_s,1st (incl) Person Plural,58992,,,,bekw1241,stanford-1967
+ti,,12pl_o,1st (incl) Person Plural,58991,,,,bekw1241,stanford-1967
+íten,,12pl_p,1st (incl) Person Plural,58990,,,,bekw1241,stanford-1967
+àwo,,2sg_a,2nd Person Singular,58989,,,,bekw1241,stanford-1967
+àwo,,2sg_s,2nd Person Singular,58988,,,,bekw1241,stanford-1967
+wo,,2sg_o,2nd Person Singular,58987,,,,bekw1241,stanford-1967
+íwòn,,2sg_p,2nd Person Singular,58986,,,,bekw1241,stanford-1967
+amin,,2du_a,2nd Person Dual,58985,,,,bekw1241,stanford-1967
+amin,,2du_s,2nd Person Dual,58984,,,,bekw1241,stanford-1967
+amin,,2du_o,2nd Person Dual,58983,,,,bekw1241,stanford-1967
+ínèn,,2du_p,2nd Person Dual,58982,,,,bekw1241,stanford-1967
+amin,,2pl_a,2nd Person Plural,58981,,,,bekw1241,stanford-1967
+amin,,2pl_s,2nd Person Plural,58980,,,,bekw1241,stanford-1967
+amin,,2pl_o,2nd Person Plural,58979,,,,bekw1241,stanford-1967
+ínèn,,2pl_p,2nd Person Plural,58978,,,,bekw1241,stanford-1967
+àhe,,3sg_m_a,3rd Person Singular Masculine,58977,,,,bekw1241,stanford-1967
+àhe,,3sg_m_s,3rd Person Singular Masculine,58976,,,,bekw1241,stanford-1967
+he,,3sg_m_o,3rd Person Singular Masculine,58975,,,,bekw1241,stanford-1967
+ímin,,3sg_m_p,3rd Person Singular Masculine,58974,,,,bekw1241,stanford-1967
+"abe, àhe",,3d-a,3rd Person Dual,58973,,,,bekw1241,stanford-1967
+"abe, àhe",,3d-s,3rd Person Dual,58972,,,,bekw1241,stanford-1967
+abe,,3d-o,3rd Person Dual,58971,,,,bekw1241,stanford-1967
+íbere,,3d-p,3rd Person Dual,58970,,,,bekw1241,stanford-1967
+"abe, àhe",,3p-a,3rd Person Plural,58969,,,,bekw1241,stanford-1967
+"abe, àhe",,3p-s,3rd Person Plural,58968,,,,bekw1241,stanford-1967
+abe,,3p-o,3rd Person Plural,58967,,,,bekw1241,stanford-1967
+íbere,,3p-p,3rd Person Plural,58966,,,,bekw1241,stanford-1967

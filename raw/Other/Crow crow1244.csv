@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-baː-;;1sg_a;1st (excl) Person Singular;45974;;;;crow1244;graczyk-2007
-baː-, bi:-;;1sg_s;1st (excl) Person Singular;45973;;;;crow1244;graczyk-2007
-biː-;;1sg_o;1st (excl) Person Singular;45972;;;;crow1244;graczyk-2007
-bas-;;1sg_p;1st (excl) Person Singular;45971;;;;crow1244;graczyk-2007
-baː-;;1du_a;1st (excl) Person Dual;45970;;;;crow1244;graczyk-2007
-baː-, bale:-;;1du_s;1st (excl) Person Dual;45969;;;;crow1244;graczyk-2007
-baleː-;;1du_o;1st (excl) Person Dual;45968;;;;crow1244;graczyk-2007
-bas-;;1du_p;1st (excl) Person Dual;45967;;;;crow1244;graczyk-2007
-baː-;;1pl_a;1st (excl) Person Plural;45966;;;;crow1244;graczyk-2007
-baː-, bale:-;;1pl_s;1st (excl) Person Plural;45965;;;;crow1244;graczyk-2007
-baleː-;;1pl_o;1st (excl) Person Plural;45964;;;;crow1244;graczyk-2007
-bas-;;1pl_p;1st (excl) Person Plural;45963;;;;crow1244;graczyk-2007
-baː-;;12du_a;1st (incl) Person Dual;45962;;;;crow1244;graczyk-2007
-baː-, bale:-;;12du_s;1st (incl) Person Dual;45961;;;;crow1244;graczyk-2007
-baleː-;;12du_o;1st (incl) Person Dual;45960;;;;crow1244;graczyk-2007
-baleːis-;;12du_p;1st (incl) Person Dual;45959;;;;crow1244;graczyk-2007
-baː-;;12pl_a;1st (incl) Person Plural;45958;;;;crow1244;graczyk-2007
-baː-, bale:-;;12pl_s;1st (incl) Person Plural;45957;;;;crow1244;graczyk-2007
-baleː-;;12pl_o;1st (incl) Person Plural;45956;;;;crow1244;graczyk-2007
-baleːis-;;12pl_p;1st (incl) Person Plural;45955;;;;crow1244;graczyk-2007
-dá-;;2sg_a;2nd Person Singular;45954;;The form 'dáː-' is also listed (Graczyk 2007:121).;;crow1244;graczyk-2007
-dá-, di:-;;2sg_s;2nd Person Singular;45953;;The form 'dáː-' is also listed (Graczyk 2007:121).;;crow1244;graczyk-2007
-diː-;;2sg_o;2nd Person Singular;45952;;;;crow1244;graczyk-2007
-dís-;;2sg_p;2nd Person Singular;45951;;;;crow1244;graczyk-2007
-dá-;;2du_a;2nd Person Dual;45950;;The form 'dáː-' is also listed (Graczyk 2007:121).;;crow1244;graczyk-2007
-dá-, di:-;;2du_s;2nd Person Dual;45949;;The form 'dáː-' is also listed (Graczyk 2007:121).;;crow1244;graczyk-2007
-diː-;;2du_o;2nd Person Dual;45948;;;;crow1244;graczyk-2007
-dís-;;2du_p;2nd Person Dual;45947;;;;crow1244;graczyk-2007
-dá-;;2pl_a;2nd Person Plural;45946;;The form 'dáː-' is also listed (Graczyk 2007:121).;;crow1244;graczyk-2007
-dá-, di:-;;2pl_s;2nd Person Plural;45945;;The form 'dáː-' is also listed (Graczyk 2007:121).;;crow1244;graczyk-2007
-diː-;;2pl_o;2nd Person Plural;45944;;;;crow1244;graczyk-2007
-dís-;;2pl_p;2nd Person Plural;45943;;;;crow1244;graczyk-2007
-∅-;;3sg_m_a;3rd Person Singular Masculine;45942;;;;crow1244;graczyk-2007
-∅-;;3sg_m_s;3rd Person Singular Masculine;45941;;;;crow1244;graczyk-2007
-∅-;;3sg_m_o;3rd Person Singular Masculine;45940;;;;crow1244;graczyk-2007
-is-;;3sg_m_p;3rd Person Singular Masculine;45939;;;;crow1244;graczyk-2007
-∅-;;3sg_n_a;3rd Person Singular Neuter;45938;;;;crow1244;graczyk-2007
-∅-;;3sg_n_s;3rd Person Singular Neuter;45937;;;;crow1244;graczyk-2007
-∅-;;3sg_n_o;3rd Person Singular Neuter;45936;;;;crow1244;graczyk-2007
-is-;;3sg_n_p;3rd Person Singular Neuter;45935;;;;crow1244;graczyk-2007
-∅-;;3d-a;3rd Person Dual;45934;;;;crow1244;graczyk-2007
-∅-;;3d-s;3rd Person Dual;45933;;;;crow1244;graczyk-2007
-∅-;;3d-o;3rd Person Dual;45932;;;;crow1244;graczyk-2007
-is-;;3d-p;3rd Person Dual;45931;;;;crow1244;graczyk-2007
-∅-;;3p-a;3rd Person Plural;45930;;;;crow1244;graczyk-2007
-∅-;;3p-s;3rd Person Plural;45929;;;;crow1244;graczyk-2007
-∅-;;3p-o;3rd Person Plural;45928;;;;crow1244;graczyk-2007
-is-;;3p-p;3rd Person Plural;45927;;;;crow1244;graczyk-2007
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+baː-,,1sg_a,1st (excl) Person Singular,45974,,,,crow1244,graczyk-2007
+"baː-, bi:-",,1sg_s,1st (excl) Person Singular,45973,,,,crow1244,graczyk-2007
+biː-,,1sg_o,1st (excl) Person Singular,45972,,,,crow1244,graczyk-2007
+bas-,,1sg_p,1st (excl) Person Singular,45971,,,,crow1244,graczyk-2007
+baː-,,1du_a,1st (excl) Person Dual,45970,,,,crow1244,graczyk-2007
+"baː-, bale:-",,1du_s,1st (excl) Person Dual,45969,,,,crow1244,graczyk-2007
+baleː-,,1du_o,1st (excl) Person Dual,45968,,,,crow1244,graczyk-2007
+bas-,,1du_p,1st (excl) Person Dual,45967,,,,crow1244,graczyk-2007
+baː-,,1pl_a,1st (excl) Person Plural,45966,,,,crow1244,graczyk-2007
+"baː-, bale:-",,1pl_s,1st (excl) Person Plural,45965,,,,crow1244,graczyk-2007
+baleː-,,1pl_o,1st (excl) Person Plural,45964,,,,crow1244,graczyk-2007
+bas-,,1pl_p,1st (excl) Person Plural,45963,,,,crow1244,graczyk-2007
+baː-,,12du_a,1st (incl) Person Dual,45962,,,,crow1244,graczyk-2007
+"baː-, bale:-",,12du_s,1st (incl) Person Dual,45961,,,,crow1244,graczyk-2007
+baleː-,,12du_o,1st (incl) Person Dual,45960,,,,crow1244,graczyk-2007
+baleːis-,,12du_p,1st (incl) Person Dual,45959,,,,crow1244,graczyk-2007
+baː-,,12pl_a,1st (incl) Person Plural,45958,,,,crow1244,graczyk-2007
+"baː-, bale:-",,12pl_s,1st (incl) Person Plural,45957,,,,crow1244,graczyk-2007
+baleː-,,12pl_o,1st (incl) Person Plural,45956,,,,crow1244,graczyk-2007
+baleːis-,,12pl_p,1st (incl) Person Plural,45955,,,,crow1244,graczyk-2007
+dá-,,2sg_a,2nd Person Singular,45954,,The form 'dáː-' is also listed (Graczyk 2007:121).,,crow1244,graczyk-2007
+"dá-, di:-",,2sg_s,2nd Person Singular,45953,,The form 'dáː-' is also listed (Graczyk 2007:121).,,crow1244,graczyk-2007
+diː-,,2sg_o,2nd Person Singular,45952,,,,crow1244,graczyk-2007
+dís-,,2sg_p,2nd Person Singular,45951,,,,crow1244,graczyk-2007
+dá-,,2du_a,2nd Person Dual,45950,,The form 'dáː-' is also listed (Graczyk 2007:121).,,crow1244,graczyk-2007
+"dá-, di:-",,2du_s,2nd Person Dual,45949,,The form 'dáː-' is also listed (Graczyk 2007:121).,,crow1244,graczyk-2007
+diː-,,2du_o,2nd Person Dual,45948,,,,crow1244,graczyk-2007
+dís-,,2du_p,2nd Person Dual,45947,,,,crow1244,graczyk-2007
+dá-,,2pl_a,2nd Person Plural,45946,,The form 'dáː-' is also listed (Graczyk 2007:121).,,crow1244,graczyk-2007
+"dá-, di:-",,2pl_s,2nd Person Plural,45945,,The form 'dáː-' is also listed (Graczyk 2007:121).,,crow1244,graczyk-2007
+diː-,,2pl_o,2nd Person Plural,45944,,,,crow1244,graczyk-2007
+dís-,,2pl_p,2nd Person Plural,45943,,,,crow1244,graczyk-2007
+∅-,,3sg_m_a,3rd Person Singular Masculine,45942,,,,crow1244,graczyk-2007
+∅-,,3sg_m_s,3rd Person Singular Masculine,45941,,,,crow1244,graczyk-2007
+∅-,,3sg_m_o,3rd Person Singular Masculine,45940,,,,crow1244,graczyk-2007
+is-,,3sg_m_p,3rd Person Singular Masculine,45939,,,,crow1244,graczyk-2007
+∅-,,3sg_n_a,3rd Person Singular Neuter,45938,,,,crow1244,graczyk-2007
+∅-,,3sg_n_s,3rd Person Singular Neuter,45937,,,,crow1244,graczyk-2007
+∅-,,3sg_n_o,3rd Person Singular Neuter,45936,,,,crow1244,graczyk-2007
+is-,,3sg_n_p,3rd Person Singular Neuter,45935,,,,crow1244,graczyk-2007
+∅-,,3d-a,3rd Person Dual,45934,,,,crow1244,graczyk-2007
+∅-,,3d-s,3rd Person Dual,45933,,,,crow1244,graczyk-2007
+∅-,,3d-o,3rd Person Dual,45932,,,,crow1244,graczyk-2007
+is-,,3d-p,3rd Person Dual,45931,,,,crow1244,graczyk-2007
+∅-,,3p-a,3rd Person Plural,45930,,,,crow1244,graczyk-2007
+∅-,,3p-s,3rd Person Plural,45929,,,,crow1244,graczyk-2007
+∅-,,3p-o,3rd Person Plural,45928,,,,crow1244,graczyk-2007
+is-,,3p-p,3rd Person Plural,45927,,,,crow1244,graczyk-2007

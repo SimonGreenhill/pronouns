@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mí;;1sg_a;1st (excl) Person Singular;51106;;;;tomm1242;plungian-1995
-mí;;1sg_s;1st (excl) Person Singular;51105;;;;tomm1242;plungian-1995
-míɲ̀;;1sg_o;1st (excl) Person Singular;51104;;;;tomm1242;plungian-1995
-ḿmɔ;;1sg_p;1st (excl) Person Singular;51103;;;;tomm1242;plungian-1995
-émmé;;1du_a;1st (excl) Person Dual;51102;;;;tomm1242;plungian-1995
-émmé;;1du_s;1st (excl) Person Dual;51101;;;;tomm1242;plungian-1995
-émméɲ̀;;1du_o;1st (excl) Person Dual;51100;;;;tomm1242;plungian-1995
-émmɛ;;1du_p;1st (excl) Person Dual;51099;;;;tomm1242;plungian-1995
-émmé;;1pl_a;1st (excl) Person Plural;51098;;;;tomm1242;plungian-1995
-émmé;;1pl_s;1st (excl) Person Plural;51097;;;;tomm1242;plungian-1995
-émméɲ̀;;1pl_o;1st (excl) Person Plural;51096;;;;tomm1242;plungian-1995
-émmɛ;;1pl_p;1st (excl) Person Plural;51095;;;;tomm1242;plungian-1995
-émmé;;12du_a;1st (incl) Person Dual;51094;;;;tomm1242;plungian-1995
-emme;;12du_s;1st (incl) Person Dual;51093;;;;tomm1242;plungian-1995
-émméɲ̀;;12du_o;1st (incl) Person Dual;51092;;;;tomm1242;plungian-1995
-émmɛ;;12du_p;1st (incl) Person Dual;51091;;;;tomm1242;plungian-1995
-émmé;;12pl_a;1st (incl) Person Plural;51090;;;;tomm1242;plungian-1995
-émmé;;12pl_s;1st (incl) Person Plural;51089;;;;tomm1242;plungian-1995
-émméɲ̀;;12pl_o;1st (incl) Person Plural;51088;;;;tomm1242;plungian-1995
-émmɛ;;12pl_p;1st (incl) Person Plural;51087;;;;tomm1242;plungian-1995
-ú;;2sg_a;2nd Person Singular;51086;;;;tomm1242;plungian-1995
-ú;;2sg_s;2nd Person Singular;51085;;;;tomm1242;plungian-1995
-úɲ̀;;2sg_o;2nd Person Singular;51084;;;;tomm1242;plungian-1995
-úwɔ;;2sg_p;2nd Person Singular;51083;;;;tomm1242;plungian-1995
-é;;2du_a;2nd Person Dual;51082;;;;tomm1242;plungian-1995
-é;;2du_s;2nd Person Dual;51081;;;;tomm1242;plungian-1995
-éɲ̀;;2du_o;2nd Person Dual;51080;;;;tomm1242;plungian-1995
-éwɔ;;2du_p;2nd Person Dual;51079;;;;tomm1242;plungian-1995
-é;;2pl_a;2nd Person Plural;51078;;;;tomm1242;plungian-1995
-é;;2pl_s;2nd Person Plural;51077;;;;tomm1242;plungian-1995
-éɲ̀;;2pl_o;2nd Person Plural;51076;;;;tomm1242;plungian-1995
-éwɔ;;2pl_p;2nd Person Plural;51075;;;;tomm1242;plungian-1995
-wó;;3sg_m_a;3rd Person Singular Masculine;51074;;;;tomm1242;plungian-1995
-wó;;3sg_m_s;3rd Person Singular Masculine;51073;;;;tomm1242;plungian-1995
-wóɲ̀;;3sg_m_o;3rd Person Singular Masculine;51072;;;;tomm1242;plungian-1995
-wómɔ;;3sg_m_p;3rd Person Singular Masculine;51071;;;;tomm1242;plungian-1995
-wó;;3sg_n_a;3rd Person Singular Neuter;51070;;;;tomm1242;plungian-1995
-wó;;3sg_n_s;3rd Person Singular Neuter;51069;;;;tomm1242;plungian-1995
-wóɲ̀;;3sg_n_o;3rd Person Singular Neuter;51068;;;;tomm1242;plungian-1995
-wómɔ;;3sg_n_p;3rd Person Singular Neuter;51067;;;;tomm1242;plungian-1995
-bé;;3d-a;3rd Person Dual;51066;;;;tomm1242;plungian-1995
-bé;;3d-s;3rd Person Dual;51065;;;;tomm1242;plungian-1995
-béɲ̀;;3d-o;3rd Person Dual;51064;;;;tomm1242;plungian-1995
-bémɛ;;3d-p;3rd Person Dual;51063;;;;tomm1242;plungian-1995
-bé;;3p-a;3rd Person Plural;51062;;;;tomm1242;plungian-1995
-bé;;3p-s;3rd Person Plural;51061;;;;tomm1242;plungian-1995
-béɲ̀;;3p-o;3rd Person Plural;51060;;;;tomm1242;plungian-1995
-bémɛ;;3p-p;3rd Person Plural;51059;;;;tomm1242;plungian-1995
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mí,,1sg_a,1st (excl) Person Singular,51106,,,,tomm1242,plungian-1995
+mí,,1sg_s,1st (excl) Person Singular,51105,,,,tomm1242,plungian-1995
+míɲ̀,,1sg_o,1st (excl) Person Singular,51104,,,,tomm1242,plungian-1995
+ḿmɔ,,1sg_p,1st (excl) Person Singular,51103,,,,tomm1242,plungian-1995
+émmé,,1du_a,1st (excl) Person Dual,51102,,,,tomm1242,plungian-1995
+émmé,,1du_s,1st (excl) Person Dual,51101,,,,tomm1242,plungian-1995
+émméɲ̀,,1du_o,1st (excl) Person Dual,51100,,,,tomm1242,plungian-1995
+émmɛ,,1du_p,1st (excl) Person Dual,51099,,,,tomm1242,plungian-1995
+émmé,,1pl_a,1st (excl) Person Plural,51098,,,,tomm1242,plungian-1995
+émmé,,1pl_s,1st (excl) Person Plural,51097,,,,tomm1242,plungian-1995
+émméɲ̀,,1pl_o,1st (excl) Person Plural,51096,,,,tomm1242,plungian-1995
+émmɛ,,1pl_p,1st (excl) Person Plural,51095,,,,tomm1242,plungian-1995
+émmé,,12du_a,1st (incl) Person Dual,51094,,,,tomm1242,plungian-1995
+emme,,12du_s,1st (incl) Person Dual,51093,,,,tomm1242,plungian-1995
+émméɲ̀,,12du_o,1st (incl) Person Dual,51092,,,,tomm1242,plungian-1995
+émmɛ,,12du_p,1st (incl) Person Dual,51091,,,,tomm1242,plungian-1995
+émmé,,12pl_a,1st (incl) Person Plural,51090,,,,tomm1242,plungian-1995
+émmé,,12pl_s,1st (incl) Person Plural,51089,,,,tomm1242,plungian-1995
+émméɲ̀,,12pl_o,1st (incl) Person Plural,51088,,,,tomm1242,plungian-1995
+émmɛ,,12pl_p,1st (incl) Person Plural,51087,,,,tomm1242,plungian-1995
+ú,,2sg_a,2nd Person Singular,51086,,,,tomm1242,plungian-1995
+ú,,2sg_s,2nd Person Singular,51085,,,,tomm1242,plungian-1995
+úɲ̀,,2sg_o,2nd Person Singular,51084,,,,tomm1242,plungian-1995
+úwɔ,,2sg_p,2nd Person Singular,51083,,,,tomm1242,plungian-1995
+é,,2du_a,2nd Person Dual,51082,,,,tomm1242,plungian-1995
+é,,2du_s,2nd Person Dual,51081,,,,tomm1242,plungian-1995
+éɲ̀,,2du_o,2nd Person Dual,51080,,,,tomm1242,plungian-1995
+éwɔ,,2du_p,2nd Person Dual,51079,,,,tomm1242,plungian-1995
+é,,2pl_a,2nd Person Plural,51078,,,,tomm1242,plungian-1995
+é,,2pl_s,2nd Person Plural,51077,,,,tomm1242,plungian-1995
+éɲ̀,,2pl_o,2nd Person Plural,51076,,,,tomm1242,plungian-1995
+éwɔ,,2pl_p,2nd Person Plural,51075,,,,tomm1242,plungian-1995
+wó,,3sg_m_a,3rd Person Singular Masculine,51074,,,,tomm1242,plungian-1995
+wó,,3sg_m_s,3rd Person Singular Masculine,51073,,,,tomm1242,plungian-1995
+wóɲ̀,,3sg_m_o,3rd Person Singular Masculine,51072,,,,tomm1242,plungian-1995
+wómɔ,,3sg_m_p,3rd Person Singular Masculine,51071,,,,tomm1242,plungian-1995
+wó,,3sg_n_a,3rd Person Singular Neuter,51070,,,,tomm1242,plungian-1995
+wó,,3sg_n_s,3rd Person Singular Neuter,51069,,,,tomm1242,plungian-1995
+wóɲ̀,,3sg_n_o,3rd Person Singular Neuter,51068,,,,tomm1242,plungian-1995
+wómɔ,,3sg_n_p,3rd Person Singular Neuter,51067,,,,tomm1242,plungian-1995
+bé,,3d-a,3rd Person Dual,51066,,,,tomm1242,plungian-1995
+bé,,3d-s,3rd Person Dual,51065,,,,tomm1242,plungian-1995
+béɲ̀,,3d-o,3rd Person Dual,51064,,,,tomm1242,plungian-1995
+bémɛ,,3d-p,3rd Person Dual,51063,,,,tomm1242,plungian-1995
+bé,,3p-a,3rd Person Plural,51062,,,,tomm1242,plungian-1995
+bé,,3p-s,3rd Person Plural,51061,,,,tomm1242,plungian-1995
+béɲ̀,,3p-o,3rd Person Plural,51060,,,,tomm1242,plungian-1995
+bémɛ,,3p-p,3rd Person Plural,51059,,,,tomm1242,plungian-1995

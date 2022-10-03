@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nʰó;;1sg_a;1st (excl) Person Singular;54313;;;;resi1247;ramirez-2000
-nʰó;;1sg_s;1st (excl) Person Singular;54312;;;;resi1247;ramirez-2000
-nʰó;;1sg_o;1st (excl) Person Singular;54311;;;;resi1247;ramirez-2000
-no-;;1sg_p;1st (excl) Person Singular;54310;;;;resi1247;ramirez-2000
-waʔá;;1du_a;1st (excl) Person Dual;54309;;;;resi1247;ramirez-2000
-waʔá;;1du_s;1st (excl) Person Dual;54308;;;;resi1247;ramirez-2000
-waʔá;;1du_o;1st (excl) Person Dual;54307;;;;resi1247;ramirez-2000
-ɸaʔá- ... -né;;1du_p;1st (excl) Person Dual;54306;;;;resi1247;ramirez-2000
-waʔá;;1pl_a;1st (excl) Person Plural;54305;;;;resi1247;ramirez-2000
-waʔá;;1pl_s;1st (excl) Person Plural;54304;;;;resi1247;ramirez-2000
-waʔá;;1pl_o;1st (excl) Person Plural;54303;;;;resi1247;ramirez-2000
-ɸaʔá- ... -né;;1pl_p;1st (excl) Person Plural;54302;;;;resi1247;ramirez-2000
-waʔá;;12du_a;1st (incl) Person Dual;54301;;;;resi1247;ramirez-2000
-waʔá;;12du_s;1st (incl) Person Dual;54300;;;;resi1247;ramirez-2000
-waʔá;;12du_o;1st (incl) Person Dual;54299;;;;resi1247;ramirez-2000
-ɸaʔá- ...-né;;12du_p;1st (incl) Person Dual;54298;;;;resi1247;ramirez-2000
-waʔá;;12pl_a;1st (incl) Person Plural;54297;;;;resi1247;ramirez-2000
-waʔá;;12pl_s;1st (incl) Person Plural;54296;;;;resi1247;ramirez-2000
-waʔá;;12pl_o;1st (incl) Person Plural;54295;;;;resi1247;ramirez-2000
-ɸaʔá- ... -né;;12pl_p;1st (incl) Person Plural;54294;;;;resi1247;ramirez-2000
-pʰú;;2sg_a;2nd Person Singular;54293;;;;resi1247;ramirez-2000
-pʰú;;2sg_s;2nd Person Singular;54292;;;;resi1247;ramirez-2000
-pʰú;;2sg_o;2nd Person Singular;54291;;;;resi1247;ramirez-2000
-pi-;;2sg_p;2nd Person Singular;54290;;;;resi1247;ramirez-2000
-haʔá;;2du_a;2nd Person Dual;54289;;;;resi1247;ramirez-2000
-haʔá;;2du_s;2nd Person Dual;54288;;;;resi1247;ramirez-2000
-haʔá;;2du_o;2nd Person Dual;54287;;;;resi1247;ramirez-2000
-haʔá-...-né;;2du_p;2nd Person Dual;54286;;;;resi1247;ramirez-2000
-haʔá;;2pl_a;2nd Person Plural;54285;;;;resi1247;ramirez-2000
-haʔá;;2pl_s;2nd Person Plural;54284;;;;resi1247;ramirez-2000
-haʔá;;2pl_o;2nd Person Plural;54283;;;;resi1247;ramirez-2000
-haʔá-...-né;;2pl_p;2nd Person Plural;54282;;;;resi1247;ramirez-2000
-tʃú;;3sg_m_a;3rd Person Singular Masculine;54281;;;;resi1247;ramirez-2000
-tʃú;;3sg_m_s;3rd Person Singular Masculine;54280;;;;resi1247;ramirez-2000
-tʃú;;3sg_m_o;3rd Person Singular Masculine;54279;;;;resi1247;ramirez-2000
-gi-;;3sg_m_p;3rd Person Singular Masculine;54278;;;;resi1247;ramirez-2000
-tʃó;;3sg_n_a;3rd Person Singular Neuter;54277;;;;resi1247;ramirez-2000
-tʃó;;3sg_n_s;3rd Person Singular Neuter;54276;;;;resi1247;ramirez-2000
-tʃó;;3sg_n_o;3rd Person Singular Neuter;54275;;;;resi1247;ramirez-2000
-do-;;3sg_n_p;3rd Person Singular Neuter;54274;;;;resi1247;ramirez-2000
-naʔá;;3d-a;3rd Person Dual;54273;;;;resi1247;ramirez-2000
-naʔá;;3d-s;3rd Person Dual;54272;;;;resi1247;ramirez-2000
-naʔá;;3d-o;3rd Person Dual;54271;;;;resi1247;ramirez-2000
-naʔá-...-né;;3d-p;3rd Person Dual;54270;;;;resi1247;ramirez-2000
-naʔá;;3p-a;3rd Person Plural;54269;;;;resi1247;ramirez-2000
-naʔá;;3p-s;3rd Person Plural;54268;;;;resi1247;ramirez-2000
-naʔá;;3p-o;3rd Person Plural;54267;;;;resi1247;ramirez-2000
-naʔá-...-né;;3p-p;3rd Person Plural;54266;;;;resi1247;ramirez-2000
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nʰó,,1sg_a,1st (excl) Person Singular,54313,,,,resi1247,ramirez-2000
+nʰó,,1sg_s,1st (excl) Person Singular,54312,,,,resi1247,ramirez-2000
+nʰó,,1sg_o,1st (excl) Person Singular,54311,,,,resi1247,ramirez-2000
+no-,,1sg_p,1st (excl) Person Singular,54310,,,,resi1247,ramirez-2000
+waʔá,,1du_a,1st (excl) Person Dual,54309,,,,resi1247,ramirez-2000
+waʔá,,1du_s,1st (excl) Person Dual,54308,,,,resi1247,ramirez-2000
+waʔá,,1du_o,1st (excl) Person Dual,54307,,,,resi1247,ramirez-2000
+ɸaʔá- ... -né,,1du_p,1st (excl) Person Dual,54306,,,,resi1247,ramirez-2000
+waʔá,,1pl_a,1st (excl) Person Plural,54305,,,,resi1247,ramirez-2000
+waʔá,,1pl_s,1st (excl) Person Plural,54304,,,,resi1247,ramirez-2000
+waʔá,,1pl_o,1st (excl) Person Plural,54303,,,,resi1247,ramirez-2000
+ɸaʔá- ... -né,,1pl_p,1st (excl) Person Plural,54302,,,,resi1247,ramirez-2000
+waʔá,,12du_a,1st (incl) Person Dual,54301,,,,resi1247,ramirez-2000
+waʔá,,12du_s,1st (incl) Person Dual,54300,,,,resi1247,ramirez-2000
+waʔá,,12du_o,1st (incl) Person Dual,54299,,,,resi1247,ramirez-2000
+ɸaʔá- ...-né,,12du_p,1st (incl) Person Dual,54298,,,,resi1247,ramirez-2000
+waʔá,,12pl_a,1st (incl) Person Plural,54297,,,,resi1247,ramirez-2000
+waʔá,,12pl_s,1st (incl) Person Plural,54296,,,,resi1247,ramirez-2000
+waʔá,,12pl_o,1st (incl) Person Plural,54295,,,,resi1247,ramirez-2000
+ɸaʔá- ... -né,,12pl_p,1st (incl) Person Plural,54294,,,,resi1247,ramirez-2000
+pʰú,,2sg_a,2nd Person Singular,54293,,,,resi1247,ramirez-2000
+pʰú,,2sg_s,2nd Person Singular,54292,,,,resi1247,ramirez-2000
+pʰú,,2sg_o,2nd Person Singular,54291,,,,resi1247,ramirez-2000
+pi-,,2sg_p,2nd Person Singular,54290,,,,resi1247,ramirez-2000
+haʔá,,2du_a,2nd Person Dual,54289,,,,resi1247,ramirez-2000
+haʔá,,2du_s,2nd Person Dual,54288,,,,resi1247,ramirez-2000
+haʔá,,2du_o,2nd Person Dual,54287,,,,resi1247,ramirez-2000
+haʔá-...-né,,2du_p,2nd Person Dual,54286,,,,resi1247,ramirez-2000
+haʔá,,2pl_a,2nd Person Plural,54285,,,,resi1247,ramirez-2000
+haʔá,,2pl_s,2nd Person Plural,54284,,,,resi1247,ramirez-2000
+haʔá,,2pl_o,2nd Person Plural,54283,,,,resi1247,ramirez-2000
+haʔá-...-né,,2pl_p,2nd Person Plural,54282,,,,resi1247,ramirez-2000
+tʃú,,3sg_m_a,3rd Person Singular Masculine,54281,,,,resi1247,ramirez-2000
+tʃú,,3sg_m_s,3rd Person Singular Masculine,54280,,,,resi1247,ramirez-2000
+tʃú,,3sg_m_o,3rd Person Singular Masculine,54279,,,,resi1247,ramirez-2000
+gi-,,3sg_m_p,3rd Person Singular Masculine,54278,,,,resi1247,ramirez-2000
+tʃó,,3sg_n_a,3rd Person Singular Neuter,54277,,,,resi1247,ramirez-2000
+tʃó,,3sg_n_s,3rd Person Singular Neuter,54276,,,,resi1247,ramirez-2000
+tʃó,,3sg_n_o,3rd Person Singular Neuter,54275,,,,resi1247,ramirez-2000
+do-,,3sg_n_p,3rd Person Singular Neuter,54274,,,,resi1247,ramirez-2000
+naʔá,,3d-a,3rd Person Dual,54273,,,,resi1247,ramirez-2000
+naʔá,,3d-s,3rd Person Dual,54272,,,,resi1247,ramirez-2000
+naʔá,,3d-o,3rd Person Dual,54271,,,,resi1247,ramirez-2000
+naʔá-...-né,,3d-p,3rd Person Dual,54270,,,,resi1247,ramirez-2000
+naʔá,,3p-a,3rd Person Plural,54269,,,,resi1247,ramirez-2000
+naʔá,,3p-s,3rd Person Plural,54268,,,,resi1247,ramirez-2000
+naʔá,,3p-o,3rd Person Plural,54267,,,,resi1247,ramirez-2000
+naʔá-...-né,,3p-p,3rd Person Plural,54266,,,,resi1247,ramirez-2000

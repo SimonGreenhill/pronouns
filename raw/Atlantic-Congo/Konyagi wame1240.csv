@@ -1,45 +1,45 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-æmi, mi;;1sg_a;1st (excl) Person Singular;55558;;;;wame1240;wilson-2007
-æmi, mi;;1sg_s;1st (excl) Person Singular;55557;;;;wame1240;wilson-2007
-æmi, mi;;1sg_o;1st (excl) Person Singular;55556;;;;wame1240;wilson-2007
--mən;;1sg_p;1st (excl) Person Singular;55555;;;;wame1240;wilson-2007
-fuɾ̃ə;;1du_a;1st (excl) Person Dual;55554;;;;wame1240;wilson-2007
-fuɾ̃ə;;1du_s;1st (excl) Person Dual;55553;;;;wame1240;wilson-2007
-fuɾ̃ə;;1du_o;1st (excl) Person Dual;55552;;;;wame1240;wilson-2007
--fun;;1du_p;1st (excl) Person Dual;55551;;;;wame1240;wilson-2007
-fuɾ̃ə;;1pl_a;1st (excl) Person Plural;55550;;;;wame1240;wilson-2007
-fuɾ̃ə;;1pl_s;1st (excl) Person Plural;55549;;;;wame1240;wilson-2007
-fuɾ̃ə;;1pl_o;1st (excl) Person Plural;55548;;;;wame1240;wilson-2007
--fun;;1pl_p;1st (excl) Person Plural;55547;;;;wame1240;wilson-2007
-fuɾ̃ə;;12du_a;1st (incl) Person Dual;55546;;;;wame1240;wilson-2007
-fuɾ̃ə;;12du_s;1st (incl) Person Dual;55545;;;;wame1240;wilson-2007
-fuɾ̃ə;;12du_o;1st (incl) Person Dual;55544;;;;wame1240;wilson-2007
--fun;;12du_p;1st (incl) Person Dual;55543;;;;wame1240;wilson-2007
-fuɾ̃ə;;12pl_a;1st (incl) Person Plural;55542;;;;wame1240;wilson-2007
-fuɾ̃ə;;12pl_s;1st (incl) Person Plural;55541;;;;wame1240;wilson-2007
-fuɾ̃ə;;12pl_o;1st (incl) Person Plural;55540;;;;wame1240;wilson-2007
--fun;;12pl_p;1st (incl) Person Plural;55539;;;;wame1240;wilson-2007
-wəjə;;2sg_a;2nd Person Singular;55538;;;;wame1240;wilson-2007
-wəjə;;2sg_s;2nd Person Singular;55537;;;;wame1240;wilson-2007
-wəjə;;2sg_o;2nd Person Singular;55536;;;;wame1240;wilson-2007
--xu;;2sg_p;2nd Person Singular;55535;;;;wame1240;wilson-2007
-wuɾ̃ə;;2du_a;2nd Person Dual;55534;;;;wame1240;wilson-2007
-wuɾ̃ə;;2du_s;2nd Person Dual;55533;;;;wame1240;wilson-2007
-wuɾ̃ə;;2du_o;2nd Person Dual;55532;;;;wame1240;wilson-2007
--xun;;2du_p;2nd Person Dual;55531;;;;wame1240;wilson-2007
-wuɾ̃ə;;2pl_a;2nd Person Plural;55530;;;;wame1240;wilson-2007
-wuɾ̃ə;;2pl_s;2nd Person Plural;55529;;;;wame1240;wilson-2007
-wuɾ̃ə;;2pl_o;2nd Person Plural;55528;;;;wame1240;wilson-2007
--xun;;2pl_p;2nd Person Plural;55527;;;;wame1240;wilson-2007
-umə, mə;;3sg_m_a;3rd Person Singular Masculine;55526;;;;wame1240;wilson-2007
-umə, mə;;3sg_m_s;3rd Person Singular Masculine;55525;;;;wame1240;wilson-2007
-umə, mə;;3sg_m_o;3rd Person Singular Masculine;55524;;;;wame1240;wilson-2007
--uɾ̃, -ũ;;3sg_m_p;3rd Person Singular Masculine;55523;;;;wame1240;wilson-2007
-vəɾ̃i;;3d-a;3rd Person Dual;55522;;;;wame1240;wilson-2007
-vəɾ̃i;;3d-s;3rd Person Dual;55521;;;;wame1240;wilson-2007
-vəɾ̃i;;3d-o;3rd Person Dual;55520;;;;wame1240;wilson-2007
--ɾ̃i;;3d-p;3rd Person Dual;55519;;;;wame1240;wilson-2007
-vəɾ̃i;;3p-a;3rd Person Plural;55518;;;;wame1240;wilson-2007
-vəɾ̃i;;3p-s;3rd Person Plural;55517;;;;wame1240;wilson-2007
-vəɾ̃i;;3p-o;3rd Person Plural;55516;;;;wame1240;wilson-2007
--ɾ̃i;;3p-p;3rd Person Plural;55515;;;;wame1240;wilson-2007
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+"æmi, mi",,1sg_a,1st (excl) Person Singular,55558,,,,wame1240,wilson-2007
+"æmi, mi",,1sg_s,1st (excl) Person Singular,55557,,,,wame1240,wilson-2007
+"æmi, mi",,1sg_o,1st (excl) Person Singular,55556,,,,wame1240,wilson-2007
+-mən,,1sg_p,1st (excl) Person Singular,55555,,,,wame1240,wilson-2007
+fuɾ̃ə,,1du_a,1st (excl) Person Dual,55554,,,,wame1240,wilson-2007
+fuɾ̃ə,,1du_s,1st (excl) Person Dual,55553,,,,wame1240,wilson-2007
+fuɾ̃ə,,1du_o,1st (excl) Person Dual,55552,,,,wame1240,wilson-2007
+-fun,,1du_p,1st (excl) Person Dual,55551,,,,wame1240,wilson-2007
+fuɾ̃ə,,1pl_a,1st (excl) Person Plural,55550,,,,wame1240,wilson-2007
+fuɾ̃ə,,1pl_s,1st (excl) Person Plural,55549,,,,wame1240,wilson-2007
+fuɾ̃ə,,1pl_o,1st (excl) Person Plural,55548,,,,wame1240,wilson-2007
+-fun,,1pl_p,1st (excl) Person Plural,55547,,,,wame1240,wilson-2007
+fuɾ̃ə,,12du_a,1st (incl) Person Dual,55546,,,,wame1240,wilson-2007
+fuɾ̃ə,,12du_s,1st (incl) Person Dual,55545,,,,wame1240,wilson-2007
+fuɾ̃ə,,12du_o,1st (incl) Person Dual,55544,,,,wame1240,wilson-2007
+-fun,,12du_p,1st (incl) Person Dual,55543,,,,wame1240,wilson-2007
+fuɾ̃ə,,12pl_a,1st (incl) Person Plural,55542,,,,wame1240,wilson-2007
+fuɾ̃ə,,12pl_s,1st (incl) Person Plural,55541,,,,wame1240,wilson-2007
+fuɾ̃ə,,12pl_o,1st (incl) Person Plural,55540,,,,wame1240,wilson-2007
+-fun,,12pl_p,1st (incl) Person Plural,55539,,,,wame1240,wilson-2007
+wəjə,,2sg_a,2nd Person Singular,55538,,,,wame1240,wilson-2007
+wəjə,,2sg_s,2nd Person Singular,55537,,,,wame1240,wilson-2007
+wəjə,,2sg_o,2nd Person Singular,55536,,,,wame1240,wilson-2007
+-xu,,2sg_p,2nd Person Singular,55535,,,,wame1240,wilson-2007
+wuɾ̃ə,,2du_a,2nd Person Dual,55534,,,,wame1240,wilson-2007
+wuɾ̃ə,,2du_s,2nd Person Dual,55533,,,,wame1240,wilson-2007
+wuɾ̃ə,,2du_o,2nd Person Dual,55532,,,,wame1240,wilson-2007
+-xun,,2du_p,2nd Person Dual,55531,,,,wame1240,wilson-2007
+wuɾ̃ə,,2pl_a,2nd Person Plural,55530,,,,wame1240,wilson-2007
+wuɾ̃ə,,2pl_s,2nd Person Plural,55529,,,,wame1240,wilson-2007
+wuɾ̃ə,,2pl_o,2nd Person Plural,55528,,,,wame1240,wilson-2007
+-xun,,2pl_p,2nd Person Plural,55527,,,,wame1240,wilson-2007
+"umə, mə",,3sg_m_a,3rd Person Singular Masculine,55526,,,,wame1240,wilson-2007
+"umə, mə",,3sg_m_s,3rd Person Singular Masculine,55525,,,,wame1240,wilson-2007
+"umə, mə",,3sg_m_o,3rd Person Singular Masculine,55524,,,,wame1240,wilson-2007
+"-uɾ̃, -ũ",,3sg_m_p,3rd Person Singular Masculine,55523,,,,wame1240,wilson-2007
+vəɾ̃i,,3d-a,3rd Person Dual,55522,,,,wame1240,wilson-2007
+vəɾ̃i,,3d-s,3rd Person Dual,55521,,,,wame1240,wilson-2007
+vəɾ̃i,,3d-o,3rd Person Dual,55520,,,,wame1240,wilson-2007
+-ɾ̃i,,3d-p,3rd Person Dual,55519,,,,wame1240,wilson-2007
+vəɾ̃i,,3p-a,3rd Person Plural,55518,,,,wame1240,wilson-2007
+vəɾ̃i,,3p-s,3rd Person Plural,55517,,,,wame1240,wilson-2007
+vəɾ̃i,,3p-o,3rd Person Plural,55516,,,,wame1240,wilson-2007
+-ɾ̃i,,3p-p,3rd Person Plural,55515,,,,wame1240,wilson-2007

@@ -1,45 +1,45 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mɩ;;1sg_a;1st (excl) Person Singular;58156;;;;lobi1245;maimouna-2007
-mɩ;;1sg_s;1st (excl) Person Singular;58155;;;;lobi1245;maimouna-2007
-mɩ;;1sg_o;1st (excl) Person Singular;58154;;;;lobi1245;maimouna-2007
-ʔn;;1sg_p;1st (excl) Person Singular;58153;;;;lobi1245;maimouna-2007
-sɩ;;1du_a;1st (excl) Person Dual;58152;;;;lobi1245;maimouna-2007
-sɩ;;1du_s;1st (excl) Person Dual;58151;;;;lobi1245;maimouna-2007
-sɩ;;1du_o;1st (excl) Person Dual;58150;;;;lobi1245;maimouna-2007
-sɩ;;1du_p;1st (excl) Person Dual;58149;;;;lobi1245;maimouna-2007
-sɩ;;1pl_a;1st (excl) Person Plural;58148;;;;lobi1245;maimouna-2007
-sɩ;;1pl_s;1st (excl) Person Plural;58147;;;;lobi1245;maimouna-2007
-sɩ;;1pl_o;1st (excl) Person Plural;58146;;;;lobi1245;maimouna-2007
-sɩ;;1pl_p;1st (excl) Person Plural;58145;;;;lobi1245;maimouna-2007
-sɩ;;12du_a;1st (incl) Person Dual;58144;;;;lobi1245;maimouna-2007
-sɩ;;12du_s;1st (incl) Person Dual;58143;;;;lobi1245;maimouna-2007
-sɩ;;12du_o;1st (incl) Person Dual;58142;;;;lobi1245;maimouna-2007
-sɩ;;12du_p;1st (incl) Person Dual;58141;;;;lobi1245;maimouna-2007
-sɩ;;12pl_a;1st (incl) Person Plural;58140;;;;lobi1245;maimouna-2007
-sɩ;;12pl_s;1st (incl) Person Plural;58139;;;;lobi1245;maimouna-2007
-sɩ;;12pl_o;1st (incl) Person Plural;58138;;;;lobi1245;maimouna-2007
-sɩ;;12pl_p;1st (incl) Person Plural;58137;;;;lobi1245;maimouna-2007
-fɩ;;2sg_a;2nd Person Singular;58136;;;;lobi1245;maimouna-2007
-fɩ;;2sg_s;2nd Person Singular;58135;;;;lobi1245;maimouna-2007
-fɩ;;2sg_o;2nd Person Singular;58134;;;;lobi1245;maimouna-2007
-fɩ;;2sg_p;2nd Person Singular;58133;;;;lobi1245;maimouna-2007
-nɩ;;2du_a;2nd Person Dual;58132;;;;lobi1245;maimouna-2007
-nɩ;;2du_s;2nd Person Dual;58131;;;;lobi1245;maimouna-2007
-nɩ;;2du_o;2nd Person Dual;58130;;;;lobi1245;maimouna-2007
-nɩ;;2du_p;2nd Person Dual;58129;;;;lobi1245;maimouna-2007
-nɩ;;2pl_a;2nd Person Plural;58128;;;;lobi1245;maimouna-2007
-nɩ;;2pl_s;2nd Person Plural;58127;;;;lobi1245;maimouna-2007
-nɩ;;2pl_o;2nd Person Plural;58126;;;;lobi1245;maimouna-2007
-nɩ;;2pl_p;2nd Person Plural;58125;;;;lobi1245;maimouna-2007
-a;;3sg_m_a;3rd Person Singular Masculine;58124;;;;lobi1245;maimouna-2007
-a;;3sg_m_s;3rd Person Singular Masculine;58123;;;;lobi1245;maimouna-2007
-a;;3sg_m_o;3rd Person Singular Masculine;58122;;;;lobi1245;maimouna-2007
-ʔɔ;;3sg_m_p;3rd Person Singular Masculine;58121;;;;lobi1245;maimouna-2007
-wʊ;;3d-a;3rd Person Dual;58120;;;;lobi1245;maimouna-2007
-wʊ;;3d-s;3rd Person Dual;58119;;;;lobi1245;maimouna-2007
-wʊ;;3d-o;3rd Person Dual;58118;;;;lobi1245;maimouna-2007
-ʔyɛ;;3d-p;3rd Person Dual;58117;;;;lobi1245;maimouna-2007
-wʊ;;3p-a;3rd Person Plural;58116;;;;lobi1245;maimouna-2007
-wʊ;;3p-s;3rd Person Plural;58115;;;;lobi1245;maimouna-2007
-wʊ;;3p-o;3rd Person Plural;58114;;;;lobi1245;maimouna-2007
-ʔyɛ;;3p-p;3rd Person Plural;58113;;;;lobi1245;maimouna-2007
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mɩ,,1sg_a,1st (excl) Person Singular,58156,,,,lobi1245,maimouna-2007
+mɩ,,1sg_s,1st (excl) Person Singular,58155,,,,lobi1245,maimouna-2007
+mɩ,,1sg_o,1st (excl) Person Singular,58154,,,,lobi1245,maimouna-2007
+ʔn,,1sg_p,1st (excl) Person Singular,58153,,,,lobi1245,maimouna-2007
+sɩ,,1du_a,1st (excl) Person Dual,58152,,,,lobi1245,maimouna-2007
+sɩ,,1du_s,1st (excl) Person Dual,58151,,,,lobi1245,maimouna-2007
+sɩ,,1du_o,1st (excl) Person Dual,58150,,,,lobi1245,maimouna-2007
+sɩ,,1du_p,1st (excl) Person Dual,58149,,,,lobi1245,maimouna-2007
+sɩ,,1pl_a,1st (excl) Person Plural,58148,,,,lobi1245,maimouna-2007
+sɩ,,1pl_s,1st (excl) Person Plural,58147,,,,lobi1245,maimouna-2007
+sɩ,,1pl_o,1st (excl) Person Plural,58146,,,,lobi1245,maimouna-2007
+sɩ,,1pl_p,1st (excl) Person Plural,58145,,,,lobi1245,maimouna-2007
+sɩ,,12du_a,1st (incl) Person Dual,58144,,,,lobi1245,maimouna-2007
+sɩ,,12du_s,1st (incl) Person Dual,58143,,,,lobi1245,maimouna-2007
+sɩ,,12du_o,1st (incl) Person Dual,58142,,,,lobi1245,maimouna-2007
+sɩ,,12du_p,1st (incl) Person Dual,58141,,,,lobi1245,maimouna-2007
+sɩ,,12pl_a,1st (incl) Person Plural,58140,,,,lobi1245,maimouna-2007
+sɩ,,12pl_s,1st (incl) Person Plural,58139,,,,lobi1245,maimouna-2007
+sɩ,,12pl_o,1st (incl) Person Plural,58138,,,,lobi1245,maimouna-2007
+sɩ,,12pl_p,1st (incl) Person Plural,58137,,,,lobi1245,maimouna-2007
+fɩ,,2sg_a,2nd Person Singular,58136,,,,lobi1245,maimouna-2007
+fɩ,,2sg_s,2nd Person Singular,58135,,,,lobi1245,maimouna-2007
+fɩ,,2sg_o,2nd Person Singular,58134,,,,lobi1245,maimouna-2007
+fɩ,,2sg_p,2nd Person Singular,58133,,,,lobi1245,maimouna-2007
+nɩ,,2du_a,2nd Person Dual,58132,,,,lobi1245,maimouna-2007
+nɩ,,2du_s,2nd Person Dual,58131,,,,lobi1245,maimouna-2007
+nɩ,,2du_o,2nd Person Dual,58130,,,,lobi1245,maimouna-2007
+nɩ,,2du_p,2nd Person Dual,58129,,,,lobi1245,maimouna-2007
+nɩ,,2pl_a,2nd Person Plural,58128,,,,lobi1245,maimouna-2007
+nɩ,,2pl_s,2nd Person Plural,58127,,,,lobi1245,maimouna-2007
+nɩ,,2pl_o,2nd Person Plural,58126,,,,lobi1245,maimouna-2007
+nɩ,,2pl_p,2nd Person Plural,58125,,,,lobi1245,maimouna-2007
+a,,3sg_m_a,3rd Person Singular Masculine,58124,,,,lobi1245,maimouna-2007
+a,,3sg_m_s,3rd Person Singular Masculine,58123,,,,lobi1245,maimouna-2007
+a,,3sg_m_o,3rd Person Singular Masculine,58122,,,,lobi1245,maimouna-2007
+ʔɔ,,3sg_m_p,3rd Person Singular Masculine,58121,,,,lobi1245,maimouna-2007
+wʊ,,3d-a,3rd Person Dual,58120,,,,lobi1245,maimouna-2007
+wʊ,,3d-s,3rd Person Dual,58119,,,,lobi1245,maimouna-2007
+wʊ,,3d-o,3rd Person Dual,58118,,,,lobi1245,maimouna-2007
+ʔyɛ,,3d-p,3rd Person Dual,58117,,,,lobi1245,maimouna-2007
+wʊ,,3p-a,3rd Person Plural,58116,,,,lobi1245,maimouna-2007
+wʊ,,3p-s,3rd Person Plural,58115,,,,lobi1245,maimouna-2007
+wʊ,,3p-o,3rd Person Plural,58114,,,,lobi1245,maimouna-2007
+ʔyɛ,,3p-p,3rd Person Plural,58113,,,,lobi1245,maimouna-2007

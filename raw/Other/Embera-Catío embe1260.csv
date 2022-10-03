@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mʉ̃;;1sg_a;1st (excl) Person Singular;53322;;;;embe1260;pardo-and-aguirre-1993
-mʉ̃;;1sg_s;1st (excl) Person Singular;53321;;;;embe1260;pardo-and-aguirre-1993
-mʉ̃;;1sg_o;1st (excl) Person Singular;53320;;;;embe1260;pardo-and-aguirre-1993
-mʉ̃;;1sg_p;1st (excl) Person Singular;53319;;;;embe1260;pardo-and-aguirre-1993
-dai;;1du_a;1st (excl) Person Dual;53318;;;;embe1260;pardo-and-aguirre-1993
-dai;;1du_s;1st (excl) Person Dual;53317;;;;embe1260;pardo-and-aguirre-1993
-dai;;1du_o;1st (excl) Person Dual;53316;;;;embe1260;pardo-and-aguirre-1993
-dai;;1du_p;1st (excl) Person Dual;53315;;;;embe1260;pardo-and-aguirre-1993
-dai;;1pl_a;1st (excl) Person Plural;53314;;;;embe1260;pardo-and-aguirre-1993
-dai;;1pl_s;1st (excl) Person Plural;53313;;;;embe1260;pardo-and-aguirre-1993
-dai;;1pl_o;1st (excl) Person Plural;53312;;;;embe1260;pardo-and-aguirre-1993
-dai;;1pl_p;1st (excl) Person Plural;53311;;;;embe1260;pardo-and-aguirre-1993
-dai;;12du_a;1st (incl) Person Dual;53310;;;;embe1260;pardo-and-aguirre-1993
-dai;;12du_s;1st (incl) Person Dual;53309;;;;embe1260;pardo-and-aguirre-1993
-dai;;12du_o;1st (incl) Person Dual;53308;;;;embe1260;pardo-and-aguirre-1993
-dai;;12du_p;1st (incl) Person Dual;53307;;;;embe1260;pardo-and-aguirre-1993
-dai;;12pl_a;1st (incl) Person Plural;53306;;;;embe1260;pardo-and-aguirre-1993
-dai;;12pl_s;1st (incl) Person Plural;53305;;;;embe1260;pardo-and-aguirre-1993
-dai;;12pl_o;1st (incl) Person Plural;53304;;;;embe1260;pardo-and-aguirre-1993
-dai;;12pl_p;1st (incl) Person Plural;53303;;;;embe1260;pardo-and-aguirre-1993
-bʉ;;2sg_a;2nd Person Singular;53302;;;;embe1260;pardo-and-aguirre-1993
-bʉ;;2sg_s;2nd Person Singular;53301;;;;embe1260;pardo-and-aguirre-1993
-bʉ;;2sg_o;2nd Person Singular;53300;;;;embe1260;pardo-and-aguirre-1993
-bʉ;;2sg_p;2nd Person Singular;53299;;;;embe1260;pardo-and-aguirre-1993
-mãrã;;2du_a;2nd Person Dual;53298;;;;embe1260;pardo-and-aguirre-1993
-mãrã;;2du_s;2nd Person Dual;53297;;;;embe1260;pardo-and-aguirre-1993
-mãrã;;2du_o;2nd Person Dual;53296;;;;embe1260;pardo-and-aguirre-1993
-mãrã;;2du_p;2nd Person Dual;53295;;;;embe1260;pardo-and-aguirre-1993
-mãrã;;2pl_a;2nd Person Plural;53294;;;;embe1260;pardo-and-aguirre-1993
-mãrã;;2pl_s;2nd Person Plural;53293;;;;embe1260;pardo-and-aguirre-1993
-mãrã;;2pl_o;2nd Person Plural;53292;;;;embe1260;pardo-and-aguirre-1993
-mãrã;;2pl_p;2nd Person Plural;53291;;;;embe1260;pardo-and-aguirre-1993
-iǰi;;3sg_m_a;3rd Person Singular Masculine;53290;;;;embe1260;pardo-and-aguirre-1993
-iǰi;;3sg_m_s;3rd Person Singular Masculine;53289;;;;embe1260;pardo-and-aguirre-1993
-iǰi;;3sg_m_o;3rd Person Singular Masculine;53288;;;;embe1260;pardo-and-aguirre-1993
-iǰi;;3sg_m_p;3rd Person Singular Masculine;53287;;;;embe1260;pardo-and-aguirre-1993
-iǰi;;3sg_n_a;3rd Person Singular Neuter;53286;;;;embe1260;pardo-and-aguirre-1993
-iǰi;;3sg_n_s;3rd Person Singular Neuter;53285;;;;embe1260;pardo-and-aguirre-1993
-iǰi;;3sg_n_o;3rd Person Singular Neuter;53284;;;;embe1260;pardo-and-aguirre-1993
-iǰi;;3sg_n_p;3rd Person Singular Neuter;53283;;;;embe1260;pardo-and-aguirre-1993
-ãǰi;;3d-a;3rd Person Dual;53282;;;;embe1260;pardo-and-aguirre-1993
-ãǰi;;3d-s;3rd Person Dual;53281;;;;embe1260;pardo-and-aguirre-1993
-ãǰi;;3d-o;3rd Person Dual;53280;;;;embe1260;pardo-and-aguirre-1993
-ãǰi;;3d-p;3rd Person Dual;53279;;;;embe1260;pardo-and-aguirre-1993
-ãǰi;;3p-a;3rd Person Plural;53278;;;;embe1260;pardo-and-aguirre-1993
-ãǰi;;3p-s;3rd Person Plural;53277;;;;embe1260;pardo-and-aguirre-1993
-ãǰi;;3p-o;3rd Person Plural;53276;;;;embe1260;pardo-and-aguirre-1993
-ãǰi;;3p-p;3rd Person Plural;53275;;;;embe1260;pardo-and-aguirre-1993
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mʉ̃,,1sg_a,1st (excl) Person Singular,53322,,,,embe1260,pardo-and-aguirre-1993
+mʉ̃,,1sg_s,1st (excl) Person Singular,53321,,,,embe1260,pardo-and-aguirre-1993
+mʉ̃,,1sg_o,1st (excl) Person Singular,53320,,,,embe1260,pardo-and-aguirre-1993
+mʉ̃,,1sg_p,1st (excl) Person Singular,53319,,,,embe1260,pardo-and-aguirre-1993
+dai,,1du_a,1st (excl) Person Dual,53318,,,,embe1260,pardo-and-aguirre-1993
+dai,,1du_s,1st (excl) Person Dual,53317,,,,embe1260,pardo-and-aguirre-1993
+dai,,1du_o,1st (excl) Person Dual,53316,,,,embe1260,pardo-and-aguirre-1993
+dai,,1du_p,1st (excl) Person Dual,53315,,,,embe1260,pardo-and-aguirre-1993
+dai,,1pl_a,1st (excl) Person Plural,53314,,,,embe1260,pardo-and-aguirre-1993
+dai,,1pl_s,1st (excl) Person Plural,53313,,,,embe1260,pardo-and-aguirre-1993
+dai,,1pl_o,1st (excl) Person Plural,53312,,,,embe1260,pardo-and-aguirre-1993
+dai,,1pl_p,1st (excl) Person Plural,53311,,,,embe1260,pardo-and-aguirre-1993
+dai,,12du_a,1st (incl) Person Dual,53310,,,,embe1260,pardo-and-aguirre-1993
+dai,,12du_s,1st (incl) Person Dual,53309,,,,embe1260,pardo-and-aguirre-1993
+dai,,12du_o,1st (incl) Person Dual,53308,,,,embe1260,pardo-and-aguirre-1993
+dai,,12du_p,1st (incl) Person Dual,53307,,,,embe1260,pardo-and-aguirre-1993
+dai,,12pl_a,1st (incl) Person Plural,53306,,,,embe1260,pardo-and-aguirre-1993
+dai,,12pl_s,1st (incl) Person Plural,53305,,,,embe1260,pardo-and-aguirre-1993
+dai,,12pl_o,1st (incl) Person Plural,53304,,,,embe1260,pardo-and-aguirre-1993
+dai,,12pl_p,1st (incl) Person Plural,53303,,,,embe1260,pardo-and-aguirre-1993
+bʉ,,2sg_a,2nd Person Singular,53302,,,,embe1260,pardo-and-aguirre-1993
+bʉ,,2sg_s,2nd Person Singular,53301,,,,embe1260,pardo-and-aguirre-1993
+bʉ,,2sg_o,2nd Person Singular,53300,,,,embe1260,pardo-and-aguirre-1993
+bʉ,,2sg_p,2nd Person Singular,53299,,,,embe1260,pardo-and-aguirre-1993
+mãrã,,2du_a,2nd Person Dual,53298,,,,embe1260,pardo-and-aguirre-1993
+mãrã,,2du_s,2nd Person Dual,53297,,,,embe1260,pardo-and-aguirre-1993
+mãrã,,2du_o,2nd Person Dual,53296,,,,embe1260,pardo-and-aguirre-1993
+mãrã,,2du_p,2nd Person Dual,53295,,,,embe1260,pardo-and-aguirre-1993
+mãrã,,2pl_a,2nd Person Plural,53294,,,,embe1260,pardo-and-aguirre-1993
+mãrã,,2pl_s,2nd Person Plural,53293,,,,embe1260,pardo-and-aguirre-1993
+mãrã,,2pl_o,2nd Person Plural,53292,,,,embe1260,pardo-and-aguirre-1993
+mãrã,,2pl_p,2nd Person Plural,53291,,,,embe1260,pardo-and-aguirre-1993
+iǰi,,3sg_m_a,3rd Person Singular Masculine,53290,,,,embe1260,pardo-and-aguirre-1993
+iǰi,,3sg_m_s,3rd Person Singular Masculine,53289,,,,embe1260,pardo-and-aguirre-1993
+iǰi,,3sg_m_o,3rd Person Singular Masculine,53288,,,,embe1260,pardo-and-aguirre-1993
+iǰi,,3sg_m_p,3rd Person Singular Masculine,53287,,,,embe1260,pardo-and-aguirre-1993
+iǰi,,3sg_n_a,3rd Person Singular Neuter,53286,,,,embe1260,pardo-and-aguirre-1993
+iǰi,,3sg_n_s,3rd Person Singular Neuter,53285,,,,embe1260,pardo-and-aguirre-1993
+iǰi,,3sg_n_o,3rd Person Singular Neuter,53284,,,,embe1260,pardo-and-aguirre-1993
+iǰi,,3sg_n_p,3rd Person Singular Neuter,53283,,,,embe1260,pardo-and-aguirre-1993
+ãǰi,,3d-a,3rd Person Dual,53282,,,,embe1260,pardo-and-aguirre-1993
+ãǰi,,3d-s,3rd Person Dual,53281,,,,embe1260,pardo-and-aguirre-1993
+ãǰi,,3d-o,3rd Person Dual,53280,,,,embe1260,pardo-and-aguirre-1993
+ãǰi,,3d-p,3rd Person Dual,53279,,,,embe1260,pardo-and-aguirre-1993
+ãǰi,,3p-a,3rd Person Plural,53278,,,,embe1260,pardo-and-aguirre-1993
+ãǰi,,3p-s,3rd Person Plural,53277,,,,embe1260,pardo-and-aguirre-1993
+ãǰi,,3p-o,3rd Person Plural,53276,,,,embe1260,pardo-and-aguirre-1993
+ãǰi,,3p-p,3rd Person Plural,53275,,,,embe1260,pardo-and-aguirre-1993

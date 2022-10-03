@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-na;;1sg_a;1st (excl) Person Singular;52430;;;;awac1239;duenas-2000
-na;;1sg_s;1st (excl) Person Singular;52429;;;;awac1239;duenas-2000
-na;;1sg_o;1st (excl) Person Singular;52428;;;;awac1239;duenas-2000
-ap;;1sg_p;1st (excl) Person Singular;52427;;;;awac1239;duenas-2000
-au;;1du_a;1st (excl) Person Dual;52426;;;;awac1239;duenas-2000
-au;;1du_s;1st (excl) Person Dual;52425;;;;awac1239;duenas-2000
-au;;1du_o;1st (excl) Person Dual;52424;;;;awac1239;duenas-2000
-au;;1du_p;1st (excl) Person Dual;52423;;;;awac1239;duenas-2000
-au;;1pl_a;1st (excl) Person Plural;52422;;;;awac1239;duenas-2000
-au;;1pl_s;1st (excl) Person Plural;52421;;;;awac1239;duenas-2000
-au;;1pl_o;1st (excl) Person Plural;52420;;;;awac1239;duenas-2000
-au;;1pl_p;1st (excl) Person Plural;52419;;;;awac1239;duenas-2000
-au;;12du_a;1st (incl) Person Dual;52418;;;;awac1239;duenas-2000
-au;;12du_s;1st (incl) Person Dual;52417;;;;awac1239;duenas-2000
-au;;12du_o;1st (incl) Person Dual;52416;;;;awac1239;duenas-2000
-au;;12du_p;1st (incl) Person Dual;52415;;;;awac1239;duenas-2000
-au;;12pl_a;1st (incl) Person Plural;52414;;;;awac1239;duenas-2000
-au;;12pl_s;1st (incl) Person Plural;52413;;;;awac1239;duenas-2000
-au;;12pl_o;1st (incl) Person Plural;52412;;;;awac1239;duenas-2000
-au;;12pl_p;1st (incl) Person Plural;52411;;;;awac1239;duenas-2000
-nu;;2sg_a;2nd Person Singular;52410;;;;awac1239;duenas-2000
-nu;;2sg_s;2nd Person Singular;52409;;;;awac1239;duenas-2000
-nu;;2sg_o;2nd Person Singular;52408;;;;awac1239;duenas-2000
-up;;2sg_p;2nd Person Singular;52407;;;;awac1239;duenas-2000
-u;;2du_a;2nd Person Dual;52406;;;;awac1239;duenas-2000
-u;;2du_s;2nd Person Dual;52405;;;;awac1239;duenas-2000
-u;;2du_o;2nd Person Dual;52404;;;;awac1239;duenas-2000
-u;;2du_p;2nd Person Dual;52403;;;;awac1239;duenas-2000
-u;;2pl_a;2nd Person Plural;52402;;;;awac1239;duenas-2000
-u;;2pl_s;2nd Person Plural;52401;;;;awac1239;duenas-2000
-u;;2pl_o;2nd Person Plural;52400;;;;awac1239;duenas-2000
-au;;2pl_p;2nd Person Plural;52399;;;;awac1239;duenas-2000
-us;;3sg_m_a;3rd Person Singular Masculine;52398;;;;awac1239;duenas-2000
-us;;3sg_m_s;3rd Person Singular Masculine;52397;;;;awac1239;duenas-2000
-us;;3sg_m_o;3rd Person Singular Masculine;52396;;;;awac1239;duenas-2000
-u;;3sg_m_p;3rd Person Singular Masculine;52395;;;;awac1239;duenas-2000
-us;;3sg_n_a;3rd Person Singular Neuter;52394;;;;awac1239;duenas-2000
-us;;3sg_n_s;3rd Person Singular Neuter;52393;;;;awac1239;duenas-2000
-us;;3sg_n_o;3rd Person Singular Neuter;52392;;;;awac1239;duenas-2000
-u;;3sg_n_p;3rd Person Singular Neuter;52391;;;;awac1239;duenas-2000
-uspa;;3d-a;3rd Person Dual;52390;;;;awac1239;duenas-2000
-uspa;;3d-s;3rd Person Dual;52389;;;;awac1239;duenas-2000
-uspa;;3d-o;3rd Person Dual;52388;;;;awac1239;duenas-2000
-usparuza;;3d-p;3rd Person Dual;52387;;;;awac1239;duenas-2000
-uspa;;3p-a;3rd Person Plural;52386;;;;awac1239;duenas-2000
-uspa;;3p-s;3rd Person Plural;52385;;;;awac1239;duenas-2000
-uspa;;3p-o;3rd Person Plural;52384;;;;awac1239;duenas-2000
-usparuza;;3p-p;3rd Person Plural;52383;;;;awac1239;duenas-2000
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+na,,1sg_a,1st (excl) Person Singular,52430,,,,awac1239,duenas-2000
+na,,1sg_s,1st (excl) Person Singular,52429,,,,awac1239,duenas-2000
+na,,1sg_o,1st (excl) Person Singular,52428,,,,awac1239,duenas-2000
+ap,,1sg_p,1st (excl) Person Singular,52427,,,,awac1239,duenas-2000
+au,,1du_a,1st (excl) Person Dual,52426,,,,awac1239,duenas-2000
+au,,1du_s,1st (excl) Person Dual,52425,,,,awac1239,duenas-2000
+au,,1du_o,1st (excl) Person Dual,52424,,,,awac1239,duenas-2000
+au,,1du_p,1st (excl) Person Dual,52423,,,,awac1239,duenas-2000
+au,,1pl_a,1st (excl) Person Plural,52422,,,,awac1239,duenas-2000
+au,,1pl_s,1st (excl) Person Plural,52421,,,,awac1239,duenas-2000
+au,,1pl_o,1st (excl) Person Plural,52420,,,,awac1239,duenas-2000
+au,,1pl_p,1st (excl) Person Plural,52419,,,,awac1239,duenas-2000
+au,,12du_a,1st (incl) Person Dual,52418,,,,awac1239,duenas-2000
+au,,12du_s,1st (incl) Person Dual,52417,,,,awac1239,duenas-2000
+au,,12du_o,1st (incl) Person Dual,52416,,,,awac1239,duenas-2000
+au,,12du_p,1st (incl) Person Dual,52415,,,,awac1239,duenas-2000
+au,,12pl_a,1st (incl) Person Plural,52414,,,,awac1239,duenas-2000
+au,,12pl_s,1st (incl) Person Plural,52413,,,,awac1239,duenas-2000
+au,,12pl_o,1st (incl) Person Plural,52412,,,,awac1239,duenas-2000
+au,,12pl_p,1st (incl) Person Plural,52411,,,,awac1239,duenas-2000
+nu,,2sg_a,2nd Person Singular,52410,,,,awac1239,duenas-2000
+nu,,2sg_s,2nd Person Singular,52409,,,,awac1239,duenas-2000
+nu,,2sg_o,2nd Person Singular,52408,,,,awac1239,duenas-2000
+up,,2sg_p,2nd Person Singular,52407,,,,awac1239,duenas-2000
+u,,2du_a,2nd Person Dual,52406,,,,awac1239,duenas-2000
+u,,2du_s,2nd Person Dual,52405,,,,awac1239,duenas-2000
+u,,2du_o,2nd Person Dual,52404,,,,awac1239,duenas-2000
+u,,2du_p,2nd Person Dual,52403,,,,awac1239,duenas-2000
+u,,2pl_a,2nd Person Plural,52402,,,,awac1239,duenas-2000
+u,,2pl_s,2nd Person Plural,52401,,,,awac1239,duenas-2000
+u,,2pl_o,2nd Person Plural,52400,,,,awac1239,duenas-2000
+au,,2pl_p,2nd Person Plural,52399,,,,awac1239,duenas-2000
+us,,3sg_m_a,3rd Person Singular Masculine,52398,,,,awac1239,duenas-2000
+us,,3sg_m_s,3rd Person Singular Masculine,52397,,,,awac1239,duenas-2000
+us,,3sg_m_o,3rd Person Singular Masculine,52396,,,,awac1239,duenas-2000
+u,,3sg_m_p,3rd Person Singular Masculine,52395,,,,awac1239,duenas-2000
+us,,3sg_n_a,3rd Person Singular Neuter,52394,,,,awac1239,duenas-2000
+us,,3sg_n_s,3rd Person Singular Neuter,52393,,,,awac1239,duenas-2000
+us,,3sg_n_o,3rd Person Singular Neuter,52392,,,,awac1239,duenas-2000
+u,,3sg_n_p,3rd Person Singular Neuter,52391,,,,awac1239,duenas-2000
+uspa,,3d-a,3rd Person Dual,52390,,,,awac1239,duenas-2000
+uspa,,3d-s,3rd Person Dual,52389,,,,awac1239,duenas-2000
+uspa,,3d-o,3rd Person Dual,52388,,,,awac1239,duenas-2000
+usparuza,,3d-p,3rd Person Dual,52387,,,,awac1239,duenas-2000
+uspa,,3p-a,3rd Person Plural,52386,,,,awac1239,duenas-2000
+uspa,,3p-s,3rd Person Plural,52385,,,,awac1239,duenas-2000
+uspa,,3p-o,3rd Person Plural,52384,,,,awac1239,duenas-2000
+usparuza,,3p-p,3rd Person Plural,52383,,,,awac1239,duenas-2000

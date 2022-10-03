@@ -1,29 +1,29 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-j-;;1sg_a;1st (excl) Person Singular;48024;;;;toba1266;donohue-2002
-j-;;1sg_s;1st (excl) Person Singular;48023;;;;toba1266;donohue-2002
--rok;;1sg_o;1st (excl) Person Singular;48022;;;;toba1266;donohue-2002
-m-;;1du_a;1st (excl) Person Dual;48021;;;;toba1266;donohue-2002
-m-;;1du_s;1st (excl) Person Dual;48020;;;;toba1266;donohue-2002
--ni;;1du_o;1st (excl) Person Dual;48019;;;;toba1266;donohue-2002
-m-;;1pl_a;1st (excl) Person Plural;48018;;;;toba1266;donohue-2002
-m-;;1pl_s;1st (excl) Person Plural;48017;;;;toba1266;donohue-2002
--ni;;1pl_o;1st (excl) Person Plural;48016;;;;toba1266;donohue-2002
-ty-;;12du_a;1st (incl) Person Dual;48015;;;;toba1266;donohue-2002
-ty-;;12du_s;1st (incl) Person Dual;48014;;;;toba1266;donohue-2002
-ty-;;12pl_a;1st (incl) Person Plural;48013;;;;toba1266;donohue-2002
-ty-;;12pl_s;1st (incl) Person Plural;48012;;;;toba1266;donohue-2002
--ho;;2sg_o;2nd Person Singular;48011;;;;toba1266;donohue-2002
-m-;;2du_a;2nd Person Dual;48010;;;;toba1266;donohue-2002
-m-;;2du_s;2nd Person Dual;48009;;;;toba1266;donohue-2002
--nu;;2du_o;2nd Person Dual;48008;;;;toba1266;donohue-2002
-m-;;2pl_a;2nd Person Plural;48007;;;;toba1266;donohue-2002
-m-;;2pl_s;2nd Person Plural;48006;;;;toba1266;donohue-2002
--nu;;2pl_o;2nd Person Plural;48005;;;;toba1266;donohue-2002
--i;;3sg_m_o;3rd Person Singular Masculine;48004;;;;toba1266;donohue-2002
--i;;3sg_n_o;3rd Person Singular Neuter;48003;;;;toba1266;donohue-2002
-ry-;;3d-a;3rd Person Dual;48002;;;;toba1266;donohue-2002
-ry-;;3d-s;3rd Person Dual;48001;;;;toba1266;donohue-2002
--ric;;3d-o;3rd Person Dual;48000;;;;toba1266;donohue-2002
-ry-;;3p-a;3rd Person Plural;47999;;;;toba1266;donohue-2002
-ry-;;3p-s;3rd Person Plural;47998;;;;toba1266;donohue-2002
--ric;;3p-o;3rd Person Plural;47997;;;;toba1266;donohue-2002
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+j-,,1sg_a,1st (excl) Person Singular,48024,,,,toba1266,donohue-2002
+j-,,1sg_s,1st (excl) Person Singular,48023,,,,toba1266,donohue-2002
+-rok,,1sg_o,1st (excl) Person Singular,48022,,,,toba1266,donohue-2002
+m-,,1du_a,1st (excl) Person Dual,48021,,,,toba1266,donohue-2002
+m-,,1du_s,1st (excl) Person Dual,48020,,,,toba1266,donohue-2002
+-ni,,1du_o,1st (excl) Person Dual,48019,,,,toba1266,donohue-2002
+m-,,1pl_a,1st (excl) Person Plural,48018,,,,toba1266,donohue-2002
+m-,,1pl_s,1st (excl) Person Plural,48017,,,,toba1266,donohue-2002
+-ni,,1pl_o,1st (excl) Person Plural,48016,,,,toba1266,donohue-2002
+ty-,,12du_a,1st (incl) Person Dual,48015,,,,toba1266,donohue-2002
+ty-,,12du_s,1st (incl) Person Dual,48014,,,,toba1266,donohue-2002
+ty-,,12pl_a,1st (incl) Person Plural,48013,,,,toba1266,donohue-2002
+ty-,,12pl_s,1st (incl) Person Plural,48012,,,,toba1266,donohue-2002
+-ho,,2sg_o,2nd Person Singular,48011,,,,toba1266,donohue-2002
+m-,,2du_a,2nd Person Dual,48010,,,,toba1266,donohue-2002
+m-,,2du_s,2nd Person Dual,48009,,,,toba1266,donohue-2002
+-nu,,2du_o,2nd Person Dual,48008,,,,toba1266,donohue-2002
+m-,,2pl_a,2nd Person Plural,48007,,,,toba1266,donohue-2002
+m-,,2pl_s,2nd Person Plural,48006,,,,toba1266,donohue-2002
+-nu,,2pl_o,2nd Person Plural,48005,,,,toba1266,donohue-2002
+-i,,3sg_m_o,3rd Person Singular Masculine,48004,,,,toba1266,donohue-2002
+-i,,3sg_n_o,3rd Person Singular Neuter,48003,,,,toba1266,donohue-2002
+ry-,,3d-a,3rd Person Dual,48002,,,,toba1266,donohue-2002
+ry-,,3d-s,3rd Person Dual,48001,,,,toba1266,donohue-2002
+-ric,,3d-o,3rd Person Dual,48000,,,,toba1266,donohue-2002
+ry-,,3p-a,3rd Person Plural,47999,,,,toba1266,donohue-2002
+ry-,,3p-s,3rd Person Plural,47998,,,,toba1266,donohue-2002
+-ric,,3p-o,3rd Person Plural,47997,,,,toba1266,donohue-2002

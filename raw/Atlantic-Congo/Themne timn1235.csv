@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-minɛ;;1sg_a;1st (excl) Person Singular;55072;;;;timn1235;wilson-2007
-minɛ;;1sg_s;1st (excl) Person Singular;55071;;;;timn1235;wilson-2007
-mi;;1sg_o;1st (excl) Person Singular;55070;;;;timn1235;wilson-2007
-mi;;1sg_p;1st (excl) Person Singular;55069;;;;timn1235;wilson-2007
-sa;;1du_a;1st (excl) Person Dual;55068;;;;timn1235;wilson-2007
-sa;;1du_s;1st (excl) Person Dual;55067;;;;timn1235;wilson-2007
-su;;1du_o;1st (excl) Person Dual;55066;;;;timn1235;wilson-2007
-su;;1du_p;1st (excl) Person Dual;55065;;;;timn1235;wilson-2007
-sa;;1pl_a;1st (excl) Person Plural;55064;;;;timn1235;wilson-2007
-sa;;1pl_s;1st (excl) Person Plural;55063;;;;timn1235;wilson-2007
-su;;1pl_o;1st (excl) Person Plural;55062;;;;timn1235;wilson-2007
-su;;1pl_p;1st (excl) Person Plural;55061;;;;timn1235;wilson-2007
-sa;;12du_a;1st (incl) Person Dual;55060;;;;timn1235;wilson-2007
-sa;;12du_s;1st (incl) Person Dual;55059;;;;timn1235;wilson-2007
-su;;12du_o;1st (incl) Person Dual;55058;;;;timn1235;wilson-2007
-su;;12du_p;1st (incl) Person Dual;55057;;;;timn1235;wilson-2007
-sa;;12pl_a;1st (incl) Person Plural;55056;;;;timn1235;wilson-2007
-sa;;12pl_s;1st (incl) Person Plural;55055;;;;timn1235;wilson-2007
-su;;12pl_o;1st (incl) Person Plural;55054;;;;timn1235;wilson-2007
-su;;12pl_p;1st (incl) Person Plural;55053;;;;timn1235;wilson-2007
-munɔ;;2sg_a;2nd Person Singular;55052;;;;timn1235;wilson-2007
-munɔ;;2sg_s;2nd Person Singular;55051;;;;timn1235;wilson-2007
-mu;;2sg_o;2nd Person Singular;55050;;;;timn1235;wilson-2007
-mu;;2sg_p;2nd Person Singular;55049;;;;timn1235;wilson-2007
-na;;2du_a;2nd Person Dual;55048;;;;timn1235;wilson-2007
-na;;2du_s;2nd Person Dual;55047;;;;timn1235;wilson-2007
-nu;;2du_o;2nd Person Dual;55046;;;;timn1235;wilson-2007
-nu;;2du_p;2nd Person Dual;55045;;;;timn1235;wilson-2007
-na;;2pl_a;2nd Person Plural;55044;;;;timn1235;wilson-2007
-na;;2pl_s;2nd Person Plural;55043;;;;timn1235;wilson-2007
-nu;;2pl_o;2nd Person Plural;55042;;;;timn1235;wilson-2007
-nu;;2pl_p;2nd Person Plural;55041;;;;timn1235;wilson-2007
-kɔnɔ;;3sg_m_a;3rd Person Singular Masculine;55040;;;;timn1235;wilson-2007
-kɔnɔ;;3sg_m_s;3rd Person Singular Masculine;55039;;;;timn1235;wilson-2007
-kɔ;;3sg_m_o;3rd Person Singular Masculine;55038;;;;timn1235;wilson-2007
-kɔ;;3sg_m_p;3rd Person Singular Masculine;55037;;;;timn1235;wilson-2007
-ŋɐ;;3sg_n_a;3rd Person Singular Neuter;55036;;;;timn1235;wilson-2007
-ŋɐ;;3sg_n_s;3rd Person Singular Neuter;55035;;;;timn1235;wilson-2007
-ŋi;;3sg_n_o;3rd Person Singular Neuter;55034;;;;timn1235;wilson-2007
-ŋi;;3sg_n_p;3rd Person Singular Neuter;55033;;;;timn1235;wilson-2007
-ŋa;;3d-a;3rd Person Dual;55032;;;;timn1235;wilson-2007
-ŋa;;3d-s;3rd Person Dual;55031;;;;timn1235;wilson-2007
-ŋa;;3d-o;3rd Person Dual;55030;;;;timn1235;wilson-2007
-ŋa;;3d-p;3rd Person Dual;55029;;;;timn1235;wilson-2007
-ŋa;;3p-a;3rd Person Plural;55028;;;;timn1235;wilson-2007
-ŋa;;3p-s;3rd Person Plural;55027;;;;timn1235;wilson-2007
-ŋa;;3p-o;3rd Person Plural;55026;;;;timn1235;wilson-2007
-ŋa;;3p-p;3rd Person Plural;55025;;;;timn1235;wilson-2007
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+minɛ,,1sg_a,1st (excl) Person Singular,55072,,,,timn1235,wilson-2007
+minɛ,,1sg_s,1st (excl) Person Singular,55071,,,,timn1235,wilson-2007
+mi,,1sg_o,1st (excl) Person Singular,55070,,,,timn1235,wilson-2007
+mi,,1sg_p,1st (excl) Person Singular,55069,,,,timn1235,wilson-2007
+sa,,1du_a,1st (excl) Person Dual,55068,,,,timn1235,wilson-2007
+sa,,1du_s,1st (excl) Person Dual,55067,,,,timn1235,wilson-2007
+su,,1du_o,1st (excl) Person Dual,55066,,,,timn1235,wilson-2007
+su,,1du_p,1st (excl) Person Dual,55065,,,,timn1235,wilson-2007
+sa,,1pl_a,1st (excl) Person Plural,55064,,,,timn1235,wilson-2007
+sa,,1pl_s,1st (excl) Person Plural,55063,,,,timn1235,wilson-2007
+su,,1pl_o,1st (excl) Person Plural,55062,,,,timn1235,wilson-2007
+su,,1pl_p,1st (excl) Person Plural,55061,,,,timn1235,wilson-2007
+sa,,12du_a,1st (incl) Person Dual,55060,,,,timn1235,wilson-2007
+sa,,12du_s,1st (incl) Person Dual,55059,,,,timn1235,wilson-2007
+su,,12du_o,1st (incl) Person Dual,55058,,,,timn1235,wilson-2007
+su,,12du_p,1st (incl) Person Dual,55057,,,,timn1235,wilson-2007
+sa,,12pl_a,1st (incl) Person Plural,55056,,,,timn1235,wilson-2007
+sa,,12pl_s,1st (incl) Person Plural,55055,,,,timn1235,wilson-2007
+su,,12pl_o,1st (incl) Person Plural,55054,,,,timn1235,wilson-2007
+su,,12pl_p,1st (incl) Person Plural,55053,,,,timn1235,wilson-2007
+munɔ,,2sg_a,2nd Person Singular,55052,,,,timn1235,wilson-2007
+munɔ,,2sg_s,2nd Person Singular,55051,,,,timn1235,wilson-2007
+mu,,2sg_o,2nd Person Singular,55050,,,,timn1235,wilson-2007
+mu,,2sg_p,2nd Person Singular,55049,,,,timn1235,wilson-2007
+na,,2du_a,2nd Person Dual,55048,,,,timn1235,wilson-2007
+na,,2du_s,2nd Person Dual,55047,,,,timn1235,wilson-2007
+nu,,2du_o,2nd Person Dual,55046,,,,timn1235,wilson-2007
+nu,,2du_p,2nd Person Dual,55045,,,,timn1235,wilson-2007
+na,,2pl_a,2nd Person Plural,55044,,,,timn1235,wilson-2007
+na,,2pl_s,2nd Person Plural,55043,,,,timn1235,wilson-2007
+nu,,2pl_o,2nd Person Plural,55042,,,,timn1235,wilson-2007
+nu,,2pl_p,2nd Person Plural,55041,,,,timn1235,wilson-2007
+kɔnɔ,,3sg_m_a,3rd Person Singular Masculine,55040,,,,timn1235,wilson-2007
+kɔnɔ,,3sg_m_s,3rd Person Singular Masculine,55039,,,,timn1235,wilson-2007
+kɔ,,3sg_m_o,3rd Person Singular Masculine,55038,,,,timn1235,wilson-2007
+kɔ,,3sg_m_p,3rd Person Singular Masculine,55037,,,,timn1235,wilson-2007
+ŋɐ,,3sg_n_a,3rd Person Singular Neuter,55036,,,,timn1235,wilson-2007
+ŋɐ,,3sg_n_s,3rd Person Singular Neuter,55035,,,,timn1235,wilson-2007
+ŋi,,3sg_n_o,3rd Person Singular Neuter,55034,,,,timn1235,wilson-2007
+ŋi,,3sg_n_p,3rd Person Singular Neuter,55033,,,,timn1235,wilson-2007
+ŋa,,3d-a,3rd Person Dual,55032,,,,timn1235,wilson-2007
+ŋa,,3d-s,3rd Person Dual,55031,,,,timn1235,wilson-2007
+ŋa,,3d-o,3rd Person Dual,55030,,,,timn1235,wilson-2007
+ŋa,,3d-p,3rd Person Dual,55029,,,,timn1235,wilson-2007
+ŋa,,3p-a,3rd Person Plural,55028,,,,timn1235,wilson-2007
+ŋa,,3p-s,3rd Person Plural,55027,,,,timn1235,wilson-2007
+ŋa,,3p-o,3rd Person Plural,55026,,,,timn1235,wilson-2007
+ŋa,,3p-p,3rd Person Plural,55025,,,,timn1235,wilson-2007

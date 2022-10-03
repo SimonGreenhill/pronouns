@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-n˧;;1sg_a;1st (excl) Person Singular;58396;;;;nate1242;neukom-1995
-n˧;;1sg_s;1st (excl) Person Singular;58395;;;;nate1242;neukom-1995
-n˧;;1sg_o;1st (excl) Person Singular;58394;;;;nate1242;neukom-1995
-n˧;;1sg_p;1st (excl) Person Singular;58393;;;;nate1242;neukom-1995
-ti˧;;1du_a;1st (excl) Person Dual;58392;;;;nate1242;neukom-1995
-ti˧;;1du_s;1st (excl) Person Dual;58391;;;;nate1242;neukom-1995
-ti˧;;1du_o;1st (excl) Person Dual;58390;;;;nate1242;neukom-1995
-ti˧;;1du_p;1st (excl) Person Dual;58389;;;;nate1242;neukom-1995
-ti˧;;1pl_a;1st (excl) Person Plural;58388;;;;nate1242;neukom-1995
-ti˧;;1pl_s;1st (excl) Person Plural;58387;;;;nate1242;neukom-1995
-ti˧;;1pl_o;1st (excl) Person Plural;58386;;;;nate1242;neukom-1995
-ti˧;;1pl_p;1st (excl) Person Plural;58385;;;;nate1242;neukom-1995
-ti˧;;12du_a;1st (incl) Person Dual;58384;;;;nate1242;neukom-1995
-ti˧;;12du_s;1st (incl) Person Dual;58383;;;;nate1242;neukom-1995
-ti˧;;12du_o;1st (incl) Person Dual;58382;;;;nate1242;neukom-1995
-ti˧;;12du_p;1st (incl) Person Dual;58381;;;;nate1242;neukom-1995
-ti˧;;12pl_a;1st (incl) Person Plural;58380;;;;nate1242;neukom-1995
-ti˧;;12pl_s;1st (incl) Person Plural;58379;;;;nate1242;neukom-1995
-ti˧;;12pl_o;1st (incl) Person Plural;58378;;;;nate1242;neukom-1995
-ti˧;;12pl_p;1st (incl) Person Plural;58377;;;;nate1242;neukom-1995
-a˧;;2sg_a;2nd Person Singular;58376;;;;nate1242;neukom-1995
-a˧;;2sg_s;2nd Person Singular;58375;;;;nate1242;neukom-1995
-a˧;;2sg_o;2nd Person Singular;58374;;;;nate1242;neukom-1995
-a˧;;2sg_p;2nd Person Singular;58373;;;;nate1242;neukom-1995
-nɛ˧;;2du_a;2nd Person Dual;58372;;;;nate1242;neukom-1995
-nɛ˧;;2du_s;2nd Person Dual;58371;;;;nate1242;neukom-1995
-nɛ˧;;2du_o;2nd Person Dual;58370;;;;nate1242;neukom-1995
-nɛ˧;;2du_p;2nd Person Dual;58369;;;;nate1242;neukom-1995
-nɛ˧;;2pl_a;2nd Person Plural;58368;;;;nate1242;neukom-1995
-nɛ˧;;2pl_s;2nd Person Plural;58367;;;;nate1242;neukom-1995
-nɛ˧;;2pl_o;2nd Person Plural;58366;;;;nate1242;neukom-1995
-nɛ˧;;2pl_p;2nd Person Plural;58365;;;;nate1242;neukom-1995
-o˩;;3sg_m_a;3rd Person Singular Masculine;58364;;;;nate1242;neukom-1995
-o˩;;3sg_m_s;3rd Person Singular Masculine;58363;;;;nate1242;neukom-1995
-o˩;;3sg_m_o;3rd Person Singular Masculine;58362;;;;nate1242;neukom-1995
-o˧;;3sg_m_p;3rd Person Singular Masculine;58361;;;;nate1242;neukom-1995
-nɩ˩;;3sg_n_a;3rd Person Singular Neuter;58360;;;;nate1242;neukom-1995
-nɩ˩;;3sg_n_s;3rd Person Singular Neuter;58359;;;;nate1242;neukom-1995
-nɩ˩;;3sg_n_o;3rd Person Singular Neuter;58358;;;;nate1242;neukom-1995
-nɩ˧;;3sg_n_p;3rd Person Singular Neuter;58357;;;;nate1242;neukom-1995
-pa˩;;3d-a;3rd Person Dual;58356;;;;nate1242;neukom-1995
-pa˩;;3d-s;3rd Person Dual;58355;;;;nate1242;neukom-1995
-pa˩;;3d-o;3rd Person Dual;58354;;;;nate1242;neukom-1995
-pa˧;;3d-p;3rd Person Dual;58353;;;;nate1242;neukom-1995
-pa˩;;3p-a;3rd Person Plural;58352;;;;nate1242;neukom-1995
-pa˩;;3p-s;3rd Person Plural;58351;;;;nate1242;neukom-1995
-pa˩;;3p-o;3rd Person Plural;58350;;;;nate1242;neukom-1995
-pa˧;;3p-p;3rd Person Plural;58349;;;;nate1242;neukom-1995
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+n˧,,1sg_a,1st (excl) Person Singular,58396,,,,nate1242,neukom-1995
+n˧,,1sg_s,1st (excl) Person Singular,58395,,,,nate1242,neukom-1995
+n˧,,1sg_o,1st (excl) Person Singular,58394,,,,nate1242,neukom-1995
+n˧,,1sg_p,1st (excl) Person Singular,58393,,,,nate1242,neukom-1995
+ti˧,,1du_a,1st (excl) Person Dual,58392,,,,nate1242,neukom-1995
+ti˧,,1du_s,1st (excl) Person Dual,58391,,,,nate1242,neukom-1995
+ti˧,,1du_o,1st (excl) Person Dual,58390,,,,nate1242,neukom-1995
+ti˧,,1du_p,1st (excl) Person Dual,58389,,,,nate1242,neukom-1995
+ti˧,,1pl_a,1st (excl) Person Plural,58388,,,,nate1242,neukom-1995
+ti˧,,1pl_s,1st (excl) Person Plural,58387,,,,nate1242,neukom-1995
+ti˧,,1pl_o,1st (excl) Person Plural,58386,,,,nate1242,neukom-1995
+ti˧,,1pl_p,1st (excl) Person Plural,58385,,,,nate1242,neukom-1995
+ti˧,,12du_a,1st (incl) Person Dual,58384,,,,nate1242,neukom-1995
+ti˧,,12du_s,1st (incl) Person Dual,58383,,,,nate1242,neukom-1995
+ti˧,,12du_o,1st (incl) Person Dual,58382,,,,nate1242,neukom-1995
+ti˧,,12du_p,1st (incl) Person Dual,58381,,,,nate1242,neukom-1995
+ti˧,,12pl_a,1st (incl) Person Plural,58380,,,,nate1242,neukom-1995
+ti˧,,12pl_s,1st (incl) Person Plural,58379,,,,nate1242,neukom-1995
+ti˧,,12pl_o,1st (incl) Person Plural,58378,,,,nate1242,neukom-1995
+ti˧,,12pl_p,1st (incl) Person Plural,58377,,,,nate1242,neukom-1995
+a˧,,2sg_a,2nd Person Singular,58376,,,,nate1242,neukom-1995
+a˧,,2sg_s,2nd Person Singular,58375,,,,nate1242,neukom-1995
+a˧,,2sg_o,2nd Person Singular,58374,,,,nate1242,neukom-1995
+a˧,,2sg_p,2nd Person Singular,58373,,,,nate1242,neukom-1995
+nɛ˧,,2du_a,2nd Person Dual,58372,,,,nate1242,neukom-1995
+nɛ˧,,2du_s,2nd Person Dual,58371,,,,nate1242,neukom-1995
+nɛ˧,,2du_o,2nd Person Dual,58370,,,,nate1242,neukom-1995
+nɛ˧,,2du_p,2nd Person Dual,58369,,,,nate1242,neukom-1995
+nɛ˧,,2pl_a,2nd Person Plural,58368,,,,nate1242,neukom-1995
+nɛ˧,,2pl_s,2nd Person Plural,58367,,,,nate1242,neukom-1995
+nɛ˧,,2pl_o,2nd Person Plural,58366,,,,nate1242,neukom-1995
+nɛ˧,,2pl_p,2nd Person Plural,58365,,,,nate1242,neukom-1995
+o˩,,3sg_m_a,3rd Person Singular Masculine,58364,,,,nate1242,neukom-1995
+o˩,,3sg_m_s,3rd Person Singular Masculine,58363,,,,nate1242,neukom-1995
+o˩,,3sg_m_o,3rd Person Singular Masculine,58362,,,,nate1242,neukom-1995
+o˧,,3sg_m_p,3rd Person Singular Masculine,58361,,,,nate1242,neukom-1995
+nɩ˩,,3sg_n_a,3rd Person Singular Neuter,58360,,,,nate1242,neukom-1995
+nɩ˩,,3sg_n_s,3rd Person Singular Neuter,58359,,,,nate1242,neukom-1995
+nɩ˩,,3sg_n_o,3rd Person Singular Neuter,58358,,,,nate1242,neukom-1995
+nɩ˧,,3sg_n_p,3rd Person Singular Neuter,58357,,,,nate1242,neukom-1995
+pa˩,,3d-a,3rd Person Dual,58356,,,,nate1242,neukom-1995
+pa˩,,3d-s,3rd Person Dual,58355,,,,nate1242,neukom-1995
+pa˩,,3d-o,3rd Person Dual,58354,,,,nate1242,neukom-1995
+pa˧,,3d-p,3rd Person Dual,58353,,,,nate1242,neukom-1995
+pa˩,,3p-a,3rd Person Plural,58352,,,,nate1242,neukom-1995
+pa˩,,3p-s,3rd Person Plural,58351,,,,nate1242,neukom-1995
+pa˩,,3p-o,3rd Person Plural,58350,,,,nate1242,neukom-1995
+pa˧,,3p-p,3rd Person Plural,58349,,,,nate1242,neukom-1995

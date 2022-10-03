@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nöp;;1sg_a;1st (excl) Person Singular;46734;;;;mand1444;wester-2014
-nöp;;1sg_s;1st (excl) Person Singular;46733;;;;mand1444;wester-2014
-nöp;;1sg_o;1st (excl) Person Singular;46732;;;;mand1444;wester-2014
-ne-ne-;;1sg_p;1st (excl) Person Singular;46731;;;;mand1444;wester-2014
-noŋɡüp;;1du_a;1st (excl) Person Dual;46730;;;;mand1444;wester-2014
-noŋɡüp;;1du_s;1st (excl) Person Dual;46729;;;;mand1444;wester-2014
-noŋɡüp;;1du_o;1st (excl) Person Dual;46728;;;;mand1444;wester-2014
-noŋɡü-ne-;;1du_p;1st (excl) Person Dual;46727;;;;mand1444;wester-2014
-noŋɡüp;;1pl_a;1st (excl) Person Plural;46726;;;;mand1444;wester-2014
-noŋɡüp;;1pl_s;1st (excl) Person Plural;46725;;;;mand1444;wester-2014
-noŋɡüp;;1pl_o;1st (excl) Person Plural;46724;;;;mand1444;wester-2014
-noŋɡü-ne-;;1pl_p;1st (excl) Person Plural;46723;;;;mand1444;wester-2014
-noŋɡüp;;12du_a;1st (incl) Person Dual;46722;;;;mand1444;wester-2014
-noŋɡüp;;12du_s;1st (incl) Person Dual;46721;;;;mand1444;wester-2014
-noŋɡüp;;12du_o;1st (incl) Person Dual;46720;;;;mand1444;wester-2014
-noŋɡü-ne-;;12du_p;1st (incl) Person Dual;46719;;;;mand1444;wester-2014
-noŋɡüp;;12pl_a;1st (incl) Person Plural;46718;;;;mand1444;wester-2014
-noŋɡüp;;12pl_s;1st (incl) Person Plural;46717;;;;mand1444;wester-2014
-noŋɡüp;;12pl_o;1st (incl) Person Plural;46716;;;;mand1444;wester-2014
-noŋɡü-ne-;;12pl_p;1st (incl) Person Plural;46715;;;;mand1444;wester-2014
-ŋɡöp;;2sg_a;2nd Person Singular;46714;;;;mand1444;wester-2014
-ŋɡöp;;2sg_s;2nd Person Singular;46713;;;;mand1444;wester-2014
-ŋɡöp;;2sg_o;2nd Person Singular;46712;;;;mand1444;wester-2014
-ŋɡo-ne-;;2sg_p;2nd Person Singular;46711;;;;mand1444;wester-2014
-neŋɡip;;2du_a;2nd Person Dual;46710;;;;mand1444;wester-2014
-neŋɡip;;2du_s;2nd Person Dual;46709;;;;mand1444;wester-2014
-neŋɡip;;2du_o;2nd Person Dual;46708;;;;mand1444;wester-2014
-neŋɡi-ne-;;2du_p;2nd Person Dual;46707;;;;mand1444;wester-2014
-neŋɡip;;2pl_a;2nd Person Plural;46706;;;;mand1444;wester-2014
-neŋɡip;;2pl_s;2nd Person Plural;46705;;;;mand1444;wester-2014
-neŋɡip;;2pl_o;2nd Person Plural;46704;;;;mand1444;wester-2014
-neŋɡi-ne-;;2pl_p;2nd Person Plural;46703;;;;mand1444;wester-2014
-eɡe;;3sg_m_a;3rd Person Singular Masculine;46702;;;;mand1444;wester-2014
-eɡe;;3sg_m_s;3rd Person Singular Masculine;46701;;;;mand1444;wester-2014
-eɡe;;3sg_m_o;3rd Person Singular Masculine;46700;;;;mand1444;wester-2014
-e-ne-;;3sg_m_p;3rd Person Singular Masculine;46699;;;;mand1444;wester-2014
-eɡe;;3sg_n_a;3rd Person Singular Neuter;46698;;;;mand1444;wester-2014
-eɡe;;3sg_n_s;3rd Person Singular Neuter;46697;;;;mand1444;wester-2014
-eɡe;;3sg_n_o;3rd Person Singular Neuter;46696;;;;mand1444;wester-2014
-e-ne-;;3sg_n_p;3rd Person Singular Neuter;46695;;;;mand1444;wester-2014
-yeŋɡip;;3d-a;3rd Person Dual;46694;;;;mand1444;wester-2014
-yeŋɡip;;3d-s;3rd Person Dual;46693;;;;mand1444;wester-2014
-yeŋɡip;;3d-o;3rd Person Dual;46692;;;;mand1444;wester-2014
-yeŋɡi-ne-;;3d-p;3rd Person Dual;46691;;;;mand1444;wester-2014
-yeŋɡip;;3p-a;3rd Person Plural;46690;;;;mand1444;wester-2014
-yeŋɡip;;3p-s;3rd Person Plural;46689;;;;mand1444;wester-2014
-yeŋɡip;;3p-o;3rd Person Plural;46688;;;;mand1444;wester-2014
-yeŋɡi-ne-;;3p-p;3rd Person Plural;46687;;;;mand1444;wester-2014
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nöp,,1sg_a,1st (excl) Person Singular,46734,,,,mand1444,wester-2014
+nöp,,1sg_s,1st (excl) Person Singular,46733,,,,mand1444,wester-2014
+nöp,,1sg_o,1st (excl) Person Singular,46732,,,,mand1444,wester-2014
+ne-ne-,,1sg_p,1st (excl) Person Singular,46731,,,,mand1444,wester-2014
+noŋɡüp,,1du_a,1st (excl) Person Dual,46730,,,,mand1444,wester-2014
+noŋɡüp,,1du_s,1st (excl) Person Dual,46729,,,,mand1444,wester-2014
+noŋɡüp,,1du_o,1st (excl) Person Dual,46728,,,,mand1444,wester-2014
+noŋɡü-ne-,,1du_p,1st (excl) Person Dual,46727,,,,mand1444,wester-2014
+noŋɡüp,,1pl_a,1st (excl) Person Plural,46726,,,,mand1444,wester-2014
+noŋɡüp,,1pl_s,1st (excl) Person Plural,46725,,,,mand1444,wester-2014
+noŋɡüp,,1pl_o,1st (excl) Person Plural,46724,,,,mand1444,wester-2014
+noŋɡü-ne-,,1pl_p,1st (excl) Person Plural,46723,,,,mand1444,wester-2014
+noŋɡüp,,12du_a,1st (incl) Person Dual,46722,,,,mand1444,wester-2014
+noŋɡüp,,12du_s,1st (incl) Person Dual,46721,,,,mand1444,wester-2014
+noŋɡüp,,12du_o,1st (incl) Person Dual,46720,,,,mand1444,wester-2014
+noŋɡü-ne-,,12du_p,1st (incl) Person Dual,46719,,,,mand1444,wester-2014
+noŋɡüp,,12pl_a,1st (incl) Person Plural,46718,,,,mand1444,wester-2014
+noŋɡüp,,12pl_s,1st (incl) Person Plural,46717,,,,mand1444,wester-2014
+noŋɡüp,,12pl_o,1st (incl) Person Plural,46716,,,,mand1444,wester-2014
+noŋɡü-ne-,,12pl_p,1st (incl) Person Plural,46715,,,,mand1444,wester-2014
+ŋɡöp,,2sg_a,2nd Person Singular,46714,,,,mand1444,wester-2014
+ŋɡöp,,2sg_s,2nd Person Singular,46713,,,,mand1444,wester-2014
+ŋɡöp,,2sg_o,2nd Person Singular,46712,,,,mand1444,wester-2014
+ŋɡo-ne-,,2sg_p,2nd Person Singular,46711,,,,mand1444,wester-2014
+neŋɡip,,2du_a,2nd Person Dual,46710,,,,mand1444,wester-2014
+neŋɡip,,2du_s,2nd Person Dual,46709,,,,mand1444,wester-2014
+neŋɡip,,2du_o,2nd Person Dual,46708,,,,mand1444,wester-2014
+neŋɡi-ne-,,2du_p,2nd Person Dual,46707,,,,mand1444,wester-2014
+neŋɡip,,2pl_a,2nd Person Plural,46706,,,,mand1444,wester-2014
+neŋɡip,,2pl_s,2nd Person Plural,46705,,,,mand1444,wester-2014
+neŋɡip,,2pl_o,2nd Person Plural,46704,,,,mand1444,wester-2014
+neŋɡi-ne-,,2pl_p,2nd Person Plural,46703,,,,mand1444,wester-2014
+eɡe,,3sg_m_a,3rd Person Singular Masculine,46702,,,,mand1444,wester-2014
+eɡe,,3sg_m_s,3rd Person Singular Masculine,46701,,,,mand1444,wester-2014
+eɡe,,3sg_m_o,3rd Person Singular Masculine,46700,,,,mand1444,wester-2014
+e-ne-,,3sg_m_p,3rd Person Singular Masculine,46699,,,,mand1444,wester-2014
+eɡe,,3sg_n_a,3rd Person Singular Neuter,46698,,,,mand1444,wester-2014
+eɡe,,3sg_n_s,3rd Person Singular Neuter,46697,,,,mand1444,wester-2014
+eɡe,,3sg_n_o,3rd Person Singular Neuter,46696,,,,mand1444,wester-2014
+e-ne-,,3sg_n_p,3rd Person Singular Neuter,46695,,,,mand1444,wester-2014
+yeŋɡip,,3d-a,3rd Person Dual,46694,,,,mand1444,wester-2014
+yeŋɡip,,3d-s,3rd Person Dual,46693,,,,mand1444,wester-2014
+yeŋɡip,,3d-o,3rd Person Dual,46692,,,,mand1444,wester-2014
+yeŋɡi-ne-,,3d-p,3rd Person Dual,46691,,,,mand1444,wester-2014
+yeŋɡip,,3p-a,3rd Person Plural,46690,,,,mand1444,wester-2014
+yeŋɡip,,3p-s,3rd Person Plural,46689,,,,mand1444,wester-2014
+yeŋɡip,,3p-o,3rd Person Plural,46688,,,,mand1444,wester-2014
+yeŋɡi-ne-,,3p-p,3rd Person Plural,46687,,,,mand1444,wester-2014

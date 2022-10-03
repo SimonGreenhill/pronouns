@@ -1,77 +1,77 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ⁿdʒə̯n;;1sg_a;1st (excl) Person Singular;24160;;;;kunj1246;doehler-2013
-ⁿdʒæ;;1sg_s;1st (excl) Person Singular;24161;;;;kunj1246;doehler-2013
-ⁿdʒæ;;1sg_o;1st (excl) Person Singular;24162;;;;kunj1246;doehler-2013
-ⁿdʒunɪ;;1sg_p;1st (excl) Person Singular;24163;;;;kunj1246;doehler-2013
-nin;;1du_a;1st (excl) Person Dual;24164;;;;kunj1246;doehler-2013
-ni;;1du_s;1st (excl) Person Dual;24165;;;;kunj1246;doehler-2013
-ni;;1du_o;1st (excl) Person Dual;24166;;;;kunj1246;doehler-2013
-ⁿdʒenme;;1du_p;1st (excl) Person Dual;24167;;;;kunj1246;doehler-2013
-nin;;1pl_a;1st (excl) Person Plural;24168;;;;kunj1246;doehler-2013
-ni;;1pl_s;1st (excl) Person Plural;24169;;;;kunj1246;doehler-2013
-ni;;1pl_o;1st (excl) Person Plural;24170;;;;kunj1246;doehler-2013
-ⁿdʒenme;;1pl_p;1st (excl) Person Plural;24171;;;;kunj1246;doehler-2013
-nin;;12du_a;1st (incl) Person Dual;24172;;;;kunj1246;doehler-2013
-ni;;12du_s;1st (incl) Person Dual;24173;;;;kunj1246;doehler-2013
-ni;;12du_o;1st (incl) Person Dual;24174;;;;kunj1246;doehler-2013
-ⁿdʒenme;;12du_p;1st (incl) Person Dual;24175;;;;kunj1246;doehler-2013
-nin;;12pl_a;1st (incl) Person Plural;24176;;;;kunj1246;doehler-2013
-ni;;12pl_s;1st (incl) Person Plural;24177;;;;kunj1246;doehler-2013
-ni;;12pl_o;1st (incl) Person Plural;24178;;;;kunj1246;doehler-2013
-ⁿdʒenme;;12pl_p;1st (incl) Person Plural;24179;;;;kunj1246;doehler-2013
-ᵐbə̯n;;2sg_a;2nd Person Singular;24180;;;;kunj1246;doehler-2013
-ᵐbæ;;2sg_s;2nd Person Singular;24181;;;;kunj1246;doehler-2013
-ᵐbæ;;2sg_o;2nd Person Singular;24182;;;;kunj1246;doehler-2013
-ᵐbunɪ;;2sg_p;2nd Person Singular;24183;;;;kunj1246;doehler-2013
-ᵐbə̯n;;2du_a;2nd Person Dual;24184;;;;kunj1246;doehler-2013
-ᵐbæ;;2du_s;2nd Person Dual;24185;;;;kunj1246;doehler-2013
-ᵐbæ;;2du_o;2nd Person Dual;24186;;;;kunj1246;doehler-2013
-ᵐbenme;;2du_p;2nd Person Dual;24187;;;;kunj1246;doehler-2013
-ᵐbə̯n;;2pl_a;2nd Person Plural;24188;;;;kunj1246;doehler-2013
-ᵐbæ;;2pl_s;2nd Person Plural;24189;;;;kunj1246;doehler-2013
-ᵐbæ;;2pl_o;2nd Person Plural;24190;;;;kunj1246;doehler-2013
-ᵐbenme;;2pl_p;2nd Person Plural;24191;;;;kunj1246;doehler-2013
-tʃɐɸ;;3sg_m_a;3rd Person Singular Masculine;24192;;;;kunj1246;doehler-2013
-ɸɪ;;3sg_m_s;3rd Person Singular Masculine;24193;;;;kunj1246;doehler-2013
-ɸɪ;;3sg_m_o;3rd Person Singular Masculine;24194;;;;kunj1246;doehler-2013
-tʃɐβɐnɪ;;3sg_m_p;3rd Person Singular Masculine;24195;;;;kunj1246;doehler-2013
-tʃɐɸ;;3sg_f_a;3rd Person Singular Feminine;24196;;;;kunj1246;doehler-2013
-ɸɪ;;3sg_f_s;3rd Person Singular Feminine;24197;;;;kunj1246;doehler-2013
-ɸɪ;;3sg_f_o;3rd Person Singular Feminine;24198;;;;kunj1246;doehler-2013
-tʃɐβɐnɪ;;3sg_f_p;3rd Person Singular Feminine;24199;;;;kunj1246;doehler-2013
-tʃɐɸ;;3sg_n_a;3rd Person Singular Neuter;24200;;;;kunj1246;doehler-2013
-ɸɪ;;3sg_n_s;3rd Person Singular Neuter;24201;;;;kunj1246;doehler-2013
-ɸɪ;;3sg_n_o;3rd Person Singular Neuter;24202;;;;kunj1246;doehler-2013
-tʃɐβɐnɪ;;3sg_n_p;3rd Person Singular Neuter;24203;;;;kunj1246;doehler-2013
-tʃɐɸ;;3du_m_a;3rd Person Dual Masculine;24204;;;;kunj1246;doehler-2013
-ɸɪ;;3du_m_s;3rd Person Dual Masculine;24205;;;;kunj1246;doehler-2013
-ɸɪ;;3du_m_o;3rd Person Dual Masculine;24206;;;;kunj1246;doehler-2013
-tʃɐβɐnme;;3du_m_p;3rd Person Dual Masculine;24207;;;;kunj1246;doehler-2013
-tʃɐɸ;;3du_f_a;3rd Person Dual Feminine;24208;;;;kunj1246;doehler-2013
-ɸɪ;;3du_f_s;3rd Person Dual Feminine;24209;;;;kunj1246;doehler-2013
-ɸɪ;;3du_f_o;3rd Person Dual Feminine;24210;;;;kunj1246;doehler-2013
-tʃɐβɐnme;;3du_f_p;3rd Person Dual Feminine;24211;;;;kunj1246;doehler-2013
-tʃɐɸ;;3du_n_a;3rd Person Dual Neuter;24212;;;;kunj1246;doehler-2013
-ɸɪ;;3du_n_s;3rd Person Dual Neuter;24213;;;;kunj1246;doehler-2013
-ɸɪ;;3du_n_o;3rd Person Dual Neuter;24214;;;;kunj1246;doehler-2013
-tʃɐβɐnme;;3du_n_p;3rd Person Dual Neuter;24215;;;;kunj1246;doehler-2013
-tʃɐɸ;;3pl_m_a;3rd Person Plural Masculine;24216;;;;kunj1246;doehler-2013
-ɸɪ;;3pl_m_s;3rd Person Plural Masculine;24217;;;;kunj1246;doehler-2013
-ɸɪ;;3pl_m_o;3rd Person Plural Masculine;24218;;;;kunj1246;doehler-2013
-tʃɐβɐnme;;3pl_m_p;3rd Person Plural Masculine;24219;;;;kunj1246;doehler-2013
-tʃɐɸ;;3pl_f_a;3rd Person Plural Feminine;24220;;;;kunj1246;doehler-2013
-ɸɪ;;3pl_f_s;3rd Person Plural Feminine;24221;;;;kunj1246;doehler-2013
-ɸɪ;;3pl_f_o;3rd Person Plural Feminine;24222;;;;kunj1246;doehler-2013
-tʃɐβɐnme;;3pl_f_p;3rd Person Plural Feminine;24223;;;;kunj1246;doehler-2013
-tʃɐɸ;;3pl_n_a;3rd Person Plural Neuter;24224;;;;kunj1246;doehler-2013
-ɸɪ;;3pl_n_s;3rd Person Plural Neuter;24225;;;;kunj1246;doehler-2013
-ɸɪ;;3pl_n_o;3rd Person Plural Neuter;24226;;;;kunj1246;doehler-2013
-tʃɐβɐnme;;3pl_n_p;3rd Person Plural Neuter;24227;;;;kunj1246;doehler-2013
-tʃɐɸ;;3d-a;3rd Person Dual;36305;;;;kunj1246;doehler-2013
-ɸɪ;;3d-s;3rd Person Dual;36525;;;;kunj1246;doehler-2013
-ɸɪ;;3d-o;3rd Person Dual;36753;;;;kunj1246;doehler-2013
-tʃɐβɐnme;;3d-p;3rd Person Dual;36964;;;;kunj1246;doehler-2013
-tʃɐɸ;;3p-a;3rd Person Plural;37187;;;;kunj1246;doehler-2013
-ɸɪ;;3p-s;3rd Person Plural;37407;;;;kunj1246;doehler-2013
-ɸɪ;;3p-o;3rd Person Plural;37634;;;;kunj1246;doehler-2013
-tʃɐβɐnme;;3p-p;3rd Person Plural;37844;;;;kunj1246;doehler-2013
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ⁿdʒə̯n,,1sg_a,1st (excl) Person Singular,24160,,,,kunj1246,doehler-2013
+ⁿdʒæ,,1sg_s,1st (excl) Person Singular,24161,,,,kunj1246,doehler-2013
+ⁿdʒæ,,1sg_o,1st (excl) Person Singular,24162,,,,kunj1246,doehler-2013
+ⁿdʒunɪ,,1sg_p,1st (excl) Person Singular,24163,,,,kunj1246,doehler-2013
+nin,,1du_a,1st (excl) Person Dual,24164,,,,kunj1246,doehler-2013
+ni,,1du_s,1st (excl) Person Dual,24165,,,,kunj1246,doehler-2013
+ni,,1du_o,1st (excl) Person Dual,24166,,,,kunj1246,doehler-2013
+ⁿdʒenme,,1du_p,1st (excl) Person Dual,24167,,,,kunj1246,doehler-2013
+nin,,1pl_a,1st (excl) Person Plural,24168,,,,kunj1246,doehler-2013
+ni,,1pl_s,1st (excl) Person Plural,24169,,,,kunj1246,doehler-2013
+ni,,1pl_o,1st (excl) Person Plural,24170,,,,kunj1246,doehler-2013
+ⁿdʒenme,,1pl_p,1st (excl) Person Plural,24171,,,,kunj1246,doehler-2013
+nin,,12du_a,1st (incl) Person Dual,24172,,,,kunj1246,doehler-2013
+ni,,12du_s,1st (incl) Person Dual,24173,,,,kunj1246,doehler-2013
+ni,,12du_o,1st (incl) Person Dual,24174,,,,kunj1246,doehler-2013
+ⁿdʒenme,,12du_p,1st (incl) Person Dual,24175,,,,kunj1246,doehler-2013
+nin,,12pl_a,1st (incl) Person Plural,24176,,,,kunj1246,doehler-2013
+ni,,12pl_s,1st (incl) Person Plural,24177,,,,kunj1246,doehler-2013
+ni,,12pl_o,1st (incl) Person Plural,24178,,,,kunj1246,doehler-2013
+ⁿdʒenme,,12pl_p,1st (incl) Person Plural,24179,,,,kunj1246,doehler-2013
+ᵐbə̯n,,2sg_a,2nd Person Singular,24180,,,,kunj1246,doehler-2013
+ᵐbæ,,2sg_s,2nd Person Singular,24181,,,,kunj1246,doehler-2013
+ᵐbæ,,2sg_o,2nd Person Singular,24182,,,,kunj1246,doehler-2013
+ᵐbunɪ,,2sg_p,2nd Person Singular,24183,,,,kunj1246,doehler-2013
+ᵐbə̯n,,2du_a,2nd Person Dual,24184,,,,kunj1246,doehler-2013
+ᵐbæ,,2du_s,2nd Person Dual,24185,,,,kunj1246,doehler-2013
+ᵐbæ,,2du_o,2nd Person Dual,24186,,,,kunj1246,doehler-2013
+ᵐbenme,,2du_p,2nd Person Dual,24187,,,,kunj1246,doehler-2013
+ᵐbə̯n,,2pl_a,2nd Person Plural,24188,,,,kunj1246,doehler-2013
+ᵐbæ,,2pl_s,2nd Person Plural,24189,,,,kunj1246,doehler-2013
+ᵐbæ,,2pl_o,2nd Person Plural,24190,,,,kunj1246,doehler-2013
+ᵐbenme,,2pl_p,2nd Person Plural,24191,,,,kunj1246,doehler-2013
+tʃɐɸ,,3sg_m_a,3rd Person Singular Masculine,24192,,,,kunj1246,doehler-2013
+ɸɪ,,3sg_m_s,3rd Person Singular Masculine,24193,,,,kunj1246,doehler-2013
+ɸɪ,,3sg_m_o,3rd Person Singular Masculine,24194,,,,kunj1246,doehler-2013
+tʃɐβɐnɪ,,3sg_m_p,3rd Person Singular Masculine,24195,,,,kunj1246,doehler-2013
+tʃɐɸ,,3sg_f_a,3rd Person Singular Feminine,24196,,,,kunj1246,doehler-2013
+ɸɪ,,3sg_f_s,3rd Person Singular Feminine,24197,,,,kunj1246,doehler-2013
+ɸɪ,,3sg_f_o,3rd Person Singular Feminine,24198,,,,kunj1246,doehler-2013
+tʃɐβɐnɪ,,3sg_f_p,3rd Person Singular Feminine,24199,,,,kunj1246,doehler-2013
+tʃɐɸ,,3sg_n_a,3rd Person Singular Neuter,24200,,,,kunj1246,doehler-2013
+ɸɪ,,3sg_n_s,3rd Person Singular Neuter,24201,,,,kunj1246,doehler-2013
+ɸɪ,,3sg_n_o,3rd Person Singular Neuter,24202,,,,kunj1246,doehler-2013
+tʃɐβɐnɪ,,3sg_n_p,3rd Person Singular Neuter,24203,,,,kunj1246,doehler-2013
+tʃɐɸ,,3du_m_a,3rd Person Dual Masculine,24204,,,,kunj1246,doehler-2013
+ɸɪ,,3du_m_s,3rd Person Dual Masculine,24205,,,,kunj1246,doehler-2013
+ɸɪ,,3du_m_o,3rd Person Dual Masculine,24206,,,,kunj1246,doehler-2013
+tʃɐβɐnme,,3du_m_p,3rd Person Dual Masculine,24207,,,,kunj1246,doehler-2013
+tʃɐɸ,,3du_f_a,3rd Person Dual Feminine,24208,,,,kunj1246,doehler-2013
+ɸɪ,,3du_f_s,3rd Person Dual Feminine,24209,,,,kunj1246,doehler-2013
+ɸɪ,,3du_f_o,3rd Person Dual Feminine,24210,,,,kunj1246,doehler-2013
+tʃɐβɐnme,,3du_f_p,3rd Person Dual Feminine,24211,,,,kunj1246,doehler-2013
+tʃɐɸ,,3du_n_a,3rd Person Dual Neuter,24212,,,,kunj1246,doehler-2013
+ɸɪ,,3du_n_s,3rd Person Dual Neuter,24213,,,,kunj1246,doehler-2013
+ɸɪ,,3du_n_o,3rd Person Dual Neuter,24214,,,,kunj1246,doehler-2013
+tʃɐβɐnme,,3du_n_p,3rd Person Dual Neuter,24215,,,,kunj1246,doehler-2013
+tʃɐɸ,,3pl_m_a,3rd Person Plural Masculine,24216,,,,kunj1246,doehler-2013
+ɸɪ,,3pl_m_s,3rd Person Plural Masculine,24217,,,,kunj1246,doehler-2013
+ɸɪ,,3pl_m_o,3rd Person Plural Masculine,24218,,,,kunj1246,doehler-2013
+tʃɐβɐnme,,3pl_m_p,3rd Person Plural Masculine,24219,,,,kunj1246,doehler-2013
+tʃɐɸ,,3pl_f_a,3rd Person Plural Feminine,24220,,,,kunj1246,doehler-2013
+ɸɪ,,3pl_f_s,3rd Person Plural Feminine,24221,,,,kunj1246,doehler-2013
+ɸɪ,,3pl_f_o,3rd Person Plural Feminine,24222,,,,kunj1246,doehler-2013
+tʃɐβɐnme,,3pl_f_p,3rd Person Plural Feminine,24223,,,,kunj1246,doehler-2013
+tʃɐɸ,,3pl_n_a,3rd Person Plural Neuter,24224,,,,kunj1246,doehler-2013
+ɸɪ,,3pl_n_s,3rd Person Plural Neuter,24225,,,,kunj1246,doehler-2013
+ɸɪ,,3pl_n_o,3rd Person Plural Neuter,24226,,,,kunj1246,doehler-2013
+tʃɐβɐnme,,3pl_n_p,3rd Person Plural Neuter,24227,,,,kunj1246,doehler-2013
+tʃɐɸ,,3d-a,3rd Person Dual,36305,,,,kunj1246,doehler-2013
+ɸɪ,,3d-s,3rd Person Dual,36525,,,,kunj1246,doehler-2013
+ɸɪ,,3d-o,3rd Person Dual,36753,,,,kunj1246,doehler-2013
+tʃɐβɐnme,,3d-p,3rd Person Dual,36964,,,,kunj1246,doehler-2013
+tʃɐɸ,,3p-a,3rd Person Plural,37187,,,,kunj1246,doehler-2013
+ɸɪ,,3p-s,3rd Person Plural,37407,,,,kunj1246,doehler-2013
+ɸɪ,,3p-o,3rd Person Plural,37634,,,,kunj1246,doehler-2013
+tʃɐβɐnme,,3p-p,3rd Person Plural,37844,,,,kunj1246,doehler-2013

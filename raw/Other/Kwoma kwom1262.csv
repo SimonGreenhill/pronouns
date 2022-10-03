@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ada;;1sg_a;1st (excl) Person Singular;41418;;;;kwom1262;kooyers-1974
-ada;;1sg_s;1st (excl) Person Singular;41417;;;;kwom1262;kooyers-1974
-adana;;1sg_o;1st (excl) Person Singular;41416;;;;kwom1262;kooyers-1974
-eeji;;1sg_p;1st (excl) Person Singular;41415;;;;kwom1262;kooyers-1974
-siča;;1du_a;1st (excl) Person Dual;41414;;;;kwom1262;kooyers-1974
-siča;;1du_s;1st (excl) Person Dual;41413;;;;kwom1262;kooyers-1974
-sičana;;1du_o;1st (excl) Person Dual;41412;;;;kwom1262;kooyers-1974
-siiči;;1du_p;1st (excl) Person Dual;41411;;;;kwom1262;kooyers-1974
-nota;;1pl_a;1st (excl) Person Plural;41410;;;;kwom1262;kooyers-1974
-nota;;1pl_s;1st (excl) Person Plural;41409;;;;kwom1262;kooyers-1974
-notana;;1pl_o;1st (excl) Person Plural;41408;;;;kwom1262;kooyers-1974
-noti;;1pl_p;1st (excl) Person Plural;41407;;;;kwom1262;kooyers-1974
-siča;;12du_a;1st (incl) Person Dual;41406;;;;kwom1262;kooyers-1974
-siča;;12du_s;1st (incl) Person Dual;41405;;;;kwom1262;kooyers-1974
-sičana;;12du_o;1st (incl) Person Dual;41404;;;;kwom1262;kooyers-1974
-siiči;;12du_p;1st (incl) Person Dual;41403;;;;kwom1262;kooyers-1974
-nota;;12pl_a;1st (incl) Person Plural;41402;;;;kwom1262;kooyers-1974
-nota;;12pl_s;1st (incl) Person Plural;41401;;;;kwom1262;kooyers-1974
-notana;;12pl_o;1st (incl) Person Plural;41400;;;;kwom1262;kooyers-1974
-noti;;12pl_p;1st (incl) Person Plural;41399;;;;kwom1262;kooyers-1974
-miita;;2sg_a;2nd Person Singular;41398;;;;kwom1262;kooyers-1974
-miita;;2sg_s;2nd Person Singular;41397;;;;kwom1262;kooyers-1974
-miitana;;2sg_o;2nd Person Singular;41396;;;;kwom1262;kooyers-1974
-miiti;;2sg_p;2nd Person Singular;41395;;;;kwom1262;kooyers-1974
-kiča;;2du_a;2nd Person Dual;41394;;;;kwom1262;kooyers-1974
-kiča;;2du_s;2nd Person Dual;41393;;;;kwom1262;kooyers-1974
-kičana;;2du_o;2nd Person Dual;41392;;;;kwom1262;kooyers-1974
-kiči;;2du_p;2nd Person Dual;41391;;;;kwom1262;kooyers-1974
-kwota;;2pl_a;2nd Person Plural;41390;;;;kwom1262;kooyers-1974
-kwota;;2pl_s;2nd Person Plural;41389;;;;kwom1262;kooyers-1974
-kwotana;;2pl_o;2nd Person Plural;41388;;;;kwom1262;kooyers-1974
-kwoti;;2pl_p;2nd Person Plural;41387;;;;kwom1262;kooyers-1974
-riita;;3sg_m_a;3rd Person Singular Masculine;41386;;;;kwom1262;kooyers-1974
-riita;;3sg_m_s;3rd Person Singular Masculine;41385;;;;kwom1262;kooyers-1974
-riitana;;3sg_m_o;3rd Person Singular Masculine;41384;;;;kwom1262;kooyers-1974
-riiti;;3sg_m_p;3rd Person Singular Masculine;41383;;;;kwom1262;kooyers-1974
-siita;;3sg_n_a;3rd Person Singular Neuter;41382;;;;kwom1262;kooyers-1974
-siita;;3sg_n_s;3rd Person Singular Neuter;41381;;;;kwom1262;kooyers-1974
-siitana;;3sg_n_o;3rd Person Singular Neuter;41380;;;;kwom1262;kooyers-1974
-siiti;;3sg_n_p;3rd Person Singular Neuter;41379;;;;kwom1262;kooyers-1974
-piiriita;;3d-a;3rd Person Dual;41378;;;;kwom1262;kooyers-1974
-piiriita;;3d-s;3rd Person Dual;41377;;;;kwom1262;kooyers-1974
-piiriitana;;3d-o;3rd Person Dual;41376;;;;kwom1262;kooyers-1974
-piiriiti;;3d-p;3rd Person Dual;41375;;;;kwom1262;kooyers-1974
-yeča;;3p-a;3rd Person Plural;41374;;;;kwom1262;kooyers-1974
-yeča;;3p-s;3rd Person Plural;41373;;;;kwom1262;kooyers-1974
-yečana;;3p-o;3rd Person Plural;41372;;;;kwom1262;kooyers-1974
-yeči;;3p-p;3rd Person Plural;41371;;;;kwom1262;kooyers-1974
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ada,,1sg_a,1st (excl) Person Singular,41418,,,,kwom1262,kooyers-1974
+ada,,1sg_s,1st (excl) Person Singular,41417,,,,kwom1262,kooyers-1974
+adana,,1sg_o,1st (excl) Person Singular,41416,,,,kwom1262,kooyers-1974
+eeji,,1sg_p,1st (excl) Person Singular,41415,,,,kwom1262,kooyers-1974
+siča,,1du_a,1st (excl) Person Dual,41414,,,,kwom1262,kooyers-1974
+siča,,1du_s,1st (excl) Person Dual,41413,,,,kwom1262,kooyers-1974
+sičana,,1du_o,1st (excl) Person Dual,41412,,,,kwom1262,kooyers-1974
+siiči,,1du_p,1st (excl) Person Dual,41411,,,,kwom1262,kooyers-1974
+nota,,1pl_a,1st (excl) Person Plural,41410,,,,kwom1262,kooyers-1974
+nota,,1pl_s,1st (excl) Person Plural,41409,,,,kwom1262,kooyers-1974
+notana,,1pl_o,1st (excl) Person Plural,41408,,,,kwom1262,kooyers-1974
+noti,,1pl_p,1st (excl) Person Plural,41407,,,,kwom1262,kooyers-1974
+siča,,12du_a,1st (incl) Person Dual,41406,,,,kwom1262,kooyers-1974
+siča,,12du_s,1st (incl) Person Dual,41405,,,,kwom1262,kooyers-1974
+sičana,,12du_o,1st (incl) Person Dual,41404,,,,kwom1262,kooyers-1974
+siiči,,12du_p,1st (incl) Person Dual,41403,,,,kwom1262,kooyers-1974
+nota,,12pl_a,1st (incl) Person Plural,41402,,,,kwom1262,kooyers-1974
+nota,,12pl_s,1st (incl) Person Plural,41401,,,,kwom1262,kooyers-1974
+notana,,12pl_o,1st (incl) Person Plural,41400,,,,kwom1262,kooyers-1974
+noti,,12pl_p,1st (incl) Person Plural,41399,,,,kwom1262,kooyers-1974
+miita,,2sg_a,2nd Person Singular,41398,,,,kwom1262,kooyers-1974
+miita,,2sg_s,2nd Person Singular,41397,,,,kwom1262,kooyers-1974
+miitana,,2sg_o,2nd Person Singular,41396,,,,kwom1262,kooyers-1974
+miiti,,2sg_p,2nd Person Singular,41395,,,,kwom1262,kooyers-1974
+kiča,,2du_a,2nd Person Dual,41394,,,,kwom1262,kooyers-1974
+kiča,,2du_s,2nd Person Dual,41393,,,,kwom1262,kooyers-1974
+kičana,,2du_o,2nd Person Dual,41392,,,,kwom1262,kooyers-1974
+kiči,,2du_p,2nd Person Dual,41391,,,,kwom1262,kooyers-1974
+kwota,,2pl_a,2nd Person Plural,41390,,,,kwom1262,kooyers-1974
+kwota,,2pl_s,2nd Person Plural,41389,,,,kwom1262,kooyers-1974
+kwotana,,2pl_o,2nd Person Plural,41388,,,,kwom1262,kooyers-1974
+kwoti,,2pl_p,2nd Person Plural,41387,,,,kwom1262,kooyers-1974
+riita,,3sg_m_a,3rd Person Singular Masculine,41386,,,,kwom1262,kooyers-1974
+riita,,3sg_m_s,3rd Person Singular Masculine,41385,,,,kwom1262,kooyers-1974
+riitana,,3sg_m_o,3rd Person Singular Masculine,41384,,,,kwom1262,kooyers-1974
+riiti,,3sg_m_p,3rd Person Singular Masculine,41383,,,,kwom1262,kooyers-1974
+siita,,3sg_n_a,3rd Person Singular Neuter,41382,,,,kwom1262,kooyers-1974
+siita,,3sg_n_s,3rd Person Singular Neuter,41381,,,,kwom1262,kooyers-1974
+siitana,,3sg_n_o,3rd Person Singular Neuter,41380,,,,kwom1262,kooyers-1974
+siiti,,3sg_n_p,3rd Person Singular Neuter,41379,,,,kwom1262,kooyers-1974
+piiriita,,3d-a,3rd Person Dual,41378,,,,kwom1262,kooyers-1974
+piiriita,,3d-s,3rd Person Dual,41377,,,,kwom1262,kooyers-1974
+piiriitana,,3d-o,3rd Person Dual,41376,,,,kwom1262,kooyers-1974
+piiriiti,,3d-p,3rd Person Dual,41375,,,,kwom1262,kooyers-1974
+yeča,,3p-a,3rd Person Plural,41374,,,,kwom1262,kooyers-1974
+yeča,,3p-s,3rd Person Plural,41373,,,,kwom1262,kooyers-1974
+yečana,,3p-o,3rd Person Plural,41372,,,,kwom1262,kooyers-1974
+yeči,,3p-p,3rd Person Plural,41371,,,,kwom1262,kooyers-1974

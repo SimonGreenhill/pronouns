@@ -1,76 +1,76 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-jô;;1sg_a;1st (excl) Person Singular;26841;;;;kash1274;stone-1993a
-jô;;1sg_s;1st (excl) Person Singular;26842;;;;kash1274;stone-1993a
-mnie;;1sg_o;1st (excl) Person Singular;26843;;;;kash1274;stone-1993a
-mnie;;1sg_p;1st (excl) Person Singular;61006;;;;kash1274;stone-1993a
-ma;;1du_a;1st (excl) Person Dual;26844;;;;kash1274;stone-1993a
-ma;;1du_s;1st (excl) Person Dual;26845;;;;kash1274;stone-1993a
-naju;;1du_o;1st (excl) Person Dual;26846;;;;kash1274;stone-1993a
-naju;;1du_p;1st (excl) Person Dual;61007;;;;kash1274;stone-1993a
-më;;1pl_a;1st (excl) Person Plural;26847;;;;kash1274;stone-1993a
-më;;1pl_s;1st (excl) Person Plural;26848;;;;kash1274;stone-1993a
-nas;;1pl_o;1st (excl) Person Plural;26849;;;;kash1274;stone-1993a
-nas;;1pl_p;1st (excl) Person Plural;61008;;;;kash1274;stone-1993a
-ma;;12du_a;1st (incl) Person Dual;26850;;;;kash1274;stone-1993a
-ma;;12du_s;1st (incl) Person Dual;26851;;;;kash1274;stone-1993a
-naju;;12du_o;1st (incl) Person Dual;26852;;;;kash1274;stone-1993a
-naju;;12du_p;1st (incl) Person Dual;61009;;;;kash1274;stone-1993a
-më;;12pl_a;1st (incl) Person Plural;26853;;;;kash1274;stone-1993a
-më;;12pl_s;1st (incl) Person Plural;26854;;;;kash1274;stone-1993a
-nas;;12pl_o;1st (incl) Person Plural;26855;;;;kash1274;stone-1993a
-nas;;12pl_p;1st (incl) Person Plural;61010;;;;kash1274;stone-1993a
-të;;2sg_a;2nd Person Singular;26856;;;;kash1274;stone-1993a
-të;;2sg_s;2nd Person Singular;26857;;;;kash1274;stone-1993a
-cebie;;2sg_o;2nd Person Singular;26858;;;;kash1274;stone-1993a
-cebie;;2sg_p;2nd Person Singular;61011;;;;kash1274;stone-1993a
-wa;;2du_a;2nd Person Dual;26859;;;;kash1274;stone-1993a
-wa;;2du_s;2nd Person Dual;26860;;;;kash1274;stone-1993a
-waju;;2du_o;2nd Person Dual;26861;;;;kash1274;stone-1993a
-waju;;2du_p;2nd Person Dual;61012;;;;kash1274;stone-1993a
-wa;;2pl_a;2nd Person Plural;26862;;;;kash1274;stone-1993a
-wa;;2pl_s;2nd Person Plural;26863;;;;kash1274;stone-1993a
-waju;;2pl_o;2nd Person Plural;26864;;;;kash1274;stone-1993a
-waju;;2pl_p;2nd Person Plural;61013;;;;kash1274;stone-1993a
-on;;3sg_m_a;3rd Person Singular Masculine;26865;;;;kash1274;stone-1993a
-on;;3sg_m_s;3rd Person Singular Masculine;26866;;;;kash1274;stone-1993a
-jego;;3sg_m_o;3rd Person Singular Masculine;26867;;;;kash1274;stone-1993a
-jego;;3sg_m_p;3rd Person Singular Masculine;61014;;;;kash1274;stone-1993a
-ona;;3sg_f_a;3rd Person Singular Feminine;26868;;;;kash1274;stone-1993a
-ona;;3sg_f_s;3rd Person Singular Feminine;26869;;;;kash1274;stone-1993a
-ję;;3sg_f_o;3rd Person Singular Feminine;26870;;;;kash1274;stone-1993a
-ono;;3sg_n_a;3rd Person Singular Neuter;26871;;on is the masculine form. ono is the neuter form and ona is the feminine form for 3sg A and S arguments.;;kash1274;stone-1993a
-ono;;3sg_n_s;3rd Person Singular Neuter;26872;;;;kash1274;stone-1993a
-je;;3sg_n_o;3rd Person Singular Neuter;26873;;jego isthe masculine form, je is the neuter form and je̜ is the feminine form for 3sg O argument.;;kash1274;stone-1993a
-jego;;3sg_n_p;3rd Person Singular Neuter;61015;;jego is the masculine and neuter form, ji is the feminine form.;;kash1274;stone-1993a
-oni;;3du_m_a;3rd Person Dual Masculine;26874;;;;kash1274;stone-1993a
-oni;;3du_m_s;3rd Person Dual Masculine;26875;;;;kash1274;stone-1993a
-jich;;3du_m_o;3rd Person Dual Masculine;26876;;;;kash1274;stone-1993a
-onë;;3du_f_a;3rd Person Dual Feminine;26877;;;;kash1274;stone-1993a
-onë;;3du_f_s;3rd Person Dual Feminine;26878;;;;kash1274;stone-1993a
-je;;3du_f_o;3rd Person Dual Feminine;26879;;;;kash1274;stone-1993a
-onë;;3du_n_a;3rd Person Dual Neuter;26880;;;;kash1274;stone-1993a
-onë;;3du_n_s;3rd Person Dual Neuter;26881;;;;kash1274;stone-1993a
-je;;3du_n_o;3rd Person Dual Neuter;26882;;;;kash1274;stone-1993a
-oni;;3pl_m_a;3rd Person Plural Masculine;26883;;;;kash1274;stone-1993a
-oni;;3pl_m_s;3rd Person Plural Masculine;26884;;;;kash1274;stone-1993a
-jich;;3pl_m_o;3rd Person Plural Masculine;26885;;;;kash1274;stone-1993a
-onë;;3pl_f_a;3rd Person Plural Feminine;26886;;;;kash1274;stone-1993a
-onë;;3pl_f_s;3rd Person Plural Feminine;26887;;;;kash1274;stone-1993a
-je;;3pl_f_o;3rd Person Plural Feminine;26888;;;;kash1274;stone-1993a
-onë;;3pl_n_a;3rd Person Plural Neuter;26889;;;;kash1274;stone-1993a
-onë;;3pl_n_s;3rd Person Plural Neuter;26890;;;;kash1274;stone-1993a
-je;;3pl_n_o;3rd Person Plural Neuter;26891;;;;kash1274;stone-1993a
-oni;;3d-a;3rd Person Dual;36277;;;;kash1274;stone-1993a
-onë;;3d-a;3rd Person Dual;36278;;oni is the masculine form, onë is the non-masculine form for 3pl A and S arguments.;;kash1274;stone-1993a
-oni;;3d-s;3rd Person Dual;36497;;;;kash1274;stone-1993a
-onë;;3d-s;3rd Person Dual;36498;;;;kash1274;stone-1993a
-je;;3d-o;3rd Person Dual;36725;;jich is the masculine form and je is the feminine form for 3pl O arguments.;;kash1274;stone-1993a
-jich;;3d-o;3rd Person Dual;36726;;;;kash1274;stone-1993a
-jich;;3d-p;3rd Person Dual;61016;;;;kash1274;stone-1993a
-oni;;3p-a;3rd Person Plural;37157;;;;kash1274;stone-1993a
-onë;;3p-a;3rd Person Plural;37158;;oni is the masculine form, onë is the non-masculine form for 3pl A and S arguments.;;kash1274;stone-1993a
-oni;;3p-s;3rd Person Plural;37378;;;;kash1274;stone-1993a
-onë;;3p-s;3rd Person Plural;37379;;;;kash1274;stone-1993a
-jich;;3p-o;3rd Person Plural;37605;;jich is the masculine form and je is the feminine form for 3pl O arguments.;;kash1274;stone-1993a
-je;;3p-o;3rd Person Plural;37606;;;;kash1274;stone-1993a
-jich;;3p-p;3rd Person Plural;61017;;;;kash1274;stone-1993a
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+jô,,1sg_a,1st (excl) Person Singular,26841,,,,kash1274,stone-1993a
+jô,,1sg_s,1st (excl) Person Singular,26842,,,,kash1274,stone-1993a
+mnie,,1sg_o,1st (excl) Person Singular,26843,,,,kash1274,stone-1993a
+mnie,,1sg_p,1st (excl) Person Singular,61006,,,,kash1274,stone-1993a
+ma,,1du_a,1st (excl) Person Dual,26844,,,,kash1274,stone-1993a
+ma,,1du_s,1st (excl) Person Dual,26845,,,,kash1274,stone-1993a
+naju,,1du_o,1st (excl) Person Dual,26846,,,,kash1274,stone-1993a
+naju,,1du_p,1st (excl) Person Dual,61007,,,,kash1274,stone-1993a
+më,,1pl_a,1st (excl) Person Plural,26847,,,,kash1274,stone-1993a
+më,,1pl_s,1st (excl) Person Plural,26848,,,,kash1274,stone-1993a
+nas,,1pl_o,1st (excl) Person Plural,26849,,,,kash1274,stone-1993a
+nas,,1pl_p,1st (excl) Person Plural,61008,,,,kash1274,stone-1993a
+ma,,12du_a,1st (incl) Person Dual,26850,,,,kash1274,stone-1993a
+ma,,12du_s,1st (incl) Person Dual,26851,,,,kash1274,stone-1993a
+naju,,12du_o,1st (incl) Person Dual,26852,,,,kash1274,stone-1993a
+naju,,12du_p,1st (incl) Person Dual,61009,,,,kash1274,stone-1993a
+më,,12pl_a,1st (incl) Person Plural,26853,,,,kash1274,stone-1993a
+më,,12pl_s,1st (incl) Person Plural,26854,,,,kash1274,stone-1993a
+nas,,12pl_o,1st (incl) Person Plural,26855,,,,kash1274,stone-1993a
+nas,,12pl_p,1st (incl) Person Plural,61010,,,,kash1274,stone-1993a
+të,,2sg_a,2nd Person Singular,26856,,,,kash1274,stone-1993a
+të,,2sg_s,2nd Person Singular,26857,,,,kash1274,stone-1993a
+cebie,,2sg_o,2nd Person Singular,26858,,,,kash1274,stone-1993a
+cebie,,2sg_p,2nd Person Singular,61011,,,,kash1274,stone-1993a
+wa,,2du_a,2nd Person Dual,26859,,,,kash1274,stone-1993a
+wa,,2du_s,2nd Person Dual,26860,,,,kash1274,stone-1993a
+waju,,2du_o,2nd Person Dual,26861,,,,kash1274,stone-1993a
+waju,,2du_p,2nd Person Dual,61012,,,,kash1274,stone-1993a
+wa,,2pl_a,2nd Person Plural,26862,,,,kash1274,stone-1993a
+wa,,2pl_s,2nd Person Plural,26863,,,,kash1274,stone-1993a
+waju,,2pl_o,2nd Person Plural,26864,,,,kash1274,stone-1993a
+waju,,2pl_p,2nd Person Plural,61013,,,,kash1274,stone-1993a
+on,,3sg_m_a,3rd Person Singular Masculine,26865,,,,kash1274,stone-1993a
+on,,3sg_m_s,3rd Person Singular Masculine,26866,,,,kash1274,stone-1993a
+jego,,3sg_m_o,3rd Person Singular Masculine,26867,,,,kash1274,stone-1993a
+jego,,3sg_m_p,3rd Person Singular Masculine,61014,,,,kash1274,stone-1993a
+ona,,3sg_f_a,3rd Person Singular Feminine,26868,,,,kash1274,stone-1993a
+ona,,3sg_f_s,3rd Person Singular Feminine,26869,,,,kash1274,stone-1993a
+ję,,3sg_f_o,3rd Person Singular Feminine,26870,,,,kash1274,stone-1993a
+ono,,3sg_n_a,3rd Person Singular Neuter,26871,,on is the masculine form. ono is the neuter form and ona is the feminine form for 3sg A and S arguments.,,kash1274,stone-1993a
+ono,,3sg_n_s,3rd Person Singular Neuter,26872,,,,kash1274,stone-1993a
+je,,3sg_n_o,3rd Person Singular Neuter,26873,,"jego isthe masculine form, je is the neuter form and je̜ is the feminine form for 3sg O argument.",,kash1274,stone-1993a
+jego,,3sg_n_p,3rd Person Singular Neuter,61015,,"jego is the masculine and neuter form, ji is the feminine form.",,kash1274,stone-1993a
+oni,,3du_m_a,3rd Person Dual Masculine,26874,,,,kash1274,stone-1993a
+oni,,3du_m_s,3rd Person Dual Masculine,26875,,,,kash1274,stone-1993a
+jich,,3du_m_o,3rd Person Dual Masculine,26876,,,,kash1274,stone-1993a
+onë,,3du_f_a,3rd Person Dual Feminine,26877,,,,kash1274,stone-1993a
+onë,,3du_f_s,3rd Person Dual Feminine,26878,,,,kash1274,stone-1993a
+je,,3du_f_o,3rd Person Dual Feminine,26879,,,,kash1274,stone-1993a
+onë,,3du_n_a,3rd Person Dual Neuter,26880,,,,kash1274,stone-1993a
+onë,,3du_n_s,3rd Person Dual Neuter,26881,,,,kash1274,stone-1993a
+je,,3du_n_o,3rd Person Dual Neuter,26882,,,,kash1274,stone-1993a
+oni,,3pl_m_a,3rd Person Plural Masculine,26883,,,,kash1274,stone-1993a
+oni,,3pl_m_s,3rd Person Plural Masculine,26884,,,,kash1274,stone-1993a
+jich,,3pl_m_o,3rd Person Plural Masculine,26885,,,,kash1274,stone-1993a
+onë,,3pl_f_a,3rd Person Plural Feminine,26886,,,,kash1274,stone-1993a
+onë,,3pl_f_s,3rd Person Plural Feminine,26887,,,,kash1274,stone-1993a
+je,,3pl_f_o,3rd Person Plural Feminine,26888,,,,kash1274,stone-1993a
+onë,,3pl_n_a,3rd Person Plural Neuter,26889,,,,kash1274,stone-1993a
+onë,,3pl_n_s,3rd Person Plural Neuter,26890,,,,kash1274,stone-1993a
+je,,3pl_n_o,3rd Person Plural Neuter,26891,,,,kash1274,stone-1993a
+oni,,3d-a,3rd Person Dual,36277,,,,kash1274,stone-1993a
+onë,,3d-a,3rd Person Dual,36278,,"oni is the masculine form, onë is the non-masculine form for 3pl A and S arguments.",,kash1274,stone-1993a
+oni,,3d-s,3rd Person Dual,36497,,,,kash1274,stone-1993a
+onë,,3d-s,3rd Person Dual,36498,,,,kash1274,stone-1993a
+je,,3d-o,3rd Person Dual,36725,,jich is the masculine form and je is the feminine form for 3pl O arguments.,,kash1274,stone-1993a
+jich,,3d-o,3rd Person Dual,36726,,,,kash1274,stone-1993a
+jich,,3d-p,3rd Person Dual,61016,,,,kash1274,stone-1993a
+oni,,3p-a,3rd Person Plural,37157,,,,kash1274,stone-1993a
+onë,,3p-a,3rd Person Plural,37158,,"oni is the masculine form, onë is the non-masculine form for 3pl A and S arguments.",,kash1274,stone-1993a
+oni,,3p-s,3rd Person Plural,37378,,,,kash1274,stone-1993a
+onë,,3p-s,3rd Person Plural,37379,,,,kash1274,stone-1993a
+jich,,3p-o,3rd Person Plural,37605,,jich is the masculine form and je is the feminine form for 3pl O arguments.,,kash1274,stone-1993a
+je,,3p-o,3rd Person Plural,37606,,,,kash1274,stone-1993a
+jich,,3p-p,3rd Person Plural,61017,,,,kash1274,stone-1993a

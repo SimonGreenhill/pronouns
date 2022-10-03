@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋata;;1sg_a;1st (excl) Person Singular;49870;;;;gang1267;keen-1983
-ŋata;;1sg_s;1st (excl) Person Singular;49869;;;;gang1267;keen-1983
-ŋata, ŋicinci;;1sg_o;1st (excl) Person Singular;49868;;For this and other O forms, there is a form Keen calls O1 (object of a transitive clause, p. 213), and a second she calls O2 (object of a semi-transitive clause). There are many conditions under which O will be a distinct form rather than equal to A and S – basically whenever an 'antipassive' applies. However, the form given here is the most basic, according to Keen's description;;gang1267;keen-1983
-ŋicinta;;1sg_p;1st (excl) Person Singular;49867;;;;gang1267;keen-1983
-ŋara;;1du_a;1st (excl) Person Dual;49866;;;;gang1267;keen-1983
-ŋara;;1du_s;1st (excl) Person Dual;49865;;;;gang1267;keen-1983
-ŋarawanci;;1du_o;1st (excl) Person Dual;49864;;;;gang1267;keen-1983
-ŋarawanta;;1du_p;1st (excl) Person Dual;49863;;;;gang1267;keen-1983
-ŋalta;;1pl_a;1st (excl) Person Plural;49862;;;;gang1267;keen-1983
-ŋalta;;1pl_s;1st (excl) Person Plural;49861;;;;gang1267;keen-1983
-ŋalawanci;;1pl_o;1st (excl) Person Plural;49860;;;;gang1267;keen-1983
-ŋalawanta;;1pl_p;1st (excl) Person Plural;49859;;;;gang1267;keen-1983
-ŋakura;;12du_a;1st (incl) Person Dual;49858;;;;gang1267;keen-1983
-ŋakura;;12du_s;1st (incl) Person Dual;49857;;;;gang1267;keen-1983
-ŋakuruwanci;;12du_o;1st (incl) Person Dual;49856;;;;gang1267;keen-1983
-ŋakuruwanta;;12du_p;1st (incl) Person Dual;49855;;;;gang1267;keen-1983
-ŋakulta;;12pl_a;1st (incl) Person Plural;49854;;;;gang1267;keen-1983
-ŋakulta;;12pl_s;1st (incl) Person Plural;49853;;;;gang1267;keen-1983
-ŋakuluwanci;;12pl_o;1st (incl) Person Plural;49852;;;;gang1267;keen-1983
-ŋakuluwanta;;12pl_p;1st (incl) Person Plural;49851;;;;gang1267;keen-1983
-ɲiŋka;;2sg_a;2nd Person Singular;49850;;;;gang1267;keen-1983
-ɲiŋka;;2sg_s;2nd Person Singular;49849;;;;gang1267;keen-1983
-ɲiŋka, ŋumpanci;;2sg_o;2nd Person Singular;49848;;;;gang1267;keen-1983
-ŋumpanta;;2sg_p;2nd Person Singular;49847;;;;gang1267;keen-1983
-kira;;2du_a;2nd Person Dual;49846;;;;gang1267;keen-1983
-kira;;2du_s;2nd Person Dual;49845;;;;gang1267;keen-1983
-kirwanci;;2du_o;2nd Person Dual;49844;;;;gang1267;keen-1983
-kirwanta;;2du_p;2nd Person Dual;49843;;;;gang1267;keen-1983
-kilta;;2pl_a;2nd Person Plural;49842;;;;gang1267;keen-1983
-kilta;;2pl_s;2nd Person Plural;49841;;;;gang1267;keen-1983
-kilwanci;;2pl_o;2nd Person Plural;49840;;;;gang1267;keen-1983
-kilwanta;;2pl_p;2nd Person Plural;49839;;;;gang1267;keen-1983
-niya;;3sg_m_a;3rd Person Singular Masculine;49838;;;;gang1267;keen-1983
-niya;;3sg_m_s;3rd Person Singular Masculine;49837;;;;gang1267;keen-1983
-niya, niwanci;;3sg_m_o;3rd Person Singular Masculine;49836;;;;gang1267;keen-1983
-niwanta;;3sg_m_p;3rd Person Singular Masculine;49835;;;;gang1267;keen-1983
-niya;;3sg_n_a;3rd Person Singular Neuter;49834;;;;gang1267;keen-1983
-niya;;3sg_n_s;3rd Person Singular Neuter;49833;;;;gang1267;keen-1983
-niya, niwanci;;3sg_n_o;3rd Person Singular Neuter;49832;;;;gang1267;keen-1983
-niwanta;;3sg_n_p;3rd Person Singular Neuter;49831;;;;gang1267;keen-1983
-pira;;3d-a;3rd Person Dual;49830;;;;gang1267;keen-1983
-pira;;3d-s;3rd Person Dual;49829;;;;gang1267;keen-1983
-pirwanci;;3d-o;3rd Person Dual;49828;;;;gang1267;keen-1983
-pirwanta;;3d-p;3rd Person Dual;49827;;;;gang1267;keen-1983
-pilta;;3p-a;3rd Person Plural;49826;;;;gang1267;keen-1983
-pilta;;3p-s;3rd Person Plural;49825;;;;gang1267;keen-1983
-pilwanci;;3p-o;3rd Person Plural;49824;;;;gang1267;keen-1983
-pilwanta;;3p-p;3rd Person Plural;49823;;;;gang1267;keen-1983
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋata,,1sg_a,1st (excl) Person Singular,49870,,,,gang1267,keen-1983
+ŋata,,1sg_s,1st (excl) Person Singular,49869,,,,gang1267,keen-1983
+"ŋata, ŋicinci",,1sg_o,1st (excl) Person Singular,49868,,"For this and other O forms, there is a form Keen calls O1 (object of a transitive clause, p. 213), and a second she calls O2 (object of a semi-transitive clause). There are many conditions under which O will be a distinct form rather than equal to A and S – basically whenever an 'antipassive' applies. However, the form given here is the most basic, according to Keen's description",,gang1267,keen-1983
+ŋicinta,,1sg_p,1st (excl) Person Singular,49867,,,,gang1267,keen-1983
+ŋara,,1du_a,1st (excl) Person Dual,49866,,,,gang1267,keen-1983
+ŋara,,1du_s,1st (excl) Person Dual,49865,,,,gang1267,keen-1983
+ŋarawanci,,1du_o,1st (excl) Person Dual,49864,,,,gang1267,keen-1983
+ŋarawanta,,1du_p,1st (excl) Person Dual,49863,,,,gang1267,keen-1983
+ŋalta,,1pl_a,1st (excl) Person Plural,49862,,,,gang1267,keen-1983
+ŋalta,,1pl_s,1st (excl) Person Plural,49861,,,,gang1267,keen-1983
+ŋalawanci,,1pl_o,1st (excl) Person Plural,49860,,,,gang1267,keen-1983
+ŋalawanta,,1pl_p,1st (excl) Person Plural,49859,,,,gang1267,keen-1983
+ŋakura,,12du_a,1st (incl) Person Dual,49858,,,,gang1267,keen-1983
+ŋakura,,12du_s,1st (incl) Person Dual,49857,,,,gang1267,keen-1983
+ŋakuruwanci,,12du_o,1st (incl) Person Dual,49856,,,,gang1267,keen-1983
+ŋakuruwanta,,12du_p,1st (incl) Person Dual,49855,,,,gang1267,keen-1983
+ŋakulta,,12pl_a,1st (incl) Person Plural,49854,,,,gang1267,keen-1983
+ŋakulta,,12pl_s,1st (incl) Person Plural,49853,,,,gang1267,keen-1983
+ŋakuluwanci,,12pl_o,1st (incl) Person Plural,49852,,,,gang1267,keen-1983
+ŋakuluwanta,,12pl_p,1st (incl) Person Plural,49851,,,,gang1267,keen-1983
+ɲiŋka,,2sg_a,2nd Person Singular,49850,,,,gang1267,keen-1983
+ɲiŋka,,2sg_s,2nd Person Singular,49849,,,,gang1267,keen-1983
+"ɲiŋka, ŋumpanci",,2sg_o,2nd Person Singular,49848,,,,gang1267,keen-1983
+ŋumpanta,,2sg_p,2nd Person Singular,49847,,,,gang1267,keen-1983
+kira,,2du_a,2nd Person Dual,49846,,,,gang1267,keen-1983
+kira,,2du_s,2nd Person Dual,49845,,,,gang1267,keen-1983
+kirwanci,,2du_o,2nd Person Dual,49844,,,,gang1267,keen-1983
+kirwanta,,2du_p,2nd Person Dual,49843,,,,gang1267,keen-1983
+kilta,,2pl_a,2nd Person Plural,49842,,,,gang1267,keen-1983
+kilta,,2pl_s,2nd Person Plural,49841,,,,gang1267,keen-1983
+kilwanci,,2pl_o,2nd Person Plural,49840,,,,gang1267,keen-1983
+kilwanta,,2pl_p,2nd Person Plural,49839,,,,gang1267,keen-1983
+niya,,3sg_m_a,3rd Person Singular Masculine,49838,,,,gang1267,keen-1983
+niya,,3sg_m_s,3rd Person Singular Masculine,49837,,,,gang1267,keen-1983
+"niya, niwanci",,3sg_m_o,3rd Person Singular Masculine,49836,,,,gang1267,keen-1983
+niwanta,,3sg_m_p,3rd Person Singular Masculine,49835,,,,gang1267,keen-1983
+niya,,3sg_n_a,3rd Person Singular Neuter,49834,,,,gang1267,keen-1983
+niya,,3sg_n_s,3rd Person Singular Neuter,49833,,,,gang1267,keen-1983
+"niya, niwanci",,3sg_n_o,3rd Person Singular Neuter,49832,,,,gang1267,keen-1983
+niwanta,,3sg_n_p,3rd Person Singular Neuter,49831,,,,gang1267,keen-1983
+pira,,3d-a,3rd Person Dual,49830,,,,gang1267,keen-1983
+pira,,3d-s,3rd Person Dual,49829,,,,gang1267,keen-1983
+pirwanci,,3d-o,3rd Person Dual,49828,,,,gang1267,keen-1983
+pirwanta,,3d-p,3rd Person Dual,49827,,,,gang1267,keen-1983
+pilta,,3p-a,3rd Person Plural,49826,,,,gang1267,keen-1983
+pilta,,3p-s,3rd Person Plural,49825,,,,gang1267,keen-1983
+pilwanci,,3p-o,3rd Person Plural,49824,,,,gang1267,keen-1983
+pilwanta,,3p-p,3rd Person Plural,49823,,,,gang1267,keen-1983

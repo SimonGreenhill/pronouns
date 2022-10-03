@@ -1,57 +1,57 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-né;;1sg_a;1st (excl) Person Singular;40578;;;;vani1248;ross-1980
-né;;1sg_s;1st (excl) Person Singular;40577;;;;vani1248;ross-1980
-né;;1sg_o;1st (excl) Person Singular;40576;;;;vani1248;ross-1980
-né;;1sg_p;1st (excl) Person Singular;40575;;;;vani1248;ross-1980
-nimi;;1du_a;1st (excl) Person Dual;40574;;;;vani1248;ross-1980
-nimi;;1du_s;1st (excl) Person Dual;40573;;;;vani1248;ross-1980
-nimi;;1du_o;1st (excl) Person Dual;40572;;;;vani1248;ross-1980
-nè;;1du_p;1st (excl) Person Dual;42557;;;;vani1248;ross-1980
-ni;;1du_p;1st (excl) Person Dual;42558;;;;vani1248;ross-1980
-ni;;1pl_a;1st (excl) Person Plural;40570;;;;vani1248;ross-1980
-ni;;1pl_s;1st (excl) Person Plural;40569;;;;vani1248;ross-1980
-ni;;1pl_o;1st (excl) Person Plural;40568;;;;vani1248;ross-1980
-nè;;1pl_p;1st (excl) Person Plural;42559;;;;vani1248;ross-1980
-ni;;1pl_p;1st (excl) Person Plural;42560;;;;vani1248;ross-1980
-nimivo;;12du_a;1st (incl) Person Dual;40566;;;;vani1248;ross-1980
-nimivo;;12du_s;1st (incl) Person Dual;40565;;;;vani1248;ross-1980
-nimivo;;12du_o;1st (incl) Person Dual;40564;;;;vani1248;ross-1980
-nè;;12du_p;1st (incl) Person Dual;42561;;;;vani1248;ross-1980
-ni;;12du_p;1st (incl) Person Dual;42562;;;;vani1248;ross-1980
-nivo;;12pl_a;1st (incl) Person Plural;40562;;;;vani1248;ross-1980
-nivo;;12pl_s;1st (incl) Person Plural;40561;;;;vani1248;ross-1980
-nivo;;12pl_o;1st (incl) Person Plural;40560;;;;vani1248;ross-1980
-nè;;12pl_p;1st (incl) Person Plural;42549;;;;vani1248;ross-1980
-ni;;12pl_p;1st (incl) Person Plural;42550;;;;vani1248;ross-1980
-mi;;2sg_a;2nd Person Singular;40558;;;;vani1248;ross-1980
-mi;;2sg_s;2nd Person Singular;40557;;;;vani1248;ross-1980
-mi;;2sg_o;2nd Person Singular;40556;;;;vani1248;ross-1980
-mè;;2sg_p;2nd Person Singular;42551;;;;vani1248;ross-1980
-mì;;2sg_p;2nd Person Singular;42552;;;;vani1248;ross-1980
-é, évo;;2du_a;2nd Person Dual;62567;;;;vani1248;ross-1980
-é, évo;;2du_s;2nd Person Dual;62568;;;;vani1248;ross-1980
-é, évo;;2du_o;2nd Person Dual;62569;;;;vani1248;ross-1980
-è;;2du_p;2nd Person Dual;40554;;;;vani1248;ross-1980
-é;;2pl_a;2nd Person Plural;42553;;;;vani1248;ross-1980
-évo;;2pl_a;2nd Person Plural;42554;;;;vani1248;ross-1980
-é;;2pl_s;2nd Person Plural;42555;;;;vani1248;ross-1980
-évo;;2pl_s;2nd Person Plural;42556;;;;vani1248;ross-1980
-é;;2pl_o;2nd Person Plural;42547;;;;vani1248;ross-1980
-évo;;2pl_o;2nd Person Plural;42548;;;;vani1248;ross-1980
-è;;2pl_p;2nd Person Plural;40550;;;;vani1248;ross-1980
-hé;;3sg_m_a;3rd Person Singular Masculine;40549;;;;vani1248;ross-1980
-hé;;3sg_m_s;3rd Person Singular Masculine;40548;;;;vani1248;ross-1980
-hé;;3sg_m_o;3rd Person Singular Masculine;40547;;;;vani1248;ross-1980
-hè;;3sg_m_p;3rd Person Singular Masculine;40546;;;;vani1248;ross-1980
-bé;;3sg_n_a;3rd Person Singular Neuter;40545;;;;vani1248;ross-1980
-bé;;3sg_n_s;3rd Person Singular Neuter;40544;;;;vani1248;ross-1980
-bé;;3sg_n_o;3rd Person Singular Neuter;40543;;;;vani1248;ross-1980
-bè;;3sg_n_p;3rd Person Singular Neuter;40542;;;;vani1248;ross-1980
-déhé;;3d-a;3rd Person Dual;40541;;;;vani1248;ross-1980
-déhé;;3d-s;3rd Person Dual;40540;;;;vani1248;ross-1980
-déhé;;3d-o;3rd Person Dual;40539;;;;vani1248;ross-1980
-dè;;3d-p;3rd Person Dual;40538;;;;vani1248;ross-1980
-débé;;3p-a;3rd Person Plural;40537;;;;vani1248;ross-1980
-débé;;3p-s;3rd Person Plural;40536;;;;vani1248;ross-1980
-débé;;3p-o;3rd Person Plural;40535;;;;vani1248;ross-1980
-dè;;3p-p;3rd Person Plural;40534;;;;vani1248;ross-1980
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+né,,1sg_a,1st (excl) Person Singular,40578,,,,vani1248,ross-1980
+né,,1sg_s,1st (excl) Person Singular,40577,,,,vani1248,ross-1980
+né,,1sg_o,1st (excl) Person Singular,40576,,,,vani1248,ross-1980
+né,,1sg_p,1st (excl) Person Singular,40575,,,,vani1248,ross-1980
+nimi,,1du_a,1st (excl) Person Dual,40574,,,,vani1248,ross-1980
+nimi,,1du_s,1st (excl) Person Dual,40573,,,,vani1248,ross-1980
+nimi,,1du_o,1st (excl) Person Dual,40572,,,,vani1248,ross-1980
+nè,,1du_p,1st (excl) Person Dual,42557,,,,vani1248,ross-1980
+ni,,1du_p,1st (excl) Person Dual,42558,,,,vani1248,ross-1980
+ni,,1pl_a,1st (excl) Person Plural,40570,,,,vani1248,ross-1980
+ni,,1pl_s,1st (excl) Person Plural,40569,,,,vani1248,ross-1980
+ni,,1pl_o,1st (excl) Person Plural,40568,,,,vani1248,ross-1980
+nè,,1pl_p,1st (excl) Person Plural,42559,,,,vani1248,ross-1980
+ni,,1pl_p,1st (excl) Person Plural,42560,,,,vani1248,ross-1980
+nimivo,,12du_a,1st (incl) Person Dual,40566,,,,vani1248,ross-1980
+nimivo,,12du_s,1st (incl) Person Dual,40565,,,,vani1248,ross-1980
+nimivo,,12du_o,1st (incl) Person Dual,40564,,,,vani1248,ross-1980
+nè,,12du_p,1st (incl) Person Dual,42561,,,,vani1248,ross-1980
+ni,,12du_p,1st (incl) Person Dual,42562,,,,vani1248,ross-1980
+nivo,,12pl_a,1st (incl) Person Plural,40562,,,,vani1248,ross-1980
+nivo,,12pl_s,1st (incl) Person Plural,40561,,,,vani1248,ross-1980
+nivo,,12pl_o,1st (incl) Person Plural,40560,,,,vani1248,ross-1980
+nè,,12pl_p,1st (incl) Person Plural,42549,,,,vani1248,ross-1980
+ni,,12pl_p,1st (incl) Person Plural,42550,,,,vani1248,ross-1980
+mi,,2sg_a,2nd Person Singular,40558,,,,vani1248,ross-1980
+mi,,2sg_s,2nd Person Singular,40557,,,,vani1248,ross-1980
+mi,,2sg_o,2nd Person Singular,40556,,,,vani1248,ross-1980
+mè,,2sg_p,2nd Person Singular,42551,,,,vani1248,ross-1980
+mì,,2sg_p,2nd Person Singular,42552,,,,vani1248,ross-1980
+"é, évo",,2du_a,2nd Person Dual,62567,,,,vani1248,ross-1980
+"é, évo",,2du_s,2nd Person Dual,62568,,,,vani1248,ross-1980
+"é, évo",,2du_o,2nd Person Dual,62569,,,,vani1248,ross-1980
+è,,2du_p,2nd Person Dual,40554,,,,vani1248,ross-1980
+é,,2pl_a,2nd Person Plural,42553,,,,vani1248,ross-1980
+évo,,2pl_a,2nd Person Plural,42554,,,,vani1248,ross-1980
+é,,2pl_s,2nd Person Plural,42555,,,,vani1248,ross-1980
+évo,,2pl_s,2nd Person Plural,42556,,,,vani1248,ross-1980
+é,,2pl_o,2nd Person Plural,42547,,,,vani1248,ross-1980
+évo,,2pl_o,2nd Person Plural,42548,,,,vani1248,ross-1980
+è,,2pl_p,2nd Person Plural,40550,,,,vani1248,ross-1980
+hé,,3sg_m_a,3rd Person Singular Masculine,40549,,,,vani1248,ross-1980
+hé,,3sg_m_s,3rd Person Singular Masculine,40548,,,,vani1248,ross-1980
+hé,,3sg_m_o,3rd Person Singular Masculine,40547,,,,vani1248,ross-1980
+hè,,3sg_m_p,3rd Person Singular Masculine,40546,,,,vani1248,ross-1980
+bé,,3sg_n_a,3rd Person Singular Neuter,40545,,,,vani1248,ross-1980
+bé,,3sg_n_s,3rd Person Singular Neuter,40544,,,,vani1248,ross-1980
+bé,,3sg_n_o,3rd Person Singular Neuter,40543,,,,vani1248,ross-1980
+bè,,3sg_n_p,3rd Person Singular Neuter,40542,,,,vani1248,ross-1980
+déhé,,3d-a,3rd Person Dual,40541,,,,vani1248,ross-1980
+déhé,,3d-s,3rd Person Dual,40540,,,,vani1248,ross-1980
+déhé,,3d-o,3rd Person Dual,40539,,,,vani1248,ross-1980
+dè,,3d-p,3rd Person Dual,40538,,,,vani1248,ross-1980
+débé,,3p-a,3rd Person Plural,40537,,,,vani1248,ross-1980
+débé,,3p-s,3rd Person Plural,40536,,,,vani1248,ross-1980
+débé,,3p-o,3rd Person Plural,40535,,,,vani1248,ross-1980
+dè,,3p-p,3rd Person Plural,40534,,,,vani1248,ross-1980

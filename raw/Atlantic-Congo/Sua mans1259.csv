@@ -1,47 +1,47 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-meen;;1sg_a;1st (excl) Person Singular;55206;;;;mans1259;wilson-2007
-meen;;1sg_s;1st (excl) Person Singular;55205;;;;mans1259;wilson-2007
-mɛ;;1sg_o;1st (excl) Person Singular;55204;;;;mans1259;wilson-2007
-ŋkɛ;;1sg_p;1st (excl) Person Singular;55203;;;;mans1259;wilson-2007
-nrɔ;;1du_a;1st (excl) Person Dual;55202;;;;mans1259;wilson-2007
-nrɔ;;1du_s;1st (excl) Person Dual;55201;;;;mans1259;wilson-2007
-rɔ;;1du_o;1st (excl) Person Dual;55200;;;;mans1259;wilson-2007
-nre;;1du_p;1st (excl) Person Dual;55199;;;;mans1259;wilson-2007
-nrɔ;;1pl_a;1st (excl) Person Plural;55198;;;;mans1259;wilson-2007
-nrɔ;;1pl_s;1st (excl) Person Plural;55197;;;;mans1259;wilson-2007
-rɔ;;1pl_o;1st (excl) Person Plural;55196;;;;mans1259;wilson-2007
-nre;;1pl_p;1st (excl) Person Plural;55195;;;;mans1259;wilson-2007
-nrɔ;;12du_a;1st (incl) Person Dual;55194;;;;mans1259;wilson-2007
-nrɔ;;12du_s;1st (incl) Person Dual;55193;;;;mans1259;wilson-2007
-rɔ;;12du_o;1st (incl) Person Dual;55192;;;;mans1259;wilson-2007
-nre;;12du_p;1st (incl) Person Dual;55191;;;;mans1259;wilson-2007
-nrɔ;;12pl_a;1st (incl) Person Plural;55190;;;;mans1259;wilson-2007
-nrɔ;;12pl_s;1st (incl) Person Plural;55189;;;;mans1259;wilson-2007
-rɔ;;12pl_o;1st (incl) Person Plural;55188;;;;mans1259;wilson-2007
-nre;;12pl_p;1st (incl) Person Plural;55187;;;;mans1259;wilson-2007
-mɔɔ;;2sg_a;2nd Person Singular;55186;;;;mans1259;wilson-2007
-mɔɔ;;2sg_s;2nd Person Singular;55185;;;;mans1259;wilson-2007
-ma;;2sg_o;2nd Person Singular;55184;;;;mans1259;wilson-2007
-mɔ;;2sg_p;2nd Person Singular;55183;;;;mans1259;wilson-2007
-nɔɔ;;2du_a;2nd Person Dual;55182;;;;mans1259;wilson-2007
-nɔɔ;;2du_s;2nd Person Dual;55181;;;;mans1259;wilson-2007
-nɔ;;2du_o;2nd Person Dual;55180;;;;mans1259;wilson-2007
-nɔ;;2du_p;2nd Person Dual;55179;;;;mans1259;wilson-2007
-nɔɔ;;2pl_a;2nd Person Plural;55178;;;;mans1259;wilson-2007
-nɔɔ;;2pl_s;2nd Person Plural;55177;;;;mans1259;wilson-2007
-nɔ;;2pl_o;2nd Person Plural;55176;;;;mans1259;wilson-2007
-nɔ;;2pl_p;2nd Person Plural;55175;;;;mans1259;wilson-2007
-akan;;3sg_m_a;3rd Person Singular Masculine;55174;;;;mans1259;wilson-2007
-akan;;3sg_m_s;3rd Person Singular Masculine;55173;;;;mans1259;wilson-2007
-fɔa;;3sg_m_o;3rd Person Singular Masculine;55172;;;;mans1259;wilson-2007
-fɔ;;3sg_m_p;3rd Person Singular Masculine;55171;;;;mans1259;wilson-2007
-kɛ;;3sg_n_o;3rd Person Singular Neuter;55170;;;;mans1259;wilson-2007
-kɔ;;3sg_n_p;3rd Person Singular Neuter;55169;;;;mans1259;wilson-2007
-ukan;;3d-a;3rd Person Dual;55168;;;;mans1259;wilson-2007
-ukan;;3d-s;3rd Person Dual;55167;;;;mans1259;wilson-2007
-wa;;3d-o;3rd Person Dual;55166;;;;mans1259;wilson-2007
-wɔ;;3d-p;3rd Person Dual;55165;;;;mans1259;wilson-2007
-ukan;;3p-a;3rd Person Plural;55164;;;;mans1259;wilson-2007
-ukan;;3p-s;3rd Person Plural;55163;;;;mans1259;wilson-2007
-wa;;3p-o;3rd Person Plural;55162;;;;mans1259;wilson-2007
-wɔ;;3p-p;3rd Person Plural;55161;;;;mans1259;wilson-2007
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+meen,,1sg_a,1st (excl) Person Singular,55206,,,,mans1259,wilson-2007
+meen,,1sg_s,1st (excl) Person Singular,55205,,,,mans1259,wilson-2007
+mɛ,,1sg_o,1st (excl) Person Singular,55204,,,,mans1259,wilson-2007
+ŋkɛ,,1sg_p,1st (excl) Person Singular,55203,,,,mans1259,wilson-2007
+nrɔ,,1du_a,1st (excl) Person Dual,55202,,,,mans1259,wilson-2007
+nrɔ,,1du_s,1st (excl) Person Dual,55201,,,,mans1259,wilson-2007
+rɔ,,1du_o,1st (excl) Person Dual,55200,,,,mans1259,wilson-2007
+nre,,1du_p,1st (excl) Person Dual,55199,,,,mans1259,wilson-2007
+nrɔ,,1pl_a,1st (excl) Person Plural,55198,,,,mans1259,wilson-2007
+nrɔ,,1pl_s,1st (excl) Person Plural,55197,,,,mans1259,wilson-2007
+rɔ,,1pl_o,1st (excl) Person Plural,55196,,,,mans1259,wilson-2007
+nre,,1pl_p,1st (excl) Person Plural,55195,,,,mans1259,wilson-2007
+nrɔ,,12du_a,1st (incl) Person Dual,55194,,,,mans1259,wilson-2007
+nrɔ,,12du_s,1st (incl) Person Dual,55193,,,,mans1259,wilson-2007
+rɔ,,12du_o,1st (incl) Person Dual,55192,,,,mans1259,wilson-2007
+nre,,12du_p,1st (incl) Person Dual,55191,,,,mans1259,wilson-2007
+nrɔ,,12pl_a,1st (incl) Person Plural,55190,,,,mans1259,wilson-2007
+nrɔ,,12pl_s,1st (incl) Person Plural,55189,,,,mans1259,wilson-2007
+rɔ,,12pl_o,1st (incl) Person Plural,55188,,,,mans1259,wilson-2007
+nre,,12pl_p,1st (incl) Person Plural,55187,,,,mans1259,wilson-2007
+mɔɔ,,2sg_a,2nd Person Singular,55186,,,,mans1259,wilson-2007
+mɔɔ,,2sg_s,2nd Person Singular,55185,,,,mans1259,wilson-2007
+ma,,2sg_o,2nd Person Singular,55184,,,,mans1259,wilson-2007
+mɔ,,2sg_p,2nd Person Singular,55183,,,,mans1259,wilson-2007
+nɔɔ,,2du_a,2nd Person Dual,55182,,,,mans1259,wilson-2007
+nɔɔ,,2du_s,2nd Person Dual,55181,,,,mans1259,wilson-2007
+nɔ,,2du_o,2nd Person Dual,55180,,,,mans1259,wilson-2007
+nɔ,,2du_p,2nd Person Dual,55179,,,,mans1259,wilson-2007
+nɔɔ,,2pl_a,2nd Person Plural,55178,,,,mans1259,wilson-2007
+nɔɔ,,2pl_s,2nd Person Plural,55177,,,,mans1259,wilson-2007
+nɔ,,2pl_o,2nd Person Plural,55176,,,,mans1259,wilson-2007
+nɔ,,2pl_p,2nd Person Plural,55175,,,,mans1259,wilson-2007
+akan,,3sg_m_a,3rd Person Singular Masculine,55174,,,,mans1259,wilson-2007
+akan,,3sg_m_s,3rd Person Singular Masculine,55173,,,,mans1259,wilson-2007
+fɔa,,3sg_m_o,3rd Person Singular Masculine,55172,,,,mans1259,wilson-2007
+fɔ,,3sg_m_p,3rd Person Singular Masculine,55171,,,,mans1259,wilson-2007
+kɛ,,3sg_n_o,3rd Person Singular Neuter,55170,,,,mans1259,wilson-2007
+kɔ,,3sg_n_p,3rd Person Singular Neuter,55169,,,,mans1259,wilson-2007
+ukan,,3d-a,3rd Person Dual,55168,,,,mans1259,wilson-2007
+ukan,,3d-s,3rd Person Dual,55167,,,,mans1259,wilson-2007
+wa,,3d-o,3rd Person Dual,55166,,,,mans1259,wilson-2007
+wɔ,,3d-p,3rd Person Dual,55165,,,,mans1259,wilson-2007
+ukan,,3p-a,3rd Person Plural,55164,,,,mans1259,wilson-2007
+ukan,,3p-s,3rd Person Plural,55163,,,,mans1259,wilson-2007
+wa,,3p-o,3rd Person Plural,55162,,,,mans1259,wilson-2007
+wɔ,,3p-p,3rd Person Plural,55161,,,,mans1259,wilson-2007

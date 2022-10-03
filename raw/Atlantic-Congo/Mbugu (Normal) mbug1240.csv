@@ -1,45 +1,45 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mmí ;;1sg_a;1st (excl) Person Singular;44055;;;;mbug1240;mous-2003
-mmí ;;1sg_s;1st (excl) Person Singular;44054;;;;mbug1240;mous-2003
-mmí ;;1sg_o;1st (excl) Person Singular;44053;;;;mbug1240;mous-2003
--aŋgú ;;1sg_p;1st (excl) Person Singular;44052;;;;mbug1240;mous-2003
-úswi ;;1du_a;1st (excl) Person Dual;44051;;;;mbug1240;mous-2003
-úswi ;;1du_s;1st (excl) Person Dual;44050;;;;mbug1240;mous-2003
-úswi ;;1du_o;1st (excl) Person Dual;44049;;;;mbug1240;mous-2003
--etú ;;1du_p;1st (excl) Person Dual;44048;;;;mbug1240;mous-2003
-úswi ;;1pl_a;1st (excl) Person Plural;44047;;;;mbug1240;mous-2003
-úswi ;;1pl_s;1st (excl) Person Plural;44046;;;;mbug1240;mous-2003
-úswi ;;1pl_o;1st (excl) Person Plural;44045;;;;mbug1240;mous-2003
--etú ;;1pl_p;1st (excl) Person Plural;44044;;;;mbug1240;mous-2003
-úswi ;;12du_a;1st (incl) Person Dual;44043;;;;mbug1240;mous-2003
-úswi ;;12du_s;1st (incl) Person Dual;44042;;;;mbug1240;mous-2003
-úswi ;;12du_o;1st (incl) Person Dual;44041;;;;mbug1240;mous-2003
--etú ;;12du_p;1st (incl) Person Dual;44040;;;;mbug1240;mous-2003
-úswi ;;12pl_a;1st (incl) Person Plural;44039;;;;mbug1240;mous-2003
-úswi ;;12pl_s;1st (incl) Person Plural;44038;;;;mbug1240;mous-2003
-úswi ;;12pl_o;1st (incl) Person Plural;44037;;;;mbug1240;mous-2003
--etú ;;12pl_p;1st (incl) Person Plural;44036;;;;mbug1240;mous-2003
-wé;;2sg_a;2nd Person Singular;44035;;;;mbug1240;mous-2003
-wé;;2sg_s;2nd Person Singular;44034;;;;mbug1240;mous-2003
-wé;;2sg_o;2nd Person Singular;44033;;;;mbug1240;mous-2003
--akó, -aɣó;;2sg_p;2nd Person Singular;44032;;;;mbug1240;mous-2003
-úɲwi ;;2du_a;2nd Person Dual;44031;;;;mbug1240;mous-2003
-úɲwi ;;2du_s;2nd Person Dual;44030;;;;mbug1240;mous-2003
-úɲwi ;;2du_o;2nd Person Dual;44029;;;;mbug1240;mous-2003
--eɲú;;2du_p;2nd Person Dual;44028;;;;mbug1240;mous-2003
-úɲwi ;;2pl_a;2nd Person Plural;44027;;;;mbug1240;mous-2003
-úɲwi ;;2pl_s;2nd Person Plural;44026;;;;mbug1240;mous-2003
-úɲwi ;;2pl_o;2nd Person Plural;44025;;;;mbug1240;mous-2003
--eɲú;;2pl_p;2nd Person Plural;44024;;;;mbug1240;mous-2003
-yé;;3sg_m_a;3rd Person Singular Masculine;44023;;;;mbug1240;mous-2003
-yé;;3sg_m_s;3rd Person Singular Masculine;44022;;;;mbug1240;mous-2003
-yé;;3sg_m_o;3rd Person Singular Masculine;44021;;;;mbug1240;mous-2003
--akwé;;3sg_m_p;3rd Person Singular Masculine;44020;;;;mbug1240;mous-2003
-válá;;3d-a;3rd Person Dual;44015;;;;mbug1240;mous-2003
-válá;;3d-s;3rd Person Dual;44014;;;;mbug1240;mous-2003
-válá;;3d-o;3rd Person Dual;44013;;;;mbug1240;mous-2003
--avó;;3d-p;3rd Person Dual;44012;;;;mbug1240;mous-2003
-válá;;3p-a;3rd Person Plural;44011;;;;mbug1240;mous-2003
-válá;;3p-s;3rd Person Plural;44010;;;;mbug1240;mous-2003
-válá;;3p-o;3rd Person Plural;44009;;;;mbug1240;mous-2003
--avó;;3p-p;3rd Person Plural;44008;;;;mbug1240;mous-2003
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mmí,,1sg_a,1st (excl) Person Singular,44055,,,,mbug1240,mous-2003
+mmí,,1sg_s,1st (excl) Person Singular,44054,,,,mbug1240,mous-2003
+mmí,,1sg_o,1st (excl) Person Singular,44053,,,,mbug1240,mous-2003
+-aŋgú,,1sg_p,1st (excl) Person Singular,44052,,,,mbug1240,mous-2003
+úswi,,1du_a,1st (excl) Person Dual,44051,,,,mbug1240,mous-2003
+úswi,,1du_s,1st (excl) Person Dual,44050,,,,mbug1240,mous-2003
+úswi,,1du_o,1st (excl) Person Dual,44049,,,,mbug1240,mous-2003
+-etú,,1du_p,1st (excl) Person Dual,44048,,,,mbug1240,mous-2003
+úswi,,1pl_a,1st (excl) Person Plural,44047,,,,mbug1240,mous-2003
+úswi,,1pl_s,1st (excl) Person Plural,44046,,,,mbug1240,mous-2003
+úswi,,1pl_o,1st (excl) Person Plural,44045,,,,mbug1240,mous-2003
+-etú,,1pl_p,1st (excl) Person Plural,44044,,,,mbug1240,mous-2003
+úswi,,12du_a,1st (incl) Person Dual,44043,,,,mbug1240,mous-2003
+úswi,,12du_s,1st (incl) Person Dual,44042,,,,mbug1240,mous-2003
+úswi,,12du_o,1st (incl) Person Dual,44041,,,,mbug1240,mous-2003
+-etú,,12du_p,1st (incl) Person Dual,44040,,,,mbug1240,mous-2003
+úswi,,12pl_a,1st (incl) Person Plural,44039,,,,mbug1240,mous-2003
+úswi,,12pl_s,1st (incl) Person Plural,44038,,,,mbug1240,mous-2003
+úswi,,12pl_o,1st (incl) Person Plural,44037,,,,mbug1240,mous-2003
+-etú,,12pl_p,1st (incl) Person Plural,44036,,,,mbug1240,mous-2003
+wé,,2sg_a,2nd Person Singular,44035,,,,mbug1240,mous-2003
+wé,,2sg_s,2nd Person Singular,44034,,,,mbug1240,mous-2003
+wé,,2sg_o,2nd Person Singular,44033,,,,mbug1240,mous-2003
+"-akó, -aɣó",,2sg_p,2nd Person Singular,44032,,,,mbug1240,mous-2003
+úɲwi,,2du_a,2nd Person Dual,44031,,,,mbug1240,mous-2003
+úɲwi,,2du_s,2nd Person Dual,44030,,,,mbug1240,mous-2003
+úɲwi,,2du_o,2nd Person Dual,44029,,,,mbug1240,mous-2003
+-eɲú,,2du_p,2nd Person Dual,44028,,,,mbug1240,mous-2003
+úɲwi,,2pl_a,2nd Person Plural,44027,,,,mbug1240,mous-2003
+úɲwi,,2pl_s,2nd Person Plural,44026,,,,mbug1240,mous-2003
+úɲwi,,2pl_o,2nd Person Plural,44025,,,,mbug1240,mous-2003
+-eɲú,,2pl_p,2nd Person Plural,44024,,,,mbug1240,mous-2003
+yé,,3sg_m_a,3rd Person Singular Masculine,44023,,,,mbug1240,mous-2003
+yé,,3sg_m_s,3rd Person Singular Masculine,44022,,,,mbug1240,mous-2003
+yé,,3sg_m_o,3rd Person Singular Masculine,44021,,,,mbug1240,mous-2003
+-akwé,,3sg_m_p,3rd Person Singular Masculine,44020,,,,mbug1240,mous-2003
+válá,,3d-a,3rd Person Dual,44015,,,,mbug1240,mous-2003
+válá,,3d-s,3rd Person Dual,44014,,,,mbug1240,mous-2003
+válá,,3d-o,3rd Person Dual,44013,,,,mbug1240,mous-2003
+-avó,,3d-p,3rd Person Dual,44012,,,,mbug1240,mous-2003
+válá,,3p-a,3rd Person Plural,44011,,,,mbug1240,mous-2003
+válá,,3p-s,3rd Person Plural,44010,,,,mbug1240,mous-2003
+válá,,3p-o,3rd Person Plural,44009,,,,mbug1240,mous-2003
+-avó,,3p-p,3rd Person Plural,44008,,,,mbug1240,mous-2003

@@ -1,46 +1,46 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mè;;1sg_a;1st (excl) Person Singular;58915;;;;deny1238;seguin-1998
-mè;;1sg_s;1st (excl) Person Singular;58914;;;;deny1238;seguin-1998
-mè;;1sg_o;1st (excl) Person Singular;58913;;;;deny1238;seguin-1998
-àwà;;1sg_p;1st (excl) Person Singular;58912;;;;deny1238;seguin-1998
-ɛ̀sé;;1du_a;1st (excl) Person Dual;58911;;;;deny1238;seguin-1998
-ɛ̀sé;;1du_s;1st (excl) Person Dual;58910;;;;deny1238;seguin-1998
-ɛ̀sé;;1du_o;1st (excl) Person Dual;58909;;;;deny1238;seguin-1998
-àwùsé;;1du_p;1st (excl) Person Dual;58908;;;;deny1238;seguin-1998
-ɛ̀sé;;1pl_a;1st (excl) Person Plural;58907;;;;deny1238;seguin-1998
-ɛ̀sé;;1pl_s;1st (excl) Person Plural;58906;;;;deny1238;seguin-1998
-ɛ̀sé;;1pl_o;1st (excl) Person Plural;58905;;;;deny1238;seguin-1998
-àwùsé;;1pl_p;1st (excl) Person Plural;58904;;;;deny1238;seguin-1998
-ɛ̀sé;;12du_a;1st (incl) Person Dual;58903;;;;deny1238;seguin-1998
-ɛ̀sé;;12du_s;1st (incl) Person Dual;58902;;;;deny1238;seguin-1998
-ɛ̀sé;;12du_o;1st (incl) Person Dual;58901;;;;deny1238;seguin-1998
-àwùsé;;12du_p;1st (incl) Person Dual;58900;;;;deny1238;seguin-1998
-ɛ̀sé;;12pl_a;1st (incl) Person Plural;58899;;;;deny1238;seguin-1998
-ɛ̀sé;;12pl_s;1st (incl) Person Plural;58898;;;;deny1238;seguin-1998
-ɛ̀sé;;12pl_o;1st (incl) Person Plural;58897;;;;deny1238;seguin-1998
-àwùsé;;12pl_p;1st (incl) Person Plural;58896;;;;deny1238;seguin-1998
-wɔ̀;;2sg_a;2nd Person Singular;58895;;;;deny1238;seguin-1998
-wɔ̀;;2sg_s;2nd Person Singular;58894;;;;deny1238;seguin-1998
-wɔ̀;;2sg_o;2nd Person Singular;58893;;;;deny1238;seguin-1998
-áwíɛ́;;2sg_p;2nd Person Singular;58892;;;;deny1238;seguin-1998
-ɛ̀ɲú;;2du_a;2nd Person Dual;58891;;;;deny1238;seguin-1998
-ɛ̀ɲú;;2du_s;2nd Person Dual;58890;;;;deny1238;seguin-1998
-ɛ̀ɲú;;2du_o;2nd Person Dual;58889;;;;deny1238;seguin-1998
-àwùɲú;;2du_p;2nd Person Dual;58888;;;;deny1238;seguin-1998
-ɛ̀ɲú;;2pl_a;2nd Person Plural;58887;;;;deny1238;seguin-1998
-ɛ̀ɲú;;2pl_s;2nd Person Plural;58886;;;;deny1238;seguin-1998
-ɛ̀ɲú;;2pl_o;2nd Person Plural;58885;;;;deny1238;seguin-1998
-àwùɲú;;2pl_p;2nd Person Plural;58884;;;;deny1238;seguin-1998
-jì;;3sg_m_a;3rd Person Singular Masculine;58883;;;;deny1238;seguin-1998
-jì;;3sg_m_s;3rd Person Singular Masculine;58882;;;;deny1238;seguin-1998
-jì;;3sg_m_o;3rd Person Singular Masculine;58881;;;;deny1238;seguin-1998
-àwǔ;;3sg_m_p;3rd Person Singular Masculine;58880;;;;deny1238;seguin-1998
-àwǔ;;3sg_n_p;3rd Person Singular Neuter;58879;;;;deny1238;seguin-1998
-ɛ̀bwɔ́;;3d-a;3rd Person Dual;58878;;;;deny1238;seguin-1998
-ɛ̀bwɔ́;;3d-s;3rd Person Dual;58877;;;;deny1238;seguin-1998
-ɛ̀bwɔ́;;3d-o;3rd Person Dual;58876;;;;deny1238;seguin-1998
-àwùbwɔ́, bwɔ́;;3d-p;3rd Person Dual;58875;;;;deny1238;seguin-1998
-ɛ̀bwɔ́;;3p-a;3rd Person Plural;58874;;;;deny1238;seguin-1998
-ɛ̀bwɔ́;;3p-s;3rd Person Plural;58873;;;;deny1238;seguin-1998
-ɛ̀bwɔ́;;3p-o;3rd Person Plural;58872;;;;deny1238;seguin-1998
-àwùbwɔ́, bwɔ́;;3p-p;3rd Person Plural;58871;;;;deny1238;seguin-1998
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mè,,1sg_a,1st (excl) Person Singular,58915,,,,deny1238,seguin-1998
+mè,,1sg_s,1st (excl) Person Singular,58914,,,,deny1238,seguin-1998
+mè,,1sg_o,1st (excl) Person Singular,58913,,,,deny1238,seguin-1998
+àwà,,1sg_p,1st (excl) Person Singular,58912,,,,deny1238,seguin-1998
+ɛ̀sé,,1du_a,1st (excl) Person Dual,58911,,,,deny1238,seguin-1998
+ɛ̀sé,,1du_s,1st (excl) Person Dual,58910,,,,deny1238,seguin-1998
+ɛ̀sé,,1du_o,1st (excl) Person Dual,58909,,,,deny1238,seguin-1998
+àwùsé,,1du_p,1st (excl) Person Dual,58908,,,,deny1238,seguin-1998
+ɛ̀sé,,1pl_a,1st (excl) Person Plural,58907,,,,deny1238,seguin-1998
+ɛ̀sé,,1pl_s,1st (excl) Person Plural,58906,,,,deny1238,seguin-1998
+ɛ̀sé,,1pl_o,1st (excl) Person Plural,58905,,,,deny1238,seguin-1998
+àwùsé,,1pl_p,1st (excl) Person Plural,58904,,,,deny1238,seguin-1998
+ɛ̀sé,,12du_a,1st (incl) Person Dual,58903,,,,deny1238,seguin-1998
+ɛ̀sé,,12du_s,1st (incl) Person Dual,58902,,,,deny1238,seguin-1998
+ɛ̀sé,,12du_o,1st (incl) Person Dual,58901,,,,deny1238,seguin-1998
+àwùsé,,12du_p,1st (incl) Person Dual,58900,,,,deny1238,seguin-1998
+ɛ̀sé,,12pl_a,1st (incl) Person Plural,58899,,,,deny1238,seguin-1998
+ɛ̀sé,,12pl_s,1st (incl) Person Plural,58898,,,,deny1238,seguin-1998
+ɛ̀sé,,12pl_o,1st (incl) Person Plural,58897,,,,deny1238,seguin-1998
+àwùsé,,12pl_p,1st (incl) Person Plural,58896,,,,deny1238,seguin-1998
+wɔ̀,,2sg_a,2nd Person Singular,58895,,,,deny1238,seguin-1998
+wɔ̀,,2sg_s,2nd Person Singular,58894,,,,deny1238,seguin-1998
+wɔ̀,,2sg_o,2nd Person Singular,58893,,,,deny1238,seguin-1998
+áwíɛ́,,2sg_p,2nd Person Singular,58892,,,,deny1238,seguin-1998
+ɛ̀ɲú,,2du_a,2nd Person Dual,58891,,,,deny1238,seguin-1998
+ɛ̀ɲú,,2du_s,2nd Person Dual,58890,,,,deny1238,seguin-1998
+ɛ̀ɲú,,2du_o,2nd Person Dual,58889,,,,deny1238,seguin-1998
+àwùɲú,,2du_p,2nd Person Dual,58888,,,,deny1238,seguin-1998
+ɛ̀ɲú,,2pl_a,2nd Person Plural,58887,,,,deny1238,seguin-1998
+ɛ̀ɲú,,2pl_s,2nd Person Plural,58886,,,,deny1238,seguin-1998
+ɛ̀ɲú,,2pl_o,2nd Person Plural,58885,,,,deny1238,seguin-1998
+àwùɲú,,2pl_p,2nd Person Plural,58884,,,,deny1238,seguin-1998
+jì,,3sg_m_a,3rd Person Singular Masculine,58883,,,,deny1238,seguin-1998
+jì,,3sg_m_s,3rd Person Singular Masculine,58882,,,,deny1238,seguin-1998
+jì,,3sg_m_o,3rd Person Singular Masculine,58881,,,,deny1238,seguin-1998
+àwǔ,,3sg_m_p,3rd Person Singular Masculine,58880,,,,deny1238,seguin-1998
+àwǔ,,3sg_n_p,3rd Person Singular Neuter,58879,,,,deny1238,seguin-1998
+ɛ̀bwɔ́,,3d-a,3rd Person Dual,58878,,,,deny1238,seguin-1998
+ɛ̀bwɔ́,,3d-s,3rd Person Dual,58877,,,,deny1238,seguin-1998
+ɛ̀bwɔ́,,3d-o,3rd Person Dual,58876,,,,deny1238,seguin-1998
+"àwùbwɔ́, bwɔ́",,3d-p,3rd Person Dual,58875,,,,deny1238,seguin-1998
+ɛ̀bwɔ́,,3p-a,3rd Person Plural,58874,,,,deny1238,seguin-1998
+ɛ̀bwɔ́,,3p-s,3rd Person Plural,58873,,,,deny1238,seguin-1998
+ɛ̀bwɔ́,,3p-o,3rd Person Plural,58872,,,,deny1238,seguin-1998
+"àwùbwɔ́, bwɔ́",,3p-p,3rd Person Plural,58871,,,,deny1238,seguin-1998

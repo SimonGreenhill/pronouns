@@ -1,79 +1,79 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋada;;1sg_a;1st (excl) Person Singular;22211;;;;kaya1319;evans-1995
-ŋada;;1sg_s;1st (excl) Person Singular;22212;;;;kaya1319;evans-1995
-ŋijinji;;1sg_o;1st (excl) Person Singular;22213;;;;kaya1319;evans-1995
-ŋijinda;;1sg_p;1st (excl) Person Singular;22214;;;;kaya1319;evans-1995
-ŋara;;1du_a;1st (excl) Person Dual;22215;;;;kaya1319;evans-1995
-ŋara;;1du_s;1st (excl) Person Dual;22216;;;;kaya1319;evans-1995
-ŋarwanji;;1du_o;1st (excl) Person Dual;22217;;;;kaya1319;evans-1995
-ŋarwanda;;1du_p;1st (excl) Person Dual;22218;;;;kaya1319;evans-1995
-ŋalda;;1pl_a;1st (excl) Person Plural;22219;;;;kaya1319;evans-1995
-ŋalda;;1pl_s;1st (excl) Person Plural;22220;;;;kaya1319;evans-1995
-ŋalwanji;;1pl_o;1st (excl) Person Plural;22221;;;;kaya1319;evans-1995
-ŋalwanda;;1pl_p;1st (excl) Person Plural;22222;;;;kaya1319;evans-1995
-ŋakurra;;12du_a;1st (incl) Person Dual;22223;;;;kaya1319;evans-1995
-ŋakurra;;12du_s;1st (incl) Person Dual;22224;;;;kaya1319;evans-1995
-ŋakurwanji;;12du_o;1st (incl) Person Dual;22225;;;;kaya1319;evans-1995
-ŋakinji;;12du_o;1st (incl) Person Dual;22226;;;;kaya1319;evans-1995
-ŋakurwanda;;12du_p;1st (incl) Person Dual;22227;;;;kaya1319;evans-1995
-ŋakinda;;12du_p;1st (incl) Person Dual;22228;;;;kaya1319;evans-1995
-ŋakulda;;12pl_a;1st (incl) Person Plural;22229;;;;kaya1319;evans-1995
-ŋakulda;;12pl_s;1st (incl) Person Plural;22230;;;;kaya1319;evans-1995
-ŋakulwanji;;12pl_o;1st (incl) Person Plural;22231;;;;kaya1319;evans-1995
-ŋakulwanda;;12pl_p;1st (incl) Person Plural;22232;;;;kaya1319;evans-1995
-ñiŋka;;2sg_a;2nd Person Singular;22233;;;;kaya1319;evans-1995
-ñiŋka;;2sg_s;2nd Person Singular;22234;;;;kaya1319;evans-1995
-ŋumbanji;;2sg_o;2nd Person Singular;22235;;;;kaya1319;evans-1995
-ŋumbanda;;2sg_p;2nd Person Singular;22236;;;;kaya1319;evans-1995
-kirra;;2du_a;2nd Person Dual;22237;;;;kaya1319;evans-1995
-kira;;2du_s;2nd Person Dual;22238;;;;kaya1319;evans-1995
-kirwanji;;2du_o;2nd Person Dual;22239;;;;kaya1319;evans-1995
-kirwanda;;2du_p;2nd Person Dual;22240;;;;kaya1319;evans-1995
-kilda;;2pl_a;2nd Person Plural;22241;;;;kaya1319;evans-1995
-kilda;;2pl_s;2nd Person Plural;22242;;;;kaya1319;evans-1995
-kilwanji;;2pl_o;2nd Person Plural;22243;;;;kaya1319;evans-1995
-kilwanda;;2pl_p;2nd Person Plural;22244;;;;kaya1319;evans-1995
-niya;;3sg_m_a;3rd Person Singular Masculine;22245;;;;kaya1319;evans-1995
-niya;;3sg_m_s;3rd Person Singular Masculine;22246;;;;kaya1319;evans-1995
-niwanji;;3sg_m_o;3rd Person Singular Masculine;22247;;;;kaya1319;evans-1995
-niwanda;;3sg_m_p;3rd Person Singular Masculine;22248;;;;kaya1319;evans-1995
-niya;;3sg_f_a;3rd Person Singular Feminine;22249;;;;kaya1319;evans-1995
-niya;;3sg_f_s;3rd Person Singular Feminine;22250;;;;kaya1319;evans-1995
-niwanji;;3sg_f_o;3rd Person Singular Feminine;22251;;;;kaya1319;evans-1995
-niwanda;;3sg_f_p;3rd Person Singular Feminine;22252;;;;kaya1319;evans-1995
-niya;;3sg_n_a;3rd Person Singular Neuter;22253;;;;kaya1319;evans-1995
-niya;;3sg_n_s;3rd Person Singular Neuter;22254;;;;kaya1319;evans-1995
-niwanji;;3sg_n_o;3rd Person Singular Neuter;22255;;;;kaya1319;evans-1995
-niwanda;;3sg_n_p;3rd Person Singular Neuter;22256;;;;kaya1319;evans-1995
-bira;;3du_m_a;3rd Person Dual Masculine;22257;;;;kaya1319;evans-1995
-bira;;3du_m_s;3rd Person Dual Masculine;22258;;;;kaya1319;evans-1995
-birwanji;;3du_m_o;3rd Person Dual Masculine;22259;;;;kaya1319;evans-1995
-birwanda;;3du_m_p;3rd Person Dual Masculine;22260;;;;kaya1319;evans-1995
-bira;;3du_f_a;3rd Person Dual Feminine;22261;;;;kaya1319;evans-1995
-bira;;3du_f_s;3rd Person Dual Feminine;22262;;;;kaya1319;evans-1995
-birwanji;;3du_f_o;3rd Person Dual Feminine;22263;;;;kaya1319;evans-1995
-birwanda;;3du_f_p;3rd Person Dual Feminine;22264;;;;kaya1319;evans-1995
-bira;;3du_n_a;3rd Person Dual Neuter;22265;;;;kaya1319;evans-1995
-bira;;3du_n_s;3rd Person Dual Neuter;22266;;;;kaya1319;evans-1995
-birwanji;;3du_n_o;3rd Person Dual Neuter;22267;;;;kaya1319;evans-1995
-birwanda;;3du_n_p;3rd Person Dual Neuter;22268;;;;kaya1319;evans-1995
-bilda;;3pl_m_a;3rd Person Plural Masculine;22269;;;;kaya1319;evans-1995
-bilda;;3pl_m_s;3rd Person Plural Masculine;22270;;;;kaya1319;evans-1995
-bilwanji;;3pl_m_o;3rd Person Plural Masculine;22271;;;;kaya1319;evans-1995
-bilwanda;;3pl_m_p;3rd Person Plural Masculine;22272;;;;kaya1319;evans-1995
-bilda;;3pl_f_a;3rd Person Plural Feminine;22273;;;;kaya1319;evans-1995
-bilda;;3pl_f_s;3rd Person Plural Feminine;22274;;;;kaya1319;evans-1995
-bilwanji;;3pl_f_o;3rd Person Plural Feminine;22275;;;;kaya1319;evans-1995
-bilwanda;;3pl_f_p;3rd Person Plural Feminine;22276;;;;kaya1319;evans-1995
-bilda;;3pl_n_a;3rd Person Plural Neuter;22277;;;;kaya1319;evans-1995
-bilda;;3pl_n_s;3rd Person Plural Neuter;22278;;;;kaya1319;evans-1995
-bilwanji;;3pl_n_o;3rd Person Plural Neuter;22279;;;;kaya1319;evans-1995
-bilwanda;;3pl_n_p;3rd Person Plural Neuter;22280;;;;kaya1319;evans-1995
-bira;;3d-a;3rd Person Dual;36343;;;;kaya1319;evans-1995
-bira;;3d-s;3rd Person Dual;36570;;;;kaya1319;evans-1995
-birwanji;;3d-o;3rd Person Dual;36796;;;;kaya1319;evans-1995
-birwanda;;3d-p;3rd Person Dual;37006;;;;kaya1319;evans-1995
-bilda;;3p-a;3rd Person Plural;37226;;;;kaya1319;evans-1995
-bilda;;3p-s;3rd Person Plural;37452;;;;kaya1319;evans-1995
-bilwanji;;3p-o;3rd Person Plural;37675;;;;kaya1319;evans-1995
-bilwanda;;3p-p;3rd Person Plural;37884;;;;kaya1319;evans-1995
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋada,,1sg_a,1st (excl) Person Singular,22211,,,,kaya1319,evans-1995
+ŋada,,1sg_s,1st (excl) Person Singular,22212,,,,kaya1319,evans-1995
+ŋijinji,,1sg_o,1st (excl) Person Singular,22213,,,,kaya1319,evans-1995
+ŋijinda,,1sg_p,1st (excl) Person Singular,22214,,,,kaya1319,evans-1995
+ŋara,,1du_a,1st (excl) Person Dual,22215,,,,kaya1319,evans-1995
+ŋara,,1du_s,1st (excl) Person Dual,22216,,,,kaya1319,evans-1995
+ŋarwanji,,1du_o,1st (excl) Person Dual,22217,,,,kaya1319,evans-1995
+ŋarwanda,,1du_p,1st (excl) Person Dual,22218,,,,kaya1319,evans-1995
+ŋalda,,1pl_a,1st (excl) Person Plural,22219,,,,kaya1319,evans-1995
+ŋalda,,1pl_s,1st (excl) Person Plural,22220,,,,kaya1319,evans-1995
+ŋalwanji,,1pl_o,1st (excl) Person Plural,22221,,,,kaya1319,evans-1995
+ŋalwanda,,1pl_p,1st (excl) Person Plural,22222,,,,kaya1319,evans-1995
+ŋakurra,,12du_a,1st (incl) Person Dual,22223,,,,kaya1319,evans-1995
+ŋakurra,,12du_s,1st (incl) Person Dual,22224,,,,kaya1319,evans-1995
+ŋakurwanji,,12du_o,1st (incl) Person Dual,22225,,,,kaya1319,evans-1995
+ŋakinji,,12du_o,1st (incl) Person Dual,22226,,,,kaya1319,evans-1995
+ŋakurwanda,,12du_p,1st (incl) Person Dual,22227,,,,kaya1319,evans-1995
+ŋakinda,,12du_p,1st (incl) Person Dual,22228,,,,kaya1319,evans-1995
+ŋakulda,,12pl_a,1st (incl) Person Plural,22229,,,,kaya1319,evans-1995
+ŋakulda,,12pl_s,1st (incl) Person Plural,22230,,,,kaya1319,evans-1995
+ŋakulwanji,,12pl_o,1st (incl) Person Plural,22231,,,,kaya1319,evans-1995
+ŋakulwanda,,12pl_p,1st (incl) Person Plural,22232,,,,kaya1319,evans-1995
+ñiŋka,,2sg_a,2nd Person Singular,22233,,,,kaya1319,evans-1995
+ñiŋka,,2sg_s,2nd Person Singular,22234,,,,kaya1319,evans-1995
+ŋumbanji,,2sg_o,2nd Person Singular,22235,,,,kaya1319,evans-1995
+ŋumbanda,,2sg_p,2nd Person Singular,22236,,,,kaya1319,evans-1995
+kirra,,2du_a,2nd Person Dual,22237,,,,kaya1319,evans-1995
+kira,,2du_s,2nd Person Dual,22238,,,,kaya1319,evans-1995
+kirwanji,,2du_o,2nd Person Dual,22239,,,,kaya1319,evans-1995
+kirwanda,,2du_p,2nd Person Dual,22240,,,,kaya1319,evans-1995
+kilda,,2pl_a,2nd Person Plural,22241,,,,kaya1319,evans-1995
+kilda,,2pl_s,2nd Person Plural,22242,,,,kaya1319,evans-1995
+kilwanji,,2pl_o,2nd Person Plural,22243,,,,kaya1319,evans-1995
+kilwanda,,2pl_p,2nd Person Plural,22244,,,,kaya1319,evans-1995
+niya,,3sg_m_a,3rd Person Singular Masculine,22245,,,,kaya1319,evans-1995
+niya,,3sg_m_s,3rd Person Singular Masculine,22246,,,,kaya1319,evans-1995
+niwanji,,3sg_m_o,3rd Person Singular Masculine,22247,,,,kaya1319,evans-1995
+niwanda,,3sg_m_p,3rd Person Singular Masculine,22248,,,,kaya1319,evans-1995
+niya,,3sg_f_a,3rd Person Singular Feminine,22249,,,,kaya1319,evans-1995
+niya,,3sg_f_s,3rd Person Singular Feminine,22250,,,,kaya1319,evans-1995
+niwanji,,3sg_f_o,3rd Person Singular Feminine,22251,,,,kaya1319,evans-1995
+niwanda,,3sg_f_p,3rd Person Singular Feminine,22252,,,,kaya1319,evans-1995
+niya,,3sg_n_a,3rd Person Singular Neuter,22253,,,,kaya1319,evans-1995
+niya,,3sg_n_s,3rd Person Singular Neuter,22254,,,,kaya1319,evans-1995
+niwanji,,3sg_n_o,3rd Person Singular Neuter,22255,,,,kaya1319,evans-1995
+niwanda,,3sg_n_p,3rd Person Singular Neuter,22256,,,,kaya1319,evans-1995
+bira,,3du_m_a,3rd Person Dual Masculine,22257,,,,kaya1319,evans-1995
+bira,,3du_m_s,3rd Person Dual Masculine,22258,,,,kaya1319,evans-1995
+birwanji,,3du_m_o,3rd Person Dual Masculine,22259,,,,kaya1319,evans-1995
+birwanda,,3du_m_p,3rd Person Dual Masculine,22260,,,,kaya1319,evans-1995
+bira,,3du_f_a,3rd Person Dual Feminine,22261,,,,kaya1319,evans-1995
+bira,,3du_f_s,3rd Person Dual Feminine,22262,,,,kaya1319,evans-1995
+birwanji,,3du_f_o,3rd Person Dual Feminine,22263,,,,kaya1319,evans-1995
+birwanda,,3du_f_p,3rd Person Dual Feminine,22264,,,,kaya1319,evans-1995
+bira,,3du_n_a,3rd Person Dual Neuter,22265,,,,kaya1319,evans-1995
+bira,,3du_n_s,3rd Person Dual Neuter,22266,,,,kaya1319,evans-1995
+birwanji,,3du_n_o,3rd Person Dual Neuter,22267,,,,kaya1319,evans-1995
+birwanda,,3du_n_p,3rd Person Dual Neuter,22268,,,,kaya1319,evans-1995
+bilda,,3pl_m_a,3rd Person Plural Masculine,22269,,,,kaya1319,evans-1995
+bilda,,3pl_m_s,3rd Person Plural Masculine,22270,,,,kaya1319,evans-1995
+bilwanji,,3pl_m_o,3rd Person Plural Masculine,22271,,,,kaya1319,evans-1995
+bilwanda,,3pl_m_p,3rd Person Plural Masculine,22272,,,,kaya1319,evans-1995
+bilda,,3pl_f_a,3rd Person Plural Feminine,22273,,,,kaya1319,evans-1995
+bilda,,3pl_f_s,3rd Person Plural Feminine,22274,,,,kaya1319,evans-1995
+bilwanji,,3pl_f_o,3rd Person Plural Feminine,22275,,,,kaya1319,evans-1995
+bilwanda,,3pl_f_p,3rd Person Plural Feminine,22276,,,,kaya1319,evans-1995
+bilda,,3pl_n_a,3rd Person Plural Neuter,22277,,,,kaya1319,evans-1995
+bilda,,3pl_n_s,3rd Person Plural Neuter,22278,,,,kaya1319,evans-1995
+bilwanji,,3pl_n_o,3rd Person Plural Neuter,22279,,,,kaya1319,evans-1995
+bilwanda,,3pl_n_p,3rd Person Plural Neuter,22280,,,,kaya1319,evans-1995
+bira,,3d-a,3rd Person Dual,36343,,,,kaya1319,evans-1995
+bira,,3d-s,3rd Person Dual,36570,,,,kaya1319,evans-1995
+birwanji,,3d-o,3rd Person Dual,36796,,,,kaya1319,evans-1995
+birwanda,,3d-p,3rd Person Dual,37006,,,,kaya1319,evans-1995
+bilda,,3p-a,3rd Person Plural,37226,,,,kaya1319,evans-1995
+bilda,,3p-s,3rd Person Plural,37452,,,,kaya1319,evans-1995
+bilwanji,,3p-o,3rd Person Plural,37675,,,,kaya1319,evans-1995
+bilwanda,,3p-p,3rd Person Plural,37884,,,,kaya1319,evans-1995

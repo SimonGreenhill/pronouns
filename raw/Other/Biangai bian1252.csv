@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ne;;1sg_a;1st (excl) Person Singular;42158;;;;bian1252;dubert-and-dubert-1978
-ne;;1sg_s;1st (excl) Person Singular;42157;;;;bian1252;dubert-and-dubert-1978
-ne;;1sg_o;1st (excl) Person Singular;42156;;;;bian1252;dubert-and-dubert-1978
-negi;;1sg_p;1st (excl) Person Singular;42155;;;;bian1252;dubert-and-dubert-1978
-te;;1du_a;1st (excl) Person Dual;42154;;;;bian1252;dubert-and-dubert-1978
-te;;1du_s;1st (excl) Person Dual;42153;;;;bian1252;dubert-and-dubert-1978
-te;;1du_o;1st (excl) Person Dual;42152;;;;bian1252;dubert-and-dubert-1978
-tegi;;1du_p;1st (excl) Person Dual;42151;;;;bian1252;dubert-and-dubert-1978
-teni;;1pl_a;1st (excl) Person Plural;42150;;;;bian1252;dubert-and-dubert-1978
-teni;;1pl_s;1st (excl) Person Plural;42149;;;;bian1252;dubert-and-dubert-1978
-teni;;1pl_o;1st (excl) Person Plural;42148;;;;bian1252;dubert-and-dubert-1978
-tenigi;;1pl_p;1st (excl) Person Plural;42147;;;;bian1252;dubert-and-dubert-1978
-tewa;;12du_a;1st (incl) Person Dual;42146;;;;bian1252;dubert-and-dubert-1978
-tewa;;12du_s;1st (incl) Person Dual;42145;;;;bian1252;dubert-and-dubert-1978
-tewa;;12du_o;1st (incl) Person Dual;42144;;;;bian1252;dubert-and-dubert-1978
-tewagi;;12du_p;1st (incl) Person Dual;42143;;;;bian1252;dubert-and-dubert-1978
-teni;;12pl_a;1st (incl) Person Plural;42142;;;;bian1252;dubert-and-dubert-1978
-teni;;12pl_s;1st (incl) Person Plural;42141;;;;bian1252;dubert-and-dubert-1978
-teni;;12pl_o;1st (incl) Person Plural;42140;;;;bian1252;dubert-and-dubert-1978
-tenigi;;12pl_p;1st (incl) Person Plural;42139;;;;bian1252;dubert-and-dubert-1978
-ni;;2sg_a;2nd Person Singular;42138;;;;bian1252;dubert-and-dubert-1978
-ni;;2sg_s;2nd Person Singular;42137;;;;bian1252;dubert-and-dubert-1978
-ni;;2sg_o;2nd Person Singular;42136;;;;bian1252;dubert-and-dubert-1978
-nigi;;2sg_p;2nd Person Singular;42135;;;;bian1252;dubert-and-dubert-1978
-yali;;2du_a;2nd Person Dual;42134;;;;bian1252;dubert-and-dubert-1978
-yali;;2du_s;2nd Person Dual;42133;;;;bian1252;dubert-and-dubert-1978
-yali;;2du_o;2nd Person Dual;42132;;;;bian1252;dubert-and-dubert-1978
-yaligi;;2du_p;2nd Person Dual;42131;;;;bian1252;dubert-and-dubert-1978
-ini;;2pl_a;2nd Person Plural;42130;;;;bian1252;dubert-and-dubert-1978
-ini;;2pl_s;2nd Person Plural;42129;;;;bian1252;dubert-and-dubert-1978
-ini;;2pl_o;2nd Person Plural;42128;;;;bian1252;dubert-and-dubert-1978
-inigi;;2pl_p;2nd Person Plural;42127;;;;bian1252;dubert-and-dubert-1978
-pi;;3sg_m_a;3rd Person Singular Masculine;42126;;;;bian1252;dubert-and-dubert-1978
-pi;;3sg_m_s;3rd Person Singular Masculine;42125;;;;bian1252;dubert-and-dubert-1978
-pi;;3sg_m_o;3rd Person Singular Masculine;42124;;;;bian1252;dubert-and-dubert-1978
-pigi;;3sg_m_p;3rd Person Singular Masculine;42123;;;;bian1252;dubert-and-dubert-1978
-pi;;3sg_n_a;3rd Person Singular Neuter;42122;;;;bian1252;dubert-and-dubert-1978
-pi;;3sg_n_s;3rd Person Singular Neuter;42121;;;;bian1252;dubert-and-dubert-1978
-pi;;3sg_n_o;3rd Person Singular Neuter;42120;;;;bian1252;dubert-and-dubert-1978
-pigi;;3sg_n_p;3rd Person Singular Neuter;42119;;;;bian1252;dubert-and-dubert-1978
-piyau;;3d-a;3rd Person Dual;42118;;;;bian1252;dubert-and-dubert-1978
-piyau;;3d-s;3rd Person Dual;42117;;;;bian1252;dubert-and-dubert-1978
-piyau;;3d-o;3rd Person Dual;42116;;;;bian1252;dubert-and-dubert-1978
-piyaugi;;3d-p;3rd Person Dual;42115;;;;bian1252;dubert-and-dubert-1978
-puwili;;3p-a;3rd Person Plural;42114;;;;bian1252;dubert-and-dubert-1978
-puwili;;3p-s;3rd Person Plural;42113;;;;bian1252;dubert-and-dubert-1978
-puwili;;3p-o;3rd Person Plural;42112;;;;bian1252;dubert-and-dubert-1978
-puwiligi;;3p-p;3rd Person Plural;42111;;;;bian1252;dubert-and-dubert-1978
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ne,,1sg_a,1st (excl) Person Singular,42158,,,,bian1252,dubert-and-dubert-1978
+ne,,1sg_s,1st (excl) Person Singular,42157,,,,bian1252,dubert-and-dubert-1978
+ne,,1sg_o,1st (excl) Person Singular,42156,,,,bian1252,dubert-and-dubert-1978
+negi,,1sg_p,1st (excl) Person Singular,42155,,,,bian1252,dubert-and-dubert-1978
+te,,1du_a,1st (excl) Person Dual,42154,,,,bian1252,dubert-and-dubert-1978
+te,,1du_s,1st (excl) Person Dual,42153,,,,bian1252,dubert-and-dubert-1978
+te,,1du_o,1st (excl) Person Dual,42152,,,,bian1252,dubert-and-dubert-1978
+tegi,,1du_p,1st (excl) Person Dual,42151,,,,bian1252,dubert-and-dubert-1978
+teni,,1pl_a,1st (excl) Person Plural,42150,,,,bian1252,dubert-and-dubert-1978
+teni,,1pl_s,1st (excl) Person Plural,42149,,,,bian1252,dubert-and-dubert-1978
+teni,,1pl_o,1st (excl) Person Plural,42148,,,,bian1252,dubert-and-dubert-1978
+tenigi,,1pl_p,1st (excl) Person Plural,42147,,,,bian1252,dubert-and-dubert-1978
+tewa,,12du_a,1st (incl) Person Dual,42146,,,,bian1252,dubert-and-dubert-1978
+tewa,,12du_s,1st (incl) Person Dual,42145,,,,bian1252,dubert-and-dubert-1978
+tewa,,12du_o,1st (incl) Person Dual,42144,,,,bian1252,dubert-and-dubert-1978
+tewagi,,12du_p,1st (incl) Person Dual,42143,,,,bian1252,dubert-and-dubert-1978
+teni,,12pl_a,1st (incl) Person Plural,42142,,,,bian1252,dubert-and-dubert-1978
+teni,,12pl_s,1st (incl) Person Plural,42141,,,,bian1252,dubert-and-dubert-1978
+teni,,12pl_o,1st (incl) Person Plural,42140,,,,bian1252,dubert-and-dubert-1978
+tenigi,,12pl_p,1st (incl) Person Plural,42139,,,,bian1252,dubert-and-dubert-1978
+ni,,2sg_a,2nd Person Singular,42138,,,,bian1252,dubert-and-dubert-1978
+ni,,2sg_s,2nd Person Singular,42137,,,,bian1252,dubert-and-dubert-1978
+ni,,2sg_o,2nd Person Singular,42136,,,,bian1252,dubert-and-dubert-1978
+nigi,,2sg_p,2nd Person Singular,42135,,,,bian1252,dubert-and-dubert-1978
+yali,,2du_a,2nd Person Dual,42134,,,,bian1252,dubert-and-dubert-1978
+yali,,2du_s,2nd Person Dual,42133,,,,bian1252,dubert-and-dubert-1978
+yali,,2du_o,2nd Person Dual,42132,,,,bian1252,dubert-and-dubert-1978
+yaligi,,2du_p,2nd Person Dual,42131,,,,bian1252,dubert-and-dubert-1978
+ini,,2pl_a,2nd Person Plural,42130,,,,bian1252,dubert-and-dubert-1978
+ini,,2pl_s,2nd Person Plural,42129,,,,bian1252,dubert-and-dubert-1978
+ini,,2pl_o,2nd Person Plural,42128,,,,bian1252,dubert-and-dubert-1978
+inigi,,2pl_p,2nd Person Plural,42127,,,,bian1252,dubert-and-dubert-1978
+pi,,3sg_m_a,3rd Person Singular Masculine,42126,,,,bian1252,dubert-and-dubert-1978
+pi,,3sg_m_s,3rd Person Singular Masculine,42125,,,,bian1252,dubert-and-dubert-1978
+pi,,3sg_m_o,3rd Person Singular Masculine,42124,,,,bian1252,dubert-and-dubert-1978
+pigi,,3sg_m_p,3rd Person Singular Masculine,42123,,,,bian1252,dubert-and-dubert-1978
+pi,,3sg_n_a,3rd Person Singular Neuter,42122,,,,bian1252,dubert-and-dubert-1978
+pi,,3sg_n_s,3rd Person Singular Neuter,42121,,,,bian1252,dubert-and-dubert-1978
+pi,,3sg_n_o,3rd Person Singular Neuter,42120,,,,bian1252,dubert-and-dubert-1978
+pigi,,3sg_n_p,3rd Person Singular Neuter,42119,,,,bian1252,dubert-and-dubert-1978
+piyau,,3d-a,3rd Person Dual,42118,,,,bian1252,dubert-and-dubert-1978
+piyau,,3d-s,3rd Person Dual,42117,,,,bian1252,dubert-and-dubert-1978
+piyau,,3d-o,3rd Person Dual,42116,,,,bian1252,dubert-and-dubert-1978
+piyaugi,,3d-p,3rd Person Dual,42115,,,,bian1252,dubert-and-dubert-1978
+puwili,,3p-a,3rd Person Plural,42114,,,,bian1252,dubert-and-dubert-1978
+puwili,,3p-s,3rd Person Plural,42113,,,,bian1252,dubert-and-dubert-1978
+puwili,,3p-o,3rd Person Plural,42112,,,,bian1252,dubert-and-dubert-1978
+puwiligi,,3p-p,3rd Person Plural,42111,,,,bian1252,dubert-and-dubert-1978

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mə;;1sg_a;1st (excl) Person Singular;57872;;;;viem1243;prost-1979
-mə;;1sg_s;1st (excl) Person Singular;57871;;;;viem1243;prost-1979
-na;;1sg_o;1st (excl) Person Singular;57870;;;;viem1243;prost-1979
-na;;1sg_p;1st (excl) Person Singular;57869;;;;viem1243;prost-1979
-sa, sə;;1du_a;1st (excl) Person Dual;57868;;;;viem1243;prost-1979
-sa, sə;;1du_s;1st (excl) Person Dual;57867;;;;viem1243;prost-1979
-sa;;1du_o;1st (excl) Person Dual;57866;;;;viem1243;prost-1979
-sa;;1du_p;1st (excl) Person Dual;57865;;;;viem1243;prost-1979
-sa, sə;;1pl_a;1st (excl) Person Plural;57864;;;;viem1243;prost-1979
-sa, sə;;1pl_s;1st (excl) Person Plural;57863;;;;viem1243;prost-1979
-sa;;1pl_o;1st (excl) Person Plural;57862;;;;viem1243;prost-1979
-sa;;1pl_p;1st (excl) Person Plural;57861;;;;viem1243;prost-1979
-sa, sə;;12du_a;1st (incl) Person Dual;57860;;;;viem1243;prost-1979
-sa, sə;;12du_s;1st (incl) Person Dual;57859;;;;viem1243;prost-1979
-sa;;12du_o;1st (incl) Person Dual;57858;;;;viem1243;prost-1979
-sa;;12du_p;1st (incl) Person Dual;57857;;;;viem1243;prost-1979
-sa, sə;;12pl_a;1st (incl) Person Plural;57856;;;;viem1243;prost-1979
-sa, sə;;12pl_s;1st (incl) Person Plural;57855;;;;viem1243;prost-1979
-sa;;12pl_o;1st (incl) Person Plural;57854;;;;viem1243;prost-1979
-sa;;12pl_p;1st (incl) Person Plural;57853;;;;viem1243;prost-1979
-a;;2sg_a;2nd Person Singular;57852;;;;viem1243;prost-1979
-a;;2sg_s;2nd Person Singular;57851;;;;viem1243;prost-1979
-wo;;2sg_o;2nd Person Singular;57850;;;;viem1243;prost-1979
-wo;;2sg_p;2nd Person Singular;57849;;;;viem1243;prost-1979
-ã;;2du_a;2nd Person Dual;57848;;;;viem1243;prost-1979
-ã;;2du_s;2nd Person Dual;57847;;;;viem1243;prost-1979
-ãvə;;2du_o;2nd Person Dual;57846;;;;viem1243;prost-1979
-ãvə;;2du_p;2nd Person Dual;57845;;;;viem1243;prost-1979
-ã;;2pl_a;2nd Person Plural;57844;;;;viem1243;prost-1979
-ã;;2pl_s;2nd Person Plural;57843;;;;viem1243;prost-1979
-ãvə;;2pl_o;2nd Person Plural;57842;;;;viem1243;prost-1979
-ãvə;;2pl_p;2nd Person Plural;57841;;;;viem1243;prost-1979
-yi;;3sg_m_a;3rd Person Singular Masculine;57840;;;;viem1243;prost-1979
-yi;;3sg_m_s;3rd Person Singular Masculine;57839;;;;viem1243;prost-1979
-wɔ;;3sg_m_o;3rd Person Singular Masculine;57838;;also transcribed /wo/;;viem1243;prost-1979
-yi;;3sg_m_p;3rd Person Singular Masculine;57837;;;;viem1243;prost-1979
-be, bə;;3sg_n_a;3rd Person Singular Neuter;57836;;;;viem1243;prost-1979
-be, bə;;3sg_n_s;3rd Person Singular Neuter;57835;;;;viem1243;prost-1979
-be, bə;;3sg_n_o;3rd Person Singular Neuter;57834;;;;viem1243;prost-1979
-be, bə;;3sg_n_p;3rd Person Singular Neuter;57833;;;;viem1243;prost-1979
-ve, və;;3d-a;3rd Person Dual;57832;;;;viem1243;prost-1979
-ve, və;;3d-s;3rd Person Dual;57831;;;;viem1243;prost-1979
-ve, və;;3d-o;3rd Person Dual;57830;;;;viem1243;prost-1979
-ve, və;;3d-p;3rd Person Dual;57829;;;;viem1243;prost-1979
-ve, və;;3p-a;3rd Person Plural;57828;;;;viem1243;prost-1979
-ve, və;;3p-s;3rd Person Plural;57827;;;;viem1243;prost-1979
-ve, və;;3p-o;3rd Person Plural;57826;;;;viem1243;prost-1979
-ve, və;;3p-p;3rd Person Plural;57825;;;;viem1243;prost-1979
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mə,,1sg_a,1st (excl) Person Singular,57872,,,,viem1243,prost-1979
+mə,,1sg_s,1st (excl) Person Singular,57871,,,,viem1243,prost-1979
+na,,1sg_o,1st (excl) Person Singular,57870,,,,viem1243,prost-1979
+na,,1sg_p,1st (excl) Person Singular,57869,,,,viem1243,prost-1979
+"sa, sə",,1du_a,1st (excl) Person Dual,57868,,,,viem1243,prost-1979
+"sa, sə",,1du_s,1st (excl) Person Dual,57867,,,,viem1243,prost-1979
+sa,,1du_o,1st (excl) Person Dual,57866,,,,viem1243,prost-1979
+sa,,1du_p,1st (excl) Person Dual,57865,,,,viem1243,prost-1979
+"sa, sə",,1pl_a,1st (excl) Person Plural,57864,,,,viem1243,prost-1979
+"sa, sə",,1pl_s,1st (excl) Person Plural,57863,,,,viem1243,prost-1979
+sa,,1pl_o,1st (excl) Person Plural,57862,,,,viem1243,prost-1979
+sa,,1pl_p,1st (excl) Person Plural,57861,,,,viem1243,prost-1979
+"sa, sə",,12du_a,1st (incl) Person Dual,57860,,,,viem1243,prost-1979
+"sa, sə",,12du_s,1st (incl) Person Dual,57859,,,,viem1243,prost-1979
+sa,,12du_o,1st (incl) Person Dual,57858,,,,viem1243,prost-1979
+sa,,12du_p,1st (incl) Person Dual,57857,,,,viem1243,prost-1979
+"sa, sə",,12pl_a,1st (incl) Person Plural,57856,,,,viem1243,prost-1979
+"sa, sə",,12pl_s,1st (incl) Person Plural,57855,,,,viem1243,prost-1979
+sa,,12pl_o,1st (incl) Person Plural,57854,,,,viem1243,prost-1979
+sa,,12pl_p,1st (incl) Person Plural,57853,,,,viem1243,prost-1979
+a,,2sg_a,2nd Person Singular,57852,,,,viem1243,prost-1979
+a,,2sg_s,2nd Person Singular,57851,,,,viem1243,prost-1979
+wo,,2sg_o,2nd Person Singular,57850,,,,viem1243,prost-1979
+wo,,2sg_p,2nd Person Singular,57849,,,,viem1243,prost-1979
+ã,,2du_a,2nd Person Dual,57848,,,,viem1243,prost-1979
+ã,,2du_s,2nd Person Dual,57847,,,,viem1243,prost-1979
+ãvə,,2du_o,2nd Person Dual,57846,,,,viem1243,prost-1979
+ãvə,,2du_p,2nd Person Dual,57845,,,,viem1243,prost-1979
+ã,,2pl_a,2nd Person Plural,57844,,,,viem1243,prost-1979
+ã,,2pl_s,2nd Person Plural,57843,,,,viem1243,prost-1979
+ãvə,,2pl_o,2nd Person Plural,57842,,,,viem1243,prost-1979
+ãvə,,2pl_p,2nd Person Plural,57841,,,,viem1243,prost-1979
+yi,,3sg_m_a,3rd Person Singular Masculine,57840,,,,viem1243,prost-1979
+yi,,3sg_m_s,3rd Person Singular Masculine,57839,,,,viem1243,prost-1979
+wɔ,,3sg_m_o,3rd Person Singular Masculine,57838,,also transcribed /wo/,,viem1243,prost-1979
+yi,,3sg_m_p,3rd Person Singular Masculine,57837,,,,viem1243,prost-1979
+"be, bə",,3sg_n_a,3rd Person Singular Neuter,57836,,,,viem1243,prost-1979
+"be, bə",,3sg_n_s,3rd Person Singular Neuter,57835,,,,viem1243,prost-1979
+"be, bə",,3sg_n_o,3rd Person Singular Neuter,57834,,,,viem1243,prost-1979
+"be, bə",,3sg_n_p,3rd Person Singular Neuter,57833,,,,viem1243,prost-1979
+"ve, və",,3d-a,3rd Person Dual,57832,,,,viem1243,prost-1979
+"ve, və",,3d-s,3rd Person Dual,57831,,,,viem1243,prost-1979
+"ve, və",,3d-o,3rd Person Dual,57830,,,,viem1243,prost-1979
+"ve, və",,3d-p,3rd Person Dual,57829,,,,viem1243,prost-1979
+"ve, və",,3p-a,3rd Person Plural,57828,,,,viem1243,prost-1979
+"ve, və",,3p-s,3rd Person Plural,57827,,,,viem1243,prost-1979
+"ve, və",,3p-o,3rd Person Plural,57826,,,,viem1243,prost-1979
+"ve, və",,3p-p,3rd Person Plural,57825,,,,viem1243,prost-1979

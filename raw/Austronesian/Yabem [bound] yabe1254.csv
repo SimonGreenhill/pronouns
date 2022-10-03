@@ -1,35 +1,35 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ka-;;1sg_a;1st (excl) Person Singular;48334;;;;yabe1254;lynch-et-al-2002
-ka-;;1sg_s;1st (excl) Person Singular;48333;;;;yabe1254;lynch-et-al-2002
-[ROUND]+-ʔ;;1sg_p;1st (excl) Person Singular;48332;;;;yabe1254;lynch-et-al-2002
-a-;;1du_a;1st (excl) Person Dual;48331;;;;yabe1254;lynch-et-al-2002
-a-;;1du_s;1st (excl) Person Dual;48330;;;;yabe1254;lynch-et-al-2002
-[FRONT]+-ŋ;;1du_p;1st (excl) Person Dual;48329;;;;yabe1254;lynch-et-al-2002
-a-;;1pl_a;1st (excl) Person Plural;48328;;;;yabe1254;lynch-et-al-2002
-a-;;1pl_s;1st (excl) Person Plural;48327;;;;yabe1254;lynch-et-al-2002
-[FRONT]+-ŋ;;1pl_p;1st (excl) Person Plural;48326;;;;yabe1254;lynch-et-al-2002
-ta-;;12du_a;1st (incl) Person Dual;48325;;;;yabe1254;lynch-et-al-2002
-ta-;;12du_s;1st (incl) Person Dual;48324;;;;yabe1254;lynch-et-al-2002
-ta-;;12pl_a;1st (incl) Person Plural;48323;;;;yabe1254;lynch-et-al-2002
-ta-;;12pl_s;1st (incl) Person Plural;48322;;;;yabe1254;lynch-et-al-2002
-ko-;;2sg_a;2nd Person Singular;48321;;;;yabe1254;lynch-et-al-2002
-ko-;;2sg_s;2nd Person Singular;48320;;;;yabe1254;lynch-et-al-2002
--m;;2sg_p;2nd Person Singular;48319;;;;yabe1254;lynch-et-al-2002
--a;;2du_a;2nd Person Dual;48318;;;;yabe1254;lynch-et-al-2002
--a;;2du_s;2nd Person Dual;48317;;;;yabe1254;lynch-et-al-2002
-[FRONT]+-m;;2du_p;2nd Person Dual;48316;;;;yabe1254;lynch-et-al-2002
--a;;2pl_a;2nd Person Plural;48315;;;;yabe1254;lynch-et-al-2002
--a;;2pl_s;2nd Person Plural;48314;;;;yabe1254;lynch-et-al-2002
-[FRONT]+-m;;2pl_p;2nd Person Plural;48313;;;;yabe1254;lynch-et-al-2002
-ke-;;3sg_m_a;3rd Person Singular Masculine;48312;;;;yabe1254;lynch-et-al-2002
-ke-;;3sg_m_s;3rd Person Singular Masculine;48311;;;;yabe1254;lynch-et-al-2002
--0;;3sg_m_p;3rd Person Singular Masculine;48310;;;;yabe1254;lynch-et-al-2002
-ke-;;3sg_n_a;3rd Person Singular Neuter;48309;;;;yabe1254;lynch-et-al-2002
-ke-;;3sg_n_s;3rd Person Singular Neuter;48308;;;;yabe1254;lynch-et-al-2002
--0;;3sg_n_p;3rd Person Singular Neuter;48307;;;;yabe1254;lynch-et-al-2002
-se-;;3d-a;3rd Person Dual;48306;;;;yabe1254;lynch-et-al-2002
-se-;;3d-s;3rd Person Dual;48305;;;;yabe1254;lynch-et-al-2002
-[FRONT]+-ŋ;;3d-p;3rd Person Dual;48304;;;;yabe1254;lynch-et-al-2002
-se-;;3p-a;3rd Person Plural;48303;;;;yabe1254;lynch-et-al-2002
-se-;;3p-s;3rd Person Plural;48302;;;;yabe1254;lynch-et-al-2002
-[FRONT]+-ŋ;;3p-p;3rd Person Plural;48301;;;;yabe1254;lynch-et-al-2002
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ka-,,1sg_a,1st (excl) Person Singular,48334,,,,yabe1254,lynch-et-al-2002
+ka-,,1sg_s,1st (excl) Person Singular,48333,,,,yabe1254,lynch-et-al-2002
+[ROUND]+-ʔ,,1sg_p,1st (excl) Person Singular,48332,,,,yabe1254,lynch-et-al-2002
+a-,,1du_a,1st (excl) Person Dual,48331,,,,yabe1254,lynch-et-al-2002
+a-,,1du_s,1st (excl) Person Dual,48330,,,,yabe1254,lynch-et-al-2002
+[FRONT]+-ŋ,,1du_p,1st (excl) Person Dual,48329,,,,yabe1254,lynch-et-al-2002
+a-,,1pl_a,1st (excl) Person Plural,48328,,,,yabe1254,lynch-et-al-2002
+a-,,1pl_s,1st (excl) Person Plural,48327,,,,yabe1254,lynch-et-al-2002
+[FRONT]+-ŋ,,1pl_p,1st (excl) Person Plural,48326,,,,yabe1254,lynch-et-al-2002
+ta-,,12du_a,1st (incl) Person Dual,48325,,,,yabe1254,lynch-et-al-2002
+ta-,,12du_s,1st (incl) Person Dual,48324,,,,yabe1254,lynch-et-al-2002
+ta-,,12pl_a,1st (incl) Person Plural,48323,,,,yabe1254,lynch-et-al-2002
+ta-,,12pl_s,1st (incl) Person Plural,48322,,,,yabe1254,lynch-et-al-2002
+ko-,,2sg_a,2nd Person Singular,48321,,,,yabe1254,lynch-et-al-2002
+ko-,,2sg_s,2nd Person Singular,48320,,,,yabe1254,lynch-et-al-2002
+-m,,2sg_p,2nd Person Singular,48319,,,,yabe1254,lynch-et-al-2002
+-a,,2du_a,2nd Person Dual,48318,,,,yabe1254,lynch-et-al-2002
+-a,,2du_s,2nd Person Dual,48317,,,,yabe1254,lynch-et-al-2002
+[FRONT]+-m,,2du_p,2nd Person Dual,48316,,,,yabe1254,lynch-et-al-2002
+-a,,2pl_a,2nd Person Plural,48315,,,,yabe1254,lynch-et-al-2002
+-a,,2pl_s,2nd Person Plural,48314,,,,yabe1254,lynch-et-al-2002
+[FRONT]+-m,,2pl_p,2nd Person Plural,48313,,,,yabe1254,lynch-et-al-2002
+ke-,,3sg_m_a,3rd Person Singular Masculine,48312,,,,yabe1254,lynch-et-al-2002
+ke-,,3sg_m_s,3rd Person Singular Masculine,48311,,,,yabe1254,lynch-et-al-2002
+-0,,3sg_m_p,3rd Person Singular Masculine,48310,,,,yabe1254,lynch-et-al-2002
+ke-,,3sg_n_a,3rd Person Singular Neuter,48309,,,,yabe1254,lynch-et-al-2002
+ke-,,3sg_n_s,3rd Person Singular Neuter,48308,,,,yabe1254,lynch-et-al-2002
+-0,,3sg_n_p,3rd Person Singular Neuter,48307,,,,yabe1254,lynch-et-al-2002
+se-,,3d-a,3rd Person Dual,48306,,,,yabe1254,lynch-et-al-2002
+se-,,3d-s,3rd Person Dual,48305,,,,yabe1254,lynch-et-al-2002
+[FRONT]+-ŋ,,3d-p,3rd Person Dual,48304,,,,yabe1254,lynch-et-al-2002
+se-,,3p-a,3rd Person Plural,48303,,,,yabe1254,lynch-et-al-2002
+se-,,3p-s,3rd Person Plural,48302,,,,yabe1254,lynch-et-al-2002
+[FRONT]+-ŋ,,3p-p,3rd Person Plural,48301,,,,yabe1254,lynch-et-al-2002

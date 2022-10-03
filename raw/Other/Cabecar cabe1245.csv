@@ -1,45 +1,45 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-d͡zís=tɪ;;1sg_a;1st (excl) Person Singular;51959;;;;cabe1245;margery-pena-1989
-d͡zís;;1sg_s;1st (excl) Person Singular;51958;;;;cabe1245;margery-pena-1989
-d͡zís ;;1sg_o;1st (excl) Person Singular;51957;;;;cabe1245;margery-pena-1989
-d͡zís ;;1sg_p;1st (excl) Person Singular;51956;;;;cabe1245;margery-pena-1989
-sá=tɪ;;1du_a;1st (excl) Person Dual;51955;;;;cabe1245;margery-pena-1989
-sá;;1du_s;1st (excl) Person Dual;51954;;;;cabe1245;margery-pena-1989
-sá;;1du_o;1st (excl) Person Dual;51953;;;;cabe1245;margery-pena-1989
-sá;;1du_p;1st (excl) Person Dual;51952;;;;cabe1245;margery-pena-1989
-sá=tɪ;;1pl_a;1st (excl) Person Plural;51951;;;;cabe1245;margery-pena-1989
-sá;;1pl_s;1st (excl) Person Plural;51950;;;;cabe1245;margery-pena-1989
-sá;;1pl_o;1st (excl) Person Plural;51949;;;;cabe1245;margery-pena-1989
-sá;;1pl_p;1st (excl) Person Plural;51948;;;;cabe1245;margery-pena-1989
-sé=tɪ;;12du_a;1st (incl) Person Dual;51947;;;;cabe1245;margery-pena-1989
-sé;;12du_s;1st (incl) Person Dual;51946;;;;cabe1245;margery-pena-1989
-sé;;12du_o;1st (incl) Person Dual;51945;;;;cabe1245;margery-pena-1989
-sé;;12du_p;1st (incl) Person Dual;51944;;;;cabe1245;margery-pena-1989
-sé=tɪ;;12pl_a;1st (incl) Person Plural;51943;;;;cabe1245;margery-pena-1989
-sé;;12pl_s;1st (incl) Person Plural;51942;;;;cabe1245;margery-pena-1989
-sé;;12pl_o;1st (incl) Person Plural;51941;;;;cabe1245;margery-pena-1989
-sé;;12pl_p;1st (incl) Person Plural;51940;;;;cabe1245;margery-pena-1989
-bá=tɪ;;2sg_a;2nd Person Singular;51939;;;;cabe1245;margery-pena-1989
-bá;;2sg_s;2nd Person Singular;51938;;;;cabe1245;margery-pena-1989
-bá;;2sg_o;2nd Person Singular;51937;;;;cabe1245;margery-pena-1989
-bá;;2sg_p;2nd Person Singular;51936;;;;cabe1245;margery-pena-1989
-báswá=tɪ;;2du_a;2nd Person Dual;51935;;;;cabe1245;margery-pena-1989
-báswá;;2du_s;2nd Person Dual;51934;;;;cabe1245;margery-pena-1989
-báswá;;2du_o;2nd Person Dual;51933;;;;cabe1245;margery-pena-1989
-báswá;;2du_p;2nd Person Dual;51932;;;;cabe1245;margery-pena-1989
-báswá=tɪ;;2pl_a;2nd Person Plural;51931;;;;cabe1245;margery-pena-1989
-báswá;;2pl_s;2nd Person Plural;51930;;;;cabe1245;margery-pena-1989
-báswá;;2pl_o;2nd Person Plural;51929;;;;cabe1245;margery-pena-1989
-báswá;;2pl_p;2nd Person Plural;51928;;;;cabe1245;margery-pena-1989
-hié=tɪ;;3sg_m_a;3rd Person Singular Masculine;51927;;;;cabe1245;margery-pena-1989
-hié;;3sg_m_s;3rd Person Singular Masculine;51926;;;;cabe1245;margery-pena-1989
-hié;;3sg_m_o;3rd Person Singular Masculine;51925;;;;cabe1245;margery-pena-1989
-hié, i=;;3sg_m_p;3rd Person Singular Masculine;51924;;;;cabe1245;margery-pena-1989
-hiéwá=tɪ;;3d-a;3rd Person Dual;51923;;;;cabe1245;margery-pena-1989
-hiéwá;;3d-s;3rd Person Dual;51922;;;;cabe1245;margery-pena-1989
-hiéwá;;3d-o;3rd Person Dual;51921;;;;cabe1245;margery-pena-1989
-hiéwá;;3d-p;3rd Person Dual;51920;;;;cabe1245;margery-pena-1989
-hiéwá=tɪ;;3p-a;3rd Person Plural;51919;;;;cabe1245;margery-pena-1989
-hiéwá;;3p-s;3rd Person Plural;51918;;;;cabe1245;margery-pena-1989
-hiéwá;;3p-o;3rd Person Plural;51917;;;;cabe1245;margery-pena-1989
-hiéwá;;3p-p;3rd Person Plural;51916;;;;cabe1245;margery-pena-1989
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+d͡zís=tɪ,,1sg_a,1st (excl) Person Singular,51959,,,,cabe1245,margery-pena-1989
+d͡zís,,1sg_s,1st (excl) Person Singular,51958,,,,cabe1245,margery-pena-1989
+d͡zís,,1sg_o,1st (excl) Person Singular,51957,,,,cabe1245,margery-pena-1989
+d͡zís,,1sg_p,1st (excl) Person Singular,51956,,,,cabe1245,margery-pena-1989
+sá=tɪ,,1du_a,1st (excl) Person Dual,51955,,,,cabe1245,margery-pena-1989
+sá,,1du_s,1st (excl) Person Dual,51954,,,,cabe1245,margery-pena-1989
+sá,,1du_o,1st (excl) Person Dual,51953,,,,cabe1245,margery-pena-1989
+sá,,1du_p,1st (excl) Person Dual,51952,,,,cabe1245,margery-pena-1989
+sá=tɪ,,1pl_a,1st (excl) Person Plural,51951,,,,cabe1245,margery-pena-1989
+sá,,1pl_s,1st (excl) Person Plural,51950,,,,cabe1245,margery-pena-1989
+sá,,1pl_o,1st (excl) Person Plural,51949,,,,cabe1245,margery-pena-1989
+sá,,1pl_p,1st (excl) Person Plural,51948,,,,cabe1245,margery-pena-1989
+sé=tɪ,,12du_a,1st (incl) Person Dual,51947,,,,cabe1245,margery-pena-1989
+sé,,12du_s,1st (incl) Person Dual,51946,,,,cabe1245,margery-pena-1989
+sé,,12du_o,1st (incl) Person Dual,51945,,,,cabe1245,margery-pena-1989
+sé,,12du_p,1st (incl) Person Dual,51944,,,,cabe1245,margery-pena-1989
+sé=tɪ,,12pl_a,1st (incl) Person Plural,51943,,,,cabe1245,margery-pena-1989
+sé,,12pl_s,1st (incl) Person Plural,51942,,,,cabe1245,margery-pena-1989
+sé,,12pl_o,1st (incl) Person Plural,51941,,,,cabe1245,margery-pena-1989
+sé,,12pl_p,1st (incl) Person Plural,51940,,,,cabe1245,margery-pena-1989
+bá=tɪ,,2sg_a,2nd Person Singular,51939,,,,cabe1245,margery-pena-1989
+bá,,2sg_s,2nd Person Singular,51938,,,,cabe1245,margery-pena-1989
+bá,,2sg_o,2nd Person Singular,51937,,,,cabe1245,margery-pena-1989
+bá,,2sg_p,2nd Person Singular,51936,,,,cabe1245,margery-pena-1989
+báswá=tɪ,,2du_a,2nd Person Dual,51935,,,,cabe1245,margery-pena-1989
+báswá,,2du_s,2nd Person Dual,51934,,,,cabe1245,margery-pena-1989
+báswá,,2du_o,2nd Person Dual,51933,,,,cabe1245,margery-pena-1989
+báswá,,2du_p,2nd Person Dual,51932,,,,cabe1245,margery-pena-1989
+báswá=tɪ,,2pl_a,2nd Person Plural,51931,,,,cabe1245,margery-pena-1989
+báswá,,2pl_s,2nd Person Plural,51930,,,,cabe1245,margery-pena-1989
+báswá,,2pl_o,2nd Person Plural,51929,,,,cabe1245,margery-pena-1989
+báswá,,2pl_p,2nd Person Plural,51928,,,,cabe1245,margery-pena-1989
+hié=tɪ,,3sg_m_a,3rd Person Singular Masculine,51927,,,,cabe1245,margery-pena-1989
+hié,,3sg_m_s,3rd Person Singular Masculine,51926,,,,cabe1245,margery-pena-1989
+hié,,3sg_m_o,3rd Person Singular Masculine,51925,,,,cabe1245,margery-pena-1989
+"hié, i=",,3sg_m_p,3rd Person Singular Masculine,51924,,,,cabe1245,margery-pena-1989
+hiéwá=tɪ,,3d-a,3rd Person Dual,51923,,,,cabe1245,margery-pena-1989
+hiéwá,,3d-s,3rd Person Dual,51922,,,,cabe1245,margery-pena-1989
+hiéwá,,3d-o,3rd Person Dual,51921,,,,cabe1245,margery-pena-1989
+hiéwá,,3d-p,3rd Person Dual,51920,,,,cabe1245,margery-pena-1989
+hiéwá=tɪ,,3p-a,3rd Person Plural,51919,,,,cabe1245,margery-pena-1989
+hiéwá,,3p-s,3rd Person Plural,51918,,,,cabe1245,margery-pena-1989
+hiéwá,,3p-o,3rd Person Plural,51917,,,,cabe1245,margery-pena-1989
+hiéwá,,3p-p,3rd Person Plural,51916,,,,cabe1245,margery-pena-1989

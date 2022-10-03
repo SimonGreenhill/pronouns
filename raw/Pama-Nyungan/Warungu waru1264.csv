@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋaja;;1sg_a;1st (excl) Person Singular;46454;;;;waru1264;tsunoda-2011
-ŋaja;;1sg_s;1st (excl) Person Singular;46453;;;;waru1264;tsunoda-2011
-ŋaɲa;;1sg_o;1st (excl) Person Singular;46452;;;;waru1264;tsunoda-2011
-ŋajgo;;1sg_p;1st (excl) Person Singular;46451;;;;waru1264;tsunoda-2011
-ŋali;;1du_a;1st (excl) Person Dual;46450;;;;waru1264;tsunoda-2011
-ŋali;;1du_s;1st (excl) Person Dual;46449;;;;waru1264;tsunoda-2011
-ŋaliɲa;;1du_o;1st (excl) Person Dual;46448;;;;waru1264;tsunoda-2011
-ŋaliŋo;;1du_p;1st (excl) Person Dual;46447;;;;waru1264;tsunoda-2011
-ŋana;;1pl_a;1st (excl) Person Plural;46446;;;;waru1264;tsunoda-2011
-ŋana;;1pl_s;1st (excl) Person Plural;46445;;;;waru1264;tsunoda-2011
-ŋanaɲa ;;1pl_o;1st (excl) Person Plural;46444;;;;waru1264;tsunoda-2011
-ŋanaŋo;;1pl_p;1st (excl) Person Plural;46443;;;;waru1264;tsunoda-2011
-ŋali;;12du_a;1st (incl) Person Dual;46442;;;;waru1264;tsunoda-2011
-ŋali;;12du_s;1st (incl) Person Dual;46441;;;;waru1264;tsunoda-2011
-ŋaliɲa;;12du_o;1st (incl) Person Dual;46440;;;;waru1264;tsunoda-2011
-ŋaliŋo;;12du_p;1st (incl) Person Dual;46439;;;;waru1264;tsunoda-2011
-ŋana;;12pl_a;1st (incl) Person Plural;46438;;;;waru1264;tsunoda-2011
-ŋana;;12pl_s;1st (incl) Person Plural;46437;;;;waru1264;tsunoda-2011
-ŋanaɲa ;;12pl_o;1st (incl) Person Plural;46436;;;;waru1264;tsunoda-2011
-ŋanaŋo;;12pl_p;1st (incl) Person Plural;46435;;;;waru1264;tsunoda-2011
-jinda;;2sg_a;2nd Person Singular;46434;;;;waru1264;tsunoda-2011
-jinda;;2sg_s;2nd Person Singular;46433;;;;waru1264;tsunoda-2011
-jina;;2sg_o;2nd Person Singular;46432;;;;waru1264;tsunoda-2011
-jino;;2sg_p;2nd Person Singular;46431;;;;waru1264;tsunoda-2011
-jobala;;2du_a;2nd Person Dual;46430;;;;waru1264;tsunoda-2011
-jobala;;2du_s;2nd Person Dual;46429;;;;waru1264;tsunoda-2011
-jobalaɲa ;;2du_o;2nd Person Dual;46428;;;;waru1264;tsunoda-2011
-jobalaŋo;;2du_p;2nd Person Dual;46427;;;;waru1264;tsunoda-2011
-joɾa;;2pl_a;2nd Person Plural;46426;;;;waru1264;tsunoda-2011
-joɾa;;2pl_s;2nd Person Plural;46425;;;;waru1264;tsunoda-2011
-joɾaɲa;;2pl_o;2nd Person Plural;46424;;;;waru1264;tsunoda-2011
-joɾaŋo ;;2pl_p;2nd Person Plural;46423;;;;waru1264;tsunoda-2011
-ɲola;;3sg_m_a;3rd Person Singular Masculine;46422;;;;waru1264;tsunoda-2011
-ɲola;;3sg_m_s;3rd Person Singular Masculine;46421;;;;waru1264;tsunoda-2011
-ɲoɲa;;3sg_m_o;3rd Person Singular Masculine;46420;;The form 'ɲoɲaɲa' is also listed (Tsunoda 2011:175).;;waru1264;tsunoda-2011
-ɲoŋo;;3sg_m_p;3rd Person Singular Masculine;46419;;;;waru1264;tsunoda-2011
-ɲola;;3sg_n_a;3rd Person Singular Neuter;46418;;;;waru1264;tsunoda-2011
-ɲola;;3sg_n_s;3rd Person Singular Neuter;46417;;;;waru1264;tsunoda-2011
-ɲoɲa;;3sg_n_o;3rd Person Singular Neuter;46416;;The form 'ɲoɲaɲa' is also listed (Tsunoda 2011:175).;;waru1264;tsunoda-2011
-ɲoŋo;;3sg_n_p;3rd Person Singular Neuter;46415;;;;waru1264;tsunoda-2011
-bola;;3d-a;3rd Person Dual;46414;;;;waru1264;tsunoda-2011
-bola;;3d-s;3rd Person Dual;46413;;;;waru1264;tsunoda-2011
-bolaɲa;;3d-o;3rd Person Dual;46412;;;;waru1264;tsunoda-2011
-bolaŋo;;3d-p;3rd Person Dual;46411;;;;waru1264;tsunoda-2011
-ɟana;;3p-a;3rd Person Plural;46410;;;;waru1264;tsunoda-2011
-ɟana;;3p-s;3rd Person Plural;46409;;;;waru1264;tsunoda-2011
-ɟanaɲa;;3p-o;3rd Person Plural;46408;;;;waru1264;tsunoda-2011
-ɟanaŋo;;3p-p;3rd Person Plural;46407;;;;waru1264;tsunoda-2011
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋaja,,1sg_a,1st (excl) Person Singular,46454,,,,waru1264,tsunoda-2011
+ŋaja,,1sg_s,1st (excl) Person Singular,46453,,,,waru1264,tsunoda-2011
+ŋaɲa,,1sg_o,1st (excl) Person Singular,46452,,,,waru1264,tsunoda-2011
+ŋajgo,,1sg_p,1st (excl) Person Singular,46451,,,,waru1264,tsunoda-2011
+ŋali,,1du_a,1st (excl) Person Dual,46450,,,,waru1264,tsunoda-2011
+ŋali,,1du_s,1st (excl) Person Dual,46449,,,,waru1264,tsunoda-2011
+ŋaliɲa,,1du_o,1st (excl) Person Dual,46448,,,,waru1264,tsunoda-2011
+ŋaliŋo,,1du_p,1st (excl) Person Dual,46447,,,,waru1264,tsunoda-2011
+ŋana,,1pl_a,1st (excl) Person Plural,46446,,,,waru1264,tsunoda-2011
+ŋana,,1pl_s,1st (excl) Person Plural,46445,,,,waru1264,tsunoda-2011
+ŋanaɲa,,1pl_o,1st (excl) Person Plural,46444,,,,waru1264,tsunoda-2011
+ŋanaŋo,,1pl_p,1st (excl) Person Plural,46443,,,,waru1264,tsunoda-2011
+ŋali,,12du_a,1st (incl) Person Dual,46442,,,,waru1264,tsunoda-2011
+ŋali,,12du_s,1st (incl) Person Dual,46441,,,,waru1264,tsunoda-2011
+ŋaliɲa,,12du_o,1st (incl) Person Dual,46440,,,,waru1264,tsunoda-2011
+ŋaliŋo,,12du_p,1st (incl) Person Dual,46439,,,,waru1264,tsunoda-2011
+ŋana,,12pl_a,1st (incl) Person Plural,46438,,,,waru1264,tsunoda-2011
+ŋana,,12pl_s,1st (incl) Person Plural,46437,,,,waru1264,tsunoda-2011
+ŋanaɲa,,12pl_o,1st (incl) Person Plural,46436,,,,waru1264,tsunoda-2011
+ŋanaŋo,,12pl_p,1st (incl) Person Plural,46435,,,,waru1264,tsunoda-2011
+jinda,,2sg_a,2nd Person Singular,46434,,,,waru1264,tsunoda-2011
+jinda,,2sg_s,2nd Person Singular,46433,,,,waru1264,tsunoda-2011
+jina,,2sg_o,2nd Person Singular,46432,,,,waru1264,tsunoda-2011
+jino,,2sg_p,2nd Person Singular,46431,,,,waru1264,tsunoda-2011
+jobala,,2du_a,2nd Person Dual,46430,,,,waru1264,tsunoda-2011
+jobala,,2du_s,2nd Person Dual,46429,,,,waru1264,tsunoda-2011
+jobalaɲa,,2du_o,2nd Person Dual,46428,,,,waru1264,tsunoda-2011
+jobalaŋo,,2du_p,2nd Person Dual,46427,,,,waru1264,tsunoda-2011
+joɾa,,2pl_a,2nd Person Plural,46426,,,,waru1264,tsunoda-2011
+joɾa,,2pl_s,2nd Person Plural,46425,,,,waru1264,tsunoda-2011
+joɾaɲa,,2pl_o,2nd Person Plural,46424,,,,waru1264,tsunoda-2011
+joɾaŋo,,2pl_p,2nd Person Plural,46423,,,,waru1264,tsunoda-2011
+ɲola,,3sg_m_a,3rd Person Singular Masculine,46422,,,,waru1264,tsunoda-2011
+ɲola,,3sg_m_s,3rd Person Singular Masculine,46421,,,,waru1264,tsunoda-2011
+ɲoɲa,,3sg_m_o,3rd Person Singular Masculine,46420,,The form 'ɲoɲaɲa' is also listed (Tsunoda 2011:175).,,waru1264,tsunoda-2011
+ɲoŋo,,3sg_m_p,3rd Person Singular Masculine,46419,,,,waru1264,tsunoda-2011
+ɲola,,3sg_n_a,3rd Person Singular Neuter,46418,,,,waru1264,tsunoda-2011
+ɲola,,3sg_n_s,3rd Person Singular Neuter,46417,,,,waru1264,tsunoda-2011
+ɲoɲa,,3sg_n_o,3rd Person Singular Neuter,46416,,The form 'ɲoɲaɲa' is also listed (Tsunoda 2011:175).,,waru1264,tsunoda-2011
+ɲoŋo,,3sg_n_p,3rd Person Singular Neuter,46415,,,,waru1264,tsunoda-2011
+bola,,3d-a,3rd Person Dual,46414,,,,waru1264,tsunoda-2011
+bola,,3d-s,3rd Person Dual,46413,,,,waru1264,tsunoda-2011
+bolaɲa,,3d-o,3rd Person Dual,46412,,,,waru1264,tsunoda-2011
+bolaŋo,,3d-p,3rd Person Dual,46411,,,,waru1264,tsunoda-2011
+ɟana,,3p-a,3rd Person Plural,46410,,,,waru1264,tsunoda-2011
+ɟana,,3p-s,3rd Person Plural,46409,,,,waru1264,tsunoda-2011
+ɟanaɲa,,3p-o,3rd Person Plural,46408,,,,waru1264,tsunoda-2011
+ɟanaŋo,,3p-p,3rd Person Plural,46407,,,,waru1264,tsunoda-2011

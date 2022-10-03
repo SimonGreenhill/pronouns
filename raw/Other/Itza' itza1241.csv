@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ten;;1sg_a;1st (excl) Person Singular;47022;;;;itza1241;hofling-2000
-ten;;1sg_s;1st (excl) Person Singular;47021;;;;itza1241;hofling-2000
-ten;;1sg_o;1st (excl) Person Singular;47020;;;;itza1241;hofling-2000
-intiʔaʔal;;1sg_p;1st (excl) Person Singular;47019;;;;itza1241;hofling-2000
-toʔon;;1du_a;1st (excl) Person Dual;47018;;;;itza1241;hofling-2000
-toʔon;;1du_s;1st (excl) Person Dual;47017;;;;itza1241;hofling-2000
-toʔon;;1du_o;1st (excl) Person Dual;47016;;;;itza1241;hofling-2000
-kitiʔaʔal;;1du_p;1st (excl) Person Dual;47015;;;;itza1241;hofling-2000
-toʔon;;1pl_a;1st (excl) Person Plural;47014;;;;itza1241;hofling-2000
-toʔon;;1pl_s;1st (excl) Person Plural;47013;;;;itza1241;hofling-2000
-toʔon;;1pl_o;1st (excl) Person Plural;47012;;;;itza1241;hofling-2000
-kitiʔaʔal;;1pl_p;1st (excl) Person Plural;47011;;;;itza1241;hofling-2000
-toʔoneʔeç;;12du_a;1st (incl) Person Dual;47010;;;;itza1241;hofling-2000
-toʔoneʔeç;;12du_s;1st (incl) Person Dual;47009;;;;itza1241;hofling-2000
-toʔoneʔeç;;12du_o;1st (incl) Person Dual;47008;;;;itza1241;hofling-2000
-kitiʔaʔaleʔeç;;12du_p;1st (incl) Person Dual;47007;;;;itza1241;hofling-2000
-toʔoneʔeç;;12pl_a;1st (incl) Person Plural;47006;;;;itza1241;hofling-2000
-toʔoneʔeç;;12pl_s;1st (incl) Person Plural;47005;;;;itza1241;hofling-2000
-toʔoneʔeç;;12pl_o;1st (incl) Person Plural;47004;;;;itza1241;hofling-2000
-kitiʔaʔaleʔeç;;12pl_p;1st (incl) Person Plural;47003;;;;itza1241;hofling-2000
-tet͡ʃ;;2sg_a;2nd Person Singular;47002;;;;itza1241;hofling-2000
-tet͡ʃ;;2sg_s;2nd Person Singular;47001;;;;itza1241;hofling-2000
-tet͡ʃ;;2sg_o;2nd Person Singular;47000;;;;itza1241;hofling-2000
-atiʔaʔal;;2sg_p;2nd Person Singular;46999;;;;itza1241;hofling-2000
-teʔeç;;2du_a;2nd Person Dual;46998;;;;itza1241;hofling-2000
-teʔeç;;2du_s;2nd Person Dual;46997;;;;itza1241;hofling-2000
-teʔeç;;2du_o;2nd Person Dual;46996;;;;itza1241;hofling-2000
-atiʔaʔaleʔeç;;2du_p;2nd Person Dual;46995;;;;itza1241;hofling-2000
-teʔeç;;2pl_a;2nd Person Plural;46994;;;;itza1241;hofling-2000
-teʔeç;;2pl_s;2nd Person Plural;46993;;;;itza1241;hofling-2000
-teʔeç;;2pl_o;2nd Person Plural;46992;;;;itza1241;hofling-2000
-atiʔaʔaleʔeç;;2pl_p;2nd Person Plural;46991;;;;itza1241;hofling-2000
-laʔajtiʔ;;3sg_m_a;3rd Person Singular Masculine;46990;;;;itza1241;hofling-2000
-laʔajtiʔ;;3sg_m_s;3rd Person Singular Masculine;46989;;;;itza1241;hofling-2000
-laʔajtiʔ;;3sg_m_o;3rd Person Singular Masculine;46988;;;;itza1241;hofling-2000
-utiʔaʔal;;3sg_m_p;3rd Person Singular Masculine;46987;;;;itza1241;hofling-2000
-laʔajtiʔ;;3sg_n_a;3rd Person Singular Neuter;46986;;;;itza1241;hofling-2000
-laʔajtiʔ;;3sg_n_s;3rd Person Singular Neuter;46985;;;;itza1241;hofling-2000
-laʔajtiʔ;;3sg_n_o;3rd Person Singular Neuter;46984;;;;itza1241;hofling-2000
-utiʔaʔal;;3sg_n_p;3rd Person Singular Neuter;46983;;;;itza1241;hofling-2000
-laʔajtiʔooʔ;;3d-a;3rd Person Dual;46982;;;;itza1241;hofling-2000
-laʔajtiʔooʔ;;3d-s;3rd Person Dual;46981;;;;itza1241;hofling-2000
-laʔajtiʔooʔ;;3d-o;3rd Person Dual;46980;;;;itza1241;hofling-2000
-utiʔaʔalooʔ;;3d-p;3rd Person Dual;46979;;;;itza1241;hofling-2000
-laʔajtiʔooʔ;;3p-a;3rd Person Plural;46978;;;;itza1241;hofling-2000
-laʔajtiʔooʔ;;3p-s;3rd Person Plural;46977;;;;itza1241;hofling-2000
-laʔajtiʔooʔ;;3p-o;3rd Person Plural;46976;;;;itza1241;hofling-2000
-utiʔaʔalooʔ;;3p-p;3rd Person Plural;46975;;;;itza1241;hofling-2000
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ten,,1sg_a,1st (excl) Person Singular,47022,,,,itza1241,hofling-2000
+ten,,1sg_s,1st (excl) Person Singular,47021,,,,itza1241,hofling-2000
+ten,,1sg_o,1st (excl) Person Singular,47020,,,,itza1241,hofling-2000
+intiʔaʔal,,1sg_p,1st (excl) Person Singular,47019,,,,itza1241,hofling-2000
+toʔon,,1du_a,1st (excl) Person Dual,47018,,,,itza1241,hofling-2000
+toʔon,,1du_s,1st (excl) Person Dual,47017,,,,itza1241,hofling-2000
+toʔon,,1du_o,1st (excl) Person Dual,47016,,,,itza1241,hofling-2000
+kitiʔaʔal,,1du_p,1st (excl) Person Dual,47015,,,,itza1241,hofling-2000
+toʔon,,1pl_a,1st (excl) Person Plural,47014,,,,itza1241,hofling-2000
+toʔon,,1pl_s,1st (excl) Person Plural,47013,,,,itza1241,hofling-2000
+toʔon,,1pl_o,1st (excl) Person Plural,47012,,,,itza1241,hofling-2000
+kitiʔaʔal,,1pl_p,1st (excl) Person Plural,47011,,,,itza1241,hofling-2000
+toʔoneʔeç,,12du_a,1st (incl) Person Dual,47010,,,,itza1241,hofling-2000
+toʔoneʔeç,,12du_s,1st (incl) Person Dual,47009,,,,itza1241,hofling-2000
+toʔoneʔeç,,12du_o,1st (incl) Person Dual,47008,,,,itza1241,hofling-2000
+kitiʔaʔaleʔeç,,12du_p,1st (incl) Person Dual,47007,,,,itza1241,hofling-2000
+toʔoneʔeç,,12pl_a,1st (incl) Person Plural,47006,,,,itza1241,hofling-2000
+toʔoneʔeç,,12pl_s,1st (incl) Person Plural,47005,,,,itza1241,hofling-2000
+toʔoneʔeç,,12pl_o,1st (incl) Person Plural,47004,,,,itza1241,hofling-2000
+kitiʔaʔaleʔeç,,12pl_p,1st (incl) Person Plural,47003,,,,itza1241,hofling-2000
+tet͡ʃ,,2sg_a,2nd Person Singular,47002,,,,itza1241,hofling-2000
+tet͡ʃ,,2sg_s,2nd Person Singular,47001,,,,itza1241,hofling-2000
+tet͡ʃ,,2sg_o,2nd Person Singular,47000,,,,itza1241,hofling-2000
+atiʔaʔal,,2sg_p,2nd Person Singular,46999,,,,itza1241,hofling-2000
+teʔeç,,2du_a,2nd Person Dual,46998,,,,itza1241,hofling-2000
+teʔeç,,2du_s,2nd Person Dual,46997,,,,itza1241,hofling-2000
+teʔeç,,2du_o,2nd Person Dual,46996,,,,itza1241,hofling-2000
+atiʔaʔaleʔeç,,2du_p,2nd Person Dual,46995,,,,itza1241,hofling-2000
+teʔeç,,2pl_a,2nd Person Plural,46994,,,,itza1241,hofling-2000
+teʔeç,,2pl_s,2nd Person Plural,46993,,,,itza1241,hofling-2000
+teʔeç,,2pl_o,2nd Person Plural,46992,,,,itza1241,hofling-2000
+atiʔaʔaleʔeç,,2pl_p,2nd Person Plural,46991,,,,itza1241,hofling-2000
+laʔajtiʔ,,3sg_m_a,3rd Person Singular Masculine,46990,,,,itza1241,hofling-2000
+laʔajtiʔ,,3sg_m_s,3rd Person Singular Masculine,46989,,,,itza1241,hofling-2000
+laʔajtiʔ,,3sg_m_o,3rd Person Singular Masculine,46988,,,,itza1241,hofling-2000
+utiʔaʔal,,3sg_m_p,3rd Person Singular Masculine,46987,,,,itza1241,hofling-2000
+laʔajtiʔ,,3sg_n_a,3rd Person Singular Neuter,46986,,,,itza1241,hofling-2000
+laʔajtiʔ,,3sg_n_s,3rd Person Singular Neuter,46985,,,,itza1241,hofling-2000
+laʔajtiʔ,,3sg_n_o,3rd Person Singular Neuter,46984,,,,itza1241,hofling-2000
+utiʔaʔal,,3sg_n_p,3rd Person Singular Neuter,46983,,,,itza1241,hofling-2000
+laʔajtiʔooʔ,,3d-a,3rd Person Dual,46982,,,,itza1241,hofling-2000
+laʔajtiʔooʔ,,3d-s,3rd Person Dual,46981,,,,itza1241,hofling-2000
+laʔajtiʔooʔ,,3d-o,3rd Person Dual,46980,,,,itza1241,hofling-2000
+utiʔaʔalooʔ,,3d-p,3rd Person Dual,46979,,,,itza1241,hofling-2000
+laʔajtiʔooʔ,,3p-a,3rd Person Plural,46978,,,,itza1241,hofling-2000
+laʔajtiʔooʔ,,3p-s,3rd Person Plural,46977,,,,itza1241,hofling-2000
+laʔajtiʔooʔ,,3p-o,3rd Person Plural,46976,,,,itza1241,hofling-2000
+utiʔaʔalooʔ,,3p-p,3rd Person Plural,46975,,,,itza1241,hofling-2000

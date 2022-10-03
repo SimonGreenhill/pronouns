@@ -1,37 +1,37 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ni;;1sg_a;1st (excl) Person Singular;41046;;;;siwa1245;onishi-2004
-ni;;1sg_s;1st (excl) Person Singular;41045;;;;siwa1245;onishi-2004
-ni;;1sg_o;1st (excl) Person Singular;41044;;;;siwa1245;onishi-2004
-ŋo-;;1sg_p;1st (excl) Person Singular;41043;;;;siwa1245;onishi-2004
-noni;;1du_a;1st (excl) Person Dual;41042;;;;siwa1245;onishi-2004
-noni;;1du_s;1st (excl) Person Dual;41041;;;;siwa1245;onishi-2004
-noni;;1du_o;1st (excl) Person Dual;41040;;;;siwa1245;onishi-2004
-noni-;;1du_p;1st (excl) Person Dual;41039;;;;siwa1245;onishi-2004
-noni;;1pl_a;1st (excl) Person Plural;41038;;;;siwa1245;onishi-2004
-noni;;1pl_s;1st (excl) Person Plural;41037;;;;siwa1245;onishi-2004
-noni;;1pl_o;1st (excl) Person Plural;41036;;;;siwa1245;onishi-2004
-noni-;;1pl_p;1st (excl) Person Plural;41035;;;;siwa1245;onishi-2004
-nee;;12du_a;1st (incl) Person Dual;41034;;;;siwa1245;onishi-2004
-nee;;12du_s;1st (incl) Person Dual;41033;;;;siwa1245;onishi-2004
-nee;;12du_o;1st (incl) Person Dual;41032;;;;siwa1245;onishi-2004
-nee-;;12du_p;1st (incl) Person Dual;41031;;;;siwa1245;onishi-2004
-nee;;12pl_a;1st (incl) Person Plural;41030;;;;siwa1245;onishi-2004
-nee;;12pl_s;1st (incl) Person Plural;41029;;;;siwa1245;onishi-2004
-nee;;12pl_o;1st (incl) Person Plural;41028;;;;siwa1245;onishi-2004
-nee-;;12pl_p;1st (incl) Person Plural;41027;;;;siwa1245;onishi-2004
-ro;;2sg_a;2nd Person Singular;41026;;;;siwa1245;onishi-2004
-ro;;2sg_s;2nd Person Singular;41025;;;;siwa1245;onishi-2004
-ro;;2sg_o;2nd Person Singular;41024;;;;siwa1245;onishi-2004
-ro-;;2sg_p;2nd Person Singular;41023;;;;siwa1245;onishi-2004
-ree;;2du_a;2nd Person Dual;41022;;;;siwa1245;onishi-2004
-ree;;2du_s;2nd Person Dual;41021;;;;siwa1245;onishi-2004
-ree;;2du_o;2nd Person Dual;41020;;;;siwa1245;onishi-2004
-ree-;;2du_p;2nd Person Dual;41019;;;;siwa1245;onishi-2004
-ree;;2pl_a;2nd Person Plural;41018;;;;siwa1245;onishi-2004
-ree;;2pl_s;2nd Person Plural;41017;;;;siwa1245;onishi-2004
-ree;;2pl_o;2nd Person Plural;41016;;;;siwa1245;onishi-2004
-ree-;;2pl_p;2nd Person Plural;41015;;;;siwa1245;onishi-2004
-po-;;3sg_m_p;3rd Person Singular Masculine;41014;;;;siwa1245;onishi-2004
-po-;;3sg_n_p;3rd Person Singular Neuter;41013;;;;siwa1245;onishi-2004
-pee-;;3d-p;3rd Person Dual;41012;;;;siwa1245;onishi-2004
-pee-;;3p-p;3rd Person Plural;41011;;;;siwa1245;onishi-2004
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ni,,1sg_a,1st (excl) Person Singular,41046,,,,siwa1245,onishi-2004
+ni,,1sg_s,1st (excl) Person Singular,41045,,,,siwa1245,onishi-2004
+ni,,1sg_o,1st (excl) Person Singular,41044,,,,siwa1245,onishi-2004
+ŋo-,,1sg_p,1st (excl) Person Singular,41043,,,,siwa1245,onishi-2004
+noni,,1du_a,1st (excl) Person Dual,41042,,,,siwa1245,onishi-2004
+noni,,1du_s,1st (excl) Person Dual,41041,,,,siwa1245,onishi-2004
+noni,,1du_o,1st (excl) Person Dual,41040,,,,siwa1245,onishi-2004
+noni-,,1du_p,1st (excl) Person Dual,41039,,,,siwa1245,onishi-2004
+noni,,1pl_a,1st (excl) Person Plural,41038,,,,siwa1245,onishi-2004
+noni,,1pl_s,1st (excl) Person Plural,41037,,,,siwa1245,onishi-2004
+noni,,1pl_o,1st (excl) Person Plural,41036,,,,siwa1245,onishi-2004
+noni-,,1pl_p,1st (excl) Person Plural,41035,,,,siwa1245,onishi-2004
+nee,,12du_a,1st (incl) Person Dual,41034,,,,siwa1245,onishi-2004
+nee,,12du_s,1st (incl) Person Dual,41033,,,,siwa1245,onishi-2004
+nee,,12du_o,1st (incl) Person Dual,41032,,,,siwa1245,onishi-2004
+nee-,,12du_p,1st (incl) Person Dual,41031,,,,siwa1245,onishi-2004
+nee,,12pl_a,1st (incl) Person Plural,41030,,,,siwa1245,onishi-2004
+nee,,12pl_s,1st (incl) Person Plural,41029,,,,siwa1245,onishi-2004
+nee,,12pl_o,1st (incl) Person Plural,41028,,,,siwa1245,onishi-2004
+nee-,,12pl_p,1st (incl) Person Plural,41027,,,,siwa1245,onishi-2004
+ro,,2sg_a,2nd Person Singular,41026,,,,siwa1245,onishi-2004
+ro,,2sg_s,2nd Person Singular,41025,,,,siwa1245,onishi-2004
+ro,,2sg_o,2nd Person Singular,41024,,,,siwa1245,onishi-2004
+ro-,,2sg_p,2nd Person Singular,41023,,,,siwa1245,onishi-2004
+ree,,2du_a,2nd Person Dual,41022,,,,siwa1245,onishi-2004
+ree,,2du_s,2nd Person Dual,41021,,,,siwa1245,onishi-2004
+ree,,2du_o,2nd Person Dual,41020,,,,siwa1245,onishi-2004
+ree-,,2du_p,2nd Person Dual,41019,,,,siwa1245,onishi-2004
+ree,,2pl_a,2nd Person Plural,41018,,,,siwa1245,onishi-2004
+ree,,2pl_s,2nd Person Plural,41017,,,,siwa1245,onishi-2004
+ree,,2pl_o,2nd Person Plural,41016,,,,siwa1245,onishi-2004
+ree-,,2pl_p,2nd Person Plural,41015,,,,siwa1245,onishi-2004
+po-,,3sg_m_p,3rd Person Singular Masculine,41014,,,,siwa1245,onishi-2004
+po-,,3sg_n_p,3rd Person Singular Neuter,41013,,,,siwa1245,onishi-2004
+pee-,,3d-p,3rd Person Dual,41012,,,,siwa1245,onishi-2004
+pee-,,3p-p,3rd Person Plural,41011,,,,siwa1245,onishi-2004

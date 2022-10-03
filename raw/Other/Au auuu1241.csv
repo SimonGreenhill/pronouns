@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-hi;;1sg_a;1st (excl) Person Singular;40818;;;;auuu1241;scorza-1985
-hi;;1sg_s;1st (excl) Person Singular;40817;;;;auuu1241;scorza-1985
-hi;;1sg_o;1st (excl) Person Singular;40816;;;;auuu1241;scorza-1985
--ai;;1sg_p;1st (excl) Person Singular;40815;;;;auuu1241;scorza-1985
-hawɨr;;1du_a;1st (excl) Person Dual;40814;;;;auuu1241;scorza-1985
-hawɨr;;1du_s;1st (excl) Person Dual;40813;;;;auuu1241;scorza-1985
-hawɨr;;1du_o;1st (excl) Person Dual;40812;;;;auuu1241;scorza-1985
--awɨr;;1du_p;1st (excl) Person Dual;40811;;;;auuu1241;scorza-1985
-haiu;;1pl_a;1st (excl) Person Plural;40810;;;;auuu1241;scorza-1985
-haiu;;1pl_s;1st (excl) Person Plural;40809;;;;auuu1241;scorza-1985
-haiu;;1pl_o;1st (excl) Person Plural;40808;;;;auuu1241;scorza-1985
--aiu;;1pl_p;1st (excl) Person Plural;40807;;;;auuu1241;scorza-1985
-hawɨr;;12du_a;1st (incl) Person Dual;40806;;;;auuu1241;scorza-1985
-hawɨr;;12du_s;1st (incl) Person Dual;40805;;;;auuu1241;scorza-1985
-hawɨr;;12du_o;1st (incl) Person Dual;40804;;;;auuu1241;scorza-1985
--awɨr;;12du_p;1st (incl) Person Dual;40803;;;;auuu1241;scorza-1985
-haiu;;12pl_a;1st (incl) Person Plural;40802;;;;auuu1241;scorza-1985
-haiu;;12pl_s;1st (incl) Person Plural;40801;;;;auuu1241;scorza-1985
-haiu;;12pl_o;1st (incl) Person Plural;40800;;;;auuu1241;scorza-1985
--aiu;;12pl_p;1st (incl) Person Plural;40799;;;;auuu1241;scorza-1985
-ti;;2sg_a;2nd Person Singular;40798;;;;auuu1241;scorza-1985
-ti;;2sg_s;2nd Person Singular;40797;;;;auuu1241;scorza-1985
-ti;;2sg_o;2nd Person Singular;40796;;;;auuu1241;scorza-1985
--it;;2sg_p;2nd Person Singular;40795;;;;auuu1241;scorza-1985
-yi;;2du_a;2nd Person Dual;40794;;;;auuu1241;scorza-1985
-yi;;2du_s;2nd Person Dual;40793;;;;auuu1241;scorza-1985
-yi;;2du_o;2nd Person Dual;40792;;;;auuu1241;scorza-1985
--i;;2du_p;2nd Person Dual;40791;;;;auuu1241;scorza-1985
-yi;;2pl_a;2nd Person Plural;40790;;;;auuu1241;scorza-1985
-yi;;2pl_s;2nd Person Plural;40789;;;;auuu1241;scorza-1985
-yi;;2pl_o;2nd Person Plural;40788;;;;auuu1241;scorza-1985
--i;;2pl_p;2nd Person Plural;40787;;;;auuu1241;scorza-1985
-hɨrak;;3sg_m_a;3rd Person Singular Masculine;40786;;;;auuu1241;scorza-1985
-hɨrak;;3sg_m_s;3rd Person Singular Masculine;40785;;;;auuu1241;scorza-1985
-hɨrak;;3sg_m_o;3rd Person Singular Masculine;40784;;;;auuu1241;scorza-1985
--ɨrak;;3sg_m_p;3rd Person Singular Masculine;40783;;;;auuu1241;scorza-1985
-hɨre;;3sg_f_a;3rd Person Singular Feminine;40782;;;;auuu1241;scorza-1985
-hɨre;;3sg_f_s;3rd Person Singular Feminine;40781;;;;auuu1241;scorza-1985
-hɨre;;3sg_f_o;3rd Person Singular Feminine;40780;;;;auuu1241;scorza-1985
--ɨre;;3sg_n_p;3rd Person Singular Neuter;40779;;;;auuu1241;scorza-1985
-hɨrakɨt;;3d-a;3rd Person Dual;40778;;;;auuu1241;scorza-1985
-hɨrakɨt;;3d-s;3rd Person Dual;40777;;;;auuu1241;scorza-1985
-hɨrakɨt;;3d-o;3rd Person Dual;40776;;;;auuu1241;scorza-1985
--ɨrakɨt;;3d-p;3rd Person Dual;40775;;;;auuu1241;scorza-1985
-hɨr;;3p-a;3rd Person Plural;40774;;;;auuu1241;scorza-1985
-hɨr;;3p-s;3rd Person Plural;40773;;;;auuu1241;scorza-1985
-hɨr;;3p-o;3rd Person Plural;40772;;;;auuu1241;scorza-1985
--ɨr;;3p-p;3rd Person Plural;40771;;;;auuu1241;scorza-1985
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+hi,,1sg_a,1st (excl) Person Singular,40818,,,,auuu1241,scorza-1985
+hi,,1sg_s,1st (excl) Person Singular,40817,,,,auuu1241,scorza-1985
+hi,,1sg_o,1st (excl) Person Singular,40816,,,,auuu1241,scorza-1985
+-ai,,1sg_p,1st (excl) Person Singular,40815,,,,auuu1241,scorza-1985
+hawɨr,,1du_a,1st (excl) Person Dual,40814,,,,auuu1241,scorza-1985
+hawɨr,,1du_s,1st (excl) Person Dual,40813,,,,auuu1241,scorza-1985
+hawɨr,,1du_o,1st (excl) Person Dual,40812,,,,auuu1241,scorza-1985
+-awɨr,,1du_p,1st (excl) Person Dual,40811,,,,auuu1241,scorza-1985
+haiu,,1pl_a,1st (excl) Person Plural,40810,,,,auuu1241,scorza-1985
+haiu,,1pl_s,1st (excl) Person Plural,40809,,,,auuu1241,scorza-1985
+haiu,,1pl_o,1st (excl) Person Plural,40808,,,,auuu1241,scorza-1985
+-aiu,,1pl_p,1st (excl) Person Plural,40807,,,,auuu1241,scorza-1985
+hawɨr,,12du_a,1st (incl) Person Dual,40806,,,,auuu1241,scorza-1985
+hawɨr,,12du_s,1st (incl) Person Dual,40805,,,,auuu1241,scorza-1985
+hawɨr,,12du_o,1st (incl) Person Dual,40804,,,,auuu1241,scorza-1985
+-awɨr,,12du_p,1st (incl) Person Dual,40803,,,,auuu1241,scorza-1985
+haiu,,12pl_a,1st (incl) Person Plural,40802,,,,auuu1241,scorza-1985
+haiu,,12pl_s,1st (incl) Person Plural,40801,,,,auuu1241,scorza-1985
+haiu,,12pl_o,1st (incl) Person Plural,40800,,,,auuu1241,scorza-1985
+-aiu,,12pl_p,1st (incl) Person Plural,40799,,,,auuu1241,scorza-1985
+ti,,2sg_a,2nd Person Singular,40798,,,,auuu1241,scorza-1985
+ti,,2sg_s,2nd Person Singular,40797,,,,auuu1241,scorza-1985
+ti,,2sg_o,2nd Person Singular,40796,,,,auuu1241,scorza-1985
+-it,,2sg_p,2nd Person Singular,40795,,,,auuu1241,scorza-1985
+yi,,2du_a,2nd Person Dual,40794,,,,auuu1241,scorza-1985
+yi,,2du_s,2nd Person Dual,40793,,,,auuu1241,scorza-1985
+yi,,2du_o,2nd Person Dual,40792,,,,auuu1241,scorza-1985
+-i,,2du_p,2nd Person Dual,40791,,,,auuu1241,scorza-1985
+yi,,2pl_a,2nd Person Plural,40790,,,,auuu1241,scorza-1985
+yi,,2pl_s,2nd Person Plural,40789,,,,auuu1241,scorza-1985
+yi,,2pl_o,2nd Person Plural,40788,,,,auuu1241,scorza-1985
+-i,,2pl_p,2nd Person Plural,40787,,,,auuu1241,scorza-1985
+hɨrak,,3sg_m_a,3rd Person Singular Masculine,40786,,,,auuu1241,scorza-1985
+hɨrak,,3sg_m_s,3rd Person Singular Masculine,40785,,,,auuu1241,scorza-1985
+hɨrak,,3sg_m_o,3rd Person Singular Masculine,40784,,,,auuu1241,scorza-1985
+-ɨrak,,3sg_m_p,3rd Person Singular Masculine,40783,,,,auuu1241,scorza-1985
+hɨre,,3sg_f_a,3rd Person Singular Feminine,40782,,,,auuu1241,scorza-1985
+hɨre,,3sg_f_s,3rd Person Singular Feminine,40781,,,,auuu1241,scorza-1985
+hɨre,,3sg_f_o,3rd Person Singular Feminine,40780,,,,auuu1241,scorza-1985
+-ɨre,,3sg_n_p,3rd Person Singular Neuter,40779,,,,auuu1241,scorza-1985
+hɨrakɨt,,3d-a,3rd Person Dual,40778,,,,auuu1241,scorza-1985
+hɨrakɨt,,3d-s,3rd Person Dual,40777,,,,auuu1241,scorza-1985
+hɨrakɨt,,3d-o,3rd Person Dual,40776,,,,auuu1241,scorza-1985
+-ɨrakɨt,,3d-p,3rd Person Dual,40775,,,,auuu1241,scorza-1985
+hɨr,,3p-a,3rd Person Plural,40774,,,,auuu1241,scorza-1985
+hɨr,,3p-s,3rd Person Plural,40773,,,,auuu1241,scorza-1985
+hɨr,,3p-o,3rd Person Plural,40772,,,,auuu1241,scorza-1985
+-ɨr,,3p-p,3rd Person Plural,40771,,,,auuu1241,scorza-1985

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ngaya;;1sg_a;1st (excl) Person Singular;61144;;;;gami1243;giacon-2014
-ngaya;;1sg_s;1st (excl) Person Singular;61143;;;;gami1243;giacon-2014
-nganha;;1sg_o;1st (excl) Person Singular;61142;;;;gami1243;giacon-2014
-ngay;;1sg_p;1st (excl) Person Singular;61141;;;;gami1243;giacon-2014
-ngali;;1du_a;1st (excl) Person Dual;61140;;;;gami1243;giacon-2014
-ngali;;1du_s;1st (excl) Person Dual;61139;;;;gami1243;giacon-2014
-ngalinya;;1du_o;1st (excl) Person Dual;61138;;;;gami1243;giacon-2014
-ngalingu;;1du_p;1st (excl) Person Dual;61137;;;;gami1243;giacon-2014
-ngiyani;;1pl_a;1st (excl) Person Plural;61136;;;;gami1243;giacon-2014
-ngiyani;;1pl_s;1st (excl) Person Plural;61135;;;;gami1243;giacon-2014
-ngiyaninya;;1pl_o;1st (excl) Person Plural;61134;;;;gami1243;giacon-2014
-ngiyaningu;;1pl_p;1st (excl) Person Plural;61133;;;;gami1243;giacon-2014
-ngali;;12du_a;1st (incl) Person Dual;61132;;;;gami1243;giacon-2014
-ngali;;12du_s;1st (incl) Person Dual;61131;;;;gami1243;giacon-2014
-ngalinya;;12du_o;1st (incl) Person Dual;61130;;;;gami1243;giacon-2014
-ngalingu;;12du_p;1st (incl) Person Dual;61129;;;;gami1243;giacon-2014
-ngiyani;;12pl_a;1st (incl) Person Plural;61128;;;;gami1243;giacon-2014
-ngiyani;;12pl_s;1st (incl) Person Plural;61127;;;;gami1243;giacon-2014
-ngiyaninya;;12pl_o;1st (incl) Person Plural;61126;;;;gami1243;giacon-2014
-ngiyaningu;;12pl_p;1st (incl) Person Plural;61125;;;;gami1243;giacon-2014
-nginda;;2sg_a;2nd Person Singular;61124;;;;gami1243;giacon-2014
-nginda;;2sg_s;2nd Person Singular;61123;;;;gami1243;giacon-2014
-nginunha;;2sg_o;2nd Person Singular;61122;;;;gami1243;giacon-2014
-nginu;;2sg_p;2nd Person Singular;61121;;;;gami1243;giacon-2014
-ngindaali;;2du_a;2nd Person Dual;61120;;;;gami1243;giacon-2014
-ngindaali;;2du_s;2nd Person Dual;61119;;;;gami1243;giacon-2014
-nginaalinya;;2du_o;2nd Person Dual;61118;;;;gami1243;giacon-2014
-nginaalingu;;2du_p;2nd Person Dual;61117;;;;gami1243;giacon-2014
-ngindaay;;2pl_a;2nd Person Plural;61116;;;;gami1243;giacon-2014
-ngindaay;;2pl_s;2nd Person Plural;61115;;;;gami1243;giacon-2014
-nginaaynya;;2pl_o;2nd Person Plural;61114;;;;gami1243;giacon-2014
-nginaayngu;;2pl_p;2nd Person Plural;61113;;;;gami1243;giacon-2014
-nguru;;3sg_m_a;3rd Person Singular Masculine;61112;;;;gami1243;giacon-2014
-=NHa;;3sg_m_s;3rd Person Singular Masculine;61111;;;;gami1243;giacon-2014
-=NHa;;3sg_m_o;3rd Person Singular Masculine;61110;;;;gami1243;giacon-2014
-ngurungu;;3sg_m_p;3rd Person Singular Masculine;61109;;;;gami1243;giacon-2014
-nguru;;3sg_n_a;3rd Person Singular Neuter;61108;;;;gami1243;giacon-2014
-=NHa;;3sg_n_s;3rd Person Singular Neuter;61107;;;;gami1243;giacon-2014
-=NHa;;3sg_n_o;3rd Person Singular Neuter;61106;;;;gami1243;giacon-2014
-ngurungu;;3sg_n_p;3rd Person Singular Neuter;61105;;;;gami1243;giacon-2014
-ngurugaalay;;3d-a;3rd Person Dual;61104;;;;gami1243;giacon-2014
-nhamagaalay;;3d-s;3rd Person Dual;61103;;;;gami1243;giacon-2014
-nhamagaalaynya;;3d-o;3rd Person Dual;61102;;;;gami1243;giacon-2014
-ngurugaalayngundi;;3d-p;3rd Person Dual;61101;;;;gami1243;giacon-2014
-ganugu;;3p-a;3rd Person Plural;61100;;;;gami1243;giacon-2014
-ganunga;;3p-s;3rd Person Plural;61099;;;;gami1243;giacon-2014
-ganunga;;3p-o;3rd Person Plural;61098;;;;gami1243;giacon-2014
-ganungundi;;3p-p;3rd Person Plural;61097;;;;gami1243;giacon-2014
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ngaya,,1sg_a,1st (excl) Person Singular,61144,,,,gami1243,giacon-2014
+ngaya,,1sg_s,1st (excl) Person Singular,61143,,,,gami1243,giacon-2014
+nganha,,1sg_o,1st (excl) Person Singular,61142,,,,gami1243,giacon-2014
+ngay,,1sg_p,1st (excl) Person Singular,61141,,,,gami1243,giacon-2014
+ngali,,1du_a,1st (excl) Person Dual,61140,,,,gami1243,giacon-2014
+ngali,,1du_s,1st (excl) Person Dual,61139,,,,gami1243,giacon-2014
+ngalinya,,1du_o,1st (excl) Person Dual,61138,,,,gami1243,giacon-2014
+ngalingu,,1du_p,1st (excl) Person Dual,61137,,,,gami1243,giacon-2014
+ngiyani,,1pl_a,1st (excl) Person Plural,61136,,,,gami1243,giacon-2014
+ngiyani,,1pl_s,1st (excl) Person Plural,61135,,,,gami1243,giacon-2014
+ngiyaninya,,1pl_o,1st (excl) Person Plural,61134,,,,gami1243,giacon-2014
+ngiyaningu,,1pl_p,1st (excl) Person Plural,61133,,,,gami1243,giacon-2014
+ngali,,12du_a,1st (incl) Person Dual,61132,,,,gami1243,giacon-2014
+ngali,,12du_s,1st (incl) Person Dual,61131,,,,gami1243,giacon-2014
+ngalinya,,12du_o,1st (incl) Person Dual,61130,,,,gami1243,giacon-2014
+ngalingu,,12du_p,1st (incl) Person Dual,61129,,,,gami1243,giacon-2014
+ngiyani,,12pl_a,1st (incl) Person Plural,61128,,,,gami1243,giacon-2014
+ngiyani,,12pl_s,1st (incl) Person Plural,61127,,,,gami1243,giacon-2014
+ngiyaninya,,12pl_o,1st (incl) Person Plural,61126,,,,gami1243,giacon-2014
+ngiyaningu,,12pl_p,1st (incl) Person Plural,61125,,,,gami1243,giacon-2014
+nginda,,2sg_a,2nd Person Singular,61124,,,,gami1243,giacon-2014
+nginda,,2sg_s,2nd Person Singular,61123,,,,gami1243,giacon-2014
+nginunha,,2sg_o,2nd Person Singular,61122,,,,gami1243,giacon-2014
+nginu,,2sg_p,2nd Person Singular,61121,,,,gami1243,giacon-2014
+ngindaali,,2du_a,2nd Person Dual,61120,,,,gami1243,giacon-2014
+ngindaali,,2du_s,2nd Person Dual,61119,,,,gami1243,giacon-2014
+nginaalinya,,2du_o,2nd Person Dual,61118,,,,gami1243,giacon-2014
+nginaalingu,,2du_p,2nd Person Dual,61117,,,,gami1243,giacon-2014
+ngindaay,,2pl_a,2nd Person Plural,61116,,,,gami1243,giacon-2014
+ngindaay,,2pl_s,2nd Person Plural,61115,,,,gami1243,giacon-2014
+nginaaynya,,2pl_o,2nd Person Plural,61114,,,,gami1243,giacon-2014
+nginaayngu,,2pl_p,2nd Person Plural,61113,,,,gami1243,giacon-2014
+nguru,,3sg_m_a,3rd Person Singular Masculine,61112,,,,gami1243,giacon-2014
+=NHa,,3sg_m_s,3rd Person Singular Masculine,61111,,,,gami1243,giacon-2014
+=NHa,,3sg_m_o,3rd Person Singular Masculine,61110,,,,gami1243,giacon-2014
+ngurungu,,3sg_m_p,3rd Person Singular Masculine,61109,,,,gami1243,giacon-2014
+nguru,,3sg_n_a,3rd Person Singular Neuter,61108,,,,gami1243,giacon-2014
+=NHa,,3sg_n_s,3rd Person Singular Neuter,61107,,,,gami1243,giacon-2014
+=NHa,,3sg_n_o,3rd Person Singular Neuter,61106,,,,gami1243,giacon-2014
+ngurungu,,3sg_n_p,3rd Person Singular Neuter,61105,,,,gami1243,giacon-2014
+ngurugaalay,,3d-a,3rd Person Dual,61104,,,,gami1243,giacon-2014
+nhamagaalay,,3d-s,3rd Person Dual,61103,,,,gami1243,giacon-2014
+nhamagaalaynya,,3d-o,3rd Person Dual,61102,,,,gami1243,giacon-2014
+ngurugaalayngundi,,3d-p,3rd Person Dual,61101,,,,gami1243,giacon-2014
+ganugu,,3p-a,3rd Person Plural,61100,,,,gami1243,giacon-2014
+ganunga,,3p-s,3rd Person Plural,61099,,,,gami1243,giacon-2014
+ganunga,,3p-o,3rd Person Plural,61098,,,,gami1243,giacon-2014
+ganungundi,,3p-p,3rd Person Plural,61097,,,,gami1243,giacon-2014

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-néiγa;;1sg_a;1st (excl) Person Singular;41870;;;;koko1265;de-vries-2004
-néiγa;;1sg_s;1st (excl) Person Singular;41869;;;;koko1265;de-vries-2004
-náme;;1sg_o;1st (excl) Person Singular;41868;;;;koko1265;de-vries-2004
-néri-;;1sg_p;1st (excl) Person Singular;41867;;;;koko1265;de-vries-2004
-nigáru;;1du_a;1st (excl) Person Dual;42473;;;;koko1265;de-vries-2004
-níγi;;1du_a;1st (excl) Person Dual;42474;;;;koko1265;de-vries-2004
-nigáru;;1du_s;1st (excl) Person Dual;42459;;;;koko1265;de-vries-2004
-níγi;;1du_s;1st (excl) Person Dual;42460;;;;koko1265;de-vries-2004
-ɲáme;;1du_o;1st (excl) Person Dual;41864;;;;koko1265;de-vries-2004
-nigáru;;1pl_a;1st (excl) Person Plural;42461;;;;koko1265;de-vries-2004
-níγi;;1pl_a;1st (excl) Person Plural;42462;;;;koko1265;de-vries-2004
-nigáru;;1pl_s;1st (excl) Person Plural;42463;;;;koko1265;de-vries-2004
-níγi;;1pl_s;1st (excl) Person Plural;42464;;;;koko1265;de-vries-2004
-ɲáme;;1pl_o;1st (excl) Person Plural;41861;;;;koko1265;de-vries-2004
-nigáru;;12du_a;1st (incl) Person Dual;42471;;;;koko1265;de-vries-2004
-níγi;;12du_a;1st (incl) Person Dual;42472;;;;koko1265;de-vries-2004
-nigáru;;12du_s;1st (incl) Person Dual;42465;;;;koko1265;de-vries-2004
-níγi;;12du_s;1st (incl) Person Dual;42466;;;;koko1265;de-vries-2004
-ɲáme;;12du_o;1st (incl) Person Dual;41858;;;;koko1265;de-vries-2004
-nigáru;;12pl_a;1st (incl) Person Plural;42467;;;;koko1265;de-vries-2004
-níγi;;12pl_a;1st (incl) Person Plural;42468;;;;koko1265;de-vries-2004
-nigáru;;12pl_s;1st (incl) Person Plural;42469;;;;koko1265;de-vries-2004
-níγi;;12pl_s;1st (incl) Person Plural;42470;;;;koko1265;de-vries-2004
-ɲáme;;12pl_o;1st (incl) Person Plural;41855;;;;koko1265;de-vries-2004
-áiγa;;2sg_a;2nd Person Singular;41854;;;;koko1265;de-vries-2004
-áiγa;;2sg_s;2nd Person Singular;41853;;;;koko1265;de-vries-2004
-áiγa;;2sg_o;2nd Person Singular;41852;;;;koko1265;de-vries-2004
-ádi-;;2sg_p;2nd Person Singular;41851;;;;koko1265;de-vries-2004
-íγa;;2du_a;2nd Person Dual;41850;;;;koko1265;de-vries-2004
-íγa;;2du_s;2nd Person Dual;41849;;;;koko1265;de-vries-2004
-íγa;;2du_o;2nd Person Dual;41848;;;;koko1265;de-vries-2004
-íγa;;2pl_a;2nd Person Plural;41847;;;;koko1265;de-vries-2004
-íγa;;2pl_s;2nd Person Plural;41846;;;;koko1265;de-vries-2004
-íγa;;2pl_o;2nd Person Plural;41845;;;;koko1265;de-vries-2004
-nigéra;;3sg_m_a;3rd Person Singular Masculine;41844;;;;koko1265;de-vries-2004
-nigéra;;3sg_m_s;3rd Person Singular Masculine;41843;;;;koko1265;de-vries-2004
-nigéra;;3sg_m_o;3rd Person Singular Masculine;41842;;;;koko1265;de-vries-2004
-níge-;;3sg_m_p;3rd Person Singular Masculine;41841;;;;koko1265;de-vries-2004
-nigómo;;3sg_n_a;3rd Person Singular Neuter;41840;;;;koko1265;de-vries-2004
-nigómo;;3sg_n_s;3rd Person Singular Neuter;41839;;;;koko1265;de-vries-2004
-nigómo;;3sg_n_o;3rd Person Singular Neuter;41838;;;;koko1265;de-vries-2004
-nígo-;;3sg_n_p;3rd Person Singular Neuter;41837;;;;koko1265;de-vries-2004
-nigáumo;;3d-a;3rd Person Dual;41836;;;;koko1265;de-vries-2004
-nigáumo;;3d-s;3rd Person Dual;41835;;;;koko1265;de-vries-2004
-nigáumo;;3d-o;3rd Person Dual;41834;;;;koko1265;de-vries-2004
-nigáumo;;3p-a;3rd Person Plural;41833;;;;koko1265;de-vries-2004
-nigáumo;;3p-s;3rd Person Plural;41832;;;;koko1265;de-vries-2004
-nigáumo;;3p-o;3rd Person Plural;41831;;;;koko1265;de-vries-2004
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+néiγa,,1sg_a,1st (excl) Person Singular,41870,,,,koko1265,de-vries-2004
+néiγa,,1sg_s,1st (excl) Person Singular,41869,,,,koko1265,de-vries-2004
+náme,,1sg_o,1st (excl) Person Singular,41868,,,,koko1265,de-vries-2004
+néri-,,1sg_p,1st (excl) Person Singular,41867,,,,koko1265,de-vries-2004
+nigáru,,1du_a,1st (excl) Person Dual,42473,,,,koko1265,de-vries-2004
+níγi,,1du_a,1st (excl) Person Dual,42474,,,,koko1265,de-vries-2004
+nigáru,,1du_s,1st (excl) Person Dual,42459,,,,koko1265,de-vries-2004
+níγi,,1du_s,1st (excl) Person Dual,42460,,,,koko1265,de-vries-2004
+ɲáme,,1du_o,1st (excl) Person Dual,41864,,,,koko1265,de-vries-2004
+nigáru,,1pl_a,1st (excl) Person Plural,42461,,,,koko1265,de-vries-2004
+níγi,,1pl_a,1st (excl) Person Plural,42462,,,,koko1265,de-vries-2004
+nigáru,,1pl_s,1st (excl) Person Plural,42463,,,,koko1265,de-vries-2004
+níγi,,1pl_s,1st (excl) Person Plural,42464,,,,koko1265,de-vries-2004
+ɲáme,,1pl_o,1st (excl) Person Plural,41861,,,,koko1265,de-vries-2004
+nigáru,,12du_a,1st (incl) Person Dual,42471,,,,koko1265,de-vries-2004
+níγi,,12du_a,1st (incl) Person Dual,42472,,,,koko1265,de-vries-2004
+nigáru,,12du_s,1st (incl) Person Dual,42465,,,,koko1265,de-vries-2004
+níγi,,12du_s,1st (incl) Person Dual,42466,,,,koko1265,de-vries-2004
+ɲáme,,12du_o,1st (incl) Person Dual,41858,,,,koko1265,de-vries-2004
+nigáru,,12pl_a,1st (incl) Person Plural,42467,,,,koko1265,de-vries-2004
+níγi,,12pl_a,1st (incl) Person Plural,42468,,,,koko1265,de-vries-2004
+nigáru,,12pl_s,1st (incl) Person Plural,42469,,,,koko1265,de-vries-2004
+níγi,,12pl_s,1st (incl) Person Plural,42470,,,,koko1265,de-vries-2004
+ɲáme,,12pl_o,1st (incl) Person Plural,41855,,,,koko1265,de-vries-2004
+áiγa,,2sg_a,2nd Person Singular,41854,,,,koko1265,de-vries-2004
+áiγa,,2sg_s,2nd Person Singular,41853,,,,koko1265,de-vries-2004
+áiγa,,2sg_o,2nd Person Singular,41852,,,,koko1265,de-vries-2004
+ádi-,,2sg_p,2nd Person Singular,41851,,,,koko1265,de-vries-2004
+íγa,,2du_a,2nd Person Dual,41850,,,,koko1265,de-vries-2004
+íγa,,2du_s,2nd Person Dual,41849,,,,koko1265,de-vries-2004
+íγa,,2du_o,2nd Person Dual,41848,,,,koko1265,de-vries-2004
+íγa,,2pl_a,2nd Person Plural,41847,,,,koko1265,de-vries-2004
+íγa,,2pl_s,2nd Person Plural,41846,,,,koko1265,de-vries-2004
+íγa,,2pl_o,2nd Person Plural,41845,,,,koko1265,de-vries-2004
+nigéra,,3sg_m_a,3rd Person Singular Masculine,41844,,,,koko1265,de-vries-2004
+nigéra,,3sg_m_s,3rd Person Singular Masculine,41843,,,,koko1265,de-vries-2004
+nigéra,,3sg_m_o,3rd Person Singular Masculine,41842,,,,koko1265,de-vries-2004
+níge-,,3sg_m_p,3rd Person Singular Masculine,41841,,,,koko1265,de-vries-2004
+nigómo,,3sg_n_a,3rd Person Singular Neuter,41840,,,,koko1265,de-vries-2004
+nigómo,,3sg_n_s,3rd Person Singular Neuter,41839,,,,koko1265,de-vries-2004
+nigómo,,3sg_n_o,3rd Person Singular Neuter,41838,,,,koko1265,de-vries-2004
+nígo-,,3sg_n_p,3rd Person Singular Neuter,41837,,,,koko1265,de-vries-2004
+nigáumo,,3d-a,3rd Person Dual,41836,,,,koko1265,de-vries-2004
+nigáumo,,3d-s,3rd Person Dual,41835,,,,koko1265,de-vries-2004
+nigáumo,,3d-o,3rd Person Dual,41834,,,,koko1265,de-vries-2004
+nigáumo,,3p-a,3rd Person Plural,41833,,,,koko1265,de-vries-2004
+nigáumo,,3p-s,3rd Person Plural,41832,,,,koko1265,de-vries-2004
+nigáumo,,3p-o,3rd Person Plural,41831,,,,koko1265,de-vries-2004

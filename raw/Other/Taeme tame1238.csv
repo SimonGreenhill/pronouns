@@ -1,107 +1,107 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋən;;1sg_a;1st (excl) Person Singular;22578;;;;tame1238;philip-tama-2013
-ŋən;;1sg_s;1st (excl) Person Singular;22579;;;;tame1238;philip-tama-2013
-ŋənem;;1sg_o;1st (excl) Person Singular;22580;;;;tame1238;philip-tama-2013
-ŋəmo;;1sg_p;1st (excl) Person Singular;22581;;;;tame1238;philip-tama-2013
-ŋəmi;;1du_a;1st (excl) Person Dual;22582;;;;tame1238;philip-tama-2013
-ŋəmi;;1du_s;1st (excl) Person Dual;22583;;;;tame1238;philip-tama-2013
-ŋəmim;;1du_o;1st (excl) Person Dual;22584;;;;tame1238;philip-tama-2013
-ŋəma;;1du_p;1st (excl) Person Dual;22585;;;;tame1238;philip-tama-2013
-ŋəmi;;1pl_a;1st (excl) Person Plural;22586;;;;tame1238;philip-tama-2013
-ŋəmi;;1pl_s;1st (excl) Person Plural;22587;;;;tame1238;philip-tama-2013
-ŋəmim;;1pl_o;1st (excl) Person Plural;22588;;;;tame1238;philip-tama-2013
-ŋəma;;1pl_p;1st (excl) Person Plural;22589;;;;tame1238;philip-tama-2013
-yəbi;;12du_a;1st (incl) Person Dual;22590;;;;tame1238;philip-tama-2013
-yəbi;;12du_s;1st (incl) Person Dual;22591;;;;tame1238;philip-tama-2013
-yəbim;;12du_o;1st (incl) Person Dual;22592;;;;tame1238;philip-tama-2013
-yəba;;12du_p;1st (incl) Person Dual;22593;;;;tame1238;philip-tama-2013
-yəbi;;12pl_a;1st (incl) Person Plural;22594;;;;tame1238;philip-tama-2013
-yəbi;;12pl_s;1st (incl) Person Plural;22595;;;;tame1238;philip-tama-2013
-yəbim;;12pl_o;1st (incl) Person Plural;22596;;;;tame1238;philip-tama-2013
-yəba;;12pl_p;1st (incl) Person Plural;22597;;;;tame1238;philip-tama-2013
-bä;;2sg_a;2nd Person Singular;22598;;;;tame1238;philip-tama-2013
-bä;;2sg_s;2nd Person Singular;22599;;;;tame1238;philip-tama-2013
-babom;;2sg_o;2nd Person Singular;22600;;;;tame1238;philip-tama-2013
-bəna;;2sg_p;2nd Person Singular;22601;;;;tame1238;philip-tama-2013
-bä;;2du_a;2nd Person Dual;22602;;;;tame1238;philip-tama-2013
-bä;;2du_s;2nd Person Dual;22603;;;;tame1238;philip-tama-2013
-bibim;;2du_o;2nd Person Dual;22604;;;;tame1238;philip-tama-2013
-bəna;;2du_p;2nd Person Dual;22605;;;;tame1238;philip-tama-2013
-bä;;2pl_a;2nd Person Plural;22606;;;;tame1238;philip-tama-2013
-bä;;2pl_s;2nd Person Plural;22607;;;;tame1238;philip-tama-2013
-bibim;;2pl_o;2nd Person Plural;22608;;;;tame1238;philip-tama-2013
-bəna;;2pl_p;2nd Person Plural;22609;;;;tame1238;philip-tama-2013
-bo;;3sg_m_a;3rd Person Singular Masculine;22610;;;;tame1238;philip-tama-2013
-bo;;3sg_m_s;3rd Person Singular Masculine;22611;;;;tame1238;philip-tama-2013
-obom;;3sg_m_o;3rd Person Singular Masculine;22612;;;;tame1238;philip-tama-2013
-wobom;;3sg_m_o;3rd Person Singular Masculine;22613;;;;tame1238;philip-tama-2013
-obo;;3sg_m_p;3rd Person Singular Masculine;22614;;;;tame1238;philip-tama-2013
-wobo;;3sg_m_p;3rd Person Singular Masculine;22615;;;;tame1238;philip-tama-2013
-bo;;3sg_f_a;3rd Person Singular Feminine;22616;;;;tame1238;philip-tama-2013
-bo;;3sg_f_s;3rd Person Singular Feminine;22617;;;;tame1238;philip-tama-2013
-obom;;3sg_f_o;3rd Person Singular Feminine;22618;;;;tame1238;philip-tama-2013
-wobom;;3sg_f_o;3rd Person Singular Feminine;22619;;;;tame1238;philip-tama-2013
-obo;;3sg_f_p;3rd Person Singular Feminine;22620;;;;tame1238;philip-tama-2013
-wobo;;3sg_f_p;3rd Person Singular Feminine;22621;;;;tame1238;philip-tama-2013
-bo;;3sg_n_a;3rd Person Singular Neuter;22622;;;;tame1238;philip-tama-2013
-bo;;3sg_n_s;3rd Person Singular Neuter;22623;;;;tame1238;philip-tama-2013
-obom;;3sg_n_o;3rd Person Singular Neuter;22624;;;;tame1238;philip-tama-2013
-wobom;;3sg_n_o;3rd Person Singular Neuter;22625;;;;tame1238;philip-tama-2013
-obo;;3sg_n_p;3rd Person Singular Neuter;22626;;;;tame1238;philip-tama-2013
-wobo;;3sg_n_p;3rd Person Singular Neuter;22627;;;;tame1238;philip-tama-2013
-bo;;3du_m_a;3rd Person Dual Masculine;22628;;;;tame1238;philip-tama-2013
-wəbi;;3du_m_a;3rd Person Dual Masculine;22629;;;;tame1238;philip-tama-2013
-bo;;3du_m_s;3rd Person Dual Masculine;22630;;;;tame1238;philip-tama-2013
-wəbi;;3du_m_s;3rd Person Dual Masculine;22631;;;;tame1238;philip-tama-2013
-wəbim;;3du_m_o;3rd Person Dual Masculine;22632;;;;tame1238;philip-tama-2013
-oba;;3du_m_p;3rd Person Dual Masculine;22633;;;;tame1238;philip-tama-2013
-woba;;3du_m_p;3rd Person Dual Masculine;22634;;;;tame1238;philip-tama-2013
-bo;;3du_f_a;3rd Person Dual Feminine;22635;;;;tame1238;philip-tama-2013
-wəbi;;3du_f_a;3rd Person Dual Feminine;22636;;;;tame1238;philip-tama-2013
-bo;;3du_f_s;3rd Person Dual Feminine;22637;;;;tame1238;philip-tama-2013
-wəbi;;3du_f_s;3rd Person Dual Feminine;22638;;;;tame1238;philip-tama-2013
-wəbim;;3du_f_o;3rd Person Dual Feminine;22639;;;;tame1238;philip-tama-2013
-oba;;3du_f_p;3rd Person Dual Feminine;22640;;;;tame1238;philip-tama-2013
-woba;;3du_f_p;3rd Person Dual Feminine;22641;;;;tame1238;philip-tama-2013
-bo;;3du_n_a;3rd Person Dual Neuter;22642;;;;tame1238;philip-tama-2013
-wəbi;;3du_n_a;3rd Person Dual Neuter;22643;;;;tame1238;philip-tama-2013
-bo;;3du_n_s;3rd Person Dual Neuter;22644;;;;tame1238;philip-tama-2013
-wəbi;;3du_n_s;3rd Person Dual Neuter;22645;;;;tame1238;philip-tama-2013
-wəbim;;3du_n_o;3rd Person Dual Neuter;22646;;;;tame1238;philip-tama-2013
-oba;;3du_n_p;3rd Person Dual Neuter;22647;;;;tame1238;philip-tama-2013
-woba;;3du_n_p;3rd Person Dual Neuter;22648;;;;tame1238;philip-tama-2013
-bo;;3pl_m_a;3rd Person Plural Masculine;22649;;;;tame1238;philip-tama-2013
-wəbi;;3pl_m_a;3rd Person Plural Masculine;22650;;;;tame1238;philip-tama-2013
-bo;;3pl_m_s;3rd Person Plural Masculine;22651;;;;tame1238;philip-tama-2013
-wəbi;;3pl_m_s;3rd Person Plural Masculine;22652;;;;tame1238;philip-tama-2013
-wəbim;;3pl_m_o;3rd Person Plural Masculine;22653;;;;tame1238;philip-tama-2013
-oba;;3pl_m_p;3rd Person Plural Masculine;22654;;;;tame1238;philip-tama-2013
-woba;;3pl_m_p;3rd Person Plural Masculine;22655;;;;tame1238;philip-tama-2013
-bo;;3pl_f_a;3rd Person Plural Feminine;22656;;;;tame1238;philip-tama-2013
-wəbi;;3pl_f_a;3rd Person Plural Feminine;22657;;;;tame1238;philip-tama-2013
-bo;;3pl_f_s;3rd Person Plural Feminine;22658;;;;tame1238;philip-tama-2013
-wəbi;;3pl_f_s;3rd Person Plural Feminine;22659;;;;tame1238;philip-tama-2013
-wəbim;;3pl_f_o;3rd Person Plural Feminine;22660;;;;tame1238;philip-tama-2013
-oba;;3pl_f_p;3rd Person Plural Feminine;22661;;;;tame1238;philip-tama-2013
-woba;;3pl_f_p;3rd Person Plural Feminine;22662;;;;tame1238;philip-tama-2013
-bo;;3pl_n_a;3rd Person Plural Neuter;22663;;;;tame1238;philip-tama-2013
-wəbi;;3pl_n_a;3rd Person Plural Neuter;22664;;;;tame1238;philip-tama-2013
-bo;;3pl_n_s;3rd Person Plural Neuter;22665;;;;tame1238;philip-tama-2013
-wəbi;;3pl_n_s;3rd Person Plural Neuter;22666;;;;tame1238;philip-tama-2013
-wəbim;;3pl_n_o;3rd Person Plural Neuter;22667;;;;tame1238;philip-tama-2013
-oba;;3pl_n_p;3rd Person Plural Neuter;22668;;;;tame1238;philip-tama-2013
-woba;;3pl_n_p;3rd Person Plural Neuter;22669;;;;tame1238;philip-tama-2013
-bo;;3d-a;3rd Person Dual;36363;;;;tame1238;philip-tama-2013
-wəbi;;3d-a;3rd Person Dual;36364;;;;tame1238;philip-tama-2013
-bo;;3d-s;3rd Person Dual;36590;;;;tame1238;philip-tama-2013
-wəbi;;3d-s;3rd Person Dual;36591;;;;tame1238;philip-tama-2013
-wəbim;;3d-o;3rd Person Dual;36816;;;;tame1238;philip-tama-2013
-oba;;3d-p;3rd Person Dual;37025;;;;tame1238;philip-tama-2013
-woba;;3d-p;3rd Person Dual;37026;;;;tame1238;philip-tama-2013
-bo;;3p-a;3rd Person Plural;37246;;;;tame1238;philip-tama-2013
-wəbi;;3p-a;3rd Person Plural;37247;;;;tame1238;philip-tama-2013
-bo;;3p-s;3rd Person Plural;37472;;;;tame1238;philip-tama-2013
-wəbi;;3p-s;3rd Person Plural;37473;;;;tame1238;philip-tama-2013
-wəbim;;3p-o;3rd Person Plural;37695;;;;tame1238;philip-tama-2013
-oba;;3p-p;3rd Person Plural;37903;;;;tame1238;philip-tama-2013
-woba;;3p-p;3rd Person Plural;37904;;;;tame1238;philip-tama-2013
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋən,,1sg_a,1st (excl) Person Singular,22578,,,,tame1238,philip-tama-2013
+ŋən,,1sg_s,1st (excl) Person Singular,22579,,,,tame1238,philip-tama-2013
+ŋənem,,1sg_o,1st (excl) Person Singular,22580,,,,tame1238,philip-tama-2013
+ŋəmo,,1sg_p,1st (excl) Person Singular,22581,,,,tame1238,philip-tama-2013
+ŋəmi,,1du_a,1st (excl) Person Dual,22582,,,,tame1238,philip-tama-2013
+ŋəmi,,1du_s,1st (excl) Person Dual,22583,,,,tame1238,philip-tama-2013
+ŋəmim,,1du_o,1st (excl) Person Dual,22584,,,,tame1238,philip-tama-2013
+ŋəma,,1du_p,1st (excl) Person Dual,22585,,,,tame1238,philip-tama-2013
+ŋəmi,,1pl_a,1st (excl) Person Plural,22586,,,,tame1238,philip-tama-2013
+ŋəmi,,1pl_s,1st (excl) Person Plural,22587,,,,tame1238,philip-tama-2013
+ŋəmim,,1pl_o,1st (excl) Person Plural,22588,,,,tame1238,philip-tama-2013
+ŋəma,,1pl_p,1st (excl) Person Plural,22589,,,,tame1238,philip-tama-2013
+yəbi,,12du_a,1st (incl) Person Dual,22590,,,,tame1238,philip-tama-2013
+yəbi,,12du_s,1st (incl) Person Dual,22591,,,,tame1238,philip-tama-2013
+yəbim,,12du_o,1st (incl) Person Dual,22592,,,,tame1238,philip-tama-2013
+yəba,,12du_p,1st (incl) Person Dual,22593,,,,tame1238,philip-tama-2013
+yəbi,,12pl_a,1st (incl) Person Plural,22594,,,,tame1238,philip-tama-2013
+yəbi,,12pl_s,1st (incl) Person Plural,22595,,,,tame1238,philip-tama-2013
+yəbim,,12pl_o,1st (incl) Person Plural,22596,,,,tame1238,philip-tama-2013
+yəba,,12pl_p,1st (incl) Person Plural,22597,,,,tame1238,philip-tama-2013
+bä,,2sg_a,2nd Person Singular,22598,,,,tame1238,philip-tama-2013
+bä,,2sg_s,2nd Person Singular,22599,,,,tame1238,philip-tama-2013
+babom,,2sg_o,2nd Person Singular,22600,,,,tame1238,philip-tama-2013
+bəna,,2sg_p,2nd Person Singular,22601,,,,tame1238,philip-tama-2013
+bä,,2du_a,2nd Person Dual,22602,,,,tame1238,philip-tama-2013
+bä,,2du_s,2nd Person Dual,22603,,,,tame1238,philip-tama-2013
+bibim,,2du_o,2nd Person Dual,22604,,,,tame1238,philip-tama-2013
+bəna,,2du_p,2nd Person Dual,22605,,,,tame1238,philip-tama-2013
+bä,,2pl_a,2nd Person Plural,22606,,,,tame1238,philip-tama-2013
+bä,,2pl_s,2nd Person Plural,22607,,,,tame1238,philip-tama-2013
+bibim,,2pl_o,2nd Person Plural,22608,,,,tame1238,philip-tama-2013
+bəna,,2pl_p,2nd Person Plural,22609,,,,tame1238,philip-tama-2013
+bo,,3sg_m_a,3rd Person Singular Masculine,22610,,,,tame1238,philip-tama-2013
+bo,,3sg_m_s,3rd Person Singular Masculine,22611,,,,tame1238,philip-tama-2013
+obom,,3sg_m_o,3rd Person Singular Masculine,22612,,,,tame1238,philip-tama-2013
+wobom,,3sg_m_o,3rd Person Singular Masculine,22613,,,,tame1238,philip-tama-2013
+obo,,3sg_m_p,3rd Person Singular Masculine,22614,,,,tame1238,philip-tama-2013
+wobo,,3sg_m_p,3rd Person Singular Masculine,22615,,,,tame1238,philip-tama-2013
+bo,,3sg_f_a,3rd Person Singular Feminine,22616,,,,tame1238,philip-tama-2013
+bo,,3sg_f_s,3rd Person Singular Feminine,22617,,,,tame1238,philip-tama-2013
+obom,,3sg_f_o,3rd Person Singular Feminine,22618,,,,tame1238,philip-tama-2013
+wobom,,3sg_f_o,3rd Person Singular Feminine,22619,,,,tame1238,philip-tama-2013
+obo,,3sg_f_p,3rd Person Singular Feminine,22620,,,,tame1238,philip-tama-2013
+wobo,,3sg_f_p,3rd Person Singular Feminine,22621,,,,tame1238,philip-tama-2013
+bo,,3sg_n_a,3rd Person Singular Neuter,22622,,,,tame1238,philip-tama-2013
+bo,,3sg_n_s,3rd Person Singular Neuter,22623,,,,tame1238,philip-tama-2013
+obom,,3sg_n_o,3rd Person Singular Neuter,22624,,,,tame1238,philip-tama-2013
+wobom,,3sg_n_o,3rd Person Singular Neuter,22625,,,,tame1238,philip-tama-2013
+obo,,3sg_n_p,3rd Person Singular Neuter,22626,,,,tame1238,philip-tama-2013
+wobo,,3sg_n_p,3rd Person Singular Neuter,22627,,,,tame1238,philip-tama-2013
+bo,,3du_m_a,3rd Person Dual Masculine,22628,,,,tame1238,philip-tama-2013
+wəbi,,3du_m_a,3rd Person Dual Masculine,22629,,,,tame1238,philip-tama-2013
+bo,,3du_m_s,3rd Person Dual Masculine,22630,,,,tame1238,philip-tama-2013
+wəbi,,3du_m_s,3rd Person Dual Masculine,22631,,,,tame1238,philip-tama-2013
+wəbim,,3du_m_o,3rd Person Dual Masculine,22632,,,,tame1238,philip-tama-2013
+oba,,3du_m_p,3rd Person Dual Masculine,22633,,,,tame1238,philip-tama-2013
+woba,,3du_m_p,3rd Person Dual Masculine,22634,,,,tame1238,philip-tama-2013
+bo,,3du_f_a,3rd Person Dual Feminine,22635,,,,tame1238,philip-tama-2013
+wəbi,,3du_f_a,3rd Person Dual Feminine,22636,,,,tame1238,philip-tama-2013
+bo,,3du_f_s,3rd Person Dual Feminine,22637,,,,tame1238,philip-tama-2013
+wəbi,,3du_f_s,3rd Person Dual Feminine,22638,,,,tame1238,philip-tama-2013
+wəbim,,3du_f_o,3rd Person Dual Feminine,22639,,,,tame1238,philip-tama-2013
+oba,,3du_f_p,3rd Person Dual Feminine,22640,,,,tame1238,philip-tama-2013
+woba,,3du_f_p,3rd Person Dual Feminine,22641,,,,tame1238,philip-tama-2013
+bo,,3du_n_a,3rd Person Dual Neuter,22642,,,,tame1238,philip-tama-2013
+wəbi,,3du_n_a,3rd Person Dual Neuter,22643,,,,tame1238,philip-tama-2013
+bo,,3du_n_s,3rd Person Dual Neuter,22644,,,,tame1238,philip-tama-2013
+wəbi,,3du_n_s,3rd Person Dual Neuter,22645,,,,tame1238,philip-tama-2013
+wəbim,,3du_n_o,3rd Person Dual Neuter,22646,,,,tame1238,philip-tama-2013
+oba,,3du_n_p,3rd Person Dual Neuter,22647,,,,tame1238,philip-tama-2013
+woba,,3du_n_p,3rd Person Dual Neuter,22648,,,,tame1238,philip-tama-2013
+bo,,3pl_m_a,3rd Person Plural Masculine,22649,,,,tame1238,philip-tama-2013
+wəbi,,3pl_m_a,3rd Person Plural Masculine,22650,,,,tame1238,philip-tama-2013
+bo,,3pl_m_s,3rd Person Plural Masculine,22651,,,,tame1238,philip-tama-2013
+wəbi,,3pl_m_s,3rd Person Plural Masculine,22652,,,,tame1238,philip-tama-2013
+wəbim,,3pl_m_o,3rd Person Plural Masculine,22653,,,,tame1238,philip-tama-2013
+oba,,3pl_m_p,3rd Person Plural Masculine,22654,,,,tame1238,philip-tama-2013
+woba,,3pl_m_p,3rd Person Plural Masculine,22655,,,,tame1238,philip-tama-2013
+bo,,3pl_f_a,3rd Person Plural Feminine,22656,,,,tame1238,philip-tama-2013
+wəbi,,3pl_f_a,3rd Person Plural Feminine,22657,,,,tame1238,philip-tama-2013
+bo,,3pl_f_s,3rd Person Plural Feminine,22658,,,,tame1238,philip-tama-2013
+wəbi,,3pl_f_s,3rd Person Plural Feminine,22659,,,,tame1238,philip-tama-2013
+wəbim,,3pl_f_o,3rd Person Plural Feminine,22660,,,,tame1238,philip-tama-2013
+oba,,3pl_f_p,3rd Person Plural Feminine,22661,,,,tame1238,philip-tama-2013
+woba,,3pl_f_p,3rd Person Plural Feminine,22662,,,,tame1238,philip-tama-2013
+bo,,3pl_n_a,3rd Person Plural Neuter,22663,,,,tame1238,philip-tama-2013
+wəbi,,3pl_n_a,3rd Person Plural Neuter,22664,,,,tame1238,philip-tama-2013
+bo,,3pl_n_s,3rd Person Plural Neuter,22665,,,,tame1238,philip-tama-2013
+wəbi,,3pl_n_s,3rd Person Plural Neuter,22666,,,,tame1238,philip-tama-2013
+wəbim,,3pl_n_o,3rd Person Plural Neuter,22667,,,,tame1238,philip-tama-2013
+oba,,3pl_n_p,3rd Person Plural Neuter,22668,,,,tame1238,philip-tama-2013
+woba,,3pl_n_p,3rd Person Plural Neuter,22669,,,,tame1238,philip-tama-2013
+bo,,3d-a,3rd Person Dual,36363,,,,tame1238,philip-tama-2013
+wəbi,,3d-a,3rd Person Dual,36364,,,,tame1238,philip-tama-2013
+bo,,3d-s,3rd Person Dual,36590,,,,tame1238,philip-tama-2013
+wəbi,,3d-s,3rd Person Dual,36591,,,,tame1238,philip-tama-2013
+wəbim,,3d-o,3rd Person Dual,36816,,,,tame1238,philip-tama-2013
+oba,,3d-p,3rd Person Dual,37025,,,,tame1238,philip-tama-2013
+woba,,3d-p,3rd Person Dual,37026,,,,tame1238,philip-tama-2013
+bo,,3p-a,3rd Person Plural,37246,,,,tame1238,philip-tama-2013
+wəbi,,3p-a,3rd Person Plural,37247,,,,tame1238,philip-tama-2013
+bo,,3p-s,3rd Person Plural,37472,,,,tame1238,philip-tama-2013
+wəbi,,3p-s,3rd Person Plural,37473,,,,tame1238,philip-tama-2013
+wəbim,,3p-o,3rd Person Plural,37695,,,,tame1238,philip-tama-2013
+oba,,3p-p,3rd Person Plural,37903,,,,tame1238,philip-tama-2013
+woba,,3p-p,3rd Person Plural,37904,,,,tame1238,philip-tama-2013

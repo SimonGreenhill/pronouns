@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ana ;;1sg_a;1st (excl) Person Singular;44343;;;;gulf1241;holes-1990
-ana ;;1sg_s;1st (excl) Person Singular;44342;;;;gulf1241;holes-1990
--ni;;1sg_o;1st (excl) Person Singular;44341;;;;gulf1241;holes-1990
-maːli ;;1sg_p;1st (excl) Person Singular;44340;;;;gulf1241;holes-1990
-iħna ;;1du_a;1st (excl) Person Dual;44339;;;;gulf1241;holes-1990
-iħna ;;1du_s;1st (excl) Person Dual;44338;;;;gulf1241;holes-1990
--na ;;1du_o;1st (excl) Person Dual;44337;;;;gulf1241;holes-1990
-maːlna ;;1du_p;1st (excl) Person Dual;44336;;;;gulf1241;holes-1990
-iħna ;;1pl_a;1st (excl) Person Plural;44335;;;;gulf1241;holes-1990
-iħna ;;1pl_s;1st (excl) Person Plural;44334;;;;gulf1241;holes-1990
--na ;;1pl_o;1st (excl) Person Plural;44333;;;;gulf1241;holes-1990
-maːlna ;;1pl_p;1st (excl) Person Plural;44332;;;;gulf1241;holes-1990
-iħna ;;12du_a;1st (incl) Person Dual;44331;;;;gulf1241;holes-1990
-iħna ;;12du_s;1st (incl) Person Dual;44330;;;;gulf1241;holes-1990
--na ;;12du_o;1st (incl) Person Dual;44329;;;;gulf1241;holes-1990
-maːlna ;;12du_p;1st (incl) Person Dual;44328;;;;gulf1241;holes-1990
-iħna ;;12pl_a;1st (incl) Person Plural;44327;;;;gulf1241;holes-1990
-iħna ;;12pl_s;1st (incl) Person Plural;44326;;;;gulf1241;holes-1990
--na ;;12pl_o;1st (incl) Person Plural;44325;;;;gulf1241;holes-1990
-maːlna ;;12pl_p;1st (incl) Person Plural;44324;;;;gulf1241;holes-1990
-int̪a ;;2sg_a;2nd Person Singular;44323;;'int̪a' is in fact the 2sgM form, the 2sgF form is 'int̪i' (Holes 1990:159).;;gulf1241;holes-1990
-int̪a ;;2sg_s;2nd Person Singular;44322;;'int̪a' is in fact the 2sgM form, the 2sgF form is 'int̪i' (Holes 1990:159).;;gulf1241;holes-1990
--ik ;;2sg_o;2nd Person Singular;44321;;'-ik' is in fact the 2sgM form, the 2sgF form is '-it͡ʃ' (Holes 1990:171).;;gulf1241;holes-1990
-maːlik;;2sg_p;2nd Person Singular;44320;;'maːlik' is in fact the 2sgM form, the 2sgF form is 'malːit͡ʃ' (Holes 1990:171). ;;gulf1241;holes-1990
-int̪u ;;2du_a;2nd Person Dual;44319;;;;gulf1241;holes-1990
-int̪u ;;2du_s;2nd Person Dual;44318;;;;gulf1241;holes-1990
--kum ;;2du_o;2nd Person Dual;44317;;;;gulf1241;holes-1990
-maːlkum ;;2du_p;2nd Person Dual;44316;;;;gulf1241;holes-1990
-int̪u ;;2pl_a;2nd Person Plural;44315;;;;gulf1241;holes-1990
-int̪u ;;2pl_s;2nd Person Plural;44314;;;;gulf1241;holes-1990
--kum ;;2pl_o;2nd Person Plural;44313;;;;gulf1241;holes-1990
-maːlkum ;;2pl_p;2nd Person Plural;44312;;;;gulf1241;holes-1990
-huwa ;;3sg_m_a;3rd Person Singular Masculine;44311;;;;gulf1241;holes-1990
-huwa ;;3sg_m_s;3rd Person Singular Masculine;44310;;;;gulf1241;holes-1990
--ah ;;3sg_m_o;3rd Person Singular Masculine;44309;;;;gulf1241;holes-1990
-maːlah ;;3sg_m_p;3rd Person Singular Masculine;44308;;;;gulf1241;holes-1990
-hija ;;3sg_n_a;3rd Person Singular Neuter;44307;;;;gulf1241;holes-1990
-hija ;;3sg_n_s;3rd Person Singular Neuter;44306;;;;gulf1241;holes-1990
--ha ;;3sg_n_o;3rd Person Singular Neuter;44305;;;;gulf1241;holes-1990
-maːlha ;;3sg_n_p;3rd Person Singular Neuter;44304;;;;gulf1241;holes-1990
-hum ;;3d-a;3rd Person Dual;44303;;;;gulf1241;holes-1990
-hum ;;3d-s;3rd Person Dual;44302;;;;gulf1241;holes-1990
--hum ;;3d-o;3rd Person Dual;44301;;;;gulf1241;holes-1990
-maːlhum ;;3d-p;3rd Person Dual;44300;;;;gulf1241;holes-1990
-hum ;;3p-a;3rd Person Plural;44299;;;;gulf1241;holes-1990
-hum ;;3p-s;3rd Person Plural;44298;;;;gulf1241;holes-1990
--hum ;;3p-o;3rd Person Plural;44297;;;;gulf1241;holes-1990
-maːlhum ;;3p-p;3rd Person Plural;44296;;;;gulf1241;holes-1990
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ana,,1sg_a,1st (excl) Person Singular,44343,,,,gulf1241,holes-1990
+ana,,1sg_s,1st (excl) Person Singular,44342,,,,gulf1241,holes-1990
+-ni,,1sg_o,1st (excl) Person Singular,44341,,,,gulf1241,holes-1990
+maːli,,1sg_p,1st (excl) Person Singular,44340,,,,gulf1241,holes-1990
+iħna,,1du_a,1st (excl) Person Dual,44339,,,,gulf1241,holes-1990
+iħna,,1du_s,1st (excl) Person Dual,44338,,,,gulf1241,holes-1990
+-na,,1du_o,1st (excl) Person Dual,44337,,,,gulf1241,holes-1990
+maːlna,,1du_p,1st (excl) Person Dual,44336,,,,gulf1241,holes-1990
+iħna,,1pl_a,1st (excl) Person Plural,44335,,,,gulf1241,holes-1990
+iħna,,1pl_s,1st (excl) Person Plural,44334,,,,gulf1241,holes-1990
+-na,,1pl_o,1st (excl) Person Plural,44333,,,,gulf1241,holes-1990
+maːlna,,1pl_p,1st (excl) Person Plural,44332,,,,gulf1241,holes-1990
+iħna,,12du_a,1st (incl) Person Dual,44331,,,,gulf1241,holes-1990
+iħna,,12du_s,1st (incl) Person Dual,44330,,,,gulf1241,holes-1990
+-na,,12du_o,1st (incl) Person Dual,44329,,,,gulf1241,holes-1990
+maːlna,,12du_p,1st (incl) Person Dual,44328,,,,gulf1241,holes-1990
+iħna,,12pl_a,1st (incl) Person Plural,44327,,,,gulf1241,holes-1990
+iħna,,12pl_s,1st (incl) Person Plural,44326,,,,gulf1241,holes-1990
+-na,,12pl_o,1st (incl) Person Plural,44325,,,,gulf1241,holes-1990
+maːlna,,12pl_p,1st (incl) Person Plural,44324,,,,gulf1241,holes-1990
+int̪a,,2sg_a,2nd Person Singular,44323,,"'int̪a' is in fact the 2sgM form, the 2sgF form is 'int̪i' (Holes 1990:159).",,gulf1241,holes-1990
+int̪a,,2sg_s,2nd Person Singular,44322,,"'int̪a' is in fact the 2sgM form, the 2sgF form is 'int̪i' (Holes 1990:159).",,gulf1241,holes-1990
+-ik,,2sg_o,2nd Person Singular,44321,,"'-ik' is in fact the 2sgM form, the 2sgF form is '-it͡ʃ' (Holes 1990:171).",,gulf1241,holes-1990
+maːlik,,2sg_p,2nd Person Singular,44320,,"'maːlik' is in fact the 2sgM form, the 2sgF form is 'malːit͡ʃ' (Holes 1990:171).",,gulf1241,holes-1990
+int̪u,,2du_a,2nd Person Dual,44319,,,,gulf1241,holes-1990
+int̪u,,2du_s,2nd Person Dual,44318,,,,gulf1241,holes-1990
+-kum,,2du_o,2nd Person Dual,44317,,,,gulf1241,holes-1990
+maːlkum,,2du_p,2nd Person Dual,44316,,,,gulf1241,holes-1990
+int̪u,,2pl_a,2nd Person Plural,44315,,,,gulf1241,holes-1990
+int̪u,,2pl_s,2nd Person Plural,44314,,,,gulf1241,holes-1990
+-kum,,2pl_o,2nd Person Plural,44313,,,,gulf1241,holes-1990
+maːlkum,,2pl_p,2nd Person Plural,44312,,,,gulf1241,holes-1990
+huwa,,3sg_m_a,3rd Person Singular Masculine,44311,,,,gulf1241,holes-1990
+huwa,,3sg_m_s,3rd Person Singular Masculine,44310,,,,gulf1241,holes-1990
+-ah,,3sg_m_o,3rd Person Singular Masculine,44309,,,,gulf1241,holes-1990
+maːlah,,3sg_m_p,3rd Person Singular Masculine,44308,,,,gulf1241,holes-1990
+hija,,3sg_n_a,3rd Person Singular Neuter,44307,,,,gulf1241,holes-1990
+hija,,3sg_n_s,3rd Person Singular Neuter,44306,,,,gulf1241,holes-1990
+-ha,,3sg_n_o,3rd Person Singular Neuter,44305,,,,gulf1241,holes-1990
+maːlha,,3sg_n_p,3rd Person Singular Neuter,44304,,,,gulf1241,holes-1990
+hum,,3d-a,3rd Person Dual,44303,,,,gulf1241,holes-1990
+hum,,3d-s,3rd Person Dual,44302,,,,gulf1241,holes-1990
+-hum,,3d-o,3rd Person Dual,44301,,,,gulf1241,holes-1990
+maːlhum,,3d-p,3rd Person Dual,44300,,,,gulf1241,holes-1990
+hum,,3p-a,3rd Person Plural,44299,,,,gulf1241,holes-1990
+hum,,3p-s,3rd Person Plural,44298,,,,gulf1241,holes-1990
+-hum,,3p-o,3rd Person Plural,44297,,,,gulf1241,holes-1990
+maːlhum,,3p-p,3rd Person Plural,44296,,,,gulf1241,holes-1990

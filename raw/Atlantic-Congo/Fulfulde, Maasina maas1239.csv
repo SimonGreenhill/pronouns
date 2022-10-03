@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mi;;1sg_a;1st (excl) Person Singular;57632;;;;maas1239;breedveld-1995
-mi;;1sg_s;1st (excl) Person Singular;57631;;;;maas1239;breedveld-1995
-kam;;1sg_o;1st (excl) Person Singular;57630;;;;maas1239;breedveld-1995
-ʔam;;1sg_p;1st (excl) Person Singular;57629;;;;maas1239;breedveld-1995
-min;;1du_a;1st (excl) Person Dual;57628;;;;maas1239;breedveld-1995
-min;;1du_s;1st (excl) Person Dual;57627;;;;maas1239;breedveld-1995
-min;;1du_o;1st (excl) Person Dual;57626;;;;maas1239;breedveld-1995
-ʔamɛn, ʔamin;;1du_p;1st (excl) Person Dual;57625;;;;maas1239;breedveld-1995
-min;;1pl_a;1st (excl) Person Plural;57624;;;;maas1239;breedveld-1995
-min;;1pl_s;1st (excl) Person Plural;57623;;;;maas1239;breedveld-1995
-min;;1pl_o;1st (excl) Person Plural;57622;;;;maas1239;breedveld-1995
-ʔamɛn, ʔamin;;1pl_p;1st (excl) Person Plural;57621;;;;maas1239;breedveld-1995
-ʔɛn;;12du_a;1st (incl) Person Dual;57620;;;;maas1239;breedveld-1995
-ʔɛn;;12du_s;1st (incl) Person Dual;57619;;;;maas1239;breedveld-1995
-ʔɛn;;12du_o;1st (incl) Person Dual;57618;;;;maas1239;breedveld-1995
-mɛn;;12du_p;1st (incl) Person Dual;57617;;;;maas1239;breedveld-1995
-ʔɛn;;12pl_a;1st (incl) Person Plural;57616;;;;maas1239;breedveld-1995
-ʔɛn;;12pl_s;1st (incl) Person Plural;57615;;;;maas1239;breedveld-1995
-ʔɛn;;12pl_o;1st (incl) Person Plural;57614;;;;maas1239;breedveld-1995
-mɛn;;12pl_p;1st (incl) Person Plural;57613;;;;maas1239;breedveld-1995
-ʔa;;2sg_a;2nd Person Singular;57612;;;;maas1239;breedveld-1995
-ʔa;;2sg_s;2nd Person Singular;57611;;;;maas1239;breedveld-1995
-maa;;2sg_o;2nd Person Singular;57610;;;;maas1239;breedveld-1995
-maa;;2sg_p;2nd Person Singular;57609;;;;maas1239;breedveld-1995
-ʔɔn;;2du_a;2nd Person Dual;57608;;;;maas1239;breedveld-1995
-ʔɔn;;2du_s;2nd Person Dual;57607;;;;maas1239;breedveld-1995
-ʔɔn;;2du_o;2nd Person Dual;57606;;;;maas1239;breedveld-1995
-mɔn;;2du_p;2nd Person Dual;57605;;;;maas1239;breedveld-1995
-ʔɔn;;2pl_a;2nd Person Plural;57604;;;;maas1239;breedveld-1995
-ʔɔn;;2pl_s;2nd Person Plural;57603;;;;maas1239;breedveld-1995
-ʔɔn;;2pl_o;2nd Person Plural;57602;;;;maas1239;breedveld-1995
-mɔn;;2pl_p;2nd Person Plural;57601;;;;maas1239;breedveld-1995
-mɔ;;3sg_m_a;3rd Person Singular Masculine;57600;;;;maas1239;breedveld-1995
-mɔ;;3sg_m_s;3rd Person Singular Masculine;57599;;;;maas1239;breedveld-1995
-mɔ;;3sg_m_o;3rd Person Singular Masculine;57598;;;;maas1239;breedveld-1995
-mɔ;;3sg_m_p;3rd Person Singular Masculine;57597;;;;maas1239;breedveld-1995
-ŋgel;;3sg_n_a;3rd Person Singular Neuter;57596;;;;maas1239;breedveld-1995
-ŋgel;;3sg_n_s;3rd Person Singular Neuter;57595;;;;maas1239;breedveld-1995
-ŋgel;;3sg_n_o;3rd Person Singular Neuter;57594;;;;maas1239;breedveld-1995
-ŋgel;;3sg_n_p;3rd Person Singular Neuter;57593;;;;maas1239;breedveld-1995
-ɓɛ;;3d-a;3rd Person Dual;57592;;;;maas1239;breedveld-1995
-ɓɛ;;3d-s;3rd Person Dual;57591;;;;maas1239;breedveld-1995
-ɓɛ;;3d-o;3rd Person Dual;57590;;;;maas1239;breedveld-1995
-ɓɛ;;3d-p;3rd Person Dual;57589;;;;maas1239;breedveld-1995
-ɓɛ;;3p-a;3rd Person Plural;57588;;;;maas1239;breedveld-1995
-ɓɛ;;3p-s;3rd Person Plural;57587;;;;maas1239;breedveld-1995
-ɓɛ;;3p-o;3rd Person Plural;57586;;;;maas1239;breedveld-1995
-ɓɛ;;3p-p;3rd Person Plural;57585;;;;maas1239;breedveld-1995
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mi,,1sg_a,1st (excl) Person Singular,57632,,,,maas1239,breedveld-1995
+mi,,1sg_s,1st (excl) Person Singular,57631,,,,maas1239,breedveld-1995
+kam,,1sg_o,1st (excl) Person Singular,57630,,,,maas1239,breedveld-1995
+ʔam,,1sg_p,1st (excl) Person Singular,57629,,,,maas1239,breedveld-1995
+min,,1du_a,1st (excl) Person Dual,57628,,,,maas1239,breedveld-1995
+min,,1du_s,1st (excl) Person Dual,57627,,,,maas1239,breedveld-1995
+min,,1du_o,1st (excl) Person Dual,57626,,,,maas1239,breedveld-1995
+"ʔamɛn, ʔamin",,1du_p,1st (excl) Person Dual,57625,,,,maas1239,breedveld-1995
+min,,1pl_a,1st (excl) Person Plural,57624,,,,maas1239,breedveld-1995
+min,,1pl_s,1st (excl) Person Plural,57623,,,,maas1239,breedveld-1995
+min,,1pl_o,1st (excl) Person Plural,57622,,,,maas1239,breedveld-1995
+"ʔamɛn, ʔamin",,1pl_p,1st (excl) Person Plural,57621,,,,maas1239,breedveld-1995
+ʔɛn,,12du_a,1st (incl) Person Dual,57620,,,,maas1239,breedveld-1995
+ʔɛn,,12du_s,1st (incl) Person Dual,57619,,,,maas1239,breedveld-1995
+ʔɛn,,12du_o,1st (incl) Person Dual,57618,,,,maas1239,breedveld-1995
+mɛn,,12du_p,1st (incl) Person Dual,57617,,,,maas1239,breedveld-1995
+ʔɛn,,12pl_a,1st (incl) Person Plural,57616,,,,maas1239,breedveld-1995
+ʔɛn,,12pl_s,1st (incl) Person Plural,57615,,,,maas1239,breedveld-1995
+ʔɛn,,12pl_o,1st (incl) Person Plural,57614,,,,maas1239,breedveld-1995
+mɛn,,12pl_p,1st (incl) Person Plural,57613,,,,maas1239,breedveld-1995
+ʔa,,2sg_a,2nd Person Singular,57612,,,,maas1239,breedveld-1995
+ʔa,,2sg_s,2nd Person Singular,57611,,,,maas1239,breedveld-1995
+maa,,2sg_o,2nd Person Singular,57610,,,,maas1239,breedveld-1995
+maa,,2sg_p,2nd Person Singular,57609,,,,maas1239,breedveld-1995
+ʔɔn,,2du_a,2nd Person Dual,57608,,,,maas1239,breedveld-1995
+ʔɔn,,2du_s,2nd Person Dual,57607,,,,maas1239,breedveld-1995
+ʔɔn,,2du_o,2nd Person Dual,57606,,,,maas1239,breedveld-1995
+mɔn,,2du_p,2nd Person Dual,57605,,,,maas1239,breedveld-1995
+ʔɔn,,2pl_a,2nd Person Plural,57604,,,,maas1239,breedveld-1995
+ʔɔn,,2pl_s,2nd Person Plural,57603,,,,maas1239,breedveld-1995
+ʔɔn,,2pl_o,2nd Person Plural,57602,,,,maas1239,breedveld-1995
+mɔn,,2pl_p,2nd Person Plural,57601,,,,maas1239,breedveld-1995
+mɔ,,3sg_m_a,3rd Person Singular Masculine,57600,,,,maas1239,breedveld-1995
+mɔ,,3sg_m_s,3rd Person Singular Masculine,57599,,,,maas1239,breedveld-1995
+mɔ,,3sg_m_o,3rd Person Singular Masculine,57598,,,,maas1239,breedveld-1995
+mɔ,,3sg_m_p,3rd Person Singular Masculine,57597,,,,maas1239,breedveld-1995
+ŋgel,,3sg_n_a,3rd Person Singular Neuter,57596,,,,maas1239,breedveld-1995
+ŋgel,,3sg_n_s,3rd Person Singular Neuter,57595,,,,maas1239,breedveld-1995
+ŋgel,,3sg_n_o,3rd Person Singular Neuter,57594,,,,maas1239,breedveld-1995
+ŋgel,,3sg_n_p,3rd Person Singular Neuter,57593,,,,maas1239,breedveld-1995
+ɓɛ,,3d-a,3rd Person Dual,57592,,,,maas1239,breedveld-1995
+ɓɛ,,3d-s,3rd Person Dual,57591,,,,maas1239,breedveld-1995
+ɓɛ,,3d-o,3rd Person Dual,57590,,,,maas1239,breedveld-1995
+ɓɛ,,3d-p,3rd Person Dual,57589,,,,maas1239,breedveld-1995
+ɓɛ,,3p-a,3rd Person Plural,57588,,,,maas1239,breedveld-1995
+ɓɛ,,3p-s,3rd Person Plural,57587,,,,maas1239,breedveld-1995
+ɓɛ,,3p-o,3rd Person Plural,57586,,,,maas1239,breedveld-1995
+ɓɛ,,3p-p,3rd Person Plural,57585,,,,maas1239,breedveld-1995

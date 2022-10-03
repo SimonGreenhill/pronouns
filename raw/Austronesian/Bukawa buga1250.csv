@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-aø;;1sg_a;1st (excl) Person Singular;61783;;;;buga1250;eckermann-2007
-aø;;1sg_s;1st (excl) Person Singular;61782;;;;buga1250;eckermann-2007
-aø;;1sg_o;1st (excl) Person Singular;61781;;;;buga1250;eckermann-2007
-aø neŋ, aneŋ;;1sg_p;1st (excl) Person Singular;61780;;;;buga1250;eckermann-2007
-alu;;1du_a;1st (excl) Person Dual;61779;;;;buga1250;eckermann-2007
-alu;;1du_s;1st (excl) Person Dual;61778;;;;buga1250;eckermann-2007
-alu;;1du_o;1st (excl) Person Dual;61777;;;;buga1250;eckermann-2007
-alu mba;;1du_p;1st (excl) Person Dual;61776;;;;buga1250;eckermann-2007
-jaʔ;;1pl_a;1st (excl) Person Plural;61775;;;;buga1250;eckermann-2007
-jaʔ;;1pl_s;1st (excl) Person Plural;61774;;;;buga1250;eckermann-2007
-jaʔ;;1pl_o;1st (excl) Person Plural;61773;;;;buga1250;eckermann-2007
-jaʔ mba;;1pl_p;1st (excl) Person Plural;61772;;;;buga1250;eckermann-2007
-hɪʔlu, jɪʔlu;;12du_a;1st (incl) Person Dual;61771;;;;buga1250;eckermann-2007
-hɪʔlu, jɪʔlu;;12du_s;1st (incl) Person Dual;61770;;;;buga1250;eckermann-2007
-hɪʔlu, jɪʔlu;;12du_o;1st (incl) Person Dual;61769;;;;buga1250;eckermann-2007
-hɪʔlu neŋ;;12du_p;1st (incl) Person Dual;61768;;;;buga1250;eckermann-2007
-jaʔ;;12pl_a;1st (incl) Person Plural;61767;;;;buga1250;eckermann-2007
-jaʔ;;12pl_s;1st (incl) Person Plural;61766;;;;buga1250;eckermann-2007
-jaʔ;;12pl_o;1st (incl) Person Plural;61765;;;;buga1250;eckermann-2007
-jaʔ neŋ;;12pl_p;1st (incl) Person Plural;61764;;;;buga1250;eckermann-2007
-am;;2sg_a;2nd Person Singular;61763;;;;buga1250;eckermann-2007
-am;;2sg_s;2nd Person Singular;61762;;;;buga1250;eckermann-2007
-am;;2sg_o;2nd Person Singular;61761;;;;buga1250;eckermann-2007
-am nem;;2sg_p;2nd Person Singular;61760;;;;buga1250;eckermann-2007
-amlu;;2du_a;2nd Person Dual;61759;;;;buga1250;eckermann-2007
-amlu;;2du_s;2nd Person Dual;61758;;;;buga1250;eckermann-2007
-amlu;;2du_o;2nd Person Dual;61757;;;;buga1250;eckermann-2007
-amlu nem;;2du_p;2nd Person Dual;61756;;;;buga1250;eckermann-2007
-maʔ;;2pl_a;2nd Person Plural;61755;;;;buga1250;eckermann-2007
-maʔ;;2pl_s;2nd Person Plural;61754;;;;buga1250;eckermann-2007
-maʔ;;2pl_o;2nd Person Plural;61753;;;;buga1250;eckermann-2007
-maʔ nem;;2pl_p;2nd Person Plural;61752;;;;buga1250;eckermann-2007
-iŋ;;3sg_m_a;3rd Person Singular Masculine;61751;;;;buga1250;eckermann-2007
-iŋ;;3sg_m_s;3rd Person Singular Masculine;61750;;;;buga1250;eckermann-2007
-iŋ;;3sg_m_o;3rd Person Singular Masculine;61749;;;;buga1250;eckermann-2007
-iŋ ndɪ;;3sg_m_p;3rd Person Singular Masculine;61748;;;;buga1250;eckermann-2007
-iŋ;;3sg_n_a;3rd Person Singular Neuter;61747;;;;buga1250;eckermann-2007
-iŋ;;3sg_n_s;3rd Person Singular Neuter;61746;;;;buga1250;eckermann-2007
-iŋ;;3sg_n_o;3rd Person Singular Neuter;61745;;;;buga1250;eckermann-2007
-iŋ ndɪ;;3sg_n_p;3rd Person Singular Neuter;61744;;;;buga1250;eckermann-2007
-iŋlu;;3d-a;3rd Person Dual;61743;;;;buga1250;eckermann-2007
-iŋlu;;3d-s;3rd Person Dual;61742;;;;buga1250;eckermann-2007
-iŋlu;;3d-o;3rd Person Dual;61741;;;;buga1250;eckermann-2007
-iŋlu si;;3d-p;3rd Person Dual;61740;;;;buga1250;eckermann-2007
-ŋaʔ;;3p-a;3rd Person Plural;61739;;;;buga1250;eckermann-2007
-ŋaʔ;;3p-s;3rd Person Plural;61738;;;;buga1250;eckermann-2007
-ŋaʔ;;3p-o;3rd Person Plural;61737;;;;buga1250;eckermann-2007
-ŋaʔ si;;3p-p;3rd Person Plural;61736;;;;buga1250;eckermann-2007
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+aø,,1sg_a,1st (excl) Person Singular,61783,,,,buga1250,eckermann-2007
+aø,,1sg_s,1st (excl) Person Singular,61782,,,,buga1250,eckermann-2007
+aø,,1sg_o,1st (excl) Person Singular,61781,,,,buga1250,eckermann-2007
+"aø neŋ, aneŋ",,1sg_p,1st (excl) Person Singular,61780,,,,buga1250,eckermann-2007
+alu,,1du_a,1st (excl) Person Dual,61779,,,,buga1250,eckermann-2007
+alu,,1du_s,1st (excl) Person Dual,61778,,,,buga1250,eckermann-2007
+alu,,1du_o,1st (excl) Person Dual,61777,,,,buga1250,eckermann-2007
+alu mba,,1du_p,1st (excl) Person Dual,61776,,,,buga1250,eckermann-2007
+jaʔ,,1pl_a,1st (excl) Person Plural,61775,,,,buga1250,eckermann-2007
+jaʔ,,1pl_s,1st (excl) Person Plural,61774,,,,buga1250,eckermann-2007
+jaʔ,,1pl_o,1st (excl) Person Plural,61773,,,,buga1250,eckermann-2007
+jaʔ mba,,1pl_p,1st (excl) Person Plural,61772,,,,buga1250,eckermann-2007
+"hɪʔlu, jɪʔlu",,12du_a,1st (incl) Person Dual,61771,,,,buga1250,eckermann-2007
+"hɪʔlu, jɪʔlu",,12du_s,1st (incl) Person Dual,61770,,,,buga1250,eckermann-2007
+"hɪʔlu, jɪʔlu",,12du_o,1st (incl) Person Dual,61769,,,,buga1250,eckermann-2007
+hɪʔlu neŋ,,12du_p,1st (incl) Person Dual,61768,,,,buga1250,eckermann-2007
+jaʔ,,12pl_a,1st (incl) Person Plural,61767,,,,buga1250,eckermann-2007
+jaʔ,,12pl_s,1st (incl) Person Plural,61766,,,,buga1250,eckermann-2007
+jaʔ,,12pl_o,1st (incl) Person Plural,61765,,,,buga1250,eckermann-2007
+jaʔ neŋ,,12pl_p,1st (incl) Person Plural,61764,,,,buga1250,eckermann-2007
+am,,2sg_a,2nd Person Singular,61763,,,,buga1250,eckermann-2007
+am,,2sg_s,2nd Person Singular,61762,,,,buga1250,eckermann-2007
+am,,2sg_o,2nd Person Singular,61761,,,,buga1250,eckermann-2007
+am nem,,2sg_p,2nd Person Singular,61760,,,,buga1250,eckermann-2007
+amlu,,2du_a,2nd Person Dual,61759,,,,buga1250,eckermann-2007
+amlu,,2du_s,2nd Person Dual,61758,,,,buga1250,eckermann-2007
+amlu,,2du_o,2nd Person Dual,61757,,,,buga1250,eckermann-2007
+amlu nem,,2du_p,2nd Person Dual,61756,,,,buga1250,eckermann-2007
+maʔ,,2pl_a,2nd Person Plural,61755,,,,buga1250,eckermann-2007
+maʔ,,2pl_s,2nd Person Plural,61754,,,,buga1250,eckermann-2007
+maʔ,,2pl_o,2nd Person Plural,61753,,,,buga1250,eckermann-2007
+maʔ nem,,2pl_p,2nd Person Plural,61752,,,,buga1250,eckermann-2007
+iŋ,,3sg_m_a,3rd Person Singular Masculine,61751,,,,buga1250,eckermann-2007
+iŋ,,3sg_m_s,3rd Person Singular Masculine,61750,,,,buga1250,eckermann-2007
+iŋ,,3sg_m_o,3rd Person Singular Masculine,61749,,,,buga1250,eckermann-2007
+iŋ ndɪ,,3sg_m_p,3rd Person Singular Masculine,61748,,,,buga1250,eckermann-2007
+iŋ,,3sg_n_a,3rd Person Singular Neuter,61747,,,,buga1250,eckermann-2007
+iŋ,,3sg_n_s,3rd Person Singular Neuter,61746,,,,buga1250,eckermann-2007
+iŋ,,3sg_n_o,3rd Person Singular Neuter,61745,,,,buga1250,eckermann-2007
+iŋ ndɪ,,3sg_n_p,3rd Person Singular Neuter,61744,,,,buga1250,eckermann-2007
+iŋlu,,3d-a,3rd Person Dual,61743,,,,buga1250,eckermann-2007
+iŋlu,,3d-s,3rd Person Dual,61742,,,,buga1250,eckermann-2007
+iŋlu,,3d-o,3rd Person Dual,61741,,,,buga1250,eckermann-2007
+iŋlu si,,3d-p,3rd Person Dual,61740,,,,buga1250,eckermann-2007
+ŋaʔ,,3p-a,3rd Person Plural,61739,,,,buga1250,eckermann-2007
+ŋaʔ,,3p-s,3rd Person Plural,61738,,,,buga1250,eckermann-2007
+ŋaʔ,,3p-o,3rd Person Plural,61737,,,,buga1250,eckermann-2007
+ŋaʔ si,,3p-p,3rd Person Plural,61736,,,,buga1250,eckermann-2007

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-taha;;1sg_a;1st (excl) Person Singular;54173;;;;guay1257;ortiz-1989
-taha;;1sg_s;1st (excl) Person Singular;54172;;;;guay1257;ortiz-1989
-taha;;1sg_o;1st (excl) Person Singular;54171;;;;guay1257;ortiz-1989
-ta-;;1sg_p;1st (excl) Person Singular;54170;;;;guay1257;ortiz-1989
-waha;;1du_a;1st (excl) Person Dual;54169;;;;guay1257;ortiz-1989
-waha;;1du_s;1st (excl) Person Dual;54168;;;;guay1257;ortiz-1989
-waha;;1du_o;1st (excl) Person Dual;54167;;;;guay1257;ortiz-1989
-wa-;;1du_p;1st (excl) Person Dual;54166;;;;guay1257;ortiz-1989
-waha;;1pl_a;1st (excl) Person Plural;54165;;;;guay1257;ortiz-1989
-waha;;1pl_s;1st (excl) Person Plural;54164;;;;guay1257;ortiz-1989
-waha;;1pl_o;1st (excl) Person Plural;54163;;;;guay1257;ortiz-1989
-wa-;;1pl_p;1st (excl) Person Plural;54162;;;;guay1257;ortiz-1989
-waha;;12du_a;1st (incl) Person Dual;54161;;;;guay1257;ortiz-1989
-waha;;12du_s;1st (incl) Person Dual;54160;;;;guay1257;ortiz-1989
-waha;;12du_o;1st (incl) Person Dual;54159;;;;guay1257;ortiz-1989
-wa-;;12du_p;1st (incl) Person Dual;54158;;;;guay1257;ortiz-1989
-waha;;12pl_a;1st (incl) Person Plural;54157;;;;guay1257;ortiz-1989
-waha;;12pl_s;1st (incl) Person Plural;54156;;;;guay1257;ortiz-1989
-waha;;12pl_o;1st (incl) Person Plural;54155;;;;guay1257;ortiz-1989
-wa-;;12pl_p;1st (incl) Person Plural;54154;;;;guay1257;ortiz-1989
-niha;;2sg_a;2nd Person Singular;54153;;;;guay1257;ortiz-1989
-niha;;2sg_s;2nd Person Singular;54152;;;;guay1257;ortiz-1989
-niha;;2sg_o;2nd Person Singular;54151;;;;guay1257;ortiz-1989
-ne-;;2sg_p;2nd Person Singular;54150;;;;guay1257;ortiz-1989
-niha;;2du_a;2nd Person Dual;54149;;;;guay1257;ortiz-1989
-niha;;2du_s;2nd Person Dual;54148;;;;guay1257;ortiz-1989
-niha;;2du_o;2nd Person Dual;54147;;;;guay1257;ortiz-1989
-ne-;;2du_p;2nd Person Dual;54146;;;;guay1257;ortiz-1989
-niha;;2pl_a;2nd Person Plural;54145;;;;guay1257;ortiz-1989
-niha;;2pl_s;2nd Person Plural;54144;;;;guay1257;ortiz-1989
-niha;;2pl_o;2nd Person Plural;54143;;;;guay1257;ortiz-1989
-ne-;;2pl_p;2nd Person Plural;54142;;;;guay1257;ortiz-1989
-piha;;3sg_m_a;3rd Person Singular Masculine;54141;;;;guay1257;ortiz-1989
-piha;;3sg_m_s;3rd Person Singular Masculine;54140;;;;guay1257;ortiz-1989
-piha;;3sg_m_o;3rd Person Singular Masculine;54139;;;;guay1257;ortiz-1989
-pa-;;3sg_m_p;3rd Person Singular Masculine;54138;;;;guay1257;ortiz-1989
-piha;;3sg_n_a;3rd Person Singular Neuter;54137;;;;guay1257;ortiz-1989
-piha;;3sg_n_s;3rd Person Singular Neuter;54136;;;;guay1257;ortiz-1989
-piha;;3sg_n_o;3rd Person Singular Neuter;54135;;;;guay1257;ortiz-1989
-pa-;;3sg_n_p;3rd Person Singular Neuter;54134;;;;guay1257;ortiz-1989
-piha;;3d-a;3rd Person Dual;54133;;;;guay1257;ortiz-1989
-piha;;3d-s;3rd Person Dual;54132;;;;guay1257;ortiz-1989
-piha;;3d-o;3rd Person Dual;54131;;;;guay1257;ortiz-1989
-pa-;;3d-p;3rd Person Dual;54130;;;;guay1257;ortiz-1989
-piha;;3p-a;3rd Person Plural;54129;;;;guay1257;ortiz-1989
-piha;;3p-s;3rd Person Plural;54128;;;;guay1257;ortiz-1989
-piha;;3p-o;3rd Person Plural;54127;;;;guay1257;ortiz-1989
-pa-;;3p-p;3rd Person Plural;54126;;;;guay1257;ortiz-1989
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+taha,,1sg_a,1st (excl) Person Singular,54173,,,,guay1257,ortiz-1989
+taha,,1sg_s,1st (excl) Person Singular,54172,,,,guay1257,ortiz-1989
+taha,,1sg_o,1st (excl) Person Singular,54171,,,,guay1257,ortiz-1989
+ta-,,1sg_p,1st (excl) Person Singular,54170,,,,guay1257,ortiz-1989
+waha,,1du_a,1st (excl) Person Dual,54169,,,,guay1257,ortiz-1989
+waha,,1du_s,1st (excl) Person Dual,54168,,,,guay1257,ortiz-1989
+waha,,1du_o,1st (excl) Person Dual,54167,,,,guay1257,ortiz-1989
+wa-,,1du_p,1st (excl) Person Dual,54166,,,,guay1257,ortiz-1989
+waha,,1pl_a,1st (excl) Person Plural,54165,,,,guay1257,ortiz-1989
+waha,,1pl_s,1st (excl) Person Plural,54164,,,,guay1257,ortiz-1989
+waha,,1pl_o,1st (excl) Person Plural,54163,,,,guay1257,ortiz-1989
+wa-,,1pl_p,1st (excl) Person Plural,54162,,,,guay1257,ortiz-1989
+waha,,12du_a,1st (incl) Person Dual,54161,,,,guay1257,ortiz-1989
+waha,,12du_s,1st (incl) Person Dual,54160,,,,guay1257,ortiz-1989
+waha,,12du_o,1st (incl) Person Dual,54159,,,,guay1257,ortiz-1989
+wa-,,12du_p,1st (incl) Person Dual,54158,,,,guay1257,ortiz-1989
+waha,,12pl_a,1st (incl) Person Plural,54157,,,,guay1257,ortiz-1989
+waha,,12pl_s,1st (incl) Person Plural,54156,,,,guay1257,ortiz-1989
+waha,,12pl_o,1st (incl) Person Plural,54155,,,,guay1257,ortiz-1989
+wa-,,12pl_p,1st (incl) Person Plural,54154,,,,guay1257,ortiz-1989
+niha,,2sg_a,2nd Person Singular,54153,,,,guay1257,ortiz-1989
+niha,,2sg_s,2nd Person Singular,54152,,,,guay1257,ortiz-1989
+niha,,2sg_o,2nd Person Singular,54151,,,,guay1257,ortiz-1989
+ne-,,2sg_p,2nd Person Singular,54150,,,,guay1257,ortiz-1989
+niha,,2du_a,2nd Person Dual,54149,,,,guay1257,ortiz-1989
+niha,,2du_s,2nd Person Dual,54148,,,,guay1257,ortiz-1989
+niha,,2du_o,2nd Person Dual,54147,,,,guay1257,ortiz-1989
+ne-,,2du_p,2nd Person Dual,54146,,,,guay1257,ortiz-1989
+niha,,2pl_a,2nd Person Plural,54145,,,,guay1257,ortiz-1989
+niha,,2pl_s,2nd Person Plural,54144,,,,guay1257,ortiz-1989
+niha,,2pl_o,2nd Person Plural,54143,,,,guay1257,ortiz-1989
+ne-,,2pl_p,2nd Person Plural,54142,,,,guay1257,ortiz-1989
+piha,,3sg_m_a,3rd Person Singular Masculine,54141,,,,guay1257,ortiz-1989
+piha,,3sg_m_s,3rd Person Singular Masculine,54140,,,,guay1257,ortiz-1989
+piha,,3sg_m_o,3rd Person Singular Masculine,54139,,,,guay1257,ortiz-1989
+pa-,,3sg_m_p,3rd Person Singular Masculine,54138,,,,guay1257,ortiz-1989
+piha,,3sg_n_a,3rd Person Singular Neuter,54137,,,,guay1257,ortiz-1989
+piha,,3sg_n_s,3rd Person Singular Neuter,54136,,,,guay1257,ortiz-1989
+piha,,3sg_n_o,3rd Person Singular Neuter,54135,,,,guay1257,ortiz-1989
+pa-,,3sg_n_p,3rd Person Singular Neuter,54134,,,,guay1257,ortiz-1989
+piha,,3d-a,3rd Person Dual,54133,,,,guay1257,ortiz-1989
+piha,,3d-s,3rd Person Dual,54132,,,,guay1257,ortiz-1989
+piha,,3d-o,3rd Person Dual,54131,,,,guay1257,ortiz-1989
+pa-,,3d-p,3rd Person Dual,54130,,,,guay1257,ortiz-1989
+piha,,3p-a,3rd Person Plural,54129,,,,guay1257,ortiz-1989
+piha,,3p-s,3rd Person Plural,54128,,,,guay1257,ortiz-1989
+piha,,3p-o,3rd Person Plural,54127,,,,guay1257,ortiz-1989
+pa-,,3p-p,3rd Person Plural,54126,,,,guay1257,ortiz-1989

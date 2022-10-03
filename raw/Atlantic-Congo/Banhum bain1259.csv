@@ -1,45 +1,45 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mem;;1sg_a;1st (excl) Person Singular;55434;;;;bain1259;wilson-2007
-mem;;1sg_s;1st (excl) Person Singular;55433;;;;bain1259;wilson-2007
-me;;1sg_o;1st (excl) Person Singular;55432;;;;bain1259;wilson-2007
-me;;1sg_p;1st (excl) Person Singular;55431;;;;bain1259;wilson-2007
-min;;1du_a;1st (excl) Person Dual;55430;;;;bain1259;wilson-2007
-min;;1du_s;1st (excl) Person Dual;55429;;;;bain1259;wilson-2007
-min;;1du_o;1st (excl) Person Dual;55428;;;;bain1259;wilson-2007
-min;;1du_p;1st (excl) Person Dual;55427;;;;bain1259;wilson-2007
-min;;1pl_a;1st (excl) Person Plural;55426;;;;bain1259;wilson-2007
-min;;1pl_s;1st (excl) Person Plural;55425;;;;bain1259;wilson-2007
-min;;1pl_o;1st (excl) Person Plural;55424;;;;bain1259;wilson-2007
-min;;1pl_p;1st (excl) Person Plural;55423;;;;bain1259;wilson-2007
-min, ndox;;12du_a;1st (incl) Person Dual;55422;;;;bain1259;wilson-2007
-min, ndox;;12du_s;1st (incl) Person Dual;55421;;;;bain1259;wilson-2007
-min, ndox;;12du_o;1st (incl) Person Dual;55420;;;;bain1259;wilson-2007
-min, ndox;;12du_p;1st (incl) Person Dual;55419;;;;bain1259;wilson-2007
-min, ndooŋ;;12pl_a;1st (incl) Person Plural;55418;;;;bain1259;wilson-2007
-min, ndooŋ;;12pl_s;1st (incl) Person Plural;55417;;;;bain1259;wilson-2007
-min, ndooŋ;;12pl_o;1st (incl) Person Plural;55416;;;;bain1259;wilson-2007
-min, ndooŋ;;12pl_p;1st (incl) Person Plural;55415;;;;bain1259;wilson-2007
-ifi;;2sg_a;2nd Person Singular;55414;;;;bain1259;wilson-2007
-ifi;;2sg_s;2nd Person Singular;55413;;;;bain1259;wilson-2007
-fi;;2sg_o;2nd Person Singular;55412;;;;bain1259;wilson-2007
-fi;;2sg_p;2nd Person Singular;55411;;;;bain1259;wilson-2007
-naantəŋ;;2du_a;2nd Person Dual;55410;;;;bain1259;wilson-2007
-naantəŋ;;2du_s;2nd Person Dual;55409;;;;bain1259;wilson-2007
-naantəŋ;;2du_o;2nd Person Dual;55408;;;;bain1259;wilson-2007
-naantəŋ;;2du_p;2nd Person Dual;55407;;;;bain1259;wilson-2007
-naantəŋ;;2pl_a;2nd Person Plural;55406;;;;bain1259;wilson-2007
-naantəŋ;;2pl_s;2nd Person Plural;55405;;;;bain1259;wilson-2007
-naantəŋ;;2pl_o;2nd Person Plural;55404;;;;bain1259;wilson-2007
-naantəŋ;;2pl_p;2nd Person Plural;55403;;;;bain1259;wilson-2007
-umor, mər;;3sg_m_a;3rd Person Singular Masculine;55402;;;;bain1259;wilson-2007
-umor, mər;;3sg_m_s;3rd Person Singular Masculine;55401;;;;bain1259;wilson-2007
-eem;;3sg_m_o;3rd Person Singular Masculine;55400;;;;bain1259;wilson-2007
-nəm;;3sg_m_p;3rd Person Singular Masculine;55399;;;;bain1259;wilson-2007
-neentəŋ, imerəŋ;;3d-a;3rd Person Dual;55398;;;;bain1259;wilson-2007
-neentəŋ, imerəŋ;;3d-s;3rd Person Dual;55397;;;;bain1259;wilson-2007
-eenəŋ;;3d-o;3rd Person Dual;55396;;;;bain1259;wilson-2007
-heentəŋ;;3d-p;3rd Person Dual;55395;;;;bain1259;wilson-2007
-neentəŋ, imerəŋ;;3p-a;3rd Person Plural;55394;;;;bain1259;wilson-2007
-neentəŋ, imerəŋ;;3p-s;3rd Person Plural;55393;;;;bain1259;wilson-2007
-eenəŋ;;3p-o;3rd Person Plural;55392;;;;bain1259;wilson-2007
-heentəŋ;;3p-p;3rd Person Plural;55391;;;;bain1259;wilson-2007
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mem,,1sg_a,1st (excl) Person Singular,55434,,,,bain1259,wilson-2007
+mem,,1sg_s,1st (excl) Person Singular,55433,,,,bain1259,wilson-2007
+me,,1sg_o,1st (excl) Person Singular,55432,,,,bain1259,wilson-2007
+me,,1sg_p,1st (excl) Person Singular,55431,,,,bain1259,wilson-2007
+min,,1du_a,1st (excl) Person Dual,55430,,,,bain1259,wilson-2007
+min,,1du_s,1st (excl) Person Dual,55429,,,,bain1259,wilson-2007
+min,,1du_o,1st (excl) Person Dual,55428,,,,bain1259,wilson-2007
+min,,1du_p,1st (excl) Person Dual,55427,,,,bain1259,wilson-2007
+min,,1pl_a,1st (excl) Person Plural,55426,,,,bain1259,wilson-2007
+min,,1pl_s,1st (excl) Person Plural,55425,,,,bain1259,wilson-2007
+min,,1pl_o,1st (excl) Person Plural,55424,,,,bain1259,wilson-2007
+min,,1pl_p,1st (excl) Person Plural,55423,,,,bain1259,wilson-2007
+"min, ndox",,12du_a,1st (incl) Person Dual,55422,,,,bain1259,wilson-2007
+"min, ndox",,12du_s,1st (incl) Person Dual,55421,,,,bain1259,wilson-2007
+"min, ndox",,12du_o,1st (incl) Person Dual,55420,,,,bain1259,wilson-2007
+"min, ndox",,12du_p,1st (incl) Person Dual,55419,,,,bain1259,wilson-2007
+"min, ndooŋ",,12pl_a,1st (incl) Person Plural,55418,,,,bain1259,wilson-2007
+"min, ndooŋ",,12pl_s,1st (incl) Person Plural,55417,,,,bain1259,wilson-2007
+"min, ndooŋ",,12pl_o,1st (incl) Person Plural,55416,,,,bain1259,wilson-2007
+"min, ndooŋ",,12pl_p,1st (incl) Person Plural,55415,,,,bain1259,wilson-2007
+ifi,,2sg_a,2nd Person Singular,55414,,,,bain1259,wilson-2007
+ifi,,2sg_s,2nd Person Singular,55413,,,,bain1259,wilson-2007
+fi,,2sg_o,2nd Person Singular,55412,,,,bain1259,wilson-2007
+fi,,2sg_p,2nd Person Singular,55411,,,,bain1259,wilson-2007
+naantəŋ,,2du_a,2nd Person Dual,55410,,,,bain1259,wilson-2007
+naantəŋ,,2du_s,2nd Person Dual,55409,,,,bain1259,wilson-2007
+naantəŋ,,2du_o,2nd Person Dual,55408,,,,bain1259,wilson-2007
+naantəŋ,,2du_p,2nd Person Dual,55407,,,,bain1259,wilson-2007
+naantəŋ,,2pl_a,2nd Person Plural,55406,,,,bain1259,wilson-2007
+naantəŋ,,2pl_s,2nd Person Plural,55405,,,,bain1259,wilson-2007
+naantəŋ,,2pl_o,2nd Person Plural,55404,,,,bain1259,wilson-2007
+naantəŋ,,2pl_p,2nd Person Plural,55403,,,,bain1259,wilson-2007
+"umor, mər",,3sg_m_a,3rd Person Singular Masculine,55402,,,,bain1259,wilson-2007
+"umor, mər",,3sg_m_s,3rd Person Singular Masculine,55401,,,,bain1259,wilson-2007
+eem,,3sg_m_o,3rd Person Singular Masculine,55400,,,,bain1259,wilson-2007
+nəm,,3sg_m_p,3rd Person Singular Masculine,55399,,,,bain1259,wilson-2007
+"neentəŋ, imerəŋ",,3d-a,3rd Person Dual,55398,,,,bain1259,wilson-2007
+"neentəŋ, imerəŋ",,3d-s,3rd Person Dual,55397,,,,bain1259,wilson-2007
+eenəŋ,,3d-o,3rd Person Dual,55396,,,,bain1259,wilson-2007
+heentəŋ,,3d-p,3rd Person Dual,55395,,,,bain1259,wilson-2007
+"neentəŋ, imerəŋ",,3p-a,3rd Person Plural,55394,,,,bain1259,wilson-2007
+"neentəŋ, imerəŋ",,3p-s,3rd Person Plural,55393,,,,bain1259,wilson-2007
+eenəŋ,,3p-o,3rd Person Plural,55392,,,,bain1259,wilson-2007
+heentəŋ,,3p-p,3rd Person Plural,55391,,,,bain1259,wilson-2007

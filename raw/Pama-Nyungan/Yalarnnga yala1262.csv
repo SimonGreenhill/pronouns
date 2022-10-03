@@ -1,76 +1,76 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ngathu;;1sg_a;1st (excl) Person Singular;25732;;;;yala1262;breen-and-blake-2007
-ngiya;;1sg_s;1st (excl) Person Singular;25733;;;;yala1262;breen-and-blake-2007
-ngiya;;1sg_o;1st (excl) Person Singular;25734;;;;yala1262;breen-and-blake-2007
-ŋatji(wu);;1sg_p;1st (excl) Person Singular;25735;;;;yala1262;breen-and-blake-2007
-ngarlu, ngalilu, ngalulu;;1du_a;1st (excl) Person Dual;25736;;;;yala1262;breen-and-blake-2007
-ngali;;1du_s;1st (excl) Person Dual;25737;;;;yala1262;breen-and-blake-2007
-ngali;;1du_o;1st (excl) Person Dual;25738;;;;yala1262;breen-and-blake-2007
-ngaliwu, ngaluwu;;1du_p;1st (excl) Person Dual;25739;;;;yala1262;breen-and-blake-2007
-ngawalu;;1pl_a;1st (excl) Person Plural;25740;;;;yala1262;breen-and-blake-2007
-ngawa;;1pl_s;1st (excl) Person Plural;25741;;;;yala1262;breen-and-blake-2007
-ngawa;;1pl_o;1st (excl) Person Plural;25742;;;;yala1262;breen-and-blake-2007
-ngawawu, ngawuwu;;1pl_p;1st (excl) Person Plural;25743;;;;yala1262;breen-and-blake-2007
-ngarlu;;12du_a;1st (incl) Person Dual;25744;;;;yala1262;breen-and-blake-2007
-ngali;;12du_s;1st (incl) Person Dual;25745;;;;yala1262;breen-and-blake-2007
-ngali;;12du_o;1st (incl) Person Dual;25746;;;;yala1262;breen-and-blake-2007
-ngaliwu, ngaluwu;;12du_p;1st (incl) Person Dual;25747;;;;yala1262;breen-and-blake-2007
-ngawalu;;12pl_a;1st (incl) Person Plural;25748;;;;yala1262;breen-and-blake-2007
-ngawa;;12pl_s;1st (incl) Person Plural;25749;;;;yala1262;breen-and-blake-2007
-ngawa;;12pl_o;1st (incl) Person Plural;25750;;;;yala1262;breen-and-blake-2007
-ngawawu, ngawuwu;;12pl_p;1st (incl) Person Plural;25751;;;;yala1262;breen-and-blake-2007
-nhurlu;;2sg_a;2nd Person Singular;25752;;;;yala1262;breen-and-blake-2007
-nhawa;;2sg_s;2nd Person Singular;25753;;;;yala1262;breen-and-blake-2007
-nhawa;;2sg_o;2nd Person Singular;25754;;;;yala1262;breen-and-blake-2007
-nhuwunguta;;2sg_p;2nd Person Singular;25755;;;;yala1262;breen-and-blake-2007
-nhumpalalu;;2du_a;2nd Person Dual;25756;;;;yala1262;breen-and-blake-2007
-nhumpala;;2du_s;2nd Person Dual;25757;;;;yala1262;breen-and-blake-2007
-nhumpala;;2du_o;2nd Person Dual;25758;;;;yala1262;breen-and-blake-2007
-nhumpalawu;;2du_p;2nd Person Dual;25759;;;;yala1262;breen-and-blake-2007
-nhalalu;;2pl_a;2nd Person Plural;25760;;;;yala1262;breen-and-blake-2007
-nhala;;2pl_s;2nd Person Plural;25761;;;;yala1262;breen-and-blake-2007
-nhala;;2pl_o;2nd Person Plural;25762;;;;yala1262;breen-and-blake-2007
-nhalawu;;2pl_p;2nd Person Plural;25763;;;;yala1262;breen-and-blake-2007
-lartu;;3sg_m_a;3rd Person Singular Masculine;25764;;;;yala1262;breen-and-blake-2007
-laya;;3sg_m_s;3rd Person Singular Masculine;25765;;;;yala1262;breen-and-blake-2007
-laya;;3sg_m_o;3rd Person Singular Masculine;25766;;;;yala1262;breen-and-blake-2007
--yantja, -warra;;3sg_m_p;3rd Person Singular Masculine;25767;;;;yala1262;breen-and-blake-2007
-lartu;;3sg_f_a;3rd Person Singular Feminine;25768;;;;yala1262;breen-and-blake-2007
-laya;;3sg_f_s;3rd Person Singular Feminine;25769;;;;yala1262;breen-and-blake-2007
-laya;;3sg_f_o;3rd Person Singular Feminine;25770;;;;yala1262;breen-and-blake-2007
--yantja;;3sg_f_p;3rd Person Singular Feminine;25771;;;;yala1262;breen-and-blake-2007
-lartu;;3sg_n_a;3rd Person Singular Neuter;25772;;;;yala1262;breen-and-blake-2007
-laya;;3sg_n_s;3rd Person Singular Neuter;25773;;;;yala1262;breen-and-blake-2007
-laya;;3sg_n_o;3rd Person Singular Neuter;25774;;;;yala1262;breen-and-blake-2007
--yantja, -warra;;3sg_n_p;3rd Person Singular Neuter;25775;;;;yala1262;breen-and-blake-2007
-pulalu;;3du_m_a;3rd Person Dual Masculine;25776;;;;yala1262;breen-and-blake-2007
-pula;;3du_m_s;3rd Person Dual Masculine;25777;;;;yala1262;breen-and-blake-2007
-pula;;3du_m_o;3rd Person Dual Masculine;25778;;;;yala1262;breen-and-blake-2007
-pulaluŋu;;3du_m_p;3rd Person Dual Masculine;25779;;;;yala1262;breen-and-blake-2007
-pulalu;;3du_f_a;3rd Person Dual Feminine;25780;;;;yala1262;breen-and-blake-2007
-pula;;3du_f_s;3rd Person Dual Feminine;25781;;;;yala1262;breen-and-blake-2007
-pula;;3du_f_o;3rd Person Dual Feminine;25782;;;;yala1262;breen-and-blake-2007
-pulaluŋu;;3du_f_p;3rd Person Dual Feminine;25783;;;;yala1262;breen-and-blake-2007
-pulalu;;3du_n_a;3rd Person Dual Neuter;25784;;;;yala1262;breen-and-blake-2007
-pula;;3du_n_s;3rd Person Dual Neuter;25785;;;;yala1262;breen-and-blake-2007
-pula;;3du_n_o;3rd Person Dual Neuter;25786;;;;yala1262;breen-and-blake-2007
-pulaluŋu;;3du_n_p;3rd Person Dual Neuter;25787;;;;yala1262;breen-and-blake-2007
-thanalu;;3pl_m_a;3rd Person Plural Masculine;25788;;;;yala1262;breen-and-blake-2007
-thana;;3pl_m_s;3rd Person Plural Masculine;25789;;;;yala1262;breen-and-blake-2007
-thana;;3pl_m_o;3rd Person Plural Masculine;25790;;;;yala1262;breen-and-blake-2007
-thanaluŋu;;3pl_m_p;3rd Person Plural Masculine;25791;;;;yala1262;breen-and-blake-2007
-thanalu;;3pl_f_a;3rd Person Plural Feminine;25792;;;;yala1262;breen-and-blake-2007
-thana;;3pl_f_s;3rd Person Plural Feminine;25793;;;;yala1262;breen-and-blake-2007
-thana;;3pl_f_o;3rd Person Plural Feminine;25794;;;;yala1262;breen-and-blake-2007
-thanaluŋu;;3pl_f_p;3rd Person Plural Feminine;25795;;;;yala1262;breen-and-blake-2007
-thanalu;;3pl_n_a;3rd Person Plural Neuter;25796;;;;yala1262;breen-and-blake-2007
-thana;;3pl_n_s;3rd Person Plural Neuter;25797;;;;yala1262;breen-and-blake-2007
-thana;;3pl_n_o;3rd Person Plural Neuter;25798;;;;yala1262;breen-and-blake-2007
-thanaluŋu;;3pl_n_p;3rd Person Plural Neuter;25799;;;;yala1262;breen-and-blake-2007
-pulalu;;3d-a;3rd Person Dual;36373;;;;yala1262;breen-and-blake-2007
-pula;;3d-s;3rd Person Dual;36600;;;;yala1262;breen-and-blake-2007
-pula;;3d-o;3rd Person Dual;36825;;;;yala1262;breen-and-blake-2007
-thanalu;;3p-a;3rd Person Plural;37256;;;;yala1262;breen-and-blake-2007
-thana;;3p-s;3rd Person Plural;37482;;;;yala1262;breen-and-blake-2007
-thana;;3p-o;3rd Person Plural;37704;;;;yala1262;breen-and-blake-2007
-thanawu;;3p-p;3rd Person Plural;37913;;;;yala1262;breen-and-blake-2007
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ngathu,,1sg_a,1st (excl) Person Singular,25732,,,,yala1262,breen-and-blake-2007
+ngiya,,1sg_s,1st (excl) Person Singular,25733,,,,yala1262,breen-and-blake-2007
+ngiya,,1sg_o,1st (excl) Person Singular,25734,,,,yala1262,breen-and-blake-2007
+ŋatji(wu),,1sg_p,1st (excl) Person Singular,25735,,,,yala1262,breen-and-blake-2007
+"ngarlu, ngalilu, ngalulu",,1du_a,1st (excl) Person Dual,25736,,,,yala1262,breen-and-blake-2007
+ngali,,1du_s,1st (excl) Person Dual,25737,,,,yala1262,breen-and-blake-2007
+ngali,,1du_o,1st (excl) Person Dual,25738,,,,yala1262,breen-and-blake-2007
+"ngaliwu, ngaluwu",,1du_p,1st (excl) Person Dual,25739,,,,yala1262,breen-and-blake-2007
+ngawalu,,1pl_a,1st (excl) Person Plural,25740,,,,yala1262,breen-and-blake-2007
+ngawa,,1pl_s,1st (excl) Person Plural,25741,,,,yala1262,breen-and-blake-2007
+ngawa,,1pl_o,1st (excl) Person Plural,25742,,,,yala1262,breen-and-blake-2007
+"ngawawu, ngawuwu",,1pl_p,1st (excl) Person Plural,25743,,,,yala1262,breen-and-blake-2007
+ngarlu,,12du_a,1st (incl) Person Dual,25744,,,,yala1262,breen-and-blake-2007
+ngali,,12du_s,1st (incl) Person Dual,25745,,,,yala1262,breen-and-blake-2007
+ngali,,12du_o,1st (incl) Person Dual,25746,,,,yala1262,breen-and-blake-2007
+"ngaliwu, ngaluwu",,12du_p,1st (incl) Person Dual,25747,,,,yala1262,breen-and-blake-2007
+ngawalu,,12pl_a,1st (incl) Person Plural,25748,,,,yala1262,breen-and-blake-2007
+ngawa,,12pl_s,1st (incl) Person Plural,25749,,,,yala1262,breen-and-blake-2007
+ngawa,,12pl_o,1st (incl) Person Plural,25750,,,,yala1262,breen-and-blake-2007
+"ngawawu, ngawuwu",,12pl_p,1st (incl) Person Plural,25751,,,,yala1262,breen-and-blake-2007
+nhurlu,,2sg_a,2nd Person Singular,25752,,,,yala1262,breen-and-blake-2007
+nhawa,,2sg_s,2nd Person Singular,25753,,,,yala1262,breen-and-blake-2007
+nhawa,,2sg_o,2nd Person Singular,25754,,,,yala1262,breen-and-blake-2007
+nhuwunguta,,2sg_p,2nd Person Singular,25755,,,,yala1262,breen-and-blake-2007
+nhumpalalu,,2du_a,2nd Person Dual,25756,,,,yala1262,breen-and-blake-2007
+nhumpala,,2du_s,2nd Person Dual,25757,,,,yala1262,breen-and-blake-2007
+nhumpala,,2du_o,2nd Person Dual,25758,,,,yala1262,breen-and-blake-2007
+nhumpalawu,,2du_p,2nd Person Dual,25759,,,,yala1262,breen-and-blake-2007
+nhalalu,,2pl_a,2nd Person Plural,25760,,,,yala1262,breen-and-blake-2007
+nhala,,2pl_s,2nd Person Plural,25761,,,,yala1262,breen-and-blake-2007
+nhala,,2pl_o,2nd Person Plural,25762,,,,yala1262,breen-and-blake-2007
+nhalawu,,2pl_p,2nd Person Plural,25763,,,,yala1262,breen-and-blake-2007
+lartu,,3sg_m_a,3rd Person Singular Masculine,25764,,,,yala1262,breen-and-blake-2007
+laya,,3sg_m_s,3rd Person Singular Masculine,25765,,,,yala1262,breen-and-blake-2007
+laya,,3sg_m_o,3rd Person Singular Masculine,25766,,,,yala1262,breen-and-blake-2007
+"-yantja, -warra",,3sg_m_p,3rd Person Singular Masculine,25767,,,,yala1262,breen-and-blake-2007
+lartu,,3sg_f_a,3rd Person Singular Feminine,25768,,,,yala1262,breen-and-blake-2007
+laya,,3sg_f_s,3rd Person Singular Feminine,25769,,,,yala1262,breen-and-blake-2007
+laya,,3sg_f_o,3rd Person Singular Feminine,25770,,,,yala1262,breen-and-blake-2007
+-yantja,,3sg_f_p,3rd Person Singular Feminine,25771,,,,yala1262,breen-and-blake-2007
+lartu,,3sg_n_a,3rd Person Singular Neuter,25772,,,,yala1262,breen-and-blake-2007
+laya,,3sg_n_s,3rd Person Singular Neuter,25773,,,,yala1262,breen-and-blake-2007
+laya,,3sg_n_o,3rd Person Singular Neuter,25774,,,,yala1262,breen-and-blake-2007
+"-yantja, -warra",,3sg_n_p,3rd Person Singular Neuter,25775,,,,yala1262,breen-and-blake-2007
+pulalu,,3du_m_a,3rd Person Dual Masculine,25776,,,,yala1262,breen-and-blake-2007
+pula,,3du_m_s,3rd Person Dual Masculine,25777,,,,yala1262,breen-and-blake-2007
+pula,,3du_m_o,3rd Person Dual Masculine,25778,,,,yala1262,breen-and-blake-2007
+pulaluŋu,,3du_m_p,3rd Person Dual Masculine,25779,,,,yala1262,breen-and-blake-2007
+pulalu,,3du_f_a,3rd Person Dual Feminine,25780,,,,yala1262,breen-and-blake-2007
+pula,,3du_f_s,3rd Person Dual Feminine,25781,,,,yala1262,breen-and-blake-2007
+pula,,3du_f_o,3rd Person Dual Feminine,25782,,,,yala1262,breen-and-blake-2007
+pulaluŋu,,3du_f_p,3rd Person Dual Feminine,25783,,,,yala1262,breen-and-blake-2007
+pulalu,,3du_n_a,3rd Person Dual Neuter,25784,,,,yala1262,breen-and-blake-2007
+pula,,3du_n_s,3rd Person Dual Neuter,25785,,,,yala1262,breen-and-blake-2007
+pula,,3du_n_o,3rd Person Dual Neuter,25786,,,,yala1262,breen-and-blake-2007
+pulaluŋu,,3du_n_p,3rd Person Dual Neuter,25787,,,,yala1262,breen-and-blake-2007
+thanalu,,3pl_m_a,3rd Person Plural Masculine,25788,,,,yala1262,breen-and-blake-2007
+thana,,3pl_m_s,3rd Person Plural Masculine,25789,,,,yala1262,breen-and-blake-2007
+thana,,3pl_m_o,3rd Person Plural Masculine,25790,,,,yala1262,breen-and-blake-2007
+thanaluŋu,,3pl_m_p,3rd Person Plural Masculine,25791,,,,yala1262,breen-and-blake-2007
+thanalu,,3pl_f_a,3rd Person Plural Feminine,25792,,,,yala1262,breen-and-blake-2007
+thana,,3pl_f_s,3rd Person Plural Feminine,25793,,,,yala1262,breen-and-blake-2007
+thana,,3pl_f_o,3rd Person Plural Feminine,25794,,,,yala1262,breen-and-blake-2007
+thanaluŋu,,3pl_f_p,3rd Person Plural Feminine,25795,,,,yala1262,breen-and-blake-2007
+thanalu,,3pl_n_a,3rd Person Plural Neuter,25796,,,,yala1262,breen-and-blake-2007
+thana,,3pl_n_s,3rd Person Plural Neuter,25797,,,,yala1262,breen-and-blake-2007
+thana,,3pl_n_o,3rd Person Plural Neuter,25798,,,,yala1262,breen-and-blake-2007
+thanaluŋu,,3pl_n_p,3rd Person Plural Neuter,25799,,,,yala1262,breen-and-blake-2007
+pulalu,,3d-a,3rd Person Dual,36373,,,,yala1262,breen-and-blake-2007
+pula,,3d-s,3rd Person Dual,36600,,,,yala1262,breen-and-blake-2007
+pula,,3d-o,3rd Person Dual,36825,,,,yala1262,breen-and-blake-2007
+thanalu,,3p-a,3rd Person Plural,37256,,,,yala1262,breen-and-blake-2007
+thana,,3p-s,3rd Person Plural,37482,,,,yala1262,breen-and-blake-2007
+thana,,3p-o,3rd Person Plural,37704,,,,yala1262,breen-and-blake-2007
+thanawu,,3p-p,3rd Person Plural,37913,,,,yala1262,breen-and-blake-2007

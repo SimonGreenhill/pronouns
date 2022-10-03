@@ -1,77 +1,77 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-dagaea;;1sg_a;1st (excl) Person Singular;30923;;;;yaga1260;renck-1975
-dagaea;;1sg_s;1st (excl) Person Singular;30924;;;;yaga1260;renck-1975
-dagaea;;1sg_o;1st (excl) Person Singular;30925;;;;yaga1260;renck-1975
-dagae';;1sg_p;1st (excl) Person Singular;30926;;;;yaga1260;renck-1975
-la'agaea;;1du_a;1st (excl) Person Dual;30927;;;;yaga1260;renck-1975
-la'agaea;;1du_s;1st (excl) Person Dual;30928;;;;yaga1260;renck-1975
-la'agaea;;1du_o;1st (excl) Person Dual;30929;;;;yaga1260;renck-1975
-la'agae';;1du_p;1st (excl) Person Dual;30930;;;;yaga1260;renck-1975
-lagaea;;1pl_a;1st (excl) Person Plural;30931;;;;yaga1260;renck-1975
-lagaea;;1pl_s;1st (excl) Person Plural;30932;;;;yaga1260;renck-1975
-lagaea;;1pl_o;1st (excl) Person Plural;30933;;;;yaga1260;renck-1975
-lagae';;1pl_p;1st (excl) Person Plural;30934;;;;yaga1260;renck-1975
-la'agaea;;12du_a;1st (incl) Person Dual;30935;;;;yaga1260;renck-1975
-la'agaea;;12du_s;1st (incl) Person Dual;30936;;;;yaga1260;renck-1975
-la'agaea;;12du_o;1st (incl) Person Dual;30937;;;;yaga1260;renck-1975
-la'agae';;12du_p;1st (incl) Person Dual;30938;;;;yaga1260;renck-1975
-lagaea;;12pl_a;1st (incl) Person Plural;30939;;;;yaga1260;renck-1975
-lagaea;;12pl_s;1st (incl) Person Plural;30940;;;;yaga1260;renck-1975
-lagaea;;12pl_o;1st (incl) Person Plural;30941;;;;yaga1260;renck-1975
-lagae';;12pl_p;1st (incl) Person Plural;30942;;;;yaga1260;renck-1975
-gagaea;;2sg_a;2nd Person Singular;30943;;;;yaga1260;renck-1975
-gagaea;;2sg_s;2nd Person Singular;30944;;;;yaga1260;renck-1975
-gagaea;;2sg_o;2nd Person Singular;30945;;;;yaga1260;renck-1975
-gagae';;2sg_p;2nd Person Singular;30946;;;;yaga1260;renck-1975
-latagaea;;2du_a;2nd Person Dual;30947;;;;yaga1260;renck-1975
-latagaea;;2du_s;2nd Person Dual;30948;;;;yaga1260;renck-1975
-latagaea;;2du_o;2nd Person Dual;30949;;;;yaga1260;renck-1975
-latagae';;2du_p;2nd Person Dual;30950;;;;yaga1260;renck-1975
-lapagaea;;2pl_a;2nd Person Plural;30951;;;;yaga1260;renck-1975
-lapagaea;;2pl_s;2nd Person Plural;30952;;;;yaga1260;renck-1975
-lapagaea;;2pl_o;2nd Person Plural;30953;;;;yaga1260;renck-1975
-lapagae';;2pl_p;2nd Person Plural;30954;;;;yaga1260;renck-1975
-agaea;;3sg_m_a;3rd Person Singular Masculine;30955;;;;yaga1260;renck-1975
-agaea;;3sg_m_s;3rd Person Singular Masculine;30956;;;;yaga1260;renck-1975
-agaea;;3sg_m_o;3rd Person Singular Masculine;30957;;;;yaga1260;renck-1975
-agae';;3sg_m_p;3rd Person Singular Masculine;30958;;;;yaga1260;renck-1975
-agaea;;3sg_f_a;3rd Person Singular Feminine;30959;;;;yaga1260;renck-1975
-agaea;;3sg_f_s;3rd Person Singular Feminine;30960;;;;yaga1260;renck-1975
-agaea;;3sg_f_o;3rd Person Singular Feminine;30961;;;;yaga1260;renck-1975
-agae';;3sg_f_p;3rd Person Singular Feminine;30962;;;;yaga1260;renck-1975
-agaea;;3sg_n_a;3rd Person Singular Neuter;30963;;;;yaga1260;renck-1975
-agaea;;3sg_n_s;3rd Person Singular Neuter;30964;;;;yaga1260;renck-1975
-agaea;;3sg_n_o;3rd Person Singular Neuter;30965;;;;yaga1260;renck-1975
-agae';;3sg_n_p;3rd Person Singular Neuter;30966;;;;yaga1260;renck-1975
-tagaea;;3du_m_a;3rd Person Dual Masculine;30967;;;;yaga1260;renck-1975
-tagaea;;3du_m_s;3rd Person Dual Masculine;30968;;;;yaga1260;renck-1975
-tagaea;;3du_m_o;3rd Person Dual Masculine;30969;;;;yaga1260;renck-1975
-tagaea;;3du_m_p;3rd Person Dual Masculine;30970;;;;yaga1260;renck-1975
-tagaea;;3du_f_a;3rd Person Dual Feminine;30971;;;;yaga1260;renck-1975
-tagaea;;3du_f_s;3rd Person Dual Feminine;30972;;;;yaga1260;renck-1975
-tagaea;;3du_f_o;3rd Person Dual Feminine;30973;;;;yaga1260;renck-1975
-tagaea;;3du_f_p;3rd Person Dual Feminine;30974;;;;yaga1260;renck-1975
-tagaea;;3du_n_a;3rd Person Dual Neuter;30975;;;;yaga1260;renck-1975
-tagaea;;3du_n_s;3rd Person Dual Neuter;30976;;;;yaga1260;renck-1975
-tagaea;;3du_n_o;3rd Person Dual Neuter;30977;;;;yaga1260;renck-1975
-tagaea;;3du_n_p;3rd Person Dual Neuter;30978;;;;yaga1260;renck-1975
-pagaea;;3pl_m_a;3rd Person Plural Masculine;30979;;;;yaga1260;renck-1975
-pagaea;;3pl_m_s;3rd Person Plural Masculine;30980;;;;yaga1260;renck-1975
-pagaea;;3pl_m_o;3rd Person Plural Masculine;30981;;;;yaga1260;renck-1975
-tagaea;;3pl_m_p;3rd Person Plural Masculine;30982;;;;yaga1260;renck-1975
-pagaea;;3pl_f_a;3rd Person Plural Feminine;30983;;;;yaga1260;renck-1975
-pagaea;;3pl_f_s;3rd Person Plural Feminine;30984;;;;yaga1260;renck-1975
-pagaea;;3pl_f_o;3rd Person Plural Feminine;30985;;;;yaga1260;renck-1975
-tagaea;;3pl_f_p;3rd Person Plural Feminine;30986;;;;yaga1260;renck-1975
-pagaea;;3pl_n_a;3rd Person Plural Neuter;30987;;;;yaga1260;renck-1975
-pagaea;;3pl_n_s;3rd Person Plural Neuter;30988;;;;yaga1260;renck-1975
-pagaea;;3pl_n_o;3rd Person Plural Neuter;30989;;;;yaga1260;renck-1975
-tagaea;;3pl_n_p;3rd Person Plural Neuter;30990;;;;yaga1260;renck-1975
-tagaea;;3d-a;3rd Person Dual;36372;;;;yaga1260;renck-1975
-tagaea;;3d-s;3rd Person Dual;36599;;;;yaga1260;renck-1975
-tagaea;;3d-o;3rd Person Dual;36824;;;;yaga1260;renck-1975
-tagae';;3d-p;3rd Person Dual;37035;;;;yaga1260;renck-1975
-pagaea;;3p-a;3rd Person Plural;37255;;;;yaga1260;renck-1975
-pagaea;;3p-s;3rd Person Plural;37481;;;;yaga1260;renck-1975
-pagaea;;3p-o;3rd Person Plural;37703;;;;yaga1260;renck-1975
-pagae';;3p-p;3rd Person Plural;37912;;;;yaga1260;renck-1975
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+dagaea,,1sg_a,1st (excl) Person Singular,30923,,,,yaga1260,renck-1975
+dagaea,,1sg_s,1st (excl) Person Singular,30924,,,,yaga1260,renck-1975
+dagaea,,1sg_o,1st (excl) Person Singular,30925,,,,yaga1260,renck-1975
+dagae',,1sg_p,1st (excl) Person Singular,30926,,,,yaga1260,renck-1975
+la'agaea,,1du_a,1st (excl) Person Dual,30927,,,,yaga1260,renck-1975
+la'agaea,,1du_s,1st (excl) Person Dual,30928,,,,yaga1260,renck-1975
+la'agaea,,1du_o,1st (excl) Person Dual,30929,,,,yaga1260,renck-1975
+la'agae',,1du_p,1st (excl) Person Dual,30930,,,,yaga1260,renck-1975
+lagaea,,1pl_a,1st (excl) Person Plural,30931,,,,yaga1260,renck-1975
+lagaea,,1pl_s,1st (excl) Person Plural,30932,,,,yaga1260,renck-1975
+lagaea,,1pl_o,1st (excl) Person Plural,30933,,,,yaga1260,renck-1975
+lagae',,1pl_p,1st (excl) Person Plural,30934,,,,yaga1260,renck-1975
+la'agaea,,12du_a,1st (incl) Person Dual,30935,,,,yaga1260,renck-1975
+la'agaea,,12du_s,1st (incl) Person Dual,30936,,,,yaga1260,renck-1975
+la'agaea,,12du_o,1st (incl) Person Dual,30937,,,,yaga1260,renck-1975
+la'agae',,12du_p,1st (incl) Person Dual,30938,,,,yaga1260,renck-1975
+lagaea,,12pl_a,1st (incl) Person Plural,30939,,,,yaga1260,renck-1975
+lagaea,,12pl_s,1st (incl) Person Plural,30940,,,,yaga1260,renck-1975
+lagaea,,12pl_o,1st (incl) Person Plural,30941,,,,yaga1260,renck-1975
+lagae',,12pl_p,1st (incl) Person Plural,30942,,,,yaga1260,renck-1975
+gagaea,,2sg_a,2nd Person Singular,30943,,,,yaga1260,renck-1975
+gagaea,,2sg_s,2nd Person Singular,30944,,,,yaga1260,renck-1975
+gagaea,,2sg_o,2nd Person Singular,30945,,,,yaga1260,renck-1975
+gagae',,2sg_p,2nd Person Singular,30946,,,,yaga1260,renck-1975
+latagaea,,2du_a,2nd Person Dual,30947,,,,yaga1260,renck-1975
+latagaea,,2du_s,2nd Person Dual,30948,,,,yaga1260,renck-1975
+latagaea,,2du_o,2nd Person Dual,30949,,,,yaga1260,renck-1975
+latagae',,2du_p,2nd Person Dual,30950,,,,yaga1260,renck-1975
+lapagaea,,2pl_a,2nd Person Plural,30951,,,,yaga1260,renck-1975
+lapagaea,,2pl_s,2nd Person Plural,30952,,,,yaga1260,renck-1975
+lapagaea,,2pl_o,2nd Person Plural,30953,,,,yaga1260,renck-1975
+lapagae',,2pl_p,2nd Person Plural,30954,,,,yaga1260,renck-1975
+agaea,,3sg_m_a,3rd Person Singular Masculine,30955,,,,yaga1260,renck-1975
+agaea,,3sg_m_s,3rd Person Singular Masculine,30956,,,,yaga1260,renck-1975
+agaea,,3sg_m_o,3rd Person Singular Masculine,30957,,,,yaga1260,renck-1975
+agae',,3sg_m_p,3rd Person Singular Masculine,30958,,,,yaga1260,renck-1975
+agaea,,3sg_f_a,3rd Person Singular Feminine,30959,,,,yaga1260,renck-1975
+agaea,,3sg_f_s,3rd Person Singular Feminine,30960,,,,yaga1260,renck-1975
+agaea,,3sg_f_o,3rd Person Singular Feminine,30961,,,,yaga1260,renck-1975
+agae',,3sg_f_p,3rd Person Singular Feminine,30962,,,,yaga1260,renck-1975
+agaea,,3sg_n_a,3rd Person Singular Neuter,30963,,,,yaga1260,renck-1975
+agaea,,3sg_n_s,3rd Person Singular Neuter,30964,,,,yaga1260,renck-1975
+agaea,,3sg_n_o,3rd Person Singular Neuter,30965,,,,yaga1260,renck-1975
+agae',,3sg_n_p,3rd Person Singular Neuter,30966,,,,yaga1260,renck-1975
+tagaea,,3du_m_a,3rd Person Dual Masculine,30967,,,,yaga1260,renck-1975
+tagaea,,3du_m_s,3rd Person Dual Masculine,30968,,,,yaga1260,renck-1975
+tagaea,,3du_m_o,3rd Person Dual Masculine,30969,,,,yaga1260,renck-1975
+tagaea,,3du_m_p,3rd Person Dual Masculine,30970,,,,yaga1260,renck-1975
+tagaea,,3du_f_a,3rd Person Dual Feminine,30971,,,,yaga1260,renck-1975
+tagaea,,3du_f_s,3rd Person Dual Feminine,30972,,,,yaga1260,renck-1975
+tagaea,,3du_f_o,3rd Person Dual Feminine,30973,,,,yaga1260,renck-1975
+tagaea,,3du_f_p,3rd Person Dual Feminine,30974,,,,yaga1260,renck-1975
+tagaea,,3du_n_a,3rd Person Dual Neuter,30975,,,,yaga1260,renck-1975
+tagaea,,3du_n_s,3rd Person Dual Neuter,30976,,,,yaga1260,renck-1975
+tagaea,,3du_n_o,3rd Person Dual Neuter,30977,,,,yaga1260,renck-1975
+tagaea,,3du_n_p,3rd Person Dual Neuter,30978,,,,yaga1260,renck-1975
+pagaea,,3pl_m_a,3rd Person Plural Masculine,30979,,,,yaga1260,renck-1975
+pagaea,,3pl_m_s,3rd Person Plural Masculine,30980,,,,yaga1260,renck-1975
+pagaea,,3pl_m_o,3rd Person Plural Masculine,30981,,,,yaga1260,renck-1975
+tagaea,,3pl_m_p,3rd Person Plural Masculine,30982,,,,yaga1260,renck-1975
+pagaea,,3pl_f_a,3rd Person Plural Feminine,30983,,,,yaga1260,renck-1975
+pagaea,,3pl_f_s,3rd Person Plural Feminine,30984,,,,yaga1260,renck-1975
+pagaea,,3pl_f_o,3rd Person Plural Feminine,30985,,,,yaga1260,renck-1975
+tagaea,,3pl_f_p,3rd Person Plural Feminine,30986,,,,yaga1260,renck-1975
+pagaea,,3pl_n_a,3rd Person Plural Neuter,30987,,,,yaga1260,renck-1975
+pagaea,,3pl_n_s,3rd Person Plural Neuter,30988,,,,yaga1260,renck-1975
+pagaea,,3pl_n_o,3rd Person Plural Neuter,30989,,,,yaga1260,renck-1975
+tagaea,,3pl_n_p,3rd Person Plural Neuter,30990,,,,yaga1260,renck-1975
+tagaea,,3d-a,3rd Person Dual,36372,,,,yaga1260,renck-1975
+tagaea,,3d-s,3rd Person Dual,36599,,,,yaga1260,renck-1975
+tagaea,,3d-o,3rd Person Dual,36824,,,,yaga1260,renck-1975
+tagae',,3d-p,3rd Person Dual,37035,,,,yaga1260,renck-1975
+pagaea,,3p-a,3rd Person Plural,37255,,,,yaga1260,renck-1975
+pagaea,,3p-s,3rd Person Plural,37481,,,,yaga1260,renck-1975
+pagaea,,3p-o,3rd Person Plural,37703,,,,yaga1260,renck-1975
+pagae',,3p-p,3rd Person Plural,37912,,,,yaga1260,renck-1975

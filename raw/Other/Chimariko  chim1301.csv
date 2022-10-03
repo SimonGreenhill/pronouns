@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-noʔot;;1sg_a;1st (excl) Person Singular;44582;;;;chim1301;jany-2009
-noʔot;;1sg_s;1st (excl) Person Singular;44581;;;;chim1301;jany-2009
-noʔot;;1sg_o;1st (excl) Person Singular;44580;;;;chim1301;jany-2009
--ʔe;;1sg_p;1st (excl) Person Singular;44579;; The form '-ʔi' is also listed (Jany 2009:71).;;chim1301;jany-2009
-naʧʰitot;;1du_a;1st (excl) Person Dual;44578;;;;chim1301;jany-2009
-naʧʰitot;;1du_s;1st (excl) Person Dual;44577;;;;chim1301;jany-2009
-naʧʰitot;;1du_o;1st (excl) Person Dual;44576;;;;chim1301;jany-2009
--ʧʰe;;1du_p;1st (excl) Person Dual;44575;;;;chim1301;jany-2009
-naʧʰitot;;1pl_a;1st (excl) Person Plural;44574;;;;chim1301;jany-2009
-naʧʰitot;;1pl_s;1st (excl) Person Plural;44573;;;;chim1301;jany-2009
-naʧʰitot;;1pl_o;1st (excl) Person Plural;44572;;;;chim1301;jany-2009
--ʧʰe;;1pl_p;1st (excl) Person Plural;44571;;;;chim1301;jany-2009
-naʧʰitot;;12du_a;1st (incl) Person Dual;44570;;;;chim1301;jany-2009
-naʧʰitot;;12du_s;1st (incl) Person Dual;44569;;;;chim1301;jany-2009
-naʧʰitot;;12du_o;1st (incl) Person Dual;44568;;;;chim1301;jany-2009
--ʧʰe;;12du_p;1st (incl) Person Dual;44567;;;;chim1301;jany-2009
-naʧʰitot;;12pl_a;1st (incl) Person Plural;44566;;;;chim1301;jany-2009
-naʧʰitot;;12pl_s;1st (incl) Person Plural;44565;;;;chim1301;jany-2009
-naʧʰitot;;12pl_o;1st (incl) Person Plural;44564;;;;chim1301;jany-2009
--ʧʰe;;12pl_p;1st (incl) Person Plural;44563;;;;chim1301;jany-2009
-mamot;;2sg_a;2nd Person Singular;44562;;;;chim1301;jany-2009
-mamot;;2sg_s;2nd Person Singular;44561;;;;chim1301;jany-2009
-mamot;;2sg_o;2nd Person Singular;44560;;;;chim1301;jany-2009
--mi;;2sg_p;2nd Person Singular;44559;;;;chim1301;jany-2009
-mamqʰetot;;2du_a;2nd Person Dual;44558;;;;chim1301;jany-2009
-mamqʰetot;;2du_s;2nd Person Dual;44557;;;;chim1301;jany-2009
-mamqʰetot;;2du_o;2nd Person Dual;44556;;;;chim1301;jany-2009
--qʰ;;2du_p;2nd Person Dual;44555;;;;chim1301;jany-2009
-mamqʰetot;;2pl_a;2nd Person Plural;44554;;;;chim1301;jany-2009
-mamqʰetot;;2pl_s;2nd Person Plural;44553;;;;chim1301;jany-2009
-mamqʰetot;;2pl_o;2nd Person Plural;44552;;;;chim1301;jany-2009
--qʰ;;2pl_p;2nd Person Plural;44551;;;;chim1301;jany-2009
-pʰaʔmot;;3sg_m_a;3rd Person Singular Masculine;44550;;;;chim1301;jany-2009
-pʰaʔmot;;3sg_m_s;3rd Person Singular Masculine;44549;;;;chim1301;jany-2009
-pʰaʔmot;;3sg_m_o;3rd Person Singular Masculine;44548;;;;chim1301;jany-2009
--ita;;3sg_m_p;3rd Person Singular Masculine;44547;;The form '-je' is also listed (Jany 2009:71).;;chim1301;jany-2009
-pʰaʔmot;;3sg_n_a;3rd Person Singular Neuter;44546;;;;chim1301;jany-2009
-pʰɑʔmot ;;3sg_n_s;3rd Person Singular Neuter;44545;;;;chim1301;jany-2009
-pʰɑʔmot ;;3sg_n_o;3rd Person Singular Neuter;44544;;;;chim1301;jany-2009
--ita;;3sg_n_p;3rd Person Singular Neuter;44543;;The form '-je' is also listed (Jany 2009:71).;;chim1301;jany-2009
-pʰaʔmot;;3d-a;3rd Person Dual;44542;;;;chim1301;jany-2009
-pʰaʔmot;;3d-s;3rd Person Dual;44541;;;;chim1301;jany-2009
-pʰaʔmot;;3d-o;3rd Person Dual;44540;;;;chim1301;jany-2009
--ita;;3d-p;3rd Person Dual;44539;;;;chim1301;jany-2009
-pʰaʔmot;;3p-a;3rd Person Plural;44538;;;;chim1301;jany-2009
-pʰaʔmot;;3p-s;3rd Person Plural;44537;;;;chim1301;jany-2009
-pʰaʔmot;;3p-o;3rd Person Plural;44536;;;;chim1301;jany-2009
--ita;;3p-p;3rd Person Plural;44535;;;;chim1301;jany-2009
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+noʔot,,1sg_a,1st (excl) Person Singular,44582,,,,chim1301,jany-2009
+noʔot,,1sg_s,1st (excl) Person Singular,44581,,,,chim1301,jany-2009
+noʔot,,1sg_o,1st (excl) Person Singular,44580,,,,chim1301,jany-2009
+-ʔe,,1sg_p,1st (excl) Person Singular,44579,,The form '-ʔi' is also listed (Jany 2009:71).,,chim1301,jany-2009
+naʧʰitot,,1du_a,1st (excl) Person Dual,44578,,,,chim1301,jany-2009
+naʧʰitot,,1du_s,1st (excl) Person Dual,44577,,,,chim1301,jany-2009
+naʧʰitot,,1du_o,1st (excl) Person Dual,44576,,,,chim1301,jany-2009
+-ʧʰe,,1du_p,1st (excl) Person Dual,44575,,,,chim1301,jany-2009
+naʧʰitot,,1pl_a,1st (excl) Person Plural,44574,,,,chim1301,jany-2009
+naʧʰitot,,1pl_s,1st (excl) Person Plural,44573,,,,chim1301,jany-2009
+naʧʰitot,,1pl_o,1st (excl) Person Plural,44572,,,,chim1301,jany-2009
+-ʧʰe,,1pl_p,1st (excl) Person Plural,44571,,,,chim1301,jany-2009
+naʧʰitot,,12du_a,1st (incl) Person Dual,44570,,,,chim1301,jany-2009
+naʧʰitot,,12du_s,1st (incl) Person Dual,44569,,,,chim1301,jany-2009
+naʧʰitot,,12du_o,1st (incl) Person Dual,44568,,,,chim1301,jany-2009
+-ʧʰe,,12du_p,1st (incl) Person Dual,44567,,,,chim1301,jany-2009
+naʧʰitot,,12pl_a,1st (incl) Person Plural,44566,,,,chim1301,jany-2009
+naʧʰitot,,12pl_s,1st (incl) Person Plural,44565,,,,chim1301,jany-2009
+naʧʰitot,,12pl_o,1st (incl) Person Plural,44564,,,,chim1301,jany-2009
+-ʧʰe,,12pl_p,1st (incl) Person Plural,44563,,,,chim1301,jany-2009
+mamot,,2sg_a,2nd Person Singular,44562,,,,chim1301,jany-2009
+mamot,,2sg_s,2nd Person Singular,44561,,,,chim1301,jany-2009
+mamot,,2sg_o,2nd Person Singular,44560,,,,chim1301,jany-2009
+-mi,,2sg_p,2nd Person Singular,44559,,,,chim1301,jany-2009
+mamqʰetot,,2du_a,2nd Person Dual,44558,,,,chim1301,jany-2009
+mamqʰetot,,2du_s,2nd Person Dual,44557,,,,chim1301,jany-2009
+mamqʰetot,,2du_o,2nd Person Dual,44556,,,,chim1301,jany-2009
+-qʰ,,2du_p,2nd Person Dual,44555,,,,chim1301,jany-2009
+mamqʰetot,,2pl_a,2nd Person Plural,44554,,,,chim1301,jany-2009
+mamqʰetot,,2pl_s,2nd Person Plural,44553,,,,chim1301,jany-2009
+mamqʰetot,,2pl_o,2nd Person Plural,44552,,,,chim1301,jany-2009
+-qʰ,,2pl_p,2nd Person Plural,44551,,,,chim1301,jany-2009
+pʰaʔmot,,3sg_m_a,3rd Person Singular Masculine,44550,,,,chim1301,jany-2009
+pʰaʔmot,,3sg_m_s,3rd Person Singular Masculine,44549,,,,chim1301,jany-2009
+pʰaʔmot,,3sg_m_o,3rd Person Singular Masculine,44548,,,,chim1301,jany-2009
+-ita,,3sg_m_p,3rd Person Singular Masculine,44547,,The form '-je' is also listed (Jany 2009:71).,,chim1301,jany-2009
+pʰaʔmot,,3sg_n_a,3rd Person Singular Neuter,44546,,,,chim1301,jany-2009
+pʰɑʔmot,,3sg_n_s,3rd Person Singular Neuter,44545,,,,chim1301,jany-2009
+pʰɑʔmot,,3sg_n_o,3rd Person Singular Neuter,44544,,,,chim1301,jany-2009
+-ita,,3sg_n_p,3rd Person Singular Neuter,44543,,The form '-je' is also listed (Jany 2009:71).,,chim1301,jany-2009
+pʰaʔmot,,3d-a,3rd Person Dual,44542,,,,chim1301,jany-2009
+pʰaʔmot,,3d-s,3rd Person Dual,44541,,,,chim1301,jany-2009
+pʰaʔmot,,3d-o,3rd Person Dual,44540,,,,chim1301,jany-2009
+-ita,,3d-p,3rd Person Dual,44539,,,,chim1301,jany-2009
+pʰaʔmot,,3p-a,3rd Person Plural,44538,,,,chim1301,jany-2009
+pʰaʔmot,,3p-s,3rd Person Plural,44537,,,,chim1301,jany-2009
+pʰaʔmot,,3p-o,3rd Person Plural,44536,,,,chim1301,jany-2009
+-ita,,3p-p,3rd Person Plural,44535,,,,chim1301,jany-2009

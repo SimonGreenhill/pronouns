@@ -1,77 +1,77 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋane;;1sg_a;1st (excl) Person Singular;34320;;;;vano1237;francois-2010
-ŋane;;1sg_s;1st (excl) Person Singular;34321;;;;vano1237;francois-2010
-ŋane;;1sg_o;1st (excl) Person Singular;34322;;;;vano1237;francois-2010
-ŋane;;1sg_p;1st (excl) Person Singular;34323;;;;vano1237;francois-2010
-gema;;1du_a;1st (excl) Person Dual;34324;;;;vano1237;francois-2010
-gema;;1du_s;1st (excl) Person Dual;34325;;;;vano1237;francois-2010
-gema;;1du_o;1st (excl) Person Dual;34326;;;;vano1237;francois-2010
-gema;;1du_p;1st (excl) Person Dual;34327;;;;vano1237;francois-2010
-gamitu;;1pl_a;1st (excl) Person Plural;34328;;;;vano1237;francois-2010
-gamitu;;1pl_s;1st (excl) Person Plural;34329;;;;vano1237;francois-2010
-gamitu;;1pl_o;1st (excl) Person Plural;34330;;;;vano1237;francois-2010
-gamitu;;1pl_p;1st (excl) Person Plural;34331;;;;vano1237;francois-2010
-gita;;12du_a;1st (incl) Person Dual;34332;;;;vano1237;francois-2010
-gita;;12du_s;1st (incl) Person Dual;34333;;;;vano1237;francois-2010
-gita;;12du_o;1st (incl) Person Dual;34334;;;;vano1237;francois-2010
-gita;;12du_p;1st (incl) Person Dual;34335;;;;vano1237;francois-2010
-gitu;;12pl_a;1st (incl) Person Plural;34336;;;;vano1237;francois-2010
-gitu;;12pl_s;1st (incl) Person Plural;34337;;;;vano1237;francois-2010
-gitu;;12pl_o;1st (incl) Person Plural;34338;;;;vano1237;francois-2010
-gitu;;12pl_p;1st (incl) Person Plural;34339;;;;vano1237;francois-2010
-ago;;2sg_a;2nd Person Singular;34340;;;;vano1237;francois-2010
-ago;;2sg_s;2nd Person Singular;34341;;;;vano1237;francois-2010
-ago;;2sg_o;2nd Person Singular;34342;;;;vano1237;francois-2010
-ago;;2sg_p;2nd Person Singular;34343;;;;vano1237;francois-2010
-gamila;;2du_a;2nd Person Dual;34344;;;;vano1237;francois-2010
-gamila;;2du_s;2nd Person Dual;34345;;;;vano1237;francois-2010
-gamila;;2du_o;2nd Person Dual;34346;;;;vano1237;francois-2010
-gamila;;2du_p;2nd Person Dual;34347;;;;vano1237;francois-2010
-gaipa;;2pl_a;2nd Person Plural;34348;;;;vano1237;francois-2010
-gaipa;;2pl_s;2nd Person Plural;34349;;;;vano1237;francois-2010
-gaipa;;2pl_o;2nd Person Plural;34350;;;;vano1237;francois-2010
-gaipa;;2pl_p;2nd Person Plural;34351;;;;vano1237;francois-2010
-ŋani;;3sg_m_a;3rd Person Singular Masculine;34352;;;;vano1237;francois-2010
-ŋani;;3sg_m_s;3rd Person Singular Masculine;34353;;;;vano1237;francois-2010
-ŋani;;3sg_m_o;3rd Person Singular Masculine;34354;;;;vano1237;francois-2010
-ŋani;;3sg_m_p;3rd Person Singular Masculine;34355;;;;vano1237;francois-2010
-ŋani;;3sg_f_a;3rd Person Singular Feminine;34356;;;;vano1237;francois-2010
-ŋani;;3sg_f_s;3rd Person Singular Feminine;34357;;;;vano1237;francois-2010
-ŋani;;3sg_f_o;3rd Person Singular Feminine;34358;;;;vano1237;francois-2010
-ŋani;;3sg_f_p;3rd Person Singular Feminine;34359;;;;vano1237;francois-2010
-ŋani;;3sg_n_a;3rd Person Singular Neuter;34360;;;;vano1237;francois-2010
-ŋani;;3sg_n_s;3rd Person Singular Neuter;34361;;;;vano1237;francois-2010
-ŋani;;3sg_n_o;3rd Person Singular Neuter;34362;;;;vano1237;francois-2010
-ŋani;;3sg_n_p;3rd Person Singular Neuter;34363;;;;vano1237;francois-2010
-dea;;3du_m_a;3rd Person Dual Masculine;34364;;;;vano1237;francois-2010
-dea;;3du_m_s;3rd Person Dual Masculine;34365;;;;vano1237;francois-2010
-dea;;3du_m_o;3rd Person Dual Masculine;34366;;;;vano1237;francois-2010
-dea;;3du_m_p;3rd Person Dual Masculine;34367;;;;vano1237;francois-2010
-dea;;3du_f_a;3rd Person Dual Feminine;34368;;;;vano1237;francois-2010
-dea;;3du_f_s;3rd Person Dual Feminine;34369;;;;vano1237;francois-2010
-dea;;3du_f_o;3rd Person Dual Feminine;34370;;;;vano1237;francois-2010
-dea;;3du_f_p;3rd Person Dual Feminine;34371;;;;vano1237;francois-2010
-dea;;3du_n_a;3rd Person Dual Neuter;34372;;;;vano1237;francois-2010
-dea;;3du_n_s;3rd Person Dual Neuter;34373;;;;vano1237;francois-2010
-dea;;3du_n_o;3rd Person Dual Neuter;34374;;;;vano1237;francois-2010
-dea;;3du_n_p;3rd Person Dual Neuter;34375;;;;vano1237;francois-2010
-detu;;3pl_m_a;3rd Person Plural Masculine;34376;;;;vano1237;francois-2010
-detu;;3pl_m_s;3rd Person Plural Masculine;34377;;;;vano1237;francois-2010
-detu;;3pl_m_o;3rd Person Plural Masculine;34378;;;;vano1237;francois-2010
-detu;;3pl_m_p;3rd Person Plural Masculine;34379;;;;vano1237;francois-2010
-detu;;3pl_f_a;3rd Person Plural Feminine;34380;;;;vano1237;francois-2010
-detu;;3pl_f_s;3rd Person Plural Feminine;34381;;;;vano1237;francois-2010
-detu;;3pl_f_o;3rd Person Plural Feminine;34382;;;;vano1237;francois-2010
-detu;;3pl_f_p;3rd Person Plural Feminine;34383;;;;vano1237;francois-2010
-detu;;3pl_n_a;3rd Person Plural Neuter;34384;;;;vano1237;francois-2010
-detu;;3pl_n_s;3rd Person Plural Neuter;34385;;;;vano1237;francois-2010
-detu;;3pl_n_o;3rd Person Plural Neuter;34386;;;;vano1237;francois-2010
-detu;;3pl_n_p;3rd Person Plural Neuter;34387;;;;vano1237;francois-2010
-dea;;3d-a;3rd Person Dual;36391;;;;vano1237;francois-2010
-dea;;3d-s;3rd Person Dual;36618;;;;vano1237;francois-2010
-dea;;3d-o;3rd Person Dual;36844;;;;vano1237;francois-2010
-dea;;3d-p;3rd Person Dual;37058;;;;vano1237;francois-2010
-detu;;3p-a;3rd Person Plural;37272;;;;vano1237;francois-2010
-detu;;3p-s;3rd Person Plural;37498;;;;vano1237;francois-2010
-detu;;3p-o;3rd Person Plural;37722;;;;vano1237;francois-2010
-detu;;3p-p;3rd Person Plural;37936;;;;vano1237;francois-2010
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋane,,1sg_a,1st (excl) Person Singular,34320,,,,vano1237,francois-2010
+ŋane,,1sg_s,1st (excl) Person Singular,34321,,,,vano1237,francois-2010
+ŋane,,1sg_o,1st (excl) Person Singular,34322,,,,vano1237,francois-2010
+ŋane,,1sg_p,1st (excl) Person Singular,34323,,,,vano1237,francois-2010
+gema,,1du_a,1st (excl) Person Dual,34324,,,,vano1237,francois-2010
+gema,,1du_s,1st (excl) Person Dual,34325,,,,vano1237,francois-2010
+gema,,1du_o,1st (excl) Person Dual,34326,,,,vano1237,francois-2010
+gema,,1du_p,1st (excl) Person Dual,34327,,,,vano1237,francois-2010
+gamitu,,1pl_a,1st (excl) Person Plural,34328,,,,vano1237,francois-2010
+gamitu,,1pl_s,1st (excl) Person Plural,34329,,,,vano1237,francois-2010
+gamitu,,1pl_o,1st (excl) Person Plural,34330,,,,vano1237,francois-2010
+gamitu,,1pl_p,1st (excl) Person Plural,34331,,,,vano1237,francois-2010
+gita,,12du_a,1st (incl) Person Dual,34332,,,,vano1237,francois-2010
+gita,,12du_s,1st (incl) Person Dual,34333,,,,vano1237,francois-2010
+gita,,12du_o,1st (incl) Person Dual,34334,,,,vano1237,francois-2010
+gita,,12du_p,1st (incl) Person Dual,34335,,,,vano1237,francois-2010
+gitu,,12pl_a,1st (incl) Person Plural,34336,,,,vano1237,francois-2010
+gitu,,12pl_s,1st (incl) Person Plural,34337,,,,vano1237,francois-2010
+gitu,,12pl_o,1st (incl) Person Plural,34338,,,,vano1237,francois-2010
+gitu,,12pl_p,1st (incl) Person Plural,34339,,,,vano1237,francois-2010
+ago,,2sg_a,2nd Person Singular,34340,,,,vano1237,francois-2010
+ago,,2sg_s,2nd Person Singular,34341,,,,vano1237,francois-2010
+ago,,2sg_o,2nd Person Singular,34342,,,,vano1237,francois-2010
+ago,,2sg_p,2nd Person Singular,34343,,,,vano1237,francois-2010
+gamila,,2du_a,2nd Person Dual,34344,,,,vano1237,francois-2010
+gamila,,2du_s,2nd Person Dual,34345,,,,vano1237,francois-2010
+gamila,,2du_o,2nd Person Dual,34346,,,,vano1237,francois-2010
+gamila,,2du_p,2nd Person Dual,34347,,,,vano1237,francois-2010
+gaipa,,2pl_a,2nd Person Plural,34348,,,,vano1237,francois-2010
+gaipa,,2pl_s,2nd Person Plural,34349,,,,vano1237,francois-2010
+gaipa,,2pl_o,2nd Person Plural,34350,,,,vano1237,francois-2010
+gaipa,,2pl_p,2nd Person Plural,34351,,,,vano1237,francois-2010
+ŋani,,3sg_m_a,3rd Person Singular Masculine,34352,,,,vano1237,francois-2010
+ŋani,,3sg_m_s,3rd Person Singular Masculine,34353,,,,vano1237,francois-2010
+ŋani,,3sg_m_o,3rd Person Singular Masculine,34354,,,,vano1237,francois-2010
+ŋani,,3sg_m_p,3rd Person Singular Masculine,34355,,,,vano1237,francois-2010
+ŋani,,3sg_f_a,3rd Person Singular Feminine,34356,,,,vano1237,francois-2010
+ŋani,,3sg_f_s,3rd Person Singular Feminine,34357,,,,vano1237,francois-2010
+ŋani,,3sg_f_o,3rd Person Singular Feminine,34358,,,,vano1237,francois-2010
+ŋani,,3sg_f_p,3rd Person Singular Feminine,34359,,,,vano1237,francois-2010
+ŋani,,3sg_n_a,3rd Person Singular Neuter,34360,,,,vano1237,francois-2010
+ŋani,,3sg_n_s,3rd Person Singular Neuter,34361,,,,vano1237,francois-2010
+ŋani,,3sg_n_o,3rd Person Singular Neuter,34362,,,,vano1237,francois-2010
+ŋani,,3sg_n_p,3rd Person Singular Neuter,34363,,,,vano1237,francois-2010
+dea,,3du_m_a,3rd Person Dual Masculine,34364,,,,vano1237,francois-2010
+dea,,3du_m_s,3rd Person Dual Masculine,34365,,,,vano1237,francois-2010
+dea,,3du_m_o,3rd Person Dual Masculine,34366,,,,vano1237,francois-2010
+dea,,3du_m_p,3rd Person Dual Masculine,34367,,,,vano1237,francois-2010
+dea,,3du_f_a,3rd Person Dual Feminine,34368,,,,vano1237,francois-2010
+dea,,3du_f_s,3rd Person Dual Feminine,34369,,,,vano1237,francois-2010
+dea,,3du_f_o,3rd Person Dual Feminine,34370,,,,vano1237,francois-2010
+dea,,3du_f_p,3rd Person Dual Feminine,34371,,,,vano1237,francois-2010
+dea,,3du_n_a,3rd Person Dual Neuter,34372,,,,vano1237,francois-2010
+dea,,3du_n_s,3rd Person Dual Neuter,34373,,,,vano1237,francois-2010
+dea,,3du_n_o,3rd Person Dual Neuter,34374,,,,vano1237,francois-2010
+dea,,3du_n_p,3rd Person Dual Neuter,34375,,,,vano1237,francois-2010
+detu,,3pl_m_a,3rd Person Plural Masculine,34376,,,,vano1237,francois-2010
+detu,,3pl_m_s,3rd Person Plural Masculine,34377,,,,vano1237,francois-2010
+detu,,3pl_m_o,3rd Person Plural Masculine,34378,,,,vano1237,francois-2010
+detu,,3pl_m_p,3rd Person Plural Masculine,34379,,,,vano1237,francois-2010
+detu,,3pl_f_a,3rd Person Plural Feminine,34380,,,,vano1237,francois-2010
+detu,,3pl_f_s,3rd Person Plural Feminine,34381,,,,vano1237,francois-2010
+detu,,3pl_f_o,3rd Person Plural Feminine,34382,,,,vano1237,francois-2010
+detu,,3pl_f_p,3rd Person Plural Feminine,34383,,,,vano1237,francois-2010
+detu,,3pl_n_a,3rd Person Plural Neuter,34384,,,,vano1237,francois-2010
+detu,,3pl_n_s,3rd Person Plural Neuter,34385,,,,vano1237,francois-2010
+detu,,3pl_n_o,3rd Person Plural Neuter,34386,,,,vano1237,francois-2010
+detu,,3pl_n_p,3rd Person Plural Neuter,34387,,,,vano1237,francois-2010
+dea,,3d-a,3rd Person Dual,36391,,,,vano1237,francois-2010
+dea,,3d-s,3rd Person Dual,36618,,,,vano1237,francois-2010
+dea,,3d-o,3rd Person Dual,36844,,,,vano1237,francois-2010
+dea,,3d-p,3rd Person Dual,37058,,,,vano1237,francois-2010
+detu,,3p-a,3rd Person Plural,37272,,,,vano1237,francois-2010
+detu,,3p-s,3rd Person Plural,37498,,,,vano1237,francois-2010
+detu,,3p-o,3rd Person Plural,37722,,,,vano1237,francois-2010
+detu,,3p-p,3rd Person Plural,37936,,,,vano1237,francois-2010

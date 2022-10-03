@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-na;;1sg_a;1st (excl) Person Singular;51778;;;;apma1240;schneider-2010
-na;;1sg_s;1st (excl) Person Singular;51777;;;;apma1240;schneider-2010
-nana;;1sg_o;1st (excl) Person Singular;51776;;;;apma1240;schneider-2010
--k;;1sg_p;1st (excl) Person Singular;51775;;;;apma1240;schneider-2010
-kaa;;1du_a;1st (excl) Person Dual;51774;;;;apma1240;schneider-2010
-kaa;;1du_s;1st (excl) Person Dual;51773;;;;apma1240;schneider-2010
-gemaru;;1du_o;1st (excl) Person Dual;51772;;;;apma1240;schneider-2010
--maru;;1du_p;1st (excl) Person Dual;51771;;;;apma1240;schneider-2010
-kaa;;1pl_a;1st (excl) Person Plural;51770;;;;apma1240;schneider-2010
-kaa;;1pl_s;1st (excl) Person Plural;51769;;;;apma1240;schneider-2010
-gema;;1pl_o;1st (excl) Person Plural;51768;;;;apma1240;schneider-2010
--ma;;1pl_p;1st (excl) Person Plural;51767;;;;apma1240;schneider-2010
-ta;;12du_a;1st (incl) Person Dual;51766;;;;apma1240;schneider-2010
-ta;;12du_s;1st (incl) Person Dual;51765;;;;apma1240;schneider-2010
-kuduru;;12du_o;1st (incl) Person Dual;51764;;;;apma1240;schneider-2010
--daru;;12du_p;1st (incl) Person Dual;51763;;;;apma1240;schneider-2010
-ta;;12pl_a;1st (incl) Person Plural;51762;;;;apma1240;schneider-2010
-ta;;12pl_s;1st (incl) Person Plural;51761;;;;apma1240;schneider-2010
-kidi;;12pl_o;1st (incl) Person Plural;51760;;;;apma1240;schneider-2010
--da;;12pl_p;1st (incl) Person Plural;51759;;;;apma1240;schneider-2010
-ko;;2sg_a;2nd Person Singular;51758;;;;apma1240;schneider-2010
-ko;;2sg_s;2nd Person Singular;51757;;;;apma1240;schneider-2010
-kik;;2sg_o;2nd Person Singular;51756;;;;apma1240;schneider-2010
--m;;2sg_p;2nd Person Singular;51755;;;;apma1240;schneider-2010
-karu;;2du_a;2nd Person Dual;51754;;2PL imperative only;;apma1240;schneider-2010
-karu;;2du_s;2nd Person Dual;51753;;2PL imperative only;;apma1240;schneider-2010
-gumru;;2du_o;2nd Person Dual;51752;;;;apma1240;schneider-2010
--mru;;2du_p;2nd Person Dual;51751;;;;apma1240;schneider-2010
-karu;;2pl_a;2nd Person Plural;51750;;2PL imperative only;;apma1240;schneider-2010
-karu;;2pl_s;2nd Person Plural;51749;;2PL imperative only;;apma1240;schneider-2010
-gimi;;2pl_o;2nd Person Plural;51748;;;;apma1240;schneider-2010
--mi;;2pl_p;2nd Person Plural;51747;;;;apma1240;schneider-2010
-ø;;3sg_m_a;3rd Person Singular Masculine;51746;;zero-marked;;apma1240;schneider-2010
-ø;;3sg_m_s;3rd Person Singular Masculine;51745;;zero-marked;;apma1240;schneider-2010
-ni, nini;;3sg_m_o;3rd Person Singular Masculine;51744;;;;apma1240;schneider-2010
--n;;3sg_m_p;3rd Person Singular Masculine;51743;;;;apma1240;schneider-2010
-ø;;3sg_n_a;3rd Person Singular Neuter;51742;;zero-marked;;apma1240;schneider-2010
-ø;;3sg_n_s;3rd Person Singular Neuter;51741;;zero-marked;;apma1240;schneider-2010
-ni, nini;;3sg_n_o;3rd Person Singular Neuter;51740;;;;apma1240;schneider-2010
--n;;3sg_n_p;3rd Person Singular Neuter;51739;;;;apma1240;schneider-2010
-ra;;3d-a;3rd Person Dual;51738;;;;apma1240;schneider-2010
-ra;;3d-s;3rd Person Dual;51737;;;;apma1240;schneider-2010
-nuuru;;3d-o;3rd Person Dual;51736;;;;apma1240;schneider-2010
--ru;;3d-p;3rd Person Dual;51735;;;;apma1240;schneider-2010
-ra;;3p-a;3rd Person Plural;51734;;;;apma1240;schneider-2010
-ra;;3p-s;3rd Person Plural;51733;;;;apma1240;schneider-2010
-nii;;3p-o;3rd Person Plural;51732;;;;apma1240;schneider-2010
-[lengthening of stem-final vowel];;3p-p;3rd Person Plural;51731;;{lenghtening of stem-final vowel];;apma1240;schneider-2010
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+na,,1sg_a,1st (excl) Person Singular,51778,,,,apma1240,schneider-2010
+na,,1sg_s,1st (excl) Person Singular,51777,,,,apma1240,schneider-2010
+nana,,1sg_o,1st (excl) Person Singular,51776,,,,apma1240,schneider-2010
+-k,,1sg_p,1st (excl) Person Singular,51775,,,,apma1240,schneider-2010
+kaa,,1du_a,1st (excl) Person Dual,51774,,,,apma1240,schneider-2010
+kaa,,1du_s,1st (excl) Person Dual,51773,,,,apma1240,schneider-2010
+gemaru,,1du_o,1st (excl) Person Dual,51772,,,,apma1240,schneider-2010
+-maru,,1du_p,1st (excl) Person Dual,51771,,,,apma1240,schneider-2010
+kaa,,1pl_a,1st (excl) Person Plural,51770,,,,apma1240,schneider-2010
+kaa,,1pl_s,1st (excl) Person Plural,51769,,,,apma1240,schneider-2010
+gema,,1pl_o,1st (excl) Person Plural,51768,,,,apma1240,schneider-2010
+-ma,,1pl_p,1st (excl) Person Plural,51767,,,,apma1240,schneider-2010
+ta,,12du_a,1st (incl) Person Dual,51766,,,,apma1240,schneider-2010
+ta,,12du_s,1st (incl) Person Dual,51765,,,,apma1240,schneider-2010
+kuduru,,12du_o,1st (incl) Person Dual,51764,,,,apma1240,schneider-2010
+-daru,,12du_p,1st (incl) Person Dual,51763,,,,apma1240,schneider-2010
+ta,,12pl_a,1st (incl) Person Plural,51762,,,,apma1240,schneider-2010
+ta,,12pl_s,1st (incl) Person Plural,51761,,,,apma1240,schneider-2010
+kidi,,12pl_o,1st (incl) Person Plural,51760,,,,apma1240,schneider-2010
+-da,,12pl_p,1st (incl) Person Plural,51759,,,,apma1240,schneider-2010
+ko,,2sg_a,2nd Person Singular,51758,,,,apma1240,schneider-2010
+ko,,2sg_s,2nd Person Singular,51757,,,,apma1240,schneider-2010
+kik,,2sg_o,2nd Person Singular,51756,,,,apma1240,schneider-2010
+-m,,2sg_p,2nd Person Singular,51755,,,,apma1240,schneider-2010
+karu,,2du_a,2nd Person Dual,51754,,2PL imperative only,,apma1240,schneider-2010
+karu,,2du_s,2nd Person Dual,51753,,2PL imperative only,,apma1240,schneider-2010
+gumru,,2du_o,2nd Person Dual,51752,,,,apma1240,schneider-2010
+-mru,,2du_p,2nd Person Dual,51751,,,,apma1240,schneider-2010
+karu,,2pl_a,2nd Person Plural,51750,,2PL imperative only,,apma1240,schneider-2010
+karu,,2pl_s,2nd Person Plural,51749,,2PL imperative only,,apma1240,schneider-2010
+gimi,,2pl_o,2nd Person Plural,51748,,,,apma1240,schneider-2010
+-mi,,2pl_p,2nd Person Plural,51747,,,,apma1240,schneider-2010
+ø,,3sg_m_a,3rd Person Singular Masculine,51746,,zero-marked,,apma1240,schneider-2010
+ø,,3sg_m_s,3rd Person Singular Masculine,51745,,zero-marked,,apma1240,schneider-2010
+"ni, nini",,3sg_m_o,3rd Person Singular Masculine,51744,,,,apma1240,schneider-2010
+-n,,3sg_m_p,3rd Person Singular Masculine,51743,,,,apma1240,schneider-2010
+ø,,3sg_n_a,3rd Person Singular Neuter,51742,,zero-marked,,apma1240,schneider-2010
+ø,,3sg_n_s,3rd Person Singular Neuter,51741,,zero-marked,,apma1240,schneider-2010
+"ni, nini",,3sg_n_o,3rd Person Singular Neuter,51740,,,,apma1240,schneider-2010
+-n,,3sg_n_p,3rd Person Singular Neuter,51739,,,,apma1240,schneider-2010
+ra,,3d-a,3rd Person Dual,51738,,,,apma1240,schneider-2010
+ra,,3d-s,3rd Person Dual,51737,,,,apma1240,schneider-2010
+nuuru,,3d-o,3rd Person Dual,51736,,,,apma1240,schneider-2010
+-ru,,3d-p,3rd Person Dual,51735,,,,apma1240,schneider-2010
+ra,,3p-a,3rd Person Plural,51734,,,,apma1240,schneider-2010
+ra,,3p-s,3rd Person Plural,51733,,,,apma1240,schneider-2010
+nii,,3p-o,3rd Person Plural,51732,,,,apma1240,schneider-2010
+[lengthening of stem-final vowel],,3p-p,3rd Person Plural,51731,,{lenghtening of stem-final vowel],,apma1240,schneider-2010

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋat̪u;;1sg_a;1st (excl) Person Singular;47730;;;;dier1241;austin-1981
-ŋan̪i;;1sg_s;1st (excl) Person Singular;47729;;;;dier1241;austin-1981
-ŋan̪a;;1sg_o;1st (excl) Person Singular;47728;;;;dier1241;austin-1981
-ŋakaɲi;;1sg_p;1st (excl) Person Singular;47727;;;;dier1241;austin-1981
-ŋali;;1du_a;1st (excl) Person Dual;47726;;;;dier1241;austin-1981
-ŋali;;1du_s;1st (excl) Person Dual;47725;;;;dier1241;austin-1981
-ŋalin̪a;;1du_o;1st (excl) Person Dual;47724;;;;dier1241;austin-1981
-ŋaliɲi;;1du_p;1st (excl) Person Dual;47723;;;;dier1241;austin-1981
-ŋayana;;1pl_a;1st (excl) Person Plural;47722;;;;dier1241;austin-1981
-ŋayana;;1pl_s;1st (excl) Person Plural;47721;;;;dier1241;austin-1981
-ŋayanin̪a;;1pl_o;1st (excl) Person Plural;47720;;;;dier1241;austin-1981
-ŋayaniɲi;;1pl_p;1st (excl) Person Plural;47719;;;;dier1241;austin-1981
-ŋalda;;12du_a;1st (incl) Person Dual;47718;;;;dier1241;austin-1981
-ŋalda;;12du_s;1st (incl) Person Dual;47717;;;;dier1241;austin-1981
-ŋaldan̪a;;12du_o;1st (incl) Person Dual;47716;;;;dier1241;austin-1981
-ŋaldan̪a;;12du_p;1st (incl) Person Dual;47715;;;;dier1241;austin-1981
-ŋayani;;12pl_a;1st (incl) Person Plural;47714;;;;dier1241;austin-1981
-ŋayani;;12pl_s;1st (incl) Person Plural;47713;;;;dier1241;austin-1981
-ŋayanan̪a;;12pl_o;1st (incl) Person Plural;47712;;;;dier1241;austin-1981
-ŋayanaɲi;;12pl_p;1st (incl) Person Plural;47711;;;;dier1241;austin-1981
-yundu;;2sg_a;2nd Person Singular;47710;;;;dier1241;austin-1981
-yini;;2sg_s;2nd Person Singular;47709;;;;dier1241;austin-1981
-yinan̪a;;2sg_o;2nd Person Singular;47708;;;;dier1241;austin-1981
-yiŋkaɲi;;2sg_p;2nd Person Singular;47707;;;;dier1241;austin-1981
-yula;;2du_a;2nd Person Dual;47706;;;;dier1241;austin-1981
-yula;;2du_s;2nd Person Dual;47705;;;;dier1241;austin-1981
-yulan̪a;;2du_o;2nd Person Dual;47704;;;;dier1241;austin-1981
-yulaɲi;;2du_p;2nd Person Dual;47703;;;;dier1241;austin-1981
-yura;;2pl_a;2nd Person Plural;47702;;;;dier1241;austin-1981
-yura;;2pl_s;2nd Person Plural;47701;;;;dier1241;austin-1981
-yuran̪a;;2pl_o;2nd Person Plural;47700;;;;dier1241;austin-1981
-yuraɲi;;2pl_p;2nd Person Plural;47699;;;;dier1241;austin-1981
-n̪andu;;3sg_m_a;3rd Person Singular Masculine;47698;;;;dier1241;austin-1981
-n̪ani;;3sg_m_s;3rd Person Singular Masculine;47697;;;;dier1241;austin-1981
-n̪an̪a;;3sg_m_o;3rd Person Singular Masculine;47696;;;;dier1241;austin-1981
-n̪aŋkaɲi;;3sg_m_p;3rd Person Singular Masculine;47695;;;;dier1241;austin-1981
-n̪ulu;;3sg_n_a;3rd Person Singular Neuter;47694;;;;dier1241;austin-1981
-n̪awu;;3sg_n_s;3rd Person Singular Neuter;47693;;;;dier1241;austin-1981
-n̪in̪a;;3sg_n_o;3rd Person Singular Neuter;47692;;;;dier1241;austin-1981
-n̪uŋkaɲi;;3sg_n_p;3rd Person Singular Neuter;47691;;;;dier1241;austin-1981
-pulali;;3d-a;3rd Person Dual;47690;;;;dier1241;austin-1981
-pula;;3d-s;3rd Person Dual;47689;;;;dier1241;austin-1981
-pulan̪a;;3d-o;3rd Person Dual;47688;;;;dier1241;austin-1981
-pulaɲi;;3d-p;3rd Person Dual;47687;;;;dier1241;austin-1981
-t̪anali;;3p-a;3rd Person Plural;47686;;;;dier1241;austin-1981
-t̪ana;;3p-s;3rd Person Plural;47685;;;;dier1241;austin-1981
-t̪anan̪a;;3p-o;3rd Person Plural;47684;;;;dier1241;austin-1981
-t̪anaɲi;;3p-p;3rd Person Plural;47683;;;;dier1241;austin-1981
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋat̪u,,1sg_a,1st (excl) Person Singular,47730,,,,dier1241,austin-1981
+ŋan̪i,,1sg_s,1st (excl) Person Singular,47729,,,,dier1241,austin-1981
+ŋan̪a,,1sg_o,1st (excl) Person Singular,47728,,,,dier1241,austin-1981
+ŋakaɲi,,1sg_p,1st (excl) Person Singular,47727,,,,dier1241,austin-1981
+ŋali,,1du_a,1st (excl) Person Dual,47726,,,,dier1241,austin-1981
+ŋali,,1du_s,1st (excl) Person Dual,47725,,,,dier1241,austin-1981
+ŋalin̪a,,1du_o,1st (excl) Person Dual,47724,,,,dier1241,austin-1981
+ŋaliɲi,,1du_p,1st (excl) Person Dual,47723,,,,dier1241,austin-1981
+ŋayana,,1pl_a,1st (excl) Person Plural,47722,,,,dier1241,austin-1981
+ŋayana,,1pl_s,1st (excl) Person Plural,47721,,,,dier1241,austin-1981
+ŋayanin̪a,,1pl_o,1st (excl) Person Plural,47720,,,,dier1241,austin-1981
+ŋayaniɲi,,1pl_p,1st (excl) Person Plural,47719,,,,dier1241,austin-1981
+ŋalda,,12du_a,1st (incl) Person Dual,47718,,,,dier1241,austin-1981
+ŋalda,,12du_s,1st (incl) Person Dual,47717,,,,dier1241,austin-1981
+ŋaldan̪a,,12du_o,1st (incl) Person Dual,47716,,,,dier1241,austin-1981
+ŋaldan̪a,,12du_p,1st (incl) Person Dual,47715,,,,dier1241,austin-1981
+ŋayani,,12pl_a,1st (incl) Person Plural,47714,,,,dier1241,austin-1981
+ŋayani,,12pl_s,1st (incl) Person Plural,47713,,,,dier1241,austin-1981
+ŋayanan̪a,,12pl_o,1st (incl) Person Plural,47712,,,,dier1241,austin-1981
+ŋayanaɲi,,12pl_p,1st (incl) Person Plural,47711,,,,dier1241,austin-1981
+yundu,,2sg_a,2nd Person Singular,47710,,,,dier1241,austin-1981
+yini,,2sg_s,2nd Person Singular,47709,,,,dier1241,austin-1981
+yinan̪a,,2sg_o,2nd Person Singular,47708,,,,dier1241,austin-1981
+yiŋkaɲi,,2sg_p,2nd Person Singular,47707,,,,dier1241,austin-1981
+yula,,2du_a,2nd Person Dual,47706,,,,dier1241,austin-1981
+yula,,2du_s,2nd Person Dual,47705,,,,dier1241,austin-1981
+yulan̪a,,2du_o,2nd Person Dual,47704,,,,dier1241,austin-1981
+yulaɲi,,2du_p,2nd Person Dual,47703,,,,dier1241,austin-1981
+yura,,2pl_a,2nd Person Plural,47702,,,,dier1241,austin-1981
+yura,,2pl_s,2nd Person Plural,47701,,,,dier1241,austin-1981
+yuran̪a,,2pl_o,2nd Person Plural,47700,,,,dier1241,austin-1981
+yuraɲi,,2pl_p,2nd Person Plural,47699,,,,dier1241,austin-1981
+n̪andu,,3sg_m_a,3rd Person Singular Masculine,47698,,,,dier1241,austin-1981
+n̪ani,,3sg_m_s,3rd Person Singular Masculine,47697,,,,dier1241,austin-1981
+n̪an̪a,,3sg_m_o,3rd Person Singular Masculine,47696,,,,dier1241,austin-1981
+n̪aŋkaɲi,,3sg_m_p,3rd Person Singular Masculine,47695,,,,dier1241,austin-1981
+n̪ulu,,3sg_n_a,3rd Person Singular Neuter,47694,,,,dier1241,austin-1981
+n̪awu,,3sg_n_s,3rd Person Singular Neuter,47693,,,,dier1241,austin-1981
+n̪in̪a,,3sg_n_o,3rd Person Singular Neuter,47692,,,,dier1241,austin-1981
+n̪uŋkaɲi,,3sg_n_p,3rd Person Singular Neuter,47691,,,,dier1241,austin-1981
+pulali,,3d-a,3rd Person Dual,47690,,,,dier1241,austin-1981
+pula,,3d-s,3rd Person Dual,47689,,,,dier1241,austin-1981
+pulan̪a,,3d-o,3rd Person Dual,47688,,,,dier1241,austin-1981
+pulaɲi,,3d-p,3rd Person Dual,47687,,,,dier1241,austin-1981
+t̪anali,,3p-a,3rd Person Plural,47686,,,,dier1241,austin-1981
+t̪ana,,3p-s,3rd Person Plural,47685,,,,dier1241,austin-1981
+t̪anan̪a,,3p-o,3rd Person Plural,47684,,,,dier1241,austin-1981
+t̪anaɲi,,3p-p,3rd Person Plural,47683,,,,dier1241,austin-1981

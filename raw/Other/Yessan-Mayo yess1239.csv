@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-an;;1sg_a;1st (excl) Person Singular;41650;;;;yess1239;foreman-1974
-an;;1sg_s;1st (excl) Person Singular;41649;;;;yess1239;foreman-1974
-an;;1sg_o;1st (excl) Person Singular;41648;;;;yess1239;foreman-1974
-ari;;1sg_p;1st (excl) Person Singular;41647;;;;yess1239;foreman-1974
-nis;;1du_a;1st (excl) Person Dual;41646;;;;yess1239;foreman-1974
-nis;;1du_s;1st (excl) Person Dual;41645;;;;yess1239;foreman-1974
-nis;;1du_o;1st (excl) Person Dual;41644;;;;yess1239;foreman-1974
-nisri;;1du_p;1st (excl) Person Dual;41643;;;;yess1239;foreman-1974
-nim;;1pl_a;1st (excl) Person Plural;41642;;;;yess1239;foreman-1974
-nim;;1pl_s;1st (excl) Person Plural;41641;;;;yess1239;foreman-1974
-nim;;1pl_o;1st (excl) Person Plural;41640;;;;yess1239;foreman-1974
-nimri;;1pl_p;1st (excl) Person Plural;41639;;;;yess1239;foreman-1974
-nis;;12du_a;1st (incl) Person Dual;41638;;;;yess1239;foreman-1974
-nis;;12du_s;1st (incl) Person Dual;41637;;;;yess1239;foreman-1974
-nis;;12du_o;1st (incl) Person Dual;41636;;;;yess1239;foreman-1974
-nisri;;12du_p;1st (incl) Person Dual;41635;;;;yess1239;foreman-1974
-nim;;12pl_a;1st (incl) Person Plural;41634;;;;yess1239;foreman-1974
-nim;;12pl_s;1st (incl) Person Plural;41633;;;;yess1239;foreman-1974
-nim;;12pl_o;1st (incl) Person Plural;41632;;;;yess1239;foreman-1974
-nimri;;12pl_p;1st (incl) Person Plural;41631;;;;yess1239;foreman-1974
-ni;;2sg_a;2nd Person Singular;41630;;;;yess1239;foreman-1974
-ni;;2sg_s;2nd Person Singular;41629;;;;yess1239;foreman-1974
-ni;;2sg_o;2nd Person Singular;41628;;;;yess1239;foreman-1974
-niri;;2sg_p;2nd Person Singular;41627;;;;yess1239;foreman-1974
-kep;;2du_a;2nd Person Dual;41626;;;;yess1239;foreman-1974
-kep;;2du_s;2nd Person Dual;41625;;;;yess1239;foreman-1974
-kep;;2du_o;2nd Person Dual;41624;;;;yess1239;foreman-1974
-kepri;;2du_p;2nd Person Dual;41623;;;;yess1239;foreman-1974
-kem;;2pl_a;2nd Person Plural;41622;;;;yess1239;foreman-1974
-kem;;2pl_s;2nd Person Plural;41621;;;;yess1239;foreman-1974
-kem;;2pl_o;2nd Person Plural;41620;;;;yess1239;foreman-1974
-kemri;;2pl_p;2nd Person Plural;41619;;;;yess1239;foreman-1974
-ri;;3sg_m_a;3rd Person Singular Masculine;41618;;;;yess1239;foreman-1974
-ri;;3sg_m_s;3rd Person Singular Masculine;41617;;;;yess1239;foreman-1974
-ri;;3sg_m_o;3rd Person Singular Masculine;41616;;;;yess1239;foreman-1974
-riri;;3sg_m_p;3rd Person Singular Masculine;41615;;;;yess1239;foreman-1974
-ti;;3sg_n_a;3rd Person Singular Neuter;41614;;;;yess1239;foreman-1974
-ti;;3sg_n_s;3rd Person Singular Neuter;41613;;;;yess1239;foreman-1974
-ti;;3sg_n_o;3rd Person Singular Neuter;41612;;;;yess1239;foreman-1974
-tiri;;3sg_n_p;3rd Person Singular Neuter;41611;;;;yess1239;foreman-1974
-rip;;3d-a;3rd Person Dual;41610;;;;yess1239;foreman-1974
-rip;;3d-s;3rd Person Dual;41609;;;;yess1239;foreman-1974
-rip;;3d-o;3rd Person Dual;41608;;;;yess1239;foreman-1974
-ripri;;3d-p;3rd Person Dual;41607;;;;yess1239;foreman-1974
-rim;;3p-a;3rd Person Plural;41606;;;;yess1239;foreman-1974
-rim;;3p-s;3rd Person Plural;41605;;;;yess1239;foreman-1974
-rim;;3p-o;3rd Person Plural;41604;;;;yess1239;foreman-1974
-rimri;;3p-p;3rd Person Plural;41603;;;;yess1239;foreman-1974
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+an,,1sg_a,1st (excl) Person Singular,41650,,,,yess1239,foreman-1974
+an,,1sg_s,1st (excl) Person Singular,41649,,,,yess1239,foreman-1974
+an,,1sg_o,1st (excl) Person Singular,41648,,,,yess1239,foreman-1974
+ari,,1sg_p,1st (excl) Person Singular,41647,,,,yess1239,foreman-1974
+nis,,1du_a,1st (excl) Person Dual,41646,,,,yess1239,foreman-1974
+nis,,1du_s,1st (excl) Person Dual,41645,,,,yess1239,foreman-1974
+nis,,1du_o,1st (excl) Person Dual,41644,,,,yess1239,foreman-1974
+nisri,,1du_p,1st (excl) Person Dual,41643,,,,yess1239,foreman-1974
+nim,,1pl_a,1st (excl) Person Plural,41642,,,,yess1239,foreman-1974
+nim,,1pl_s,1st (excl) Person Plural,41641,,,,yess1239,foreman-1974
+nim,,1pl_o,1st (excl) Person Plural,41640,,,,yess1239,foreman-1974
+nimri,,1pl_p,1st (excl) Person Plural,41639,,,,yess1239,foreman-1974
+nis,,12du_a,1st (incl) Person Dual,41638,,,,yess1239,foreman-1974
+nis,,12du_s,1st (incl) Person Dual,41637,,,,yess1239,foreman-1974
+nis,,12du_o,1st (incl) Person Dual,41636,,,,yess1239,foreman-1974
+nisri,,12du_p,1st (incl) Person Dual,41635,,,,yess1239,foreman-1974
+nim,,12pl_a,1st (incl) Person Plural,41634,,,,yess1239,foreman-1974
+nim,,12pl_s,1st (incl) Person Plural,41633,,,,yess1239,foreman-1974
+nim,,12pl_o,1st (incl) Person Plural,41632,,,,yess1239,foreman-1974
+nimri,,12pl_p,1st (incl) Person Plural,41631,,,,yess1239,foreman-1974
+ni,,2sg_a,2nd Person Singular,41630,,,,yess1239,foreman-1974
+ni,,2sg_s,2nd Person Singular,41629,,,,yess1239,foreman-1974
+ni,,2sg_o,2nd Person Singular,41628,,,,yess1239,foreman-1974
+niri,,2sg_p,2nd Person Singular,41627,,,,yess1239,foreman-1974
+kep,,2du_a,2nd Person Dual,41626,,,,yess1239,foreman-1974
+kep,,2du_s,2nd Person Dual,41625,,,,yess1239,foreman-1974
+kep,,2du_o,2nd Person Dual,41624,,,,yess1239,foreman-1974
+kepri,,2du_p,2nd Person Dual,41623,,,,yess1239,foreman-1974
+kem,,2pl_a,2nd Person Plural,41622,,,,yess1239,foreman-1974
+kem,,2pl_s,2nd Person Plural,41621,,,,yess1239,foreman-1974
+kem,,2pl_o,2nd Person Plural,41620,,,,yess1239,foreman-1974
+kemri,,2pl_p,2nd Person Plural,41619,,,,yess1239,foreman-1974
+ri,,3sg_m_a,3rd Person Singular Masculine,41618,,,,yess1239,foreman-1974
+ri,,3sg_m_s,3rd Person Singular Masculine,41617,,,,yess1239,foreman-1974
+ri,,3sg_m_o,3rd Person Singular Masculine,41616,,,,yess1239,foreman-1974
+riri,,3sg_m_p,3rd Person Singular Masculine,41615,,,,yess1239,foreman-1974
+ti,,3sg_n_a,3rd Person Singular Neuter,41614,,,,yess1239,foreman-1974
+ti,,3sg_n_s,3rd Person Singular Neuter,41613,,,,yess1239,foreman-1974
+ti,,3sg_n_o,3rd Person Singular Neuter,41612,,,,yess1239,foreman-1974
+tiri,,3sg_n_p,3rd Person Singular Neuter,41611,,,,yess1239,foreman-1974
+rip,,3d-a,3rd Person Dual,41610,,,,yess1239,foreman-1974
+rip,,3d-s,3rd Person Dual,41609,,,,yess1239,foreman-1974
+rip,,3d-o,3rd Person Dual,41608,,,,yess1239,foreman-1974
+ripri,,3d-p,3rd Person Dual,41607,,,,yess1239,foreman-1974
+rim,,3p-a,3rd Person Plural,41606,,,,yess1239,foreman-1974
+rim,,3p-s,3rd Person Plural,41605,,,,yess1239,foreman-1974
+rim,,3p-o,3rd Person Plural,41604,,,,yess1239,foreman-1974
+rimri,,3p-p,3rd Person Plural,41603,,,,yess1239,foreman-1974

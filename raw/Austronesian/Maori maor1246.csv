@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ahau;;1sg_a;1st (excl) Person Singular;50674;;The form /au/ is also listed (Harlow 1996:6).;;maor1246;harlow-1996
-ahau;;1sg_s;1st (excl) Person Singular;50673;;The form /au/ is also listed (Harlow 1996:6).;;maor1246;harlow-1996
-ahau;;1sg_o;1st (excl) Person Singular;50672;;The form /au/ is also listed (Harlow 1996:6).;;maor1246;harlow-1996
-ahau;;1sg_p;1st (excl) Person Singular;50671;;The form /au/ is also listed (Harlow 1996:6).;;maor1246;harlow-1996
-maaua;;1du_a;1st (excl) Person Dual;50670;;;;maor1246;harlow-1996
-maaua;;1du_s;1st (excl) Person Dual;50669;;;;maor1246;harlow-1996
-maaua;;1du_o;1st (excl) Person Dual;50668;;;;maor1246;harlow-1996
-maaua;;1du_p;1st (excl) Person Dual;50667;;;;maor1246;harlow-1996
-maatou;;1pl_a;1st (excl) Person Plural;50666;;;;maor1246;harlow-1996
-maatou;;1pl_s;1st (excl) Person Plural;50665;;;;maor1246;harlow-1996
-maatou;;1pl_o;1st (excl) Person Plural;50664;;;;maor1246;harlow-1996
-maatou;;1pl_p;1st (excl) Person Plural;50663;;;;maor1246;harlow-1996
-taaua;;12du_a;1st (incl) Person Dual;50662;;;;maor1246;harlow-1996
-taaua;;12du_s;1st (incl) Person Dual;50661;;;;maor1246;harlow-1996
-taaua;;12du_o;1st (incl) Person Dual;50660;;;;maor1246;harlow-1996
-taaua;;12du_p;1st (incl) Person Dual;50659;;;;maor1246;harlow-1996
-taatou;;12pl_a;1st (incl) Person Plural;50658;;;;maor1246;harlow-1996
-taatou;;12pl_s;1st (incl) Person Plural;50657;;;;maor1246;harlow-1996
-taatou;;12pl_o;1st (incl) Person Plural;50656;;;;maor1246;harlow-1996
-taatou;;12pl_p;1st (incl) Person Plural;50655;;;;maor1246;harlow-1996
-koe;;2sg_a;2nd Person Singular;50654;;;;maor1246;harlow-1996
-koe;;2sg_s;2nd Person Singular;50653;;;;maor1246;harlow-1996
-koe;;2sg_o;2nd Person Singular;50652;;;;maor1246;harlow-1996
-koe;;2sg_p;2nd Person Singular;50651;;;;maor1246;harlow-1996
-kooɾua;;2du_a;2nd Person Dual;50650;;;;maor1246;harlow-1996
-kooɾua;;2du_s;2nd Person Dual;50649;;;;maor1246;harlow-1996
-kooɾua;;2du_o;2nd Person Dual;50648;;;;maor1246;harlow-1996
-kooɾua;;2du_p;2nd Person Dual;50647;;;;maor1246;harlow-1996
-koutou;;2pl_a;2nd Person Plural;50646;;;;maor1246;harlow-1996
-koutou;;2pl_s;2nd Person Plural;50645;;;;maor1246;harlow-1996
-koutou;;2pl_o;2nd Person Plural;50644;;;;maor1246;harlow-1996
-koutou;;2pl_p;2nd Person Plural;50643;;;;maor1246;harlow-1996
-ia;;3sg_m_a;3rd Person Singular Masculine;50642;;;;maor1246;harlow-1996
-ia;;3sg_m_s;3rd Person Singular Masculine;50641;;;;maor1246;harlow-1996
-ia;;3sg_m_o;3rd Person Singular Masculine;50640;;;;maor1246;harlow-1996
-ia;;3sg_m_p;3rd Person Singular Masculine;50639;;;;maor1246;harlow-1996
-ia;;3sg_n_a;3rd Person Singular Neuter;50638;;;;maor1246;harlow-1996
-ia;;3sg_n_s;3rd Person Singular Neuter;50637;;;;maor1246;harlow-1996
-ia;;3sg_n_o;3rd Person Singular Neuter;50636;;;;maor1246;harlow-1996
-ia;;3sg_n_p;3rd Person Singular Neuter;50635;;;;maor1246;harlow-1996
-ɾaaua;;3d-a;3rd Person Dual;50634;;;;maor1246;harlow-1996
-ɾaaua;;3d-s;3rd Person Dual;50633;;;;maor1246;harlow-1996
-ɾaaua;;3d-o;3rd Person Dual;50632;;;;maor1246;harlow-1996
-ɾaaua;;3d-p;3rd Person Dual;50631;;;;maor1246;harlow-1996
-ɾaatou;;3p-a;3rd Person Plural;50630;;;;maor1246;harlow-1996
-ɾaatou;;3p-s;3rd Person Plural;50629;;;;maor1246;harlow-1996
-ɾaatou;;3p-o;3rd Person Plural;50628;;;;maor1246;harlow-1996
-ɾaatou;;3p-p;3rd Person Plural;50627;;;;maor1246;harlow-1996
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ahau,,1sg_a,1st (excl) Person Singular,50674,,The form /au/ is also listed (Harlow 1996:6).,,maor1246,harlow-1996
+ahau,,1sg_s,1st (excl) Person Singular,50673,,The form /au/ is also listed (Harlow 1996:6).,,maor1246,harlow-1996
+ahau,,1sg_o,1st (excl) Person Singular,50672,,The form /au/ is also listed (Harlow 1996:6).,,maor1246,harlow-1996
+ahau,,1sg_p,1st (excl) Person Singular,50671,,The form /au/ is also listed (Harlow 1996:6).,,maor1246,harlow-1996
+maaua,,1du_a,1st (excl) Person Dual,50670,,,,maor1246,harlow-1996
+maaua,,1du_s,1st (excl) Person Dual,50669,,,,maor1246,harlow-1996
+maaua,,1du_o,1st (excl) Person Dual,50668,,,,maor1246,harlow-1996
+maaua,,1du_p,1st (excl) Person Dual,50667,,,,maor1246,harlow-1996
+maatou,,1pl_a,1st (excl) Person Plural,50666,,,,maor1246,harlow-1996
+maatou,,1pl_s,1st (excl) Person Plural,50665,,,,maor1246,harlow-1996
+maatou,,1pl_o,1st (excl) Person Plural,50664,,,,maor1246,harlow-1996
+maatou,,1pl_p,1st (excl) Person Plural,50663,,,,maor1246,harlow-1996
+taaua,,12du_a,1st (incl) Person Dual,50662,,,,maor1246,harlow-1996
+taaua,,12du_s,1st (incl) Person Dual,50661,,,,maor1246,harlow-1996
+taaua,,12du_o,1st (incl) Person Dual,50660,,,,maor1246,harlow-1996
+taaua,,12du_p,1st (incl) Person Dual,50659,,,,maor1246,harlow-1996
+taatou,,12pl_a,1st (incl) Person Plural,50658,,,,maor1246,harlow-1996
+taatou,,12pl_s,1st (incl) Person Plural,50657,,,,maor1246,harlow-1996
+taatou,,12pl_o,1st (incl) Person Plural,50656,,,,maor1246,harlow-1996
+taatou,,12pl_p,1st (incl) Person Plural,50655,,,,maor1246,harlow-1996
+koe,,2sg_a,2nd Person Singular,50654,,,,maor1246,harlow-1996
+koe,,2sg_s,2nd Person Singular,50653,,,,maor1246,harlow-1996
+koe,,2sg_o,2nd Person Singular,50652,,,,maor1246,harlow-1996
+koe,,2sg_p,2nd Person Singular,50651,,,,maor1246,harlow-1996
+kooɾua,,2du_a,2nd Person Dual,50650,,,,maor1246,harlow-1996
+kooɾua,,2du_s,2nd Person Dual,50649,,,,maor1246,harlow-1996
+kooɾua,,2du_o,2nd Person Dual,50648,,,,maor1246,harlow-1996
+kooɾua,,2du_p,2nd Person Dual,50647,,,,maor1246,harlow-1996
+koutou,,2pl_a,2nd Person Plural,50646,,,,maor1246,harlow-1996
+koutou,,2pl_s,2nd Person Plural,50645,,,,maor1246,harlow-1996
+koutou,,2pl_o,2nd Person Plural,50644,,,,maor1246,harlow-1996
+koutou,,2pl_p,2nd Person Plural,50643,,,,maor1246,harlow-1996
+ia,,3sg_m_a,3rd Person Singular Masculine,50642,,,,maor1246,harlow-1996
+ia,,3sg_m_s,3rd Person Singular Masculine,50641,,,,maor1246,harlow-1996
+ia,,3sg_m_o,3rd Person Singular Masculine,50640,,,,maor1246,harlow-1996
+ia,,3sg_m_p,3rd Person Singular Masculine,50639,,,,maor1246,harlow-1996
+ia,,3sg_n_a,3rd Person Singular Neuter,50638,,,,maor1246,harlow-1996
+ia,,3sg_n_s,3rd Person Singular Neuter,50637,,,,maor1246,harlow-1996
+ia,,3sg_n_o,3rd Person Singular Neuter,50636,,,,maor1246,harlow-1996
+ia,,3sg_n_p,3rd Person Singular Neuter,50635,,,,maor1246,harlow-1996
+ɾaaua,,3d-a,3rd Person Dual,50634,,,,maor1246,harlow-1996
+ɾaaua,,3d-s,3rd Person Dual,50633,,,,maor1246,harlow-1996
+ɾaaua,,3d-o,3rd Person Dual,50632,,,,maor1246,harlow-1996
+ɾaaua,,3d-p,3rd Person Dual,50631,,,,maor1246,harlow-1996
+ɾaatou,,3p-a,3rd Person Plural,50630,,,,maor1246,harlow-1996
+ɾaatou,,3p-s,3rd Person Plural,50629,,,,maor1246,harlow-1996
+ɾaatou,,3p-o,3rd Person Plural,50628,,,,maor1246,harlow-1996
+ɾaatou,,3p-p,3rd Person Plural,50627,,,,maor1246,harlow-1996

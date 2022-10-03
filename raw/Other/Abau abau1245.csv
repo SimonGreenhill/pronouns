@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ha;;1sg_a;1st (excl) Person Singular;41274;;;;abau1245;lock-2011
-ha;;1sg_s;1st (excl) Person Singular;41273;;;;abau1245;lock-2011
-hane;;1sg_o;1st (excl) Person Singular;41272;;;;abau1245;lock-2011
-hano;;1sg_p;1st (excl) Person Singular;41271;;;;abau1245;lock-2011
-hror;;1du_a;1st (excl) Person Dual;41270;;;;abau1245;lock-2011
-hror;;1du_s;1st (excl) Person Dual;41269;;;;abau1245;lock-2011
-hrore;;1du_o;1st (excl) Person Dual;41268;;;;abau1245;lock-2011
-hroro;;1du_p;1st (excl) Person Dual;41267;;;;abau1245;lock-2011
-hrom;;1pl_a;1st (excl) Person Plural;41266;;;;abau1245;lock-2011
-hrom;;1pl_s;1st (excl) Person Plural;41265;;;;abau1245;lock-2011
-hrome;;1pl_o;1st (excl) Person Plural;41264;;;;abau1245;lock-2011
-hromo;;1pl_p;1st (excl) Person Plural;41263;;;;abau1245;lock-2011
-hror;;12du_a;1st (incl) Person Dual;41262;;;;abau1245;lock-2011
-hror;;12du_s;1st (incl) Person Dual;41261;;;;abau1245;lock-2011
-hrore;;12du_o;1st (incl) Person Dual;41260;;;;abau1245;lock-2011
-hroro;;12du_p;1st (incl) Person Dual;41259;;;;abau1245;lock-2011
-hrom;;12pl_a;1st (incl) Person Plural;41258;;;;abau1245;lock-2011
-hrom;;12pl_s;1st (incl) Person Plural;41257;;;;abau1245;lock-2011
-hrome;;12pl_o;1st (incl) Person Plural;41256;;;;abau1245;lock-2011
-hromo;;12pl_p;1st (incl) Person Plural;41255;;;;abau1245;lock-2011
-hwon;;2sg_a;2nd Person Singular;41254;;;;abau1245;lock-2011
-hwon;;2sg_s;2nd Person Singular;41253;;;;abau1245;lock-2011
-hnee;;2sg_o;2nd Person Singular;41252;;;;abau1245;lock-2011
-hno;;2sg_p;2nd Person Singular;41251;;;;abau1245;lock-2011
-hoh;;2du_a;2nd Person Dual;41250;;;;abau1245;lock-2011
-hoh;;2du_s;2nd Person Dual;41249;;;;abau1245;lock-2011
-hohe;;2du_o;2nd Person Dual;41248;;;;abau1245;lock-2011
-hoho;;2du_p;2nd Person Dual;41247;;;;abau1245;lock-2011
-hom;;2pl_a;2nd Person Plural;41246;;;;abau1245;lock-2011
-hom;;2pl_s;2nd Person Plural;41245;;;;abau1245;lock-2011
-hme;;2pl_o;2nd Person Plural;41244;;;;abau1245;lock-2011
-hmo;;2pl_p;2nd Person Plural;41243;;;;abau1245;lock-2011
-hiy;;3sg_m_a;3rd Person Singular Masculine;41242;;;;abau1245;lock-2011
-hiy;;3sg_m_s;3rd Person Singular Masculine;41241;;;;abau1245;lock-2011
-hye;;3sg_m_o;3rd Person Singular Masculine;41240;;;;abau1245;lock-2011
-hyo;;3sg_m_p;3rd Person Singular Masculine;41239;;;;abau1245;lock-2011
-hok;;3sg_n_a;3rd Person Singular Neuter;41238;;;;abau1245;lock-2011
-hok;;3sg_n_s;3rd Person Singular Neuter;41237;;;;abau1245;lock-2011
-hoke;;3sg_n_o;3rd Person Singular Neuter;41236;;;;abau1245;lock-2011
-hoko;;3sg_n_p;3rd Person Singular Neuter;41235;;;;abau1245;lock-2011
-hoh;;3d-a;3rd Person Dual;41234;;;;abau1245;lock-2011
-hoh;;3d-s;3rd Person Dual;41233;;;;abau1245;lock-2011
-hohe;;3d-o;3rd Person Dual;41232;;;;abau1245;lock-2011
-hoho;;3d-p;3rd Person Dual;41231;;;;abau1245;lock-2011
-hom;;3p-a;3rd Person Plural;41230;;;;abau1245;lock-2011
-hom;;3p-s;3rd Person Plural;41229;;;;abau1245;lock-2011
-hme;;3p-o;3rd Person Plural;41228;;;;abau1245;lock-2011
-hmo;;3p-p;3rd Person Plural;41227;;;;abau1245;lock-2011
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ha,,1sg_a,1st (excl) Person Singular,41274,,,,abau1245,lock-2011
+ha,,1sg_s,1st (excl) Person Singular,41273,,,,abau1245,lock-2011
+hane,,1sg_o,1st (excl) Person Singular,41272,,,,abau1245,lock-2011
+hano,,1sg_p,1st (excl) Person Singular,41271,,,,abau1245,lock-2011
+hror,,1du_a,1st (excl) Person Dual,41270,,,,abau1245,lock-2011
+hror,,1du_s,1st (excl) Person Dual,41269,,,,abau1245,lock-2011
+hrore,,1du_o,1st (excl) Person Dual,41268,,,,abau1245,lock-2011
+hroro,,1du_p,1st (excl) Person Dual,41267,,,,abau1245,lock-2011
+hrom,,1pl_a,1st (excl) Person Plural,41266,,,,abau1245,lock-2011
+hrom,,1pl_s,1st (excl) Person Plural,41265,,,,abau1245,lock-2011
+hrome,,1pl_o,1st (excl) Person Plural,41264,,,,abau1245,lock-2011
+hromo,,1pl_p,1st (excl) Person Plural,41263,,,,abau1245,lock-2011
+hror,,12du_a,1st (incl) Person Dual,41262,,,,abau1245,lock-2011
+hror,,12du_s,1st (incl) Person Dual,41261,,,,abau1245,lock-2011
+hrore,,12du_o,1st (incl) Person Dual,41260,,,,abau1245,lock-2011
+hroro,,12du_p,1st (incl) Person Dual,41259,,,,abau1245,lock-2011
+hrom,,12pl_a,1st (incl) Person Plural,41258,,,,abau1245,lock-2011
+hrom,,12pl_s,1st (incl) Person Plural,41257,,,,abau1245,lock-2011
+hrome,,12pl_o,1st (incl) Person Plural,41256,,,,abau1245,lock-2011
+hromo,,12pl_p,1st (incl) Person Plural,41255,,,,abau1245,lock-2011
+hwon,,2sg_a,2nd Person Singular,41254,,,,abau1245,lock-2011
+hwon,,2sg_s,2nd Person Singular,41253,,,,abau1245,lock-2011
+hnee,,2sg_o,2nd Person Singular,41252,,,,abau1245,lock-2011
+hno,,2sg_p,2nd Person Singular,41251,,,,abau1245,lock-2011
+hoh,,2du_a,2nd Person Dual,41250,,,,abau1245,lock-2011
+hoh,,2du_s,2nd Person Dual,41249,,,,abau1245,lock-2011
+hohe,,2du_o,2nd Person Dual,41248,,,,abau1245,lock-2011
+hoho,,2du_p,2nd Person Dual,41247,,,,abau1245,lock-2011
+hom,,2pl_a,2nd Person Plural,41246,,,,abau1245,lock-2011
+hom,,2pl_s,2nd Person Plural,41245,,,,abau1245,lock-2011
+hme,,2pl_o,2nd Person Plural,41244,,,,abau1245,lock-2011
+hmo,,2pl_p,2nd Person Plural,41243,,,,abau1245,lock-2011
+hiy,,3sg_m_a,3rd Person Singular Masculine,41242,,,,abau1245,lock-2011
+hiy,,3sg_m_s,3rd Person Singular Masculine,41241,,,,abau1245,lock-2011
+hye,,3sg_m_o,3rd Person Singular Masculine,41240,,,,abau1245,lock-2011
+hyo,,3sg_m_p,3rd Person Singular Masculine,41239,,,,abau1245,lock-2011
+hok,,3sg_n_a,3rd Person Singular Neuter,41238,,,,abau1245,lock-2011
+hok,,3sg_n_s,3rd Person Singular Neuter,41237,,,,abau1245,lock-2011
+hoke,,3sg_n_o,3rd Person Singular Neuter,41236,,,,abau1245,lock-2011
+hoko,,3sg_n_p,3rd Person Singular Neuter,41235,,,,abau1245,lock-2011
+hoh,,3d-a,3rd Person Dual,41234,,,,abau1245,lock-2011
+hoh,,3d-s,3rd Person Dual,41233,,,,abau1245,lock-2011
+hohe,,3d-o,3rd Person Dual,41232,,,,abau1245,lock-2011
+hoho,,3d-p,3rd Person Dual,41231,,,,abau1245,lock-2011
+hom,,3p-a,3rd Person Plural,41230,,,,abau1245,lock-2011
+hom,,3p-s,3rd Person Plural,41229,,,,abau1245,lock-2011
+hme,,3p-o,3rd Person Plural,41228,,,,abau1245,lock-2011
+hmo,,3p-p,3rd Person Plural,41227,,,,abau1245,lock-2011

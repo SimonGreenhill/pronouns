@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-an;;1sg_a;1st (excl) Person Singular;41370;;;;mend1268;hoel-et-al-1994
-an;;1sg_s;1st (excl) Person Singular;41369;;;;mend1268;hoel-et-al-1994
-anin;;1sg_o;1st (excl) Person Singular;41368;;;;mend1268;hoel-et-al-1994
-anhi;;1sg_p;1st (excl) Person Singular;41367;;;;mend1268;hoel-et-al-1994
-šir;;1du_a;1st (excl) Person Dual;41366;;;;mend1268;hoel-et-al-1994
-šir;;1du_s;1st (excl) Person Dual;41365;;;;mend1268;hoel-et-al-1994
-širin;;1du_o;1st (excl) Person Dual;41364;;;;mend1268;hoel-et-al-1994
-šihi;;1du_p;1st (excl) Person Dual;41363;;;;mend1268;hoel-et-al-1994
-nir;;1pl_a;1st (excl) Person Plural;41362;;;;mend1268;hoel-et-al-1994
-nir;;1pl_s;1st (excl) Person Plural;41361;;;;mend1268;hoel-et-al-1994
-nirin;;1pl_o;1st (excl) Person Plural;41360;;;;mend1268;hoel-et-al-1994
-nihi;;1pl_p;1st (excl) Person Plural;41359;;;;mend1268;hoel-et-al-1994
-šir;;12du_a;1st (incl) Person Dual;41358;;;;mend1268;hoel-et-al-1994
-šir;;12du_s;1st (incl) Person Dual;41357;;;;mend1268;hoel-et-al-1994
-širin;;12du_o;1st (incl) Person Dual;41356;;;;mend1268;hoel-et-al-1994
-šihi;;12du_p;1st (incl) Person Dual;41355;;;;mend1268;hoel-et-al-1994
-nir;;12pl_a;1st (incl) Person Plural;41354;;;;mend1268;hoel-et-al-1994
-nir;;12pl_s;1st (incl) Person Plural;41353;;;;mend1268;hoel-et-al-1994
-nirin;;12pl_o;1st (incl) Person Plural;41352;;;;mend1268;hoel-et-al-1994
-nihi;;12pl_p;1st (incl) Person Plural;41351;;;;mend1268;hoel-et-al-1994
-mir;;2sg_a;2nd Person Singular;41350;;;;mend1268;hoel-et-al-1994
-mir;;2sg_s;2nd Person Singular;41349;;;;mend1268;hoel-et-al-1994
-mirin;;2sg_o;2nd Person Singular;41348;;;;mend1268;hoel-et-al-1994
-mihi;;2sg_p;2nd Person Singular;41347;;;;mend1268;hoel-et-al-1994
-šir;;2du_a;2nd Person Dual;41346;;;;mend1268;hoel-et-al-1994
-šir;;2du_s;2nd Person Dual;41345;;;;mend1268;hoel-et-al-1994
-širin;;2du_o;2nd Person Dual;41344;;;;mend1268;hoel-et-al-1994
-šihi;;2du_p;2nd Person Dual;41343;;;;mend1268;hoel-et-al-1994
-jir;;2pl_a;2nd Person Plural;41342;;;;mend1268;hoel-et-al-1994
-jir;;2pl_s;2nd Person Plural;41341;;;;mend1268;hoel-et-al-1994
-jirin;;2pl_o;2nd Person Plural;41340;;;;mend1268;hoel-et-al-1994
-jihi;;2pl_p;2nd Person Plural;41339;;;;mend1268;hoel-et-al-1994
-or;;3sg_m_a;3rd Person Singular Masculine;41338;;;;mend1268;hoel-et-al-1994
-or;;3sg_m_s;3rd Person Singular Masculine;41337;;;;mend1268;hoel-et-al-1994
-orin;;3sg_m_o;3rd Person Singular Masculine;41336;;;;mend1268;hoel-et-al-1994
-ohi;;3sg_m_p;3rd Person Singular Masculine;41335;;;;mend1268;hoel-et-al-1994
-sir;;3sg_n_a;3rd Person Singular Neuter;41334;;;;mend1268;hoel-et-al-1994
-sir;;3sg_n_s;3rd Person Singular Neuter;41333;;;;mend1268;hoel-et-al-1994
-sirin;;3sg_n_o;3rd Person Singular Neuter;41332;;;;mend1268;hoel-et-al-1994
-sihi;;3sg_n_p;3rd Person Singular Neuter;41331;;;;mend1268;hoel-et-al-1994
-frir;;3d-a;3rd Person Dual;41330;;;;mend1268;hoel-et-al-1994
-frir;;3d-s;3rd Person Dual;41329;;;;mend1268;hoel-et-al-1994
-fririn;;3d-o;3rd Person Dual;41328;;;;mend1268;hoel-et-al-1994
-frihi;;3d-p;3rd Person Dual;41327;;;;mend1268;hoel-et-al-1994
-lir;;3p-a;3rd Person Plural;41326;;;;mend1268;hoel-et-al-1994
-lir;;3p-s;3rd Person Plural;41325;;;;mend1268;hoel-et-al-1994
-lirin;;3p-o;3rd Person Plural;41324;;;;mend1268;hoel-et-al-1994
-lihi;;3p-p;3rd Person Plural;41323;;;;mend1268;hoel-et-al-1994
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+an,,1sg_a,1st (excl) Person Singular,41370,,,,mend1268,hoel-et-al-1994
+an,,1sg_s,1st (excl) Person Singular,41369,,,,mend1268,hoel-et-al-1994
+anin,,1sg_o,1st (excl) Person Singular,41368,,,,mend1268,hoel-et-al-1994
+anhi,,1sg_p,1st (excl) Person Singular,41367,,,,mend1268,hoel-et-al-1994
+šir,,1du_a,1st (excl) Person Dual,41366,,,,mend1268,hoel-et-al-1994
+šir,,1du_s,1st (excl) Person Dual,41365,,,,mend1268,hoel-et-al-1994
+širin,,1du_o,1st (excl) Person Dual,41364,,,,mend1268,hoel-et-al-1994
+šihi,,1du_p,1st (excl) Person Dual,41363,,,,mend1268,hoel-et-al-1994
+nir,,1pl_a,1st (excl) Person Plural,41362,,,,mend1268,hoel-et-al-1994
+nir,,1pl_s,1st (excl) Person Plural,41361,,,,mend1268,hoel-et-al-1994
+nirin,,1pl_o,1st (excl) Person Plural,41360,,,,mend1268,hoel-et-al-1994
+nihi,,1pl_p,1st (excl) Person Plural,41359,,,,mend1268,hoel-et-al-1994
+šir,,12du_a,1st (incl) Person Dual,41358,,,,mend1268,hoel-et-al-1994
+šir,,12du_s,1st (incl) Person Dual,41357,,,,mend1268,hoel-et-al-1994
+širin,,12du_o,1st (incl) Person Dual,41356,,,,mend1268,hoel-et-al-1994
+šihi,,12du_p,1st (incl) Person Dual,41355,,,,mend1268,hoel-et-al-1994
+nir,,12pl_a,1st (incl) Person Plural,41354,,,,mend1268,hoel-et-al-1994
+nir,,12pl_s,1st (incl) Person Plural,41353,,,,mend1268,hoel-et-al-1994
+nirin,,12pl_o,1st (incl) Person Plural,41352,,,,mend1268,hoel-et-al-1994
+nihi,,12pl_p,1st (incl) Person Plural,41351,,,,mend1268,hoel-et-al-1994
+mir,,2sg_a,2nd Person Singular,41350,,,,mend1268,hoel-et-al-1994
+mir,,2sg_s,2nd Person Singular,41349,,,,mend1268,hoel-et-al-1994
+mirin,,2sg_o,2nd Person Singular,41348,,,,mend1268,hoel-et-al-1994
+mihi,,2sg_p,2nd Person Singular,41347,,,,mend1268,hoel-et-al-1994
+šir,,2du_a,2nd Person Dual,41346,,,,mend1268,hoel-et-al-1994
+šir,,2du_s,2nd Person Dual,41345,,,,mend1268,hoel-et-al-1994
+širin,,2du_o,2nd Person Dual,41344,,,,mend1268,hoel-et-al-1994
+šihi,,2du_p,2nd Person Dual,41343,,,,mend1268,hoel-et-al-1994
+jir,,2pl_a,2nd Person Plural,41342,,,,mend1268,hoel-et-al-1994
+jir,,2pl_s,2nd Person Plural,41341,,,,mend1268,hoel-et-al-1994
+jirin,,2pl_o,2nd Person Plural,41340,,,,mend1268,hoel-et-al-1994
+jihi,,2pl_p,2nd Person Plural,41339,,,,mend1268,hoel-et-al-1994
+or,,3sg_m_a,3rd Person Singular Masculine,41338,,,,mend1268,hoel-et-al-1994
+or,,3sg_m_s,3rd Person Singular Masculine,41337,,,,mend1268,hoel-et-al-1994
+orin,,3sg_m_o,3rd Person Singular Masculine,41336,,,,mend1268,hoel-et-al-1994
+ohi,,3sg_m_p,3rd Person Singular Masculine,41335,,,,mend1268,hoel-et-al-1994
+sir,,3sg_n_a,3rd Person Singular Neuter,41334,,,,mend1268,hoel-et-al-1994
+sir,,3sg_n_s,3rd Person Singular Neuter,41333,,,,mend1268,hoel-et-al-1994
+sirin,,3sg_n_o,3rd Person Singular Neuter,41332,,,,mend1268,hoel-et-al-1994
+sihi,,3sg_n_p,3rd Person Singular Neuter,41331,,,,mend1268,hoel-et-al-1994
+frir,,3d-a,3rd Person Dual,41330,,,,mend1268,hoel-et-al-1994
+frir,,3d-s,3rd Person Dual,41329,,,,mend1268,hoel-et-al-1994
+fririn,,3d-o,3rd Person Dual,41328,,,,mend1268,hoel-et-al-1994
+frihi,,3d-p,3rd Person Dual,41327,,,,mend1268,hoel-et-al-1994
+lir,,3p-a,3rd Person Plural,41326,,,,mend1268,hoel-et-al-1994
+lir,,3p-s,3rd Person Plural,41325,,,,mend1268,hoel-et-al-1994
+lirin,,3p-o,3rd Person Plural,41324,,,,mend1268,hoel-et-al-1994
+lihi,,3p-p,3rd Person Plural,41323,,,,mend1268,hoel-et-al-1994

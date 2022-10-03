@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-kupm;;1sg_a;1st (excl) Person Singular;40866;;;;urim1252;hemmila-and-luoma-1987
-kupm;;1sg_s;1st (excl) Person Singular;40865;;;;urim1252;hemmila-and-luoma-1987
-kupm;;1sg_o;1st (excl) Person Singular;40864;;;;urim1252;hemmila-and-luoma-1987
-kupm;;1sg_p;1st (excl) Person Singular;40863;;;;urim1252;hemmila-and-luoma-1987
-mentekŋ;;1du_a;1st (excl) Person Dual;40862;;;;urim1252;hemmila-and-luoma-1987
-mentekŋ;;1du_s;1st (excl) Person Dual;40861;;;;urim1252;hemmila-and-luoma-1987
-mentekŋ;;1du_o;1st (excl) Person Dual;40860;;;;urim1252;hemmila-and-luoma-1987
-mentekŋ;;1du_p;1st (excl) Person Dual;40859;;;;urim1252;hemmila-and-luoma-1987
-men;;1pl_a;1st (excl) Person Plural;40858;;;;urim1252;hemmila-and-luoma-1987
-men;;1pl_s;1st (excl) Person Plural;40857;;;;urim1252;hemmila-and-luoma-1987
-men;;1pl_o;1st (excl) Person Plural;40856;;;;urim1252;hemmila-and-luoma-1987
-men;;1pl_p;1st (excl) Person Plural;40855;;;;urim1252;hemmila-and-luoma-1987
-mentekŋ;;12du_a;1st (incl) Person Dual;40854;;;;urim1252;hemmila-and-luoma-1987
-mentekŋ;;12du_s;1st (incl) Person Dual;40853;;;;urim1252;hemmila-and-luoma-1987
-mentekŋ;;12du_o;1st (incl) Person Dual;40852;;;;urim1252;hemmila-and-luoma-1987
-mentekŋ;;12du_p;1st (incl) Person Dual;40851;;;;urim1252;hemmila-and-luoma-1987
-mentepm;;12pl_a;1st (incl) Person Plural;40850;;;;urim1252;hemmila-and-luoma-1987
-mentepm;;12pl_s;1st (incl) Person Plural;40849;;;;urim1252;hemmila-and-luoma-1987
-mentepm;;12pl_o;1st (incl) Person Plural;40848;;;;urim1252;hemmila-and-luoma-1987
-mentepm;;12pl_p;1st (incl) Person Plural;40847;;;;urim1252;hemmila-and-luoma-1987
-kitn;;2sg_a;2nd Person Singular;40846;;;;urim1252;hemmila-and-luoma-1987
-kitn;;2sg_s;2nd Person Singular;40845;;;;urim1252;hemmila-and-luoma-1987
-kitn;;2sg_o;2nd Person Singular;40844;;;;urim1252;hemmila-and-luoma-1987
-kitn;;2sg_p;2nd Person Singular;40843;;;;urim1252;hemmila-and-luoma-1987
-kipmekŋ;;2du_a;2nd Person Dual;40842;;;;urim1252;hemmila-and-luoma-1987
-kipmekŋ;;2du_s;2nd Person Dual;40841;;;;urim1252;hemmila-and-luoma-1987
-kipmekŋ;;2du_o;2nd Person Dual;40840;;;;urim1252;hemmila-and-luoma-1987
-kipmekŋ;;2du_p;2nd Person Dual;40839;;;;urim1252;hemmila-and-luoma-1987
-kipm;;2pl_a;2nd Person Plural;40838;;;;urim1252;hemmila-and-luoma-1987
-kipm;;2pl_s;2nd Person Plural;40837;;;;urim1252;hemmila-and-luoma-1987
-kipm;;2pl_o;2nd Person Plural;40836;;;;urim1252;hemmila-and-luoma-1987
-kipm;;2pl_p;2nd Person Plural;40835;;;;urim1252;hemmila-and-luoma-1987
-kil;;3sg_m_a;3rd Person Singular Masculine;40834;;;;urim1252;hemmila-and-luoma-1987
-kil;;3sg_m_s;3rd Person Singular Masculine;40833;;;;urim1252;hemmila-and-luoma-1987
-kil;;3sg_m_o;3rd Person Singular Masculine;40832;;;;urim1252;hemmila-and-luoma-1987
-kil;;3sg_m_p;3rd Person Singular Masculine;40831;;;;urim1252;hemmila-and-luoma-1987
-kil;;3sg_n_a;3rd Person Singular Neuter;40830;;;;urim1252;hemmila-and-luoma-1987
-kil;;3sg_n_s;3rd Person Singular Neuter;40829;;;;urim1252;hemmila-and-luoma-1987
-kil;;3sg_n_o;3rd Person Singular Neuter;40828;;;;urim1252;hemmila-and-luoma-1987
-kil;;3sg_n_p;3rd Person Singular Neuter;40827;;;;urim1252;hemmila-and-luoma-1987
-tuwekŋ;;3d-a;3rd Person Dual;40826;;;;urim1252;hemmila-and-luoma-1987
-tuwekŋ;;3d-s;3rd Person Dual;40825;;;;urim1252;hemmila-and-luoma-1987
-tuwekŋ;;3d-o;3rd Person Dual;40824;;;;urim1252;hemmila-and-luoma-1987
-tuwekŋ;;3d-p;3rd Person Dual;40823;;;;urim1252;hemmila-and-luoma-1987
-tu;;3p-a;3rd Person Plural;40822;;;;urim1252;hemmila-and-luoma-1987
-tu;;3p-s;3rd Person Plural;40821;;;;urim1252;hemmila-and-luoma-1987
-tu;;3p-o;3rd Person Plural;40820;;;;urim1252;hemmila-and-luoma-1987
-tu;;3p-p;3rd Person Plural;40819;;;;urim1252;hemmila-and-luoma-1987
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+kupm,,1sg_a,1st (excl) Person Singular,40866,,,,urim1252,hemmila-and-luoma-1987
+kupm,,1sg_s,1st (excl) Person Singular,40865,,,,urim1252,hemmila-and-luoma-1987
+kupm,,1sg_o,1st (excl) Person Singular,40864,,,,urim1252,hemmila-and-luoma-1987
+kupm,,1sg_p,1st (excl) Person Singular,40863,,,,urim1252,hemmila-and-luoma-1987
+mentekŋ,,1du_a,1st (excl) Person Dual,40862,,,,urim1252,hemmila-and-luoma-1987
+mentekŋ,,1du_s,1st (excl) Person Dual,40861,,,,urim1252,hemmila-and-luoma-1987
+mentekŋ,,1du_o,1st (excl) Person Dual,40860,,,,urim1252,hemmila-and-luoma-1987
+mentekŋ,,1du_p,1st (excl) Person Dual,40859,,,,urim1252,hemmila-and-luoma-1987
+men,,1pl_a,1st (excl) Person Plural,40858,,,,urim1252,hemmila-and-luoma-1987
+men,,1pl_s,1st (excl) Person Plural,40857,,,,urim1252,hemmila-and-luoma-1987
+men,,1pl_o,1st (excl) Person Plural,40856,,,,urim1252,hemmila-and-luoma-1987
+men,,1pl_p,1st (excl) Person Plural,40855,,,,urim1252,hemmila-and-luoma-1987
+mentekŋ,,12du_a,1st (incl) Person Dual,40854,,,,urim1252,hemmila-and-luoma-1987
+mentekŋ,,12du_s,1st (incl) Person Dual,40853,,,,urim1252,hemmila-and-luoma-1987
+mentekŋ,,12du_o,1st (incl) Person Dual,40852,,,,urim1252,hemmila-and-luoma-1987
+mentekŋ,,12du_p,1st (incl) Person Dual,40851,,,,urim1252,hemmila-and-luoma-1987
+mentepm,,12pl_a,1st (incl) Person Plural,40850,,,,urim1252,hemmila-and-luoma-1987
+mentepm,,12pl_s,1st (incl) Person Plural,40849,,,,urim1252,hemmila-and-luoma-1987
+mentepm,,12pl_o,1st (incl) Person Plural,40848,,,,urim1252,hemmila-and-luoma-1987
+mentepm,,12pl_p,1st (incl) Person Plural,40847,,,,urim1252,hemmila-and-luoma-1987
+kitn,,2sg_a,2nd Person Singular,40846,,,,urim1252,hemmila-and-luoma-1987
+kitn,,2sg_s,2nd Person Singular,40845,,,,urim1252,hemmila-and-luoma-1987
+kitn,,2sg_o,2nd Person Singular,40844,,,,urim1252,hemmila-and-luoma-1987
+kitn,,2sg_p,2nd Person Singular,40843,,,,urim1252,hemmila-and-luoma-1987
+kipmekŋ,,2du_a,2nd Person Dual,40842,,,,urim1252,hemmila-and-luoma-1987
+kipmekŋ,,2du_s,2nd Person Dual,40841,,,,urim1252,hemmila-and-luoma-1987
+kipmekŋ,,2du_o,2nd Person Dual,40840,,,,urim1252,hemmila-and-luoma-1987
+kipmekŋ,,2du_p,2nd Person Dual,40839,,,,urim1252,hemmila-and-luoma-1987
+kipm,,2pl_a,2nd Person Plural,40838,,,,urim1252,hemmila-and-luoma-1987
+kipm,,2pl_s,2nd Person Plural,40837,,,,urim1252,hemmila-and-luoma-1987
+kipm,,2pl_o,2nd Person Plural,40836,,,,urim1252,hemmila-and-luoma-1987
+kipm,,2pl_p,2nd Person Plural,40835,,,,urim1252,hemmila-and-luoma-1987
+kil,,3sg_m_a,3rd Person Singular Masculine,40834,,,,urim1252,hemmila-and-luoma-1987
+kil,,3sg_m_s,3rd Person Singular Masculine,40833,,,,urim1252,hemmila-and-luoma-1987
+kil,,3sg_m_o,3rd Person Singular Masculine,40832,,,,urim1252,hemmila-and-luoma-1987
+kil,,3sg_m_p,3rd Person Singular Masculine,40831,,,,urim1252,hemmila-and-luoma-1987
+kil,,3sg_n_a,3rd Person Singular Neuter,40830,,,,urim1252,hemmila-and-luoma-1987
+kil,,3sg_n_s,3rd Person Singular Neuter,40829,,,,urim1252,hemmila-and-luoma-1987
+kil,,3sg_n_o,3rd Person Singular Neuter,40828,,,,urim1252,hemmila-and-luoma-1987
+kil,,3sg_n_p,3rd Person Singular Neuter,40827,,,,urim1252,hemmila-and-luoma-1987
+tuwekŋ,,3d-a,3rd Person Dual,40826,,,,urim1252,hemmila-and-luoma-1987
+tuwekŋ,,3d-s,3rd Person Dual,40825,,,,urim1252,hemmila-and-luoma-1987
+tuwekŋ,,3d-o,3rd Person Dual,40824,,,,urim1252,hemmila-and-luoma-1987
+tuwekŋ,,3d-p,3rd Person Dual,40823,,,,urim1252,hemmila-and-luoma-1987
+tu,,3p-a,3rd Person Plural,40822,,,,urim1252,hemmila-and-luoma-1987
+tu,,3p-s,3rd Person Plural,40821,,,,urim1252,hemmila-and-luoma-1987
+tu,,3p-o,3rd Person Plural,40820,,,,urim1252,hemmila-and-luoma-1987
+tu,,3p-p,3rd Person Plural,40819,,,,urim1252,hemmila-and-luoma-1987

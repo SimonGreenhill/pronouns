@@ -1,77 +1,77 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-inau;;1sg_a;1st (excl) Person Singular;23387;;;;paam1238;crowley-1982
-inau;;1sg_s;1st (excl) Person Singular;23388;;;;paam1238;crowley-1982
-inau;;1sg_o;1st (excl) Person Singular;23389;;;;paam1238;crowley-1982
--ku;;1sg_p;1st (excl) Person Singular;23390;;;;paam1238;crowley-1982
-komalu;;1du_a;1st (excl) Person Dual;23391;;;;paam1238;crowley-1982
-komalu;;1du_s;1st (excl) Person Dual;23392;;;;paam1238;crowley-1982
-komalu;;1du_o;1st (excl) Person Dual;23393;;;;paam1238;crowley-1982
--malu;;1du_p;1st (excl) Person Dual;23394;;;;paam1238;crowley-1982
-komai;;1pl_a;1st (excl) Person Plural;23395;;;;paam1238;crowley-1982
-komai;;1pl_s;1st (excl) Person Plural;23396;;;;paam1238;crowley-1982
-komai;;1pl_o;1st (excl) Person Plural;23397;;;;paam1238;crowley-1982
--mai;;1pl_p;1st (excl) Person Plural;23398;;;;paam1238;crowley-1982
-ialue;;12du_a;1st (incl) Person Dual;23399;;;;paam1238;crowley-1982
-ialue;;12du_s;1st (incl) Person Dual;23400;;;;paam1238;crowley-1982
-ialue;;12du_o;1st (incl) Person Dual;23401;;;;paam1238;crowley-1982
--ralue;;12du_p;1st (incl) Person Dual;23402;;;;paam1238;crowley-1982
-iire;;12pl_a;1st (incl) Person Plural;23403;;;;paam1238;crowley-1982
-iire;;12pl_s;1st (incl) Person Plural;23404;;;;paam1238;crowley-1982
-iire;;12pl_o;1st (incl) Person Plural;23405;;;;paam1238;crowley-1982
--re;;12pl_p;1st (incl) Person Plural;23406;;;;paam1238;crowley-1982
-kaiko;;2sg_a;2nd Person Singular;23407;;;;paam1238;crowley-1982
-kaiko;;2sg_s;2nd Person Singular;23408;;;;paam1238;crowley-1982
-kaiko;;2sg_o;2nd Person Singular;23409;;;;paam1238;crowley-1982
--mo;;2sg_p;2nd Person Singular;23410;;;;paam1238;crowley-1982
-kamilu;;2du_a;2nd Person Dual;23411;;;;paam1238;crowley-1982
-kamilu;;2du_s;2nd Person Dual;23412;;;;paam1238;crowley-1982
-kamilu;;2du_o;2nd Person Dual;23413;;;;paam1238;crowley-1982
--milu;;2du_p;2nd Person Dual;23414;;;;paam1238;crowley-1982
-kamii;;2pl_a;2nd Person Plural;23415;;;;paam1238;crowley-1982
-kamii;;2pl_s;2nd Person Plural;23416;;;;paam1238;crowley-1982
-kamii;;2pl_o;2nd Person Plural;23417;;;;paam1238;crowley-1982
--mii;;2pl_p;2nd Person Plural;23418;;;;paam1238;crowley-1982
-kaie;;3sg_m_a;3rd Person Singular Masculine;23419;;;;paam1238;crowley-1982
-kaie;;3sg_m_s;3rd Person Singular Masculine;23420;;;;paam1238;crowley-1982
-kaie;;3sg_m_o;3rd Person Singular Masculine;23421;;;;paam1238;crowley-1982
--ne;;3sg_m_p;3rd Person Singular Masculine;23422;;;;paam1238;crowley-1982
-kaie;;3sg_f_a;3rd Person Singular Feminine;23423;;;;paam1238;crowley-1982
-kaie;;3sg_f_s;3rd Person Singular Feminine;23424;;;;paam1238;crowley-1982
-kaie;;3sg_f_o;3rd Person Singular Feminine;23425;;;;paam1238;crowley-1982
--ne;;3sg_f_p;3rd Person Singular Feminine;23426;;;;paam1238;crowley-1982
-kaie;;3sg_n_a;3rd Person Singular Neuter;23427;;;;paam1238;crowley-1982
-kaie;;3sg_n_s;3rd Person Singular Neuter;23428;;;;paam1238;crowley-1982
-kaie;;3sg_n_o;3rd Person Singular Neuter;23429;;;;paam1238;crowley-1982
--ne;;3sg_n_p;3rd Person Singular Neuter;23430;;;;paam1238;crowley-1982
-kailue;;3du_m_a;3rd Person Dual Masculine;23431;;;;paam1238;crowley-1982
-kailue;;3du_m_s;3rd Person Dual Masculine;23432;;;;paam1238;crowley-1982
-kailue;;3du_m_o;3rd Person Dual Masculine;23433;;;;paam1238;crowley-1982
--lalue;;3du_m_p;3rd Person Dual Masculine;23434;;;;paam1238;crowley-1982
-kailue;;3du_f_a;3rd Person Dual Feminine;23435;;;;paam1238;crowley-1982
-kailue;;3du_f_s;3rd Person Dual Feminine;23436;;;;paam1238;crowley-1982
-kailue;;3du_f_o;3rd Person Dual Feminine;23437;;;;paam1238;crowley-1982
--lalue;;3du_f_p;3rd Person Dual Feminine;23438;;;;paam1238;crowley-1982
-kailue;;3du_n_a;3rd Person Dual Neuter;23439;;;;paam1238;crowley-1982
-kailue;;3du_n_s;3rd Person Dual Neuter;23440;;;;paam1238;crowley-1982
-kailue;;3du_n_o;3rd Person Dual Neuter;23441;;;;paam1238;crowley-1982
--lalue;;3du_n_p;3rd Person Dual Neuter;23442;;;;paam1238;crowley-1982
-kaile;;3pl_m_a;3rd Person Plural Masculine;23443;;;;paam1238;crowley-1982
-kaile;;3pl_m_s;3rd Person Plural Masculine;23444;;;;paam1238;crowley-1982
-kaile;;3pl_m_o;3rd Person Plural Masculine;23445;;;;paam1238;crowley-1982
--le;;3pl_m_p;3rd Person Plural Masculine;23446;;;;paam1238;crowley-1982
-kaile;;3pl_f_a;3rd Person Plural Feminine;23447;;;;paam1238;crowley-1982
-kaile;;3pl_f_s;3rd Person Plural Feminine;23448;;;;paam1238;crowley-1982
-kaile;;3pl_f_o;3rd Person Plural Feminine;23449;;;;paam1238;crowley-1982
--le;;3pl_f_p;3rd Person Plural Feminine;23450;;;;paam1238;crowley-1982
-kaile;;3pl_n_a;3rd Person Plural Neuter;23451;;;;paam1238;crowley-1982
-kaile;;3pl_n_s;3rd Person Plural Neuter;23452;;;;paam1238;crowley-1982
-kaile;;3pl_n_o;3rd Person Plural Neuter;23453;;;;paam1238;crowley-1982
--le;;3pl_n_p;3rd Person Plural Neuter;23454;;;;paam1238;crowley-1982
-kailue;;3d-a;3rd Person Dual;36239;;;;paam1238;crowley-1982
-kailue;;3d-s;3rd Person Dual;36459;;;;paam1238;crowley-1982
-kailue;;3d-o;3rd Person Dual;36687;;;;paam1238;crowley-1982
--lalue;;3d-p;3rd Person Dual;36909;;;;paam1238;crowley-1982
-kaile;;3p-a;3rd Person Plural;37119;;;;paam1238;crowley-1982
-kaile;;3p-s;3rd Person Plural;37340;;;;paam1238;crowley-1982
-kaile;;3p-o;3rd Person Plural;37567;;;;paam1238;crowley-1982
--le;;3p-p;3rd Person Plural;37787;;;;paam1238;crowley-1982
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+inau,,1sg_a,1st (excl) Person Singular,23387,,,,paam1238,crowley-1982
+inau,,1sg_s,1st (excl) Person Singular,23388,,,,paam1238,crowley-1982
+inau,,1sg_o,1st (excl) Person Singular,23389,,,,paam1238,crowley-1982
+-ku,,1sg_p,1st (excl) Person Singular,23390,,,,paam1238,crowley-1982
+komalu,,1du_a,1st (excl) Person Dual,23391,,,,paam1238,crowley-1982
+komalu,,1du_s,1st (excl) Person Dual,23392,,,,paam1238,crowley-1982
+komalu,,1du_o,1st (excl) Person Dual,23393,,,,paam1238,crowley-1982
+-malu,,1du_p,1st (excl) Person Dual,23394,,,,paam1238,crowley-1982
+komai,,1pl_a,1st (excl) Person Plural,23395,,,,paam1238,crowley-1982
+komai,,1pl_s,1st (excl) Person Plural,23396,,,,paam1238,crowley-1982
+komai,,1pl_o,1st (excl) Person Plural,23397,,,,paam1238,crowley-1982
+-mai,,1pl_p,1st (excl) Person Plural,23398,,,,paam1238,crowley-1982
+ialue,,12du_a,1st (incl) Person Dual,23399,,,,paam1238,crowley-1982
+ialue,,12du_s,1st (incl) Person Dual,23400,,,,paam1238,crowley-1982
+ialue,,12du_o,1st (incl) Person Dual,23401,,,,paam1238,crowley-1982
+-ralue,,12du_p,1st (incl) Person Dual,23402,,,,paam1238,crowley-1982
+iire,,12pl_a,1st (incl) Person Plural,23403,,,,paam1238,crowley-1982
+iire,,12pl_s,1st (incl) Person Plural,23404,,,,paam1238,crowley-1982
+iire,,12pl_o,1st (incl) Person Plural,23405,,,,paam1238,crowley-1982
+-re,,12pl_p,1st (incl) Person Plural,23406,,,,paam1238,crowley-1982
+kaiko,,2sg_a,2nd Person Singular,23407,,,,paam1238,crowley-1982
+kaiko,,2sg_s,2nd Person Singular,23408,,,,paam1238,crowley-1982
+kaiko,,2sg_o,2nd Person Singular,23409,,,,paam1238,crowley-1982
+-mo,,2sg_p,2nd Person Singular,23410,,,,paam1238,crowley-1982
+kamilu,,2du_a,2nd Person Dual,23411,,,,paam1238,crowley-1982
+kamilu,,2du_s,2nd Person Dual,23412,,,,paam1238,crowley-1982
+kamilu,,2du_o,2nd Person Dual,23413,,,,paam1238,crowley-1982
+-milu,,2du_p,2nd Person Dual,23414,,,,paam1238,crowley-1982
+kamii,,2pl_a,2nd Person Plural,23415,,,,paam1238,crowley-1982
+kamii,,2pl_s,2nd Person Plural,23416,,,,paam1238,crowley-1982
+kamii,,2pl_o,2nd Person Plural,23417,,,,paam1238,crowley-1982
+-mii,,2pl_p,2nd Person Plural,23418,,,,paam1238,crowley-1982
+kaie,,3sg_m_a,3rd Person Singular Masculine,23419,,,,paam1238,crowley-1982
+kaie,,3sg_m_s,3rd Person Singular Masculine,23420,,,,paam1238,crowley-1982
+kaie,,3sg_m_o,3rd Person Singular Masculine,23421,,,,paam1238,crowley-1982
+-ne,,3sg_m_p,3rd Person Singular Masculine,23422,,,,paam1238,crowley-1982
+kaie,,3sg_f_a,3rd Person Singular Feminine,23423,,,,paam1238,crowley-1982
+kaie,,3sg_f_s,3rd Person Singular Feminine,23424,,,,paam1238,crowley-1982
+kaie,,3sg_f_o,3rd Person Singular Feminine,23425,,,,paam1238,crowley-1982
+-ne,,3sg_f_p,3rd Person Singular Feminine,23426,,,,paam1238,crowley-1982
+kaie,,3sg_n_a,3rd Person Singular Neuter,23427,,,,paam1238,crowley-1982
+kaie,,3sg_n_s,3rd Person Singular Neuter,23428,,,,paam1238,crowley-1982
+kaie,,3sg_n_o,3rd Person Singular Neuter,23429,,,,paam1238,crowley-1982
+-ne,,3sg_n_p,3rd Person Singular Neuter,23430,,,,paam1238,crowley-1982
+kailue,,3du_m_a,3rd Person Dual Masculine,23431,,,,paam1238,crowley-1982
+kailue,,3du_m_s,3rd Person Dual Masculine,23432,,,,paam1238,crowley-1982
+kailue,,3du_m_o,3rd Person Dual Masculine,23433,,,,paam1238,crowley-1982
+-lalue,,3du_m_p,3rd Person Dual Masculine,23434,,,,paam1238,crowley-1982
+kailue,,3du_f_a,3rd Person Dual Feminine,23435,,,,paam1238,crowley-1982
+kailue,,3du_f_s,3rd Person Dual Feminine,23436,,,,paam1238,crowley-1982
+kailue,,3du_f_o,3rd Person Dual Feminine,23437,,,,paam1238,crowley-1982
+-lalue,,3du_f_p,3rd Person Dual Feminine,23438,,,,paam1238,crowley-1982
+kailue,,3du_n_a,3rd Person Dual Neuter,23439,,,,paam1238,crowley-1982
+kailue,,3du_n_s,3rd Person Dual Neuter,23440,,,,paam1238,crowley-1982
+kailue,,3du_n_o,3rd Person Dual Neuter,23441,,,,paam1238,crowley-1982
+-lalue,,3du_n_p,3rd Person Dual Neuter,23442,,,,paam1238,crowley-1982
+kaile,,3pl_m_a,3rd Person Plural Masculine,23443,,,,paam1238,crowley-1982
+kaile,,3pl_m_s,3rd Person Plural Masculine,23444,,,,paam1238,crowley-1982
+kaile,,3pl_m_o,3rd Person Plural Masculine,23445,,,,paam1238,crowley-1982
+-le,,3pl_m_p,3rd Person Plural Masculine,23446,,,,paam1238,crowley-1982
+kaile,,3pl_f_a,3rd Person Plural Feminine,23447,,,,paam1238,crowley-1982
+kaile,,3pl_f_s,3rd Person Plural Feminine,23448,,,,paam1238,crowley-1982
+kaile,,3pl_f_o,3rd Person Plural Feminine,23449,,,,paam1238,crowley-1982
+-le,,3pl_f_p,3rd Person Plural Feminine,23450,,,,paam1238,crowley-1982
+kaile,,3pl_n_a,3rd Person Plural Neuter,23451,,,,paam1238,crowley-1982
+kaile,,3pl_n_s,3rd Person Plural Neuter,23452,,,,paam1238,crowley-1982
+kaile,,3pl_n_o,3rd Person Plural Neuter,23453,,,,paam1238,crowley-1982
+-le,,3pl_n_p,3rd Person Plural Neuter,23454,,,,paam1238,crowley-1982
+kailue,,3d-a,3rd Person Dual,36239,,,,paam1238,crowley-1982
+kailue,,3d-s,3rd Person Dual,36459,,,,paam1238,crowley-1982
+kailue,,3d-o,3rd Person Dual,36687,,,,paam1238,crowley-1982
+-lalue,,3d-p,3rd Person Dual,36909,,,,paam1238,crowley-1982
+kaile,,3p-a,3rd Person Plural,37119,,,,paam1238,crowley-1982
+kaile,,3p-s,3rd Person Plural,37340,,,,paam1238,crowley-1982
+kaile,,3p-o,3rd Person Plural,37567,,,,paam1238,crowley-1982
+-le,,3p-p,3rd Person Plural,37787,,,,paam1238,crowley-1982

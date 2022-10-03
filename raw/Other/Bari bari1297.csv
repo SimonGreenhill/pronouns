@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nay;;1sg_a;1st (excl) Person Singular;54029;;;;bari1297;quesada-2004
-nay;;1sg_s;1st (excl) Person Singular;54028;;;;bari1297;quesada-2004
-nay;;1sg_o;1st (excl) Person Singular;54027;;;;bari1297;quesada-2004
-nay;;1sg_p;1st (excl) Person Singular;54026;;;;bari1297;quesada-2004
-chiji;;1du_a;1st (excl) Person Dual;54025;;;;bari1297;quesada-2004
-chiji;;1du_s;1st (excl) Person Dual;54024;;;;bari1297;quesada-2004
-chiji;;1du_o;1st (excl) Person Dual;54023;;;;bari1297;quesada-2004
-chiji;;1du_p;1st (excl) Person Dual;54022;;;;bari1297;quesada-2004
-chiji;;1pl_a;1st (excl) Person Plural;54021;;;;bari1297;quesada-2004
-chiji;;1pl_s;1st (excl) Person Plural;54020;;;;bari1297;quesada-2004
-chiji;;1pl_o;1st (excl) Person Plural;54019;;;;bari1297;quesada-2004
-chiji;;1pl_p;1st (excl) Person Plural;54018;;;;bari1297;quesada-2004
-chiji;;12du_a;1st (incl) Person Dual;54017;;;;bari1297;quesada-2004
-chiji;;12du_s;1st (incl) Person Dual;54016;;;;bari1297;quesada-2004
-chiji;;12du_o;1st (incl) Person Dual;54015;;;;bari1297;quesada-2004
-chiji;;12du_p;1st (incl) Person Dual;54014;;;;bari1297;quesada-2004
-chiji;;12pl_a;1st (incl) Person Plural;54013;;;;bari1297;quesada-2004
-chiji;;12pl_s;1st (incl) Person Plural;54012;;;;bari1297;quesada-2004
-chiji;;12pl_o;1st (incl) Person Plural;54011;;;;bari1297;quesada-2004
-chiji;;12pl_p;1st (incl) Person Plural;54010;;;;bari1297;quesada-2004
-bay;;2sg_a;2nd Person Singular;54009;;;;bari1297;quesada-2004
-bay;;2sg_s;2nd Person Singular;54008;;;;bari1297;quesada-2004
-bay;;2sg_o;2nd Person Singular;54007;;;;bari1297;quesada-2004
-bay;;2sg_p;2nd Person Singular;54006;;;;bari1297;quesada-2004
-biji;;2du_a;2nd Person Dual;54005;;;;bari1297;quesada-2004
-biji;;2du_s;2nd Person Dual;54004;;;;bari1297;quesada-2004
-biji;;2du_o;2nd Person Dual;54003;;;;bari1297;quesada-2004
-biji;;2du_p;2nd Person Dual;54002;;;;bari1297;quesada-2004
-biji;;2pl_a;2nd Person Plural;54001;;;;bari1297;quesada-2004
-biji;;2pl_s;2nd Person Plural;54000;;;;bari1297;quesada-2004
-biji;;2pl_o;2nd Person Plural;53999;;;;bari1297;quesada-2004
-biji;;2pl_p;2nd Person Plural;53998;;;;bari1297;quesada-2004
-obãy;;3sg_m_a;3rd Person Singular Masculine;53997;;;;bari1297;quesada-2004
-obãy;;3sg_m_s;3rd Person Singular Masculine;53996;;;;bari1297;quesada-2004
-obãy;;3sg_m_o;3rd Person Singular Masculine;53995;;;;bari1297;quesada-2004
-obãy;;3sg_m_p;3rd Person Singular Masculine;53994;;;;bari1297;quesada-2004
-obãy;;3sg_n_a;3rd Person Singular Neuter;53993;;;;bari1297;quesada-2004
-obãy;;3sg_n_s;3rd Person Singular Neuter;53992;;;;bari1297;quesada-2004
-obãy;;3sg_n_o;3rd Person Singular Neuter;53991;;;;bari1297;quesada-2004
-obãy;;3sg_n_p;3rd Person Singular Neuter;53990;;;;bari1297;quesada-2004
-obãyji;;3d-a;3rd Person Dual;53989;;;;bari1297;quesada-2004
-obãyji;;3d-s;3rd Person Dual;53988;;;;bari1297;quesada-2004
-obãyji;;3d-o;3rd Person Dual;53987;;;;bari1297;quesada-2004
-obãyji;;3d-p;3rd Person Dual;53986;;;;bari1297;quesada-2004
-obãyji;;3p-a;3rd Person Plural;53985;;;;bari1297;quesada-2004
-obãyji;;3p-s;3rd Person Plural;53984;;;;bari1297;quesada-2004
-obãyji;;3p-o;3rd Person Plural;53983;;;;bari1297;quesada-2004
-obãyji;;3p-p;3rd Person Plural;53982;;;;bari1297;quesada-2004
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nay,,1sg_a,1st (excl) Person Singular,54029,,,,bari1297,quesada-2004
+nay,,1sg_s,1st (excl) Person Singular,54028,,,,bari1297,quesada-2004
+nay,,1sg_o,1st (excl) Person Singular,54027,,,,bari1297,quesada-2004
+nay,,1sg_p,1st (excl) Person Singular,54026,,,,bari1297,quesada-2004
+chiji,,1du_a,1st (excl) Person Dual,54025,,,,bari1297,quesada-2004
+chiji,,1du_s,1st (excl) Person Dual,54024,,,,bari1297,quesada-2004
+chiji,,1du_o,1st (excl) Person Dual,54023,,,,bari1297,quesada-2004
+chiji,,1du_p,1st (excl) Person Dual,54022,,,,bari1297,quesada-2004
+chiji,,1pl_a,1st (excl) Person Plural,54021,,,,bari1297,quesada-2004
+chiji,,1pl_s,1st (excl) Person Plural,54020,,,,bari1297,quesada-2004
+chiji,,1pl_o,1st (excl) Person Plural,54019,,,,bari1297,quesada-2004
+chiji,,1pl_p,1st (excl) Person Plural,54018,,,,bari1297,quesada-2004
+chiji,,12du_a,1st (incl) Person Dual,54017,,,,bari1297,quesada-2004
+chiji,,12du_s,1st (incl) Person Dual,54016,,,,bari1297,quesada-2004
+chiji,,12du_o,1st (incl) Person Dual,54015,,,,bari1297,quesada-2004
+chiji,,12du_p,1st (incl) Person Dual,54014,,,,bari1297,quesada-2004
+chiji,,12pl_a,1st (incl) Person Plural,54013,,,,bari1297,quesada-2004
+chiji,,12pl_s,1st (incl) Person Plural,54012,,,,bari1297,quesada-2004
+chiji,,12pl_o,1st (incl) Person Plural,54011,,,,bari1297,quesada-2004
+chiji,,12pl_p,1st (incl) Person Plural,54010,,,,bari1297,quesada-2004
+bay,,2sg_a,2nd Person Singular,54009,,,,bari1297,quesada-2004
+bay,,2sg_s,2nd Person Singular,54008,,,,bari1297,quesada-2004
+bay,,2sg_o,2nd Person Singular,54007,,,,bari1297,quesada-2004
+bay,,2sg_p,2nd Person Singular,54006,,,,bari1297,quesada-2004
+biji,,2du_a,2nd Person Dual,54005,,,,bari1297,quesada-2004
+biji,,2du_s,2nd Person Dual,54004,,,,bari1297,quesada-2004
+biji,,2du_o,2nd Person Dual,54003,,,,bari1297,quesada-2004
+biji,,2du_p,2nd Person Dual,54002,,,,bari1297,quesada-2004
+biji,,2pl_a,2nd Person Plural,54001,,,,bari1297,quesada-2004
+biji,,2pl_s,2nd Person Plural,54000,,,,bari1297,quesada-2004
+biji,,2pl_o,2nd Person Plural,53999,,,,bari1297,quesada-2004
+biji,,2pl_p,2nd Person Plural,53998,,,,bari1297,quesada-2004
+obãy,,3sg_m_a,3rd Person Singular Masculine,53997,,,,bari1297,quesada-2004
+obãy,,3sg_m_s,3rd Person Singular Masculine,53996,,,,bari1297,quesada-2004
+obãy,,3sg_m_o,3rd Person Singular Masculine,53995,,,,bari1297,quesada-2004
+obãy,,3sg_m_p,3rd Person Singular Masculine,53994,,,,bari1297,quesada-2004
+obãy,,3sg_n_a,3rd Person Singular Neuter,53993,,,,bari1297,quesada-2004
+obãy,,3sg_n_s,3rd Person Singular Neuter,53992,,,,bari1297,quesada-2004
+obãy,,3sg_n_o,3rd Person Singular Neuter,53991,,,,bari1297,quesada-2004
+obãy,,3sg_n_p,3rd Person Singular Neuter,53990,,,,bari1297,quesada-2004
+obãyji,,3d-a,3rd Person Dual,53989,,,,bari1297,quesada-2004
+obãyji,,3d-s,3rd Person Dual,53988,,,,bari1297,quesada-2004
+obãyji,,3d-o,3rd Person Dual,53987,,,,bari1297,quesada-2004
+obãyji,,3d-p,3rd Person Dual,53986,,,,bari1297,quesada-2004
+obãyji,,3p-a,3rd Person Plural,53985,,,,bari1297,quesada-2004
+obãyji,,3p-s,3rd Person Plural,53984,,,,bari1297,quesada-2004
+obãyji,,3p-o,3rd Person Plural,53983,,,,bari1297,quesada-2004
+obãyji,,3p-p,3rd Person Plural,53982,,,,bari1297,quesada-2004

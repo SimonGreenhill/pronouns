@@ -1,72 +1,72 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ja;;1sg_a;1st (excl) Person Singular;26717;;;;lowe1385;stone-1993b
-ja;;1sg_s;1st (excl) Person Singular;26718;;;;lowe1385;stone-1993b
-mě;;1sg_o;1st (excl) Person Singular;26719;;;;lowe1385;stone-1993b
-mje;;1sg_p;1st (excl) Person Singular;26720;;;;lowe1385;stone-1993b
-mej;;1du_a;1st (excl) Person Dual;26721;;;;lowe1385;stone-1993b
-mej;;1du_s;1st (excl) Person Dual;26722;;;;lowe1385;stone-1993b
-naju;;1du_o;1st (excl) Person Dual;26723;;;;lowe1385;stone-1993b
-naju;;1du_p;1st (excl) Person Dual;26724;;;;lowe1385;stone-1993b
-my;;1pl_a;1st (excl) Person Plural;26725;;;;lowe1385;stone-1993b
-my;;1pl_s;1st (excl) Person Plural;26726;;;;lowe1385;stone-1993b
-nas;;1pl_o;1st (excl) Person Plural;26727;;;;lowe1385;stone-1993b
-nas;;1pl_p;1st (excl) Person Plural;26728;;;;lowe1385;stone-1993b
-mej;;12du_a;1st (incl) Person Dual;26729;;;;lowe1385;stone-1993b
-mej;;12du_s;1st (incl) Person Dual;26730;;;;lowe1385;stone-1993b
-naju;;12du_o;1st (incl) Person Dual;26731;;;;lowe1385;stone-1993b
-naju;;12du_p;1st (incl) Person Dual;26732;;;;lowe1385;stone-1993b
-my;;12pl_a;1st (incl) Person Plural;26733;;;;lowe1385;stone-1993b
-my;;12pl_s;1st (incl) Person Plural;26734;;;;lowe1385;stone-1993b
-nas;;12pl_o;1st (incl) Person Plural;26735;;;;lowe1385;stone-1993b
-nas;;12pl_p;1st (incl) Person Plural;26736;;;;lowe1385;stone-1993b
-ty;;2sg_a;2nd Person Singular;26737;;;;lowe1385;stone-1993b
-ty;;2sg_s;2nd Person Singular;26738;;;;lowe1385;stone-1993b
-tebje;;2sg_o;2nd Person Singular;26739;;;;lowe1385;stone-1993b
-tebje;;2sg_p;2nd Person Singular;61877;;;;lowe1385;stone-1993b
-wej;;2du_a;2nd Person Dual;26740;;;;lowe1385;stone-1993b
-wej;;2du_s;2nd Person Dual;26741;;;;lowe1385;stone-1993b
-waju;;2du_o;2nd Person Dual;26742;;;;lowe1385;stone-1993b
-waju;;2du_p;2nd Person Dual;61878;;;;lowe1385;stone-1993b
-wy;;2pl_a;2nd Person Plural;26743;;;;lowe1385;stone-1993b
-wy;;2pl_s;2nd Person Plural;26744;;;;lowe1385;stone-1993b
-was;;2pl_o;2nd Person Plural;26745;;;;lowe1385;stone-1993b
-was;;2pl_p;2nd Person Plural;61879;;;;lowe1385;stone-1993b
-won;;3sg_m_a;3rd Person Singular Masculine;26746;;;;lowe1385;stone-1993b
-won;;3sg_m_s;3rd Person Singular Masculine;26747;;;;lowe1385;stone-1993b
-jogo;;3sg_m_o;3rd Person Singular Masculine;26748;;;;lowe1385;stone-1993b
-jogo;;3sg_m_p;3rd Person Singular Masculine;61880;;;;lowe1385;stone-1993b
-wona;;3sg_f_a;3rd Person Singular Feminine;26749;;;;lowe1385;stone-1993b
-wona;;3sg_f_s;3rd Person Singular Feminine;26750;;;;lowe1385;stone-1993b
-ju;;3sg_f_o;3rd Person Singular Feminine;26751;;;;lowe1385;stone-1993b
-wono;;3sg_n_a;3rd Person Singular Neuter;26752;;won is masculine, wono is neuter and wona is feminine.;;lowe1385;stone-1993b
-wono;;3sg_n_s;3rd Person Singular Neuter;26753;;won is masculine, wono is neuter and wona is feminine.;;lowe1385;stone-1993b
-jo;;3sg_n_o;3rd Person Singular Neuter;26754;;jogo is masculine, jo is neuter and ju is feminine.;;lowe1385;stone-1993b
-jogo;;3sg_n_p;3rd Person Singular Neuter;61881;;jogo is masculine and neuter, jeje is feminine.;;lowe1385;stone-1993b
-wonej;;3du_m_a;3rd Person Dual Masculine;26755;;;;lowe1385;stone-1993b
-wonej;;3du_m_s;3rd Person Dual Masculine;26756;;;;lowe1385;stone-1993b
-jeju;;3du_m_o;3rd Person Dual Masculine;26757;;;;lowe1385;stone-1993b
-wonej;;3du_f_a;3rd Person Dual Feminine;26758;;;;lowe1385;stone-1993b
-wonej;;3du_f_s;3rd Person Dual Feminine;26759;;;;lowe1385;stone-1993b
-jej;;3du_f_o;3rd Person Dual Feminine;26760;;;;lowe1385;stone-1993b
-wonej;;3du_n_a;3rd Person Dual Neuter;26761;;;;lowe1385;stone-1993b
-wonej;;3du_n_s;3rd Person Dual Neuter;26762;;;;lowe1385;stone-1993b
-jej;;3du_n_o;3rd Person Dual Neuter;26763;;;;lowe1385;stone-1993b
-woni;;3pl_m_a;3rd Person Plural Masculine;26764;;;;lowe1385;stone-1993b
-woni;;3pl_m_s;3rd Person Plural Masculine;26765;;;;lowe1385;stone-1993b
-jich;;3pl_m_o;3rd Person Plural Masculine;26766;;;;lowe1385;stone-1993b
-woni;;3pl_f_a;3rd Person Plural Feminine;26767;;;;lowe1385;stone-1993b
-woni;;3pl_f_s;3rd Person Plural Feminine;26768;;;;lowe1385;stone-1993b
-je;;3pl_f_o;3rd Person Plural Feminine;26769;;;;lowe1385;stone-1993b
-woni;;3pl_n_a;3rd Person Plural Neuter;26770;;;;lowe1385;stone-1993b
-woni;;3pl_n_s;3rd Person Plural Neuter;26771;;;;lowe1385;stone-1993b
-je;;3pl_n_o;3rd Person Plural Neuter;26772;;;;lowe1385;stone-1993b
-wonej;;3d-a;3rd Person Dual;36274;;;;lowe1385;stone-1993b
-wonej;;3d-s;3rd Person Dual;36494;;;;lowe1385;stone-1993b
-jeju;;3d-o;3rd Person Dual;36721;;;;lowe1385;stone-1993b
-jej;;3d-o;3rd Person Dual;36722;;;;lowe1385;stone-1993b
-jeju;;3d-p;3rd Person Dual;61882;;;;lowe1385;stone-1993b
-woni;;3p-a;3rd Person Plural;37154;;;;lowe1385;stone-1993b
-woni;;3p-s;3rd Person Plural;37375;;;;lowe1385;stone-1993b
-jich;;3p-o;3rd Person Plural;37601;;;;lowe1385;stone-1993b
-je;;3p-o;3rd Person Plural;37602;;;;lowe1385;stone-1993b
-jich;;3p-p;3rd Person Plural;61883;;;;lowe1385;stone-1993b
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ja,,1sg_a,1st (excl) Person Singular,26717,,,,lowe1385,stone-1993b
+ja,,1sg_s,1st (excl) Person Singular,26718,,,,lowe1385,stone-1993b
+mě,,1sg_o,1st (excl) Person Singular,26719,,,,lowe1385,stone-1993b
+mje,,1sg_p,1st (excl) Person Singular,26720,,,,lowe1385,stone-1993b
+mej,,1du_a,1st (excl) Person Dual,26721,,,,lowe1385,stone-1993b
+mej,,1du_s,1st (excl) Person Dual,26722,,,,lowe1385,stone-1993b
+naju,,1du_o,1st (excl) Person Dual,26723,,,,lowe1385,stone-1993b
+naju,,1du_p,1st (excl) Person Dual,26724,,,,lowe1385,stone-1993b
+my,,1pl_a,1st (excl) Person Plural,26725,,,,lowe1385,stone-1993b
+my,,1pl_s,1st (excl) Person Plural,26726,,,,lowe1385,stone-1993b
+nas,,1pl_o,1st (excl) Person Plural,26727,,,,lowe1385,stone-1993b
+nas,,1pl_p,1st (excl) Person Plural,26728,,,,lowe1385,stone-1993b
+mej,,12du_a,1st (incl) Person Dual,26729,,,,lowe1385,stone-1993b
+mej,,12du_s,1st (incl) Person Dual,26730,,,,lowe1385,stone-1993b
+naju,,12du_o,1st (incl) Person Dual,26731,,,,lowe1385,stone-1993b
+naju,,12du_p,1st (incl) Person Dual,26732,,,,lowe1385,stone-1993b
+my,,12pl_a,1st (incl) Person Plural,26733,,,,lowe1385,stone-1993b
+my,,12pl_s,1st (incl) Person Plural,26734,,,,lowe1385,stone-1993b
+nas,,12pl_o,1st (incl) Person Plural,26735,,,,lowe1385,stone-1993b
+nas,,12pl_p,1st (incl) Person Plural,26736,,,,lowe1385,stone-1993b
+ty,,2sg_a,2nd Person Singular,26737,,,,lowe1385,stone-1993b
+ty,,2sg_s,2nd Person Singular,26738,,,,lowe1385,stone-1993b
+tebje,,2sg_o,2nd Person Singular,26739,,,,lowe1385,stone-1993b
+tebje,,2sg_p,2nd Person Singular,61877,,,,lowe1385,stone-1993b
+wej,,2du_a,2nd Person Dual,26740,,,,lowe1385,stone-1993b
+wej,,2du_s,2nd Person Dual,26741,,,,lowe1385,stone-1993b
+waju,,2du_o,2nd Person Dual,26742,,,,lowe1385,stone-1993b
+waju,,2du_p,2nd Person Dual,61878,,,,lowe1385,stone-1993b
+wy,,2pl_a,2nd Person Plural,26743,,,,lowe1385,stone-1993b
+wy,,2pl_s,2nd Person Plural,26744,,,,lowe1385,stone-1993b
+was,,2pl_o,2nd Person Plural,26745,,,,lowe1385,stone-1993b
+was,,2pl_p,2nd Person Plural,61879,,,,lowe1385,stone-1993b
+won,,3sg_m_a,3rd Person Singular Masculine,26746,,,,lowe1385,stone-1993b
+won,,3sg_m_s,3rd Person Singular Masculine,26747,,,,lowe1385,stone-1993b
+jogo,,3sg_m_o,3rd Person Singular Masculine,26748,,,,lowe1385,stone-1993b
+jogo,,3sg_m_p,3rd Person Singular Masculine,61880,,,,lowe1385,stone-1993b
+wona,,3sg_f_a,3rd Person Singular Feminine,26749,,,,lowe1385,stone-1993b
+wona,,3sg_f_s,3rd Person Singular Feminine,26750,,,,lowe1385,stone-1993b
+ju,,3sg_f_o,3rd Person Singular Feminine,26751,,,,lowe1385,stone-1993b
+wono,,3sg_n_a,3rd Person Singular Neuter,26752,,"won is masculine, wono is neuter and wona is feminine.",,lowe1385,stone-1993b
+wono,,3sg_n_s,3rd Person Singular Neuter,26753,,"won is masculine, wono is neuter and wona is feminine.",,lowe1385,stone-1993b
+jo,,3sg_n_o,3rd Person Singular Neuter,26754,,"jogo is masculine, jo is neuter and ju is feminine.",,lowe1385,stone-1993b
+jogo,,3sg_n_p,3rd Person Singular Neuter,61881,,"jogo is masculine and neuter, jeje is feminine.",,lowe1385,stone-1993b
+wonej,,3du_m_a,3rd Person Dual Masculine,26755,,,,lowe1385,stone-1993b
+wonej,,3du_m_s,3rd Person Dual Masculine,26756,,,,lowe1385,stone-1993b
+jeju,,3du_m_o,3rd Person Dual Masculine,26757,,,,lowe1385,stone-1993b
+wonej,,3du_f_a,3rd Person Dual Feminine,26758,,,,lowe1385,stone-1993b
+wonej,,3du_f_s,3rd Person Dual Feminine,26759,,,,lowe1385,stone-1993b
+jej,,3du_f_o,3rd Person Dual Feminine,26760,,,,lowe1385,stone-1993b
+wonej,,3du_n_a,3rd Person Dual Neuter,26761,,,,lowe1385,stone-1993b
+wonej,,3du_n_s,3rd Person Dual Neuter,26762,,,,lowe1385,stone-1993b
+jej,,3du_n_o,3rd Person Dual Neuter,26763,,,,lowe1385,stone-1993b
+woni,,3pl_m_a,3rd Person Plural Masculine,26764,,,,lowe1385,stone-1993b
+woni,,3pl_m_s,3rd Person Plural Masculine,26765,,,,lowe1385,stone-1993b
+jich,,3pl_m_o,3rd Person Plural Masculine,26766,,,,lowe1385,stone-1993b
+woni,,3pl_f_a,3rd Person Plural Feminine,26767,,,,lowe1385,stone-1993b
+woni,,3pl_f_s,3rd Person Plural Feminine,26768,,,,lowe1385,stone-1993b
+je,,3pl_f_o,3rd Person Plural Feminine,26769,,,,lowe1385,stone-1993b
+woni,,3pl_n_a,3rd Person Plural Neuter,26770,,,,lowe1385,stone-1993b
+woni,,3pl_n_s,3rd Person Plural Neuter,26771,,,,lowe1385,stone-1993b
+je,,3pl_n_o,3rd Person Plural Neuter,26772,,,,lowe1385,stone-1993b
+wonej,,3d-a,3rd Person Dual,36274,,,,lowe1385,stone-1993b
+wonej,,3d-s,3rd Person Dual,36494,,,,lowe1385,stone-1993b
+jeju,,3d-o,3rd Person Dual,36721,,,,lowe1385,stone-1993b
+jej,,3d-o,3rd Person Dual,36722,,,,lowe1385,stone-1993b
+jeju,,3d-p,3rd Person Dual,61882,,,,lowe1385,stone-1993b
+woni,,3p-a,3rd Person Plural,37154,,,,lowe1385,stone-1993b
+woni,,3p-s,3rd Person Plural,37375,,,,lowe1385,stone-1993b
+jich,,3p-o,3rd Person Plural,37601,,,,lowe1385,stone-1993b
+je,,3p-o,3rd Person Plural,37602,,,,lowe1385,stone-1993b
+jich,,3p-p,3rd Person Plural,61883,,,,lowe1385,stone-1993b

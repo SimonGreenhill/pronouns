@@ -1,89 +1,89 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-inodi;;1sg_a;1st (excl) Person Singular;34697;;;;muna1247;van-den-berg-1989
-idi;;1sg_a;1st (excl) Person Singular;34698;;;;muna1247;van-den-berg-1989
-inodi;;1sg_s;1st (excl) Person Singular;34699;;;;muna1247;van-den-berg-1989
-idi;;1sg_s;1st (excl) Person Singular;34700;;;;muna1247;van-den-berg-1989
-inodi;;1sg_o;1st (excl) Person Singular;34701;;;;muna1247;van-den-berg-1989
-idi;;1sg_o;1st (excl) Person Singular;34702;;;;muna1247;van-den-berg-1989
--ku;;1sg_p;1st (excl) Person Singular;34703;;;;muna1247;van-den-berg-1989
-insaidi;;1du_a;1st (excl) Person Dual;34704;;;;muna1247;van-den-berg-1989
-insaidi;;1du_s;1st (excl) Person Dual;34705;;;;muna1247;van-den-berg-1989
-insaidi;;1du_o;1st (excl) Person Dual;34706;;;;muna1247;van-den-berg-1989
--mani;;1du_p;1st (excl) Person Dual;34707;;;;muna1247;van-den-berg-1989
-insaidi;;1pl_a;1st (excl) Person Plural;34708;;;;muna1247;van-den-berg-1989
-insaidi;;1pl_s;1st (excl) Person Plural;34709;;;;muna1247;van-den-berg-1989
-insaidi;;1pl_o;1st (excl) Person Plural;34710;;;;muna1247;van-den-berg-1989
--mani;;1pl_p;1st (excl) Person Plural;34711;;;;muna1247;van-den-berg-1989
-intaidi;;12du_a;1st (incl) Person Dual;34712;;;;muna1247;van-den-berg-1989
-intaidi;;12du_s;1st (incl) Person Dual;34713;;;;muna1247;van-den-berg-1989
-intaidi;;12du_o;1st (incl) Person Dual;34714;;;;muna1247;van-den-berg-1989
--nto;;12du_p;1st (incl) Person Dual;34715;;;;muna1247;van-den-berg-1989
-intaidiimu;;12pl_a;1st (incl) Person Plural;34716;;;;muna1247;van-den-berg-1989
-intaidiimu;;12pl_s;1st (incl) Person Plural;34717;;;;muna1247;van-den-berg-1989
-intaidiimu;;12pl_o;1st (incl) Person Plural;34718;;;;muna1247;van-den-berg-1989
--ntoomu;;12pl_p;1st (incl) Person Plural;34719;;;;muna1247;van-den-berg-1989
-(i)hintu;;2sg_a;2nd Person Singular;34720;;intaidi is the polite form, (i)hintu is the fmailiar form.;;muna1247;van-den-berg-1989
-intaidi;;2sg_a;2nd Person Singular;34721;;;;muna1247;van-den-berg-1989
-(i)hintu;;2sg_s;2nd Person Singular;34722;;intaidi is the polite form, (i)hintu is the fmailiar form.;;muna1247;van-den-berg-1989
-intaidi;;2sg_s;2nd Person Singular;34723;;;;muna1247;van-den-berg-1989
-(i)hintu;;2sg_o;2nd Person Singular;34724;;intaidi is the polite form, (i)hintu is the fmailiar form.;;muna1247;van-den-berg-1989
-intaidi;;2sg_o;2nd Person Singular;34725;;;;muna1247;van-den-berg-1989
--mu;;2sg_p;2nd Person Singular;34726;;;;muna1247;van-den-berg-1989
-(i)hintu-umu;;2du_a;2nd Person Dual;34727;;;;muna1247;van-den-berg-1989
-intaidi-imu;;2du_a;2nd Person Dual;34728;;;;muna1247;van-den-berg-1989
-(i)hintu-umu;;2du_s;2nd Person Dual;34729;;;;muna1247;van-den-berg-1989
-intaidi-imu;;2du_s;2nd Person Dual;34730;;;;muna1247;van-den-berg-1989
-(i)hintu-umu;;2du_o;2nd Person Dual;34731;;;;muna1247;van-den-berg-1989
-intaidi-imu;;2du_o;2nd Person Dual;34732;;;;muna1247;van-den-berg-1989
--Vmu;;2du_p;2nd Person Dual;34733;;;;muna1247;van-den-berg-1989
-(i)hintu-umu;;2pl_a;2nd Person Plural;34734;;intaidi-imu is the polite form, (i)hintu-umu is the familiar form.;;muna1247;van-den-berg-1989
-intaidi-imu;;2pl_a;2nd Person Plural;34735;;;;muna1247;van-den-berg-1989
-(i)hintu-umu;;2pl_s;2nd Person Plural;34736;;intaidi-imu is the polite form, (i)hintu-umu is the familiar form.;;muna1247;van-den-berg-1989
-intaidi-imu;;2pl_s;2nd Person Plural;34737;;;;muna1247;van-den-berg-1989
-(i)hintu-umu;;2pl_o;2nd Person Plural;34738;;intaidi-imu is the polite form, (i)hintu-umu is the familiar form.;;muna1247;van-den-berg-1989
-intaidi-imu;;2pl_o;2nd Person Plural;34739;;;;muna1247;van-den-berg-1989
--Vmu;;2pl_p;2nd Person Plural;34740;;;;muna1247;van-den-berg-1989
-anoa;;3sg_m_a;3rd Person Singular Masculine;34741;;;;muna1247;van-den-berg-1989
-anoa;;3sg_m_s;3rd Person Singular Masculine;34742;;;;muna1247;van-den-berg-1989
-anoa;;3sg_m_o;3rd Person Singular Masculine;34743;;;;muna1247;van-den-berg-1989
--no;;3sg_m_p;3rd Person Singular Masculine;34744;;;;muna1247;van-den-berg-1989
-anoa;;3sg_f_a;3rd Person Singular Feminine;34745;;;;muna1247;van-den-berg-1989
-anoa;;3sg_f_s;3rd Person Singular Feminine;34746;;;;muna1247;van-den-berg-1989
-anoa;;3sg_f_o;3rd Person Singular Feminine;34747;;;;muna1247;van-den-berg-1989
--no;;3sg_f_p;3rd Person Singular Feminine;34748;;;;muna1247;van-den-berg-1989
-anoa;;3sg_n_a;3rd Person Singular Neuter;34749;;;;muna1247;van-den-berg-1989
-anoa;;3sg_n_s;3rd Person Singular Neuter;34750;;;;muna1247;van-den-berg-1989
-anoa;;3sg_n_o;3rd Person Singular Neuter;34751;;;;muna1247;van-den-berg-1989
--no;;3sg_n_p;3rd Person Singular Neuter;34752;;;;muna1247;van-den-berg-1989
-andoa;;3du_m_a;3rd Person Dual Masculine;34753;;;;muna1247;van-den-berg-1989
-andoa;;3du_m_s;3rd Person Dual Masculine;34754;;;;muna1247;van-den-berg-1989
-andoa;;3du_m_o;3rd Person Dual Masculine;34755;;;;muna1247;van-den-berg-1989
--ndo;;3du_m_p;3rd Person Dual Masculine;34756;;;;muna1247;van-den-berg-1989
-andoa;;3du_f_a;3rd Person Dual Feminine;34757;;;;muna1247;van-den-berg-1989
-andoa;;3du_f_s;3rd Person Dual Feminine;34758;;;;muna1247;van-den-berg-1989
-andoa;;3du_f_o;3rd Person Dual Feminine;34759;;;;muna1247;van-den-berg-1989
--ndo;;3du_f_p;3rd Person Dual Feminine;34760;;;;muna1247;van-den-berg-1989
-andoa;;3du_n_a;3rd Person Dual Neuter;34761;;;;muna1247;van-den-berg-1989
-andoa;;3du_n_s;3rd Person Dual Neuter;34762;;;;muna1247;van-den-berg-1989
-andoa;;3du_n_o;3rd Person Dual Neuter;34763;;;;muna1247;van-den-berg-1989
--ndo;;3du_n_p;3rd Person Dual Neuter;34764;;;;muna1247;van-den-berg-1989
-andoa;;3pl_m_a;3rd Person Plural Masculine;34765;;;;muna1247;van-den-berg-1989
-andoa;;3pl_m_s;3rd Person Plural Masculine;34766;;;;muna1247;van-den-berg-1989
-andoa;;3pl_m_o;3rd Person Plural Masculine;34767;;;;muna1247;van-den-berg-1989
--ndo;;3pl_m_p;3rd Person Plural Masculine;34768;;;;muna1247;van-den-berg-1989
-andoa;;3pl_f_a;3rd Person Plural Feminine;34769;;;;muna1247;van-den-berg-1989
-andoa;;3pl_f_s;3rd Person Plural Feminine;34770;;;;muna1247;van-den-berg-1989
-andoa;;3pl_f_o;3rd Person Plural Feminine;34771;;;;muna1247;van-den-berg-1989
--ndo;;3pl_f_p;3rd Person Plural Feminine;34772;;;;muna1247;van-den-berg-1989
-andoa;;3pl_n_a;3rd Person Plural Neuter;34773;;;;muna1247;van-den-berg-1989
-andoa;;3pl_n_s;3rd Person Plural Neuter;34774;;;;muna1247;van-den-berg-1989
-andoa;;3pl_n_o;3rd Person Plural Neuter;34775;;;;muna1247;van-den-berg-1989
--ndo;;3pl_n_p;3rd Person Plural Neuter;34776;;;;muna1247;van-den-berg-1989
-andoa;;3d-a;3rd Person Dual;36392;;;;muna1247;van-den-berg-1989
-andoa;;3d-s;3rd Person Dual;36619;;;;muna1247;van-den-berg-1989
-andoa;;3d-o;3rd Person Dual;36845;;;;muna1247;van-den-berg-1989
--ndo;;3d-p;3rd Person Dual;37059;;;;muna1247;van-den-berg-1989
-andoa;;3p-a;3rd Person Plural;37273;;;;muna1247;van-den-berg-1989
-andoa;;3p-s;3rd Person Plural;37499;;;;muna1247;van-den-berg-1989
-andoa;;3p-o;3rd Person Plural;37723;;;;muna1247;van-den-berg-1989
--ndo;;3p-p;3rd Person Plural;37937;;;;muna1247;van-den-berg-1989
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+inodi,,1sg_a,1st (excl) Person Singular,34697,,,,muna1247,van-den-berg-1989
+idi,,1sg_a,1st (excl) Person Singular,34698,,,,muna1247,van-den-berg-1989
+inodi,,1sg_s,1st (excl) Person Singular,34699,,,,muna1247,van-den-berg-1989
+idi,,1sg_s,1st (excl) Person Singular,34700,,,,muna1247,van-den-berg-1989
+inodi,,1sg_o,1st (excl) Person Singular,34701,,,,muna1247,van-den-berg-1989
+idi,,1sg_o,1st (excl) Person Singular,34702,,,,muna1247,van-den-berg-1989
+-ku,,1sg_p,1st (excl) Person Singular,34703,,,,muna1247,van-den-berg-1989
+insaidi,,1du_a,1st (excl) Person Dual,34704,,,,muna1247,van-den-berg-1989
+insaidi,,1du_s,1st (excl) Person Dual,34705,,,,muna1247,van-den-berg-1989
+insaidi,,1du_o,1st (excl) Person Dual,34706,,,,muna1247,van-den-berg-1989
+-mani,,1du_p,1st (excl) Person Dual,34707,,,,muna1247,van-den-berg-1989
+insaidi,,1pl_a,1st (excl) Person Plural,34708,,,,muna1247,van-den-berg-1989
+insaidi,,1pl_s,1st (excl) Person Plural,34709,,,,muna1247,van-den-berg-1989
+insaidi,,1pl_o,1st (excl) Person Plural,34710,,,,muna1247,van-den-berg-1989
+-mani,,1pl_p,1st (excl) Person Plural,34711,,,,muna1247,van-den-berg-1989
+intaidi,,12du_a,1st (incl) Person Dual,34712,,,,muna1247,van-den-berg-1989
+intaidi,,12du_s,1st (incl) Person Dual,34713,,,,muna1247,van-den-berg-1989
+intaidi,,12du_o,1st (incl) Person Dual,34714,,,,muna1247,van-den-berg-1989
+-nto,,12du_p,1st (incl) Person Dual,34715,,,,muna1247,van-den-berg-1989
+intaidiimu,,12pl_a,1st (incl) Person Plural,34716,,,,muna1247,van-den-berg-1989
+intaidiimu,,12pl_s,1st (incl) Person Plural,34717,,,,muna1247,van-den-berg-1989
+intaidiimu,,12pl_o,1st (incl) Person Plural,34718,,,,muna1247,van-den-berg-1989
+-ntoomu,,12pl_p,1st (incl) Person Plural,34719,,,,muna1247,van-den-berg-1989
+(i)hintu,,2sg_a,2nd Person Singular,34720,,"intaidi is the polite form, (i)hintu is the fmailiar form.",,muna1247,van-den-berg-1989
+intaidi,,2sg_a,2nd Person Singular,34721,,,,muna1247,van-den-berg-1989
+(i)hintu,,2sg_s,2nd Person Singular,34722,,"intaidi is the polite form, (i)hintu is the fmailiar form.",,muna1247,van-den-berg-1989
+intaidi,,2sg_s,2nd Person Singular,34723,,,,muna1247,van-den-berg-1989
+(i)hintu,,2sg_o,2nd Person Singular,34724,,"intaidi is the polite form, (i)hintu is the fmailiar form.",,muna1247,van-den-berg-1989
+intaidi,,2sg_o,2nd Person Singular,34725,,,,muna1247,van-den-berg-1989
+-mu,,2sg_p,2nd Person Singular,34726,,,,muna1247,van-den-berg-1989
+(i)hintu-umu,,2du_a,2nd Person Dual,34727,,,,muna1247,van-den-berg-1989
+intaidi-imu,,2du_a,2nd Person Dual,34728,,,,muna1247,van-den-berg-1989
+(i)hintu-umu,,2du_s,2nd Person Dual,34729,,,,muna1247,van-den-berg-1989
+intaidi-imu,,2du_s,2nd Person Dual,34730,,,,muna1247,van-den-berg-1989
+(i)hintu-umu,,2du_o,2nd Person Dual,34731,,,,muna1247,van-den-berg-1989
+intaidi-imu,,2du_o,2nd Person Dual,34732,,,,muna1247,van-den-berg-1989
+-Vmu,,2du_p,2nd Person Dual,34733,,,,muna1247,van-den-berg-1989
+(i)hintu-umu,,2pl_a,2nd Person Plural,34734,,"intaidi-imu is the polite form, (i)hintu-umu is the familiar form.",,muna1247,van-den-berg-1989
+intaidi-imu,,2pl_a,2nd Person Plural,34735,,,,muna1247,van-den-berg-1989
+(i)hintu-umu,,2pl_s,2nd Person Plural,34736,,"intaidi-imu is the polite form, (i)hintu-umu is the familiar form.",,muna1247,van-den-berg-1989
+intaidi-imu,,2pl_s,2nd Person Plural,34737,,,,muna1247,van-den-berg-1989
+(i)hintu-umu,,2pl_o,2nd Person Plural,34738,,"intaidi-imu is the polite form, (i)hintu-umu is the familiar form.",,muna1247,van-den-berg-1989
+intaidi-imu,,2pl_o,2nd Person Plural,34739,,,,muna1247,van-den-berg-1989
+-Vmu,,2pl_p,2nd Person Plural,34740,,,,muna1247,van-den-berg-1989
+anoa,,3sg_m_a,3rd Person Singular Masculine,34741,,,,muna1247,van-den-berg-1989
+anoa,,3sg_m_s,3rd Person Singular Masculine,34742,,,,muna1247,van-den-berg-1989
+anoa,,3sg_m_o,3rd Person Singular Masculine,34743,,,,muna1247,van-den-berg-1989
+-no,,3sg_m_p,3rd Person Singular Masculine,34744,,,,muna1247,van-den-berg-1989
+anoa,,3sg_f_a,3rd Person Singular Feminine,34745,,,,muna1247,van-den-berg-1989
+anoa,,3sg_f_s,3rd Person Singular Feminine,34746,,,,muna1247,van-den-berg-1989
+anoa,,3sg_f_o,3rd Person Singular Feminine,34747,,,,muna1247,van-den-berg-1989
+-no,,3sg_f_p,3rd Person Singular Feminine,34748,,,,muna1247,van-den-berg-1989
+anoa,,3sg_n_a,3rd Person Singular Neuter,34749,,,,muna1247,van-den-berg-1989
+anoa,,3sg_n_s,3rd Person Singular Neuter,34750,,,,muna1247,van-den-berg-1989
+anoa,,3sg_n_o,3rd Person Singular Neuter,34751,,,,muna1247,van-den-berg-1989
+-no,,3sg_n_p,3rd Person Singular Neuter,34752,,,,muna1247,van-den-berg-1989
+andoa,,3du_m_a,3rd Person Dual Masculine,34753,,,,muna1247,van-den-berg-1989
+andoa,,3du_m_s,3rd Person Dual Masculine,34754,,,,muna1247,van-den-berg-1989
+andoa,,3du_m_o,3rd Person Dual Masculine,34755,,,,muna1247,van-den-berg-1989
+-ndo,,3du_m_p,3rd Person Dual Masculine,34756,,,,muna1247,van-den-berg-1989
+andoa,,3du_f_a,3rd Person Dual Feminine,34757,,,,muna1247,van-den-berg-1989
+andoa,,3du_f_s,3rd Person Dual Feminine,34758,,,,muna1247,van-den-berg-1989
+andoa,,3du_f_o,3rd Person Dual Feminine,34759,,,,muna1247,van-den-berg-1989
+-ndo,,3du_f_p,3rd Person Dual Feminine,34760,,,,muna1247,van-den-berg-1989
+andoa,,3du_n_a,3rd Person Dual Neuter,34761,,,,muna1247,van-den-berg-1989
+andoa,,3du_n_s,3rd Person Dual Neuter,34762,,,,muna1247,van-den-berg-1989
+andoa,,3du_n_o,3rd Person Dual Neuter,34763,,,,muna1247,van-den-berg-1989
+-ndo,,3du_n_p,3rd Person Dual Neuter,34764,,,,muna1247,van-den-berg-1989
+andoa,,3pl_m_a,3rd Person Plural Masculine,34765,,,,muna1247,van-den-berg-1989
+andoa,,3pl_m_s,3rd Person Plural Masculine,34766,,,,muna1247,van-den-berg-1989
+andoa,,3pl_m_o,3rd Person Plural Masculine,34767,,,,muna1247,van-den-berg-1989
+-ndo,,3pl_m_p,3rd Person Plural Masculine,34768,,,,muna1247,van-den-berg-1989
+andoa,,3pl_f_a,3rd Person Plural Feminine,34769,,,,muna1247,van-den-berg-1989
+andoa,,3pl_f_s,3rd Person Plural Feminine,34770,,,,muna1247,van-den-berg-1989
+andoa,,3pl_f_o,3rd Person Plural Feminine,34771,,,,muna1247,van-den-berg-1989
+-ndo,,3pl_f_p,3rd Person Plural Feminine,34772,,,,muna1247,van-den-berg-1989
+andoa,,3pl_n_a,3rd Person Plural Neuter,34773,,,,muna1247,van-den-berg-1989
+andoa,,3pl_n_s,3rd Person Plural Neuter,34774,,,,muna1247,van-den-berg-1989
+andoa,,3pl_n_o,3rd Person Plural Neuter,34775,,,,muna1247,van-den-berg-1989
+-ndo,,3pl_n_p,3rd Person Plural Neuter,34776,,,,muna1247,van-den-berg-1989
+andoa,,3d-a,3rd Person Dual,36392,,,,muna1247,van-den-berg-1989
+andoa,,3d-s,3rd Person Dual,36619,,,,muna1247,van-den-berg-1989
+andoa,,3d-o,3rd Person Dual,36845,,,,muna1247,van-den-berg-1989
+-ndo,,3d-p,3rd Person Dual,37059,,,,muna1247,van-den-berg-1989
+andoa,,3p-a,3rd Person Plural,37273,,,,muna1247,van-den-berg-1989
+andoa,,3p-s,3rd Person Plural,37499,,,,muna1247,van-den-berg-1989
+andoa,,3p-o,3rd Person Plural,37723,,,,muna1247,van-den-berg-1989
+-ndo,,3p-p,3rd Person Plural,37937,,,,muna1247,van-den-berg-1989

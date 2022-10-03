@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-añ;;1sg_a;1st (excl) Person Singular;60461;;;;mund1320;osada-1992
-añ;;1sg_s;1st (excl) Person Singular;60496;;;;mund1320;osada-1992
-añ;;1sg_o;1st (excl) Person Singular;60495;;;;mund1320;osada-1992
-añaʔ;;1sg_p;1st (excl) Person Singular;60460;;the possessive suffix transparently concatenates with the pronoun, so there is no actual different pronominal form in Mundari possessive;;mund1320;osada-1992
-aliŋ;;1du_a;1st (excl) Person Dual;60459;;;;mund1320;osada-1992
-aliŋ;;1du_s;1st (excl) Person Dual;60494;;;;mund1320;osada-1992
-aliŋ;;1du_o;1st (excl) Person Dual;60493;;;;mund1320;osada-1992
-aliŋaʔ;;1du_p;1st (excl) Person Dual;60492;;;;mund1320;osada-1992
-ale;;1pl_a;1st (excl) Person Plural;60458;;;;mund1320;osada-1992
-ale;;1pl_s;1st (excl) Person Plural;60491;;;;mund1320;osada-1992
-ale;;1pl_o;1st (excl) Person Plural;60490;;;;mund1320;osada-1992
-aleaʔ;;1pl_p;1st (excl) Person Plural;60489;;;;mund1320;osada-1992
-alaŋ;;12du_a;1st (incl) Person Dual;60457;;;;mund1320;osada-1992
-alaŋ;;12du_s;1st (incl) Person Dual;60488;;;;mund1320;osada-1992
-alaŋ;;12du_o;1st (incl) Person Dual;60487;;;;mund1320;osada-1992
-alaŋaʔ;;12du_p;1st (incl) Person Dual;60486;;;;mund1320;osada-1992
-abu;;12pl_a;1st (incl) Person Plural;60456;;;;mund1320;osada-1992
-abu;;12pl_s;1st (incl) Person Plural;60485;;;;mund1320;osada-1992
-abu;;12pl_o;1st (incl) Person Plural;60484;;;;mund1320;osada-1992
-abuaʔ;;12pl_p;1st (incl) Person Plural;60483;;;;mund1320;osada-1992
-am;;2sg_a;2nd Person Singular;60455;;;;mund1320;osada-1992
-am;;2sg_s;2nd Person Singular;60482;;;;mund1320;osada-1992
-am;;2sg_o;2nd Person Singular;60481;;;;mund1320;osada-1992
-amaʔ;;2sg_p;2nd Person Singular;60480;;;;mund1320;osada-1992
-aben;;2du_a;2nd Person Dual;60454;;;;mund1320;osada-1992
-aben;;2du_s;2nd Person Dual;60479;;;;mund1320;osada-1992
-aben;;2du_o;2nd Person Dual;60478;;;;mund1320;osada-1992
-abenaʔ;;2du_p;2nd Person Dual;60477;;;;mund1320;osada-1992
-ape;;2pl_a;2nd Person Plural;60453;;;;mund1320;osada-1992
-ape;;2pl_s;2nd Person Plural;60476;;;;mund1320;osada-1992
-ape;;2pl_o;2nd Person Plural;60475;;;;mund1320;osada-1992
-apeaʔ;;2pl_p;2nd Person Plural;60474;;;;mund1320;osada-1992
-ay;;3sg_m_a;3rd Person Singular Masculine;60452;;;;mund1320;osada-1992
-ay;;3sg_m_s;3rd Person Singular Masculine;60473;;;;mund1320;osada-1992
-ay;;3sg_m_o;3rd Person Singular Masculine;60472;;;;mund1320;osada-1992
-ayaʔ;;3sg_m_p;3rd Person Singular Masculine;60471;;;;mund1320;osada-1992
-ay;;3sg_n_a;3rd Person Singular Neuter;60451;;;;mund1320;osada-1992
-ay;;3sg_n_s;3rd Person Singular Neuter;60470;;;;mund1320;osada-1992
-ay;;3sg_n_o;3rd Person Singular Neuter;60469;;;;mund1320;osada-1992
-ayaʔ;;3sg_n_p;3rd Person Singular Neuter;60468;;;;mund1320;osada-1992
-akiŋ;;3d-a;3rd Person Dual;60450;;;;mund1320;osada-1992
-akiŋ;;3d-s;3rd Person Dual;60467;;;;mund1320;osada-1992
-akiŋ;;3d-o;3rd Person Dual;60466;;;;mund1320;osada-1992
-akiŋaʔ;;3d-p;3rd Person Dual;60465;;;;mund1320;osada-1992
-ako;;3p-a;3rd Person Plural;60449;;;;mund1320;osada-1992
-ako;;3p-s;3rd Person Plural;60464;;;;mund1320;osada-1992
-ako;;3p-o;3rd Person Plural;60463;;;;mund1320;osada-1992
-akoa?;;3p-p;3rd Person Plural;60462;;;;mund1320;osada-1992
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+añ,,1sg_a,1st (excl) Person Singular,60461,,,,mund1320,osada-1992
+añ,,1sg_s,1st (excl) Person Singular,60496,,,,mund1320,osada-1992
+añ,,1sg_o,1st (excl) Person Singular,60495,,,,mund1320,osada-1992
+añaʔ,,1sg_p,1st (excl) Person Singular,60460,,"the possessive suffix transparently concatenates with the pronoun, so there is no actual different pronominal form in Mundari possessive",,mund1320,osada-1992
+aliŋ,,1du_a,1st (excl) Person Dual,60459,,,,mund1320,osada-1992
+aliŋ,,1du_s,1st (excl) Person Dual,60494,,,,mund1320,osada-1992
+aliŋ,,1du_o,1st (excl) Person Dual,60493,,,,mund1320,osada-1992
+aliŋaʔ,,1du_p,1st (excl) Person Dual,60492,,,,mund1320,osada-1992
+ale,,1pl_a,1st (excl) Person Plural,60458,,,,mund1320,osada-1992
+ale,,1pl_s,1st (excl) Person Plural,60491,,,,mund1320,osada-1992
+ale,,1pl_o,1st (excl) Person Plural,60490,,,,mund1320,osada-1992
+aleaʔ,,1pl_p,1st (excl) Person Plural,60489,,,,mund1320,osada-1992
+alaŋ,,12du_a,1st (incl) Person Dual,60457,,,,mund1320,osada-1992
+alaŋ,,12du_s,1st (incl) Person Dual,60488,,,,mund1320,osada-1992
+alaŋ,,12du_o,1st (incl) Person Dual,60487,,,,mund1320,osada-1992
+alaŋaʔ,,12du_p,1st (incl) Person Dual,60486,,,,mund1320,osada-1992
+abu,,12pl_a,1st (incl) Person Plural,60456,,,,mund1320,osada-1992
+abu,,12pl_s,1st (incl) Person Plural,60485,,,,mund1320,osada-1992
+abu,,12pl_o,1st (incl) Person Plural,60484,,,,mund1320,osada-1992
+abuaʔ,,12pl_p,1st (incl) Person Plural,60483,,,,mund1320,osada-1992
+am,,2sg_a,2nd Person Singular,60455,,,,mund1320,osada-1992
+am,,2sg_s,2nd Person Singular,60482,,,,mund1320,osada-1992
+am,,2sg_o,2nd Person Singular,60481,,,,mund1320,osada-1992
+amaʔ,,2sg_p,2nd Person Singular,60480,,,,mund1320,osada-1992
+aben,,2du_a,2nd Person Dual,60454,,,,mund1320,osada-1992
+aben,,2du_s,2nd Person Dual,60479,,,,mund1320,osada-1992
+aben,,2du_o,2nd Person Dual,60478,,,,mund1320,osada-1992
+abenaʔ,,2du_p,2nd Person Dual,60477,,,,mund1320,osada-1992
+ape,,2pl_a,2nd Person Plural,60453,,,,mund1320,osada-1992
+ape,,2pl_s,2nd Person Plural,60476,,,,mund1320,osada-1992
+ape,,2pl_o,2nd Person Plural,60475,,,,mund1320,osada-1992
+apeaʔ,,2pl_p,2nd Person Plural,60474,,,,mund1320,osada-1992
+ay,,3sg_m_a,3rd Person Singular Masculine,60452,,,,mund1320,osada-1992
+ay,,3sg_m_s,3rd Person Singular Masculine,60473,,,,mund1320,osada-1992
+ay,,3sg_m_o,3rd Person Singular Masculine,60472,,,,mund1320,osada-1992
+ayaʔ,,3sg_m_p,3rd Person Singular Masculine,60471,,,,mund1320,osada-1992
+ay,,3sg_n_a,3rd Person Singular Neuter,60451,,,,mund1320,osada-1992
+ay,,3sg_n_s,3rd Person Singular Neuter,60470,,,,mund1320,osada-1992
+ay,,3sg_n_o,3rd Person Singular Neuter,60469,,,,mund1320,osada-1992
+ayaʔ,,3sg_n_p,3rd Person Singular Neuter,60468,,,,mund1320,osada-1992
+akiŋ,,3d-a,3rd Person Dual,60450,,,,mund1320,osada-1992
+akiŋ,,3d-s,3rd Person Dual,60467,,,,mund1320,osada-1992
+akiŋ,,3d-o,3rd Person Dual,60466,,,,mund1320,osada-1992
+akiŋaʔ,,3d-p,3rd Person Dual,60465,,,,mund1320,osada-1992
+ako,,3p-a,3rd Person Plural,60449,,,,mund1320,osada-1992
+ako,,3p-s,3rd Person Plural,60464,,,,mund1320,osada-1992
+ako,,3p-o,3rd Person Plural,60463,,,,mund1320,osada-1992
+akoa?,,3p-p,3rd Person Plural,60462,,,,mund1320,osada-1992

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ðt;;1sg_a;1st (excl) Person Singular;60832;;;;saki1248;vilacy-2001
-ðt;;1sg_s;1st (excl) Person Singular;60831;;;;saki1248;vilacy-2001
-o-;;1sg_o;1st (excl) Person Singular;60830;;;;saki1248;vilacy-2001
-o-;;1sg_p;1st (excl) Person Singular;60829;;;;saki1248;vilacy-2001
-ose;;1du_a;1st (excl) Person Dual;60828;;;;saki1248;vilacy-2001
-ose;;1du_s;1st (excl) Person Dual;60827;;;;saki1248;vilacy-2001
-ose-;;1du_o;1st (excl) Person Dual;60826;;;;saki1248;vilacy-2001
-ose-;;1du_p;1st (excl) Person Dual;60825;;;;saki1248;vilacy-2001
-ose;;1pl_a;1st (excl) Person Plural;60824;;;;saki1248;vilacy-2001
-ose;;1pl_s;1st (excl) Person Plural;60823;;;;saki1248;vilacy-2001
-ose-;;1pl_o;1st (excl) Person Plural;60822;;;;saki1248;vilacy-2001
-ose-;;1pl_p;1st (excl) Person Plural;60821;;;;saki1248;vilacy-2001
-kise;;12du_a;1st (incl) Person Dual;60820;;;;saki1248;vilacy-2001
-kise;;12du_s;1st (incl) Person Dual;60819;;;;saki1248;vilacy-2001
-ki-;;12du_o;1st (incl) Person Dual;60818;;;;saki1248;vilacy-2001
-ki-;;12du_p;1st (incl) Person Dual;60817;;;;saki1248;vilacy-2001
-kise;;12pl_a;1st (incl) Person Plural;60816;;;;saki1248;vilacy-2001
-kise;;12pl_s;1st (incl) Person Plural;60815;;;;saki1248;vilacy-2001
-ki-;;12pl_o;1st (incl) Person Plural;60814;;;;saki1248;vilacy-2001
-ki-;;12pl_p;1st (incl) Person Plural;60813;;;;saki1248;vilacy-2001
-ẽt;;2sg_a;2nd Person Singular;60812;;;;saki1248;vilacy-2001
-ẽt;;2sg_s;2nd Person Singular;60811;;;;saki1248;vilacy-2001
-e-;;2sg_o;2nd Person Singular;60810;;;;saki1248;vilacy-2001
-e-;;2sg_p;2nd Person Singular;60809;;;;saki1248;vilacy-2001
-eyat;;2du_a;2nd Person Dual;60808;;;;saki1248;vilacy-2001
-eyat;;2du_s;2nd Person Dual;60807;;;;saki1248;vilacy-2001
-eyat-;;2du_o;2nd Person Dual;60806;;;;saki1248;vilacy-2001
-eyat-;;2du_p;2nd Person Dual;60805;;;;saki1248;vilacy-2001
-eyat;;2pl_a;2nd Person Plural;60804;;;;saki1248;vilacy-2001
-eyat;;2pl_s;2nd Person Plural;60803;;;;saki1248;vilacy-2001
-eyat-;;2pl_o;2nd Person Plural;60802;;;;saki1248;vilacy-2001
-eyat-;;2pl_p;2nd Person Plural;60801;;;;saki1248;vilacy-2001
-sete, te;;3sg_m_a;3rd Person Singular Masculine;60800;;;;saki1248;vilacy-2001
-sete, te;;3sg_m_s;3rd Person Singular Masculine;60799;;;;saki1248;vilacy-2001
-i-, se-, s-;;3sg_m_o;3rd Person Singular Masculine;60798;;;;saki1248;vilacy-2001
-i-, se-;;3sg_m_p;3rd Person Singular Masculine;60797;;;;saki1248;vilacy-2001
-sete, te;;3sg_n_a;3rd Person Singular Neuter;60796;;;;saki1248;vilacy-2001
-sete, te;;3sg_n_s;3rd Person Singular Neuter;60795;;;;saki1248;vilacy-2001
-i-, se-, s-;;3sg_n_o;3rd Person Singular Neuter;60794;;;;saki1248;vilacy-2001
-i-, se-;;3sg_n_p;3rd Person Singular Neuter;60793;;;;saki1248;vilacy-2001
-teyat, seteyat;;3d-a;3rd Person Dual;60792;;;;saki1248;vilacy-2001
-teyat, seteyat;;3d-s;3rd Person Dual;60791;;;;saki1248;vilacy-2001
-teyat-, se-;;3d-o;3rd Person Dual;60790;;;;saki1248;vilacy-2001
-teyat-, se-, seteyat-;;3d-p;3rd Person Dual;60789;;;;saki1248;vilacy-2001
-teyat, seteyat;;3p-a;3rd Person Plural;60788;;;;saki1248;vilacy-2001
-teyat, seteyat;;3p-s;3rd Person Plural;60787;;;;saki1248;vilacy-2001
-teyat-, se-;;3p-o;3rd Person Plural;60786;;;;saki1248;vilacy-2001
-teyat-, se-, seteyat-;;3p-p;3rd Person Plural;60785;;;;saki1248;vilacy-2001
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ðt,,1sg_a,1st (excl) Person Singular,60832,,,,saki1248,vilacy-2001
+ðt,,1sg_s,1st (excl) Person Singular,60831,,,,saki1248,vilacy-2001
+o-,,1sg_o,1st (excl) Person Singular,60830,,,,saki1248,vilacy-2001
+o-,,1sg_p,1st (excl) Person Singular,60829,,,,saki1248,vilacy-2001
+ose,,1du_a,1st (excl) Person Dual,60828,,,,saki1248,vilacy-2001
+ose,,1du_s,1st (excl) Person Dual,60827,,,,saki1248,vilacy-2001
+ose-,,1du_o,1st (excl) Person Dual,60826,,,,saki1248,vilacy-2001
+ose-,,1du_p,1st (excl) Person Dual,60825,,,,saki1248,vilacy-2001
+ose,,1pl_a,1st (excl) Person Plural,60824,,,,saki1248,vilacy-2001
+ose,,1pl_s,1st (excl) Person Plural,60823,,,,saki1248,vilacy-2001
+ose-,,1pl_o,1st (excl) Person Plural,60822,,,,saki1248,vilacy-2001
+ose-,,1pl_p,1st (excl) Person Plural,60821,,,,saki1248,vilacy-2001
+kise,,12du_a,1st (incl) Person Dual,60820,,,,saki1248,vilacy-2001
+kise,,12du_s,1st (incl) Person Dual,60819,,,,saki1248,vilacy-2001
+ki-,,12du_o,1st (incl) Person Dual,60818,,,,saki1248,vilacy-2001
+ki-,,12du_p,1st (incl) Person Dual,60817,,,,saki1248,vilacy-2001
+kise,,12pl_a,1st (incl) Person Plural,60816,,,,saki1248,vilacy-2001
+kise,,12pl_s,1st (incl) Person Plural,60815,,,,saki1248,vilacy-2001
+ki-,,12pl_o,1st (incl) Person Plural,60814,,,,saki1248,vilacy-2001
+ki-,,12pl_p,1st (incl) Person Plural,60813,,,,saki1248,vilacy-2001
+ẽt,,2sg_a,2nd Person Singular,60812,,,,saki1248,vilacy-2001
+ẽt,,2sg_s,2nd Person Singular,60811,,,,saki1248,vilacy-2001
+e-,,2sg_o,2nd Person Singular,60810,,,,saki1248,vilacy-2001
+e-,,2sg_p,2nd Person Singular,60809,,,,saki1248,vilacy-2001
+eyat,,2du_a,2nd Person Dual,60808,,,,saki1248,vilacy-2001
+eyat,,2du_s,2nd Person Dual,60807,,,,saki1248,vilacy-2001
+eyat-,,2du_o,2nd Person Dual,60806,,,,saki1248,vilacy-2001
+eyat-,,2du_p,2nd Person Dual,60805,,,,saki1248,vilacy-2001
+eyat,,2pl_a,2nd Person Plural,60804,,,,saki1248,vilacy-2001
+eyat,,2pl_s,2nd Person Plural,60803,,,,saki1248,vilacy-2001
+eyat-,,2pl_o,2nd Person Plural,60802,,,,saki1248,vilacy-2001
+eyat-,,2pl_p,2nd Person Plural,60801,,,,saki1248,vilacy-2001
+"sete, te",,3sg_m_a,3rd Person Singular Masculine,60800,,,,saki1248,vilacy-2001
+"sete, te",,3sg_m_s,3rd Person Singular Masculine,60799,,,,saki1248,vilacy-2001
+"i-, se-, s-",,3sg_m_o,3rd Person Singular Masculine,60798,,,,saki1248,vilacy-2001
+"i-, se-",,3sg_m_p,3rd Person Singular Masculine,60797,,,,saki1248,vilacy-2001
+"sete, te",,3sg_n_a,3rd Person Singular Neuter,60796,,,,saki1248,vilacy-2001
+"sete, te",,3sg_n_s,3rd Person Singular Neuter,60795,,,,saki1248,vilacy-2001
+"i-, se-, s-",,3sg_n_o,3rd Person Singular Neuter,60794,,,,saki1248,vilacy-2001
+"i-, se-",,3sg_n_p,3rd Person Singular Neuter,60793,,,,saki1248,vilacy-2001
+"teyat, seteyat",,3d-a,3rd Person Dual,60792,,,,saki1248,vilacy-2001
+"teyat, seteyat",,3d-s,3rd Person Dual,60791,,,,saki1248,vilacy-2001
+"teyat-, se-",,3d-o,3rd Person Dual,60790,,,,saki1248,vilacy-2001
+"teyat-, se-, seteyat-",,3d-p,3rd Person Dual,60789,,,,saki1248,vilacy-2001
+"teyat, seteyat",,3p-a,3rd Person Plural,60788,,,,saki1248,vilacy-2001
+"teyat, seteyat",,3p-s,3rd Person Plural,60787,,,,saki1248,vilacy-2001
+"teyat-, se-",,3p-o,3rd Person Plural,60786,,,,saki1248,vilacy-2001
+"teyat-, se-, seteyat-",,3p-p,3rd Person Plural,60785,,,,saki1248,vilacy-2001

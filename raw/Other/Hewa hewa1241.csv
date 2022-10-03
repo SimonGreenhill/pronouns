@@ -1,41 +1,41 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-'ano;;1sg_a;1st (excl) Person Singular;41602;;;;hewa1241;cochran-1968
-'ano;;1sg_s;1st (excl) Person Singular;41601;;;;hewa1241;cochran-1968
-'ano, am;;1sg_o;1st (excl) Person Singular;41600;;;;hewa1241;cochran-1968
-'ano;;1sg_p;1st (excl) Person Singular;41599;;;;hewa1241;cochran-1968
-te;;1du_a;1st (excl) Person Dual;41598;;;;hewa1241;cochran-1968
-te;;1du_s;1st (excl) Person Dual;41597;;;;hewa1241;cochran-1968
-te;;1du_o;1st (excl) Person Dual;41596;;;;hewa1241;cochran-1968
-'nati;;1pl_a;1st (excl) Person Plural;41595;;;;hewa1241;cochran-1968
-'nati;;1pl_s;1st (excl) Person Plural;41594;;;;hewa1241;cochran-1968
-'nati;;1pl_o;1st (excl) Person Plural;41593;;;;hewa1241;cochran-1968
-te;;12du_a;1st (incl) Person Dual;41592;;;;hewa1241;cochran-1968
-te;;12du_s;1st (incl) Person Dual;41591;;;;hewa1241;cochran-1968
-te;;12du_o;1st (incl) Person Dual;41590;;;;hewa1241;cochran-1968
-'nati;;12pl_a;1st (incl) Person Plural;41589;;;;hewa1241;cochran-1968
-'nati;;12pl_s;1st (incl) Person Plural;41588;;;;hewa1241;cochran-1968
-'nati;;12pl_o;1st (incl) Person Plural;41587;;;;hewa1241;cochran-1968
-ne;;2sg_a;2nd Person Singular;41586;;;;hewa1241;cochran-1968
-ne;;2sg_s;2nd Person Singular;41585;;;;hewa1241;cochran-1968
-ne;;2sg_o;2nd Person Singular;41584;;;;hewa1241;cochran-1968
-no;;2sg_p;2nd Person Singular;41583;;;;hewa1241;cochran-1968
-fe'nay;;2du_a;2nd Person Dual;41582;;;;hewa1241;cochran-1968
-fe'nay;;2du_s;2nd Person Dual;41581;;;;hewa1241;cochran-1968
-fe'nay;;2du_o;2nd Person Dual;41580;;;;hewa1241;cochran-1968
-'nafu;;2pl_a;2nd Person Plural;41579;;;;hewa1241;cochran-1968
-'nafu;;2pl_s;2nd Person Plural;41578;;;;hewa1241;cochran-1968
-'nafu;;2pl_o;2nd Person Plural;41577;;;;hewa1241;cochran-1968
-a'le;;3sg_m_a;3rd Person Singular Masculine;41576;;;;hewa1241;cochran-1968
-a'le;;3sg_m_s;3rd Person Singular Masculine;41575;;;;hewa1241;cochran-1968
-a'le;;3sg_m_o;3rd Person Singular Masculine;41574;;;;hewa1241;cochran-1968
-lo;;3sg_m_p;3rd Person Singular Masculine;41573;;;;hewa1241;cochran-1968
-a'le;;3sg_n_a;3rd Person Singular Neuter;41572;;;;hewa1241;cochran-1968
-a'le;;3sg_n_s;3rd Person Singular Neuter;41571;;;;hewa1241;cochran-1968
-a'le;;3sg_n_o;3rd Person Singular Neuter;41570;;;;hewa1241;cochran-1968
-lo;;3sg_n_p;3rd Person Singular Neuter;41569;;;;hewa1241;cochran-1968
-'lafay;;3d-a;3rd Person Dual;41568;;;;hewa1241;cochran-1968
-'lafay;;3d-s;3rd Person Dual;41567;;;;hewa1241;cochran-1968
-'lafay;;3d-o;3rd Person Dual;41566;;;;hewa1241;cochran-1968
-'lafu;;3p-a;3rd Person Plural;41565;;;;hewa1241;cochran-1968
-'lafu;;3p-s;3rd Person Plural;41564;;;;hewa1241;cochran-1968
-'lafu;;3p-o;3rd Person Plural;41563;;;;hewa1241;cochran-1968
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+'ano,,1sg_a,1st (excl) Person Singular,41602,,,,hewa1241,cochran-1968
+'ano,,1sg_s,1st (excl) Person Singular,41601,,,,hewa1241,cochran-1968
+"'ano, am",,1sg_o,1st (excl) Person Singular,41600,,,,hewa1241,cochran-1968
+'ano,,1sg_p,1st (excl) Person Singular,41599,,,,hewa1241,cochran-1968
+te,,1du_a,1st (excl) Person Dual,41598,,,,hewa1241,cochran-1968
+te,,1du_s,1st (excl) Person Dual,41597,,,,hewa1241,cochran-1968
+te,,1du_o,1st (excl) Person Dual,41596,,,,hewa1241,cochran-1968
+'nati,,1pl_a,1st (excl) Person Plural,41595,,,,hewa1241,cochran-1968
+'nati,,1pl_s,1st (excl) Person Plural,41594,,,,hewa1241,cochran-1968
+'nati,,1pl_o,1st (excl) Person Plural,41593,,,,hewa1241,cochran-1968
+te,,12du_a,1st (incl) Person Dual,41592,,,,hewa1241,cochran-1968
+te,,12du_s,1st (incl) Person Dual,41591,,,,hewa1241,cochran-1968
+te,,12du_o,1st (incl) Person Dual,41590,,,,hewa1241,cochran-1968
+'nati,,12pl_a,1st (incl) Person Plural,41589,,,,hewa1241,cochran-1968
+'nati,,12pl_s,1st (incl) Person Plural,41588,,,,hewa1241,cochran-1968
+'nati,,12pl_o,1st (incl) Person Plural,41587,,,,hewa1241,cochran-1968
+ne,,2sg_a,2nd Person Singular,41586,,,,hewa1241,cochran-1968
+ne,,2sg_s,2nd Person Singular,41585,,,,hewa1241,cochran-1968
+ne,,2sg_o,2nd Person Singular,41584,,,,hewa1241,cochran-1968
+no,,2sg_p,2nd Person Singular,41583,,,,hewa1241,cochran-1968
+fe'nay,,2du_a,2nd Person Dual,41582,,,,hewa1241,cochran-1968
+fe'nay,,2du_s,2nd Person Dual,41581,,,,hewa1241,cochran-1968
+fe'nay,,2du_o,2nd Person Dual,41580,,,,hewa1241,cochran-1968
+'nafu,,2pl_a,2nd Person Plural,41579,,,,hewa1241,cochran-1968
+'nafu,,2pl_s,2nd Person Plural,41578,,,,hewa1241,cochran-1968
+'nafu,,2pl_o,2nd Person Plural,41577,,,,hewa1241,cochran-1968
+a'le,,3sg_m_a,3rd Person Singular Masculine,41576,,,,hewa1241,cochran-1968
+a'le,,3sg_m_s,3rd Person Singular Masculine,41575,,,,hewa1241,cochran-1968
+a'le,,3sg_m_o,3rd Person Singular Masculine,41574,,,,hewa1241,cochran-1968
+lo,,3sg_m_p,3rd Person Singular Masculine,41573,,,,hewa1241,cochran-1968
+a'le,,3sg_n_a,3rd Person Singular Neuter,41572,,,,hewa1241,cochran-1968
+a'le,,3sg_n_s,3rd Person Singular Neuter,41571,,,,hewa1241,cochran-1968
+a'le,,3sg_n_o,3rd Person Singular Neuter,41570,,,,hewa1241,cochran-1968
+lo,,3sg_n_p,3rd Person Singular Neuter,41569,,,,hewa1241,cochran-1968
+'lafay,,3d-a,3rd Person Dual,41568,,,,hewa1241,cochran-1968
+'lafay,,3d-s,3rd Person Dual,41567,,,,hewa1241,cochran-1968
+'lafay,,3d-o,3rd Person Dual,41566,,,,hewa1241,cochran-1968
+'lafu,,3p-a,3rd Person Plural,41565,,,,hewa1241,cochran-1968
+'lafu,,3p-s,3rd Person Plural,41564,,,,hewa1241,cochran-1968
+'lafu,,3p-o,3rd Person Plural,41563,,,,hewa1241,cochran-1968

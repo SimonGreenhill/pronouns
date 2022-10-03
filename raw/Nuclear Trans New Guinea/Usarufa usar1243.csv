@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ke;;1sg_a;1st (excl) Person Singular;47206;;;;usar1243;ross-1995
-ke;;1sg_s;1st (excl) Person Singular;47205;;;;usar1243;ross-1995
-ti-;;1sg_o;1st (excl) Person Singular;47204;;;;usar1243;ross-1995
-ti-;;1sg_p;1st (excl) Person Singular;47203;;;;usar1243;ross-1995
-ke;;1du_a;1st (excl) Person Dual;47202;;;;usar1243;ross-1995
-ke;;1du_s;1st (excl) Person Dual;47201;;;;usar1243;ross-1995
-ti-;;1du_o;1st (excl) Person Dual;47200;;;;usar1243;ross-1995
-ti-;;1du_p;1st (excl) Person Dual;47199;;;;usar1243;ross-1995
-ke;;1pl_a;1st (excl) Person Plural;47198;;;;usar1243;ross-1995
-ke;;1pl_s;1st (excl) Person Plural;47197;;;;usar1243;ross-1995
-ti-;;1pl_o;1st (excl) Person Plural;47196;;;;usar1243;ross-1995
-ti-;;1pl_p;1st (excl) Person Plural;47195;;;;usar1243;ross-1995
-ke;;12du_a;1st (incl) Person Dual;47194;;;;usar1243;ross-1995
-ke;;12du_s;1st (incl) Person Dual;47193;;;;usar1243;ross-1995
-ti-;;12du_o;1st (incl) Person Dual;47192;;;;usar1243;ross-1995
-ti-;;12du_p;1st (incl) Person Dual;47191;;;;usar1243;ross-1995
-ke;;12pl_a;1st (incl) Person Plural;47190;;;;usar1243;ross-1995
-ke;;12pl_s;1st (incl) Person Plural;47189;;;;usar1243;ross-1995
-ti-;;12pl_o;1st (incl) Person Plural;47188;;;;usar1243;ross-1995
-ti-;;12pl_p;1st (incl) Person Plural;47187;;;;usar1243;ross-1995
-e;;2sg_a;2nd Person Singular;47186;;;;usar1243;ross-1995
-e;;2sg_s;2nd Person Singular;47185;;;;usar1243;ross-1995
-a-;;2sg_o;2nd Person Singular;47184;;;;usar1243;ross-1995
-a-;;2sg_p;2nd Person Singular;47183;;;;usar1243;ross-1995
-ke;;2du_a;2nd Person Dual;47182;;;;usar1243;ross-1995
-ke;;2du_s;2nd Person Dual;47181;;;;usar1243;ross-1995
-ti-;;2du_o;2nd Person Dual;47180;;;;usar1243;ross-1995
-ti-;;2du_p;2nd Person Dual;47179;;;;usar1243;ross-1995
-ke;;2pl_a;2nd Person Plural;47178;;;;usar1243;ross-1995
-ke;;2pl_s;2nd Person Plural;47177;;;;usar1243;ross-1995
-ti-;;2pl_o;2nd Person Plural;47176;;;;usar1243;ross-1995
-ti-;;2pl_p;2nd Person Plural;47175;;;;usar1243;ross-1995
-we;;3sg_m_a;3rd Person Singular Masculine;47174;;;;usar1243;ross-1995
-we;;3sg_m_s;3rd Person Singular Masculine;47173;;;;usar1243;ross-1995
-a-;;3sg_m_o;3rd Person Singular Masculine;47172;;;;usar1243;ross-1995
-a-;;3sg_m_p;3rd Person Singular Masculine;47171;;;;usar1243;ross-1995
-we;;3sg_n_a;3rd Person Singular Neuter;47170;;;;usar1243;ross-1995
-we;;3sg_n_s;3rd Person Singular Neuter;47169;;;;usar1243;ross-1995
-a-;;3sg_n_o;3rd Person Singular Neuter;47168;;;;usar1243;ross-1995
-a-;;3sg_n_p;3rd Person Singular Neuter;47167;;;;usar1243;ross-1995
-ye;;3d-a;3rd Person Dual;47166;;;;usar1243;ross-1995
-ye;;3d-s;3rd Person Dual;47165;;;;usar1243;ross-1995
-ti-;;3d-o;3rd Person Dual;47164;;;;usar1243;ross-1995
-yi-;;3d-p;3rd Person Dual;47163;;;;usar1243;ross-1995
-ye;;3p-a;3rd Person Plural;47162;;;;usar1243;ross-1995
-ye;;3p-s;3rd Person Plural;47161;;;;usar1243;ross-1995
-ti-;;3p-o;3rd Person Plural;47160;;;;usar1243;ross-1995
-yi-;;3p-p;3rd Person Plural;47159;;;;usar1243;ross-1995
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ke,,1sg_a,1st (excl) Person Singular,47206,,,,usar1243,ross-1995
+ke,,1sg_s,1st (excl) Person Singular,47205,,,,usar1243,ross-1995
+ti-,,1sg_o,1st (excl) Person Singular,47204,,,,usar1243,ross-1995
+ti-,,1sg_p,1st (excl) Person Singular,47203,,,,usar1243,ross-1995
+ke,,1du_a,1st (excl) Person Dual,47202,,,,usar1243,ross-1995
+ke,,1du_s,1st (excl) Person Dual,47201,,,,usar1243,ross-1995
+ti-,,1du_o,1st (excl) Person Dual,47200,,,,usar1243,ross-1995
+ti-,,1du_p,1st (excl) Person Dual,47199,,,,usar1243,ross-1995
+ke,,1pl_a,1st (excl) Person Plural,47198,,,,usar1243,ross-1995
+ke,,1pl_s,1st (excl) Person Plural,47197,,,,usar1243,ross-1995
+ti-,,1pl_o,1st (excl) Person Plural,47196,,,,usar1243,ross-1995
+ti-,,1pl_p,1st (excl) Person Plural,47195,,,,usar1243,ross-1995
+ke,,12du_a,1st (incl) Person Dual,47194,,,,usar1243,ross-1995
+ke,,12du_s,1st (incl) Person Dual,47193,,,,usar1243,ross-1995
+ti-,,12du_o,1st (incl) Person Dual,47192,,,,usar1243,ross-1995
+ti-,,12du_p,1st (incl) Person Dual,47191,,,,usar1243,ross-1995
+ke,,12pl_a,1st (incl) Person Plural,47190,,,,usar1243,ross-1995
+ke,,12pl_s,1st (incl) Person Plural,47189,,,,usar1243,ross-1995
+ti-,,12pl_o,1st (incl) Person Plural,47188,,,,usar1243,ross-1995
+ti-,,12pl_p,1st (incl) Person Plural,47187,,,,usar1243,ross-1995
+e,,2sg_a,2nd Person Singular,47186,,,,usar1243,ross-1995
+e,,2sg_s,2nd Person Singular,47185,,,,usar1243,ross-1995
+a-,,2sg_o,2nd Person Singular,47184,,,,usar1243,ross-1995
+a-,,2sg_p,2nd Person Singular,47183,,,,usar1243,ross-1995
+ke,,2du_a,2nd Person Dual,47182,,,,usar1243,ross-1995
+ke,,2du_s,2nd Person Dual,47181,,,,usar1243,ross-1995
+ti-,,2du_o,2nd Person Dual,47180,,,,usar1243,ross-1995
+ti-,,2du_p,2nd Person Dual,47179,,,,usar1243,ross-1995
+ke,,2pl_a,2nd Person Plural,47178,,,,usar1243,ross-1995
+ke,,2pl_s,2nd Person Plural,47177,,,,usar1243,ross-1995
+ti-,,2pl_o,2nd Person Plural,47176,,,,usar1243,ross-1995
+ti-,,2pl_p,2nd Person Plural,47175,,,,usar1243,ross-1995
+we,,3sg_m_a,3rd Person Singular Masculine,47174,,,,usar1243,ross-1995
+we,,3sg_m_s,3rd Person Singular Masculine,47173,,,,usar1243,ross-1995
+a-,,3sg_m_o,3rd Person Singular Masculine,47172,,,,usar1243,ross-1995
+a-,,3sg_m_p,3rd Person Singular Masculine,47171,,,,usar1243,ross-1995
+we,,3sg_n_a,3rd Person Singular Neuter,47170,,,,usar1243,ross-1995
+we,,3sg_n_s,3rd Person Singular Neuter,47169,,,,usar1243,ross-1995
+a-,,3sg_n_o,3rd Person Singular Neuter,47168,,,,usar1243,ross-1995
+a-,,3sg_n_p,3rd Person Singular Neuter,47167,,,,usar1243,ross-1995
+ye,,3d-a,3rd Person Dual,47166,,,,usar1243,ross-1995
+ye,,3d-s,3rd Person Dual,47165,,,,usar1243,ross-1995
+ti-,,3d-o,3rd Person Dual,47164,,,,usar1243,ross-1995
+yi-,,3d-p,3rd Person Dual,47163,,,,usar1243,ross-1995
+ye,,3p-a,3rd Person Plural,47162,,,,usar1243,ross-1995
+ye,,3p-s,3rd Person Plural,47161,,,,usar1243,ross-1995
+ti-,,3p-o,3rd Person Plural,47160,,,,usar1243,ross-1995
+yi-,,3p-p,3rd Person Plural,47159,,,,usar1243,ross-1995

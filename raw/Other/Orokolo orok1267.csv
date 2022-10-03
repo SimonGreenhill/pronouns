@@ -1,69 +1,69 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ara;;1sg_a;1st (excl) Person Singular;42062;;;;orok1267;brown-1972
-ara;;1sg_s;1st (excl) Person Singular;42061;;;;orok1267;brown-1972
-araro;;1sg_o;1st (excl) Person Singular;42060;;;;orok1267;brown-1972
-arave;;1sg_p;1st (excl) Person Singular;42059;;;;orok1267;brown-1972
-elalila;;1du_a;1st (excl) Person Dual;42507;;;;orok1267;brown-1972
-elavaiila;;1du_a;1st (excl) Person Dual;42508;;;;orok1267;brown-1972
-elalila;;1du_s;1st (excl) Person Dual;42505;;;;orok1267;brown-1972
-elavaiila;;1du_s;1st (excl) Person Dual;42506;;;;orok1267;brown-1972
-elalilara;;1du_o;1st (excl) Person Dual;42056;;;;orok1267;brown-1972
-elalilave;;1du_p;1st (excl) Person Dual;42055;;;;orok1267;brown-1972
-ela;;1pl_a;1st (excl) Person Plural;42054;;;;orok1267;brown-1972
-ela;;1pl_s;1st (excl) Person Plural;42053;;;;orok1267;brown-1972
-elaro;;1pl_o;1st (excl) Person Plural;42052;;;;orok1267;brown-1972
-elave;;1pl_p;1st (excl) Person Plural;42051;;;;orok1267;brown-1972
-elalila;;12du_a;1st (incl) Person Dual;42486;;;;orok1267;brown-1972
-elavaiila;;12du_a;1st (incl) Person Dual;42487;;;;orok1267;brown-1972
-elalila;;12du_s;1st (incl) Person Dual;42488;;;;orok1267;brown-1972
-elavaiila;;12du_s;1st (incl) Person Dual;42489;;;;orok1267;brown-1972
-elalilara;;12du_o;1st (incl) Person Dual;42048;;;;orok1267;brown-1972
-elalilave;;12du_p;1st (incl) Person Dual;42047;;;;orok1267;brown-1972
-elaviila;;12pl_a;1st (incl) Person Plural;42046;;;;orok1267;brown-1972
-elaviila;;12pl_s;1st (incl) Person Plural;42045;;;;orok1267;brown-1972
-elaviilara;;12pl_o;1st (incl) Person Plural;42044;;;;orok1267;brown-1972
-elaviilave;;12pl_p;1st (incl) Person Plural;42043;;;;orok1267;brown-1972
-a;;2sg_a;2nd Person Singular;42042;;;;orok1267;brown-1972
-a;;2sg_s;2nd Person Singular;42041;;;;orok1267;brown-1972
-aro;;2sg_o;2nd Person Singular;42040;;;;orok1267;brown-1972
-ave;;2sg_p;2nd Person Singular;42039;;;;orok1267;brown-1972
-earila;;2du_a;2nd Person Dual;42490;;;;orok1267;brown-1972
-eari;;2du_a;2nd Person Dual;42491;;;;orok1267;brown-1972
-ari;;2du_a;2nd Person Dual;42492;;;;orok1267;brown-1972
-evarila;;2du_a;2nd Person Dual;42493;;;;orok1267;brown-1972
-evari;;2du_a;2nd Person Dual;42494;;;;orok1267;brown-1972
-earila;;2du_s;2nd Person Dual;42495;;;;orok1267;brown-1972
-eari;;2du_s;2nd Person Dual;42496;;;;orok1267;brown-1972
-ari;;2du_s;2nd Person Dual;42497;;;;orok1267;brown-1972
-evarila;;2du_s;2nd Person Dual;42498;;;;orok1267;brown-1972
-evari;;2du_s;2nd Person Dual;42499;;;;orok1267;brown-1972
-earilara;;2du_o;2nd Person Dual;42036;;;;orok1267;brown-1972
-earilave;;2du_p;2nd Person Dual;42035;;;;orok1267;brown-1972
-e;;2pl_a;2nd Person Plural;42034;;;;orok1267;brown-1972
-e;;2pl_s;2nd Person Plural;42033;;;;orok1267;brown-1972
-ero;;2pl_o;2nd Person Plural;42032;;;;orok1267;brown-1972
-eve;;2pl_p;2nd Person Plural;42031;;;;orok1267;brown-1972
-are;;3sg_m_a;3rd Person Singular Masculine;42030;;;;orok1267;brown-1972
-are;;3sg_m_s;3rd Person Singular Masculine;42029;;;;orok1267;brown-1972
-arero;;3sg_m_o;3rd Person Singular Masculine;42028;;;;orok1267;brown-1972
-areve;;3sg_m_p;3rd Person Singular Masculine;42027;;;;orok1267;brown-1972
-are;;3sg_n_a;3rd Person Singular Neuter;42026;;;;orok1267;brown-1972
-are;;3sg_n_s;3rd Person Singular Neuter;42025;;;;orok1267;brown-1972
-arero;;3sg_n_o;3rd Person Singular Neuter;42024;;;;orok1267;brown-1972
-areve;;3sg_n_p;3rd Person Singular Neuter;42023;;;;orok1267;brown-1972
-erearila;;3d-a;3rd Person Dual;42500;;;;orok1267;brown-1972
-ereari;;3d-a;3rd Person Dual;42501;;;;orok1267;brown-1972
-ari;;3d-a;3rd Person Dual;42502;;;;orok1267;brown-1972
-erevarila;;3d-a;3rd Person Dual;42503;;;;orok1267;brown-1972
-erevari;;3d-a;3rd Person Dual;42504;;;;orok1267;brown-1972
-erearila;;3d-s;3rd Person Dual;42481;;;;orok1267;brown-1972
-ereari;;3d-s;3rd Person Dual;42482;;;;orok1267;brown-1972
-ari;;3d-s;3rd Person Dual;42483;;;;orok1267;brown-1972
-erevarila;;3d-s;3rd Person Dual;42484;;;;orok1267;brown-1972
-erevari;;3d-s;3rd Person Dual;42485;;;;orok1267;brown-1972
-erearilara;;3d-o;3rd Person Dual;42020;;;;orok1267;brown-1972
-erearilave;;3d-p;3rd Person Dual;42019;;;;orok1267;brown-1972
-ere;;3p-a;3rd Person Plural;42018;;;;orok1267;brown-1972
-ere;;3p-s;3rd Person Plural;42017;;;;orok1267;brown-1972
-erero;;3p-o;3rd Person Plural;42016;;;;orok1267;brown-1972
-ereve;;3p-p;3rd Person Plural;42015;;;;orok1267;brown-1972
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ara,,1sg_a,1st (excl) Person Singular,42062,,,,orok1267,brown-1972
+ara,,1sg_s,1st (excl) Person Singular,42061,,,,orok1267,brown-1972
+araro,,1sg_o,1st (excl) Person Singular,42060,,,,orok1267,brown-1972
+arave,,1sg_p,1st (excl) Person Singular,42059,,,,orok1267,brown-1972
+elalila,,1du_a,1st (excl) Person Dual,42507,,,,orok1267,brown-1972
+elavaiila,,1du_a,1st (excl) Person Dual,42508,,,,orok1267,brown-1972
+elalila,,1du_s,1st (excl) Person Dual,42505,,,,orok1267,brown-1972
+elavaiila,,1du_s,1st (excl) Person Dual,42506,,,,orok1267,brown-1972
+elalilara,,1du_o,1st (excl) Person Dual,42056,,,,orok1267,brown-1972
+elalilave,,1du_p,1st (excl) Person Dual,42055,,,,orok1267,brown-1972
+ela,,1pl_a,1st (excl) Person Plural,42054,,,,orok1267,brown-1972
+ela,,1pl_s,1st (excl) Person Plural,42053,,,,orok1267,brown-1972
+elaro,,1pl_o,1st (excl) Person Plural,42052,,,,orok1267,brown-1972
+elave,,1pl_p,1st (excl) Person Plural,42051,,,,orok1267,brown-1972
+elalila,,12du_a,1st (incl) Person Dual,42486,,,,orok1267,brown-1972
+elavaiila,,12du_a,1st (incl) Person Dual,42487,,,,orok1267,brown-1972
+elalila,,12du_s,1st (incl) Person Dual,42488,,,,orok1267,brown-1972
+elavaiila,,12du_s,1st (incl) Person Dual,42489,,,,orok1267,brown-1972
+elalilara,,12du_o,1st (incl) Person Dual,42048,,,,orok1267,brown-1972
+elalilave,,12du_p,1st (incl) Person Dual,42047,,,,orok1267,brown-1972
+elaviila,,12pl_a,1st (incl) Person Plural,42046,,,,orok1267,brown-1972
+elaviila,,12pl_s,1st (incl) Person Plural,42045,,,,orok1267,brown-1972
+elaviilara,,12pl_o,1st (incl) Person Plural,42044,,,,orok1267,brown-1972
+elaviilave,,12pl_p,1st (incl) Person Plural,42043,,,,orok1267,brown-1972
+a,,2sg_a,2nd Person Singular,42042,,,,orok1267,brown-1972
+a,,2sg_s,2nd Person Singular,42041,,,,orok1267,brown-1972
+aro,,2sg_o,2nd Person Singular,42040,,,,orok1267,brown-1972
+ave,,2sg_p,2nd Person Singular,42039,,,,orok1267,brown-1972
+earila,,2du_a,2nd Person Dual,42490,,,,orok1267,brown-1972
+eari,,2du_a,2nd Person Dual,42491,,,,orok1267,brown-1972
+ari,,2du_a,2nd Person Dual,42492,,,,orok1267,brown-1972
+evarila,,2du_a,2nd Person Dual,42493,,,,orok1267,brown-1972
+evari,,2du_a,2nd Person Dual,42494,,,,orok1267,brown-1972
+earila,,2du_s,2nd Person Dual,42495,,,,orok1267,brown-1972
+eari,,2du_s,2nd Person Dual,42496,,,,orok1267,brown-1972
+ari,,2du_s,2nd Person Dual,42497,,,,orok1267,brown-1972
+evarila,,2du_s,2nd Person Dual,42498,,,,orok1267,brown-1972
+evari,,2du_s,2nd Person Dual,42499,,,,orok1267,brown-1972
+earilara,,2du_o,2nd Person Dual,42036,,,,orok1267,brown-1972
+earilave,,2du_p,2nd Person Dual,42035,,,,orok1267,brown-1972
+e,,2pl_a,2nd Person Plural,42034,,,,orok1267,brown-1972
+e,,2pl_s,2nd Person Plural,42033,,,,orok1267,brown-1972
+ero,,2pl_o,2nd Person Plural,42032,,,,orok1267,brown-1972
+eve,,2pl_p,2nd Person Plural,42031,,,,orok1267,brown-1972
+are,,3sg_m_a,3rd Person Singular Masculine,42030,,,,orok1267,brown-1972
+are,,3sg_m_s,3rd Person Singular Masculine,42029,,,,orok1267,brown-1972
+arero,,3sg_m_o,3rd Person Singular Masculine,42028,,,,orok1267,brown-1972
+areve,,3sg_m_p,3rd Person Singular Masculine,42027,,,,orok1267,brown-1972
+are,,3sg_n_a,3rd Person Singular Neuter,42026,,,,orok1267,brown-1972
+are,,3sg_n_s,3rd Person Singular Neuter,42025,,,,orok1267,brown-1972
+arero,,3sg_n_o,3rd Person Singular Neuter,42024,,,,orok1267,brown-1972
+areve,,3sg_n_p,3rd Person Singular Neuter,42023,,,,orok1267,brown-1972
+erearila,,3d-a,3rd Person Dual,42500,,,,orok1267,brown-1972
+ereari,,3d-a,3rd Person Dual,42501,,,,orok1267,brown-1972
+ari,,3d-a,3rd Person Dual,42502,,,,orok1267,brown-1972
+erevarila,,3d-a,3rd Person Dual,42503,,,,orok1267,brown-1972
+erevari,,3d-a,3rd Person Dual,42504,,,,orok1267,brown-1972
+erearila,,3d-s,3rd Person Dual,42481,,,,orok1267,brown-1972
+ereari,,3d-s,3rd Person Dual,42482,,,,orok1267,brown-1972
+ari,,3d-s,3rd Person Dual,42483,,,,orok1267,brown-1972
+erevarila,,3d-s,3rd Person Dual,42484,,,,orok1267,brown-1972
+erevari,,3d-s,3rd Person Dual,42485,,,,orok1267,brown-1972
+erearilara,,3d-o,3rd Person Dual,42020,,,,orok1267,brown-1972
+erearilave,,3d-p,3rd Person Dual,42019,,,,orok1267,brown-1972
+ere,,3p-a,3rd Person Plural,42018,,,,orok1267,brown-1972
+ere,,3p-s,3rd Person Plural,42017,,,,orok1267,brown-1972
+erero,,3p-o,3rd Person Plural,42016,,,,orok1267,brown-1972
+ereve,,3p-p,3rd Person Plural,42015,,,,orok1267,brown-1972

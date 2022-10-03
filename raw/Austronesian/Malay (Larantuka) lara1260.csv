@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-kita, beta;;1sg_a;1st (excl) Person Singular;61500;;kita is the familiar form, beta is the formal form.;;lara1260;paauw-2009
-kita, beta;;1sg_s;1st (excl) Person Singular;61499;;kita is the familiar form, beta is the formal form.;;lara1260;paauw-2009
-kita, beta;;1sg_o;1st (excl) Person Singular;61498;;kita is the familiar form, beta is the formal form.;;lara1260;paauw-2009
-kita, beta;;1sg_p;1st (excl) Person Singular;61497;;;;lara1260;paauw-2009
-toraŋ;;1du_a;1st (excl) Person Dual;61496;;;;lara1260;paauw-2009
-toraŋ;;1du_s;1st (excl) Person Dual;61543;;;;lara1260;paauw-2009
-toraŋ;;1du_o;1st (excl) Person Dual;61542;;;;lara1260;paauw-2009
-toraŋ;;1du_p;1st (excl) Person Dual;61541;;;;lara1260;paauw-2009
-toraŋ;;1pl_a;1st (excl) Person Plural;61540;;;;lara1260;paauw-2009
-toraŋ;;1pl_s;1st (excl) Person Plural;61539;;;;lara1260;paauw-2009
-toraŋ;;1pl_o;1st (excl) Person Plural;61538;;;;lara1260;paauw-2009
-toraŋ;;1pl_p;1st (excl) Person Plural;61537;;;;lara1260;paauw-2009
-toraŋ;;12du_a;1st (incl) Person Dual;61536;;;;lara1260;paauw-2009
-toraŋ;;12du_s;1st (incl) Person Dual;61535;;;;lara1260;paauw-2009
-toraŋ;;12du_o;1st (incl) Person Dual;61534;;;;lara1260;paauw-2009
-toraŋ;;12du_p;1st (incl) Person Dual;61533;;;;lara1260;paauw-2009
-toraŋ;;12pl_a;1st (incl) Person Plural;61532;;;;lara1260;paauw-2009
-toraŋ;;12pl_s;1st (incl) Person Plural;61531;;;;lara1260;paauw-2009
-toraŋ;;12pl_o;1st (incl) Person Plural;61530;;;;lara1260;paauw-2009
-toraŋ;;12pl_p;1st (incl) Person Plural;61529;;;;lara1260;paauw-2009
-əŋko, no, oa;;2sg_a;2nd Person Singular;61528;;əŋko is neutral, no is a familiar male form, and oa is a familiar female form.;;lara1260;paauw-2009
-əŋko, no, oa;;2sg_s;2nd Person Singular;61527;;əŋko is neutral, no is a familiar male form, and oa is a familiar female form.;;lara1260;paauw-2009
-əŋko, no, oa;;2sg_o;2nd Person Singular;61526;;əŋko is neutral, no is a familiar male form, and oa is a familiar female form.;;lara1260;paauw-2009
-əŋko, no, oa;;2sg_p;2nd Person Singular;61525;;əŋko is neutral, no is a familiar male form, and oa is a familiar female form.;;lara1260;paauw-2009
-koraŋ, kamu-oraŋ;;2du_a;2nd Person Dual;61524;;;;lara1260;paauw-2009
-koraŋ, kamu-oraŋ;;2du_s;2nd Person Dual;61523;;;;lara1260;paauw-2009
-koraŋ, kamu-oraŋ;;2du_o;2nd Person Dual;61522;;;;lara1260;paauw-2009
-koraŋ, kamu-oraŋ;;2du_p;2nd Person Dual;61521;;;;lara1260;paauw-2009
-koraŋ, kamu-oraŋ;;2pl_a;2nd Person Plural;61520;;;;lara1260;paauw-2009
-koraŋ, kamu-oraŋ;;2pl_s;2nd Person Plural;61519;;;;lara1260;paauw-2009
-koraŋ, kamu-oraŋ;;2pl_o;2nd Person Plural;61518;;;;lara1260;paauw-2009
-koraŋ, kamu-oraŋ;;2pl_p;2nd Person Plural;61517;;;;lara1260;paauw-2009
-dia;;3sg_m_a;3rd Person Singular Masculine;61516;;;;lara1260;paauw-2009
-dia;;3sg_m_s;3rd Person Singular Masculine;61515;;;;lara1260;paauw-2009
-dia;;3sg_m_o;3rd Person Singular Masculine;61514;;;;lara1260;paauw-2009
-dia;;3sg_m_p;3rd Person Singular Masculine;61513;;;;lara1260;paauw-2009
-bicu;;3sg_n_a;3rd Person Singular Neuter;61512;;dia is neutral, bicu is male, and bica is female.;;lara1260;paauw-2009
-bicu;;3sg_n_s;3rd Person Singular Neuter;61511;;dia is neutral, bicu is male, and bica is female.;;lara1260;paauw-2009
-bicu;;3sg_n_o;3rd Person Singular Neuter;61510;;dia is neutral, bicu is male, and bica is female.;;lara1260;paauw-2009
-bicu;;3sg_n_p;3rd Person Singular Neuter;61509;;dia is neutral, bicu is male, and bica is female.;;lara1260;paauw-2009
-doraŋ;;3d-a;3rd Person Dual;61508;;;;lara1260;paauw-2009
-doraŋ;;3d-s;3rd Person Dual;61507;;;;lara1260;paauw-2009
-doraŋ;;3d-o;3rd Person Dual;61506;;;;lara1260;paauw-2009
-doraŋ;;3d-p;3rd Person Dual;61505;;;;lara1260;paauw-2009
-doraŋ;;3p-a;3rd Person Plural;61504;;;;lara1260;paauw-2009
-doraŋ;;3p-s;3rd Person Plural;61503;;;;lara1260;paauw-2009
-doraŋ;;3p-o;3rd Person Plural;61502;;;;lara1260;paauw-2009
-doraŋ;;3p-p;3rd Person Plural;61501;;;;lara1260;paauw-2009
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+"kita, beta",,1sg_a,1st (excl) Person Singular,61500,,"kita is the familiar form, beta is the formal form.",,lara1260,paauw-2009
+"kita, beta",,1sg_s,1st (excl) Person Singular,61499,,"kita is the familiar form, beta is the formal form.",,lara1260,paauw-2009
+"kita, beta",,1sg_o,1st (excl) Person Singular,61498,,"kita is the familiar form, beta is the formal form.",,lara1260,paauw-2009
+"kita, beta",,1sg_p,1st (excl) Person Singular,61497,,,,lara1260,paauw-2009
+toraŋ,,1du_a,1st (excl) Person Dual,61496,,,,lara1260,paauw-2009
+toraŋ,,1du_s,1st (excl) Person Dual,61543,,,,lara1260,paauw-2009
+toraŋ,,1du_o,1st (excl) Person Dual,61542,,,,lara1260,paauw-2009
+toraŋ,,1du_p,1st (excl) Person Dual,61541,,,,lara1260,paauw-2009
+toraŋ,,1pl_a,1st (excl) Person Plural,61540,,,,lara1260,paauw-2009
+toraŋ,,1pl_s,1st (excl) Person Plural,61539,,,,lara1260,paauw-2009
+toraŋ,,1pl_o,1st (excl) Person Plural,61538,,,,lara1260,paauw-2009
+toraŋ,,1pl_p,1st (excl) Person Plural,61537,,,,lara1260,paauw-2009
+toraŋ,,12du_a,1st (incl) Person Dual,61536,,,,lara1260,paauw-2009
+toraŋ,,12du_s,1st (incl) Person Dual,61535,,,,lara1260,paauw-2009
+toraŋ,,12du_o,1st (incl) Person Dual,61534,,,,lara1260,paauw-2009
+toraŋ,,12du_p,1st (incl) Person Dual,61533,,,,lara1260,paauw-2009
+toraŋ,,12pl_a,1st (incl) Person Plural,61532,,,,lara1260,paauw-2009
+toraŋ,,12pl_s,1st (incl) Person Plural,61531,,,,lara1260,paauw-2009
+toraŋ,,12pl_o,1st (incl) Person Plural,61530,,,,lara1260,paauw-2009
+toraŋ,,12pl_p,1st (incl) Person Plural,61529,,,,lara1260,paauw-2009
+"əŋko, no, oa",,2sg_a,2nd Person Singular,61528,,"əŋko is neutral, no is a familiar male form, and oa is a familiar female form.",,lara1260,paauw-2009
+"əŋko, no, oa",,2sg_s,2nd Person Singular,61527,,"əŋko is neutral, no is a familiar male form, and oa is a familiar female form.",,lara1260,paauw-2009
+"əŋko, no, oa",,2sg_o,2nd Person Singular,61526,,"əŋko is neutral, no is a familiar male form, and oa is a familiar female form.",,lara1260,paauw-2009
+"əŋko, no, oa",,2sg_p,2nd Person Singular,61525,,"əŋko is neutral, no is a familiar male form, and oa is a familiar female form.",,lara1260,paauw-2009
+"koraŋ, kamu-oraŋ",,2du_a,2nd Person Dual,61524,,,,lara1260,paauw-2009
+"koraŋ, kamu-oraŋ",,2du_s,2nd Person Dual,61523,,,,lara1260,paauw-2009
+"koraŋ, kamu-oraŋ",,2du_o,2nd Person Dual,61522,,,,lara1260,paauw-2009
+"koraŋ, kamu-oraŋ",,2du_p,2nd Person Dual,61521,,,,lara1260,paauw-2009
+"koraŋ, kamu-oraŋ",,2pl_a,2nd Person Plural,61520,,,,lara1260,paauw-2009
+"koraŋ, kamu-oraŋ",,2pl_s,2nd Person Plural,61519,,,,lara1260,paauw-2009
+"koraŋ, kamu-oraŋ",,2pl_o,2nd Person Plural,61518,,,,lara1260,paauw-2009
+"koraŋ, kamu-oraŋ",,2pl_p,2nd Person Plural,61517,,,,lara1260,paauw-2009
+dia,,3sg_m_a,3rd Person Singular Masculine,61516,,,,lara1260,paauw-2009
+dia,,3sg_m_s,3rd Person Singular Masculine,61515,,,,lara1260,paauw-2009
+dia,,3sg_m_o,3rd Person Singular Masculine,61514,,,,lara1260,paauw-2009
+dia,,3sg_m_p,3rd Person Singular Masculine,61513,,,,lara1260,paauw-2009
+bicu,,3sg_n_a,3rd Person Singular Neuter,61512,,"dia is neutral, bicu is male, and bica is female.",,lara1260,paauw-2009
+bicu,,3sg_n_s,3rd Person Singular Neuter,61511,,"dia is neutral, bicu is male, and bica is female.",,lara1260,paauw-2009
+bicu,,3sg_n_o,3rd Person Singular Neuter,61510,,"dia is neutral, bicu is male, and bica is female.",,lara1260,paauw-2009
+bicu,,3sg_n_p,3rd Person Singular Neuter,61509,,"dia is neutral, bicu is male, and bica is female.",,lara1260,paauw-2009
+doraŋ,,3d-a,3rd Person Dual,61508,,,,lara1260,paauw-2009
+doraŋ,,3d-s,3rd Person Dual,61507,,,,lara1260,paauw-2009
+doraŋ,,3d-o,3rd Person Dual,61506,,,,lara1260,paauw-2009
+doraŋ,,3d-p,3rd Person Dual,61505,,,,lara1260,paauw-2009
+doraŋ,,3p-a,3rd Person Plural,61504,,,,lara1260,paauw-2009
+doraŋ,,3p-s,3rd Person Plural,61503,,,,lara1260,paauw-2009
+doraŋ,,3p-o,3rd Person Plural,61502,,,,lara1260,paauw-2009
+doraŋ,,3p-p,3rd Person Plural,61501,,,,lara1260,paauw-2009

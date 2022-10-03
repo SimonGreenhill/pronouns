@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-añ;;1sg_a;1st (excl) Person Singular;60030;;;;mund1320;osada-1992
-añ;;1sg_s;1st (excl) Person Singular;60029;;;;mund1320;osada-1992
-añ;;1sg_o;1st (excl) Person Singular;60028;;;;mund1320;osada-1992
-añaʔ;;1sg_p;1st (excl) Person Singular;60027;;;;mund1320;osada-1992
-alaŋ;;1du_a;1st (excl) Person Dual;60026;;;;mund1320;osada-1992
-alaŋ;;1du_s;1st (excl) Person Dual;60025;;;;mund1320;osada-1992
-alaŋ;;1du_o;1st (excl) Person Dual;60024;;;;mund1320;osada-1992
-alaŋaʔ;;1du_p;1st (excl) Person Dual;60023;;;;mund1320;osada-1992
-abu;;1pl_a;1st (excl) Person Plural;60022;;;;mund1320;osada-1992
-abu;;1pl_s;1st (excl) Person Plural;60021;;;;mund1320;osada-1992
-abu;;1pl_o;1st (excl) Person Plural;60020;;;;mund1320;osada-1992
-abuaʔ;;1pl_p;1st (excl) Person Plural;60019;;;;mund1320;osada-1992
-aliŋ;;12du_a;1st (incl) Person Dual;60018;;;;mund1320;osada-1992
-aliŋ;;12du_s;1st (incl) Person Dual;60017;;;;mund1320;osada-1992
-aliŋ;;12du_o;1st (incl) Person Dual;60016;;;;mund1320;osada-1992
-aliŋaʔ;;12du_p;1st (incl) Person Dual;60015;;;;mund1320;osada-1992
-ale;;12pl_a;1st (incl) Person Plural;60014;;;;mund1320;osada-1992
-ale;;12pl_s;1st (incl) Person Plural;60013;;;;mund1320;osada-1992
-ale;;12pl_o;1st (incl) Person Plural;60012;;;;mund1320;osada-1992
-aleaʔ;;12pl_p;1st (incl) Person Plural;60011;;;;mund1320;osada-1992
-am;;2sg_a;2nd Person Singular;60010;;;;mund1320;osada-1992
-am;;2sg_s;2nd Person Singular;60009;;;;mund1320;osada-1992
-am;;2sg_o;2nd Person Singular;60008;;;;mund1320;osada-1992
-amaʔ;;2sg_p;2nd Person Singular;60007;;;;mund1320;osada-1992
-aben;;2du_a;2nd Person Dual;60006;;;;mund1320;osada-1992
-aben;;2du_s;2nd Person Dual;60005;;;;mund1320;osada-1992
-aben;;2du_o;2nd Person Dual;60004;;;;mund1320;osada-1992
-abenaʔ;;2du_p;2nd Person Dual;60003;;;;mund1320;osada-1992
-ape;;2pl_a;2nd Person Plural;60002;;;;mund1320;osada-1992
-ape;;2pl_s;2nd Person Plural;60001;;;;mund1320;osada-1992
-ape;;2pl_o;2nd Person Plural;60000;;;;mund1320;osada-1992
-apeaʔ;;2pl_p;2nd Person Plural;59999;;;;mund1320;osada-1992
-ay;;3sg_m_a;3rd Person Singular Masculine;59998;;;;mund1320;osada-1992
-ay;;3sg_m_s;3rd Person Singular Masculine;59997;;;;mund1320;osada-1992
-ay;;3sg_m_o;3rd Person Singular Masculine;59996;;;;mund1320;osada-1992
-ayaʔ;;3sg_m_p;3rd Person Singular Masculine;59995;;;;mund1320;osada-1992
-ay;;3sg_n_a;3rd Person Singular Neuter;59994;;;;mund1320;osada-1992
-ay;;3sg_n_s;3rd Person Singular Neuter;59993;;;;mund1320;osada-1992
-ay;;3sg_n_o;3rd Person Singular Neuter;59992;;;;mund1320;osada-1992
-ayʔ;;3sg_n_p;3rd Person Singular Neuter;59991;;;;mund1320;osada-1992
-akiŋ;;3d-a;3rd Person Dual;59990;;;;mund1320;osada-1992
-akiŋ;;3d-s;3rd Person Dual;59989;;;;mund1320;osada-1992
-akiŋ;;3d-o;3rd Person Dual;59988;;;;mund1320;osada-1992
-akiŋaʔ;;3d-p;3rd Person Dual;59987;;;;mund1320;osada-1992
-ako;;3p-a;3rd Person Plural;59986;;;;mund1320;osada-1992
-ako;;3p-s;3rd Person Plural;59985;;;;mund1320;osada-1992
-ako;;3p-o;3rd Person Plural;59984;;;;mund1320;osada-1992
-akoaʔ;;3p-p;3rd Person Plural;59983;;;;mund1320;osada-1992
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+añ,,1sg_a,1st (excl) Person Singular,60030,,,,mund1320,osada-1992
+añ,,1sg_s,1st (excl) Person Singular,60029,,,,mund1320,osada-1992
+añ,,1sg_o,1st (excl) Person Singular,60028,,,,mund1320,osada-1992
+añaʔ,,1sg_p,1st (excl) Person Singular,60027,,,,mund1320,osada-1992
+alaŋ,,1du_a,1st (excl) Person Dual,60026,,,,mund1320,osada-1992
+alaŋ,,1du_s,1st (excl) Person Dual,60025,,,,mund1320,osada-1992
+alaŋ,,1du_o,1st (excl) Person Dual,60024,,,,mund1320,osada-1992
+alaŋaʔ,,1du_p,1st (excl) Person Dual,60023,,,,mund1320,osada-1992
+abu,,1pl_a,1st (excl) Person Plural,60022,,,,mund1320,osada-1992
+abu,,1pl_s,1st (excl) Person Plural,60021,,,,mund1320,osada-1992
+abu,,1pl_o,1st (excl) Person Plural,60020,,,,mund1320,osada-1992
+abuaʔ,,1pl_p,1st (excl) Person Plural,60019,,,,mund1320,osada-1992
+aliŋ,,12du_a,1st (incl) Person Dual,60018,,,,mund1320,osada-1992
+aliŋ,,12du_s,1st (incl) Person Dual,60017,,,,mund1320,osada-1992
+aliŋ,,12du_o,1st (incl) Person Dual,60016,,,,mund1320,osada-1992
+aliŋaʔ,,12du_p,1st (incl) Person Dual,60015,,,,mund1320,osada-1992
+ale,,12pl_a,1st (incl) Person Plural,60014,,,,mund1320,osada-1992
+ale,,12pl_s,1st (incl) Person Plural,60013,,,,mund1320,osada-1992
+ale,,12pl_o,1st (incl) Person Plural,60012,,,,mund1320,osada-1992
+aleaʔ,,12pl_p,1st (incl) Person Plural,60011,,,,mund1320,osada-1992
+am,,2sg_a,2nd Person Singular,60010,,,,mund1320,osada-1992
+am,,2sg_s,2nd Person Singular,60009,,,,mund1320,osada-1992
+am,,2sg_o,2nd Person Singular,60008,,,,mund1320,osada-1992
+amaʔ,,2sg_p,2nd Person Singular,60007,,,,mund1320,osada-1992
+aben,,2du_a,2nd Person Dual,60006,,,,mund1320,osada-1992
+aben,,2du_s,2nd Person Dual,60005,,,,mund1320,osada-1992
+aben,,2du_o,2nd Person Dual,60004,,,,mund1320,osada-1992
+abenaʔ,,2du_p,2nd Person Dual,60003,,,,mund1320,osada-1992
+ape,,2pl_a,2nd Person Plural,60002,,,,mund1320,osada-1992
+ape,,2pl_s,2nd Person Plural,60001,,,,mund1320,osada-1992
+ape,,2pl_o,2nd Person Plural,60000,,,,mund1320,osada-1992
+apeaʔ,,2pl_p,2nd Person Plural,59999,,,,mund1320,osada-1992
+ay,,3sg_m_a,3rd Person Singular Masculine,59998,,,,mund1320,osada-1992
+ay,,3sg_m_s,3rd Person Singular Masculine,59997,,,,mund1320,osada-1992
+ay,,3sg_m_o,3rd Person Singular Masculine,59996,,,,mund1320,osada-1992
+ayaʔ,,3sg_m_p,3rd Person Singular Masculine,59995,,,,mund1320,osada-1992
+ay,,3sg_n_a,3rd Person Singular Neuter,59994,,,,mund1320,osada-1992
+ay,,3sg_n_s,3rd Person Singular Neuter,59993,,,,mund1320,osada-1992
+ay,,3sg_n_o,3rd Person Singular Neuter,59992,,,,mund1320,osada-1992
+ayʔ,,3sg_n_p,3rd Person Singular Neuter,59991,,,,mund1320,osada-1992
+akiŋ,,3d-a,3rd Person Dual,59990,,,,mund1320,osada-1992
+akiŋ,,3d-s,3rd Person Dual,59989,,,,mund1320,osada-1992
+akiŋ,,3d-o,3rd Person Dual,59988,,,,mund1320,osada-1992
+akiŋaʔ,,3d-p,3rd Person Dual,59987,,,,mund1320,osada-1992
+ako,,3p-a,3rd Person Plural,59986,,,,mund1320,osada-1992
+ako,,3p-s,3rd Person Plural,59985,,,,mund1320,osada-1992
+ako,,3p-o,3rd Person Plural,59984,,,,mund1320,osada-1992
+akoaʔ,,3p-p,3rd Person Plural,59983,,,,mund1320,osada-1992

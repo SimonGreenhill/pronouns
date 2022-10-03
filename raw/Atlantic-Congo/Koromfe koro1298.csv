@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-məkɔ ;;1sg_a;1st (excl) Person Singular;51634;;;;koro1298;rennison-1997
-məkɔ ;;1sg_s;1st (excl) Person Singular;51633;;;;koro1298;rennison-1997
-məkɔ ;;1sg_o;1st (excl) Person Singular;51632;;;;koro1298;rennison-1997
-məkɔ ;;1sg_p;1st (excl) Person Singular;51631;;;;koro1298;rennison-1997
-ʊkɔ ;;1du_a;1st (excl) Person Dual;51630;;;;koro1298;rennison-1997
-ʊkɔ ;;1du_s;1st (excl) Person Dual;51629;;;;koro1298;rennison-1997
-ʊkɔ ;;1du_o;1st (excl) Person Dual;51628;;;;koro1298;rennison-1997
-ʊkɔ ;;1du_p;1st (excl) Person Dual;51627;;;;koro1298;rennison-1997
-ʊkɔ ;;1pl_a;1st (excl) Person Plural;51626;;;;koro1298;rennison-1997
-ʊkɔ ;;1pl_s;1st (excl) Person Plural;51625;;;;koro1298;rennison-1997
-ʊkɔ ;;1pl_o;1st (excl) Person Plural;51624;;;;koro1298;rennison-1997
-ʊkɔ ;;1pl_p;1st (excl) Person Plural;51623;;;;koro1298;rennison-1997
-ʊkɔ ;;12du_a;1st (incl) Person Dual;51622;;;;koro1298;rennison-1997
-ʊkɔ ;;12du_s;1st (incl) Person Dual;51621;;;;koro1298;rennison-1997
-ʊkɔ ;;12du_o;1st (incl) Person Dual;51620;;;;koro1298;rennison-1997
-ʊkɔ ;;12du_p;1st (incl) Person Dual;51619;;;;koro1298;rennison-1997
-ʊkɔ ;;12pl_a;1st (incl) Person Plural;51618;;;;koro1298;rennison-1997
-ʊkɔ ;;12pl_s;1st (incl) Person Plural;51617;;;;koro1298;rennison-1997
-ʊkɔ ;;12pl_o;1st (incl) Person Plural;51616;;;;koro1298;rennison-1997
-ʊkɔ ;;12pl_p;1st (incl) Person Plural;51615;;;;koro1298;rennison-1997
-ŋkɔ;;2sg_a;2nd Person Singular;51614;;;;koro1298;rennison-1997
-ŋkɔ;;2sg_s;2nd Person Singular;51613;;;;koro1298;rennison-1997
-ŋkɔ;;2sg_o;2nd Person Singular;51612;;;;koro1298;rennison-1997
-ŋkɔ;;2sg_p;2nd Person Singular;51611;;;;koro1298;rennison-1997
-nakɔ ;;2du_a;2nd Person Dual;51610;;;;koro1298;rennison-1997
-nakɔ ;;2du_s;2nd Person Dual;51609;;;;koro1298;rennison-1997
-nakɔ ;;2du_o;2nd Person Dual;51608;;;;koro1298;rennison-1997
-nakɔ ;;2du_p;2nd Person Dual;51607;;;;koro1298;rennison-1997
-nakɔ ;;2pl_a;2nd Person Plural;51606;;;;koro1298;rennison-1997
-nakɔ ;;2pl_s;2nd Person Plural;51605;;;;koro1298;rennison-1997
-nakɔ ;;2pl_o;2nd Person Plural;51604;;;;koro1298;rennison-1997
-nakɔ ;;2pl_p;2nd Person Plural;51603;;;;koro1298;rennison-1997
-dəkɔ;;3sg_m_a;3rd Person Singular Masculine;51602;;;;koro1298;rennison-1997
-dəkɔ;;3sg_m_s;3rd Person Singular Masculine;51601;;;;koro1298;rennison-1997
-dəkɔ;;3sg_m_o;3rd Person Singular Masculine;51600;;;;koro1298;rennison-1997
-dəkɔ;;3sg_m_p;3rd Person Singular Masculine;51599;;;;koro1298;rennison-1997
-gʊkɔ;;3sg_n_a;3rd Person Singular Neuter;51598;;;;koro1298;rennison-1997
-gʊkɔ;;3sg_n_s;3rd Person Singular Neuter;51597;;;;koro1298;rennison-1997
-gʊkɔ;;3sg_n_o;3rd Person Singular Neuter;51596;;;;koro1298;rennison-1997
-gʊkɔ;;3sg_n_p;3rd Person Singular Neuter;51595;;;;koro1298;rennison-1997
-bakɔ;;3d-a;3rd Person Dual;51594;;;;koro1298;rennison-1997
-bakɔ;;3d-s;3rd Person Dual;51593;;;;koro1298;rennison-1997
-bakɔ;;3d-o;3rd Person Dual;51592;;;;koro1298;rennison-1997
-bakɔ;;3d-p;3rd Person Dual;51591;;;;koro1298;rennison-1997
-bakɔ;;3p-a;3rd Person Plural;51590;;;;koro1298;rennison-1997
-bakɔ;;3p-s;3rd Person Plural;51589;;;;koro1298;rennison-1997
-bakɔ;;3p-o;3rd Person Plural;51588;;;;koro1298;rennison-1997
-bakɔ;;3p-p;3rd Person Plural;51587;;;;koro1298;rennison-1997
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+məkɔ,,1sg_a,1st (excl) Person Singular,51634,,,,koro1298,rennison-1997
+məkɔ,,1sg_s,1st (excl) Person Singular,51633,,,,koro1298,rennison-1997
+məkɔ,,1sg_o,1st (excl) Person Singular,51632,,,,koro1298,rennison-1997
+məkɔ,,1sg_p,1st (excl) Person Singular,51631,,,,koro1298,rennison-1997
+ʊkɔ,,1du_a,1st (excl) Person Dual,51630,,,,koro1298,rennison-1997
+ʊkɔ,,1du_s,1st (excl) Person Dual,51629,,,,koro1298,rennison-1997
+ʊkɔ,,1du_o,1st (excl) Person Dual,51628,,,,koro1298,rennison-1997
+ʊkɔ,,1du_p,1st (excl) Person Dual,51627,,,,koro1298,rennison-1997
+ʊkɔ,,1pl_a,1st (excl) Person Plural,51626,,,,koro1298,rennison-1997
+ʊkɔ,,1pl_s,1st (excl) Person Plural,51625,,,,koro1298,rennison-1997
+ʊkɔ,,1pl_o,1st (excl) Person Plural,51624,,,,koro1298,rennison-1997
+ʊkɔ,,1pl_p,1st (excl) Person Plural,51623,,,,koro1298,rennison-1997
+ʊkɔ,,12du_a,1st (incl) Person Dual,51622,,,,koro1298,rennison-1997
+ʊkɔ,,12du_s,1st (incl) Person Dual,51621,,,,koro1298,rennison-1997
+ʊkɔ,,12du_o,1st (incl) Person Dual,51620,,,,koro1298,rennison-1997
+ʊkɔ,,12du_p,1st (incl) Person Dual,51619,,,,koro1298,rennison-1997
+ʊkɔ,,12pl_a,1st (incl) Person Plural,51618,,,,koro1298,rennison-1997
+ʊkɔ,,12pl_s,1st (incl) Person Plural,51617,,,,koro1298,rennison-1997
+ʊkɔ,,12pl_o,1st (incl) Person Plural,51616,,,,koro1298,rennison-1997
+ʊkɔ,,12pl_p,1st (incl) Person Plural,51615,,,,koro1298,rennison-1997
+ŋkɔ,,2sg_a,2nd Person Singular,51614,,,,koro1298,rennison-1997
+ŋkɔ,,2sg_s,2nd Person Singular,51613,,,,koro1298,rennison-1997
+ŋkɔ,,2sg_o,2nd Person Singular,51612,,,,koro1298,rennison-1997
+ŋkɔ,,2sg_p,2nd Person Singular,51611,,,,koro1298,rennison-1997
+nakɔ,,2du_a,2nd Person Dual,51610,,,,koro1298,rennison-1997
+nakɔ,,2du_s,2nd Person Dual,51609,,,,koro1298,rennison-1997
+nakɔ,,2du_o,2nd Person Dual,51608,,,,koro1298,rennison-1997
+nakɔ,,2du_p,2nd Person Dual,51607,,,,koro1298,rennison-1997
+nakɔ,,2pl_a,2nd Person Plural,51606,,,,koro1298,rennison-1997
+nakɔ,,2pl_s,2nd Person Plural,51605,,,,koro1298,rennison-1997
+nakɔ,,2pl_o,2nd Person Plural,51604,,,,koro1298,rennison-1997
+nakɔ,,2pl_p,2nd Person Plural,51603,,,,koro1298,rennison-1997
+dəkɔ,,3sg_m_a,3rd Person Singular Masculine,51602,,,,koro1298,rennison-1997
+dəkɔ,,3sg_m_s,3rd Person Singular Masculine,51601,,,,koro1298,rennison-1997
+dəkɔ,,3sg_m_o,3rd Person Singular Masculine,51600,,,,koro1298,rennison-1997
+dəkɔ,,3sg_m_p,3rd Person Singular Masculine,51599,,,,koro1298,rennison-1997
+gʊkɔ,,3sg_n_a,3rd Person Singular Neuter,51598,,,,koro1298,rennison-1997
+gʊkɔ,,3sg_n_s,3rd Person Singular Neuter,51597,,,,koro1298,rennison-1997
+gʊkɔ,,3sg_n_o,3rd Person Singular Neuter,51596,,,,koro1298,rennison-1997
+gʊkɔ,,3sg_n_p,3rd Person Singular Neuter,51595,,,,koro1298,rennison-1997
+bakɔ,,3d-a,3rd Person Dual,51594,,,,koro1298,rennison-1997
+bakɔ,,3d-s,3rd Person Dual,51593,,,,koro1298,rennison-1997
+bakɔ,,3d-o,3rd Person Dual,51592,,,,koro1298,rennison-1997
+bakɔ,,3d-p,3rd Person Dual,51591,,,,koro1298,rennison-1997
+bakɔ,,3p-a,3rd Person Plural,51590,,,,koro1298,rennison-1997
+bakɔ,,3p-s,3rd Person Plural,51589,,,,koro1298,rennison-1997
+bakɔ,,3p-o,3rd Person Plural,51588,,,,koro1298,rennison-1997
+bakɔ,,3p-p,3rd Person Plural,51587,,,,koro1298,rennison-1997

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-asa;;1sg_a;1st (excl) Person Singular;54077;;;;cent2150;headland-1994
-asa;;1sg_s;1st (excl) Person Singular;54076;;;;cent2150;headland-1994
-asa;;1sg_o;1st (excl) Person Singular;54075;;;;cent2150;headland-1994
-ajáy;;1sg_p;1st (excl) Person Singular;54074;;;;cent2150;headland-1994
-isa;;1du_a;1st (excl) Person Dual;54073;;;;cent2150;headland-1994
-isa;;1du_s;1st (excl) Person Dual;54072;;;;cent2150;headland-1994
-isa;;1du_o;1st (excl) Person Dual;54071;;;;cent2150;headland-1994
-isay;;1du_p;1st (excl) Person Dual;54070;;;;cent2150;headland-1994
-isa;;1pl_a;1st (excl) Person Plural;54069;;;;cent2150;headland-1994
-isa;;1pl_s;1st (excl) Person Plural;54068;;;;cent2150;headland-1994
-isa;;1pl_o;1st (excl) Person Plural;54067;;;;cent2150;headland-1994
-isay;;1pl_p;1st (excl) Person Plural;54066;;;;cent2150;headland-1994
-isa;;12du_a;1st (incl) Person Dual;54065;;;;cent2150;headland-1994
-isa;;12du_s;1st (incl) Person Dual;54064;;;;cent2150;headland-1994
-isa;;12du_o;1st (incl) Person Dual;54063;;;;cent2150;headland-1994
-isay;;12du_p;1st (incl) Person Dual;54062;;;;cent2150;headland-1994
-isa;;12pl_a;1st (incl) Person Plural;54061;;;;cent2150;headland-1994
-isa;;12pl_s;1st (incl) Person Plural;54060;;;;cent2150;headland-1994
-isa;;12pl_o;1st (incl) Person Plural;54059;;;;cent2150;headland-1994
-isay;;12pl_p;1st (incl) Person Plural;54058;;;;cent2150;headland-1994
-baha;;2sg_a;2nd Person Singular;54057;;;;cent2150;headland-1994
-baha;;2sg_s;2nd Person Singular;54056;;;;cent2150;headland-1994
-baha;;2sg_o;2nd Person Singular;54055;;;;cent2150;headland-1994
-bahay;;2sg_p;2nd Person Singular;54054;;;;cent2150;headland-1994
-baa;;2du_a;2nd Person Dual;54053;;;;cent2150;headland-1994
-baa;;2du_s;2nd Person Dual;54052;;;;cent2150;headland-1994
-baa;;2du_o;2nd Person Dual;54051;;;;cent2150;headland-1994
-bay;;2du_p;2nd Person Dual;54050;;;;cent2150;headland-1994
-baa;;2pl_a;2nd Person Plural;54049;;;;cent2150;headland-1994
-baa;;2pl_s;2nd Person Plural;54048;;;;cent2150;headland-1994
-baa;;2pl_o;2nd Person Plural;54047;;;;cent2150;headland-1994
-bay;;2pl_p;2nd Person Plural;54046;;;;cent2150;headland-1994
-uiya;;3sg_m_a;3rd Person Singular Masculine;54045;;;;cent2150;headland-1994
-uiya;;3sg_m_s;3rd Person Singular Masculine;54044;;;;cent2150;headland-1994
-uiya;;3sg_m_o;3rd Person Singular Masculine;54043;;;;cent2150;headland-1994
-uiyay;;3sg_m_p;3rd Person Singular Masculine;54042;;;;cent2150;headland-1994
-uiya;;3sg_n_a;3rd Person Singular Neuter;54041;;;;cent2150;headland-1994
-uiya;;3sg_n_s;3rd Person Singular Neuter;54040;;;;cent2150;headland-1994
-uiya;;3sg_n_o;3rd Person Singular Neuter;54039;;;;cent2150;headland-1994
-uiyay;;3sg_n_p;3rd Person Singular Neuter;54038;;;;cent2150;headland-1994
-uiyina;;3d-a;3rd Person Dual;54037;;;;cent2150;headland-1994
-uiyina;;3d-s;3rd Person Dual;54036;;;;cent2150;headland-1994
-uiyina;;3d-o;3rd Person Dual;54035;;;;cent2150;headland-1994
-uiyinay;;3d-p;3rd Person Dual;54034;;;;cent2150;headland-1994
-uiyina;;3p-a;3rd Person Plural;54033;;;;cent2150;headland-1994
-uiyina;;3p-s;3rd Person Plural;54032;;;;cent2150;headland-1994
-uiyina;;3p-o;3rd Person Plural;54031;;;;cent2150;headland-1994
-uiyinay;;3p-p;3rd Person Plural;54030;;;;cent2150;headland-1994
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+asa,,1sg_a,1st (excl) Person Singular,54077,,,,cent2150,headland-1994
+asa,,1sg_s,1st (excl) Person Singular,54076,,,,cent2150,headland-1994
+asa,,1sg_o,1st (excl) Person Singular,54075,,,,cent2150,headland-1994
+ajáy,,1sg_p,1st (excl) Person Singular,54074,,,,cent2150,headland-1994
+isa,,1du_a,1st (excl) Person Dual,54073,,,,cent2150,headland-1994
+isa,,1du_s,1st (excl) Person Dual,54072,,,,cent2150,headland-1994
+isa,,1du_o,1st (excl) Person Dual,54071,,,,cent2150,headland-1994
+isay,,1du_p,1st (excl) Person Dual,54070,,,,cent2150,headland-1994
+isa,,1pl_a,1st (excl) Person Plural,54069,,,,cent2150,headland-1994
+isa,,1pl_s,1st (excl) Person Plural,54068,,,,cent2150,headland-1994
+isa,,1pl_o,1st (excl) Person Plural,54067,,,,cent2150,headland-1994
+isay,,1pl_p,1st (excl) Person Plural,54066,,,,cent2150,headland-1994
+isa,,12du_a,1st (incl) Person Dual,54065,,,,cent2150,headland-1994
+isa,,12du_s,1st (incl) Person Dual,54064,,,,cent2150,headland-1994
+isa,,12du_o,1st (incl) Person Dual,54063,,,,cent2150,headland-1994
+isay,,12du_p,1st (incl) Person Dual,54062,,,,cent2150,headland-1994
+isa,,12pl_a,1st (incl) Person Plural,54061,,,,cent2150,headland-1994
+isa,,12pl_s,1st (incl) Person Plural,54060,,,,cent2150,headland-1994
+isa,,12pl_o,1st (incl) Person Plural,54059,,,,cent2150,headland-1994
+isay,,12pl_p,1st (incl) Person Plural,54058,,,,cent2150,headland-1994
+baha,,2sg_a,2nd Person Singular,54057,,,,cent2150,headland-1994
+baha,,2sg_s,2nd Person Singular,54056,,,,cent2150,headland-1994
+baha,,2sg_o,2nd Person Singular,54055,,,,cent2150,headland-1994
+bahay,,2sg_p,2nd Person Singular,54054,,,,cent2150,headland-1994
+baa,,2du_a,2nd Person Dual,54053,,,,cent2150,headland-1994
+baa,,2du_s,2nd Person Dual,54052,,,,cent2150,headland-1994
+baa,,2du_o,2nd Person Dual,54051,,,,cent2150,headland-1994
+bay,,2du_p,2nd Person Dual,54050,,,,cent2150,headland-1994
+baa,,2pl_a,2nd Person Plural,54049,,,,cent2150,headland-1994
+baa,,2pl_s,2nd Person Plural,54048,,,,cent2150,headland-1994
+baa,,2pl_o,2nd Person Plural,54047,,,,cent2150,headland-1994
+bay,,2pl_p,2nd Person Plural,54046,,,,cent2150,headland-1994
+uiya,,3sg_m_a,3rd Person Singular Masculine,54045,,,,cent2150,headland-1994
+uiya,,3sg_m_s,3rd Person Singular Masculine,54044,,,,cent2150,headland-1994
+uiya,,3sg_m_o,3rd Person Singular Masculine,54043,,,,cent2150,headland-1994
+uiyay,,3sg_m_p,3rd Person Singular Masculine,54042,,,,cent2150,headland-1994
+uiya,,3sg_n_a,3rd Person Singular Neuter,54041,,,,cent2150,headland-1994
+uiya,,3sg_n_s,3rd Person Singular Neuter,54040,,,,cent2150,headland-1994
+uiya,,3sg_n_o,3rd Person Singular Neuter,54039,,,,cent2150,headland-1994
+uiyay,,3sg_n_p,3rd Person Singular Neuter,54038,,,,cent2150,headland-1994
+uiyina,,3d-a,3rd Person Dual,54037,,,,cent2150,headland-1994
+uiyina,,3d-s,3rd Person Dual,54036,,,,cent2150,headland-1994
+uiyina,,3d-o,3rd Person Dual,54035,,,,cent2150,headland-1994
+uiyinay,,3d-p,3rd Person Dual,54034,,,,cent2150,headland-1994
+uiyina,,3p-a,3rd Person Plural,54033,,,,cent2150,headland-1994
+uiyina,,3p-s,3rd Person Plural,54032,,,,cent2150,headland-1994
+uiyina,,3p-o,3rd Person Plural,54031,,,,cent2150,headland-1994
+uiyinay,,3p-p,3rd Person Plural,54030,,,,cent2150,headland-1994

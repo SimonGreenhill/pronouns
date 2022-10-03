@@ -1,33 +1,33 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-maĩ;;1sg_a;1st (excl) Person Singular;42987;;;;hind1269;hyslop-2014
-maĩ;;1sg_s;1st (excl) Person Singular;42986;;;;hind1269;hyslop-2014
-mujh;;1sg_o;1st (excl) Person Singular;42985;;;;hind1269;hyslop-2014
-mera;;1sg_p;1st (excl) Person Singular;42984;;;;hind1269;hyslop-2014
-ham;;1pl_a;1st (excl) Person Plural;42983;;;;hind1269;hyslop-2014
-ham;;1pl_s;1st (excl) Person Plural;42982;;;;hind1269;hyslop-2014
-ham-;;1pl_o;1st (excl) Person Plural;42981;;;;hind1269;hyslop-2014
-hamara;;1pl_p;1st (excl) Person Plural;42980;;;;hind1269;hyslop-2014
-tum;;2sg_a;2nd Person Singular;42979;;informal;;hind1269;hyslop-2014
-tum;;2sg_s;2nd Person Singular;42978;;informal;;hind1269;hyslop-2014
-tum-;;2sg_o;2nd Person Singular;42977;;informal;;hind1269;hyslop-2014
-tumhara;;2sg_p;2nd Person Singular;42976;;informal;;hind1269;hyslop-2014
-aap;;2pl_a;2nd Person Plural;42975;;formal;;hind1269;hyslop-2014
-aap;;2pl_s;2nd Person Plural;42974;;formal;;hind1269;hyslop-2014
-aap;;2pl_o;2nd Person Plural;42973;;formal;;hind1269;hyslop-2014
-aapka;;2pl_p;2nd Person Plural;42972;;formal;;hind1269;hyslop-2014
-yah~;;3sg_m_a;3rd Person Singular Masculine;42971;;;;hind1269;hyslop-2014
-yah;;3sg_m_s;3rd Person Singular Masculine;42970;;;;hind1269;hyslop-2014
-is;;3sg_m_o;3rd Person Singular Masculine;42969;;;;hind1269;hyslop-2014
-iska;;3sg_m_p;3rd Person Singular Masculine;42968;;;;hind1269;hyslop-2014
-vah;;3sg_n_a;3rd Person Singular Neuter;42967;;;;hind1269;hyslop-2014
-vah;;3sg_n_s;3rd Person Singular Neuter;42966;;;;hind1269;hyslop-2014
-us;;3sg_n_o;3rd Person Singular Neuter;42965;;;;hind1269;hyslop-2014
-iska;;3sg_n_p;3rd Person Singular Neuter;42964;;;;hind1269;hyslop-2014
-vah;;3d-a;3rd Person Dual;42963;;;;hind1269;hyslop-2014
-vah;;3d-s;3rd Person Dual;42962;;;;hind1269;hyslop-2014
-us;;3d-o;3rd Person Dual;42961;;;;hind1269;hyslop-2014
-uska;;3d-p;3rd Person Dual;42960;;;;hind1269;hyslop-2014
-ye;;3p-a;3rd Person Plural;42959;;;;hind1269;hyslop-2014
-ye;;3p-s;3rd Person Plural;42958;;;;hind1269;hyslop-2014
-in;;3p-o;3rd Person Plural;42957;;;;hind1269;hyslop-2014
-inka;;3p-p;3rd Person Plural;42956;;;;hind1269;hyslop-2014
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+maĩ,,1sg_a,1st (excl) Person Singular,42987,,,,hind1269,hyslop-2014
+maĩ,,1sg_s,1st (excl) Person Singular,42986,,,,hind1269,hyslop-2014
+mujh,,1sg_o,1st (excl) Person Singular,42985,,,,hind1269,hyslop-2014
+mera,,1sg_p,1st (excl) Person Singular,42984,,,,hind1269,hyslop-2014
+ham,,1pl_a,1st (excl) Person Plural,42983,,,,hind1269,hyslop-2014
+ham,,1pl_s,1st (excl) Person Plural,42982,,,,hind1269,hyslop-2014
+ham-,,1pl_o,1st (excl) Person Plural,42981,,,,hind1269,hyslop-2014
+hamara,,1pl_p,1st (excl) Person Plural,42980,,,,hind1269,hyslop-2014
+tum,,2sg_a,2nd Person Singular,42979,,informal,,hind1269,hyslop-2014
+tum,,2sg_s,2nd Person Singular,42978,,informal,,hind1269,hyslop-2014
+tum-,,2sg_o,2nd Person Singular,42977,,informal,,hind1269,hyslop-2014
+tumhara,,2sg_p,2nd Person Singular,42976,,informal,,hind1269,hyslop-2014
+aap,,2pl_a,2nd Person Plural,42975,,formal,,hind1269,hyslop-2014
+aap,,2pl_s,2nd Person Plural,42974,,formal,,hind1269,hyslop-2014
+aap,,2pl_o,2nd Person Plural,42973,,formal,,hind1269,hyslop-2014
+aapka,,2pl_p,2nd Person Plural,42972,,formal,,hind1269,hyslop-2014
+yah~,,3sg_m_a,3rd Person Singular Masculine,42971,,,,hind1269,hyslop-2014
+yah,,3sg_m_s,3rd Person Singular Masculine,42970,,,,hind1269,hyslop-2014
+is,,3sg_m_o,3rd Person Singular Masculine,42969,,,,hind1269,hyslop-2014
+iska,,3sg_m_p,3rd Person Singular Masculine,42968,,,,hind1269,hyslop-2014
+vah,,3sg_n_a,3rd Person Singular Neuter,42967,,,,hind1269,hyslop-2014
+vah,,3sg_n_s,3rd Person Singular Neuter,42966,,,,hind1269,hyslop-2014
+us,,3sg_n_o,3rd Person Singular Neuter,42965,,,,hind1269,hyslop-2014
+iska,,3sg_n_p,3rd Person Singular Neuter,42964,,,,hind1269,hyslop-2014
+vah,,3d-a,3rd Person Dual,42963,,,,hind1269,hyslop-2014
+vah,,3d-s,3rd Person Dual,42962,,,,hind1269,hyslop-2014
+us,,3d-o,3rd Person Dual,42961,,,,hind1269,hyslop-2014
+uska,,3d-p,3rd Person Dual,42960,,,,hind1269,hyslop-2014
+ye,,3p-a,3rd Person Plural,42959,,,,hind1269,hyslop-2014
+ye,,3p-s,3rd Person Plural,42958,,,,hind1269,hyslop-2014
+in,,3p-o,3rd Person Plural,42957,,,,hind1269,hyslop-2014
+inka,,3p-p,3rd Person Plural,42956,,,,hind1269,hyslop-2014

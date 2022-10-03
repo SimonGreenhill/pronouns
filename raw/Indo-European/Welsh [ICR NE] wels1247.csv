@@ -1,97 +1,97 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-i;;1sg_a;1st (excl) Person Singular;60544;;;;wels1247;king-2003
-i;;1sg_a;1st (excl) Person Singular;60592;;;;wels1247;king-2003
-i;;1sg_s;1st (excl) Person Singular;60543;;;;wels1247;king-2003
-i;;1sg_s;1st (excl) Person Singular;60591;;;;wels1247;king-2003
-fi;;1sg_o;1st (excl) Person Singular;60542;;;;wels1247;king-2003
-fi;;1sg_o;1st (excl) Person Singular;60590;;;;wels1247;king-2003
-fy;;1sg_p;1st (excl) Person Singular;60541;;;;wels1247;king-2003
-fy;;1sg_p;1st (excl) Person Singular;60589;;;;wels1247;king-2003
-ni;;1du_a;1st (excl) Person Dual;60540;;;;wels1247;king-2003
-ni;;1du_a;1st (excl) Person Dual;60588;;;;wels1247;king-2003
-ni;;1du_s;1st (excl) Person Dual;60539;;;;wels1247;king-2003
-ni;;1du_s;1st (excl) Person Dual;60587;;;;wels1247;king-2003
-ni;;1du_o;1st (excl) Person Dual;60538;;;;wels1247;king-2003
-ni;;1du_o;1st (excl) Person Dual;60586;;;;wels1247;king-2003
-ein;;1du_p;1st (excl) Person Dual;60537;;;;wels1247;king-2003
-ein;;1du_p;1st (excl) Person Dual;60585;;;;wels1247;king-2003
-ni;;1pl_a;1st (excl) Person Plural;60536;;;;wels1247;king-2003
-ni;;1pl_a;1st (excl) Person Plural;60584;;;;wels1247;king-2003
-ni;;1pl_s;1st (excl) Person Plural;60535;;;;wels1247;king-2003
-ni;;1pl_s;1st (excl) Person Plural;60583;;;;wels1247;king-2003
-ni;;1pl_o;1st (excl) Person Plural;60534;;;;wels1247;king-2003
-ni;;1pl_o;1st (excl) Person Plural;60582;;;;wels1247;king-2003
-ein;;1pl_p;1st (excl) Person Plural;60533;;;;wels1247;king-2003
-ein;;1pl_p;1st (excl) Person Plural;60581;;;;wels1247;king-2003
-ni;;12du_a;1st (incl) Person Dual;60532;;;;wels1247;king-2003
-ni;;12du_a;1st (incl) Person Dual;60580;;;;wels1247;king-2003
-ni;;12du_s;1st (incl) Person Dual;60531;;;;wels1247;king-2003
-ni;;12du_s;1st (incl) Person Dual;60579;;;;wels1247;king-2003
-ni;;12du_o;1st (incl) Person Dual;60530;;;;wels1247;king-2003
-ni;;12du_o;1st (incl) Person Dual;60578;;;;wels1247;king-2003
-ein;;12du_p;1st (incl) Person Dual;60529;;;;wels1247;king-2003
-ein;;12du_p;1st (incl) Person Dual;60577;;;;wels1247;king-2003
-ni;;12pl_a;1st (incl) Person Plural;60528;;;;wels1247;king-2003
-ni;;12pl_a;1st (incl) Person Plural;60576;;;;wels1247;king-2003
-ni;;12pl_s;1st (incl) Person Plural;60527;;;;wels1247;king-2003
-ni;;12pl_s;1st (incl) Person Plural;60575;;;;wels1247;king-2003
-ni;;12pl_o;1st (incl) Person Plural;60526;;;;wels1247;king-2003
-ni;;12pl_o;1st (incl) Person Plural;60574;;;;wels1247;king-2003
-ein;;12pl_p;1st (incl) Person Plural;60525;;;;wels1247;king-2003
-ein;;12pl_p;1st (incl) Person Plural;60573;;;;wels1247;king-2003
-ti;;2sg_a;2nd Person Singular;60524;;;;wels1247;king-2003
-ti;;2sg_a;2nd Person Singular;60572;;;;wels1247;king-2003
-ti;;2sg_s;2nd Person Singular;60523;;;;wels1247;king-2003
-ti;;2sg_s;2nd Person Singular;60571;;;;wels1247;king-2003
-ti;;2sg_o;2nd Person Singular;60522;;;;wels1247;king-2003
-ti;;2sg_o;2nd Person Singular;60570;;;;wels1247;king-2003
-dyº;;2sg_p;2nd Person Singular;60521;;;;wels1247;king-2003
-dyº;;2sg_p;2nd Person Singular;60569;;;;wels1247;king-2003
-chi;;2du_a;2nd Person Dual;60520;;;;wels1247;king-2003
-chi;;2du_a;2nd Person Dual;60568;;;;wels1247;king-2003
-chi;;2du_s;2nd Person Dual;60519;;;;wels1247;king-2003
-chi;;2du_s;2nd Person Dual;60567;;;;wels1247;king-2003
-chi;;2du_o;2nd Person Dual;60518;;;;wels1247;king-2003
-chi;;2du_o;2nd Person Dual;60566;;;;wels1247;king-2003
-eich;;2du_p;2nd Person Dual;60517;;;;wels1247;king-2003
-eich;;2du_p;2nd Person Dual;60565;;;;wels1247;king-2003
-chi;;2pl_a;2nd Person Plural;60516;;;;wels1247;king-2003
-chi;;2pl_a;2nd Person Plural;60564;;;;wels1247;king-2003
-chi;;2pl_s;2nd Person Plural;60515;;;;wels1247;king-2003
-chi;;2pl_s;2nd Person Plural;60563;;;;wels1247;king-2003
-chi;;2pl_o;2nd Person Plural;60514;;;;wels1247;king-2003
-chi;;2pl_o;2nd Person Plural;60562;;;;wels1247;king-2003
-eich;;2pl_p;2nd Person Plural;60513;;;;wels1247;king-2003
-eich;;2pl_p;2nd Person Plural;60561;;;;wels1247;king-2003
-e;;3sg_m_a;3rd Person Singular Masculine;60512;;;;wels1247;king-2003
-e;;3sg_m_a;3rd Person Singular Masculine;60560;;;;wels1247;king-2003
-e;;3sg_m_s;3rd Person Singular Masculine;60511;;;;wels1247;king-2003
-e;;3sg_m_s;3rd Person Singular Masculine;60559;;;;wels1247;king-2003
-fe;;3sg_m_o;3rd Person Singular Masculine;60510;;;;wels1247;king-2003
-fe;;3sg_m_o;3rd Person Singular Masculine;60558;;;;wels1247;king-2003
-eiº;;3sg_m_p;3rd Person Singular Masculine;60509;;;;wels1247;king-2003
-eiº;;3sg_m_p;3rd Person Singular Masculine;60557;;;;wels1247;king-2003
-hi;;3sg_n_a;3rd Person Singular Neuter;60508;;;;wels1247;king-2003
-hi;;3sg_n_a;3rd Person Singular Neuter;60556;;;;wels1247;king-2003
-hi;;3sg_n_s;3rd Person Singular Neuter;60507;;;;wels1247;king-2003
-hi;;3sg_n_s;3rd Person Singular Neuter;60555;;;;wels1247;king-2003
-hi;;3sg_n_o;3rd Person Singular Neuter;60506;;;;wels1247;king-2003
-hi;;3sg_n_o;3rd Person Singular Neuter;60554;;;;wels1247;king-2003
-ei;;3sg_n_p;3rd Person Singular Neuter;60505;;;;wels1247;king-2003
-ei;;3sg_n_p;3rd Person Singular Neuter;60553;;;;wels1247;king-2003
-nhw;;3d-a;3rd Person Dual;60504;;;;wels1247;king-2003
-nhw;;3d-a;3rd Person Dual;60545;;;;wels1247;king-2003
-nhw;;3d-s;3rd Person Dual;60503;;;;wels1247;king-2003
-nhw;;3d-s;3rd Person Dual;60546;;;;wels1247;king-2003
-nhw;;3d-o;3rd Person Dual;60502;;;;wels1247;king-2003
-nhw;;3d-o;3rd Person Dual;60547;;;;wels1247;king-2003
-eu;;3d-p;3rd Person Dual;60501;;;;wels1247;king-2003
-eu;;3d-p;3rd Person Dual;60548;;;;wels1247;king-2003
-nhw;;3p-a;3rd Person Plural;60500;;;;wels1247;king-2003
-nhw;;3p-a;3rd Person Plural;60549;;;;wels1247;king-2003
-nhw;;3p-s;3rd Person Plural;60499;;;;wels1247;king-2003
-nhw;;3p-s;3rd Person Plural;60550;;;;wels1247;king-2003
-nhw;;3p-o;3rd Person Plural;60498;;;;wels1247;king-2003
-nhw;;3p-o;3rd Person Plural;60551;;;;wels1247;king-2003
-eu;;3p-p;3rd Person Plural;60497;;;;wels1247;king-2003
-eu;;3p-p;3rd Person Plural;60552;;;;wels1247;king-2003
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+i,,1sg_a,1st (excl) Person Singular,60544,,,,wels1247,king-2003
+i,,1sg_a,1st (excl) Person Singular,60592,,,,wels1247,king-2003
+i,,1sg_s,1st (excl) Person Singular,60543,,,,wels1247,king-2003
+i,,1sg_s,1st (excl) Person Singular,60591,,,,wels1247,king-2003
+fi,,1sg_o,1st (excl) Person Singular,60542,,,,wels1247,king-2003
+fi,,1sg_o,1st (excl) Person Singular,60590,,,,wels1247,king-2003
+fy,,1sg_p,1st (excl) Person Singular,60541,,,,wels1247,king-2003
+fy,,1sg_p,1st (excl) Person Singular,60589,,,,wels1247,king-2003
+ni,,1du_a,1st (excl) Person Dual,60540,,,,wels1247,king-2003
+ni,,1du_a,1st (excl) Person Dual,60588,,,,wels1247,king-2003
+ni,,1du_s,1st (excl) Person Dual,60539,,,,wels1247,king-2003
+ni,,1du_s,1st (excl) Person Dual,60587,,,,wels1247,king-2003
+ni,,1du_o,1st (excl) Person Dual,60538,,,,wels1247,king-2003
+ni,,1du_o,1st (excl) Person Dual,60586,,,,wels1247,king-2003
+ein,,1du_p,1st (excl) Person Dual,60537,,,,wels1247,king-2003
+ein,,1du_p,1st (excl) Person Dual,60585,,,,wels1247,king-2003
+ni,,1pl_a,1st (excl) Person Plural,60536,,,,wels1247,king-2003
+ni,,1pl_a,1st (excl) Person Plural,60584,,,,wels1247,king-2003
+ni,,1pl_s,1st (excl) Person Plural,60535,,,,wels1247,king-2003
+ni,,1pl_s,1st (excl) Person Plural,60583,,,,wels1247,king-2003
+ni,,1pl_o,1st (excl) Person Plural,60534,,,,wels1247,king-2003
+ni,,1pl_o,1st (excl) Person Plural,60582,,,,wels1247,king-2003
+ein,,1pl_p,1st (excl) Person Plural,60533,,,,wels1247,king-2003
+ein,,1pl_p,1st (excl) Person Plural,60581,,,,wels1247,king-2003
+ni,,12du_a,1st (incl) Person Dual,60532,,,,wels1247,king-2003
+ni,,12du_a,1st (incl) Person Dual,60580,,,,wels1247,king-2003
+ni,,12du_s,1st (incl) Person Dual,60531,,,,wels1247,king-2003
+ni,,12du_s,1st (incl) Person Dual,60579,,,,wels1247,king-2003
+ni,,12du_o,1st (incl) Person Dual,60530,,,,wels1247,king-2003
+ni,,12du_o,1st (incl) Person Dual,60578,,,,wels1247,king-2003
+ein,,12du_p,1st (incl) Person Dual,60529,,,,wels1247,king-2003
+ein,,12du_p,1st (incl) Person Dual,60577,,,,wels1247,king-2003
+ni,,12pl_a,1st (incl) Person Plural,60528,,,,wels1247,king-2003
+ni,,12pl_a,1st (incl) Person Plural,60576,,,,wels1247,king-2003
+ni,,12pl_s,1st (incl) Person Plural,60527,,,,wels1247,king-2003
+ni,,12pl_s,1st (incl) Person Plural,60575,,,,wels1247,king-2003
+ni,,12pl_o,1st (incl) Person Plural,60526,,,,wels1247,king-2003
+ni,,12pl_o,1st (incl) Person Plural,60574,,,,wels1247,king-2003
+ein,,12pl_p,1st (incl) Person Plural,60525,,,,wels1247,king-2003
+ein,,12pl_p,1st (incl) Person Plural,60573,,,,wels1247,king-2003
+ti,,2sg_a,2nd Person Singular,60524,,,,wels1247,king-2003
+ti,,2sg_a,2nd Person Singular,60572,,,,wels1247,king-2003
+ti,,2sg_s,2nd Person Singular,60523,,,,wels1247,king-2003
+ti,,2sg_s,2nd Person Singular,60571,,,,wels1247,king-2003
+ti,,2sg_o,2nd Person Singular,60522,,,,wels1247,king-2003
+ti,,2sg_o,2nd Person Singular,60570,,,,wels1247,king-2003
+dyº,,2sg_p,2nd Person Singular,60521,,,,wels1247,king-2003
+dyº,,2sg_p,2nd Person Singular,60569,,,,wels1247,king-2003
+chi,,2du_a,2nd Person Dual,60520,,,,wels1247,king-2003
+chi,,2du_a,2nd Person Dual,60568,,,,wels1247,king-2003
+chi,,2du_s,2nd Person Dual,60519,,,,wels1247,king-2003
+chi,,2du_s,2nd Person Dual,60567,,,,wels1247,king-2003
+chi,,2du_o,2nd Person Dual,60518,,,,wels1247,king-2003
+chi,,2du_o,2nd Person Dual,60566,,,,wels1247,king-2003
+eich,,2du_p,2nd Person Dual,60517,,,,wels1247,king-2003
+eich,,2du_p,2nd Person Dual,60565,,,,wels1247,king-2003
+chi,,2pl_a,2nd Person Plural,60516,,,,wels1247,king-2003
+chi,,2pl_a,2nd Person Plural,60564,,,,wels1247,king-2003
+chi,,2pl_s,2nd Person Plural,60515,,,,wels1247,king-2003
+chi,,2pl_s,2nd Person Plural,60563,,,,wels1247,king-2003
+chi,,2pl_o,2nd Person Plural,60514,,,,wels1247,king-2003
+chi,,2pl_o,2nd Person Plural,60562,,,,wels1247,king-2003
+eich,,2pl_p,2nd Person Plural,60513,,,,wels1247,king-2003
+eich,,2pl_p,2nd Person Plural,60561,,,,wels1247,king-2003
+e,,3sg_m_a,3rd Person Singular Masculine,60512,,,,wels1247,king-2003
+e,,3sg_m_a,3rd Person Singular Masculine,60560,,,,wels1247,king-2003
+e,,3sg_m_s,3rd Person Singular Masculine,60511,,,,wels1247,king-2003
+e,,3sg_m_s,3rd Person Singular Masculine,60559,,,,wels1247,king-2003
+fe,,3sg_m_o,3rd Person Singular Masculine,60510,,,,wels1247,king-2003
+fe,,3sg_m_o,3rd Person Singular Masculine,60558,,,,wels1247,king-2003
+eiº,,3sg_m_p,3rd Person Singular Masculine,60509,,,,wels1247,king-2003
+eiº,,3sg_m_p,3rd Person Singular Masculine,60557,,,,wels1247,king-2003
+hi,,3sg_n_a,3rd Person Singular Neuter,60508,,,,wels1247,king-2003
+hi,,3sg_n_a,3rd Person Singular Neuter,60556,,,,wels1247,king-2003
+hi,,3sg_n_s,3rd Person Singular Neuter,60507,,,,wels1247,king-2003
+hi,,3sg_n_s,3rd Person Singular Neuter,60555,,,,wels1247,king-2003
+hi,,3sg_n_o,3rd Person Singular Neuter,60506,,,,wels1247,king-2003
+hi,,3sg_n_o,3rd Person Singular Neuter,60554,,,,wels1247,king-2003
+ei,,3sg_n_p,3rd Person Singular Neuter,60505,,,,wels1247,king-2003
+ei,,3sg_n_p,3rd Person Singular Neuter,60553,,,,wels1247,king-2003
+nhw,,3d-a,3rd Person Dual,60504,,,,wels1247,king-2003
+nhw,,3d-a,3rd Person Dual,60545,,,,wels1247,king-2003
+nhw,,3d-s,3rd Person Dual,60503,,,,wels1247,king-2003
+nhw,,3d-s,3rd Person Dual,60546,,,,wels1247,king-2003
+nhw,,3d-o,3rd Person Dual,60502,,,,wels1247,king-2003
+nhw,,3d-o,3rd Person Dual,60547,,,,wels1247,king-2003
+eu,,3d-p,3rd Person Dual,60501,,,,wels1247,king-2003
+eu,,3d-p,3rd Person Dual,60548,,,,wels1247,king-2003
+nhw,,3p-a,3rd Person Plural,60500,,,,wels1247,king-2003
+nhw,,3p-a,3rd Person Plural,60549,,,,wels1247,king-2003
+nhw,,3p-s,3rd Person Plural,60499,,,,wels1247,king-2003
+nhw,,3p-s,3rd Person Plural,60550,,,,wels1247,king-2003
+nhw,,3p-o,3rd Person Plural,60498,,,,wels1247,king-2003
+nhw,,3p-o,3rd Person Plural,60551,,,,wels1247,king-2003
+eu,,3p-p,3rd Person Plural,60497,,,,wels1247,king-2003
+eu,,3p-p,3rd Person Plural,60552,,,,wels1247,king-2003

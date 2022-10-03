@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ngayu;;1sg_a;1st (excl) Person Singular;62252;;;;gugu1255;haviland-1979
-ngayu;;1sg_s;1st (excl) Person Singular;62251;;;;gugu1255;haviland-1979
-nganhi;;1sg_o;1st (excl) Person Singular;62250;;;;gugu1255;haviland-1979
-ngadhu;;1sg_p;1st (excl) Person Singular;62249;;;;gugu1255;haviland-1979
-ngaliinh;;1du_a;1st (excl) Person Dual;62248;;;;gugu1255;haviland-1979
-ngaliinh;;1du_s;1st (excl) Person Dual;62247;;;;gugu1255;haviland-1979
-ngalinhun;;1du_o;1st (excl) Person Dual;62246;;;;gugu1255;haviland-1979
-ngalinhun;;1du_p;1st (excl) Person Dual;62245;;;;gugu1255;haviland-1979
-nganhdhaan, ngana;;1pl_a;1st (excl) Person Plural;62244;;"nganhdhaan is used by those inland; ngana by coastal speakers.";;gugu1255;haviland-1979
-nganhdhaan, ngana;;1pl_s;1st (excl) Person Plural;62243;;"nganhdhaan is used by those inland; ngana by coastal speakers.";;gugu1255;haviland-1979
-nganhdanun, nganangan;;1pl_o;1st (excl) Person Plural;62242;;nganhdanun is used by inland speakers. nganangan is used by coastal speakers.;;gugu1255;haviland-1979
-ngandhanun, nganangan;;1pl_p;1st (excl) Person Plural;62241;;nganhdanun is used by inland speakers. nganangan is used by coastal speakers.;;gugu1255;haviland-1979
-ngali;;12du_a;1st (incl) Person Dual;62240;;;;gugu1255;haviland-1979
-ngali;;12du_s;1st (incl) Person Dual;62239;;;;gugu1255;haviland-1979
-ngaliin, ngalinin;;12du_o;1st (incl) Person Dual;62238;;;;gugu1255;haviland-1979
-ngaliin;;12du_p;1st (incl) Person Dual;62237;;;;gugu1255;haviland-1979
-nganhdhaan, ngana;;12pl_a;1st (incl) Person Plural;62236;;"nganhdhaan is used by those inland; ngana by coastal speakers.";;gugu1255;haviland-1979
-nganhdhaan, ngana;;12pl_s;1st (incl) Person Plural;62235;;"nganhdhaan is used by those inland; ngana by coastal speakers.";;gugu1255;haviland-1979
-nganhdanun, nganangan;;12pl_o;1st (incl) Person Plural;62234;;nganhdanun is used by inland speakers. nganangan is used by coastal speakers.;;gugu1255;haviland-1979
-ngandhanun, nganangan;;12pl_p;1st (incl) Person Plural;62233;;nganhdanun is used by inland speakers. nganangan is used by coastal speakers.;;gugu1255;haviland-1979
-nyundu;;2sg_a;2nd Person Singular;62232;;;;gugu1255;haviland-1979
-nyundu;;2sg_s;2nd Person Singular;62231;;;;gugu1255;haviland-1979
-nhina(an(in));;2sg_o;2nd Person Singular;62230;;;;gugu1255;haviland-1979
-nhanu;;2sg_p;2nd Person Singular;62229;;;;gugu1255;haviland-1979
-yubaal;;2du_a;2nd Person Dual;62228;;;;gugu1255;haviland-1979
-yubaal;;2du_s;2nd Person Dual;62227;;;;gugu1255;haviland-1979
-yubalin, yubalinh, yubaarnin;;2du_o;2nd Person Dual;62226;;;;gugu1255;haviland-1979
-yubalin, yubalinh;;2du_p;2nd Person Dual;62225;;;;gugu1255;haviland-1979
-yurra;;2pl_a;2nd Person Plural;62224;;;;gugu1255;haviland-1979
-yurra;;2pl_s;2nd Person Plural;62223;;;;gugu1255;haviland-1979
-yurraan, yurrangan;;2pl_o;2nd Person Plural;62222;;;;gugu1255;haviland-1979
-yurraan, yurrangan;;2pl_p;2nd Person Plural;62221;;;;gugu1255;haviland-1979
-nyulu;;3sg_m_a;3rd Person Singular Masculine;62220;;;;gugu1255;haviland-1979
-nyulu;;3sg_m_s;3rd Person Singular Masculine;62219;;;;gugu1255;haviland-1979
-nhinhaan(in);;3sg_m_o;3rd Person Singular Masculine;62218;;;;gugu1255;haviland-1979
-nhangu;;3sg_m_p;3rd Person Singular Masculine;62217;;;;gugu1255;haviland-1979
-nyulu;;3sg_n_a;3rd Person Singular Neuter;62216;;;;gugu1255;haviland-1979
-nyulu;;3sg_n_s;3rd Person Singular Neuter;62215;;;;gugu1255;haviland-1979
-nhinhaan(in);;3sg_n_o;3rd Person Singular Neuter;62214;;;;gugu1255;haviland-1979
-nhangu;;3sg_n_p;3rd Person Singular Neuter;62213;;;;gugu1255;haviland-1979
-bula;;3d-a;3rd Person Dual;62212;;;;gugu1255;haviland-1979
-bula;;3d-s;3rd Person Dual;62211;;;;gugu1255;haviland-1979
-bulaan(in), bulangan;;3d-o;3rd Person Dual;62210;;;;gugu1255;haviland-1979
-bulaan, bulangan;;3d-p;3rd Person Dual;62209;;;;gugu1255;haviland-1979
-dhana;;3p-a;3rd Person Plural;62208;;;;gugu1255;haviland-1979
-dhana;;3p-s;3rd Person Plural;62207;;;;gugu1255;haviland-1979
-dhanaan, dhanangan;;3p-o;3rd Person Plural;62206;;;;gugu1255;haviland-1979
-dhanaan, dhanangan;;3p-p;3rd Person Plural;62205;;;;gugu1255;haviland-1979
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ngayu,,1sg_a,1st (excl) Person Singular,62252,,,,gugu1255,haviland-1979
+ngayu,,1sg_s,1st (excl) Person Singular,62251,,,,gugu1255,haviland-1979
+nganhi,,1sg_o,1st (excl) Person Singular,62250,,,,gugu1255,haviland-1979
+ngadhu,,1sg_p,1st (excl) Person Singular,62249,,,,gugu1255,haviland-1979
+ngaliinh,,1du_a,1st (excl) Person Dual,62248,,,,gugu1255,haviland-1979
+ngaliinh,,1du_s,1st (excl) Person Dual,62247,,,,gugu1255,haviland-1979
+ngalinhun,,1du_o,1st (excl) Person Dual,62246,,,,gugu1255,haviland-1979
+ngalinhun,,1du_p,1st (excl) Person Dual,62245,,,,gugu1255,haviland-1979
+"nganhdhaan, ngana",,1pl_a,1st (excl) Person Plural,62244,,nganhdhaan is used by those inland; ngana by coastal speakers.,,gugu1255,haviland-1979
+"nganhdhaan, ngana",,1pl_s,1st (excl) Person Plural,62243,,nganhdhaan is used by those inland; ngana by coastal speakers.,,gugu1255,haviland-1979
+"nganhdanun, nganangan",,1pl_o,1st (excl) Person Plural,62242,,nganhdanun is used by inland speakers. nganangan is used by coastal speakers.,,gugu1255,haviland-1979
+"ngandhanun, nganangan",,1pl_p,1st (excl) Person Plural,62241,,nganhdanun is used by inland speakers. nganangan is used by coastal speakers.,,gugu1255,haviland-1979
+ngali,,12du_a,1st (incl) Person Dual,62240,,,,gugu1255,haviland-1979
+ngali,,12du_s,1st (incl) Person Dual,62239,,,,gugu1255,haviland-1979
+"ngaliin, ngalinin",,12du_o,1st (incl) Person Dual,62238,,,,gugu1255,haviland-1979
+ngaliin,,12du_p,1st (incl) Person Dual,62237,,,,gugu1255,haviland-1979
+"nganhdhaan, ngana",,12pl_a,1st (incl) Person Plural,62236,,nganhdhaan is used by those inland; ngana by coastal speakers.,,gugu1255,haviland-1979
+"nganhdhaan, ngana",,12pl_s,1st (incl) Person Plural,62235,,nganhdhaan is used by those inland; ngana by coastal speakers.,,gugu1255,haviland-1979
+"nganhdanun, nganangan",,12pl_o,1st (incl) Person Plural,62234,,nganhdanun is used by inland speakers. nganangan is used by coastal speakers.,,gugu1255,haviland-1979
+"ngandhanun, nganangan",,12pl_p,1st (incl) Person Plural,62233,,nganhdanun is used by inland speakers. nganangan is used by coastal speakers.,,gugu1255,haviland-1979
+nyundu,,2sg_a,2nd Person Singular,62232,,,,gugu1255,haviland-1979
+nyundu,,2sg_s,2nd Person Singular,62231,,,,gugu1255,haviland-1979
+nhina(an(in)),,2sg_o,2nd Person Singular,62230,,,,gugu1255,haviland-1979
+nhanu,,2sg_p,2nd Person Singular,62229,,,,gugu1255,haviland-1979
+yubaal,,2du_a,2nd Person Dual,62228,,,,gugu1255,haviland-1979
+yubaal,,2du_s,2nd Person Dual,62227,,,,gugu1255,haviland-1979
+"yubalin, yubalinh, yubaarnin",,2du_o,2nd Person Dual,62226,,,,gugu1255,haviland-1979
+"yubalin, yubalinh",,2du_p,2nd Person Dual,62225,,,,gugu1255,haviland-1979
+yurra,,2pl_a,2nd Person Plural,62224,,,,gugu1255,haviland-1979
+yurra,,2pl_s,2nd Person Plural,62223,,,,gugu1255,haviland-1979
+"yurraan, yurrangan",,2pl_o,2nd Person Plural,62222,,,,gugu1255,haviland-1979
+"yurraan, yurrangan",,2pl_p,2nd Person Plural,62221,,,,gugu1255,haviland-1979
+nyulu,,3sg_m_a,3rd Person Singular Masculine,62220,,,,gugu1255,haviland-1979
+nyulu,,3sg_m_s,3rd Person Singular Masculine,62219,,,,gugu1255,haviland-1979
+nhinhaan(in),,3sg_m_o,3rd Person Singular Masculine,62218,,,,gugu1255,haviland-1979
+nhangu,,3sg_m_p,3rd Person Singular Masculine,62217,,,,gugu1255,haviland-1979
+nyulu,,3sg_n_a,3rd Person Singular Neuter,62216,,,,gugu1255,haviland-1979
+nyulu,,3sg_n_s,3rd Person Singular Neuter,62215,,,,gugu1255,haviland-1979
+nhinhaan(in),,3sg_n_o,3rd Person Singular Neuter,62214,,,,gugu1255,haviland-1979
+nhangu,,3sg_n_p,3rd Person Singular Neuter,62213,,,,gugu1255,haviland-1979
+bula,,3d-a,3rd Person Dual,62212,,,,gugu1255,haviland-1979
+bula,,3d-s,3rd Person Dual,62211,,,,gugu1255,haviland-1979
+"bulaan(in), bulangan",,3d-o,3rd Person Dual,62210,,,,gugu1255,haviland-1979
+"bulaan, bulangan",,3d-p,3rd Person Dual,62209,,,,gugu1255,haviland-1979
+dhana,,3p-a,3rd Person Plural,62208,,,,gugu1255,haviland-1979
+dhana,,3p-s,3rd Person Plural,62207,,,,gugu1255,haviland-1979
+"dhanaan, dhanangan",,3p-o,3rd Person Plural,62206,,,,gugu1255,haviland-1979
+"dhanaan, dhanangan",,3p-p,3rd Person Plural,62205,,,,gugu1255,haviland-1979

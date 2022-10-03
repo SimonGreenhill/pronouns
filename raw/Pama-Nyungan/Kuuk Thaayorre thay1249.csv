@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ngay;;1sg_a;1st (excl) Person Singular;62204;;;;thay1249;gaby-2006
-ngay;;1sg_s;1st (excl) Person Singular;62203;;;;thay1249;gaby-2006
-nganh;;1sg_o;1st (excl) Person Singular;62202;;;;thay1249;gaby-2006
-ngathn;;1sg_p;1st (excl) Person Singular;62201;;;;thay1249;gaby-2006
-ngali;;1du_a;1st (excl) Person Dual;62200;;;;thay1249;gaby-2006
-ngali;;1du_s;1st (excl) Person Dual;62199;;;;thay1249;gaby-2006
-ngalnhan;;1du_o;1st (excl) Person Dual;62198;;;;thay1249;gaby-2006
-ngalnhan;;1du_p;1st (excl) Person Dual;62197;;;;thay1249;gaby-2006
-nganen;;1pl_a;1st (excl) Person Plural;62196;;;;thay1249;gaby-2006
-nganen;;1pl_s;1st (excl) Person Plural;62195;;;;thay1249;gaby-2006
-nganenhan;;1pl_o;1st (excl) Person Plural;62194;;;;thay1249;gaby-2006
-nganenhan;;1pl_p;1st (excl) Person Plural;62193;;;;thay1249;gaby-2006
-ngal;;12du_a;1st (incl) Person Dual;62192;;;;thay1249;gaby-2006
-ngal;;12du_s;1st (incl) Person Dual;62191;;;;thay1249;gaby-2006
-ngalin;;12du_o;1st (incl) Person Dual;62190;;;;thay1249;gaby-2006
-ngalin;;12du_p;1st (incl) Person Dual;62189;;;;thay1249;gaby-2006
-ngamp;;12pl_a;1st (incl) Person Plural;62188;;;;thay1249;gaby-2006
-ngamp;;12pl_s;1st (incl) Person Plural;62187;;;;thay1249;gaby-2006
-ngamplin;;12pl_o;1st (incl) Person Plural;62186;;;;thay1249;gaby-2006
-ngamplin;;12pl_p;1st (incl) Person Plural;62185;;;;thay1249;gaby-2006
-nhunt;;2sg_a;2nd Person Singular;62184;;;;thay1249;gaby-2006
-nhunt;;2sg_s;2nd Person Singular;62183;;;;thay1249;gaby-2006
-nhinh;;2sg_o;2nd Person Singular;62182;;;;thay1249;gaby-2006
-nhangkn;;2sg_p;2nd Person Singular;62181;;;;thay1249;gaby-2006
-nhip;;2du_a;2nd Person Dual;62180;;;;thay1249;gaby-2006
-nhip;;2du_s;2nd Person Dual;62179;;;;thay1249;gaby-2006
-nhiplin;;2du_o;2nd Person Dual;62178;;;;thay1249;gaby-2006
-nhiplin;;2du_p;2nd Person Dual;62177;;;;thay1249;gaby-2006
-nhurr;;2pl_a;2nd Person Plural;62176;;;;thay1249;gaby-2006
-nhurr;;2pl_s;2nd Person Plural;62175;;;;thay1249;gaby-2006
-nhurrnan;;2pl_o;2nd Person Plural;62174;;;;thay1249;gaby-2006
-nhurrnan;;2pl_p;2nd Person Plural;62173;;;;thay1249;gaby-2006
-nhul;;3sg_m_a;3rd Person Singular Masculine;62172;;;;thay1249;gaby-2006
-nhul;;3sg_m_s;3rd Person Singular Masculine;62171;;;;thay1249;gaby-2006
-nhunh;;3sg_m_o;3rd Person Singular Masculine;62170;;;;thay1249;gaby-2006
-nhangn;;3sg_m_p;3rd Person Singular Masculine;62169;;;;thay1249;gaby-2006
-nhul;;3sg_n_a;3rd Person Singular Neuter;62168;;;;thay1249;gaby-2006
-nhul;;3sg_n_s;3rd Person Singular Neuter;62167;;;;thay1249;gaby-2006
-nhunh;;3sg_n_o;3rd Person Singular Neuter;62166;;;;thay1249;gaby-2006
-nhangn;;3sg_n_p;3rd Person Singular Neuter;62165;;;;thay1249;gaby-2006
-pul;;3d-a;3rd Person Dual;62164;;;;thay1249;gaby-2006
-pul;;3d-s;3rd Person Dual;62163;;;;thay1249;gaby-2006
-pulnan;;3d-o;3rd Person Dual;62162;;;;thay1249;gaby-2006
-pulnan;;3d-p;3rd Person Dual;62161;;;;thay1249;gaby-2006
-peln;;3p-a;3rd Person Plural;62160;;;;thay1249;gaby-2006
-peln;;3p-s;3rd Person Plural;62159;;;;thay1249;gaby-2006
-pelnan;;3p-o;3rd Person Plural;62158;;;;thay1249;gaby-2006
-pelnan;;3p-p;3rd Person Plural;62157;;;;thay1249;gaby-2006
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ngay,,1sg_a,1st (excl) Person Singular,62204,,,,thay1249,gaby-2006
+ngay,,1sg_s,1st (excl) Person Singular,62203,,,,thay1249,gaby-2006
+nganh,,1sg_o,1st (excl) Person Singular,62202,,,,thay1249,gaby-2006
+ngathn,,1sg_p,1st (excl) Person Singular,62201,,,,thay1249,gaby-2006
+ngali,,1du_a,1st (excl) Person Dual,62200,,,,thay1249,gaby-2006
+ngali,,1du_s,1st (excl) Person Dual,62199,,,,thay1249,gaby-2006
+ngalnhan,,1du_o,1st (excl) Person Dual,62198,,,,thay1249,gaby-2006
+ngalnhan,,1du_p,1st (excl) Person Dual,62197,,,,thay1249,gaby-2006
+nganen,,1pl_a,1st (excl) Person Plural,62196,,,,thay1249,gaby-2006
+nganen,,1pl_s,1st (excl) Person Plural,62195,,,,thay1249,gaby-2006
+nganenhan,,1pl_o,1st (excl) Person Plural,62194,,,,thay1249,gaby-2006
+nganenhan,,1pl_p,1st (excl) Person Plural,62193,,,,thay1249,gaby-2006
+ngal,,12du_a,1st (incl) Person Dual,62192,,,,thay1249,gaby-2006
+ngal,,12du_s,1st (incl) Person Dual,62191,,,,thay1249,gaby-2006
+ngalin,,12du_o,1st (incl) Person Dual,62190,,,,thay1249,gaby-2006
+ngalin,,12du_p,1st (incl) Person Dual,62189,,,,thay1249,gaby-2006
+ngamp,,12pl_a,1st (incl) Person Plural,62188,,,,thay1249,gaby-2006
+ngamp,,12pl_s,1st (incl) Person Plural,62187,,,,thay1249,gaby-2006
+ngamplin,,12pl_o,1st (incl) Person Plural,62186,,,,thay1249,gaby-2006
+ngamplin,,12pl_p,1st (incl) Person Plural,62185,,,,thay1249,gaby-2006
+nhunt,,2sg_a,2nd Person Singular,62184,,,,thay1249,gaby-2006
+nhunt,,2sg_s,2nd Person Singular,62183,,,,thay1249,gaby-2006
+nhinh,,2sg_o,2nd Person Singular,62182,,,,thay1249,gaby-2006
+nhangkn,,2sg_p,2nd Person Singular,62181,,,,thay1249,gaby-2006
+nhip,,2du_a,2nd Person Dual,62180,,,,thay1249,gaby-2006
+nhip,,2du_s,2nd Person Dual,62179,,,,thay1249,gaby-2006
+nhiplin,,2du_o,2nd Person Dual,62178,,,,thay1249,gaby-2006
+nhiplin,,2du_p,2nd Person Dual,62177,,,,thay1249,gaby-2006
+nhurr,,2pl_a,2nd Person Plural,62176,,,,thay1249,gaby-2006
+nhurr,,2pl_s,2nd Person Plural,62175,,,,thay1249,gaby-2006
+nhurrnan,,2pl_o,2nd Person Plural,62174,,,,thay1249,gaby-2006
+nhurrnan,,2pl_p,2nd Person Plural,62173,,,,thay1249,gaby-2006
+nhul,,3sg_m_a,3rd Person Singular Masculine,62172,,,,thay1249,gaby-2006
+nhul,,3sg_m_s,3rd Person Singular Masculine,62171,,,,thay1249,gaby-2006
+nhunh,,3sg_m_o,3rd Person Singular Masculine,62170,,,,thay1249,gaby-2006
+nhangn,,3sg_m_p,3rd Person Singular Masculine,62169,,,,thay1249,gaby-2006
+nhul,,3sg_n_a,3rd Person Singular Neuter,62168,,,,thay1249,gaby-2006
+nhul,,3sg_n_s,3rd Person Singular Neuter,62167,,,,thay1249,gaby-2006
+nhunh,,3sg_n_o,3rd Person Singular Neuter,62166,,,,thay1249,gaby-2006
+nhangn,,3sg_n_p,3rd Person Singular Neuter,62165,,,,thay1249,gaby-2006
+pul,,3d-a,3rd Person Dual,62164,,,,thay1249,gaby-2006
+pul,,3d-s,3rd Person Dual,62163,,,,thay1249,gaby-2006
+pulnan,,3d-o,3rd Person Dual,62162,,,,thay1249,gaby-2006
+pulnan,,3d-p,3rd Person Dual,62161,,,,thay1249,gaby-2006
+peln,,3p-a,3rd Person Plural,62160,,,,thay1249,gaby-2006
+peln,,3p-s,3rd Person Plural,62159,,,,thay1249,gaby-2006
+pelnan,,3p-o,3rd Person Plural,62158,,,,thay1249,gaby-2006
+pelnan,,3p-p,3rd Person Plural,62157,,,,thay1249,gaby-2006

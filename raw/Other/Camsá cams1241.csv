@@ -1,45 +1,45 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-at̪;;1sg_a;1st (excl) Person Singular;54265;;;;cams1241;chindoy-1962
-at̪ ;;1sg_s;1st (excl) Person Singular;54264;;;;cams1241;chindoy-1962
-at̪ ;;1sg_o;1st (excl) Person Singular;54263;;;;cams1241;chindoy-1962
--be;;1sg_p;1st (excl) Person Singular;54262;;;;cams1241;chindoy-1962
-bndáta;;1du_a;1st (excl) Person Dual;54261;;;;cams1241;chindoy-1962
-bndáta;;1du_s;1st (excl) Person Dual;54260;;;;cams1241;chindoy-1962
-bndáta;;1du_o;1st (excl) Person Dual;54259;;;;cams1241;chindoy-1962
--be;;1du_p;1st (excl) Person Dual;54258;;;;cams1241;chindoy-1962
-bnga;;1pl_a;1st (excl) Person Plural;54257;;;;cams1241;chindoy-1962
-bnga;;1pl_s;1st (excl) Person Plural;54256;;;;cams1241;chindoy-1962
-bnga;;1pl_o;1st (excl) Person Plural;54255;;;;cams1241;chindoy-1962
--be;;1pl_p;1st (excl) Person Plural;54254;;;;cams1241;chindoy-1962
-bndáta;;12du_a;1st (incl) Person Dual;54253;;;;cams1241;chindoy-1962
-bndáta;;12du_s;1st (incl) Person Dual;54252;;;;cams1241;chindoy-1962
-bndáta;;12du_o;1st (incl) Person Dual;54251;;;;cams1241;chindoy-1962
--be;;12du_p;1st (incl) Person Dual;54250;;;;cams1241;chindoy-1962
-bnga;;12pl_a;1st (incl) Person Plural;54249;;;;cams1241;chindoy-1962
-bnga;;12pl_s;1st (incl) Person Plural;54248;;;;cams1241;chindoy-1962
-bnga;;12pl_o;1st (incl) Person Plural;54247;;;;cams1241;chindoy-1962
--be;;12pl_p;1st (incl) Person Plural;54246;;;;cams1241;chindoy-1962
-áka;;2sg_a;2nd Person Singular;54245;;;;cams1241;chindoy-1962
-áka;;2sg_s;2nd Person Singular;54244;;;;cams1241;chindoy-1962
-áka;;2sg_o;2nd Person Singular;54243;;;;cams1241;chindoy-1962
--be;;2sg_p;2nd Person Singular;54242;;;;cams1241;chindoy-1962
-t̺ndáta;;2du_a;2nd Person Dual;54241;;;;cams1241;chindoy-1962
-t̺ndáta;;2du_s;2nd Person Dual;54240;;;;cams1241;chindoy-1962
-t̺ndáta;;2du_o;2nd Person Dual;54239;;;;cams1241;chindoy-1962
--be;;2du_p;2nd Person Dual;54238;;;;cams1241;chindoy-1962
-čnga;;2pl_a;2nd Person Plural;54237;;;;cams1241;chindoy-1962
-čnga;;2pl_s;2nd Person Plural;54236;;;;cams1241;chindoy-1962
-čnga;;2pl_o;2nd Person Plural;54235;;;;cams1241;chindoy-1962
--be;;2pl_p;2nd Person Plural;54234;;;;cams1241;chindoy-1962
-ča;;3sg_m_a;3rd Person Singular Masculine;54233;;;;cams1241;chindoy-1962
-ča;;3sg_m_s;3rd Person Singular Masculine;54232;;;;cams1241;chindoy-1962
-ča;;3sg_m_o;3rd Person Singular Masculine;54231;;;;cams1241;chindoy-1962
--be;;3sg_m_p;3rd Person Singular Masculine;54230;;;;cams1241;chindoy-1962
-ča;;3sg_n_a;3rd Person Singular Neuter;54229;;;;cams1241;chindoy-1962
-ča;;3sg_n_s;3rd Person Singular Neuter;54228;;;;cams1241;chindoy-1962
-ča;;3sg_n_o;3rd Person Singular Neuter;54227;;;;cams1241;chindoy-1962
--be;;3sg_n_p;3rd Person Singular Neuter;54226;;;;cams1241;chindoy-1962
-cáta;;3d-a;3rd Person Dual;54225;;;;cams1241;chindoy-1962
-cáta;;3d-s;3rd Person Dual;54224;;;;cams1241;chindoy-1962
-cáta;;3d-o;3rd Person Dual;54223;;;;cams1241;chindoy-1962
--be;;3d-p;3rd Person Dual;54222;;;;cams1241;chindoy-1962
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+at̪,,1sg_a,1st (excl) Person Singular,54265,,,,cams1241,chindoy-1962
+at̪,,1sg_s,1st (excl) Person Singular,54264,,,,cams1241,chindoy-1962
+at̪,,1sg_o,1st (excl) Person Singular,54263,,,,cams1241,chindoy-1962
+-be,,1sg_p,1st (excl) Person Singular,54262,,,,cams1241,chindoy-1962
+bndáta,,1du_a,1st (excl) Person Dual,54261,,,,cams1241,chindoy-1962
+bndáta,,1du_s,1st (excl) Person Dual,54260,,,,cams1241,chindoy-1962
+bndáta,,1du_o,1st (excl) Person Dual,54259,,,,cams1241,chindoy-1962
+-be,,1du_p,1st (excl) Person Dual,54258,,,,cams1241,chindoy-1962
+bnga,,1pl_a,1st (excl) Person Plural,54257,,,,cams1241,chindoy-1962
+bnga,,1pl_s,1st (excl) Person Plural,54256,,,,cams1241,chindoy-1962
+bnga,,1pl_o,1st (excl) Person Plural,54255,,,,cams1241,chindoy-1962
+-be,,1pl_p,1st (excl) Person Plural,54254,,,,cams1241,chindoy-1962
+bndáta,,12du_a,1st (incl) Person Dual,54253,,,,cams1241,chindoy-1962
+bndáta,,12du_s,1st (incl) Person Dual,54252,,,,cams1241,chindoy-1962
+bndáta,,12du_o,1st (incl) Person Dual,54251,,,,cams1241,chindoy-1962
+-be,,12du_p,1st (incl) Person Dual,54250,,,,cams1241,chindoy-1962
+bnga,,12pl_a,1st (incl) Person Plural,54249,,,,cams1241,chindoy-1962
+bnga,,12pl_s,1st (incl) Person Plural,54248,,,,cams1241,chindoy-1962
+bnga,,12pl_o,1st (incl) Person Plural,54247,,,,cams1241,chindoy-1962
+-be,,12pl_p,1st (incl) Person Plural,54246,,,,cams1241,chindoy-1962
+áka,,2sg_a,2nd Person Singular,54245,,,,cams1241,chindoy-1962
+áka,,2sg_s,2nd Person Singular,54244,,,,cams1241,chindoy-1962
+áka,,2sg_o,2nd Person Singular,54243,,,,cams1241,chindoy-1962
+-be,,2sg_p,2nd Person Singular,54242,,,,cams1241,chindoy-1962
+t̺ndáta,,2du_a,2nd Person Dual,54241,,,,cams1241,chindoy-1962
+t̺ndáta,,2du_s,2nd Person Dual,54240,,,,cams1241,chindoy-1962
+t̺ndáta,,2du_o,2nd Person Dual,54239,,,,cams1241,chindoy-1962
+-be,,2du_p,2nd Person Dual,54238,,,,cams1241,chindoy-1962
+čnga,,2pl_a,2nd Person Plural,54237,,,,cams1241,chindoy-1962
+čnga,,2pl_s,2nd Person Plural,54236,,,,cams1241,chindoy-1962
+čnga,,2pl_o,2nd Person Plural,54235,,,,cams1241,chindoy-1962
+-be,,2pl_p,2nd Person Plural,54234,,,,cams1241,chindoy-1962
+ča,,3sg_m_a,3rd Person Singular Masculine,54233,,,,cams1241,chindoy-1962
+ča,,3sg_m_s,3rd Person Singular Masculine,54232,,,,cams1241,chindoy-1962
+ča,,3sg_m_o,3rd Person Singular Masculine,54231,,,,cams1241,chindoy-1962
+-be,,3sg_m_p,3rd Person Singular Masculine,54230,,,,cams1241,chindoy-1962
+ča,,3sg_n_a,3rd Person Singular Neuter,54229,,,,cams1241,chindoy-1962
+ča,,3sg_n_s,3rd Person Singular Neuter,54228,,,,cams1241,chindoy-1962
+ča,,3sg_n_o,3rd Person Singular Neuter,54227,,,,cams1241,chindoy-1962
+-be,,3sg_n_p,3rd Person Singular Neuter,54226,,,,cams1241,chindoy-1962
+cáta,,3d-a,3rd Person Dual,54225,,,,cams1241,chindoy-1962
+cáta,,3d-s,3rd Person Dual,54224,,,,cams1241,chindoy-1962
+cáta,,3d-o,3rd Person Dual,54223,,,,cams1241,chindoy-1962
+-be,,3d-p,3rd Person Dual,54222,,,,cams1241,chindoy-1962

@@ -1,45 +1,45 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-bɛɛ;;1sg_a;1st (excl) Person Singular;55160;;;;nalu1240;wilson-2007
-bɛɛ;;1sg_s;1st (excl) Person Singular;55159;;;;nalu1240;wilson-2007
-am;;1sg_o;1st (excl) Person Singular;55158;;;;nalu1240;wilson-2007
-maam;;1sg_p;1st (excl) Person Singular;55157;;;;nalu1240;wilson-2007
-biyɛ;;1du_a;1st (excl) Person Dual;55156;;;;nalu1240;wilson-2007
-biyɛ;;1du_s;1st (excl) Person Dual;55155;;;;nalu1240;wilson-2007
-bit;;1du_o;1st (excl) Person Dual;55154;;;;nalu1240;wilson-2007
-mirɛ;;1du_p;1st (excl) Person Dual;55153;;;;nalu1240;wilson-2007
-biyɛ;;1pl_a;1st (excl) Person Plural;55152;;;;nalu1240;wilson-2007
-biyɛ;;1pl_s;1st (excl) Person Plural;55151;;;;nalu1240;wilson-2007
-bit;;1pl_o;1st (excl) Person Plural;55150;;;;nalu1240;wilson-2007
-mirɛ;;1pl_p;1st (excl) Person Plural;55149;;;;nalu1240;wilson-2007
-biyɛ;;12du_a;1st (incl) Person Dual;55148;;;;nalu1240;wilson-2007
-biyɛ;;12du_s;1st (incl) Person Dual;55147;;;;nalu1240;wilson-2007
-bit;;12du_o;1st (incl) Person Dual;55146;;;;nalu1240;wilson-2007
-mirɛ;;12du_p;1st (incl) Person Dual;55145;;;;nalu1240;wilson-2007
-biyɛ;;12pl_a;1st (incl) Person Plural;55144;;;;nalu1240;wilson-2007
-biyɛ;;12pl_s;1st (incl) Person Plural;55143;;;;nalu1240;wilson-2007
-bit;;12pl_o;1st (incl) Person Plural;55142;;;;nalu1240;wilson-2007
-mirɛ;;12pl_p;1st (incl) Person Plural;55141;;;;nalu1240;wilson-2007
-yi;;2sg_a;2nd Person Singular;55140;;;;nalu1240;wilson-2007
-yi;;2sg_s;2nd Person Singular;55139;;;;nalu1240;wilson-2007
-ɛ;;2sg_o;2nd Person Singular;55138;;;;nalu1240;wilson-2007
-maar;;2sg_p;2nd Person Singular;55137;;;;nalu1240;wilson-2007
-neɛ;;2du_a;2nd Person Dual;55136;;;;nalu1240;wilson-2007
-neɛ;;2du_s;2nd Person Dual;55135;;;;nalu1240;wilson-2007
-nɛ;;2du_o;2nd Person Dual;55134;;;;nalu1240;wilson-2007
-mirin;;2du_p;2nd Person Dual;55133;;;;nalu1240;wilson-2007
-neɛ;;2pl_a;2nd Person Plural;55132;;;;nalu1240;wilson-2007
-neɛ;;2pl_s;2nd Person Plural;55131;;;;nalu1240;wilson-2007
-nɛ;;2pl_o;2nd Person Plural;55130;;;;nalu1240;wilson-2007
-mirin;;2pl_p;2nd Person Plural;55129;;;;nalu1240;wilson-2007
-nɔmɛ;;3sg_m_a;3rd Person Singular Masculine;55128;;;;nalu1240;wilson-2007
-nɔmɛ;;3sg_m_s;3rd Person Singular Masculine;55127;;;;nalu1240;wilson-2007
-a;;3sg_m_o;3rd Person Singular Masculine;55126;;;;nalu1240;wilson-2007
-maaram;;3sg_m_p;3rd Person Singular Masculine;55125;;;;nalu1240;wilson-2007
-bɛmɛ;;3d-a;3rd Person Dual;55124;;;;nalu1240;wilson-2007
-bɛmɛ;;3d-s;3rd Person Dual;55123;;;;nalu1240;wilson-2007
-bɛm;;3d-o;3rd Person Dual;55122;;;;nalu1240;wilson-2007
-mbɛm;;3d-p;3rd Person Dual;55121;;;;nalu1240;wilson-2007
-bɛmɛ;;3p-a;3rd Person Plural;55120;;;;nalu1240;wilson-2007
-bɛmɛ;;3p-s;3rd Person Plural;55119;;;;nalu1240;wilson-2007
-bɛm;;3p-o;3rd Person Plural;55118;;;;nalu1240;wilson-2007
-mbɛm;;3p-p;3rd Person Plural;55117;;;;nalu1240;wilson-2007
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+bɛɛ,,1sg_a,1st (excl) Person Singular,55160,,,,nalu1240,wilson-2007
+bɛɛ,,1sg_s,1st (excl) Person Singular,55159,,,,nalu1240,wilson-2007
+am,,1sg_o,1st (excl) Person Singular,55158,,,,nalu1240,wilson-2007
+maam,,1sg_p,1st (excl) Person Singular,55157,,,,nalu1240,wilson-2007
+biyɛ,,1du_a,1st (excl) Person Dual,55156,,,,nalu1240,wilson-2007
+biyɛ,,1du_s,1st (excl) Person Dual,55155,,,,nalu1240,wilson-2007
+bit,,1du_o,1st (excl) Person Dual,55154,,,,nalu1240,wilson-2007
+mirɛ,,1du_p,1st (excl) Person Dual,55153,,,,nalu1240,wilson-2007
+biyɛ,,1pl_a,1st (excl) Person Plural,55152,,,,nalu1240,wilson-2007
+biyɛ,,1pl_s,1st (excl) Person Plural,55151,,,,nalu1240,wilson-2007
+bit,,1pl_o,1st (excl) Person Plural,55150,,,,nalu1240,wilson-2007
+mirɛ,,1pl_p,1st (excl) Person Plural,55149,,,,nalu1240,wilson-2007
+biyɛ,,12du_a,1st (incl) Person Dual,55148,,,,nalu1240,wilson-2007
+biyɛ,,12du_s,1st (incl) Person Dual,55147,,,,nalu1240,wilson-2007
+bit,,12du_o,1st (incl) Person Dual,55146,,,,nalu1240,wilson-2007
+mirɛ,,12du_p,1st (incl) Person Dual,55145,,,,nalu1240,wilson-2007
+biyɛ,,12pl_a,1st (incl) Person Plural,55144,,,,nalu1240,wilson-2007
+biyɛ,,12pl_s,1st (incl) Person Plural,55143,,,,nalu1240,wilson-2007
+bit,,12pl_o,1st (incl) Person Plural,55142,,,,nalu1240,wilson-2007
+mirɛ,,12pl_p,1st (incl) Person Plural,55141,,,,nalu1240,wilson-2007
+yi,,2sg_a,2nd Person Singular,55140,,,,nalu1240,wilson-2007
+yi,,2sg_s,2nd Person Singular,55139,,,,nalu1240,wilson-2007
+ɛ,,2sg_o,2nd Person Singular,55138,,,,nalu1240,wilson-2007
+maar,,2sg_p,2nd Person Singular,55137,,,,nalu1240,wilson-2007
+neɛ,,2du_a,2nd Person Dual,55136,,,,nalu1240,wilson-2007
+neɛ,,2du_s,2nd Person Dual,55135,,,,nalu1240,wilson-2007
+nɛ,,2du_o,2nd Person Dual,55134,,,,nalu1240,wilson-2007
+mirin,,2du_p,2nd Person Dual,55133,,,,nalu1240,wilson-2007
+neɛ,,2pl_a,2nd Person Plural,55132,,,,nalu1240,wilson-2007
+neɛ,,2pl_s,2nd Person Plural,55131,,,,nalu1240,wilson-2007
+nɛ,,2pl_o,2nd Person Plural,55130,,,,nalu1240,wilson-2007
+mirin,,2pl_p,2nd Person Plural,55129,,,,nalu1240,wilson-2007
+nɔmɛ,,3sg_m_a,3rd Person Singular Masculine,55128,,,,nalu1240,wilson-2007
+nɔmɛ,,3sg_m_s,3rd Person Singular Masculine,55127,,,,nalu1240,wilson-2007
+a,,3sg_m_o,3rd Person Singular Masculine,55126,,,,nalu1240,wilson-2007
+maaram,,3sg_m_p,3rd Person Singular Masculine,55125,,,,nalu1240,wilson-2007
+bɛmɛ,,3d-a,3rd Person Dual,55124,,,,nalu1240,wilson-2007
+bɛmɛ,,3d-s,3rd Person Dual,55123,,,,nalu1240,wilson-2007
+bɛm,,3d-o,3rd Person Dual,55122,,,,nalu1240,wilson-2007
+mbɛm,,3d-p,3rd Person Dual,55121,,,,nalu1240,wilson-2007
+bɛmɛ,,3p-a,3rd Person Plural,55120,,,,nalu1240,wilson-2007
+bɛmɛ,,3p-s,3rd Person Plural,55119,,,,nalu1240,wilson-2007
+bɛm,,3p-o,3rd Person Plural,55118,,,,nalu1240,wilson-2007
+mbɛm,,3p-p,3rd Person Plural,55117,,,,nalu1240,wilson-2007

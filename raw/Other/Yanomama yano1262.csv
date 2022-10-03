@@ -1,37 +1,37 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-kamiyənɨ;;1sg_a;1st (excl) Person Singular;50146;;;;yano1262;migliazza-1972
-kamiyə;;1sg_s;1st (excl) Person Singular;50145;;;;yano1262;migliazza-1972
-kamiyə;;1sg_o;1st (excl) Person Singular;50144;;;;yano1262;migliazza-1972
-kamiyəyahəkɨnɨ;;1du_a;1st (excl) Person Dual;50143;;;;yano1262;migliazza-1972
-kamiyəyahəkɨ;;1du_s;1st (excl) Person Dual;50142;;;;yano1262;migliazza-1972
-kamiyəyahəkɨ;;1du_o;1st (excl) Person Dual;50141;;;;yano1262;migliazza-1972
-kamiyə yamakɨnɨ;;1pl_a;1st (excl) Person Plural;50140;;;;yano1262;migliazza-1972
-kamiyə yamakɨ;;1pl_s;1st (excl) Person Plural;50139;;;;yano1262;migliazza-1972
-kamiyə yamakɨ;;1pl_o;1st (excl) Person Plural;50138;;;;yano1262;migliazza-1972
-kamiyə pəhəkɨnɨ, kahə pəhəkɨnɨ;;12du_a;1st (incl) Person Dual;50137;;;;yano1262;migliazza-1972
-kamiyə pəhəkɨ, kahə pəhəkɨ;;12du_s;1st (incl) Person Dual;50136;;;;yano1262;migliazza-1972
-kamiyə pəhəkɨ, kahə pəhəkɨ;;12du_o;1st (incl) Person Dual;50135;;;;yano1262;migliazza-1972
-kamiyə pəmakɨnɨ, kahə pəmakɨnɨ;;12pl_a;1st (incl) Person Plural;50134;;;;yano1262;migliazza-1972
-kamiyə pəmakɨ, kahə pəmakɨ;;12pl_s;1st (incl) Person Plural;50133;;;;yano1262;migliazza-1972
-kamiyə pəmakɨ, kahə pəmakɨ;;12pl_o;1st (incl) Person Plural;50132;;;;yano1262;migliazza-1972
-kahənɨ;;2sg_a;2nd Person Singular;50131;;;;yano1262;migliazza-1972
-kahə;;2sg_s;2nd Person Singular;50130;;;;yano1262;migliazza-1972
-kahə;;2sg_o;2nd Person Singular;50129;;;;yano1262;migliazza-1972
-kahə wahəkɨnɨ;;2du_a;2nd Person Dual;50128;;;;yano1262;migliazza-1972
-kahə wahəkɨ;;2du_s;2nd Person Dual;50127;;;;yano1262;migliazza-1972
-kahə wahəkɨ;;2du_o;2nd Person Dual;50126;;;;yano1262;migliazza-1972
-kahə wamakɨnɨ;;2pl_a;2nd Person Plural;50125;;;;yano1262;migliazza-1972
-kahə wamakɨ;;2pl_s;2nd Person Plural;50124;;;;yano1262;migliazza-1972
-kahə wamakɨ;;2pl_o;2nd Person Plural;50123;;;;yano1262;migliazza-1972
-kamanɨ;;3sg_m_a;3rd Person Singular Masculine;50122;;animate gender;;yano1262;migliazza-1972
-kama;;3sg_m_s;3rd Person Singular Masculine;50121;;;;yano1262;migliazza-1972
-kama;;3sg_m_o;3rd Person Singular Masculine;50120;;;;yano1262;migliazza-1972
-thənɨ;;3sg_n_a;3rd Person Singular Neuter;50119;;"Gender 1 is masc & fem; Gender 2 is inanimate";;yano1262;migliazza-1972
-thə;;3sg_n_s;3rd Person Singular Neuter;50118;;;;yano1262;migliazza-1972
-thə;;3sg_n_o;3rd Person Singular Neuter;50117;;;;yano1262;migliazza-1972
-kama kə kɨbɨnɨ;;3d-a;3rd Person Dual;50116;;;;yano1262;migliazza-1972
-kama kə kɨbɨ;;3d-s;3rd Person Dual;50115;;;;yano1262;migliazza-1972
-kama kə kɨbɨ;;3d-o;3rd Person Dual;50114;;;;yano1262;migliazza-1972
-kama pə nɨ;;3p-a;3rd Person Plural;50113;;;;yano1262;migliazza-1972
-kama pə;;3p-s;3rd Person Plural;50112;;;;yano1262;migliazza-1972
-kama pə;;3p-o;3rd Person Plural;50111;;;;yano1262;migliazza-1972
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+kamiyənɨ,,1sg_a,1st (excl) Person Singular,50146,,,,yano1262,migliazza-1972
+kamiyə,,1sg_s,1st (excl) Person Singular,50145,,,,yano1262,migliazza-1972
+kamiyə,,1sg_o,1st (excl) Person Singular,50144,,,,yano1262,migliazza-1972
+kamiyəyahəkɨnɨ,,1du_a,1st (excl) Person Dual,50143,,,,yano1262,migliazza-1972
+kamiyəyahəkɨ,,1du_s,1st (excl) Person Dual,50142,,,,yano1262,migliazza-1972
+kamiyəyahəkɨ,,1du_o,1st (excl) Person Dual,50141,,,,yano1262,migliazza-1972
+kamiyə yamakɨnɨ,,1pl_a,1st (excl) Person Plural,50140,,,,yano1262,migliazza-1972
+kamiyə yamakɨ,,1pl_s,1st (excl) Person Plural,50139,,,,yano1262,migliazza-1972
+kamiyə yamakɨ,,1pl_o,1st (excl) Person Plural,50138,,,,yano1262,migliazza-1972
+"kamiyə pəhəkɨnɨ, kahə pəhəkɨnɨ",,12du_a,1st (incl) Person Dual,50137,,,,yano1262,migliazza-1972
+"kamiyə pəhəkɨ, kahə pəhəkɨ",,12du_s,1st (incl) Person Dual,50136,,,,yano1262,migliazza-1972
+"kamiyə pəhəkɨ, kahə pəhəkɨ",,12du_o,1st (incl) Person Dual,50135,,,,yano1262,migliazza-1972
+"kamiyə pəmakɨnɨ, kahə pəmakɨnɨ",,12pl_a,1st (incl) Person Plural,50134,,,,yano1262,migliazza-1972
+"kamiyə pəmakɨ, kahə pəmakɨ",,12pl_s,1st (incl) Person Plural,50133,,,,yano1262,migliazza-1972
+"kamiyə pəmakɨ, kahə pəmakɨ",,12pl_o,1st (incl) Person Plural,50132,,,,yano1262,migliazza-1972
+kahənɨ,,2sg_a,2nd Person Singular,50131,,,,yano1262,migliazza-1972
+kahə,,2sg_s,2nd Person Singular,50130,,,,yano1262,migliazza-1972
+kahə,,2sg_o,2nd Person Singular,50129,,,,yano1262,migliazza-1972
+kahə wahəkɨnɨ,,2du_a,2nd Person Dual,50128,,,,yano1262,migliazza-1972
+kahə wahəkɨ,,2du_s,2nd Person Dual,50127,,,,yano1262,migliazza-1972
+kahə wahəkɨ,,2du_o,2nd Person Dual,50126,,,,yano1262,migliazza-1972
+kahə wamakɨnɨ,,2pl_a,2nd Person Plural,50125,,,,yano1262,migliazza-1972
+kahə wamakɨ,,2pl_s,2nd Person Plural,50124,,,,yano1262,migliazza-1972
+kahə wamakɨ,,2pl_o,2nd Person Plural,50123,,,,yano1262,migliazza-1972
+kamanɨ,,3sg_m_a,3rd Person Singular Masculine,50122,,animate gender,,yano1262,migliazza-1972
+kama,,3sg_m_s,3rd Person Singular Masculine,50121,,,,yano1262,migliazza-1972
+kama,,3sg_m_o,3rd Person Singular Masculine,50120,,,,yano1262,migliazza-1972
+thənɨ,,3sg_n_a,3rd Person Singular Neuter,50119,,Gender 1 is masc & fem; Gender 2 is inanimate,,yano1262,migliazza-1972
+thə,,3sg_n_s,3rd Person Singular Neuter,50118,,,,yano1262,migliazza-1972
+thə,,3sg_n_o,3rd Person Singular Neuter,50117,,,,yano1262,migliazza-1972
+kama kə kɨbɨnɨ,,3d-a,3rd Person Dual,50116,,,,yano1262,migliazza-1972
+kama kə kɨbɨ,,3d-s,3rd Person Dual,50115,,,,yano1262,migliazza-1972
+kama kə kɨbɨ,,3d-o,3rd Person Dual,50114,,,,yano1262,migliazza-1972
+kama pə nɨ,,3p-a,3rd Person Plural,50113,,,,yano1262,migliazza-1972
+kama pə,,3p-s,3rd Person Plural,50112,,,,yano1262,migliazza-1972
+kama pə,,3p-o,3rd Person Plural,50111,,,,yano1262,migliazza-1972

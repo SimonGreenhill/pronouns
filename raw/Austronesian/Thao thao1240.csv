@@ -1,82 +1,82 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-yaku;;1sg_a;1st (excl) Person Singular;33247;;;;thao1240;wang-2004
-yaku;;1sg_s;1st (excl) Person Singular;33248;;;;thao1240;wang-2004
-yak;;1sg_s;1st (excl) Person Singular;33249;;;;thao1240;wang-2004
-yakin;;1sg_s;1st (excl) Person Singular;33250;;;;thao1240;wang-2004
-yaku;;1sg_o;1st (excl) Person Singular;33251;;;;thao1240;wang-2004
-nak;;1sg_p;1st (excl) Person Singular;33252;;;;thao1240;wang-2004
-yamin;;1du_a;1st (excl) Person Dual;33253;;;;thao1240;wang-2004
-yamin;;1du_s;1st (excl) Person Dual;33254;;;;thao1240;wang-2004
-yamin;;1du_o;1st (excl) Person Dual;33255;;;;thao1240;wang-2004
-nam;;1du_p;1st (excl) Person Dual;33256;;;;thao1240;wang-2004
-yamin;;1du_p;1st (excl) Person Dual;33257;;;;thao1240;wang-2004
-yamin;;1pl_a;1st (excl) Person Plural;33258;;;;thao1240;wang-2004
-yamin;;1pl_s;1st (excl) Person Plural;33259;;;;thao1240;wang-2004
-yamin;;1pl_o;1st (excl) Person Plural;33260;;;;thao1240;wang-2004
-nam;;1pl_p;1st (excl) Person Plural;33261;;;;thao1240;wang-2004
-yamin;;1pl_p;1st (excl) Person Plural;33262;;;;thao1240;wang-2004
-ita;;12du_a;1st (incl) Person Dual;33263;;;;thao1240;wang-2004
-ita;;12du_s;1st (incl) Person Dual;33264;;;;thao1240;wang-2004
-ita;;12du_o;1st (incl) Person Dual;33265;;;;thao1240;wang-2004
-mita;;12du_p;1st (incl) Person Dual;33266;;;;thao1240;wang-2004
-ita;;12pl_a;1st (incl) Person Plural;33267;;;;thao1240;wang-2004
-ita;;12pl_s;1st (incl) Person Plural;33268;;;;thao1240;wang-2004
-ita;;12pl_o;1st (incl) Person Plural;33269;;;;thao1240;wang-2004
-mita;;12pl_p;1st (incl) Person Plural;33270;;;;thao1240;wang-2004
-ihu;;2sg_a;2nd Person Singular;33271;;;;thao1240;wang-2004
-ihu;;2sg_s;2nd Person Singular;33272;;;;thao1240;wang-2004
-yuhu;;2sg_s;2nd Person Singular;33273;;;;thao1240;wang-2004
-ihu;;2sg_o;2nd Person Singular;33274;;;;thao1240;wang-2004
-mihu;;2sg_p;2nd Person Singular;33275;;;;thao1240;wang-2004
-maniun;;2du_a;2nd Person Dual;33276;;;;thao1240;wang-2004
-maniun;;2du_s;2nd Person Dual;33277;;;;thao1240;wang-2004
-maniun;;2du_o;2nd Person Dual;33278;;;;thao1240;wang-2004
-maniun;;2du_p;2nd Person Dual;33279;;;;thao1240;wang-2004
-maniun;;2pl_a;2nd Person Plural;33280;;;;thao1240;wang-2004
-maniun;;2pl_s;2nd Person Plural;33281;;;;thao1240;wang-2004
-maniun;;2pl_o;2nd Person Plural;33282;;;;thao1240;wang-2004
-maniun;;2pl_p;2nd Person Plural;33283;;;;thao1240;wang-2004
-cicu;;3sg_m_a;3rd Person Singular Masculine;33284;;;;thao1240;wang-2004
-cicu;;3sg_m_s;3rd Person Singular Masculine;33285;;;;thao1240;wang-2004
-cicu;;3sg_m_o;3rd Person Singular Masculine;33286;;;;thao1240;wang-2004
-cicu;;3sg_m_p;3rd Person Singular Masculine;33287;;;;thao1240;wang-2004
-cicu;;3sg_f_a;3rd Person Singular Feminine;33288;;;;thao1240;wang-2004
-cicu;;3sg_f_s;3rd Person Singular Feminine;33289;;;;thao1240;wang-2004
-cicu;;3sg_f_o;3rd Person Singular Feminine;33290;;;;thao1240;wang-2004
-cicu;;3sg_f_p;3rd Person Singular Feminine;33291;;;;thao1240;wang-2004
-cicu;;3sg_n_a;3rd Person Singular Neuter;33292;;;;thao1240;wang-2004
-cicu;;3sg_n_s;3rd Person Singular Neuter;33293;;;;thao1240;wang-2004
-cicu;;3sg_n_o;3rd Person Singular Neuter;33294;;;;thao1240;wang-2004
-cicu;;3sg_n_p;3rd Person Singular Neuter;33295;;;;thao1240;wang-2004
-caycuy;;3du_m_a;3rd Person Dual Masculine;33296;;;;thao1240;wang-2004
-caycuy;;3du_m_s;3rd Person Dual Masculine;33297;;;;thao1240;wang-2004
-caycuy;;3du_m_o;3rd Person Dual Masculine;33298;;;;thao1240;wang-2004
-caycuy;;3du_m_p;3rd Person Dual Masculine;33299;;;;thao1240;wang-2004
-caycuy;;3du_f_a;3rd Person Dual Feminine;33300;;;;thao1240;wang-2004
-caycuy;;3du_f_s;3rd Person Dual Feminine;33301;;;;thao1240;wang-2004
-caycuy;;3du_f_o;3rd Person Dual Feminine;33302;;;;thao1240;wang-2004
-caycuy;;3du_f_p;3rd Person Dual Feminine;33303;;;;thao1240;wang-2004
-caycuy;;3du_n_a;3rd Person Dual Neuter;33304;;;;thao1240;wang-2004
-caycuy;;3du_n_s;3rd Person Dual Neuter;33305;;;;thao1240;wang-2004
-caycuy;;3du_n_o;3rd Person Dual Neuter;33306;;;;thao1240;wang-2004
-caycuy;;3du_n_p;3rd Person Dual Neuter;33307;;;;thao1240;wang-2004
-caycuy;;3pl_m_a;3rd Person Plural Masculine;33308;;;;thao1240;wang-2004
-caycuy;;3pl_m_s;3rd Person Plural Masculine;33309;;;;thao1240;wang-2004
-caycuy;;3pl_m_o;3rd Person Plural Masculine;33310;;;;thao1240;wang-2004
-caycuy;;3pl_m_p;3rd Person Plural Masculine;33311;;;;thao1240;wang-2004
-caycuy;;3pl_f_a;3rd Person Plural Feminine;33312;;;;thao1240;wang-2004
-caycuy;;3pl_f_s;3rd Person Plural Feminine;33313;;;;thao1240;wang-2004
-caycuy;;3pl_f_o;3rd Person Plural Feminine;33314;;;;thao1240;wang-2004
-caycuy;;3pl_f_p;3rd Person Plural Feminine;33315;;;;thao1240;wang-2004
-caycuy;;3pl_n_a;3rd Person Plural Neuter;33316;;;;thao1240;wang-2004
-caycuy;;3pl_n_s;3rd Person Plural Neuter;33317;;;;thao1240;wang-2004
-caycuy;;3pl_n_o;3rd Person Plural Neuter;33318;;;;thao1240;wang-2004
-caycuy;;3pl_n_p;3rd Person Plural Neuter;33319;;;;thao1240;wang-2004
-caycuy;;3d-a;3rd Person Dual;36426;;;;thao1240;wang-2004
-caycuy;;3d-s;3rd Person Dual;36653;;;;thao1240;wang-2004
-caycuy;;3d-o;3rd Person Dual;36876;;;;thao1240;wang-2004
-caycuy;;3d-p;3rd Person Dual;37091;;;;thao1240;wang-2004
-caycuy;;3p-a;3rd Person Plural;37308;;;;thao1240;wang-2004
-caycuy;;3p-s;3rd Person Plural;37533;;;;thao1240;wang-2004
-caycuy;;3p-o;3rd Person Plural;37754;;;;thao1240;wang-2004
-caycuy;;3p-p;3rd Person Plural;37969;;;;thao1240;wang-2004
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+yaku,,1sg_a,1st (excl) Person Singular,33247,,,,thao1240,wang-2004
+yaku,,1sg_s,1st (excl) Person Singular,33248,,,,thao1240,wang-2004
+yak,,1sg_s,1st (excl) Person Singular,33249,,,,thao1240,wang-2004
+yakin,,1sg_s,1st (excl) Person Singular,33250,,,,thao1240,wang-2004
+yaku,,1sg_o,1st (excl) Person Singular,33251,,,,thao1240,wang-2004
+nak,,1sg_p,1st (excl) Person Singular,33252,,,,thao1240,wang-2004
+yamin,,1du_a,1st (excl) Person Dual,33253,,,,thao1240,wang-2004
+yamin,,1du_s,1st (excl) Person Dual,33254,,,,thao1240,wang-2004
+yamin,,1du_o,1st (excl) Person Dual,33255,,,,thao1240,wang-2004
+nam,,1du_p,1st (excl) Person Dual,33256,,,,thao1240,wang-2004
+yamin,,1du_p,1st (excl) Person Dual,33257,,,,thao1240,wang-2004
+yamin,,1pl_a,1st (excl) Person Plural,33258,,,,thao1240,wang-2004
+yamin,,1pl_s,1st (excl) Person Plural,33259,,,,thao1240,wang-2004
+yamin,,1pl_o,1st (excl) Person Plural,33260,,,,thao1240,wang-2004
+nam,,1pl_p,1st (excl) Person Plural,33261,,,,thao1240,wang-2004
+yamin,,1pl_p,1st (excl) Person Plural,33262,,,,thao1240,wang-2004
+ita,,12du_a,1st (incl) Person Dual,33263,,,,thao1240,wang-2004
+ita,,12du_s,1st (incl) Person Dual,33264,,,,thao1240,wang-2004
+ita,,12du_o,1st (incl) Person Dual,33265,,,,thao1240,wang-2004
+mita,,12du_p,1st (incl) Person Dual,33266,,,,thao1240,wang-2004
+ita,,12pl_a,1st (incl) Person Plural,33267,,,,thao1240,wang-2004
+ita,,12pl_s,1st (incl) Person Plural,33268,,,,thao1240,wang-2004
+ita,,12pl_o,1st (incl) Person Plural,33269,,,,thao1240,wang-2004
+mita,,12pl_p,1st (incl) Person Plural,33270,,,,thao1240,wang-2004
+ihu,,2sg_a,2nd Person Singular,33271,,,,thao1240,wang-2004
+ihu,,2sg_s,2nd Person Singular,33272,,,,thao1240,wang-2004
+yuhu,,2sg_s,2nd Person Singular,33273,,,,thao1240,wang-2004
+ihu,,2sg_o,2nd Person Singular,33274,,,,thao1240,wang-2004
+mihu,,2sg_p,2nd Person Singular,33275,,,,thao1240,wang-2004
+maniun,,2du_a,2nd Person Dual,33276,,,,thao1240,wang-2004
+maniun,,2du_s,2nd Person Dual,33277,,,,thao1240,wang-2004
+maniun,,2du_o,2nd Person Dual,33278,,,,thao1240,wang-2004
+maniun,,2du_p,2nd Person Dual,33279,,,,thao1240,wang-2004
+maniun,,2pl_a,2nd Person Plural,33280,,,,thao1240,wang-2004
+maniun,,2pl_s,2nd Person Plural,33281,,,,thao1240,wang-2004
+maniun,,2pl_o,2nd Person Plural,33282,,,,thao1240,wang-2004
+maniun,,2pl_p,2nd Person Plural,33283,,,,thao1240,wang-2004
+cicu,,3sg_m_a,3rd Person Singular Masculine,33284,,,,thao1240,wang-2004
+cicu,,3sg_m_s,3rd Person Singular Masculine,33285,,,,thao1240,wang-2004
+cicu,,3sg_m_o,3rd Person Singular Masculine,33286,,,,thao1240,wang-2004
+cicu,,3sg_m_p,3rd Person Singular Masculine,33287,,,,thao1240,wang-2004
+cicu,,3sg_f_a,3rd Person Singular Feminine,33288,,,,thao1240,wang-2004
+cicu,,3sg_f_s,3rd Person Singular Feminine,33289,,,,thao1240,wang-2004
+cicu,,3sg_f_o,3rd Person Singular Feminine,33290,,,,thao1240,wang-2004
+cicu,,3sg_f_p,3rd Person Singular Feminine,33291,,,,thao1240,wang-2004
+cicu,,3sg_n_a,3rd Person Singular Neuter,33292,,,,thao1240,wang-2004
+cicu,,3sg_n_s,3rd Person Singular Neuter,33293,,,,thao1240,wang-2004
+cicu,,3sg_n_o,3rd Person Singular Neuter,33294,,,,thao1240,wang-2004
+cicu,,3sg_n_p,3rd Person Singular Neuter,33295,,,,thao1240,wang-2004
+caycuy,,3du_m_a,3rd Person Dual Masculine,33296,,,,thao1240,wang-2004
+caycuy,,3du_m_s,3rd Person Dual Masculine,33297,,,,thao1240,wang-2004
+caycuy,,3du_m_o,3rd Person Dual Masculine,33298,,,,thao1240,wang-2004
+caycuy,,3du_m_p,3rd Person Dual Masculine,33299,,,,thao1240,wang-2004
+caycuy,,3du_f_a,3rd Person Dual Feminine,33300,,,,thao1240,wang-2004
+caycuy,,3du_f_s,3rd Person Dual Feminine,33301,,,,thao1240,wang-2004
+caycuy,,3du_f_o,3rd Person Dual Feminine,33302,,,,thao1240,wang-2004
+caycuy,,3du_f_p,3rd Person Dual Feminine,33303,,,,thao1240,wang-2004
+caycuy,,3du_n_a,3rd Person Dual Neuter,33304,,,,thao1240,wang-2004
+caycuy,,3du_n_s,3rd Person Dual Neuter,33305,,,,thao1240,wang-2004
+caycuy,,3du_n_o,3rd Person Dual Neuter,33306,,,,thao1240,wang-2004
+caycuy,,3du_n_p,3rd Person Dual Neuter,33307,,,,thao1240,wang-2004
+caycuy,,3pl_m_a,3rd Person Plural Masculine,33308,,,,thao1240,wang-2004
+caycuy,,3pl_m_s,3rd Person Plural Masculine,33309,,,,thao1240,wang-2004
+caycuy,,3pl_m_o,3rd Person Plural Masculine,33310,,,,thao1240,wang-2004
+caycuy,,3pl_m_p,3rd Person Plural Masculine,33311,,,,thao1240,wang-2004
+caycuy,,3pl_f_a,3rd Person Plural Feminine,33312,,,,thao1240,wang-2004
+caycuy,,3pl_f_s,3rd Person Plural Feminine,33313,,,,thao1240,wang-2004
+caycuy,,3pl_f_o,3rd Person Plural Feminine,33314,,,,thao1240,wang-2004
+caycuy,,3pl_f_p,3rd Person Plural Feminine,33315,,,,thao1240,wang-2004
+caycuy,,3pl_n_a,3rd Person Plural Neuter,33316,,,,thao1240,wang-2004
+caycuy,,3pl_n_s,3rd Person Plural Neuter,33317,,,,thao1240,wang-2004
+caycuy,,3pl_n_o,3rd Person Plural Neuter,33318,,,,thao1240,wang-2004
+caycuy,,3pl_n_p,3rd Person Plural Neuter,33319,,,,thao1240,wang-2004
+caycuy,,3d-a,3rd Person Dual,36426,,,,thao1240,wang-2004
+caycuy,,3d-s,3rd Person Dual,36653,,,,thao1240,wang-2004
+caycuy,,3d-o,3rd Person Dual,36876,,,,thao1240,wang-2004
+caycuy,,3d-p,3rd Person Dual,37091,,,,thao1240,wang-2004
+caycuy,,3p-a,3rd Person Plural,37308,,,,thao1240,wang-2004
+caycuy,,3p-s,3rd Person Plural,37533,,,,thao1240,wang-2004
+caycuy,,3p-o,3rd Person Plural,37754,,,,thao1240,wang-2004
+caycuy,,3p-p,3rd Person Plural,37969,,,,thao1240,wang-2004

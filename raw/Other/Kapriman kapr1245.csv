@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-an;;1sg_a;1st (excl) Person Singular;41514;;;;kapr1245;sumbuk-1999
-an;;1sg_s;1st (excl) Person Singular;41513;;;;kapr1245;sumbuk-1999
-an;;1sg_o;1st (excl) Person Singular;41512;;;;kapr1245;sumbuk-1999
-axɨ;;1sg_p;1st (excl) Person Singular;41511;;;;kapr1245;sumbuk-1999
-nond;;1du_a;1st (excl) Person Dual;41510;;;;kapr1245;sumbuk-1999
-nond;;1du_s;1st (excl) Person Dual;41509;;;;kapr1245;sumbuk-1999
-nond;;1du_o;1st (excl) Person Dual;41508;;;;kapr1245;sumbuk-1999
-ndoxu;;1du_p;1st (excl) Person Dual;41507;;;;kapr1245;sumbuk-1999
-nom;;1pl_a;1st (excl) Person Plural;41506;;;;kapr1245;sumbuk-1999
-nom;;1pl_s;1st (excl) Person Plural;41505;;;;kapr1245;sumbuk-1999
-nom;;1pl_o;1st (excl) Person Plural;41504;;;;kapr1245;sumbuk-1999
-moxu;;1pl_p;1st (excl) Person Plural;41503;;;;kapr1245;sumbuk-1999
-nond;;12du_a;1st (incl) Person Dual;41502;;;;kapr1245;sumbuk-1999
-nond;;12du_s;1st (incl) Person Dual;41501;;;;kapr1245;sumbuk-1999
-nond;;12du_o;1st (incl) Person Dual;41500;;;;kapr1245;sumbuk-1999
-ndoxu;;12du_p;1st (incl) Person Dual;41499;;;;kapr1245;sumbuk-1999
-nom;;12pl_a;1st (incl) Person Plural;41498;;;;kapr1245;sumbuk-1999
-nom;;12pl_s;1st (incl) Person Plural;41497;;;;kapr1245;sumbuk-1999
-nom;;12pl_o;1st (incl) Person Plural;41496;;;;kapr1245;sumbuk-1999
-moxu;;12pl_p;1st (incl) Person Plural;41495;;;;kapr1245;sumbuk-1999
-nɨ;;2sg_a;2nd Person Singular;41494;;;;kapr1245;sumbuk-1999
-nɨ;;2sg_s;2nd Person Singular;41493;;;;kapr1245;sumbuk-1999
-nɨ;;2sg_o;2nd Person Singular;41492;;;;kapr1245;sumbuk-1999
-nɨxu;;2sg_p;2nd Person Singular;41491;;;;kapr1245;sumbuk-1999
-ɸɨn;;2du_a;2nd Person Dual;41490;;;;kapr1245;sumbuk-1999
-ɸɨn;;2du_s;2nd Person Dual;41489;;;;kapr1245;sumbuk-1999
-ɸɨn;;2du_o;2nd Person Dual;41488;;;;kapr1245;sumbuk-1999
-ɸɨnxu;;2du_p;2nd Person Dual;41487;;;;kapr1245;sumbuk-1999
-mɨ;;2pl_a;2nd Person Plural;41486;;;;kapr1245;sumbuk-1999
-mɨ;;2pl_s;2nd Person Plural;41485;;;;kapr1245;sumbuk-1999
-mɨ;;2pl_o;2nd Person Plural;41484;;;;kapr1245;sumbuk-1999
-mɨxu;;2pl_p;2nd Person Plural;41483;;;;kapr1245;sumbuk-1999
-rɨ;;3sg_m_a;3rd Person Singular Masculine;41482;;;;kapr1245;sumbuk-1999
-rɨ;;3sg_m_s;3rd Person Singular Masculine;41481;;;;kapr1245;sumbuk-1999
-rɨ;;3sg_m_o;3rd Person Singular Masculine;41480;;;;kapr1245;sumbuk-1999
-rɨxu;;3sg_m_p;3rd Person Singular Masculine;41479;;;;kapr1245;sumbuk-1999
-sɨ;;3sg_n_a;3rd Person Singular Neuter;41478;;;;kapr1245;sumbuk-1999
-sɨ;;3sg_n_s;3rd Person Singular Neuter;41477;;;;kapr1245;sumbuk-1999
-sɨ;;3sg_n_o;3rd Person Singular Neuter;41476;;;;kapr1245;sumbuk-1999
-sɨxu;;3sg_n_p;3rd Person Singular Neuter;41475;;;;kapr1245;sumbuk-1999
-ɸɨ;;3d-a;3rd Person Dual;41474;;;;kapr1245;sumbuk-1999
-ɸɨ;;3d-s;3rd Person Dual;41473;;;;kapr1245;sumbuk-1999
-ɸɨ;;3d-o;3rd Person Dual;41472;;;;kapr1245;sumbuk-1999
-ɸɨxu;;3d-p;3rd Person Dual;41471;;;;kapr1245;sumbuk-1999
-rom;;3p-a;3rd Person Plural;41470;;;;kapr1245;sumbuk-1999
-rom;;3p-s;3rd Person Plural;41469;;;;kapr1245;sumbuk-1999
-rom;;3p-o;3rd Person Plural;41468;;;;kapr1245;sumbuk-1999
-roxu;;3p-p;3rd Person Plural;41467;;;;kapr1245;sumbuk-1999
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+an,,1sg_a,1st (excl) Person Singular,41514,,,,kapr1245,sumbuk-1999
+an,,1sg_s,1st (excl) Person Singular,41513,,,,kapr1245,sumbuk-1999
+an,,1sg_o,1st (excl) Person Singular,41512,,,,kapr1245,sumbuk-1999
+axɨ,,1sg_p,1st (excl) Person Singular,41511,,,,kapr1245,sumbuk-1999
+nond,,1du_a,1st (excl) Person Dual,41510,,,,kapr1245,sumbuk-1999
+nond,,1du_s,1st (excl) Person Dual,41509,,,,kapr1245,sumbuk-1999
+nond,,1du_o,1st (excl) Person Dual,41508,,,,kapr1245,sumbuk-1999
+ndoxu,,1du_p,1st (excl) Person Dual,41507,,,,kapr1245,sumbuk-1999
+nom,,1pl_a,1st (excl) Person Plural,41506,,,,kapr1245,sumbuk-1999
+nom,,1pl_s,1st (excl) Person Plural,41505,,,,kapr1245,sumbuk-1999
+nom,,1pl_o,1st (excl) Person Plural,41504,,,,kapr1245,sumbuk-1999
+moxu,,1pl_p,1st (excl) Person Plural,41503,,,,kapr1245,sumbuk-1999
+nond,,12du_a,1st (incl) Person Dual,41502,,,,kapr1245,sumbuk-1999
+nond,,12du_s,1st (incl) Person Dual,41501,,,,kapr1245,sumbuk-1999
+nond,,12du_o,1st (incl) Person Dual,41500,,,,kapr1245,sumbuk-1999
+ndoxu,,12du_p,1st (incl) Person Dual,41499,,,,kapr1245,sumbuk-1999
+nom,,12pl_a,1st (incl) Person Plural,41498,,,,kapr1245,sumbuk-1999
+nom,,12pl_s,1st (incl) Person Plural,41497,,,,kapr1245,sumbuk-1999
+nom,,12pl_o,1st (incl) Person Plural,41496,,,,kapr1245,sumbuk-1999
+moxu,,12pl_p,1st (incl) Person Plural,41495,,,,kapr1245,sumbuk-1999
+nɨ,,2sg_a,2nd Person Singular,41494,,,,kapr1245,sumbuk-1999
+nɨ,,2sg_s,2nd Person Singular,41493,,,,kapr1245,sumbuk-1999
+nɨ,,2sg_o,2nd Person Singular,41492,,,,kapr1245,sumbuk-1999
+nɨxu,,2sg_p,2nd Person Singular,41491,,,,kapr1245,sumbuk-1999
+ɸɨn,,2du_a,2nd Person Dual,41490,,,,kapr1245,sumbuk-1999
+ɸɨn,,2du_s,2nd Person Dual,41489,,,,kapr1245,sumbuk-1999
+ɸɨn,,2du_o,2nd Person Dual,41488,,,,kapr1245,sumbuk-1999
+ɸɨnxu,,2du_p,2nd Person Dual,41487,,,,kapr1245,sumbuk-1999
+mɨ,,2pl_a,2nd Person Plural,41486,,,,kapr1245,sumbuk-1999
+mɨ,,2pl_s,2nd Person Plural,41485,,,,kapr1245,sumbuk-1999
+mɨ,,2pl_o,2nd Person Plural,41484,,,,kapr1245,sumbuk-1999
+mɨxu,,2pl_p,2nd Person Plural,41483,,,,kapr1245,sumbuk-1999
+rɨ,,3sg_m_a,3rd Person Singular Masculine,41482,,,,kapr1245,sumbuk-1999
+rɨ,,3sg_m_s,3rd Person Singular Masculine,41481,,,,kapr1245,sumbuk-1999
+rɨ,,3sg_m_o,3rd Person Singular Masculine,41480,,,,kapr1245,sumbuk-1999
+rɨxu,,3sg_m_p,3rd Person Singular Masculine,41479,,,,kapr1245,sumbuk-1999
+sɨ,,3sg_n_a,3rd Person Singular Neuter,41478,,,,kapr1245,sumbuk-1999
+sɨ,,3sg_n_s,3rd Person Singular Neuter,41477,,,,kapr1245,sumbuk-1999
+sɨ,,3sg_n_o,3rd Person Singular Neuter,41476,,,,kapr1245,sumbuk-1999
+sɨxu,,3sg_n_p,3rd Person Singular Neuter,41475,,,,kapr1245,sumbuk-1999
+ɸɨ,,3d-a,3rd Person Dual,41474,,,,kapr1245,sumbuk-1999
+ɸɨ,,3d-s,3rd Person Dual,41473,,,,kapr1245,sumbuk-1999
+ɸɨ,,3d-o,3rd Person Dual,41472,,,,kapr1245,sumbuk-1999
+ɸɨxu,,3d-p,3rd Person Dual,41471,,,,kapr1245,sumbuk-1999
+rom,,3p-a,3rd Person Plural,41470,,,,kapr1245,sumbuk-1999
+rom,,3p-s,3rd Person Plural,41469,,,,kapr1245,sumbuk-1999
+rom,,3p-o,3rd Person Plural,41468,,,,kapr1245,sumbuk-1999
+roxu,,3p-p,3rd Person Plural,41467,,,,kapr1245,sumbuk-1999

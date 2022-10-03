@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mma;;1sg_a;1st (excl) Person Singular;55478;;;;biaf1240;wilson-2007
-mma;;1sg_s;1st (excl) Person Singular;55477;;;;biaf1240;wilson-2007
-mma;;1sg_o;1st (excl) Person Singular;55476;;;;biaf1240;wilson-2007
--i, -mma, -ma;;1sg_p;1st (excl) Person Singular;55475;;;;biaf1240;wilson-2007
-bon;;1du_a;1st (excl) Person Dual;55474;;;;biaf1240;wilson-2007
-bon;;1du_s;1st (excl) Person Dual;55473;;;;biaf1240;wilson-2007
-bon;;1du_o;1st (excl) Person Dual;55472;;;;biaf1240;wilson-2007
--eebo;;1du_p;1st (excl) Person Dual;55471;;;;biaf1240;wilson-2007
-bon;;1pl_a;1st (excl) Person Plural;55470;;;;biaf1240;wilson-2007
-bon;;1pl_s;1st (excl) Person Plural;55469;;;;biaf1240;wilson-2007
-bon;;1pl_o;1st (excl) Person Plural;55468;;;;biaf1240;wilson-2007
--eebo;;1pl_p;1st (excl) Person Plural;55467;;;;biaf1240;wilson-2007
-bon;;12du_a;1st (incl) Person Dual;55466;;;;biaf1240;wilson-2007
-bon;;12du_s;1st (incl) Person Dual;55465;;;;biaf1240;wilson-2007
-bon;;12du_o;1st (incl) Person Dual;55464;;;;biaf1240;wilson-2007
--eebo;;12du_p;1st (incl) Person Dual;55463;;;;biaf1240;wilson-2007
-bon;;12pl_a;1st (incl) Person Plural;55462;;;;biaf1240;wilson-2007
-bon;;12pl_s;1st (incl) Person Plural;55461;;;;biaf1240;wilson-2007
-bon;;12pl_o;1st (incl) Person Plural;55460;;;;biaf1240;wilson-2007
--eebo;;12pl_p;1st (incl) Person Plural;55459;;;;biaf1240;wilson-2007
-yi;;2sg_a;2nd Person Singular;55458;;;;biaf1240;wilson-2007
-yi;;2sg_s;2nd Person Singular;55457;;;;biaf1240;wilson-2007
-yi;;2sg_o;2nd Person Singular;55456;;;;biaf1240;wilson-2007
--a, -e, -he;;2sg_p;2nd Person Singular;55455;;;;biaf1240;wilson-2007
-een;;2du_a;2nd Person Dual;55454;;;;biaf1240;wilson-2007
-een;;2du_s;2nd Person Dual;55453;;;;biaf1240;wilson-2007
-een;;2du_o;2nd Person Dual;55452;;;;biaf1240;wilson-2007
--een;;2du_p;2nd Person Dual;55451;;;;biaf1240;wilson-2007
-een;;2pl_a;2nd Person Plural;55450;;;;biaf1240;wilson-2007
-een;;2pl_s;2nd Person Plural;55449;;;;biaf1240;wilson-2007
-een;;2pl_o;2nd Person Plural;55448;;;;biaf1240;wilson-2007
--een;;2pl_p;2nd Person Plural;55447;;;;biaf1240;wilson-2007
-mom;;3sg_m_a;3rd Person Singular Masculine;55446;;;;biaf1240;wilson-2007
-mom;;3sg_m_s;3rd Person Singular Masculine;55445;;;;biaf1240;wilson-2007
-mom;;3sg_m_o;3rd Person Singular Masculine;55444;;;;biaf1240;wilson-2007
--am;;3sg_m_p;3rd Person Singular Masculine;55443;;;;biaf1240;wilson-2007
-mom;;3sg_n_a;3rd Person Singular Neuter;62600;;;;biaf1240;wilson-2007
-mom;;3sg_n_s;3rd Person Singular Neuter;62601;;;;biaf1240;wilson-2007
-mom;;3sg_n_o;3rd Person Singular Neuter;62602;;;;biaf1240;wilson-2007
--am;;3sg_n_p;3rd Person Singular Neuter;62603;;;;biaf1240;wilson-2007
-nimmæ;;3d-a;3rd Person Dual;55442;;;;biaf1240;wilson-2007
-nimmæ;;3d-s;3rd Person Dual;55441;;;;biaf1240;wilson-2007
-nimmæ;;3d-o;3rd Person Dual;55440;;;;biaf1240;wilson-2007
--eemmæ, -ənmæ;;3d-p;3rd Person Dual;55439;;;;biaf1240;wilson-2007
-nimmæ;;3p-a;3rd Person Plural;55438;;;;biaf1240;wilson-2007
-nimmæ;;3p-s;3rd Person Plural;55437;;;;biaf1240;wilson-2007
-nimmæ;;3p-o;3rd Person Plural;55436;;;;biaf1240;wilson-2007
--eemmæ, -ənmæ;;3p-p;3rd Person Plural;55435;;;;biaf1240;wilson-2007
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mma,,1sg_a,1st (excl) Person Singular,55478,,,,biaf1240,wilson-2007
+mma,,1sg_s,1st (excl) Person Singular,55477,,,,biaf1240,wilson-2007
+mma,,1sg_o,1st (excl) Person Singular,55476,,,,biaf1240,wilson-2007
+"-i, -mma, -ma",,1sg_p,1st (excl) Person Singular,55475,,,,biaf1240,wilson-2007
+bon,,1du_a,1st (excl) Person Dual,55474,,,,biaf1240,wilson-2007
+bon,,1du_s,1st (excl) Person Dual,55473,,,,biaf1240,wilson-2007
+bon,,1du_o,1st (excl) Person Dual,55472,,,,biaf1240,wilson-2007
+-eebo,,1du_p,1st (excl) Person Dual,55471,,,,biaf1240,wilson-2007
+bon,,1pl_a,1st (excl) Person Plural,55470,,,,biaf1240,wilson-2007
+bon,,1pl_s,1st (excl) Person Plural,55469,,,,biaf1240,wilson-2007
+bon,,1pl_o,1st (excl) Person Plural,55468,,,,biaf1240,wilson-2007
+-eebo,,1pl_p,1st (excl) Person Plural,55467,,,,biaf1240,wilson-2007
+bon,,12du_a,1st (incl) Person Dual,55466,,,,biaf1240,wilson-2007
+bon,,12du_s,1st (incl) Person Dual,55465,,,,biaf1240,wilson-2007
+bon,,12du_o,1st (incl) Person Dual,55464,,,,biaf1240,wilson-2007
+-eebo,,12du_p,1st (incl) Person Dual,55463,,,,biaf1240,wilson-2007
+bon,,12pl_a,1st (incl) Person Plural,55462,,,,biaf1240,wilson-2007
+bon,,12pl_s,1st (incl) Person Plural,55461,,,,biaf1240,wilson-2007
+bon,,12pl_o,1st (incl) Person Plural,55460,,,,biaf1240,wilson-2007
+-eebo,,12pl_p,1st (incl) Person Plural,55459,,,,biaf1240,wilson-2007
+yi,,2sg_a,2nd Person Singular,55458,,,,biaf1240,wilson-2007
+yi,,2sg_s,2nd Person Singular,55457,,,,biaf1240,wilson-2007
+yi,,2sg_o,2nd Person Singular,55456,,,,biaf1240,wilson-2007
+"-a, -e, -he",,2sg_p,2nd Person Singular,55455,,,,biaf1240,wilson-2007
+een,,2du_a,2nd Person Dual,55454,,,,biaf1240,wilson-2007
+een,,2du_s,2nd Person Dual,55453,,,,biaf1240,wilson-2007
+een,,2du_o,2nd Person Dual,55452,,,,biaf1240,wilson-2007
+-een,,2du_p,2nd Person Dual,55451,,,,biaf1240,wilson-2007
+een,,2pl_a,2nd Person Plural,55450,,,,biaf1240,wilson-2007
+een,,2pl_s,2nd Person Plural,55449,,,,biaf1240,wilson-2007
+een,,2pl_o,2nd Person Plural,55448,,,,biaf1240,wilson-2007
+-een,,2pl_p,2nd Person Plural,55447,,,,biaf1240,wilson-2007
+mom,,3sg_m_a,3rd Person Singular Masculine,55446,,,,biaf1240,wilson-2007
+mom,,3sg_m_s,3rd Person Singular Masculine,55445,,,,biaf1240,wilson-2007
+mom,,3sg_m_o,3rd Person Singular Masculine,55444,,,,biaf1240,wilson-2007
+-am,,3sg_m_p,3rd Person Singular Masculine,55443,,,,biaf1240,wilson-2007
+mom,,3sg_n_a,3rd Person Singular Neuter,62600,,,,biaf1240,wilson-2007
+mom,,3sg_n_s,3rd Person Singular Neuter,62601,,,,biaf1240,wilson-2007
+mom,,3sg_n_o,3rd Person Singular Neuter,62602,,,,biaf1240,wilson-2007
+-am,,3sg_n_p,3rd Person Singular Neuter,62603,,,,biaf1240,wilson-2007
+nimmæ,,3d-a,3rd Person Dual,55442,,,,biaf1240,wilson-2007
+nimmæ,,3d-s,3rd Person Dual,55441,,,,biaf1240,wilson-2007
+nimmæ,,3d-o,3rd Person Dual,55440,,,,biaf1240,wilson-2007
+"-eemmæ, -ənmæ",,3d-p,3rd Person Dual,55439,,,,biaf1240,wilson-2007
+nimmæ,,3p-a,3rd Person Plural,55438,,,,biaf1240,wilson-2007
+nimmæ,,3p-s,3rd Person Plural,55437,,,,biaf1240,wilson-2007
+nimmæ,,3p-o,3rd Person Plural,55436,,,,biaf1240,wilson-2007
+"-eemmæ, -ənmæ",,3p-p,3rd Person Plural,55435,,,,biaf1240,wilson-2007

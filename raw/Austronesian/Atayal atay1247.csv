@@ -1,96 +1,96 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-kuziŋ;;1sg_a;1st (excl) Person Singular;32724;;;;atay1247;rau-1992
-kun;;1sg_a;1st (excl) Person Singular;32725;;;;atay1247;rau-1992
-kuziŋ;;1sg_s;1st (excl) Person Singular;32726;;;;atay1247;rau-1992
-kun;;1sg_s;1st (excl) Person Singular;32727;;;;atay1247;rau-1992
-knan;;1sg_o;1st (excl) Person Singular;32728;;;;atay1247;rau-1992
-maku;;1sg_p;1st (excl) Person Singular;32729;;;;atay1247;rau-1992
-mu;;1sg_p;1st (excl) Person Singular;32730;;;;atay1247;rau-1992
-sami;;1du_a;1st (excl) Person Dual;32731;;;;atay1247;rau-1992
-sami;;1du_s;1st (excl) Person Dual;32732;;;;atay1247;rau-1992
-sminan;;1du_o;1st (excl) Person Dual;32733;;;;atay1247;rau-1992
-myan;;1du_p;1st (excl) Person Dual;32734;;;;atay1247;rau-1992
-sami;;1pl_a;1st (excl) Person Plural;32735;;;;atay1247;rau-1992
-sami;;1pl_s;1st (excl) Person Plural;32736;;;;atay1247;rau-1992
-sminan;;1pl_o;1st (excl) Person Plural;32737;;;;atay1247;rau-1992
-myan;;1pl_p;1st (excl) Person Plural;32738;;;;atay1247;rau-1992
-itaʔ;;12du_a;1st (incl) Person Dual;32739;;;;atay1247;rau-1992
-itaʔ;;12du_s;1st (incl) Person Dual;32740;;;;atay1247;rau-1992
-itan;;12du_o;1st (incl) Person Dual;32741;;;;atay1247;rau-1992
-taʔ;;12du_p;1st (incl) Person Dual;32742;;;;atay1247;rau-1992
-itaʔ;;12pl_a;1st (incl) Person Plural;32743;;;;atay1247;rau-1992
-itaʔ;;12pl_s;1st (incl) Person Plural;32744;;;;atay1247;rau-1992
-itan;;12pl_o;1st (incl) Person Plural;32745;;;;atay1247;rau-1992
-taʔ;;12pl_p;1st (incl) Person Plural;32746;;;;atay1247;rau-1992
-isuʔ;;2sg_a;2nd Person Singular;32747;;;;atay1247;rau-1992
-isuʔ;;2sg_s;2nd Person Singular;32748;;;;atay1247;rau-1992
-sunan;;2sg_o;2nd Person Singular;32749;;;;atay1247;rau-1992
-suʔ;;2sg_p;2nd Person Singular;32750;;;;atay1247;rau-1992
-simu;;2du_a;2nd Person Dual;32751;;;;atay1247;rau-1992
-simu;;2du_s;2nd Person Dual;32752;;;;atay1247;rau-1992
-smunan;;2du_o;2nd Person Dual;32753;;;;atay1247;rau-1992
-mamu;;2du_p;2nd Person Dual;32754;;;;atay1247;rau-1992
-simu;;2pl_a;2nd Person Plural;32755;;;;atay1247;rau-1992
-simu;;2pl_s;2nd Person Plural;32756;;;;atay1247;rau-1992
-smunan;;2pl_o;2nd Person Plural;32757;;;;atay1247;rau-1992
-mamu;;2pl_p;2nd Person Plural;32758;;;;atay1247;rau-1992
-hiyaʔ;;3sg_m_a;3rd Person Singular Masculine;32759;;;;atay1247;rau-1992
-hiyaʔ;;3sg_m_s;3rd Person Singular Masculine;32760;;;;atay1247;rau-1992
-hiyan;;3sg_m_o;3rd Person Singular Masculine;32761;;;;atay1247;rau-1992
-ɲaʔ;;3sg_m_p;3rd Person Singular Masculine;32762;;;;atay1247;rau-1992
-hiyaʔ;;3sg_f_a;3rd Person Singular Feminine;32763;;;;atay1247;rau-1992
-hiyaʔ;;3sg_f_s;3rd Person Singular Feminine;32764;;;;atay1247;rau-1992
-hiyan;;3sg_f_o;3rd Person Singular Feminine;32765;;;;atay1247;rau-1992
-ɲaʔ;;3sg_f_p;3rd Person Singular Feminine;32766;;;;atay1247;rau-1992
-hiyaʔ;;3sg_n_a;3rd Person Singular Neuter;32767;;;;atay1247;rau-1992
-hiyaʔ;;3sg_n_s;3rd Person Singular Neuter;32768;;;;atay1247;rau-1992
-hiyan;;3sg_n_o;3rd Person Singular Neuter;32769;;;;atay1247;rau-1992
-ɲaʔ;;3sg_n_p;3rd Person Singular Neuter;32770;;;;atay1247;rau-1992
-hgaʔ;;3du_m_a;3rd Person Dual Masculine;32771;;;;atay1247;rau-1992
-lhgaʔ;;3du_m_a;3rd Person Dual Masculine;32772;;;;atay1247;rau-1992
-hgaʔ;;3du_m_s;3rd Person Dual Masculine;32773;;;;atay1247;rau-1992
-lhgaʔ;;3du_m_s;3rd Person Dual Masculine;32774;;;;atay1247;rau-1992
-hgan;;3du_m_o;3rd Person Dual Masculine;32775;;;;atay1247;rau-1992
-ṋaʔ;;3du_m_p;3rd Person Dual Masculine;32776;;;;atay1247;rau-1992
-hgaʔ;;3du_f_a;3rd Person Dual Feminine;32777;;;;atay1247;rau-1992
-lhgaʔ;;3du_f_a;3rd Person Dual Feminine;32778;;;;atay1247;rau-1992
-hgaʔ;;3du_f_s;3rd Person Dual Feminine;32779;;;;atay1247;rau-1992
-lhgaʔ;;3du_f_s;3rd Person Dual Feminine;32780;;;;atay1247;rau-1992
-hgan;;3du_f_o;3rd Person Dual Feminine;32781;;;;atay1247;rau-1992
-ṋaʔ;;3du_f_p;3rd Person Dual Feminine;32782;;;;atay1247;rau-1992
-hgaʔ;;3du_n_a;3rd Person Dual Neuter;32783;;;;atay1247;rau-1992
-lhgaʔ;;3du_n_a;3rd Person Dual Neuter;32784;;;;atay1247;rau-1992
-hgaʔ;;3du_n_s;3rd Person Dual Neuter;32785;;;;atay1247;rau-1992
-lhgaʔ;;3du_n_s;3rd Person Dual Neuter;32786;;;;atay1247;rau-1992
-hgan;;3du_n_o;3rd Person Dual Neuter;32787;;;;atay1247;rau-1992
-ṋaʔ;;3du_n_p;3rd Person Dual Neuter;32788;;;;atay1247;rau-1992
-hgaʔ;;3pl_m_a;3rd Person Plural Masculine;32789;;;;atay1247;rau-1992
-lhgaʔ;;3pl_m_a;3rd Person Plural Masculine;32790;;;;atay1247;rau-1992
-hgaʔ;;3pl_m_s;3rd Person Plural Masculine;32791;;;;atay1247;rau-1992
-lhgaʔ;;3pl_m_s;3rd Person Plural Masculine;32792;;;;atay1247;rau-1992
-hgan;;3pl_m_o;3rd Person Plural Masculine;32793;;;;atay1247;rau-1992
-ṋaʔ;;3pl_m_p;3rd Person Plural Masculine;32794;;;;atay1247;rau-1992
-hgaʔ;;3pl_f_a;3rd Person Plural Feminine;32795;;;;atay1247;rau-1992
-lhgaʔ;;3pl_f_a;3rd Person Plural Feminine;32796;;;;atay1247;rau-1992
-hgaʔ;;3pl_f_s;3rd Person Plural Feminine;32797;;;;atay1247;rau-1992
-lhgaʔ;;3pl_f_s;3rd Person Plural Feminine;32798;;;;atay1247;rau-1992
-hgan;;3pl_f_o;3rd Person Plural Feminine;32799;;;;atay1247;rau-1992
-ṋaʔ;;3pl_f_p;3rd Person Plural Feminine;32800;;;;atay1247;rau-1992
-hgaʔ;;3pl_n_a;3rd Person Plural Neuter;32801;;;;atay1247;rau-1992
-lhgaʔ;;3pl_n_a;3rd Person Plural Neuter;32802;;;;atay1247;rau-1992
-hgaʔ;;3pl_n_s;3rd Person Plural Neuter;32803;;;;atay1247;rau-1992
-lhgaʔ;;3pl_n_s;3rd Person Plural Neuter;32804;;;;atay1247;rau-1992
-hgan;;3pl_n_o;3rd Person Plural Neuter;32805;;;;atay1247;rau-1992
-ṋaʔ;;3pl_n_p;3rd Person Plural Neuter;32806;;;;atay1247;rau-1992
-hgaʔ;;3d-a;3rd Person Dual;36406;;;;atay1247;rau-1992
-lhgaʔ;;3d-a;3rd Person Dual;36407;;;;atay1247;rau-1992
-hgaʔ;;3d-s;3rd Person Dual;36633;;;;atay1247;rau-1992
-lhgaʔ;;3d-s;3rd Person Dual;36634;;;;atay1247;rau-1992
-hgan;;3d-o;3rd Person Dual;36857;;;;atay1247;rau-1992
-ṋaʔ;;3d-p;3rd Person Dual;37073;;;;atay1247;rau-1992
-hgaʔ;;3p-a;3rd Person Plural;37288;;;;atay1247;rau-1992
-lhgaʔ;;3p-a;3rd Person Plural;37289;;;;atay1247;rau-1992
-hgaʔ;;3p-s;3rd Person Plural;37513;;;;atay1247;rau-1992
-lhgaʔ;;3p-s;3rd Person Plural;37514;;;;atay1247;rau-1992
-hgan;;3p-o;3rd Person Plural;37735;;;;atay1247;rau-1992
-ṋaʔ;;3p-p;3rd Person Plural;37951;;;;atay1247;rau-1992
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+kuziŋ,,1sg_a,1st (excl) Person Singular,32724,,,,atay1247,rau-1992
+kun,,1sg_a,1st (excl) Person Singular,32725,,,,atay1247,rau-1992
+kuziŋ,,1sg_s,1st (excl) Person Singular,32726,,,,atay1247,rau-1992
+kun,,1sg_s,1st (excl) Person Singular,32727,,,,atay1247,rau-1992
+knan,,1sg_o,1st (excl) Person Singular,32728,,,,atay1247,rau-1992
+maku,,1sg_p,1st (excl) Person Singular,32729,,,,atay1247,rau-1992
+mu,,1sg_p,1st (excl) Person Singular,32730,,,,atay1247,rau-1992
+sami,,1du_a,1st (excl) Person Dual,32731,,,,atay1247,rau-1992
+sami,,1du_s,1st (excl) Person Dual,32732,,,,atay1247,rau-1992
+sminan,,1du_o,1st (excl) Person Dual,32733,,,,atay1247,rau-1992
+myan,,1du_p,1st (excl) Person Dual,32734,,,,atay1247,rau-1992
+sami,,1pl_a,1st (excl) Person Plural,32735,,,,atay1247,rau-1992
+sami,,1pl_s,1st (excl) Person Plural,32736,,,,atay1247,rau-1992
+sminan,,1pl_o,1st (excl) Person Plural,32737,,,,atay1247,rau-1992
+myan,,1pl_p,1st (excl) Person Plural,32738,,,,atay1247,rau-1992
+itaʔ,,12du_a,1st (incl) Person Dual,32739,,,,atay1247,rau-1992
+itaʔ,,12du_s,1st (incl) Person Dual,32740,,,,atay1247,rau-1992
+itan,,12du_o,1st (incl) Person Dual,32741,,,,atay1247,rau-1992
+taʔ,,12du_p,1st (incl) Person Dual,32742,,,,atay1247,rau-1992
+itaʔ,,12pl_a,1st (incl) Person Plural,32743,,,,atay1247,rau-1992
+itaʔ,,12pl_s,1st (incl) Person Plural,32744,,,,atay1247,rau-1992
+itan,,12pl_o,1st (incl) Person Plural,32745,,,,atay1247,rau-1992
+taʔ,,12pl_p,1st (incl) Person Plural,32746,,,,atay1247,rau-1992
+isuʔ,,2sg_a,2nd Person Singular,32747,,,,atay1247,rau-1992
+isuʔ,,2sg_s,2nd Person Singular,32748,,,,atay1247,rau-1992
+sunan,,2sg_o,2nd Person Singular,32749,,,,atay1247,rau-1992
+suʔ,,2sg_p,2nd Person Singular,32750,,,,atay1247,rau-1992
+simu,,2du_a,2nd Person Dual,32751,,,,atay1247,rau-1992
+simu,,2du_s,2nd Person Dual,32752,,,,atay1247,rau-1992
+smunan,,2du_o,2nd Person Dual,32753,,,,atay1247,rau-1992
+mamu,,2du_p,2nd Person Dual,32754,,,,atay1247,rau-1992
+simu,,2pl_a,2nd Person Plural,32755,,,,atay1247,rau-1992
+simu,,2pl_s,2nd Person Plural,32756,,,,atay1247,rau-1992
+smunan,,2pl_o,2nd Person Plural,32757,,,,atay1247,rau-1992
+mamu,,2pl_p,2nd Person Plural,32758,,,,atay1247,rau-1992
+hiyaʔ,,3sg_m_a,3rd Person Singular Masculine,32759,,,,atay1247,rau-1992
+hiyaʔ,,3sg_m_s,3rd Person Singular Masculine,32760,,,,atay1247,rau-1992
+hiyan,,3sg_m_o,3rd Person Singular Masculine,32761,,,,atay1247,rau-1992
+ɲaʔ,,3sg_m_p,3rd Person Singular Masculine,32762,,,,atay1247,rau-1992
+hiyaʔ,,3sg_f_a,3rd Person Singular Feminine,32763,,,,atay1247,rau-1992
+hiyaʔ,,3sg_f_s,3rd Person Singular Feminine,32764,,,,atay1247,rau-1992
+hiyan,,3sg_f_o,3rd Person Singular Feminine,32765,,,,atay1247,rau-1992
+ɲaʔ,,3sg_f_p,3rd Person Singular Feminine,32766,,,,atay1247,rau-1992
+hiyaʔ,,3sg_n_a,3rd Person Singular Neuter,32767,,,,atay1247,rau-1992
+hiyaʔ,,3sg_n_s,3rd Person Singular Neuter,32768,,,,atay1247,rau-1992
+hiyan,,3sg_n_o,3rd Person Singular Neuter,32769,,,,atay1247,rau-1992
+ɲaʔ,,3sg_n_p,3rd Person Singular Neuter,32770,,,,atay1247,rau-1992
+hgaʔ,,3du_m_a,3rd Person Dual Masculine,32771,,,,atay1247,rau-1992
+lhgaʔ,,3du_m_a,3rd Person Dual Masculine,32772,,,,atay1247,rau-1992
+hgaʔ,,3du_m_s,3rd Person Dual Masculine,32773,,,,atay1247,rau-1992
+lhgaʔ,,3du_m_s,3rd Person Dual Masculine,32774,,,,atay1247,rau-1992
+hgan,,3du_m_o,3rd Person Dual Masculine,32775,,,,atay1247,rau-1992
+ṋaʔ,,3du_m_p,3rd Person Dual Masculine,32776,,,,atay1247,rau-1992
+hgaʔ,,3du_f_a,3rd Person Dual Feminine,32777,,,,atay1247,rau-1992
+lhgaʔ,,3du_f_a,3rd Person Dual Feminine,32778,,,,atay1247,rau-1992
+hgaʔ,,3du_f_s,3rd Person Dual Feminine,32779,,,,atay1247,rau-1992
+lhgaʔ,,3du_f_s,3rd Person Dual Feminine,32780,,,,atay1247,rau-1992
+hgan,,3du_f_o,3rd Person Dual Feminine,32781,,,,atay1247,rau-1992
+ṋaʔ,,3du_f_p,3rd Person Dual Feminine,32782,,,,atay1247,rau-1992
+hgaʔ,,3du_n_a,3rd Person Dual Neuter,32783,,,,atay1247,rau-1992
+lhgaʔ,,3du_n_a,3rd Person Dual Neuter,32784,,,,atay1247,rau-1992
+hgaʔ,,3du_n_s,3rd Person Dual Neuter,32785,,,,atay1247,rau-1992
+lhgaʔ,,3du_n_s,3rd Person Dual Neuter,32786,,,,atay1247,rau-1992
+hgan,,3du_n_o,3rd Person Dual Neuter,32787,,,,atay1247,rau-1992
+ṋaʔ,,3du_n_p,3rd Person Dual Neuter,32788,,,,atay1247,rau-1992
+hgaʔ,,3pl_m_a,3rd Person Plural Masculine,32789,,,,atay1247,rau-1992
+lhgaʔ,,3pl_m_a,3rd Person Plural Masculine,32790,,,,atay1247,rau-1992
+hgaʔ,,3pl_m_s,3rd Person Plural Masculine,32791,,,,atay1247,rau-1992
+lhgaʔ,,3pl_m_s,3rd Person Plural Masculine,32792,,,,atay1247,rau-1992
+hgan,,3pl_m_o,3rd Person Plural Masculine,32793,,,,atay1247,rau-1992
+ṋaʔ,,3pl_m_p,3rd Person Plural Masculine,32794,,,,atay1247,rau-1992
+hgaʔ,,3pl_f_a,3rd Person Plural Feminine,32795,,,,atay1247,rau-1992
+lhgaʔ,,3pl_f_a,3rd Person Plural Feminine,32796,,,,atay1247,rau-1992
+hgaʔ,,3pl_f_s,3rd Person Plural Feminine,32797,,,,atay1247,rau-1992
+lhgaʔ,,3pl_f_s,3rd Person Plural Feminine,32798,,,,atay1247,rau-1992
+hgan,,3pl_f_o,3rd Person Plural Feminine,32799,,,,atay1247,rau-1992
+ṋaʔ,,3pl_f_p,3rd Person Plural Feminine,32800,,,,atay1247,rau-1992
+hgaʔ,,3pl_n_a,3rd Person Plural Neuter,32801,,,,atay1247,rau-1992
+lhgaʔ,,3pl_n_a,3rd Person Plural Neuter,32802,,,,atay1247,rau-1992
+hgaʔ,,3pl_n_s,3rd Person Plural Neuter,32803,,,,atay1247,rau-1992
+lhgaʔ,,3pl_n_s,3rd Person Plural Neuter,32804,,,,atay1247,rau-1992
+hgan,,3pl_n_o,3rd Person Plural Neuter,32805,,,,atay1247,rau-1992
+ṋaʔ,,3pl_n_p,3rd Person Plural Neuter,32806,,,,atay1247,rau-1992
+hgaʔ,,3d-a,3rd Person Dual,36406,,,,atay1247,rau-1992
+lhgaʔ,,3d-a,3rd Person Dual,36407,,,,atay1247,rau-1992
+hgaʔ,,3d-s,3rd Person Dual,36633,,,,atay1247,rau-1992
+lhgaʔ,,3d-s,3rd Person Dual,36634,,,,atay1247,rau-1992
+hgan,,3d-o,3rd Person Dual,36857,,,,atay1247,rau-1992
+ṋaʔ,,3d-p,3rd Person Dual,37073,,,,atay1247,rau-1992
+hgaʔ,,3p-a,3rd Person Plural,37288,,,,atay1247,rau-1992
+lhgaʔ,,3p-a,3rd Person Plural,37289,,,,atay1247,rau-1992
+hgaʔ,,3p-s,3rd Person Plural,37513,,,,atay1247,rau-1992
+lhgaʔ,,3p-s,3rd Person Plural,37514,,,,atay1247,rau-1992
+hgan,,3p-o,3rd Person Plural,37735,,,,atay1247,rau-1992
+ṋaʔ,,3p-p,3rd Person Plural,37951,,,,atay1247,rau-1992

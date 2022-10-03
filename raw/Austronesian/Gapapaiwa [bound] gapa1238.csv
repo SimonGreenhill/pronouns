@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-a-;;1sg_a;1st (excl) Person Singular;48430;;;;gapa1238;lynch-et-al-2002
-a-;;1sg_s;1st (excl) Person Singular;48429;;;;gapa1238;lynch-et-al-2002
--ku;;1sg_o;1st (excl) Person Singular;48428;;;;gapa1238;lynch-et-al-2002
--ku;;1sg_p;1st (excl) Person Singular;48427;;;;gapa1238;lynch-et-al-2002
-ka-;;1du_a;1st (excl) Person Dual;48426;;;;gapa1238;lynch-et-al-2002
-ka-;;1du_s;1st (excl) Person Dual;48425;;;;gapa1238;lynch-et-al-2002
--kai;;1du_o;1st (excl) Person Dual;48424;;;;gapa1238;lynch-et-al-2002
--kai;;1du_p;1st (excl) Person Dual;48423;;;;gapa1238;lynch-et-al-2002
-ka-;;1pl_a;1st (excl) Person Plural;48422;;;;gapa1238;lynch-et-al-2002
-ka-;;1pl_s;1st (excl) Person Plural;48421;;;;gapa1238;lynch-et-al-2002
--kai;;1pl_o;1st (excl) Person Plural;48420;;;;gapa1238;lynch-et-al-2002
--kai;;1pl_p;1st (excl) Person Plural;48419;;;;gapa1238;lynch-et-al-2002
-ta-;;12du_a;1st (incl) Person Dual;48418;;;;gapa1238;lynch-et-al-2002
-ta-;;12du_s;1st (incl) Person Dual;48417;;;;gapa1238;lynch-et-al-2002
--ta;;12du_o;1st (incl) Person Dual;48416;;;;gapa1238;lynch-et-al-2002
--ta;;12du_p;1st (incl) Person Dual;48415;;;;gapa1238;lynch-et-al-2002
-ta-;;12pl_a;1st (incl) Person Plural;48414;;;;gapa1238;lynch-et-al-2002
-ta-;;12pl_s;1st (incl) Person Plural;48413;;;;gapa1238;lynch-et-al-2002
--ta;;12pl_o;1st (incl) Person Plural;48412;;;;gapa1238;lynch-et-al-2002
--ta;;12pl_p;1st (incl) Person Plural;48411;;;;gapa1238;lynch-et-al-2002
-ke-;;2sg_a;2nd Person Singular;48410;;;;gapa1238;lynch-et-al-2002
-ke-;;2sg_s;2nd Person Singular;48409;;;;gapa1238;lynch-et-al-2002
--m;;2sg_o;2nd Person Singular;48408;;;;gapa1238;lynch-et-al-2002
--m;;2sg_p;2nd Person Singular;48407;;;;gapa1238;lynch-et-al-2002
-ko-;;2du_a;2nd Person Dual;48406;;;;gapa1238;lynch-et-al-2002
-ko-;;2du_s;2nd Person Dual;48405;;;;gapa1238;lynch-et-al-2002
--mi;;2du_o;2nd Person Dual;48404;;;;gapa1238;lynch-et-al-2002
--mi;;2du_p;2nd Person Dual;48403;;;;gapa1238;lynch-et-al-2002
-ko-;;2pl_a;2nd Person Plural;48402;;;;gapa1238;lynch-et-al-2002
-ko-;;2pl_s;2nd Person Plural;48401;;;;gapa1238;lynch-et-al-2002
--mi;;2pl_o;2nd Person Plural;48400;;;;gapa1238;lynch-et-al-2002
--mi;;2pl_p;2nd Person Plural;48399;;;;gapa1238;lynch-et-al-2002
-i-;;3sg_m_a;3rd Person Singular Masculine;48398;;;;gapa1238;lynch-et-al-2002
-i-;;3sg_m_s;3rd Person Singular Masculine;48397;;;;gapa1238;lynch-et-al-2002
--na;;3sg_m_o;3rd Person Singular Masculine;48396;;;;gapa1238;lynch-et-al-2002
--na;;3sg_m_p;3rd Person Singular Masculine;48395;;;;gapa1238;lynch-et-al-2002
-i-;;3sg_n_a;3rd Person Singular Neuter;48394;;;;gapa1238;lynch-et-al-2002
-i-;;3sg_n_s;3rd Person Singular Neuter;48393;;;;gapa1238;lynch-et-al-2002
--na;;3sg_n_o;3rd Person Singular Neuter;48392;;;;gapa1238;lynch-et-al-2002
--na;;3sg_n_p;3rd Person Singular Neuter;48391;;;;gapa1238;lynch-et-al-2002
--i;;3d-a;3rd Person Dual;48390;;;;gapa1238;lynch-et-al-2002
--i;;3d-s;3rd Person Dual;48389;;;;gapa1238;lynch-et-al-2002
--na;;3d-o;3rd Person Dual;48388;;;;gapa1238;lynch-et-al-2002
--na;;3d-p;3rd Person Dual;48387;;;;gapa1238;lynch-et-al-2002
--i;;3p-a;3rd Person Plural;48386;;;;gapa1238;lynch-et-al-2002
--i;;3p-s;3rd Person Plural;48385;;;;gapa1238;lynch-et-al-2002
--si;;3p-o;3rd Person Plural;48384;;;;gapa1238;lynch-et-al-2002
--si;;3p-p;3rd Person Plural;48383;;;;gapa1238;lynch-et-al-2002
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+a-,,1sg_a,1st (excl) Person Singular,48430,,,,gapa1238,lynch-et-al-2002
+a-,,1sg_s,1st (excl) Person Singular,48429,,,,gapa1238,lynch-et-al-2002
+-ku,,1sg_o,1st (excl) Person Singular,48428,,,,gapa1238,lynch-et-al-2002
+-ku,,1sg_p,1st (excl) Person Singular,48427,,,,gapa1238,lynch-et-al-2002
+ka-,,1du_a,1st (excl) Person Dual,48426,,,,gapa1238,lynch-et-al-2002
+ka-,,1du_s,1st (excl) Person Dual,48425,,,,gapa1238,lynch-et-al-2002
+-kai,,1du_o,1st (excl) Person Dual,48424,,,,gapa1238,lynch-et-al-2002
+-kai,,1du_p,1st (excl) Person Dual,48423,,,,gapa1238,lynch-et-al-2002
+ka-,,1pl_a,1st (excl) Person Plural,48422,,,,gapa1238,lynch-et-al-2002
+ka-,,1pl_s,1st (excl) Person Plural,48421,,,,gapa1238,lynch-et-al-2002
+-kai,,1pl_o,1st (excl) Person Plural,48420,,,,gapa1238,lynch-et-al-2002
+-kai,,1pl_p,1st (excl) Person Plural,48419,,,,gapa1238,lynch-et-al-2002
+ta-,,12du_a,1st (incl) Person Dual,48418,,,,gapa1238,lynch-et-al-2002
+ta-,,12du_s,1st (incl) Person Dual,48417,,,,gapa1238,lynch-et-al-2002
+-ta,,12du_o,1st (incl) Person Dual,48416,,,,gapa1238,lynch-et-al-2002
+-ta,,12du_p,1st (incl) Person Dual,48415,,,,gapa1238,lynch-et-al-2002
+ta-,,12pl_a,1st (incl) Person Plural,48414,,,,gapa1238,lynch-et-al-2002
+ta-,,12pl_s,1st (incl) Person Plural,48413,,,,gapa1238,lynch-et-al-2002
+-ta,,12pl_o,1st (incl) Person Plural,48412,,,,gapa1238,lynch-et-al-2002
+-ta,,12pl_p,1st (incl) Person Plural,48411,,,,gapa1238,lynch-et-al-2002
+ke-,,2sg_a,2nd Person Singular,48410,,,,gapa1238,lynch-et-al-2002
+ke-,,2sg_s,2nd Person Singular,48409,,,,gapa1238,lynch-et-al-2002
+-m,,2sg_o,2nd Person Singular,48408,,,,gapa1238,lynch-et-al-2002
+-m,,2sg_p,2nd Person Singular,48407,,,,gapa1238,lynch-et-al-2002
+ko-,,2du_a,2nd Person Dual,48406,,,,gapa1238,lynch-et-al-2002
+ko-,,2du_s,2nd Person Dual,48405,,,,gapa1238,lynch-et-al-2002
+-mi,,2du_o,2nd Person Dual,48404,,,,gapa1238,lynch-et-al-2002
+-mi,,2du_p,2nd Person Dual,48403,,,,gapa1238,lynch-et-al-2002
+ko-,,2pl_a,2nd Person Plural,48402,,,,gapa1238,lynch-et-al-2002
+ko-,,2pl_s,2nd Person Plural,48401,,,,gapa1238,lynch-et-al-2002
+-mi,,2pl_o,2nd Person Plural,48400,,,,gapa1238,lynch-et-al-2002
+-mi,,2pl_p,2nd Person Plural,48399,,,,gapa1238,lynch-et-al-2002
+i-,,3sg_m_a,3rd Person Singular Masculine,48398,,,,gapa1238,lynch-et-al-2002
+i-,,3sg_m_s,3rd Person Singular Masculine,48397,,,,gapa1238,lynch-et-al-2002
+-na,,3sg_m_o,3rd Person Singular Masculine,48396,,,,gapa1238,lynch-et-al-2002
+-na,,3sg_m_p,3rd Person Singular Masculine,48395,,,,gapa1238,lynch-et-al-2002
+i-,,3sg_n_a,3rd Person Singular Neuter,48394,,,,gapa1238,lynch-et-al-2002
+i-,,3sg_n_s,3rd Person Singular Neuter,48393,,,,gapa1238,lynch-et-al-2002
+-na,,3sg_n_o,3rd Person Singular Neuter,48392,,,,gapa1238,lynch-et-al-2002
+-na,,3sg_n_p,3rd Person Singular Neuter,48391,,,,gapa1238,lynch-et-al-2002
+-i,,3d-a,3rd Person Dual,48390,,,,gapa1238,lynch-et-al-2002
+-i,,3d-s,3rd Person Dual,48389,,,,gapa1238,lynch-et-al-2002
+-na,,3d-o,3rd Person Dual,48388,,,,gapa1238,lynch-et-al-2002
+-na,,3d-p,3rd Person Dual,48387,,,,gapa1238,lynch-et-al-2002
+-i,,3p-a,3rd Person Plural,48386,,,,gapa1238,lynch-et-al-2002
+-i,,3p-s,3rd Person Plural,48385,,,,gapa1238,lynch-et-al-2002
+-si,,3p-o,3rd Person Plural,48384,,,,gapa1238,lynch-et-al-2002
+-si,,3p-p,3rd Person Plural,48383,,,,gapa1238,lynch-et-al-2002

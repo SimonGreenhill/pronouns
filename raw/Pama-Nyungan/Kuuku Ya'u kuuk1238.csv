@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ngayu;;1sg_a;1st (excl) Person Singular;62300;;;;kuuk1238;thompson-1988
-ngayu;;1sg_s;1st (excl) Person Singular;62299;;;;kuuk1238;thompson-1988
-ngataana, nganyi;;1sg_o;1st (excl) Person Singular;62298;;;;kuuk1238;thompson-1988
-ngataangku, ngata;;1sg_p;1st (excl) Person Singular;62297;;;;kuuk1238;thompson-1988
-ngana;;1du_a;1st (excl) Person Dual;62296;;;;kuuk1238;thompson-1988
-ngana;;1du_s;1st (excl) Person Dual;62295;;;;kuuk1238;thompson-1988
-nganaana;;1du_o;1st (excl) Person Dual;62294;;;;kuuk1238;thompson-1988
-nganaangku;;1du_p;1st (excl) Person Dual;62293;;;;kuuk1238;thompson-1988
-ngana;;1pl_a;1st (excl) Person Plural;62292;;;;kuuk1238;thompson-1988
-ngana;;1pl_s;1st (excl) Person Plural;62291;;;;kuuk1238;thompson-1988
-nganaana;;1pl_o;1st (excl) Person Plural;62290;;;;kuuk1238;thompson-1988
-nganaangku;;1pl_p;1st (excl) Person Plural;62289;;;;kuuk1238;thompson-1988
-ngali;;12du_a;1st (incl) Person Dual;62288;;;;kuuk1238;thompson-1988
-ngali;;12du_s;1st (incl) Person Dual;62287;;;;kuuk1238;thompson-1988
-ngaliina;;12du_o;1st (incl) Person Dual;62286;;;;kuuk1238;thompson-1988
-ngaliingku;;12du_p;1st (incl) Person Dual;62285;;;;kuuk1238;thompson-1988
-ngampula;;12pl_a;1st (incl) Person Plural;62284;;;;kuuk1238;thompson-1988
-ngampula;;12pl_s;1st (incl) Person Plural;62283;;;;kuuk1238;thompson-1988
-ngampulana;;12pl_o;1st (incl) Person Plural;62282;;;;kuuk1238;thompson-1988
-ngampulungku;;12pl_p;1st (incl) Person Plural;62281;;;;kuuk1238;thompson-1988
-ngunu;;2sg_a;2nd Person Singular;62280;;;;kuuk1238;thompson-1988
-ngunu;;2sg_s;2nd Person Singular;62279;;;;kuuk1238;thompson-1988
-ngangkaana;;2sg_o;2nd Person Singular;62278;;;;kuuk1238;thompson-1988
-ngangkaangku, ngangka;;2sg_p;2nd Person Singular;62277;;;;kuuk1238;thompson-1988
-ngu'ula;;2du_a;2nd Person Dual;62276;;;;kuuk1238;thompson-1988
-ngu'ula;;2du_s;2nd Person Dual;62275;;;;kuuk1238;thompson-1988
-ngu'ulana;;2du_o;2nd Person Dual;62274;;;;kuuk1238;thompson-1988
-ngu'ulungku;;2du_p;2nd Person Dual;62273;;;;kuuk1238;thompson-1988
-ngu'ula;;2pl_a;2nd Person Plural;62272;;;;kuuk1238;thompson-1988
-ngu'ula;;2pl_s;2nd Person Plural;62271;;;;kuuk1238;thompson-1988
-ngu'ulana;;2pl_o;2nd Person Plural;62270;;;;kuuk1238;thompson-1988
-ngu'ulungku;;2pl_p;2nd Person Plural;62269;;;;kuuk1238;thompson-1988
-ngulu;;3sg_m_a;3rd Person Singular Masculine;62268;;;;kuuk1238;thompson-1988
-ngulu;;3sg_m_s;3rd Person Singular Masculine;62267;;;;kuuk1238;thompson-1988
-ngungaana;;3sg_m_o;3rd Person Singular Masculine;62266;;;;kuuk1238;thompson-1988
-ngungaangku;;3sg_m_p;3rd Person Singular Masculine;62265;;;;kuuk1238;thompson-1988
-ngulu;;3sg_n_a;3rd Person Singular Neuter;62264;;;;kuuk1238;thompson-1988
-ngulu;;3sg_n_s;3rd Person Singular Neuter;62263;;;;kuuk1238;thompson-1988
-ngungaana;;3sg_n_o;3rd Person Singular Neuter;62262;;;;kuuk1238;thompson-1988
-ngungaangku;;3sg_n_p;3rd Person Singular Neuter;62261;;;;kuuk1238;thompson-1988
-pula;;3d-a;3rd Person Dual;62260;;;;kuuk1238;thompson-1988
-pula;;3d-s;3rd Person Dual;62259;;;;kuuk1238;thompson-1988
-pulaana;;3d-o;3rd Person Dual;62258;;;;kuuk1238;thompson-1988
-pulaangku;;3d-p;3rd Person Dual;62257;;;;kuuk1238;thompson-1988
-pula;;3p-a;3rd Person Plural;62256;;;;kuuk1238;thompson-1988
-pula;;3p-s;3rd Person Plural;62255;;;;kuuk1238;thompson-1988
-pulaana;;3p-o;3rd Person Plural;62254;;;;kuuk1238;thompson-1988
-pulaangku;;3p-p;3rd Person Plural;62253;;;;kuuk1238;thompson-1988
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ngayu,,1sg_a,1st (excl) Person Singular,62300,,,,kuuk1238,thompson-1988
+ngayu,,1sg_s,1st (excl) Person Singular,62299,,,,kuuk1238,thompson-1988
+"ngataana, nganyi",,1sg_o,1st (excl) Person Singular,62298,,,,kuuk1238,thompson-1988
+"ngataangku, ngata",,1sg_p,1st (excl) Person Singular,62297,,,,kuuk1238,thompson-1988
+ngana,,1du_a,1st (excl) Person Dual,62296,,,,kuuk1238,thompson-1988
+ngana,,1du_s,1st (excl) Person Dual,62295,,,,kuuk1238,thompson-1988
+nganaana,,1du_o,1st (excl) Person Dual,62294,,,,kuuk1238,thompson-1988
+nganaangku,,1du_p,1st (excl) Person Dual,62293,,,,kuuk1238,thompson-1988
+ngana,,1pl_a,1st (excl) Person Plural,62292,,,,kuuk1238,thompson-1988
+ngana,,1pl_s,1st (excl) Person Plural,62291,,,,kuuk1238,thompson-1988
+nganaana,,1pl_o,1st (excl) Person Plural,62290,,,,kuuk1238,thompson-1988
+nganaangku,,1pl_p,1st (excl) Person Plural,62289,,,,kuuk1238,thompson-1988
+ngali,,12du_a,1st (incl) Person Dual,62288,,,,kuuk1238,thompson-1988
+ngali,,12du_s,1st (incl) Person Dual,62287,,,,kuuk1238,thompson-1988
+ngaliina,,12du_o,1st (incl) Person Dual,62286,,,,kuuk1238,thompson-1988
+ngaliingku,,12du_p,1st (incl) Person Dual,62285,,,,kuuk1238,thompson-1988
+ngampula,,12pl_a,1st (incl) Person Plural,62284,,,,kuuk1238,thompson-1988
+ngampula,,12pl_s,1st (incl) Person Plural,62283,,,,kuuk1238,thompson-1988
+ngampulana,,12pl_o,1st (incl) Person Plural,62282,,,,kuuk1238,thompson-1988
+ngampulungku,,12pl_p,1st (incl) Person Plural,62281,,,,kuuk1238,thompson-1988
+ngunu,,2sg_a,2nd Person Singular,62280,,,,kuuk1238,thompson-1988
+ngunu,,2sg_s,2nd Person Singular,62279,,,,kuuk1238,thompson-1988
+ngangkaana,,2sg_o,2nd Person Singular,62278,,,,kuuk1238,thompson-1988
+"ngangkaangku, ngangka",,2sg_p,2nd Person Singular,62277,,,,kuuk1238,thompson-1988
+ngu'ula,,2du_a,2nd Person Dual,62276,,,,kuuk1238,thompson-1988
+ngu'ula,,2du_s,2nd Person Dual,62275,,,,kuuk1238,thompson-1988
+ngu'ulana,,2du_o,2nd Person Dual,62274,,,,kuuk1238,thompson-1988
+ngu'ulungku,,2du_p,2nd Person Dual,62273,,,,kuuk1238,thompson-1988
+ngu'ula,,2pl_a,2nd Person Plural,62272,,,,kuuk1238,thompson-1988
+ngu'ula,,2pl_s,2nd Person Plural,62271,,,,kuuk1238,thompson-1988
+ngu'ulana,,2pl_o,2nd Person Plural,62270,,,,kuuk1238,thompson-1988
+ngu'ulungku,,2pl_p,2nd Person Plural,62269,,,,kuuk1238,thompson-1988
+ngulu,,3sg_m_a,3rd Person Singular Masculine,62268,,,,kuuk1238,thompson-1988
+ngulu,,3sg_m_s,3rd Person Singular Masculine,62267,,,,kuuk1238,thompson-1988
+ngungaana,,3sg_m_o,3rd Person Singular Masculine,62266,,,,kuuk1238,thompson-1988
+ngungaangku,,3sg_m_p,3rd Person Singular Masculine,62265,,,,kuuk1238,thompson-1988
+ngulu,,3sg_n_a,3rd Person Singular Neuter,62264,,,,kuuk1238,thompson-1988
+ngulu,,3sg_n_s,3rd Person Singular Neuter,62263,,,,kuuk1238,thompson-1988
+ngungaana,,3sg_n_o,3rd Person Singular Neuter,62262,,,,kuuk1238,thompson-1988
+ngungaangku,,3sg_n_p,3rd Person Singular Neuter,62261,,,,kuuk1238,thompson-1988
+pula,,3d-a,3rd Person Dual,62260,,,,kuuk1238,thompson-1988
+pula,,3d-s,3rd Person Dual,62259,,,,kuuk1238,thompson-1988
+pulaana,,3d-o,3rd Person Dual,62258,,,,kuuk1238,thompson-1988
+pulaangku,,3d-p,3rd Person Dual,62257,,,,kuuk1238,thompson-1988
+pula,,3p-a,3rd Person Plural,62256,,,,kuuk1238,thompson-1988
+pula,,3p-s,3rd Person Plural,62255,,,,kuuk1238,thompson-1988
+pulaana,,3p-o,3rd Person Plural,62254,,,,kuuk1238,thompson-1988
+pulaangku,,3p-p,3rd Person Plural,62253,,,,kuuk1238,thompson-1988

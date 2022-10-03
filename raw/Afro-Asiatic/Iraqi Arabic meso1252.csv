@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ʔaani ;;1sg_a;1st (excl) Person Singular;48718;;;;meso1252;erwin-1963
-ʔaani ;;1sg_s;1st (excl) Person Singular;48717;;;;meso1252;erwin-1963
--i ;;1sg_o;1st (excl) Person Singular;48716;;;;meso1252;erwin-1963
--i ;;1sg_p;1st (excl) Person Singular;48715;;;;meso1252;erwin-1963
-ʔiħna ;;1du_a;1st (excl) Person Dual;48714;;;;meso1252;erwin-1963
-ʔiħna ;;1du_s;1st (excl) Person Dual;48713;;;;meso1252;erwin-1963
--na ;;1du_o;1st (excl) Person Dual;48712;;;;meso1252;erwin-1963
--na ;;1du_p;1st (excl) Person Dual;48711;;;;meso1252;erwin-1963
-ʔiħna ;;1pl_a;1st (excl) Person Plural;48710;;;;meso1252;erwin-1963
-ʔiħna ;;1pl_s;1st (excl) Person Plural;48709;;;;meso1252;erwin-1963
--na ;;1pl_o;1st (excl) Person Plural;48708;;;;meso1252;erwin-1963
--na ;;1pl_p;1st (excl) Person Plural;48707;;;;meso1252;erwin-1963
-ʔiħna ;;12du_a;1st (incl) Person Dual;48706;;;;meso1252;erwin-1963
-ʔiħna ;;12du_s;1st (incl) Person Dual;48705;;;;meso1252;erwin-1963
--na ;;12du_o;1st (incl) Person Dual;48704;;;;meso1252;erwin-1963
--na ;;12du_p;1st (incl) Person Dual;48703;;;;meso1252;erwin-1963
-ʔiħna ;;12pl_a;1st (incl) Person Plural;48702;;;;meso1252;erwin-1963
-ʔiħna ;;12pl_s;1st (incl) Person Plural;48701;;;;meso1252;erwin-1963
--na ;;12pl_o;1st (incl) Person Plural;48700;;;;meso1252;erwin-1963
--na ;;12pl_p;1st (incl) Person Plural;48699;;;;meso1252;erwin-1963
-ʔinti ;;2sg_a;2nd Person Singular;48698;;'ʔinti' is in fact the second person feminine form, the second person masculine form is 'ʔinta' (Erwin 1963:271).;;meso1252;erwin-1963
-ʔinti ;;2sg_s;2nd Person Singular;48697;;'ʔinti' is in fact the second person feminine form, the second person masculine form is 'ʔinta' (Erwin 1963:271).;;meso1252;erwin-1963
--it͡ʃ ;;2sg_o;2nd Person Singular;48696;;'-it͡ʃ ' is in fact the second person feminine form, the second person masculine form is '-ak ' (Erwin 1963:272).;;meso1252;erwin-1963
--it͡ʃ ;;2sg_p;2nd Person Singular;48695;;'-it͡ʃ ' is in fact the second person feminine form, the second person masculine form is '-ak ' (Erwin 1963:272).;;meso1252;erwin-1963
-ʔintu ;;2du_a;2nd Person Dual;48694;;;;meso1252;erwin-1963
-ʔintu ;;2du_s;2nd Person Dual;48693;;;;meso1252;erwin-1963
--kum ;;2du_o;2nd Person Dual;48692;;;;meso1252;erwin-1963
--kum ;;2du_p;2nd Person Dual;48691;;;;meso1252;erwin-1963
-ʔintu ;;2pl_a;2nd Person Plural;48690;;;;meso1252;erwin-1963
-ʔintu ;;2pl_s;2nd Person Plural;48689;;;;meso1252;erwin-1963
--kum ;;2pl_o;2nd Person Plural;48688;;;;meso1252;erwin-1963
--kum ;;2pl_p;2nd Person Plural;48687;;;;meso1252;erwin-1963
-huwwa;;3sg_m_a;3rd Person Singular Masculine;48686;;;;meso1252;erwin-1963
-huwwa;;3sg_m_s;3rd Person Singular Masculine;48685;;;;meso1252;erwin-1963
--a ;;3sg_m_o;3rd Person Singular Masculine;48684;;;;meso1252;erwin-1963
--a ;;3sg_m_p;3rd Person Singular Masculine;48683;;;;meso1252;erwin-1963
-hijja;;3sg_n_a;3rd Person Singular Neuter;48682;;;;meso1252;erwin-1963
-hijja;;3sg_n_s;3rd Person Singular Neuter;48681;;;;meso1252;erwin-1963
--ha ;;3sg_n_o;3rd Person Singular Neuter;48680;;;;meso1252;erwin-1963
--ha ;;3sg_n_p;3rd Person Singular Neuter;48679;;;;meso1252;erwin-1963
-humma;;3d-a;3rd Person Dual;48678;;;;meso1252;erwin-1963
-humma;;3d-s;3rd Person Dual;48677;;;;meso1252;erwin-1963
--hum ;;3d-o;3rd Person Dual;48676;;;;meso1252;erwin-1963
--hum ;;3d-p;3rd Person Dual;48675;;;;meso1252;erwin-1963
-humma;;3p-a;3rd Person Plural;48674;;;;meso1252;erwin-1963
-humma;;3p-s;3rd Person Plural;48673;;;;meso1252;erwin-1963
--hum ;;3p-o;3rd Person Plural;48672;;;;meso1252;erwin-1963
--hum ;;3p-p;3rd Person Plural;48671;;;;meso1252;erwin-1963
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ʔaani,,1sg_a,1st (excl) Person Singular,48718,,,,meso1252,erwin-1963
+ʔaani,,1sg_s,1st (excl) Person Singular,48717,,,,meso1252,erwin-1963
+-i,,1sg_o,1st (excl) Person Singular,48716,,,,meso1252,erwin-1963
+-i,,1sg_p,1st (excl) Person Singular,48715,,,,meso1252,erwin-1963
+ʔiħna,,1du_a,1st (excl) Person Dual,48714,,,,meso1252,erwin-1963
+ʔiħna,,1du_s,1st (excl) Person Dual,48713,,,,meso1252,erwin-1963
+-na,,1du_o,1st (excl) Person Dual,48712,,,,meso1252,erwin-1963
+-na,,1du_p,1st (excl) Person Dual,48711,,,,meso1252,erwin-1963
+ʔiħna,,1pl_a,1st (excl) Person Plural,48710,,,,meso1252,erwin-1963
+ʔiħna,,1pl_s,1st (excl) Person Plural,48709,,,,meso1252,erwin-1963
+-na,,1pl_o,1st (excl) Person Plural,48708,,,,meso1252,erwin-1963
+-na,,1pl_p,1st (excl) Person Plural,48707,,,,meso1252,erwin-1963
+ʔiħna,,12du_a,1st (incl) Person Dual,48706,,,,meso1252,erwin-1963
+ʔiħna,,12du_s,1st (incl) Person Dual,48705,,,,meso1252,erwin-1963
+-na,,12du_o,1st (incl) Person Dual,48704,,,,meso1252,erwin-1963
+-na,,12du_p,1st (incl) Person Dual,48703,,,,meso1252,erwin-1963
+ʔiħna,,12pl_a,1st (incl) Person Plural,48702,,,,meso1252,erwin-1963
+ʔiħna,,12pl_s,1st (incl) Person Plural,48701,,,,meso1252,erwin-1963
+-na,,12pl_o,1st (incl) Person Plural,48700,,,,meso1252,erwin-1963
+-na,,12pl_p,1st (incl) Person Plural,48699,,,,meso1252,erwin-1963
+ʔinti,,2sg_a,2nd Person Singular,48698,,"'ʔinti' is in fact the second person feminine form, the second person masculine form is 'ʔinta' (Erwin 1963:271).",,meso1252,erwin-1963
+ʔinti,,2sg_s,2nd Person Singular,48697,,"'ʔinti' is in fact the second person feminine form, the second person masculine form is 'ʔinta' (Erwin 1963:271).",,meso1252,erwin-1963
+-it͡ʃ,,2sg_o,2nd Person Singular,48696,,"'-it͡ʃ ' is in fact the second person feminine form, the second person masculine form is '-ak ' (Erwin 1963:272).",,meso1252,erwin-1963
+-it͡ʃ,,2sg_p,2nd Person Singular,48695,,"'-it͡ʃ ' is in fact the second person feminine form, the second person masculine form is '-ak ' (Erwin 1963:272).",,meso1252,erwin-1963
+ʔintu,,2du_a,2nd Person Dual,48694,,,,meso1252,erwin-1963
+ʔintu,,2du_s,2nd Person Dual,48693,,,,meso1252,erwin-1963
+-kum,,2du_o,2nd Person Dual,48692,,,,meso1252,erwin-1963
+-kum,,2du_p,2nd Person Dual,48691,,,,meso1252,erwin-1963
+ʔintu,,2pl_a,2nd Person Plural,48690,,,,meso1252,erwin-1963
+ʔintu,,2pl_s,2nd Person Plural,48689,,,,meso1252,erwin-1963
+-kum,,2pl_o,2nd Person Plural,48688,,,,meso1252,erwin-1963
+-kum,,2pl_p,2nd Person Plural,48687,,,,meso1252,erwin-1963
+huwwa,,3sg_m_a,3rd Person Singular Masculine,48686,,,,meso1252,erwin-1963
+huwwa,,3sg_m_s,3rd Person Singular Masculine,48685,,,,meso1252,erwin-1963
+-a,,3sg_m_o,3rd Person Singular Masculine,48684,,,,meso1252,erwin-1963
+-a,,3sg_m_p,3rd Person Singular Masculine,48683,,,,meso1252,erwin-1963
+hijja,,3sg_n_a,3rd Person Singular Neuter,48682,,,,meso1252,erwin-1963
+hijja,,3sg_n_s,3rd Person Singular Neuter,48681,,,,meso1252,erwin-1963
+-ha,,3sg_n_o,3rd Person Singular Neuter,48680,,,,meso1252,erwin-1963
+-ha,,3sg_n_p,3rd Person Singular Neuter,48679,,,,meso1252,erwin-1963
+humma,,3d-a,3rd Person Dual,48678,,,,meso1252,erwin-1963
+humma,,3d-s,3rd Person Dual,48677,,,,meso1252,erwin-1963
+-hum,,3d-o,3rd Person Dual,48676,,,,meso1252,erwin-1963
+-hum,,3d-p,3rd Person Dual,48675,,,,meso1252,erwin-1963
+humma,,3p-a,3rd Person Plural,48674,,,,meso1252,erwin-1963
+humma,,3p-s,3rd Person Plural,48673,,,,meso1252,erwin-1963
+-hum,,3p-o,3rd Person Plural,48672,,,,meso1252,erwin-1963
+-hum,,3p-p,3rd Person Plural,48671,,,,meso1252,erwin-1963

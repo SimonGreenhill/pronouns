@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mo;;1sg_a;1st (excl) Person Singular;49102;;;;yoru1245;bamgbose-1966
-mo;;1sg_s;1st (excl) Person Singular;49101;;;;yoru1245;bamgbose-1966
-mi;;1sg_o;1st (excl) Person Singular;49100;;;;yoru1245;bamgbose-1966
-.mi;;1sg_p;1st (excl) Person Singular;49099;;;;yoru1245;bamgbose-1966
-a;;1du_a;1st (excl) Person Dual;49098;;;;yoru1245;bamgbose-1966
-a;;1du_s;1st (excl) Person Dual;49097;;;;yoru1245;bamgbose-1966
-wa;;1du_o;1st (excl) Person Dual;49096;;;;yoru1245;bamgbose-1966
-wa;;1du_p;1st (excl) Person Dual;49095;;;;yoru1245;bamgbose-1966
-a;;1pl_a;1st (excl) Person Plural;49094;;;;yoru1245;bamgbose-1966
-a;;1pl_s;1st (excl) Person Plural;49093;;;;yoru1245;bamgbose-1966
-wa;;1pl_o;1st (excl) Person Plural;49092;;;;yoru1245;bamgbose-1966
-wa;;1pl_p;1st (excl) Person Plural;49091;;;;yoru1245;bamgbose-1966
-a;;12du_a;1st (incl) Person Dual;49090;;;;yoru1245;bamgbose-1966
-a;;12du_s;1st (incl) Person Dual;49089;;;;yoru1245;bamgbose-1966
-wa;;12du_o;1st (incl) Person Dual;49088;;;;yoru1245;bamgbose-1966
-wa;;12du_p;1st (incl) Person Dual;49087;;;;yoru1245;bamgbose-1966
-a;;12pl_a;1st (incl) Person Plural;49086;;;;yoru1245;bamgbose-1966
-a;;12pl_s;1st (incl) Person Plural;49085;;;;yoru1245;bamgbose-1966
-wa;;12pl_o;1st (incl) Person Plural;49084;;;;yoru1245;bamgbose-1966
-wa;;12pl_p;1st (incl) Person Plural;49083;;;;yoru1245;bamgbose-1966
-o;;2sg_a;2nd Person Singular;49082;;;;yoru1245;bamgbose-1966
-o;;2sg_s;2nd Person Singular;49081;;;;yoru1245;bamgbose-1966
-ɔ;;2sg_o;2nd Person Singular;49080;;;;yoru1245;bamgbose-1966
-.rɛ, .ɛ;;2sg_p;2nd Person Singular;49079;;;;yoru1245;bamgbose-1966
-ɛ;;2du_a;2nd Person Dual;49078;;;;yoru1245;bamgbose-1966
-ɛ;;2du_s;2nd Person Dual;49077;;;;yoru1245;bamgbose-1966
-jí̃;;2du_o;2nd Person Dual;49076;;;;yoru1245;bamgbose-1966
-jí̃;;2du_p;2nd Person Dual;49075;;;;yoru1245;bamgbose-1966
-ɛ;;2pl_a;2nd Person Plural;49074;;;;yoru1245;bamgbose-1966
-ɛ;;2pl_s;2nd Person Plural;49073;;;;yoru1245;bamgbose-1966
-jí̃;;2pl_o;2nd Person Plural;49072;;;;yoru1245;bamgbose-1966
-jí̃;;2pl_p;2nd Person Plural;49071;;;;yoru1245;bamgbose-1966
-ó;;3sg_m_a;3rd Person Singular Masculine;49070;;;;yoru1245;bamgbose-1966
-ó;;3sg_m_s;3rd Person Singular Masculine;49069;;;;yoru1245;bamgbose-1966
-0;;3sg_m_o;3rd Person Singular Masculine;49068;;;;yoru1245;bamgbose-1966
-rɛ̀, ɛ̀;;3sg_m_p;3rd Person Singular Masculine;49067;;;;yoru1245;bamgbose-1966
-ó;;3sg_n_a;3rd Person Singular Neuter;49066;;;;yoru1245;bamgbose-1966
-ó;;3sg_n_s;3rd Person Singular Neuter;49065;;;;yoru1245;bamgbose-1966
-0;;3sg_n_o;3rd Person Singular Neuter;49064;;;;yoru1245;bamgbose-1966
-rɛ̀, ɛ̀;;3sg_n_p;3rd Person Singular Neuter;49063;;;;yoru1245;bamgbose-1966
-wɔ́̃;;3d-a;3rd Person Dual;49062;;;;yoru1245;bamgbose-1966
-wɔ́̃;;3d-s;3rd Person Dual;49061;;;;yoru1245;bamgbose-1966
-wɔ̃;;3d-o;3rd Person Dual;49060;;;;yoru1245;bamgbose-1966
-wɔ̃;;3d-p;3rd Person Dual;49059;;;;yoru1245;bamgbose-1966
-wɔ́̃;;3p-a;3rd Person Plural;49058;;;;yoru1245;bamgbose-1966
-wɔ́̃;;3p-s;3rd Person Plural;49057;;;;yoru1245;bamgbose-1966
-wɔ̃;;3p-o;3rd Person Plural;49056;;;;yoru1245;bamgbose-1966
-wɔ̃;;3p-p;3rd Person Plural;49055;;;;yoru1245;bamgbose-1966
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mo,,1sg_a,1st (excl) Person Singular,49102,,,,yoru1245,bamgbose-1966
+mo,,1sg_s,1st (excl) Person Singular,49101,,,,yoru1245,bamgbose-1966
+mi,,1sg_o,1st (excl) Person Singular,49100,,,,yoru1245,bamgbose-1966
+.mi,,1sg_p,1st (excl) Person Singular,49099,,,,yoru1245,bamgbose-1966
+a,,1du_a,1st (excl) Person Dual,49098,,,,yoru1245,bamgbose-1966
+a,,1du_s,1st (excl) Person Dual,49097,,,,yoru1245,bamgbose-1966
+wa,,1du_o,1st (excl) Person Dual,49096,,,,yoru1245,bamgbose-1966
+wa,,1du_p,1st (excl) Person Dual,49095,,,,yoru1245,bamgbose-1966
+a,,1pl_a,1st (excl) Person Plural,49094,,,,yoru1245,bamgbose-1966
+a,,1pl_s,1st (excl) Person Plural,49093,,,,yoru1245,bamgbose-1966
+wa,,1pl_o,1st (excl) Person Plural,49092,,,,yoru1245,bamgbose-1966
+wa,,1pl_p,1st (excl) Person Plural,49091,,,,yoru1245,bamgbose-1966
+a,,12du_a,1st (incl) Person Dual,49090,,,,yoru1245,bamgbose-1966
+a,,12du_s,1st (incl) Person Dual,49089,,,,yoru1245,bamgbose-1966
+wa,,12du_o,1st (incl) Person Dual,49088,,,,yoru1245,bamgbose-1966
+wa,,12du_p,1st (incl) Person Dual,49087,,,,yoru1245,bamgbose-1966
+a,,12pl_a,1st (incl) Person Plural,49086,,,,yoru1245,bamgbose-1966
+a,,12pl_s,1st (incl) Person Plural,49085,,,,yoru1245,bamgbose-1966
+wa,,12pl_o,1st (incl) Person Plural,49084,,,,yoru1245,bamgbose-1966
+wa,,12pl_p,1st (incl) Person Plural,49083,,,,yoru1245,bamgbose-1966
+o,,2sg_a,2nd Person Singular,49082,,,,yoru1245,bamgbose-1966
+o,,2sg_s,2nd Person Singular,49081,,,,yoru1245,bamgbose-1966
+ɔ,,2sg_o,2nd Person Singular,49080,,,,yoru1245,bamgbose-1966
+".rɛ, .ɛ",,2sg_p,2nd Person Singular,49079,,,,yoru1245,bamgbose-1966
+ɛ,,2du_a,2nd Person Dual,49078,,,,yoru1245,bamgbose-1966
+ɛ,,2du_s,2nd Person Dual,49077,,,,yoru1245,bamgbose-1966
+jí̃,,2du_o,2nd Person Dual,49076,,,,yoru1245,bamgbose-1966
+jí̃,,2du_p,2nd Person Dual,49075,,,,yoru1245,bamgbose-1966
+ɛ,,2pl_a,2nd Person Plural,49074,,,,yoru1245,bamgbose-1966
+ɛ,,2pl_s,2nd Person Plural,49073,,,,yoru1245,bamgbose-1966
+jí̃,,2pl_o,2nd Person Plural,49072,,,,yoru1245,bamgbose-1966
+jí̃,,2pl_p,2nd Person Plural,49071,,,,yoru1245,bamgbose-1966
+ó,,3sg_m_a,3rd Person Singular Masculine,49070,,,,yoru1245,bamgbose-1966
+ó,,3sg_m_s,3rd Person Singular Masculine,49069,,,,yoru1245,bamgbose-1966
+0,,3sg_m_o,3rd Person Singular Masculine,49068,,,,yoru1245,bamgbose-1966
+"rɛ̀, ɛ̀",,3sg_m_p,3rd Person Singular Masculine,49067,,,,yoru1245,bamgbose-1966
+ó,,3sg_n_a,3rd Person Singular Neuter,49066,,,,yoru1245,bamgbose-1966
+ó,,3sg_n_s,3rd Person Singular Neuter,49065,,,,yoru1245,bamgbose-1966
+0,,3sg_n_o,3rd Person Singular Neuter,49064,,,,yoru1245,bamgbose-1966
+"rɛ̀, ɛ̀",,3sg_n_p,3rd Person Singular Neuter,49063,,,,yoru1245,bamgbose-1966
+wɔ́̃,,3d-a,3rd Person Dual,49062,,,,yoru1245,bamgbose-1966
+wɔ́̃,,3d-s,3rd Person Dual,49061,,,,yoru1245,bamgbose-1966
+wɔ̃,,3d-o,3rd Person Dual,49060,,,,yoru1245,bamgbose-1966
+wɔ̃,,3d-p,3rd Person Dual,49059,,,,yoru1245,bamgbose-1966
+wɔ́̃,,3p-a,3rd Person Plural,49058,,,,yoru1245,bamgbose-1966
+wɔ́̃,,3p-s,3rd Person Plural,49057,,,,yoru1245,bamgbose-1966
+wɔ̃,,3p-o,3rd Person Plural,49056,,,,yoru1245,bamgbose-1966
+wɔ̃,,3p-p,3rd Person Plural,49055,,,,yoru1245,bamgbose-1966

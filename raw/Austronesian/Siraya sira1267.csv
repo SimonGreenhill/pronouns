@@ -1,82 +1,82 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ĭau;;1sg_a;1st (excl) Person Singular;32966;;;;sira1267;adelaar-2011
-ĭau;;1sg_s;1st (excl) Person Singular;32967;;;;sira1267;adelaar-2011
-ĭau;;1sg_o;1st (excl) Person Singular;32968;;;;sira1267;adelaar-2011
-=au;;1sg_p;1st (excl) Person Singular;32969;;;;sira1267;adelaar-2011
-ĭmian;;1du_a;1st (excl) Person Dual;32970;;;;sira1267;adelaar-2011
-ĭmian;;1du_s;1st (excl) Person Dual;32971;;;;sira1267;adelaar-2011
-ĭmian;;1du_o;1st (excl) Person Dual;32972;;;;sira1267;adelaar-2011
-=ian;;1du_p;1st (excl) Person Dual;32973;;;;sira1267;adelaar-2011
-=iän;;1du_p;1st (excl) Person Dual;32974;;;;sira1267;adelaar-2011
-ĭmian;;1pl_a;1st (excl) Person Plural;32975;;;;sira1267;adelaar-2011
-ĭmian;;1pl_s;1st (excl) Person Plural;32976;;;;sira1267;adelaar-2011
-ĭmian;;1pl_o;1st (excl) Person Plural;32977;;;;sira1267;adelaar-2011
-=ian;;1pl_p;1st (excl) Person Plural;32978;;;;sira1267;adelaar-2011
-=iän;;1pl_p;1st (excl) Person Plural;32979;;;;sira1267;adelaar-2011
-ĭmĭta;;12du_a;1st (incl) Person Dual;32980;;;;sira1267;adelaar-2011
-ĭmĭta;;12du_s;1st (incl) Person Dual;32981;;;;sira1267;adelaar-2011
-ĭmĭta;;12du_o;1st (incl) Person Dual;32982;;;;sira1267;adelaar-2011
-=eta;;12du_p;1st (incl) Person Dual;32983;;;;sira1267;adelaar-2011
-=mĭta;;12du_p;1st (incl) Person Dual;32984;;;;sira1267;adelaar-2011
-ĭmĭta;;12pl_a;1st (incl) Person Plural;32985;;;;sira1267;adelaar-2011
-ĭmĭta;;12pl_s;1st (incl) Person Plural;32986;;;;sira1267;adelaar-2011
-ĭmĭta;;12pl_o;1st (incl) Person Plural;32987;;;;sira1267;adelaar-2011
-=eta;;12pl_p;1st (incl) Person Plural;32988;;;;sira1267;adelaar-2011
-=mĭta;;12pl_p;1st (incl) Person Plural;32989;;;;sira1267;adelaar-2011
-ĭmhu;;2sg_a;2nd Person Singular;32990;;;;sira1267;adelaar-2011
-ĭmhu;;2sg_s;2nd Person Singular;32991;;;;sira1267;adelaar-2011
-ĭmhu;;2sg_o;2nd Person Singular;32992;;;;sira1267;adelaar-2011
-=oho;;2sg_p;2nd Person Singular;32993;;;;sira1267;adelaar-2011
-=hu;;2sg_p;2nd Person Singular;32994;;;;sira1267;adelaar-2011
-ĭmumi;;2du_a;2nd Person Dual;32995;;;;sira1267;adelaar-2011
-ĭmumi;;2du_s;2nd Person Dual;32996;;;;sira1267;adelaar-2011
-ĭmumi;;2du_o;2nd Person Dual;32997;;;;sira1267;adelaar-2011
-=umi;;2du_p;2nd Person Dual;32998;;;;sira1267;adelaar-2011
-ĭmumi;;2pl_a;2nd Person Plural;32999;;;;sira1267;adelaar-2011
-ĭmumi;;2pl_s;2nd Person Plural;33000;;;;sira1267;adelaar-2011
-ĭmumi;;2pl_o;2nd Person Plural;33001;;;;sira1267;adelaar-2011
-=umi;;2pl_p;2nd Person Plural;33002;;;;sira1267;adelaar-2011
-teni;;3sg_m_a;3rd Person Singular Masculine;33003;;;;sira1267;adelaar-2011
-teni;;3sg_m_s;3rd Person Singular Masculine;33004;;;;sira1267;adelaar-2011
-teni;;3sg_m_o;3rd Person Singular Masculine;33005;;;;sira1267;adelaar-2011
-tin;;3sg_m_p;3rd Person Singular Masculine;33006;;;;sira1267;adelaar-2011
-teni;;3sg_f_a;3rd Person Singular Feminine;33007;;;;sira1267;adelaar-2011
-teni;;3sg_f_s;3rd Person Singular Feminine;33008;;;;sira1267;adelaar-2011
-teni;;3sg_f_o;3rd Person Singular Feminine;33009;;;;sira1267;adelaar-2011
-tin;;3sg_f_p;3rd Person Singular Feminine;33010;;;;sira1267;adelaar-2011
-teni;;3sg_n_a;3rd Person Singular Neuter;33011;;;;sira1267;adelaar-2011
-teni;;3sg_n_s;3rd Person Singular Neuter;33012;;;;sira1267;adelaar-2011
-teni;;3sg_n_o;3rd Person Singular Neuter;33013;;;;sira1267;adelaar-2011
-tin;;3sg_n_p;3rd Person Singular Neuter;33014;;;;sira1267;adelaar-2011
-neini;;3du_m_a;3rd Person Dual Masculine;33015;;;;sira1267;adelaar-2011
-neini;;3du_m_s;3rd Person Dual Masculine;33016;;;;sira1267;adelaar-2011
-neini;;3du_m_o;3rd Person Dual Masculine;33017;;;;sira1267;adelaar-2011
-nein;;3du_m_p;3rd Person Dual Masculine;33018;;;;sira1267;adelaar-2011
-neini;;3du_f_a;3rd Person Dual Feminine;33019;;;;sira1267;adelaar-2011
-neini;;3du_f_s;3rd Person Dual Feminine;33020;;;;sira1267;adelaar-2011
-neini;;3du_f_o;3rd Person Dual Feminine;33021;;;;sira1267;adelaar-2011
-nein;;3du_f_p;3rd Person Dual Feminine;33022;;;;sira1267;adelaar-2011
-neini;;3du_n_a;3rd Person Dual Neuter;33023;;;;sira1267;adelaar-2011
-neini;;3du_n_s;3rd Person Dual Neuter;33024;;;;sira1267;adelaar-2011
-neini;;3du_n_o;3rd Person Dual Neuter;33025;;;;sira1267;adelaar-2011
-nein;;3du_n_p;3rd Person Dual Neuter;33026;;;;sira1267;adelaar-2011
-neini;;3pl_m_a;3rd Person Plural Masculine;33027;;;;sira1267;adelaar-2011
-neini;;3pl_m_s;3rd Person Plural Masculine;33028;;;;sira1267;adelaar-2011
-neini;;3pl_m_o;3rd Person Plural Masculine;33029;;;;sira1267;adelaar-2011
-nein;;3pl_m_p;3rd Person Plural Masculine;33030;;;;sira1267;adelaar-2011
-neini;;3pl_f_a;3rd Person Plural Feminine;33031;;;;sira1267;adelaar-2011
-neini;;3pl_f_s;3rd Person Plural Feminine;33032;;;;sira1267;adelaar-2011
-neini;;3pl_f_o;3rd Person Plural Feminine;33033;;;;sira1267;adelaar-2011
-nein;;3pl_f_p;3rd Person Plural Feminine;33034;;;;sira1267;adelaar-2011
-neini;;3pl_n_a;3rd Person Plural Neuter;33035;;;;sira1267;adelaar-2011
-neini;;3pl_n_s;3rd Person Plural Neuter;33036;;;;sira1267;adelaar-2011
-neini;;3pl_n_o;3rd Person Plural Neuter;33037;;;;sira1267;adelaar-2011
-nein;;3pl_n_p;3rd Person Plural Neuter;33038;;;;sira1267;adelaar-2011
-neini;;3d-a;3rd Person Dual;36376;;;;sira1267;adelaar-2011
-neini;;3d-s;3rd Person Dual;36603;;;;sira1267;adelaar-2011
-neini;;3d-o;3rd Person Dual;36828;;;;sira1267;adelaar-2011
-nein;;3d-p;3rd Person Dual;37039;;;;sira1267;adelaar-2011
-neini;;3p-a;3rd Person Plural;37259;;;;sira1267;adelaar-2011
-neini;;3p-s;3rd Person Plural;37485;;;;sira1267;adelaar-2011
-neini;;3p-o;3rd Person Plural;37707;;;;sira1267;adelaar-2011
-nein;;3p-p;3rd Person Plural;37916;;;;sira1267;adelaar-2011
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ĭau,,1sg_a,1st (excl) Person Singular,32966,,,,sira1267,adelaar-2011
+ĭau,,1sg_s,1st (excl) Person Singular,32967,,,,sira1267,adelaar-2011
+ĭau,,1sg_o,1st (excl) Person Singular,32968,,,,sira1267,adelaar-2011
+=au,,1sg_p,1st (excl) Person Singular,32969,,,,sira1267,adelaar-2011
+ĭmian,,1du_a,1st (excl) Person Dual,32970,,,,sira1267,adelaar-2011
+ĭmian,,1du_s,1st (excl) Person Dual,32971,,,,sira1267,adelaar-2011
+ĭmian,,1du_o,1st (excl) Person Dual,32972,,,,sira1267,adelaar-2011
+=ian,,1du_p,1st (excl) Person Dual,32973,,,,sira1267,adelaar-2011
+=iän,,1du_p,1st (excl) Person Dual,32974,,,,sira1267,adelaar-2011
+ĭmian,,1pl_a,1st (excl) Person Plural,32975,,,,sira1267,adelaar-2011
+ĭmian,,1pl_s,1st (excl) Person Plural,32976,,,,sira1267,adelaar-2011
+ĭmian,,1pl_o,1st (excl) Person Plural,32977,,,,sira1267,adelaar-2011
+=ian,,1pl_p,1st (excl) Person Plural,32978,,,,sira1267,adelaar-2011
+=iän,,1pl_p,1st (excl) Person Plural,32979,,,,sira1267,adelaar-2011
+ĭmĭta,,12du_a,1st (incl) Person Dual,32980,,,,sira1267,adelaar-2011
+ĭmĭta,,12du_s,1st (incl) Person Dual,32981,,,,sira1267,adelaar-2011
+ĭmĭta,,12du_o,1st (incl) Person Dual,32982,,,,sira1267,adelaar-2011
+=eta,,12du_p,1st (incl) Person Dual,32983,,,,sira1267,adelaar-2011
+=mĭta,,12du_p,1st (incl) Person Dual,32984,,,,sira1267,adelaar-2011
+ĭmĭta,,12pl_a,1st (incl) Person Plural,32985,,,,sira1267,adelaar-2011
+ĭmĭta,,12pl_s,1st (incl) Person Plural,32986,,,,sira1267,adelaar-2011
+ĭmĭta,,12pl_o,1st (incl) Person Plural,32987,,,,sira1267,adelaar-2011
+=eta,,12pl_p,1st (incl) Person Plural,32988,,,,sira1267,adelaar-2011
+=mĭta,,12pl_p,1st (incl) Person Plural,32989,,,,sira1267,adelaar-2011
+ĭmhu,,2sg_a,2nd Person Singular,32990,,,,sira1267,adelaar-2011
+ĭmhu,,2sg_s,2nd Person Singular,32991,,,,sira1267,adelaar-2011
+ĭmhu,,2sg_o,2nd Person Singular,32992,,,,sira1267,adelaar-2011
+=oho,,2sg_p,2nd Person Singular,32993,,,,sira1267,adelaar-2011
+=hu,,2sg_p,2nd Person Singular,32994,,,,sira1267,adelaar-2011
+ĭmumi,,2du_a,2nd Person Dual,32995,,,,sira1267,adelaar-2011
+ĭmumi,,2du_s,2nd Person Dual,32996,,,,sira1267,adelaar-2011
+ĭmumi,,2du_o,2nd Person Dual,32997,,,,sira1267,adelaar-2011
+=umi,,2du_p,2nd Person Dual,32998,,,,sira1267,adelaar-2011
+ĭmumi,,2pl_a,2nd Person Plural,32999,,,,sira1267,adelaar-2011
+ĭmumi,,2pl_s,2nd Person Plural,33000,,,,sira1267,adelaar-2011
+ĭmumi,,2pl_o,2nd Person Plural,33001,,,,sira1267,adelaar-2011
+=umi,,2pl_p,2nd Person Plural,33002,,,,sira1267,adelaar-2011
+teni,,3sg_m_a,3rd Person Singular Masculine,33003,,,,sira1267,adelaar-2011
+teni,,3sg_m_s,3rd Person Singular Masculine,33004,,,,sira1267,adelaar-2011
+teni,,3sg_m_o,3rd Person Singular Masculine,33005,,,,sira1267,adelaar-2011
+tin,,3sg_m_p,3rd Person Singular Masculine,33006,,,,sira1267,adelaar-2011
+teni,,3sg_f_a,3rd Person Singular Feminine,33007,,,,sira1267,adelaar-2011
+teni,,3sg_f_s,3rd Person Singular Feminine,33008,,,,sira1267,adelaar-2011
+teni,,3sg_f_o,3rd Person Singular Feminine,33009,,,,sira1267,adelaar-2011
+tin,,3sg_f_p,3rd Person Singular Feminine,33010,,,,sira1267,adelaar-2011
+teni,,3sg_n_a,3rd Person Singular Neuter,33011,,,,sira1267,adelaar-2011
+teni,,3sg_n_s,3rd Person Singular Neuter,33012,,,,sira1267,adelaar-2011
+teni,,3sg_n_o,3rd Person Singular Neuter,33013,,,,sira1267,adelaar-2011
+tin,,3sg_n_p,3rd Person Singular Neuter,33014,,,,sira1267,adelaar-2011
+neini,,3du_m_a,3rd Person Dual Masculine,33015,,,,sira1267,adelaar-2011
+neini,,3du_m_s,3rd Person Dual Masculine,33016,,,,sira1267,adelaar-2011
+neini,,3du_m_o,3rd Person Dual Masculine,33017,,,,sira1267,adelaar-2011
+nein,,3du_m_p,3rd Person Dual Masculine,33018,,,,sira1267,adelaar-2011
+neini,,3du_f_a,3rd Person Dual Feminine,33019,,,,sira1267,adelaar-2011
+neini,,3du_f_s,3rd Person Dual Feminine,33020,,,,sira1267,adelaar-2011
+neini,,3du_f_o,3rd Person Dual Feminine,33021,,,,sira1267,adelaar-2011
+nein,,3du_f_p,3rd Person Dual Feminine,33022,,,,sira1267,adelaar-2011
+neini,,3du_n_a,3rd Person Dual Neuter,33023,,,,sira1267,adelaar-2011
+neini,,3du_n_s,3rd Person Dual Neuter,33024,,,,sira1267,adelaar-2011
+neini,,3du_n_o,3rd Person Dual Neuter,33025,,,,sira1267,adelaar-2011
+nein,,3du_n_p,3rd Person Dual Neuter,33026,,,,sira1267,adelaar-2011
+neini,,3pl_m_a,3rd Person Plural Masculine,33027,,,,sira1267,adelaar-2011
+neini,,3pl_m_s,3rd Person Plural Masculine,33028,,,,sira1267,adelaar-2011
+neini,,3pl_m_o,3rd Person Plural Masculine,33029,,,,sira1267,adelaar-2011
+nein,,3pl_m_p,3rd Person Plural Masculine,33030,,,,sira1267,adelaar-2011
+neini,,3pl_f_a,3rd Person Plural Feminine,33031,,,,sira1267,adelaar-2011
+neini,,3pl_f_s,3rd Person Plural Feminine,33032,,,,sira1267,adelaar-2011
+neini,,3pl_f_o,3rd Person Plural Feminine,33033,,,,sira1267,adelaar-2011
+nein,,3pl_f_p,3rd Person Plural Feminine,33034,,,,sira1267,adelaar-2011
+neini,,3pl_n_a,3rd Person Plural Neuter,33035,,,,sira1267,adelaar-2011
+neini,,3pl_n_s,3rd Person Plural Neuter,33036,,,,sira1267,adelaar-2011
+neini,,3pl_n_o,3rd Person Plural Neuter,33037,,,,sira1267,adelaar-2011
+nein,,3pl_n_p,3rd Person Plural Neuter,33038,,,,sira1267,adelaar-2011
+neini,,3d-a,3rd Person Dual,36376,,,,sira1267,adelaar-2011
+neini,,3d-s,3rd Person Dual,36603,,,,sira1267,adelaar-2011
+neini,,3d-o,3rd Person Dual,36828,,,,sira1267,adelaar-2011
+nein,,3d-p,3rd Person Dual,37039,,,,sira1267,adelaar-2011
+neini,,3p-a,3rd Person Plural,37259,,,,sira1267,adelaar-2011
+neini,,3p-s,3rd Person Plural,37485,,,,sira1267,adelaar-2011
+neini,,3p-o,3rd Person Plural,37707,,,,sira1267,adelaar-2011
+nein,,3p-p,3rd Person Plural,37916,,,,sira1267,adelaar-2011

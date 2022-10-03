@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋayug;;1sg_a;1st (excl) Person Singular;47682;;;;djam1255;schultze-berndt-2000
-ŋayug;;1sg_s;1st (excl) Person Singular;47681;;;;djam1255;schultze-berndt-2000
-ŋayug;;1sg_o;1st (excl) Person Singular;47680;;;;djam1255;schultze-berndt-2000
-ŋargina;;1sg_p;1st (excl) Person Singular;47679;;;;djam1255;schultze-berndt-2000
-yiriɳi;;1du_a;1st (excl) Person Dual;47678;;;;djam1255;schultze-berndt-2000
-yiriɳi;;1du_s;1st (excl) Person Dual;47677;;;;djam1255;schultze-berndt-2000
-yiriɳi;;1du_o;1st (excl) Person Dual;47676;;;;djam1255;schultze-berndt-2000
-yiɳaɟgina;;1du_p;1st (excl) Person Dual;47675;;;;djam1255;schultze-berndt-2000
-yiri;;1pl_a;1st (excl) Person Plural;47674;;;;djam1255;schultze-berndt-2000
-yiri;;1pl_s;1st (excl) Person Plural;47673;;;;djam1255;schultze-berndt-2000
-yiri;;1pl_o;1st (excl) Person Plural;47672;;;;djam1255;schultze-berndt-2000
-yiraɟgina;;1pl_p;1st (excl) Person Plural;47671;;;;djam1255;schultze-berndt-2000
-mindi;;12du_a;1st (incl) Person Dual;47670;;;;djam1255;schultze-berndt-2000
-mindi;;12du_s;1st (incl) Person Dual;47669;;;;djam1255;schultze-berndt-2000
-mindi;;12du_o;1st (incl) Person Dual;47668;;;;djam1255;schultze-berndt-2000
-mindaɟgina;;12du_p;1st (incl) Person Dual;47667;;;;djam1255;schultze-berndt-2000
-yuri;;12pl_a;1st (incl) Person Plural;47666;;;;djam1255;schultze-berndt-2000
-yuri;;12pl_s;1st (incl) Person Plural;47665;;;;djam1255;schultze-berndt-2000
-yuri;;12pl_o;1st (incl) Person Plural;47664;;;;djam1255;schultze-berndt-2000
-yuraɟgina;;12pl_p;1st (incl) Person Plural;47663;;;;djam1255;schultze-berndt-2000
-nami;;2sg_a;2nd Person Singular;47662;;;;djam1255;schultze-berndt-2000
-nami;;2sg_s;2nd Person Singular;47661;;;;djam1255;schultze-berndt-2000
-nami;;2sg_o;2nd Person Singular;47660;;;;djam1255;schultze-berndt-2000
-ŋuŋgina;;2sg_p;2nd Person Singular;47659;;;;djam1255;schultze-berndt-2000
-guriɳi;;2du_a;2nd Person Dual;47658;;;;djam1255;schultze-berndt-2000
-guriɳi;;2du_s;2nd Person Dual;47657;;;;djam1255;schultze-berndt-2000
-guriɳi;;2du_o;2nd Person Dual;47656;;;;djam1255;schultze-berndt-2000
-guɳaɟgina;;2du_p;2nd Person Dual;47655;;;;djam1255;schultze-berndt-2000
-guri;;2pl_a;2nd Person Plural;47654;;;;djam1255;schultze-berndt-2000
-guri;;2pl_s;2nd Person Plural;47653;;;;djam1255;schultze-berndt-2000
-guri;;2pl_o;2nd Person Plural;47652;;;;djam1255;schultze-berndt-2000
-guraɟgina;;2pl_p;2nd Person Plural;47651;;;;djam1255;schultze-berndt-2000
-ji;;3sg_m_a;3rd Person Singular Masculine;47650;;;;djam1255;schultze-berndt-2000
-ji;;3sg_m_s;3rd Person Singular Masculine;47649;;;;djam1255;schultze-berndt-2000
-ji;;3sg_m_o;3rd Person Singular Masculine;47648;;;;djam1255;schultze-berndt-2000
-nuwina;;3sg_m_p;3rd Person Singular Masculine;47647;;;;djam1255;schultze-berndt-2000
-ji;;3sg_n_a;3rd Person Singular Neuter;47646;;;;djam1255;schultze-berndt-2000
-ji;;3sg_n_s;3rd Person Singular Neuter;47645;;;;djam1255;schultze-berndt-2000
-ji;;3sg_n_o;3rd Person Singular Neuter;47644;;;;djam1255;schultze-berndt-2000
-nuwina;;3sg_n_p;3rd Person Singular Neuter;47643;;;;djam1255;schultze-berndt-2000
-buriɳi;;3d-a;3rd Person Dual;47642;;;;djam1255;schultze-berndt-2000
-buriɳi;;3d-s;3rd Person Dual;47641;;;;djam1255;schultze-berndt-2000
-buriɳi;;3d-o;3rd Person Dual;47640;;;;djam1255;schultze-berndt-2000
-buriɳaɟgina;;3d-p;3rd Person Dual;47639;;;;djam1255;schultze-berndt-2000
-buri;;3p-a;3rd Person Plural;47638;;;;djam1255;schultze-berndt-2000
-buri;;3p-s;3rd Person Plural;47637;;;;djam1255;schultze-berndt-2000
-buri;;3p-o;3rd Person Plural;47636;;;;djam1255;schultze-berndt-2000
-buraɟgina;;3p-p;3rd Person Plural;47635;;;;djam1255;schultze-berndt-2000
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋayug,,1sg_a,1st (excl) Person Singular,47682,,,,djam1255,schultze-berndt-2000
+ŋayug,,1sg_s,1st (excl) Person Singular,47681,,,,djam1255,schultze-berndt-2000
+ŋayug,,1sg_o,1st (excl) Person Singular,47680,,,,djam1255,schultze-berndt-2000
+ŋargina,,1sg_p,1st (excl) Person Singular,47679,,,,djam1255,schultze-berndt-2000
+yiriɳi,,1du_a,1st (excl) Person Dual,47678,,,,djam1255,schultze-berndt-2000
+yiriɳi,,1du_s,1st (excl) Person Dual,47677,,,,djam1255,schultze-berndt-2000
+yiriɳi,,1du_o,1st (excl) Person Dual,47676,,,,djam1255,schultze-berndt-2000
+yiɳaɟgina,,1du_p,1st (excl) Person Dual,47675,,,,djam1255,schultze-berndt-2000
+yiri,,1pl_a,1st (excl) Person Plural,47674,,,,djam1255,schultze-berndt-2000
+yiri,,1pl_s,1st (excl) Person Plural,47673,,,,djam1255,schultze-berndt-2000
+yiri,,1pl_o,1st (excl) Person Plural,47672,,,,djam1255,schultze-berndt-2000
+yiraɟgina,,1pl_p,1st (excl) Person Plural,47671,,,,djam1255,schultze-berndt-2000
+mindi,,12du_a,1st (incl) Person Dual,47670,,,,djam1255,schultze-berndt-2000
+mindi,,12du_s,1st (incl) Person Dual,47669,,,,djam1255,schultze-berndt-2000
+mindi,,12du_o,1st (incl) Person Dual,47668,,,,djam1255,schultze-berndt-2000
+mindaɟgina,,12du_p,1st (incl) Person Dual,47667,,,,djam1255,schultze-berndt-2000
+yuri,,12pl_a,1st (incl) Person Plural,47666,,,,djam1255,schultze-berndt-2000
+yuri,,12pl_s,1st (incl) Person Plural,47665,,,,djam1255,schultze-berndt-2000
+yuri,,12pl_o,1st (incl) Person Plural,47664,,,,djam1255,schultze-berndt-2000
+yuraɟgina,,12pl_p,1st (incl) Person Plural,47663,,,,djam1255,schultze-berndt-2000
+nami,,2sg_a,2nd Person Singular,47662,,,,djam1255,schultze-berndt-2000
+nami,,2sg_s,2nd Person Singular,47661,,,,djam1255,schultze-berndt-2000
+nami,,2sg_o,2nd Person Singular,47660,,,,djam1255,schultze-berndt-2000
+ŋuŋgina,,2sg_p,2nd Person Singular,47659,,,,djam1255,schultze-berndt-2000
+guriɳi,,2du_a,2nd Person Dual,47658,,,,djam1255,schultze-berndt-2000
+guriɳi,,2du_s,2nd Person Dual,47657,,,,djam1255,schultze-berndt-2000
+guriɳi,,2du_o,2nd Person Dual,47656,,,,djam1255,schultze-berndt-2000
+guɳaɟgina,,2du_p,2nd Person Dual,47655,,,,djam1255,schultze-berndt-2000
+guri,,2pl_a,2nd Person Plural,47654,,,,djam1255,schultze-berndt-2000
+guri,,2pl_s,2nd Person Plural,47653,,,,djam1255,schultze-berndt-2000
+guri,,2pl_o,2nd Person Plural,47652,,,,djam1255,schultze-berndt-2000
+guraɟgina,,2pl_p,2nd Person Plural,47651,,,,djam1255,schultze-berndt-2000
+ji,,3sg_m_a,3rd Person Singular Masculine,47650,,,,djam1255,schultze-berndt-2000
+ji,,3sg_m_s,3rd Person Singular Masculine,47649,,,,djam1255,schultze-berndt-2000
+ji,,3sg_m_o,3rd Person Singular Masculine,47648,,,,djam1255,schultze-berndt-2000
+nuwina,,3sg_m_p,3rd Person Singular Masculine,47647,,,,djam1255,schultze-berndt-2000
+ji,,3sg_n_a,3rd Person Singular Neuter,47646,,,,djam1255,schultze-berndt-2000
+ji,,3sg_n_s,3rd Person Singular Neuter,47645,,,,djam1255,schultze-berndt-2000
+ji,,3sg_n_o,3rd Person Singular Neuter,47644,,,,djam1255,schultze-berndt-2000
+nuwina,,3sg_n_p,3rd Person Singular Neuter,47643,,,,djam1255,schultze-berndt-2000
+buriɳi,,3d-a,3rd Person Dual,47642,,,,djam1255,schultze-berndt-2000
+buriɳi,,3d-s,3rd Person Dual,47641,,,,djam1255,schultze-berndt-2000
+buriɳi,,3d-o,3rd Person Dual,47640,,,,djam1255,schultze-berndt-2000
+buriɳaɟgina,,3d-p,3rd Person Dual,47639,,,,djam1255,schultze-berndt-2000
+buri,,3p-a,3rd Person Plural,47638,,,,djam1255,schultze-berndt-2000
+buri,,3p-s,3rd Person Plural,47637,,,,djam1255,schultze-berndt-2000
+buri,,3p-o,3rd Person Plural,47636,,,,djam1255,schultze-berndt-2000
+buraɟgina,,3p-p,3rd Person Plural,47635,,,,djam1255,schultze-berndt-2000

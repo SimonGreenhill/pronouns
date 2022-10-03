@@ -1,45 +1,45 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-konou;;1sg_a;1st (excl) Person Singular;43131;;;;lele1267;lecrampe-2014
-konou;;1sg_s;1st (excl) Person Singular;43130;;;;lele1267;lecrampe-2014
--iou;;1sg_o;1st (excl) Person Singular;43129;;;;lele1267;lecrampe-2014
-aŋnou;;1sg_p;1st (excl) Person Singular;43128;;;;lele1267;lecrampe-2014
-ar-;;1du_a;1st (excl) Person Dual;43127;;;;lele1267;lecrampe-2014
-ar-;;1du_s;1st (excl) Person Dual;43126;;;;lele1267;lecrampe-2014
--;;1du_o;1st (excl) Person Dual;43125;;;;lele1267;lecrampe-2014
-aŋnem;;1du_p;1st (excl) Person Dual;43124;;;;lele1267;lecrampe-2014
-kenem;;1pl_a;1st (excl) Person Plural;43123;;;;lele1267;lecrampe-2014
-kenem;;1pl_s;1st (excl) Person Plural;43122;;;;lele1267;lecrampe-2014
--ŋam;;1pl_o;1st (excl) Person Plural;43121;;;;lele1267;lecrampe-2014
-aŋnem;;1pl_p;1st (excl) Person Plural;43120;;;;lele1267;lecrampe-2014
-ta-;;12du_a;1st (incl) Person Dual;43119;;;;lele1267;lecrampe-2014
-ta-;;12du_s;1st (incl) Person Dual;43118;;;;lele1267;lecrampe-2014
--;;12du_o;1st (incl) Person Dual;43117;;;;lele1267;lecrampe-2014
-aŋinta;;12du_p;1st (incl) Person Dual;43116;;;;lele1267;lecrampe-2014
-kinta;;12pl_a;1st (incl) Person Plural;43115;;;;lele1267;lecrampe-2014
-kinta;;12pl_s;1st (incl) Person Plural;43114;;;;lele1267;lecrampe-2014
--ŋta;;12pl_o;1st (incl) Person Plural;43113;;;;lele1267;lecrampe-2014
-aŋinta;;12pl_p;1st (incl) Person Plural;43112;;;;lele1267;lecrampe-2014
-naŋ;;2sg_a;2nd Person Singular;43111;;;;lele1267;lecrampe-2014
-naŋ;;2sg_s;2nd Person Singular;43110;;;;lele1267;lecrampe-2014
--ko;;2sg_o;2nd Person Singular;43109;;;;lele1267;lecrampe-2014
-naŋ;;2sg_p;2nd Person Singular;43108;;;;lele1267;lecrampe-2014
-kar-;;2du_a;2nd Person Dual;43107;;;;lele1267;lecrampe-2014
-kar-;;2du_s;2nd Person Dual;43106;;;;lele1267;lecrampe-2014
--;;2du_o;2nd Person Dual;43105;;;;lele1267;lecrampe-2014
-aŋmu;;2du_p;2nd Person Dual;43104;;;;lele1267;lecrampe-2014
-kumu;;2pl_a;2nd Person Plural;43103;;;;lele1267;lecrampe-2014
-kumu;;2pl_s;2nd Person Plural;43102;;;;lele1267;lecrampe-2014
--;;2pl_o;2nd Person Plural;43101;;;;lele1267;lecrampe-2014
-aŋmu;;2pl_p;2nd Person Plural;43100;;;;lele1267;lecrampe-2014
-nae;;3sg_m_a;3rd Person Singular Masculine;43099;;;;lele1267;lecrampe-2014
-nae;;3sg_m_s;3rd Person Singular Masculine;43098;;;;lele1267;lecrampe-2014
--ia;;3sg_m_o;3rd Person Singular Masculine;43097;;;;lele1267;lecrampe-2014
-nae;;3sg_m_p;3rd Person Singular Masculine;43096;;;;lele1267;lecrampe-2014
-ar-;;3d-a;3rd Person Dual;43095;;;;lele1267;lecrampe-2014
-ar-;;3d-s;3rd Person Dual;43094;;;;lele1267;lecrampe-2014
--;;3d-o;3rd Person Dual;43093;;;;lele1267;lecrampe-2014
-naara;;3d-p;3rd Person Dual;43092;;;;lele1267;lecrampe-2014
-naara;;3p-a;3rd Person Plural;43091;;;;lele1267;lecrampe-2014
-naara;;3p-s;3rd Person Plural;43090;;;;lele1267;lecrampe-2014
--ra;;3p-o;3rd Person Plural;43089;;;;lele1267;lecrampe-2014
-naara;;3p-p;3rd Person Plural;43088;;;;lele1267;lecrampe-2014
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+konou,,1sg_a,1st (excl) Person Singular,43131,,,,lele1267,lecrampe-2014
+konou,,1sg_s,1st (excl) Person Singular,43130,,,,lele1267,lecrampe-2014
+-iou,,1sg_o,1st (excl) Person Singular,43129,,,,lele1267,lecrampe-2014
+aŋnou,,1sg_p,1st (excl) Person Singular,43128,,,,lele1267,lecrampe-2014
+ar-,,1du_a,1st (excl) Person Dual,43127,,,,lele1267,lecrampe-2014
+ar-,,1du_s,1st (excl) Person Dual,43126,,,,lele1267,lecrampe-2014
+-,,1du_o,1st (excl) Person Dual,43125,,,,lele1267,lecrampe-2014
+aŋnem,,1du_p,1st (excl) Person Dual,43124,,,,lele1267,lecrampe-2014
+kenem,,1pl_a,1st (excl) Person Plural,43123,,,,lele1267,lecrampe-2014
+kenem,,1pl_s,1st (excl) Person Plural,43122,,,,lele1267,lecrampe-2014
+-ŋam,,1pl_o,1st (excl) Person Plural,43121,,,,lele1267,lecrampe-2014
+aŋnem,,1pl_p,1st (excl) Person Plural,43120,,,,lele1267,lecrampe-2014
+ta-,,12du_a,1st (incl) Person Dual,43119,,,,lele1267,lecrampe-2014
+ta-,,12du_s,1st (incl) Person Dual,43118,,,,lele1267,lecrampe-2014
+-,,12du_o,1st (incl) Person Dual,43117,,,,lele1267,lecrampe-2014
+aŋinta,,12du_p,1st (incl) Person Dual,43116,,,,lele1267,lecrampe-2014
+kinta,,12pl_a,1st (incl) Person Plural,43115,,,,lele1267,lecrampe-2014
+kinta,,12pl_s,1st (incl) Person Plural,43114,,,,lele1267,lecrampe-2014
+-ŋta,,12pl_o,1st (incl) Person Plural,43113,,,,lele1267,lecrampe-2014
+aŋinta,,12pl_p,1st (incl) Person Plural,43112,,,,lele1267,lecrampe-2014
+naŋ,,2sg_a,2nd Person Singular,43111,,,,lele1267,lecrampe-2014
+naŋ,,2sg_s,2nd Person Singular,43110,,,,lele1267,lecrampe-2014
+-ko,,2sg_o,2nd Person Singular,43109,,,,lele1267,lecrampe-2014
+naŋ,,2sg_p,2nd Person Singular,43108,,,,lele1267,lecrampe-2014
+kar-,,2du_a,2nd Person Dual,43107,,,,lele1267,lecrampe-2014
+kar-,,2du_s,2nd Person Dual,43106,,,,lele1267,lecrampe-2014
+-,,2du_o,2nd Person Dual,43105,,,,lele1267,lecrampe-2014
+aŋmu,,2du_p,2nd Person Dual,43104,,,,lele1267,lecrampe-2014
+kumu,,2pl_a,2nd Person Plural,43103,,,,lele1267,lecrampe-2014
+kumu,,2pl_s,2nd Person Plural,43102,,,,lele1267,lecrampe-2014
+-,,2pl_o,2nd Person Plural,43101,,,,lele1267,lecrampe-2014
+aŋmu,,2pl_p,2nd Person Plural,43100,,,,lele1267,lecrampe-2014
+nae,,3sg_m_a,3rd Person Singular Masculine,43099,,,,lele1267,lecrampe-2014
+nae,,3sg_m_s,3rd Person Singular Masculine,43098,,,,lele1267,lecrampe-2014
+-ia,,3sg_m_o,3rd Person Singular Masculine,43097,,,,lele1267,lecrampe-2014
+nae,,3sg_m_p,3rd Person Singular Masculine,43096,,,,lele1267,lecrampe-2014
+ar-,,3d-a,3rd Person Dual,43095,,,,lele1267,lecrampe-2014
+ar-,,3d-s,3rd Person Dual,43094,,,,lele1267,lecrampe-2014
+-,,3d-o,3rd Person Dual,43093,,,,lele1267,lecrampe-2014
+naara,,3d-p,3rd Person Dual,43092,,,,lele1267,lecrampe-2014
+naara,,3p-a,3rd Person Plural,43091,,,,lele1267,lecrampe-2014
+naara,,3p-s,3rd Person Plural,43090,,,,lele1267,lecrampe-2014
+-ra,,3p-o,3rd Person Plural,43089,,,,lele1267,lecrampe-2014
+naara,,3p-p,3rd Person Plural,43088,,,,lele1267,lecrampe-2014

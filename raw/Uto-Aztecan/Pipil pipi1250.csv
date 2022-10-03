@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-naha;;1sg_a;1st (excl) Person Singular;46070;;;;pipi1250;campbell-1985
-naha;;1sg_s;1st (excl) Person Singular;46069;;;;pipi1250;campbell-1985
-naha;;1sg_o;1st (excl) Person Singular;46068;;;;pipi1250;campbell-1985
-nu-;;1sg_p;1st (excl) Person Singular;46067;;;;pipi1250;campbell-1985
-tehemet;;1du_a;1st (excl) Person Dual;46066;;;;pipi1250;campbell-1985
-tehemet;;1du_s;1st (excl) Person Dual;46065;;;;pipi1250;campbell-1985
-tehemet;;1du_o;1st (excl) Person Dual;46064;;;;pipi1250;campbell-1985
-tu-;;1du_p;1st (excl) Person Dual;46063;;;;pipi1250;campbell-1985
-tehemet;;1pl_a;1st (excl) Person Plural;46062;;;;pipi1250;campbell-1985
-tehemet;;1pl_s;1st (excl) Person Plural;46061;;;;pipi1250;campbell-1985
-tehemet;;1pl_o;1st (excl) Person Plural;46060;;;;pipi1250;campbell-1985
-tu-;;1pl_p;1st (excl) Person Plural;46059;;;;pipi1250;campbell-1985
-tehemet;;12du_a;1st (incl) Person Dual;46058;;;;pipi1250;campbell-1985
-tehemet;;12du_s;1st (incl) Person Dual;46057;;;;pipi1250;campbell-1985
-tehemet;;12du_o;1st (incl) Person Dual;46056;;;;pipi1250;campbell-1985
-tu-;;12du_p;1st (incl) Person Dual;46055;;;;pipi1250;campbell-1985
-tehemet;;12pl_a;1st (incl) Person Plural;46054;;;;pipi1250;campbell-1985
-tehemet;;12pl_s;1st (incl) Person Plural;46053;;;;pipi1250;campbell-1985
-tehemet;;12pl_o;1st (incl) Person Plural;46052;;;;pipi1250;campbell-1985
-tu-;;12pl_p;1st (incl) Person Plural;46051;;;;pipi1250;campbell-1985
-taha;;2sg_a;2nd Person Singular;46050;;;;pipi1250;campbell-1985
-taha;;2sg_s;2nd Person Singular;46049;;;;pipi1250;campbell-1985
-taha;;2sg_o;2nd Person Singular;46048;;;;pipi1250;campbell-1985
-mu-;;2sg_p;2nd Person Singular;46047;;;;pipi1250;campbell-1985
-amehemet;;2du_a;2nd Person Dual;46046;;The form 'anehemet' is also listed (Campbell 1985:53).;;pipi1250;campbell-1985
-amehemet;;2du_s;2nd Person Dual;46045;;The form 'anehemet' is also listed (Campbell 1985:53).;;pipi1250;campbell-1985
-amehemet;;2du_o;2nd Person Dual;46044;;The form 'anehemet' is also listed (Campbell 1985:53).;;pipi1250;campbell-1985
-anmu-;;2du_p;2nd Person Dual;46043;;;;pipi1250;campbell-1985
-amehemet;;2pl_a;2nd Person Plural;46042;;The form 'anehemet' is also listed (Campbell 1985:53).;;pipi1250;campbell-1985
-amehemet;;2pl_s;2nd Person Plural;46041;;The form 'anehemet' is also listed (Campbell 1985:53).;;pipi1250;campbell-1985
-amehemet;;2pl_o;2nd Person Plural;46040;;The form 'anehemet' is also listed (Campbell 1985:53).;;pipi1250;campbell-1985
-anmu-;;2pl_p;2nd Person Plural;46039;;;;pipi1250;campbell-1985
-yaha;;3sg_m_a;3rd Person Singular Masculine;46038;;;;pipi1250;campbell-1985
-yaha;;3sg_m_s;3rd Person Singular Masculine;46037;;;;pipi1250;campbell-1985
-yaha;;3sg_m_o;3rd Person Singular Masculine;46036;;;;pipi1250;campbell-1985
-i-;;3sg_m_p;3rd Person Singular Masculine;46035;;;;pipi1250;campbell-1985
-yaha;;3sg_n_a;3rd Person Singular Neuter;46034;;;;pipi1250;campbell-1985
-yaha;;3sg_n_s;3rd Person Singular Neuter;46033;;;;pipi1250;campbell-1985
-yaha;;3sg_n_o;3rd Person Singular Neuter;46032;;;;pipi1250;campbell-1985
-i-;;3sg_n_p;3rd Person Singular Neuter;46031;;;;pipi1250;campbell-1985
-yehemet;;3d-a;3rd Person Dual;46030;;;;pipi1250;campbell-1985
-yehemet;;3d-s;3rd Person Dual;46029;;;;pipi1250;campbell-1985
-yehemet;;3d-o;3rd Person Dual;46028;;;;pipi1250;campbell-1985
-in-;;3d-p;3rd Person Dual;46027;;;;pipi1250;campbell-1985
-yehemet;;3p-a;3rd Person Plural;46026;;;;pipi1250;campbell-1985
-yehemet;;3p-s;3rd Person Plural;46025;;;;pipi1250;campbell-1985
-yehemet;;3p-o;3rd Person Plural;46024;;;;pipi1250;campbell-1985
-in-;;3p-p;3rd Person Plural;46023;;;;pipi1250;campbell-1985
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+naha,,1sg_a,1st (excl) Person Singular,46070,,,,pipi1250,campbell-1985
+naha,,1sg_s,1st (excl) Person Singular,46069,,,,pipi1250,campbell-1985
+naha,,1sg_o,1st (excl) Person Singular,46068,,,,pipi1250,campbell-1985
+nu-,,1sg_p,1st (excl) Person Singular,46067,,,,pipi1250,campbell-1985
+tehemet,,1du_a,1st (excl) Person Dual,46066,,,,pipi1250,campbell-1985
+tehemet,,1du_s,1st (excl) Person Dual,46065,,,,pipi1250,campbell-1985
+tehemet,,1du_o,1st (excl) Person Dual,46064,,,,pipi1250,campbell-1985
+tu-,,1du_p,1st (excl) Person Dual,46063,,,,pipi1250,campbell-1985
+tehemet,,1pl_a,1st (excl) Person Plural,46062,,,,pipi1250,campbell-1985
+tehemet,,1pl_s,1st (excl) Person Plural,46061,,,,pipi1250,campbell-1985
+tehemet,,1pl_o,1st (excl) Person Plural,46060,,,,pipi1250,campbell-1985
+tu-,,1pl_p,1st (excl) Person Plural,46059,,,,pipi1250,campbell-1985
+tehemet,,12du_a,1st (incl) Person Dual,46058,,,,pipi1250,campbell-1985
+tehemet,,12du_s,1st (incl) Person Dual,46057,,,,pipi1250,campbell-1985
+tehemet,,12du_o,1st (incl) Person Dual,46056,,,,pipi1250,campbell-1985
+tu-,,12du_p,1st (incl) Person Dual,46055,,,,pipi1250,campbell-1985
+tehemet,,12pl_a,1st (incl) Person Plural,46054,,,,pipi1250,campbell-1985
+tehemet,,12pl_s,1st (incl) Person Plural,46053,,,,pipi1250,campbell-1985
+tehemet,,12pl_o,1st (incl) Person Plural,46052,,,,pipi1250,campbell-1985
+tu-,,12pl_p,1st (incl) Person Plural,46051,,,,pipi1250,campbell-1985
+taha,,2sg_a,2nd Person Singular,46050,,,,pipi1250,campbell-1985
+taha,,2sg_s,2nd Person Singular,46049,,,,pipi1250,campbell-1985
+taha,,2sg_o,2nd Person Singular,46048,,,,pipi1250,campbell-1985
+mu-,,2sg_p,2nd Person Singular,46047,,,,pipi1250,campbell-1985
+amehemet,,2du_a,2nd Person Dual,46046,,The form 'anehemet' is also listed (Campbell 1985:53).,,pipi1250,campbell-1985
+amehemet,,2du_s,2nd Person Dual,46045,,The form 'anehemet' is also listed (Campbell 1985:53).,,pipi1250,campbell-1985
+amehemet,,2du_o,2nd Person Dual,46044,,The form 'anehemet' is also listed (Campbell 1985:53).,,pipi1250,campbell-1985
+anmu-,,2du_p,2nd Person Dual,46043,,,,pipi1250,campbell-1985
+amehemet,,2pl_a,2nd Person Plural,46042,,The form 'anehemet' is also listed (Campbell 1985:53).,,pipi1250,campbell-1985
+amehemet,,2pl_s,2nd Person Plural,46041,,The form 'anehemet' is also listed (Campbell 1985:53).,,pipi1250,campbell-1985
+amehemet,,2pl_o,2nd Person Plural,46040,,The form 'anehemet' is also listed (Campbell 1985:53).,,pipi1250,campbell-1985
+anmu-,,2pl_p,2nd Person Plural,46039,,,,pipi1250,campbell-1985
+yaha,,3sg_m_a,3rd Person Singular Masculine,46038,,,,pipi1250,campbell-1985
+yaha,,3sg_m_s,3rd Person Singular Masculine,46037,,,,pipi1250,campbell-1985
+yaha,,3sg_m_o,3rd Person Singular Masculine,46036,,,,pipi1250,campbell-1985
+i-,,3sg_m_p,3rd Person Singular Masculine,46035,,,,pipi1250,campbell-1985
+yaha,,3sg_n_a,3rd Person Singular Neuter,46034,,,,pipi1250,campbell-1985
+yaha,,3sg_n_s,3rd Person Singular Neuter,46033,,,,pipi1250,campbell-1985
+yaha,,3sg_n_o,3rd Person Singular Neuter,46032,,,,pipi1250,campbell-1985
+i-,,3sg_n_p,3rd Person Singular Neuter,46031,,,,pipi1250,campbell-1985
+yehemet,,3d-a,3rd Person Dual,46030,,,,pipi1250,campbell-1985
+yehemet,,3d-s,3rd Person Dual,46029,,,,pipi1250,campbell-1985
+yehemet,,3d-o,3rd Person Dual,46028,,,,pipi1250,campbell-1985
+in-,,3d-p,3rd Person Dual,46027,,,,pipi1250,campbell-1985
+yehemet,,3p-a,3rd Person Plural,46026,,,,pipi1250,campbell-1985
+yehemet,,3p-s,3rd Person Plural,46025,,,,pipi1250,campbell-1985
+yehemet,,3p-o,3rd Person Plural,46024,,,,pipi1250,campbell-1985
+in-,,3p-p,3rd Person Plural,46023,,,,pipi1250,campbell-1985

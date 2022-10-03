@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-iou;;1sg_a;1st (excl) Person Singular;50626;;;;kwam1252;lindstrom-and-lynch-1994
-iou;;1sg_s;1st (excl) Person Singular;50625;;;;kwam1252;lindstrom-and-lynch-1994
-iou;;1sg_o;1st (excl) Person Singular;50624;;;;kwam1252;lindstrom-and-lynch-1994
--k;;1sg_p;1st (excl) Person Singular;50623;;;;kwam1252;lindstrom-and-lynch-1994
-kɨmɾau;;1du_a;1st (excl) Person Dual;50622;;;;kwam1252;lindstrom-and-lynch-1994
-kɨmɾau;;1du_s;1st (excl) Person Dual;50621;;;;kwam1252;lindstrom-and-lynch-1994
-kɨmɾau;;1du_o;1st (excl) Person Dual;50620;;;;kwam1252;lindstrom-and-lynch-1994
--mɾau;;1du_p;1st (excl) Person Dual;50619;;;;kwam1252;lindstrom-and-lynch-1994
-kɨmaha;;1pl_a;1st (excl) Person Plural;50618;;;;kwam1252;lindstrom-and-lynch-1994
-kɨmaha;;1pl_s;1st (excl) Person Plural;50617;;;;kwam1252;lindstrom-and-lynch-1994
-kɨmaha;;1pl_o;1st (excl) Person Plural;50616;;;;kwam1252;lindstrom-and-lynch-1994
--maha;;1pl_p;1st (excl) Person Plural;50615;;;;kwam1252;lindstrom-and-lynch-1994
-kɾau;;12du_a;1st (incl) Person Dual;50614;;;;kwam1252;lindstrom-and-lynch-1994
-kɾau;;12du_s;1st (incl) Person Dual;50613;;;;kwam1252;lindstrom-and-lynch-1994
-kɾau;;12du_o;1st (incl) Person Dual;50612;;;;kwam1252;lindstrom-and-lynch-1994
--rau;;12du_p;1st (incl) Person Dual;50611;;;;kwam1252;lindstrom-and-lynch-1994
-kɨtaha;;12pl_a;1st (incl) Person Plural;50610;;;;kwam1252;lindstrom-and-lynch-1994
-kɨtaha;;12pl_s;1st (incl) Person Plural;50609;;;;kwam1252;lindstrom-and-lynch-1994
-kɨtaha;;12pl_o;1st (incl) Person Plural;50608;;;;kwam1252;lindstrom-and-lynch-1994
--taha;;12pl_p;1st (incl) Person Plural;50607;;;;kwam1252;lindstrom-and-lynch-1994
-ik;;2sg_a;2nd Person Singular;50606;;;;kwam1252;lindstrom-and-lynch-1994
-ik;;2sg_s;2nd Person Singular;50605;;;;kwam1252;lindstrom-and-lynch-1994
-ik;;2sg_o;2nd Person Singular;50604;;;;kwam1252;lindstrom-and-lynch-1994
--m;;2sg_p;2nd Person Singular;50603;;;;kwam1252;lindstrom-and-lynch-1994
-kɨmiɾau;;2du_a;2nd Person Dual;50602;;;;kwam1252;lindstrom-and-lynch-1994
-kɨmiɾau;;2du_s;2nd Person Dual;50601;;;;kwam1252;lindstrom-and-lynch-1994
-kɨmiɾau;;2du_o;2nd Person Dual;50600;;;;kwam1252;lindstrom-and-lynch-1994
--miɾau;;2du_p;2nd Person Dual;50599;;;;kwam1252;lindstrom-and-lynch-1994
-kɨmiaha;;2pl_a;2nd Person Plural;50598;;;;kwam1252;lindstrom-and-lynch-1994
-kɨmiaha;;2pl_s;2nd Person Plural;50597;;;;kwam1252;lindstrom-and-lynch-1994
-kɨmiaha;;2pl_o;2nd Person Plural;50596;;;;kwam1252;lindstrom-and-lynch-1994
--miaha;;2pl_p;2nd Person Plural;50595;;;;kwam1252;lindstrom-and-lynch-1994
-in;;3sg_m_a;3rd Person Singular Masculine;50594;;;;kwam1252;lindstrom-and-lynch-1994
-in;;3sg_m_s;3rd Person Singular Masculine;50593;;;;kwam1252;lindstrom-and-lynch-1994
-in;;3sg_m_o;3rd Person Singular Masculine;50592;;;;kwam1252;lindstrom-and-lynch-1994
--ni;;3sg_m_p;3rd Person Singular Masculine;50591;;The form /-n/ is also listed (LIndstrom et al. 1994:6).;;kwam1252;lindstrom-and-lynch-1994
-in;;3sg_n_a;3rd Person Singular Neuter;50590;;;;kwam1252;lindstrom-and-lynch-1994
-in;;3sg_n_s;3rd Person Singular Neuter;50589;;;;kwam1252;lindstrom-and-lynch-1994
-in;;3sg_n_o;3rd Person Singular Neuter;50588;;;;kwam1252;lindstrom-and-lynch-1994
--ni;;3sg_n_p;3rd Person Singular Neuter;50587;;The form /-n/ is also listed (LIndstrom et al. 1994:6).;;kwam1252;lindstrom-and-lynch-1994
-iɾau;;3d-a;3rd Person Dual;50586;;;;kwam1252;lindstrom-and-lynch-1994
-iɾau;;3d-s;3rd Person Dual;50585;;;;kwam1252;lindstrom-and-lynch-1994
-iɾau;;3d-o;3rd Person Dual;50584;;;;kwam1252;lindstrom-and-lynch-1994
--nɾau;;3d-p;3rd Person Dual;50583;;;;kwam1252;lindstrom-and-lynch-1994
-iɾaha;;3p-a;3rd Person Plural;50582;;;;kwam1252;lindstrom-and-lynch-1994
-iɾaha;;3p-s;3rd Person Plural;50581;;;;kwam1252;lindstrom-and-lynch-1994
-iɾaha;;3p-o;3rd Person Plural;50580;;;;kwam1252;lindstrom-and-lynch-1994
--nɾaha;;3p-p;3rd Person Plural;50579;;;;kwam1252;lindstrom-and-lynch-1994
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+iou,,1sg_a,1st (excl) Person Singular,50626,,,,kwam1252,lindstrom-and-lynch-1994
+iou,,1sg_s,1st (excl) Person Singular,50625,,,,kwam1252,lindstrom-and-lynch-1994
+iou,,1sg_o,1st (excl) Person Singular,50624,,,,kwam1252,lindstrom-and-lynch-1994
+-k,,1sg_p,1st (excl) Person Singular,50623,,,,kwam1252,lindstrom-and-lynch-1994
+kɨmɾau,,1du_a,1st (excl) Person Dual,50622,,,,kwam1252,lindstrom-and-lynch-1994
+kɨmɾau,,1du_s,1st (excl) Person Dual,50621,,,,kwam1252,lindstrom-and-lynch-1994
+kɨmɾau,,1du_o,1st (excl) Person Dual,50620,,,,kwam1252,lindstrom-and-lynch-1994
+-mɾau,,1du_p,1st (excl) Person Dual,50619,,,,kwam1252,lindstrom-and-lynch-1994
+kɨmaha,,1pl_a,1st (excl) Person Plural,50618,,,,kwam1252,lindstrom-and-lynch-1994
+kɨmaha,,1pl_s,1st (excl) Person Plural,50617,,,,kwam1252,lindstrom-and-lynch-1994
+kɨmaha,,1pl_o,1st (excl) Person Plural,50616,,,,kwam1252,lindstrom-and-lynch-1994
+-maha,,1pl_p,1st (excl) Person Plural,50615,,,,kwam1252,lindstrom-and-lynch-1994
+kɾau,,12du_a,1st (incl) Person Dual,50614,,,,kwam1252,lindstrom-and-lynch-1994
+kɾau,,12du_s,1st (incl) Person Dual,50613,,,,kwam1252,lindstrom-and-lynch-1994
+kɾau,,12du_o,1st (incl) Person Dual,50612,,,,kwam1252,lindstrom-and-lynch-1994
+-rau,,12du_p,1st (incl) Person Dual,50611,,,,kwam1252,lindstrom-and-lynch-1994
+kɨtaha,,12pl_a,1st (incl) Person Plural,50610,,,,kwam1252,lindstrom-and-lynch-1994
+kɨtaha,,12pl_s,1st (incl) Person Plural,50609,,,,kwam1252,lindstrom-and-lynch-1994
+kɨtaha,,12pl_o,1st (incl) Person Plural,50608,,,,kwam1252,lindstrom-and-lynch-1994
+-taha,,12pl_p,1st (incl) Person Plural,50607,,,,kwam1252,lindstrom-and-lynch-1994
+ik,,2sg_a,2nd Person Singular,50606,,,,kwam1252,lindstrom-and-lynch-1994
+ik,,2sg_s,2nd Person Singular,50605,,,,kwam1252,lindstrom-and-lynch-1994
+ik,,2sg_o,2nd Person Singular,50604,,,,kwam1252,lindstrom-and-lynch-1994
+-m,,2sg_p,2nd Person Singular,50603,,,,kwam1252,lindstrom-and-lynch-1994
+kɨmiɾau,,2du_a,2nd Person Dual,50602,,,,kwam1252,lindstrom-and-lynch-1994
+kɨmiɾau,,2du_s,2nd Person Dual,50601,,,,kwam1252,lindstrom-and-lynch-1994
+kɨmiɾau,,2du_o,2nd Person Dual,50600,,,,kwam1252,lindstrom-and-lynch-1994
+-miɾau,,2du_p,2nd Person Dual,50599,,,,kwam1252,lindstrom-and-lynch-1994
+kɨmiaha,,2pl_a,2nd Person Plural,50598,,,,kwam1252,lindstrom-and-lynch-1994
+kɨmiaha,,2pl_s,2nd Person Plural,50597,,,,kwam1252,lindstrom-and-lynch-1994
+kɨmiaha,,2pl_o,2nd Person Plural,50596,,,,kwam1252,lindstrom-and-lynch-1994
+-miaha,,2pl_p,2nd Person Plural,50595,,,,kwam1252,lindstrom-and-lynch-1994
+in,,3sg_m_a,3rd Person Singular Masculine,50594,,,,kwam1252,lindstrom-and-lynch-1994
+in,,3sg_m_s,3rd Person Singular Masculine,50593,,,,kwam1252,lindstrom-and-lynch-1994
+in,,3sg_m_o,3rd Person Singular Masculine,50592,,,,kwam1252,lindstrom-and-lynch-1994
+-ni,,3sg_m_p,3rd Person Singular Masculine,50591,,The form /-n/ is also listed (LIndstrom et al. 1994:6).,,kwam1252,lindstrom-and-lynch-1994
+in,,3sg_n_a,3rd Person Singular Neuter,50590,,,,kwam1252,lindstrom-and-lynch-1994
+in,,3sg_n_s,3rd Person Singular Neuter,50589,,,,kwam1252,lindstrom-and-lynch-1994
+in,,3sg_n_o,3rd Person Singular Neuter,50588,,,,kwam1252,lindstrom-and-lynch-1994
+-ni,,3sg_n_p,3rd Person Singular Neuter,50587,,The form /-n/ is also listed (LIndstrom et al. 1994:6).,,kwam1252,lindstrom-and-lynch-1994
+iɾau,,3d-a,3rd Person Dual,50586,,,,kwam1252,lindstrom-and-lynch-1994
+iɾau,,3d-s,3rd Person Dual,50585,,,,kwam1252,lindstrom-and-lynch-1994
+iɾau,,3d-o,3rd Person Dual,50584,,,,kwam1252,lindstrom-and-lynch-1994
+-nɾau,,3d-p,3rd Person Dual,50583,,,,kwam1252,lindstrom-and-lynch-1994
+iɾaha,,3p-a,3rd Person Plural,50582,,,,kwam1252,lindstrom-and-lynch-1994
+iɾaha,,3p-s,3rd Person Plural,50581,,,,kwam1252,lindstrom-and-lynch-1994
+iɾaha,,3p-o,3rd Person Plural,50580,,,,kwam1252,lindstrom-and-lynch-1994
+-nɾaha,,3p-p,3rd Person Plural,50579,,,,kwam1252,lindstrom-and-lynch-1994

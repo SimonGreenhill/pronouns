@@ -1,37 +1,37 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-niŋ;;1sg_a;1st (excl) Person Singular;40914;;;;naas1242;rausch-1912
-niŋ;;1sg_s;1st (excl) Person Singular;40913;;;;naas1242;rausch-1912
-niŋ;;1sg_o;1st (excl) Person Singular;40912;;;;naas1242;rausch-1912
-n-;;1sg_p;1st (excl) Person Singular;40911;;;;naas1242;onishi-2004
-neeʔ;;1du_a;1st (excl) Person Dual;40910;;;;naas1242;onishi-2004
-neeʔ;;1du_s;1st (excl) Person Dual;40909;;;;naas1242;onishi-2004
-neeʔ;;1du_o;1st (excl) Person Dual;40908;;;;naas1242;onishi-2004
-nee-;;1du_p;1st (excl) Person Dual;40907;;;;naas1242;onishi-2004
-niiʔ;;1pl_a;1st (excl) Person Plural;40906;;;;naas1242;onishi-2004
-niiʔ;;1pl_s;1st (excl) Person Plural;40905;;;;naas1242;onishi-2004
-niiʔ;;1pl_o;1st (excl) Person Plural;40904;;;;naas1242;onishi-2004
-nii-;;1pl_p;1st (excl) Person Plural;40903;;;;naas1242;onishi-2004
-neeʔ;;12du_a;1st (incl) Person Dual;40902;;;;naas1242;onishi-2004
-neeʔ;;12du_s;1st (incl) Person Dual;40901;;;;naas1242;onishi-2004
-neeʔ;;12du_o;1st (incl) Person Dual;40900;;;;naas1242;onishi-2004
-nee-;;12du_p;1st (incl) Person Dual;40899;;;;naas1242;onishi-2004
-niiʔ;;12pl_a;1st (incl) Person Plural;40898;;;;naas1242;onishi-2004
-niiʔ;;12pl_s;1st (incl) Person Plural;40897;;;;naas1242;onishi-2004
-niiʔ;;12pl_o;1st (incl) Person Plural;40896;;;;naas1242;onishi-2004
-nii-;;12pl_p;1st (incl) Person Plural;40895;;;;naas1242;onishi-2004
-daʔ;;2sg_a;2nd Person Singular;40894;;;;naas1242;onishi-2004
-daʔ;;2sg_s;2nd Person Singular;40893;;;;naas1242;onishi-2004
-daʔ;;2sg_o;2nd Person Singular;40892;;;;naas1242;onishi-2004
-da-;;2sg_p;2nd Person Singular;40891;;;;naas1242;onishi-2004
-deeʔ;;2du_a;2nd Person Dual;40890;;;;naas1242;onishi-2004
-deeʔ;;2du_s;2nd Person Dual;40889;;;;naas1242;onishi-2004
-deeʔ;;2du_o;2nd Person Dual;40888;;;;naas1242;onishi-2004
-dee-;;2du_p;2nd Person Dual;40887;;;;naas1242;onishi-2004
-diiʔ;;2pl_a;2nd Person Plural;40886;;;;naas1242;onishi-2004
-diiʔ;;2pl_s;2nd Person Plural;40885;;;;naas1242;onishi-2004
-diiʔ;;2pl_o;2nd Person Plural;40884;;;;naas1242;onishi-2004
-dii-;;2pl_p;2nd Person Plural;40883;;;;naas1242;onishi-2004
-ba-;;3sg_m_p;3rd Person Singular Masculine;40879;;;;naas1242;onishi-2004
-ba-;;3sg_n_p;3rd Person Singular Neuter;40875;;;;naas1242;onishi-2004
-bee-;;3d-p;3rd Person Dual;40871;;;;naas1242;onishi-2004
-bii-;;3p-p;3rd Person Plural;40867;;;;naas1242;onishi-2004
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+niŋ,,1sg_a,1st (excl) Person Singular,40914,,,,naas1242,rausch-1912
+niŋ,,1sg_s,1st (excl) Person Singular,40913,,,,naas1242,rausch-1912
+niŋ,,1sg_o,1st (excl) Person Singular,40912,,,,naas1242,rausch-1912
+n-,,1sg_p,1st (excl) Person Singular,40911,,,,naas1242,onishi-2004
+neeʔ,,1du_a,1st (excl) Person Dual,40910,,,,naas1242,onishi-2004
+neeʔ,,1du_s,1st (excl) Person Dual,40909,,,,naas1242,onishi-2004
+neeʔ,,1du_o,1st (excl) Person Dual,40908,,,,naas1242,onishi-2004
+nee-,,1du_p,1st (excl) Person Dual,40907,,,,naas1242,onishi-2004
+niiʔ,,1pl_a,1st (excl) Person Plural,40906,,,,naas1242,onishi-2004
+niiʔ,,1pl_s,1st (excl) Person Plural,40905,,,,naas1242,onishi-2004
+niiʔ,,1pl_o,1st (excl) Person Plural,40904,,,,naas1242,onishi-2004
+nii-,,1pl_p,1st (excl) Person Plural,40903,,,,naas1242,onishi-2004
+neeʔ,,12du_a,1st (incl) Person Dual,40902,,,,naas1242,onishi-2004
+neeʔ,,12du_s,1st (incl) Person Dual,40901,,,,naas1242,onishi-2004
+neeʔ,,12du_o,1st (incl) Person Dual,40900,,,,naas1242,onishi-2004
+nee-,,12du_p,1st (incl) Person Dual,40899,,,,naas1242,onishi-2004
+niiʔ,,12pl_a,1st (incl) Person Plural,40898,,,,naas1242,onishi-2004
+niiʔ,,12pl_s,1st (incl) Person Plural,40897,,,,naas1242,onishi-2004
+niiʔ,,12pl_o,1st (incl) Person Plural,40896,,,,naas1242,onishi-2004
+nii-,,12pl_p,1st (incl) Person Plural,40895,,,,naas1242,onishi-2004
+daʔ,,2sg_a,2nd Person Singular,40894,,,,naas1242,onishi-2004
+daʔ,,2sg_s,2nd Person Singular,40893,,,,naas1242,onishi-2004
+daʔ,,2sg_o,2nd Person Singular,40892,,,,naas1242,onishi-2004
+da-,,2sg_p,2nd Person Singular,40891,,,,naas1242,onishi-2004
+deeʔ,,2du_a,2nd Person Dual,40890,,,,naas1242,onishi-2004
+deeʔ,,2du_s,2nd Person Dual,40889,,,,naas1242,onishi-2004
+deeʔ,,2du_o,2nd Person Dual,40888,,,,naas1242,onishi-2004
+dee-,,2du_p,2nd Person Dual,40887,,,,naas1242,onishi-2004
+diiʔ,,2pl_a,2nd Person Plural,40886,,,,naas1242,onishi-2004
+diiʔ,,2pl_s,2nd Person Plural,40885,,,,naas1242,onishi-2004
+diiʔ,,2pl_o,2nd Person Plural,40884,,,,naas1242,onishi-2004
+dii-,,2pl_p,2nd Person Plural,40883,,,,naas1242,onishi-2004
+ba-,,3sg_m_p,3rd Person Singular Masculine,40879,,,,naas1242,onishi-2004
+ba-,,3sg_n_p,3rd Person Singular Neuter,40875,,,,naas1242,onishi-2004
+bee-,,3d-p,3rd Person Dual,40871,,,,naas1242,onishi-2004
+bii-,,3p-p,3rd Person Plural,40867,,,,naas1242,onishi-2004

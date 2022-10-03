@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-didif;;1sg_a;1st (excl) Person Singular;40305;;;;meya1236;gravelle-2004
-didif;;1sg_s;1st (excl) Person Singular;40304;;;;meya1236;gravelle-2004
-didif;;1sg_o;1st (excl) Person Singular;40303;;;;meya1236;gravelle-2004
-dedin;;1sg_p;1st (excl) Person Singular;40302;;;;meya1236;gravelle-2004
-magif;;1du_a;1st (excl) Person Dual;40301;;;;meya1236;gravelle-2004
-magif;;1du_s;1st (excl) Person Dual;40300;;;;meya1236;gravelle-2004
-magif;;1du_o;1st (excl) Person Dual;40299;;;;meya1236;gravelle-2004
-mafman;;1du_p;1st (excl) Person Dual;40298;;;;meya1236;gravelle-2004
-memef;;1pl_a;1st (excl) Person Plural;40297;;;;meya1236;gravelle-2004
-memef;;1pl_s;1st (excl) Person Plural;40296;;;;meya1236;gravelle-2004
-memef;;1pl_o;1st (excl) Person Plural;40295;;;;meya1236;gravelle-2004
-mefmen;;1pl_p;1st (excl) Person Plural;40294;;;;meya1236;gravelle-2004
-nagif;;12du_a;1st (incl) Person Dual;40293;;;;meya1236;gravelle-2004
-nagif;;12du_s;1st (incl) Person Dual;40292;;;;meya1236;gravelle-2004
-nagif;;12du_o;1st (incl) Person Dual;40291;;;;meya1236;gravelle-2004
-nafnan;;12du_p;1st (incl) Person Dual;40290;;;;meya1236;gravelle-2004
-mimif;;12pl_a;1st (incl) Person Plural;40289;;;;meya1236;gravelle-2004
-mimif;;12pl_s;1st (incl) Person Plural;40288;;;;meya1236;gravelle-2004
-mimif;;12pl_o;1st (incl) Person Plural;40287;;;;meya1236;gravelle-2004
-mifmin;;12pl_p;1st (incl) Person Plural;40286;;;;meya1236;gravelle-2004
-bua;;2sg_a;2nd Person Singular;40285;;;;meya1236;gravelle-2004
-bua;;2sg_s;2nd Person Singular;40284;;;;meya1236;gravelle-2004
-bua;;2sg_o;2nd Person Singular;40283;;;;meya1236;gravelle-2004
-bebin;;2sg_p;2nd Person Singular;40282;;;;meya1236;gravelle-2004
-goga;;2du_a;2nd Person Dual;40281;;;;meya1236;gravelle-2004
-goga;;2du_s;2nd Person Dual;40280;;;;meya1236;gravelle-2004
-goga;;2du_o;2nd Person Dual;40279;;;;meya1236;gravelle-2004
-gegan;;2du_p;2nd Person Dual;40278;;;;meya1236;gravelle-2004
-iwa;;2pl_a;2nd Person Plural;40277;;;;meya1236;gravelle-2004
-iwa;;2pl_s;2nd Person Plural;40276;;;;meya1236;gravelle-2004
-iwa;;2pl_o;2nd Person Plural;40275;;;;meya1236;gravelle-2004
-yeyin;;2pl_p;2nd Person Plural;40274;;;;meya1236;gravelle-2004
-ofa;;3sg_m_a;3rd Person Singular Masculine;40273;;;;meya1236;gravelle-2004
-ofa;;3sg_m_s;3rd Person Singular Masculine;40272;;;;meya1236;gravelle-2004
-ofa;;3sg_m_o;3rd Person Singular Masculine;40271;;;;meya1236;gravelle-2004
-efen;;3sg_m_p;3rd Person Singular Masculine;40270;;;;meya1236;gravelle-2004
-ofa;;3sg_n_a;3rd Person Singular Neuter;40269;;;;meya1236;gravelle-2004
-ofa;;3sg_n_s;3rd Person Singular Neuter;40268;;;;meya1236;gravelle-2004
-ofa;;3sg_n_o;3rd Person Singular Neuter;40267;;;;meya1236;gravelle-2004
-efen;;3sg_n_p;3rd Person Singular Neuter;40266;;;;meya1236;gravelle-2004
-goga;;3d-a;3rd Person Dual;40265;;;;meya1236;gravelle-2004
-goga;;3d-s;3rd Person Dual;40264;;;;meya1236;gravelle-2004
-goga;;3d-o;3rd Person Dual;40263;;;;meya1236;gravelle-2004
-gegan;;3d-p;3rd Person Dual;40262;;;;meya1236;gravelle-2004
-rua;;3p-a;3rd Person Plural;40261;;;;meya1236;gravelle-2004
-rua;;3p-s;3rd Person Plural;40260;;;;meya1236;gravelle-2004
-rua;;3p-o;3rd Person Plural;40259;;;;meya1236;gravelle-2004
-rerin;;3p-p;3rd Person Plural;40258;;;;meya1236;gravelle-2004
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+didif,,1sg_a,1st (excl) Person Singular,40305,,,,meya1236,gravelle-2004
+didif,,1sg_s,1st (excl) Person Singular,40304,,,,meya1236,gravelle-2004
+didif,,1sg_o,1st (excl) Person Singular,40303,,,,meya1236,gravelle-2004
+dedin,,1sg_p,1st (excl) Person Singular,40302,,,,meya1236,gravelle-2004
+magif,,1du_a,1st (excl) Person Dual,40301,,,,meya1236,gravelle-2004
+magif,,1du_s,1st (excl) Person Dual,40300,,,,meya1236,gravelle-2004
+magif,,1du_o,1st (excl) Person Dual,40299,,,,meya1236,gravelle-2004
+mafman,,1du_p,1st (excl) Person Dual,40298,,,,meya1236,gravelle-2004
+memef,,1pl_a,1st (excl) Person Plural,40297,,,,meya1236,gravelle-2004
+memef,,1pl_s,1st (excl) Person Plural,40296,,,,meya1236,gravelle-2004
+memef,,1pl_o,1st (excl) Person Plural,40295,,,,meya1236,gravelle-2004
+mefmen,,1pl_p,1st (excl) Person Plural,40294,,,,meya1236,gravelle-2004
+nagif,,12du_a,1st (incl) Person Dual,40293,,,,meya1236,gravelle-2004
+nagif,,12du_s,1st (incl) Person Dual,40292,,,,meya1236,gravelle-2004
+nagif,,12du_o,1st (incl) Person Dual,40291,,,,meya1236,gravelle-2004
+nafnan,,12du_p,1st (incl) Person Dual,40290,,,,meya1236,gravelle-2004
+mimif,,12pl_a,1st (incl) Person Plural,40289,,,,meya1236,gravelle-2004
+mimif,,12pl_s,1st (incl) Person Plural,40288,,,,meya1236,gravelle-2004
+mimif,,12pl_o,1st (incl) Person Plural,40287,,,,meya1236,gravelle-2004
+mifmin,,12pl_p,1st (incl) Person Plural,40286,,,,meya1236,gravelle-2004
+bua,,2sg_a,2nd Person Singular,40285,,,,meya1236,gravelle-2004
+bua,,2sg_s,2nd Person Singular,40284,,,,meya1236,gravelle-2004
+bua,,2sg_o,2nd Person Singular,40283,,,,meya1236,gravelle-2004
+bebin,,2sg_p,2nd Person Singular,40282,,,,meya1236,gravelle-2004
+goga,,2du_a,2nd Person Dual,40281,,,,meya1236,gravelle-2004
+goga,,2du_s,2nd Person Dual,40280,,,,meya1236,gravelle-2004
+goga,,2du_o,2nd Person Dual,40279,,,,meya1236,gravelle-2004
+gegan,,2du_p,2nd Person Dual,40278,,,,meya1236,gravelle-2004
+iwa,,2pl_a,2nd Person Plural,40277,,,,meya1236,gravelle-2004
+iwa,,2pl_s,2nd Person Plural,40276,,,,meya1236,gravelle-2004
+iwa,,2pl_o,2nd Person Plural,40275,,,,meya1236,gravelle-2004
+yeyin,,2pl_p,2nd Person Plural,40274,,,,meya1236,gravelle-2004
+ofa,,3sg_m_a,3rd Person Singular Masculine,40273,,,,meya1236,gravelle-2004
+ofa,,3sg_m_s,3rd Person Singular Masculine,40272,,,,meya1236,gravelle-2004
+ofa,,3sg_m_o,3rd Person Singular Masculine,40271,,,,meya1236,gravelle-2004
+efen,,3sg_m_p,3rd Person Singular Masculine,40270,,,,meya1236,gravelle-2004
+ofa,,3sg_n_a,3rd Person Singular Neuter,40269,,,,meya1236,gravelle-2004
+ofa,,3sg_n_s,3rd Person Singular Neuter,40268,,,,meya1236,gravelle-2004
+ofa,,3sg_n_o,3rd Person Singular Neuter,40267,,,,meya1236,gravelle-2004
+efen,,3sg_n_p,3rd Person Singular Neuter,40266,,,,meya1236,gravelle-2004
+goga,,3d-a,3rd Person Dual,40265,,,,meya1236,gravelle-2004
+goga,,3d-s,3rd Person Dual,40264,,,,meya1236,gravelle-2004
+goga,,3d-o,3rd Person Dual,40263,,,,meya1236,gravelle-2004
+gegan,,3d-p,3rd Person Dual,40262,,,,meya1236,gravelle-2004
+rua,,3p-a,3rd Person Plural,40261,,,,meya1236,gravelle-2004
+rua,,3p-s,3rd Person Plural,40260,,,,meya1236,gravelle-2004
+rua,,3p-o,3rd Person Plural,40259,,,,meya1236,gravelle-2004
+rerin,,3p-p,3rd Person Plural,40258,,,,meya1236,gravelle-2004

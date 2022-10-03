@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ɨŋkaʔa ;;1sg_a;1st (excl) Person Singular;43706;;;;bant1281;doornenbal-2009
-ɨŋka;;1sg_s;1st (excl) Person Singular;43705;;;;bant1281;doornenbal-2009
-ɨŋka ;;1sg_o;1st (excl) Person Singular;43704;;;;bant1281;doornenbal-2009
-ɨŋko ;;1sg_p;1st (excl) Person Singular;43703;;;;bant1281;doornenbal-2009
-ankaca, ankaciʔa;;1du_a;1st (excl) Person Dual;43702;;;;bant1281;doornenbal-2009
-ankaca, ankaciʔa;;1du_s;1st (excl) Person Dual;43701;;;;bant1281;doornenbal-2009
-ankaca, ankaciʔa;;1du_o;1st (excl) Person Dual;43700;;;;bant1281;doornenbal-2009
-ancaʔo, ancuʔo;;1du_p;1st (excl) Person Dual;43699;;;;bant1281;doornenbal-2009
-ankankaʔa ;;1pl_a;1st (excl) Person Plural;43698;;;;bant1281;doornenbal-2009
-ankanka;;1pl_s;1st (excl) Person Plural;43697;;;;bant1281;doornenbal-2009
-ankanka;;1pl_o;1st (excl) Person Plural;43696;;;;bant1281;doornenbal-2009
-ankaʔo ;;1pl_p;1st (excl) Person Plural;43695;;;;bant1281;doornenbal-2009
-ankaci ;;12du_a;1st (incl) Person Dual;43694;;;;bant1281;doornenbal-2009
-ankaci;;12du_s;1st (incl) Person Dual;43693;;;;bant1281;doornenbal-2009
-ankaci;;12du_o;1st (incl) Person Dual;43692;;;;bant1281;doornenbal-2009
-ancuʔo, anco;;12du_p;1st (incl) Person Dual;43691;;;;bant1281;doornenbal-2009
-ankan;;12pl_a;1st (incl) Person Plural;43690;;;;bant1281;doornenbal-2009
-ankan;;12pl_s;1st (incl) Person Plural;43689;;;;bant1281;doornenbal-2009
-ankan;;12pl_o;1st (incl) Person Plural;43688;;;;bant1281;doornenbal-2009
-anko ;;12pl_p;1st (incl) Person Plural;43687;;;;bant1281;doornenbal-2009
-kʰana;;2sg_a;2nd Person Singular;43686;;;;bant1281;doornenbal-2009
-kʰana;;2sg_s;2nd Person Singular;43685;;;;bant1281;doornenbal-2009
-kʰana;;2sg_o;2nd Person Singular;43684;;;;bant1281;doornenbal-2009
-amko ;;2sg_p;2nd Person Singular;43683;;;;bant1281;doornenbal-2009
-kʰanaci ;;2du_a;2nd Person Dual;43682;;;;bant1281;doornenbal-2009
-kʰanaci;;2du_s;2nd Person Dual;43681;;;;bant1281;doornenbal-2009
-kʰanaci;;2du_o;2nd Person Dual;43680;;;;bant1281;doornenbal-2009
-amcuʔo, amco;;2du_p;2nd Person Dual;43679;;;;bant1281;doornenbal-2009
-kʰananin ;;2pl_a;2nd Person Plural;43678;;;;bant1281;doornenbal-2009
-kʰananin;;2pl_s;2nd Person Plural;43677;;;;bant1281;doornenbal-2009
-kʰananin;;2pl_o;2nd Person Plural;43676;;;;bant1281;doornenbal-2009
-amnuʔo, amco;;2pl_p;2nd Person Plural;43675;;;;bant1281;doornenbal-2009
-kʰo ;;3sg_m_a;3rd Person Singular Masculine;43674;;;;bant1281;doornenbal-2009
-kʰo;;3sg_m_s;3rd Person Singular Masculine;43673;;;;bant1281;doornenbal-2009
-kʰo;;3sg_m_o;3rd Person Singular Masculine;43672;;;;bant1281;doornenbal-2009
-ɨko ;;3sg_m_p;3rd Person Singular Masculine;43671;;;;bant1281;doornenbal-2009
-kʰo ;;3sg_n_a;3rd Person Singular Neuter;43670;;;;bant1281;doornenbal-2009
-kʰo;;3sg_n_s;3rd Person Singular Neuter;43669;;;;bant1281;doornenbal-2009
-kʰo;;3sg_n_o;3rd Person Singular Neuter;43668;;;;bant1281;doornenbal-2009
-ɨko ;;3sg_n_p;3rd Person Singular Neuter;43667;;;;bant1281;doornenbal-2009
-kʰoci ;;3d-a;3rd Person Dual;43666;;;;bant1281;doornenbal-2009
-kʰoci ;;3d-s;3rd Person Dual;43665;;;;bant1281;doornenbal-2009
-kʰoci ;;3d-o;3rd Person Dual;43664;;;;bant1281;doornenbal-2009
-ɨcuʔo ;;3d-p;3rd Person Dual;43663;;;;bant1281;doornenbal-2009
-kʰoci ;;3p-a;3rd Person Plural;43662;;;;bant1281;doornenbal-2009
-kʰoci ;;3p-s;3rd Person Plural;43661;;;;bant1281;doornenbal-2009
-kʰoci ;;3p-o;3rd Person Plural;43660;;;;bant1281;doornenbal-2009
-ɨcuʔo ;;3p-p;3rd Person Plural;43659;;;;bant1281;doornenbal-2009
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ɨŋkaʔa,,1sg_a,1st (excl) Person Singular,43706,,,,bant1281,doornenbal-2009
+ɨŋka,,1sg_s,1st (excl) Person Singular,43705,,,,bant1281,doornenbal-2009
+ɨŋka,,1sg_o,1st (excl) Person Singular,43704,,,,bant1281,doornenbal-2009
+ɨŋko,,1sg_p,1st (excl) Person Singular,43703,,,,bant1281,doornenbal-2009
+"ankaca, ankaciʔa",,1du_a,1st (excl) Person Dual,43702,,,,bant1281,doornenbal-2009
+"ankaca, ankaciʔa",,1du_s,1st (excl) Person Dual,43701,,,,bant1281,doornenbal-2009
+"ankaca, ankaciʔa",,1du_o,1st (excl) Person Dual,43700,,,,bant1281,doornenbal-2009
+"ancaʔo, ancuʔo",,1du_p,1st (excl) Person Dual,43699,,,,bant1281,doornenbal-2009
+ankankaʔa,,1pl_a,1st (excl) Person Plural,43698,,,,bant1281,doornenbal-2009
+ankanka,,1pl_s,1st (excl) Person Plural,43697,,,,bant1281,doornenbal-2009
+ankanka,,1pl_o,1st (excl) Person Plural,43696,,,,bant1281,doornenbal-2009
+ankaʔo,,1pl_p,1st (excl) Person Plural,43695,,,,bant1281,doornenbal-2009
+ankaci,,12du_a,1st (incl) Person Dual,43694,,,,bant1281,doornenbal-2009
+ankaci,,12du_s,1st (incl) Person Dual,43693,,,,bant1281,doornenbal-2009
+ankaci,,12du_o,1st (incl) Person Dual,43692,,,,bant1281,doornenbal-2009
+"ancuʔo, anco",,12du_p,1st (incl) Person Dual,43691,,,,bant1281,doornenbal-2009
+ankan,,12pl_a,1st (incl) Person Plural,43690,,,,bant1281,doornenbal-2009
+ankan,,12pl_s,1st (incl) Person Plural,43689,,,,bant1281,doornenbal-2009
+ankan,,12pl_o,1st (incl) Person Plural,43688,,,,bant1281,doornenbal-2009
+anko,,12pl_p,1st (incl) Person Plural,43687,,,,bant1281,doornenbal-2009
+kʰana,,2sg_a,2nd Person Singular,43686,,,,bant1281,doornenbal-2009
+kʰana,,2sg_s,2nd Person Singular,43685,,,,bant1281,doornenbal-2009
+kʰana,,2sg_o,2nd Person Singular,43684,,,,bant1281,doornenbal-2009
+amko,,2sg_p,2nd Person Singular,43683,,,,bant1281,doornenbal-2009
+kʰanaci,,2du_a,2nd Person Dual,43682,,,,bant1281,doornenbal-2009
+kʰanaci,,2du_s,2nd Person Dual,43681,,,,bant1281,doornenbal-2009
+kʰanaci,,2du_o,2nd Person Dual,43680,,,,bant1281,doornenbal-2009
+"amcuʔo, amco",,2du_p,2nd Person Dual,43679,,,,bant1281,doornenbal-2009
+kʰananin,,2pl_a,2nd Person Plural,43678,,,,bant1281,doornenbal-2009
+kʰananin,,2pl_s,2nd Person Plural,43677,,,,bant1281,doornenbal-2009
+kʰananin,,2pl_o,2nd Person Plural,43676,,,,bant1281,doornenbal-2009
+"amnuʔo, amco",,2pl_p,2nd Person Plural,43675,,,,bant1281,doornenbal-2009
+kʰo,,3sg_m_a,3rd Person Singular Masculine,43674,,,,bant1281,doornenbal-2009
+kʰo,,3sg_m_s,3rd Person Singular Masculine,43673,,,,bant1281,doornenbal-2009
+kʰo,,3sg_m_o,3rd Person Singular Masculine,43672,,,,bant1281,doornenbal-2009
+ɨko,,3sg_m_p,3rd Person Singular Masculine,43671,,,,bant1281,doornenbal-2009
+kʰo,,3sg_n_a,3rd Person Singular Neuter,43670,,,,bant1281,doornenbal-2009
+kʰo,,3sg_n_s,3rd Person Singular Neuter,43669,,,,bant1281,doornenbal-2009
+kʰo,,3sg_n_o,3rd Person Singular Neuter,43668,,,,bant1281,doornenbal-2009
+ɨko,,3sg_n_p,3rd Person Singular Neuter,43667,,,,bant1281,doornenbal-2009
+kʰoci,,3d-a,3rd Person Dual,43666,,,,bant1281,doornenbal-2009
+kʰoci,,3d-s,3rd Person Dual,43665,,,,bant1281,doornenbal-2009
+kʰoci,,3d-o,3rd Person Dual,43664,,,,bant1281,doornenbal-2009
+ɨcuʔo,,3d-p,3rd Person Dual,43663,,,,bant1281,doornenbal-2009
+kʰoci,,3p-a,3rd Person Plural,43662,,,,bant1281,doornenbal-2009
+kʰoci,,3p-s,3rd Person Plural,43661,,,,bant1281,doornenbal-2009
+kʰoci,,3p-o,3rd Person Plural,43660,,,,bant1281,doornenbal-2009
+ɨcuʔo,,3p-p,3rd Person Plural,43659,,,,bant1281,doornenbal-2009

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-gomiː ;;1sg_a;1st (excl) Person Singular;44151;;;;sunw1242;borchers-2008
-go ;;1sg_s;1st (excl) Person Singular;44150;;;;sunw1242;borchers-2008
-ãːkali ;;1sg_o;1st (excl) Person Singular;44149;;;;sunw1242;borchers-2008
-ãːke ;;1sg_p;1st (excl) Person Singular;44148;;;;sunw1242;borchers-2008
-goniʃimiː ;;1du_a;1st (excl) Person Dual;44147;;;;sunw1242;borchers-2008
-goniʃi ;;1du_s;1st (excl) Person Dual;44146;;;;sunw1242;borchers-2008
-ãːskali ;;1du_o;1st (excl) Person Dual;44145;;;;sunw1242;borchers-2008
-ãːske ;;1du_p;1st (excl) Person Dual;44144;;;;sunw1242;borchers-2008
-gopakimiː ;;1pl_a;1st (excl) Person Plural;44143;;;;sunw1242;borchers-2008
-gopaki ;;1pl_s;1st (excl) Person Plural;44142;;;;sunw1242;borchers-2008
-aĩkali ;;1pl_o;1st (excl) Person Plural;44141;;;;sunw1242;borchers-2008
-aĩke;;1pl_p;1st (excl) Person Plural;44140;;;;sunw1242;borchers-2008
-goniʃimiː ;;12du_a;1st (incl) Person Dual;44139;;;;sunw1242;borchers-2008
-goniʃi ;;12du_s;1st (incl) Person Dual;44138;;;;sunw1242;borchers-2008
-ĩːskali ;;12du_o;1st (incl) Person Dual;44137;;;;sunw1242;borchers-2008
-ĩːske;;12du_p;1st (incl) Person Dual;44136;;;;sunw1242;borchers-2008
-gopakimiː ;;12pl_a;1st (incl) Person Plural;44135;;;;sunw1242;borchers-2008
-gopaki ;;12pl_s;1st (incl) Person Plural;44134;;;;sunw1242;borchers-2008
-ĩnkali ;;12pl_o;1st (incl) Person Plural;44133;;;;sunw1242;borchers-2008
-ĩnke ;;12pl_p;1st (incl) Person Plural;44132;;;;sunw1242;borchers-2008
-gemiː ;;2sg_a;2nd Person Singular;44131;;;;sunw1242;borchers-2008
-ge ;;2sg_s;2nd Person Singular;44130;;;;sunw1242;borchers-2008
-ĩkali ;;2sg_o;2nd Person Singular;44129;;;;sunw1242;borchers-2008
-ĩke ;;2sg_p;2nd Person Singular;44128;;;;sunw1242;borchers-2008
-geniʃimiː ;;2du_a;2nd Person Dual;44127;;;;sunw1242;borchers-2008
-geniʃi ;;2du_s;2nd Person Dual;44126;;;;sunw1242;borchers-2008
-ĩskali ;;2du_o;2nd Person Dual;44125;;;;sunw1242;borchers-2008
-ĩske ;;2du_p;2nd Person Dual;44124;;;;sunw1242;borchers-2008
-gepakimiː ;;2pl_a;2nd Person Plural;44123;;;;sunw1242;borchers-2008
-gepaki ;;2pl_s;2nd Person Plural;44122;;;;sunw1242;borchers-2008
-ĩkali ;;2pl_o;2nd Person Plural;44121;;The form 'ĩnkali' is also listed (Borchers 2008:70).;;sunw1242;borchers-2008
-ĩke ;;2pl_p;2nd Person Plural;44120;;The form 'ĩnke' is also listed (Borchers 2008:70).;;sunw1242;borchers-2008
-mekomiː ;;3sg_m_a;3rd Person Singular Masculine;44119;; The form 'aːmiː' is also listed (Borchers 2008:67-72).;;sunw1242;borchers-2008
-meko ;;3sg_m_s;3rd Person Singular Masculine;44118;;The form 'aː' is also listed (Borchers 2008:67).;;sunw1242;borchers-2008
-ãkali ;;3sg_m_o;3rd Person Singular Masculine;44117;;;;sunw1242;borchers-2008
-ãke ;;3sg_m_p;3rd Person Singular Masculine;44116;;;;sunw1242;borchers-2008
-mekomiː ;;3sg_n_a;3rd Person Singular Neuter;44115;;The form 'aːmiː' is also listed (Borchers 2008:67-72).;;sunw1242;borchers-2008
-meko ;;3sg_n_s;3rd Person Singular Neuter;44114;;The form 'aː' is also listed (Borchers 2008:67).;;sunw1242;borchers-2008
-ãkali ;;3sg_n_o;3rd Person Singular Neuter;44113;;;;sunw1242;borchers-2008
-ãke ;;3sg_n_p;3rd Person Singular Neuter;44112;;;;sunw1242;borchers-2008
-mekoniʃimiː ;;3d-a;3rd Person Dual;44111;;The form 'aːniʃimiː' is also listed (Borchers 2008:67-72).;;sunw1242;borchers-2008
-mekoniʃi ;;3d-s;3rd Person Dual;44110;;The form 'aːniʃi' is also listed (Borchers 2008:67).;;sunw1242;borchers-2008
-ãskali ;;3d-o;3rd Person Dual;44109;;;;sunw1242;borchers-2008
-ãske ;;3d-p;3rd Person Dual;44108;;;;sunw1242;borchers-2008
-mekoniʃimiː ;;3p-a;3rd Person Plural;44107;;The form 'aːpakimiː' is also listed (Borchers 2008:67-72).;;sunw1242;borchers-2008
-mekoniʃi ;;3p-s;3rd Person Plural;44106;;The form 'aːpaki' is also listed (Borchers 2008:67).;;sunw1242;borchers-2008
-ãnkali ;;3p-o;3rd Person Plural;44105;;;;sunw1242;borchers-2008
-ãnke ;;3p-p;3rd Person Plural;44104;;;;sunw1242;borchers-2008
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+gomiː,,1sg_a,1st (excl) Person Singular,44151,,,,sunw1242,borchers-2008
+go,,1sg_s,1st (excl) Person Singular,44150,,,,sunw1242,borchers-2008
+ãːkali,,1sg_o,1st (excl) Person Singular,44149,,,,sunw1242,borchers-2008
+ãːke,,1sg_p,1st (excl) Person Singular,44148,,,,sunw1242,borchers-2008
+goniʃimiː,,1du_a,1st (excl) Person Dual,44147,,,,sunw1242,borchers-2008
+goniʃi,,1du_s,1st (excl) Person Dual,44146,,,,sunw1242,borchers-2008
+ãːskali,,1du_o,1st (excl) Person Dual,44145,,,,sunw1242,borchers-2008
+ãːske,,1du_p,1st (excl) Person Dual,44144,,,,sunw1242,borchers-2008
+gopakimiː,,1pl_a,1st (excl) Person Plural,44143,,,,sunw1242,borchers-2008
+gopaki,,1pl_s,1st (excl) Person Plural,44142,,,,sunw1242,borchers-2008
+aĩkali,,1pl_o,1st (excl) Person Plural,44141,,,,sunw1242,borchers-2008
+aĩke,,1pl_p,1st (excl) Person Plural,44140,,,,sunw1242,borchers-2008
+goniʃimiː,,12du_a,1st (incl) Person Dual,44139,,,,sunw1242,borchers-2008
+goniʃi,,12du_s,1st (incl) Person Dual,44138,,,,sunw1242,borchers-2008
+ĩːskali,,12du_o,1st (incl) Person Dual,44137,,,,sunw1242,borchers-2008
+ĩːske,,12du_p,1st (incl) Person Dual,44136,,,,sunw1242,borchers-2008
+gopakimiː,,12pl_a,1st (incl) Person Plural,44135,,,,sunw1242,borchers-2008
+gopaki,,12pl_s,1st (incl) Person Plural,44134,,,,sunw1242,borchers-2008
+ĩnkali,,12pl_o,1st (incl) Person Plural,44133,,,,sunw1242,borchers-2008
+ĩnke,,12pl_p,1st (incl) Person Plural,44132,,,,sunw1242,borchers-2008
+gemiː,,2sg_a,2nd Person Singular,44131,,,,sunw1242,borchers-2008
+ge,,2sg_s,2nd Person Singular,44130,,,,sunw1242,borchers-2008
+ĩkali,,2sg_o,2nd Person Singular,44129,,,,sunw1242,borchers-2008
+ĩke,,2sg_p,2nd Person Singular,44128,,,,sunw1242,borchers-2008
+geniʃimiː,,2du_a,2nd Person Dual,44127,,,,sunw1242,borchers-2008
+geniʃi,,2du_s,2nd Person Dual,44126,,,,sunw1242,borchers-2008
+ĩskali,,2du_o,2nd Person Dual,44125,,,,sunw1242,borchers-2008
+ĩske,,2du_p,2nd Person Dual,44124,,,,sunw1242,borchers-2008
+gepakimiː,,2pl_a,2nd Person Plural,44123,,,,sunw1242,borchers-2008
+gepaki,,2pl_s,2nd Person Plural,44122,,,,sunw1242,borchers-2008
+ĩkali,,2pl_o,2nd Person Plural,44121,,The form 'ĩnkali' is also listed (Borchers 2008:70).,,sunw1242,borchers-2008
+ĩke,,2pl_p,2nd Person Plural,44120,,The form 'ĩnke' is also listed (Borchers 2008:70).,,sunw1242,borchers-2008
+mekomiː,,3sg_m_a,3rd Person Singular Masculine,44119,,The form 'aːmiː' is also listed (Borchers 2008:67-72).,,sunw1242,borchers-2008
+meko,,3sg_m_s,3rd Person Singular Masculine,44118,,The form 'aː' is also listed (Borchers 2008:67).,,sunw1242,borchers-2008
+ãkali,,3sg_m_o,3rd Person Singular Masculine,44117,,,,sunw1242,borchers-2008
+ãke,,3sg_m_p,3rd Person Singular Masculine,44116,,,,sunw1242,borchers-2008
+mekomiː,,3sg_n_a,3rd Person Singular Neuter,44115,,The form 'aːmiː' is also listed (Borchers 2008:67-72).,,sunw1242,borchers-2008
+meko,,3sg_n_s,3rd Person Singular Neuter,44114,,The form 'aː' is also listed (Borchers 2008:67).,,sunw1242,borchers-2008
+ãkali,,3sg_n_o,3rd Person Singular Neuter,44113,,,,sunw1242,borchers-2008
+ãke,,3sg_n_p,3rd Person Singular Neuter,44112,,,,sunw1242,borchers-2008
+mekoniʃimiː,,3d-a,3rd Person Dual,44111,,The form 'aːniʃimiː' is also listed (Borchers 2008:67-72).,,sunw1242,borchers-2008
+mekoniʃi,,3d-s,3rd Person Dual,44110,,The form 'aːniʃi' is also listed (Borchers 2008:67).,,sunw1242,borchers-2008
+ãskali,,3d-o,3rd Person Dual,44109,,,,sunw1242,borchers-2008
+ãske,,3d-p,3rd Person Dual,44108,,,,sunw1242,borchers-2008
+mekoniʃimiː,,3p-a,3rd Person Plural,44107,,The form 'aːpakimiː' is also listed (Borchers 2008:67-72).,,sunw1242,borchers-2008
+mekoniʃi,,3p-s,3rd Person Plural,44106,,The form 'aːpaki' is also listed (Borchers 2008:67).,,sunw1242,borchers-2008
+ãnkali,,3p-o,3rd Person Plural,44105,,,,sunw1242,borchers-2008
+ãnke,,3p-p,3rd Person Plural,44104,,,,sunw1242,borchers-2008

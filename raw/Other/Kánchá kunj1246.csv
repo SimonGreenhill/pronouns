@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nʤən;;1sg_a;1st (excl) Person Singular;59542;;;;kunj1246;EvansEtAl_2017
-nʤæ;;1sg_s;1st (excl) Person Singular;59541;;;;kunj1246;EvansEtAl_2017
-nʤæ;;1sg_o;1st (excl) Person Singular;59540;;;;kunj1246;EvansEtAl_2017
-nʤuni;;1sg_p;1st (excl) Person Singular;59539;;;;kunj1246;EvansEtAl_2017
-ni;;1du_a;1st (excl) Person Dual;59538;;;;kunj1246;EvansEtAl_2017
-ni;;1du_s;1st (excl) Person Dual;59537;;;;kunj1246;EvansEtAl_2017
-ni;;1du_o;1st (excl) Person Dual;59536;;;;kunj1246;EvansEtAl_2017
-nʤenme;;1du_p;1st (excl) Person Dual;59535;;;;kunj1246;EvansEtAl_2017
-ni;;1pl_a;1st (excl) Person Plural;59534;;;;kunj1246;EvansEtAl_2017
-ni;;1pl_s;1st (excl) Person Plural;59533;;;;kunj1246;EvansEtAl_2017
-ni;;1pl_o;1st (excl) Person Plural;59532;;;;kunj1246;EvansEtAl_2017
-nʤenme;;1pl_p;1st (excl) Person Plural;59531;;;;kunj1246;EvansEtAl_2017
-ni;;12du_a;1st (incl) Person Dual;59530;;;;kunj1246;EvansEtAl_2017
-ni;;12du_s;1st (incl) Person Dual;59529;;;;kunj1246;EvansEtAl_2017
-ni;;12du_o;1st (incl) Person Dual;59528;;;;kunj1246;EvansEtAl_2017
-nʤenme;;12du_p;1st (incl) Person Dual;59527;;;;kunj1246;EvansEtAl_2017
-ni;;12pl_a;1st (incl) Person Plural;59526;;;;kunj1246;EvansEtAl_2017
-ni;;12pl_s;1st (incl) Person Plural;59525;;;;kunj1246;EvansEtAl_2017
-ni;;12pl_o;1st (incl) Person Plural;59524;;;;kunj1246;EvansEtAl_2017
-nʤenme;;12pl_p;1st (incl) Person Plural;59523;;;;kunj1246;EvansEtAl_2017
-mbən;;2sg_a;2nd Person Singular;59522;;;;kunj1246;EvansEtAl_2017
-mbæ;;2sg_s;2nd Person Singular;59521;;;;kunj1246;EvansEtAl_2017
-mbæ;;2sg_o;2nd Person Singular;59520;;;;kunj1246;EvansEtAl_2017
-mbuni;;2sg_p;2nd Person Singular;59519;;;;kunj1246;EvansEtAl_2017
-mbən;;2du_a;2nd Person Dual;59518;;;;kunj1246;EvansEtAl_2017
-mbæ;;2du_s;2nd Person Dual;59517;;;;kunj1246;EvansEtAl_2017
-mbæ;;2du_o;2nd Person Dual;59516;;;;kunj1246;EvansEtAl_2017
-mbenme;;2du_p;2nd Person Dual;59515;;;;kunj1246;EvansEtAl_2017
-mbən;;2pl_a;2nd Person Plural;59514;;;;kunj1246;EvansEtAl_2017
-mbæ;;2pl_s;2nd Person Plural;59513;;;;kunj1246;EvansEtAl_2017
-mbæ;;2pl_o;2nd Person Plural;59512;;;;kunj1246;EvansEtAl_2017
-mbenme;;2pl_p;2nd Person Plural;59511;;;;kunj1246;EvansEtAl_2017
-ʧaɸ;;3sg_m_a;3rd Person Singular Masculine;59510;;;;kunj1246;EvansEtAl_2017
-ɸi;;3sg_m_s;3rd Person Singular Masculine;59509;;;;kunj1246;EvansEtAl_2017
-ɸi;;3sg_m_o;3rd Person Singular Masculine;59508;;;;kunj1246;EvansEtAl_2017
-ʧaβani;;3sg_m_p;3rd Person Singular Masculine;59507;;;;kunj1246;EvansEtAl_2017
-ʧaɸ;;3sg_n_a;3rd Person Singular Neuter;59506;;;;kunj1246;EvansEtAl_2017
-ɸi;;3sg_n_s;3rd Person Singular Neuter;59505;;;;kunj1246;EvansEtAl_2017
-ɸi;;3sg_n_o;3rd Person Singular Neuter;59504;;;;kunj1246;EvansEtAl_2017
-ʧaβani;;3sg_n_p;3rd Person Singular Neuter;59503;;;;kunj1246;EvansEtAl_2017
-ʧaɸ;;3d-a;3rd Person Dual;59502;;;;kunj1246;EvansEtAl_2017
-ɸi;;3d-s;3rd Person Dual;59501;;;;kunj1246;EvansEtAl_2017
-ɸi;;3d-o;3rd Person Dual;59500;;;;kunj1246;EvansEtAl_2017
-ʧaβanme;;3d-p;3rd Person Dual;59499;;;;kunj1246;EvansEtAl_2017
-ʧaɸ;;3p-a;3rd Person Plural;59498;;;;kunj1246;EvansEtAl_2017
-ɸi;;3p-s;3rd Person Plural;59497;;;;kunj1246;EvansEtAl_2017
-ɸi;;3p-o;3rd Person Plural;59496;;;;kunj1246;EvansEtAl_2017
-ʧaβanme;;3p-p;3rd Person Plural;59495;;;;kunj1246;EvansEtAl_2017
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nʤən,,1sg_a,1st (excl) Person Singular,59542,,,,kunj1246,EvansEtAl_2017
+nʤæ,,1sg_s,1st (excl) Person Singular,59541,,,,kunj1246,EvansEtAl_2017
+nʤæ,,1sg_o,1st (excl) Person Singular,59540,,,,kunj1246,EvansEtAl_2017
+nʤuni,,1sg_p,1st (excl) Person Singular,59539,,,,kunj1246,EvansEtAl_2017
+ni,,1du_a,1st (excl) Person Dual,59538,,,,kunj1246,EvansEtAl_2017
+ni,,1du_s,1st (excl) Person Dual,59537,,,,kunj1246,EvansEtAl_2017
+ni,,1du_o,1st (excl) Person Dual,59536,,,,kunj1246,EvansEtAl_2017
+nʤenme,,1du_p,1st (excl) Person Dual,59535,,,,kunj1246,EvansEtAl_2017
+ni,,1pl_a,1st (excl) Person Plural,59534,,,,kunj1246,EvansEtAl_2017
+ni,,1pl_s,1st (excl) Person Plural,59533,,,,kunj1246,EvansEtAl_2017
+ni,,1pl_o,1st (excl) Person Plural,59532,,,,kunj1246,EvansEtAl_2017
+nʤenme,,1pl_p,1st (excl) Person Plural,59531,,,,kunj1246,EvansEtAl_2017
+ni,,12du_a,1st (incl) Person Dual,59530,,,,kunj1246,EvansEtAl_2017
+ni,,12du_s,1st (incl) Person Dual,59529,,,,kunj1246,EvansEtAl_2017
+ni,,12du_o,1st (incl) Person Dual,59528,,,,kunj1246,EvansEtAl_2017
+nʤenme,,12du_p,1st (incl) Person Dual,59527,,,,kunj1246,EvansEtAl_2017
+ni,,12pl_a,1st (incl) Person Plural,59526,,,,kunj1246,EvansEtAl_2017
+ni,,12pl_s,1st (incl) Person Plural,59525,,,,kunj1246,EvansEtAl_2017
+ni,,12pl_o,1st (incl) Person Plural,59524,,,,kunj1246,EvansEtAl_2017
+nʤenme,,12pl_p,1st (incl) Person Plural,59523,,,,kunj1246,EvansEtAl_2017
+mbən,,2sg_a,2nd Person Singular,59522,,,,kunj1246,EvansEtAl_2017
+mbæ,,2sg_s,2nd Person Singular,59521,,,,kunj1246,EvansEtAl_2017
+mbæ,,2sg_o,2nd Person Singular,59520,,,,kunj1246,EvansEtAl_2017
+mbuni,,2sg_p,2nd Person Singular,59519,,,,kunj1246,EvansEtAl_2017
+mbən,,2du_a,2nd Person Dual,59518,,,,kunj1246,EvansEtAl_2017
+mbæ,,2du_s,2nd Person Dual,59517,,,,kunj1246,EvansEtAl_2017
+mbæ,,2du_o,2nd Person Dual,59516,,,,kunj1246,EvansEtAl_2017
+mbenme,,2du_p,2nd Person Dual,59515,,,,kunj1246,EvansEtAl_2017
+mbən,,2pl_a,2nd Person Plural,59514,,,,kunj1246,EvansEtAl_2017
+mbæ,,2pl_s,2nd Person Plural,59513,,,,kunj1246,EvansEtAl_2017
+mbæ,,2pl_o,2nd Person Plural,59512,,,,kunj1246,EvansEtAl_2017
+mbenme,,2pl_p,2nd Person Plural,59511,,,,kunj1246,EvansEtAl_2017
+ʧaɸ,,3sg_m_a,3rd Person Singular Masculine,59510,,,,kunj1246,EvansEtAl_2017
+ɸi,,3sg_m_s,3rd Person Singular Masculine,59509,,,,kunj1246,EvansEtAl_2017
+ɸi,,3sg_m_o,3rd Person Singular Masculine,59508,,,,kunj1246,EvansEtAl_2017
+ʧaβani,,3sg_m_p,3rd Person Singular Masculine,59507,,,,kunj1246,EvansEtAl_2017
+ʧaɸ,,3sg_n_a,3rd Person Singular Neuter,59506,,,,kunj1246,EvansEtAl_2017
+ɸi,,3sg_n_s,3rd Person Singular Neuter,59505,,,,kunj1246,EvansEtAl_2017
+ɸi,,3sg_n_o,3rd Person Singular Neuter,59504,,,,kunj1246,EvansEtAl_2017
+ʧaβani,,3sg_n_p,3rd Person Singular Neuter,59503,,,,kunj1246,EvansEtAl_2017
+ʧaɸ,,3d-a,3rd Person Dual,59502,,,,kunj1246,EvansEtAl_2017
+ɸi,,3d-s,3rd Person Dual,59501,,,,kunj1246,EvansEtAl_2017
+ɸi,,3d-o,3rd Person Dual,59500,,,,kunj1246,EvansEtAl_2017
+ʧaβanme,,3d-p,3rd Person Dual,59499,,,,kunj1246,EvansEtAl_2017
+ʧaɸ,,3p-a,3rd Person Plural,59498,,,,kunj1246,EvansEtAl_2017
+ɸi,,3p-s,3rd Person Plural,59497,,,,kunj1246,EvansEtAl_2017
+ɸi,,3p-o,3rd Person Plural,59496,,,,kunj1246,EvansEtAl_2017
+ʧaβanme,,3p-p,3rd Person Plural,59495,,,,kunj1246,EvansEtAl_2017

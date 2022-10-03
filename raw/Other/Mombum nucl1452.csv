@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nu;;1sg_a;1st (excl) Person Singular;46686;;;;nucl1452;boelaars-1950
-nu;;1sg_s;1st (excl) Person Singular;46685;;;;nucl1452;boelaars-1950
-nɛi;;1sg_o;1st (excl) Person Singular;46684;;;;nucl1452;boelaars-1950
-nɛ;;1sg_p;1st (excl) Person Singular;46683;;;;nucl1452;boelaars-1950
-num;;1du_a;1st (excl) Person Dual;46682;;;;nucl1452;boelaars-1950
-num;;1du_s;1st (excl) Person Dual;46681;;;;nucl1452;boelaars-1950
-numwɛi;;1du_o;1st (excl) Person Dual;46680;;;;nucl1452;boelaars-1950
-numa;;1du_p;1st (excl) Person Dual;46679;;;;nucl1452;boelaars-1950
-num;;1pl_a;1st (excl) Person Plural;46678;;;;nucl1452;boelaars-1950
-num;;1pl_s;1st (excl) Person Plural;46677;;;;nucl1452;boelaars-1950
-numwɛi;;1pl_o;1st (excl) Person Plural;46676;;;;nucl1452;boelaars-1950
-numa;;1pl_p;1st (excl) Person Plural;46675;;;;nucl1452;boelaars-1950
-num;;12du_a;1st (incl) Person Dual;46674;;;;nucl1452;boelaars-1950
-num;;12du_s;1st (incl) Person Dual;46673;;;;nucl1452;boelaars-1950
-numwɛi;;12du_o;1st (incl) Person Dual;46672;;;;nucl1452;boelaars-1950
-numa;;12du_p;1st (incl) Person Dual;46671;;;;nucl1452;boelaars-1950
-num;;12pl_a;1st (incl) Person Plural;46670;;;;nucl1452;boelaars-1950
-num;;12pl_s;1st (incl) Person Plural;46669;;;;nucl1452;boelaars-1950
-numwɛi;;12pl_o;1st (incl) Person Plural;46668;;;;nucl1452;boelaars-1950
-numa;;12pl_p;1st (incl) Person Plural;46667;;;;nucl1452;boelaars-1950
-yu;;2sg_a;2nd Person Singular;46666;;;;nucl1452;boelaars-1950
-yu;;2sg_s;2nd Person Singular;46665;;;;nucl1452;boelaars-1950
-iwɛi;;2sg_o;2nd Person Singular;46664;;;;nucl1452;boelaars-1950
-iwɛ;;2sg_p;2nd Person Singular;46663;;;;nucl1452;boelaars-1950
-yum;;2du_a;2nd Person Dual;46662;;;;nucl1452;boelaars-1950
-yum;;2du_s;2nd Person Dual;46661;;;;nucl1452;boelaars-1950
-imwɛi;;2du_o;2nd Person Dual;46660;;;;nucl1452;boelaars-1950
-ima;;2du_p;2nd Person Dual;46659;;;;nucl1452;boelaars-1950
-yum;;2pl_a;2nd Person Plural;46658;;;;nucl1452;boelaars-1950
-yum;;2pl_s;2nd Person Plural;46657;;;;nucl1452;boelaars-1950
-imwɛi;;2pl_o;2nd Person Plural;46656;;;;nucl1452;boelaars-1950
-ima;;2pl_p;2nd Person Plural;46655;;;;nucl1452;boelaars-1950
-aːŋɡib;;3sg_m_a;3rd Person Singular Masculine;46654;;;;nucl1452;boelaars-1950
-aːŋɡib;;3sg_m_s;3rd Person Singular Masculine;46653;;;;nucl1452;boelaars-1950
-ewɛi;;3sg_m_o;3rd Person Singular Masculine;46652;;;;nucl1452;boelaars-1950
-ɛwɛ;;3sg_m_p;3rd Person Singular Masculine;46651;;;;nucl1452;boelaars-1950
-aːŋɡib;;3sg_n_a;3rd Person Singular Neuter;46650;;;;nucl1452;boelaars-1950
-aːŋɡib;;3sg_n_s;3rd Person Singular Neuter;46649;;;;nucl1452;boelaars-1950
-ewɛi;;3sg_n_o;3rd Person Singular Neuter;46648;;;;nucl1452;boelaars-1950
-ɛwɛ;;3sg_n_p;3rd Person Singular Neuter;46647;;;;nucl1452;boelaars-1950
-anɛ;;3d-a;3rd Person Dual;46646;;;;nucl1452;boelaars-1950
-anɛ;;3d-s;3rd Person Dual;46645;;;;nucl1452;boelaars-1950
-anɛmrɛi;;3d-o;3rd Person Dual;46644;;;;nucl1452;boelaars-1950
-anɛmrɛ;;3d-p;3rd Person Dual;46643;;;;nucl1452;boelaars-1950
-anɛ;;3p-a;3rd Person Plural;46642;;;;nucl1452;boelaars-1950
-anɛ;;3p-s;3rd Person Plural;46641;;;;nucl1452;boelaars-1950
-anɛmrɛi;;3p-o;3rd Person Plural;46640;;;;nucl1452;boelaars-1950
-anɛmrɛ;;3p-p;3rd Person Plural;46639;;;;nucl1452;boelaars-1950
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nu,,1sg_a,1st (excl) Person Singular,46686,,,,nucl1452,boelaars-1950
+nu,,1sg_s,1st (excl) Person Singular,46685,,,,nucl1452,boelaars-1950
+nɛi,,1sg_o,1st (excl) Person Singular,46684,,,,nucl1452,boelaars-1950
+nɛ,,1sg_p,1st (excl) Person Singular,46683,,,,nucl1452,boelaars-1950
+num,,1du_a,1st (excl) Person Dual,46682,,,,nucl1452,boelaars-1950
+num,,1du_s,1st (excl) Person Dual,46681,,,,nucl1452,boelaars-1950
+numwɛi,,1du_o,1st (excl) Person Dual,46680,,,,nucl1452,boelaars-1950
+numa,,1du_p,1st (excl) Person Dual,46679,,,,nucl1452,boelaars-1950
+num,,1pl_a,1st (excl) Person Plural,46678,,,,nucl1452,boelaars-1950
+num,,1pl_s,1st (excl) Person Plural,46677,,,,nucl1452,boelaars-1950
+numwɛi,,1pl_o,1st (excl) Person Plural,46676,,,,nucl1452,boelaars-1950
+numa,,1pl_p,1st (excl) Person Plural,46675,,,,nucl1452,boelaars-1950
+num,,12du_a,1st (incl) Person Dual,46674,,,,nucl1452,boelaars-1950
+num,,12du_s,1st (incl) Person Dual,46673,,,,nucl1452,boelaars-1950
+numwɛi,,12du_o,1st (incl) Person Dual,46672,,,,nucl1452,boelaars-1950
+numa,,12du_p,1st (incl) Person Dual,46671,,,,nucl1452,boelaars-1950
+num,,12pl_a,1st (incl) Person Plural,46670,,,,nucl1452,boelaars-1950
+num,,12pl_s,1st (incl) Person Plural,46669,,,,nucl1452,boelaars-1950
+numwɛi,,12pl_o,1st (incl) Person Plural,46668,,,,nucl1452,boelaars-1950
+numa,,12pl_p,1st (incl) Person Plural,46667,,,,nucl1452,boelaars-1950
+yu,,2sg_a,2nd Person Singular,46666,,,,nucl1452,boelaars-1950
+yu,,2sg_s,2nd Person Singular,46665,,,,nucl1452,boelaars-1950
+iwɛi,,2sg_o,2nd Person Singular,46664,,,,nucl1452,boelaars-1950
+iwɛ,,2sg_p,2nd Person Singular,46663,,,,nucl1452,boelaars-1950
+yum,,2du_a,2nd Person Dual,46662,,,,nucl1452,boelaars-1950
+yum,,2du_s,2nd Person Dual,46661,,,,nucl1452,boelaars-1950
+imwɛi,,2du_o,2nd Person Dual,46660,,,,nucl1452,boelaars-1950
+ima,,2du_p,2nd Person Dual,46659,,,,nucl1452,boelaars-1950
+yum,,2pl_a,2nd Person Plural,46658,,,,nucl1452,boelaars-1950
+yum,,2pl_s,2nd Person Plural,46657,,,,nucl1452,boelaars-1950
+imwɛi,,2pl_o,2nd Person Plural,46656,,,,nucl1452,boelaars-1950
+ima,,2pl_p,2nd Person Plural,46655,,,,nucl1452,boelaars-1950
+aːŋɡib,,3sg_m_a,3rd Person Singular Masculine,46654,,,,nucl1452,boelaars-1950
+aːŋɡib,,3sg_m_s,3rd Person Singular Masculine,46653,,,,nucl1452,boelaars-1950
+ewɛi,,3sg_m_o,3rd Person Singular Masculine,46652,,,,nucl1452,boelaars-1950
+ɛwɛ,,3sg_m_p,3rd Person Singular Masculine,46651,,,,nucl1452,boelaars-1950
+aːŋɡib,,3sg_n_a,3rd Person Singular Neuter,46650,,,,nucl1452,boelaars-1950
+aːŋɡib,,3sg_n_s,3rd Person Singular Neuter,46649,,,,nucl1452,boelaars-1950
+ewɛi,,3sg_n_o,3rd Person Singular Neuter,46648,,,,nucl1452,boelaars-1950
+ɛwɛ,,3sg_n_p,3rd Person Singular Neuter,46647,,,,nucl1452,boelaars-1950
+anɛ,,3d-a,3rd Person Dual,46646,,,,nucl1452,boelaars-1950
+anɛ,,3d-s,3rd Person Dual,46645,,,,nucl1452,boelaars-1950
+anɛmrɛi,,3d-o,3rd Person Dual,46644,,,,nucl1452,boelaars-1950
+anɛmrɛ,,3d-p,3rd Person Dual,46643,,,,nucl1452,boelaars-1950
+anɛ,,3p-a,3rd Person Plural,46642,,,,nucl1452,boelaars-1950
+anɛ,,3p-s,3rd Person Plural,46641,,,,nucl1452,boelaars-1950
+anɛmrɛi,,3p-o,3rd Person Plural,46640,,,,nucl1452,boelaars-1950
+anɛmrɛ,,3p-p,3rd Person Plural,46639,,,,nucl1452,boelaars-1950

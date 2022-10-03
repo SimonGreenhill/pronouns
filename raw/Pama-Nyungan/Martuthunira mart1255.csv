@@ -1,55 +1,55 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ngayu;;1sg_a;1st (excl) Person Singular;28428;;;;mart1255;dench-1995
-ngayu;;1sg_s;1st (excl) Person Singular;28429;;;;mart1255;dench-1995
-nganaju;;1sg_o;1st (excl) Person Singular;28430;;;;mart1255;dench-1995
-nganaju;;1sg_p;1st (excl) Person Singular;28431;;;;mart1255;dench-1995
-ngaliya;;1du_a;1st (excl) Person Dual;61932;;;;mart1255;dench-1995
-ngaliya;;1du_s;1st (excl) Person Dual;61933;;;;mart1255;dench-1995
-ngaliyaa;;1du_o;1st (excl) Person Dual;61934;;;;mart1255;dench-1995
-ngaliyawu;;1du_p;1st (excl) Person Dual;61935;;;;mart1255;dench-1995
-nganarna;;1pl_a;1st (excl) Person Plural;61936;;;;mart1255;dench-1995
-nganarna;;1pl_s;1st (excl) Person Plural;61937;;;;mart1255;dench-1995
-nganarnaa;;1pl_o;1st (excl) Person Plural;61938;;;;mart1255;dench-1995
-nganarnawu;;1pl_p;1st (excl) Person Plural;61939;;;;mart1255;dench-1995
-ngali;;12du_a;1st (incl) Person Dual;28432;;;;mart1255;dench-1995
-ngali;;12du_s;1st (incl) Person Dual;28433;;;;mart1255;dench-1995
-ngalii;;12du_o;1st (incl) Person Dual;28434;;;;mart1255;dench-1995
-ngaliwu;;12du_p;1st (incl) Person Dual;61940;;;;mart1255;dench-1995
-ngaliwa;;12pl_a;1st (incl) Person Plural;28435;;;;mart1255;dench-1995
-ngaliwa;;12pl_s;1st (incl) Person Plural;28436;;;;mart1255;dench-1995
-ngaliwaa;;12pl_o;1st (incl) Person Plural;28437;;;;mart1255;dench-1995
-ngaliwawu;;12pl_p;1st (incl) Person Plural;28438;;;;mart1255;dench-1995
-kartu;;2sg_a;2nd Person Singular;28439;;;;mart1255;dench-1995
-kartu;;2sg_s;2nd Person Singular;28440;;;;mart1255;dench-1995
-kartungu;;2sg_o;2nd Person Singular;28441;;;;mart1255;dench-1995
-kartungu;;2sg_p;2nd Person Singular;28442;;;;mart1255;dench-1995
-nhuwala;;2du_a;2nd Person Dual;61941;;;;mart1255;dench-1995
-nhuwala;;2du_s;2nd Person Dual;61942;;;;mart1255;dench-1995
-nhuwalaa;;2du_o;2nd Person Dual;61943;;;;mart1255;dench-1995
-nhuwalawu;;2du_p;2nd Person Dual;61944;;;;mart1255;dench-1995
-nhuwana;;2pl_a;2nd Person Plural;61945;;;;mart1255;dench-1995
-nhuwana;;2pl_s;2nd Person Plural;61946;;;;mart1255;dench-1995
-nhuwanaa;;2pl_o;2nd Person Plural;61947;;;;mart1255;dench-1995
-nhuwanawu;;2pl_p;2nd Person Plural;61948;;;;mart1255;dench-1995
-nhiyu;;3sg_m_a;3rd Person Singular Masculine;61949;;nhiyu is a proximal demonstrative and ngunhu is a distal demonstrative.;;mart1255;dench-1995
-nhiyu;;3sg_m_s;3rd Person Singular Masculine;61950;;nhiyu is a proximal demonstrative and ngunhu is a distal demonstrative.;;mart1255;dench-1995
-yirna;;3sg_m_o;3rd Person Singular Masculine;61951;;yirna is the proximal demonstrative and ngurnu is the distal demonstrative.;;mart1255;dench-1995
-yirnawu;;3sg_m_p;3rd Person Singular Masculine;61952;;yirnawu is a proximal demonstrative and ngurnuwu is a distal demonstrative.;;mart1255;dench-1995
-ngunhu;;3sg_n_a;3rd Person Singular Neuter;61953;;nhiyu is a proximal demonstrative and ngunhu is a distal demonstrative.;;mart1255;dench-1995
-ngunhu;;3sg_n_s;3rd Person Singular Neuter;61954;;nhiyu is a proximal demonstrative and ngunhu is a distal demonstrative.;;mart1255;dench-1995
-ngurnu;;3sg_n_o;3rd Person Singular Neuter;61955;;yirna is a proximal demonstrative, and ngurnu is the distal demonstrative.;;mart1255;dench-1995
-ngurnuwu;;3sg_n_p;3rd Person Singular Neuter;61956;;yirnawu is a proximal demonstrative and ngurnuwu is a distal demonstrative.;;mart1255;dench-1995
-pulaṇa;;3pl_m_a;3rd Person Plural Masculine;28443;;;;mart1255;dench-1995
-pulaṇa;;3pl_m_s;3rd Person Plural Masculine;28444;;;;mart1255;dench-1995
-pulaṇa;;3pl_f_a;3rd Person Plural Feminine;28445;;;;mart1255;dench-1995
-pulaṇa;;3pl_f_s;3rd Person Plural Feminine;28446;;;;mart1255;dench-1995
-pulaṇa;;3pl_n_a;3rd Person Plural Neuter;28447;;;;mart1255;dench-1995
-pulaṇa;;3pl_n_s;3rd Person Plural Neuter;28448;;;;mart1255;dench-1995
-pularna;;3d-a;3rd Person Dual;61957;;;;mart1255;dench-1995
-pularna;;3d-s;3rd Person Dual;61958;;;;mart1255;dench-1995
-pularna;;3d-o;3rd Person Dual;61959;;;;mart1255;dench-1995
-pularnawu;;3d-p;3rd Person Dual;61960;;;;mart1255;dench-1995
-pularna;;3p-a;3rd Person Plural;37165;;;;mart1255;dench-1995
-pularna;;3p-s;3rd Person Plural;37386;;;;mart1255;dench-1995
-pularna;;3p-o;3rd Person Plural;61961;;;;mart1255;dench-1995
-pularnawu;;3p-p;3rd Person Plural;61962;;;;mart1255;dench-1995
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ngayu,,1sg_a,1st (excl) Person Singular,28428,,,,mart1255,dench-1995
+ngayu,,1sg_s,1st (excl) Person Singular,28429,,,,mart1255,dench-1995
+nganaju,,1sg_o,1st (excl) Person Singular,28430,,,,mart1255,dench-1995
+nganaju,,1sg_p,1st (excl) Person Singular,28431,,,,mart1255,dench-1995
+ngaliya,,1du_a,1st (excl) Person Dual,61932,,,,mart1255,dench-1995
+ngaliya,,1du_s,1st (excl) Person Dual,61933,,,,mart1255,dench-1995
+ngaliyaa,,1du_o,1st (excl) Person Dual,61934,,,,mart1255,dench-1995
+ngaliyawu,,1du_p,1st (excl) Person Dual,61935,,,,mart1255,dench-1995
+nganarna,,1pl_a,1st (excl) Person Plural,61936,,,,mart1255,dench-1995
+nganarna,,1pl_s,1st (excl) Person Plural,61937,,,,mart1255,dench-1995
+nganarnaa,,1pl_o,1st (excl) Person Plural,61938,,,,mart1255,dench-1995
+nganarnawu,,1pl_p,1st (excl) Person Plural,61939,,,,mart1255,dench-1995
+ngali,,12du_a,1st (incl) Person Dual,28432,,,,mart1255,dench-1995
+ngali,,12du_s,1st (incl) Person Dual,28433,,,,mart1255,dench-1995
+ngalii,,12du_o,1st (incl) Person Dual,28434,,,,mart1255,dench-1995
+ngaliwu,,12du_p,1st (incl) Person Dual,61940,,,,mart1255,dench-1995
+ngaliwa,,12pl_a,1st (incl) Person Plural,28435,,,,mart1255,dench-1995
+ngaliwa,,12pl_s,1st (incl) Person Plural,28436,,,,mart1255,dench-1995
+ngaliwaa,,12pl_o,1st (incl) Person Plural,28437,,,,mart1255,dench-1995
+ngaliwawu,,12pl_p,1st (incl) Person Plural,28438,,,,mart1255,dench-1995
+kartu,,2sg_a,2nd Person Singular,28439,,,,mart1255,dench-1995
+kartu,,2sg_s,2nd Person Singular,28440,,,,mart1255,dench-1995
+kartungu,,2sg_o,2nd Person Singular,28441,,,,mart1255,dench-1995
+kartungu,,2sg_p,2nd Person Singular,28442,,,,mart1255,dench-1995
+nhuwala,,2du_a,2nd Person Dual,61941,,,,mart1255,dench-1995
+nhuwala,,2du_s,2nd Person Dual,61942,,,,mart1255,dench-1995
+nhuwalaa,,2du_o,2nd Person Dual,61943,,,,mart1255,dench-1995
+nhuwalawu,,2du_p,2nd Person Dual,61944,,,,mart1255,dench-1995
+nhuwana,,2pl_a,2nd Person Plural,61945,,,,mart1255,dench-1995
+nhuwana,,2pl_s,2nd Person Plural,61946,,,,mart1255,dench-1995
+nhuwanaa,,2pl_o,2nd Person Plural,61947,,,,mart1255,dench-1995
+nhuwanawu,,2pl_p,2nd Person Plural,61948,,,,mart1255,dench-1995
+nhiyu,,3sg_m_a,3rd Person Singular Masculine,61949,,nhiyu is a proximal demonstrative and ngunhu is a distal demonstrative.,,mart1255,dench-1995
+nhiyu,,3sg_m_s,3rd Person Singular Masculine,61950,,nhiyu is a proximal demonstrative and ngunhu is a distal demonstrative.,,mart1255,dench-1995
+yirna,,3sg_m_o,3rd Person Singular Masculine,61951,,yirna is the proximal demonstrative and ngurnu is the distal demonstrative.,,mart1255,dench-1995
+yirnawu,,3sg_m_p,3rd Person Singular Masculine,61952,,yirnawu is a proximal demonstrative and ngurnuwu is a distal demonstrative.,,mart1255,dench-1995
+ngunhu,,3sg_n_a,3rd Person Singular Neuter,61953,,nhiyu is a proximal demonstrative and ngunhu is a distal demonstrative.,,mart1255,dench-1995
+ngunhu,,3sg_n_s,3rd Person Singular Neuter,61954,,nhiyu is a proximal demonstrative and ngunhu is a distal demonstrative.,,mart1255,dench-1995
+ngurnu,,3sg_n_o,3rd Person Singular Neuter,61955,,"yirna is a proximal demonstrative, and ngurnu is the distal demonstrative.",,mart1255,dench-1995
+ngurnuwu,,3sg_n_p,3rd Person Singular Neuter,61956,,yirnawu is a proximal demonstrative and ngurnuwu is a distal demonstrative.,,mart1255,dench-1995
+pulaṇa,,3pl_m_a,3rd Person Plural Masculine,28443,,,,mart1255,dench-1995
+pulaṇa,,3pl_m_s,3rd Person Plural Masculine,28444,,,,mart1255,dench-1995
+pulaṇa,,3pl_f_a,3rd Person Plural Feminine,28445,,,,mart1255,dench-1995
+pulaṇa,,3pl_f_s,3rd Person Plural Feminine,28446,,,,mart1255,dench-1995
+pulaṇa,,3pl_n_a,3rd Person Plural Neuter,28447,,,,mart1255,dench-1995
+pulaṇa,,3pl_n_s,3rd Person Plural Neuter,28448,,,,mart1255,dench-1995
+pularna,,3d-a,3rd Person Dual,61957,,,,mart1255,dench-1995
+pularna,,3d-s,3rd Person Dual,61958,,,,mart1255,dench-1995
+pularna,,3d-o,3rd Person Dual,61959,,,,mart1255,dench-1995
+pularnawu,,3d-p,3rd Person Dual,61960,,,,mart1255,dench-1995
+pularna,,3p-a,3rd Person Plural,37165,,,,mart1255,dench-1995
+pularna,,3p-s,3rd Person Plural,37386,,,,mart1255,dench-1995
+pularna,,3p-o,3rd Person Plural,61961,,,,mart1255,dench-1995
+pularnawu,,3p-p,3rd Person Plural,61962,,,,mart1255,dench-1995

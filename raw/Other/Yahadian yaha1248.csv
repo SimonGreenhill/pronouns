@@ -1,53 +1,53 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nénigi;;1sg_a;1st (excl) Person Singular;41782;;;;yaha1248;de-vries-2004
-nénigi;;1sg_s;1st (excl) Person Singular;41781;;;;yaha1248;de-vries-2004
-nénigi;;1sg_o;1st (excl) Person Singular;41780;;;;yaha1248;de-vries-2004
-néne;;1sg_p;1st (excl) Person Singular;41779;;;;yaha1248;de-vries-2004
-nágigi;;1du_a;1st (excl) Person Dual;41778;;;;yaha1248;de-vries-2004
-nágigi;;1du_s;1st (excl) Person Dual;41777;;;;yaha1248;de-vries-2004
-nágigi;;1du_o;1st (excl) Person Dual;41776;;;;yaha1248;de-vries-2004
-na;;1du_p;1st (excl) Person Dual;42569;;;;yaha1248;de-vries-2004
-nam;;1du_p;1st (excl) Person Dual;42570;;;;yaha1248;de-vries-2004
-nágigi;;1pl_a;1st (excl) Person Plural;41774;;;;yaha1248;de-vries-2004
-nágigi;;1pl_s;1st (excl) Person Plural;41773;;;;yaha1248;de-vries-2004
-nágigi;;1pl_o;1st (excl) Person Plural;41772;;;;yaha1248;de-vries-2004
-na;;1pl_p;1st (excl) Person Plural;42567;;;;yaha1248;de-vries-2004
-nam;;1pl_p;1st (excl) Person Plural;42568;;;;yaha1248;de-vries-2004
-nágigi;;12du_a;1st (incl) Person Dual;41770;;;;yaha1248;de-vries-2004
-nágigi;;12du_s;1st (incl) Person Dual;41769;;;;yaha1248;de-vries-2004
-nágigi;;12du_o;1st (incl) Person Dual;41768;;;;yaha1248;de-vries-2004
-na;;12du_p;1st (incl) Person Dual;42565;;;;yaha1248;de-vries-2004
-nam;;12du_p;1st (incl) Person Dual;42566;;;;yaha1248;de-vries-2004
-nágigi;;12pl_a;1st (incl) Person Plural;41766;;;;yaha1248;de-vries-2004
-nágigi;;12pl_s;1st (incl) Person Plural;41765;;;;yaha1248;de-vries-2004
-nágigi;;12pl_o;1st (incl) Person Plural;41764;;;;yaha1248;de-vries-2004
-na;;12pl_p;1st (incl) Person Plural;42563;;;;yaha1248;de-vries-2004
-nam;;12pl_p;1st (incl) Person Plural;42564;;;;yaha1248;de-vries-2004
-érigi;;2sg_a;2nd Person Singular;41762;;;;yaha1248;de-vries-2004
-érigi;;2sg_s;2nd Person Singular;41761;;;;yaha1248;de-vries-2004
-érigi;;2sg_o;2nd Person Singular;41760;;;;yaha1248;de-vries-2004
-ére;;2sg_p;2nd Person Singular;41759;;;;yaha1248;de-vries-2004
-ádigi;;2du_a;2nd Person Dual;41758;;;;yaha1248;de-vries-2004
-ádigi;;2du_s;2nd Person Dual;41757;;;;yaha1248;de-vries-2004
-ádigi;;2du_o;2nd Person Dual;41756;;;;yaha1248;de-vries-2004
-ádi;;2du_p;2nd Person Dual;41755;;;;yaha1248;de-vries-2004
-ádigi;;2pl_a;2nd Person Plural;41754;;;;yaha1248;de-vries-2004
-ádigi;;2pl_s;2nd Person Plural;41753;;;;yaha1248;de-vries-2004
-ádigi;;2pl_o;2nd Person Plural;41752;;;;yaha1248;de-vries-2004
-ádi;;2pl_p;2nd Person Plural;41751;;;;yaha1248;de-vries-2004
-mígigi;;3sg_m_a;3rd Person Singular Masculine;41750;;;;yaha1248;de-vries-2004
-mígigi;;3sg_m_s;3rd Person Singular Masculine;41749;;;;yaha1248;de-vries-2004
-mígigi;;3sg_m_o;3rd Person Singular Masculine;41748;;;;yaha1248;de-vries-2004
-migéne;;3sg_m_p;3rd Person Singular Masculine;41747;;;;yaha1248;de-vries-2004
-mígigi;;3sg_n_a;3rd Person Singular Neuter;41746;;;;yaha1248;de-vries-2004
-mígigi;;3sg_n_s;3rd Person Singular Neuter;41745;;;;yaha1248;de-vries-2004
-mígigi;;3sg_n_o;3rd Person Singular Neuter;41744;;;;yaha1248;de-vries-2004
-migéne;;3sg_n_p;3rd Person Singular Neuter;41743;;;;yaha1248;de-vries-2004
-míginaigi;;3d-a;3rd Person Dual;41742;;;;yaha1248;de-vries-2004
-míginaigi;;3d-s;3rd Person Dual;41741;;;;yaha1248;de-vries-2004
-míginaigi;;3d-o;3rd Person Dual;41740;;;;yaha1248;de-vries-2004
-mígina;;3d-p;3rd Person Dual;41739;;;;yaha1248;de-vries-2004
-míginaigi;;3p-a;3rd Person Plural;41738;;;;yaha1248;de-vries-2004
-míginaigi;;3p-s;3rd Person Plural;41737;;;;yaha1248;de-vries-2004
-míginaigi;;3p-o;3rd Person Plural;41736;;;;yaha1248;de-vries-2004
-mígina;;3p-p;3rd Person Plural;41735;;;;yaha1248;de-vries-2004
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nénigi,,1sg_a,1st (excl) Person Singular,41782,,,,yaha1248,de-vries-2004
+nénigi,,1sg_s,1st (excl) Person Singular,41781,,,,yaha1248,de-vries-2004
+nénigi,,1sg_o,1st (excl) Person Singular,41780,,,,yaha1248,de-vries-2004
+néne,,1sg_p,1st (excl) Person Singular,41779,,,,yaha1248,de-vries-2004
+nágigi,,1du_a,1st (excl) Person Dual,41778,,,,yaha1248,de-vries-2004
+nágigi,,1du_s,1st (excl) Person Dual,41777,,,,yaha1248,de-vries-2004
+nágigi,,1du_o,1st (excl) Person Dual,41776,,,,yaha1248,de-vries-2004
+na,,1du_p,1st (excl) Person Dual,42569,,,,yaha1248,de-vries-2004
+nam,,1du_p,1st (excl) Person Dual,42570,,,,yaha1248,de-vries-2004
+nágigi,,1pl_a,1st (excl) Person Plural,41774,,,,yaha1248,de-vries-2004
+nágigi,,1pl_s,1st (excl) Person Plural,41773,,,,yaha1248,de-vries-2004
+nágigi,,1pl_o,1st (excl) Person Plural,41772,,,,yaha1248,de-vries-2004
+na,,1pl_p,1st (excl) Person Plural,42567,,,,yaha1248,de-vries-2004
+nam,,1pl_p,1st (excl) Person Plural,42568,,,,yaha1248,de-vries-2004
+nágigi,,12du_a,1st (incl) Person Dual,41770,,,,yaha1248,de-vries-2004
+nágigi,,12du_s,1st (incl) Person Dual,41769,,,,yaha1248,de-vries-2004
+nágigi,,12du_o,1st (incl) Person Dual,41768,,,,yaha1248,de-vries-2004
+na,,12du_p,1st (incl) Person Dual,42565,,,,yaha1248,de-vries-2004
+nam,,12du_p,1st (incl) Person Dual,42566,,,,yaha1248,de-vries-2004
+nágigi,,12pl_a,1st (incl) Person Plural,41766,,,,yaha1248,de-vries-2004
+nágigi,,12pl_s,1st (incl) Person Plural,41765,,,,yaha1248,de-vries-2004
+nágigi,,12pl_o,1st (incl) Person Plural,41764,,,,yaha1248,de-vries-2004
+na,,12pl_p,1st (incl) Person Plural,42563,,,,yaha1248,de-vries-2004
+nam,,12pl_p,1st (incl) Person Plural,42564,,,,yaha1248,de-vries-2004
+érigi,,2sg_a,2nd Person Singular,41762,,,,yaha1248,de-vries-2004
+érigi,,2sg_s,2nd Person Singular,41761,,,,yaha1248,de-vries-2004
+érigi,,2sg_o,2nd Person Singular,41760,,,,yaha1248,de-vries-2004
+ére,,2sg_p,2nd Person Singular,41759,,,,yaha1248,de-vries-2004
+ádigi,,2du_a,2nd Person Dual,41758,,,,yaha1248,de-vries-2004
+ádigi,,2du_s,2nd Person Dual,41757,,,,yaha1248,de-vries-2004
+ádigi,,2du_o,2nd Person Dual,41756,,,,yaha1248,de-vries-2004
+ádi,,2du_p,2nd Person Dual,41755,,,,yaha1248,de-vries-2004
+ádigi,,2pl_a,2nd Person Plural,41754,,,,yaha1248,de-vries-2004
+ádigi,,2pl_s,2nd Person Plural,41753,,,,yaha1248,de-vries-2004
+ádigi,,2pl_o,2nd Person Plural,41752,,,,yaha1248,de-vries-2004
+ádi,,2pl_p,2nd Person Plural,41751,,,,yaha1248,de-vries-2004
+mígigi,,3sg_m_a,3rd Person Singular Masculine,41750,,,,yaha1248,de-vries-2004
+mígigi,,3sg_m_s,3rd Person Singular Masculine,41749,,,,yaha1248,de-vries-2004
+mígigi,,3sg_m_o,3rd Person Singular Masculine,41748,,,,yaha1248,de-vries-2004
+migéne,,3sg_m_p,3rd Person Singular Masculine,41747,,,,yaha1248,de-vries-2004
+mígigi,,3sg_n_a,3rd Person Singular Neuter,41746,,,,yaha1248,de-vries-2004
+mígigi,,3sg_n_s,3rd Person Singular Neuter,41745,,,,yaha1248,de-vries-2004
+mígigi,,3sg_n_o,3rd Person Singular Neuter,41744,,,,yaha1248,de-vries-2004
+migéne,,3sg_n_p,3rd Person Singular Neuter,41743,,,,yaha1248,de-vries-2004
+míginaigi,,3d-a,3rd Person Dual,41742,,,,yaha1248,de-vries-2004
+míginaigi,,3d-s,3rd Person Dual,41741,,,,yaha1248,de-vries-2004
+míginaigi,,3d-o,3rd Person Dual,41740,,,,yaha1248,de-vries-2004
+mígina,,3d-p,3rd Person Dual,41739,,,,yaha1248,de-vries-2004
+míginaigi,,3p-a,3rd Person Plural,41738,,,,yaha1248,de-vries-2004
+míginaigi,,3p-s,3rd Person Plural,41737,,,,yaha1248,de-vries-2004
+míginaigi,,3p-o,3rd Person Plural,41736,,,,yaha1248,de-vries-2004
+mígina,,3p-p,3rd Person Plural,41735,,,,yaha1248,de-vries-2004

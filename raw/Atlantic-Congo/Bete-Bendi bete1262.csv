@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mí;;1sg_a;1st (excl) Person Singular;59057;;;;bete1262;oha-2012
-mí;;1sg_s;1st (excl) Person Singular;59056;;;;bete1262;oha-2012
-mí;;1sg_o;1st (excl) Person Singular;59055;;;;bete1262;oha-2012
-kígì;;1sg_p;1st (excl) Person Singular;59054;;;;bete1262;oha-2012
-lí;;1du_a;1st (excl) Person Dual;59053;;;;bete1262;oha-2012
-lí;;1du_s;1st (excl) Person Dual;59052;;;;bete1262;oha-2012
-líbə̄l;;1du_o;1st (excl) Person Dual;59051;;;;bete1262;oha-2012
-kítìan;;1du_p;1st (excl) Person Dual;59050;;;;bete1262;oha-2012
-lí;;1pl_a;1st (excl) Person Plural;59049;;;;bete1262;oha-2012
-lí;;1pl_s;1st (excl) Person Plural;59048;;;;bete1262;oha-2012
-líbə̄l;;1pl_o;1st (excl) Person Plural;59047;;;;bete1262;oha-2012
-kítìan;;1pl_p;1st (excl) Person Plural;59046;;;;bete1262;oha-2012
-lí;;12du_a;1st (incl) Person Dual;59045;;;;bete1262;oha-2012
-lí;;12du_s;1st (incl) Person Dual;59044;;;;bete1262;oha-2012
-líbə̄l;;12du_o;1st (incl) Person Dual;59043;;;;bete1262;oha-2012
-kítìan;;12du_p;1st (incl) Person Dual;59042;;;;bete1262;oha-2012
-lí;;12pl_a;1st (incl) Person Plural;59041;;;;bete1262;oha-2012
-lí;;12pl_s;1st (incl) Person Plural;59040;;;;bete1262;oha-2012
-líbə̄l;;12pl_o;1st (incl) Person Plural;59039;;;;bete1262;oha-2012
-kítìan;;12pl_p;1st (incl) Person Plural;59038;;;;bete1262;oha-2012
-wó;;2sg_a;2nd Person Singular;59037;;;;bete1262;oha-2012
-wó;;2sg_s;2nd Person Singular;59036;;;;bete1262;oha-2012
-wá;;2sg_o;2nd Person Singular;59035;;;;bete1262;oha-2012
-kígàŋ;;2sg_p;2nd Person Singular;59034;;;;bete1262;oha-2012
-mə̄n;;2du_a;2nd Person Dual;59033;;;;bete1262;oha-2012
-mə̄n;;2du_s;2nd Person Dual;59032;;;;bete1262;oha-2012
-ámə̄n;;2du_o;2nd Person Dual;59031;;;;bete1262;oha-2012
-kímə̄n;;2du_p;2nd Person Dual;59030;;;;bete1262;oha-2012
-mə̄n;;2pl_a;2nd Person Plural;59029;;;;bete1262;oha-2012
-mə̄n;;2pl_s;2nd Person Plural;59028;;;;bete1262;oha-2012
-ámə̄n;;2pl_o;2nd Person Plural;59027;;;;bete1262;oha-2012
-kímə̄n;;2pl_p;2nd Person Plural;59026;;;;bete1262;oha-2012
-ùfə̄l;;3sg_m_a;3rd Person Singular Masculine;59025;;;;bete1262;oha-2012
-ùfə̄l;;3sg_m_s;3rd Person Singular Masculine;59024;;;;bete1262;oha-2012
-hə́;;3sg_m_o;3rd Person Singular Masculine;59023;;;;bete1262;oha-2012
-kímà;;3sg_m_p;3rd Person Singular Masculine;59022;;;;bete1262;oha-2012
-kí;;3sg_n_a;3rd Person Singular Neuter;59021;;;;bete1262;oha-2012
-kí;;3sg_n_s;3rd Person Singular Neuter;59020;;;;bete1262;oha-2012
-áʃí;;3sg_n_o;3rd Person Singular Neuter;59019;;;;bete1262;oha-2012
-ábì;;3sg_n_p;3rd Person Singular Neuter;59018;;;;bete1262;oha-2012
-bèfə́l;;3d-a;3rd Person Dual;59017;;;;bete1262;oha-2012
-bèfə́l;;3d-s;3rd Person Dual;59016;;;;bete1262;oha-2012
-ábə́h;;3d-o;3rd Person Dual;59015;;;;bete1262;oha-2012
-kíbə̀l;;3d-p;3rd Person Dual;59014;;;;bete1262;oha-2012
-bèfə́l;;3p-a;3rd Person Plural;59013;;;;bete1262;oha-2012
-bèfə́l;;3p-s;3rd Person Plural;59012;;;;bete1262;oha-2012
-ábə́h;;3p-o;3rd Person Plural;59011;;;;bete1262;oha-2012
-kíbə̀l;;3p-p;3rd Person Plural;59010;;;;bete1262;oha-2012
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mí,,1sg_a,1st (excl) Person Singular,59057,,,,bete1262,oha-2012
+mí,,1sg_s,1st (excl) Person Singular,59056,,,,bete1262,oha-2012
+mí,,1sg_o,1st (excl) Person Singular,59055,,,,bete1262,oha-2012
+kígì,,1sg_p,1st (excl) Person Singular,59054,,,,bete1262,oha-2012
+lí,,1du_a,1st (excl) Person Dual,59053,,,,bete1262,oha-2012
+lí,,1du_s,1st (excl) Person Dual,59052,,,,bete1262,oha-2012
+líbə̄l,,1du_o,1st (excl) Person Dual,59051,,,,bete1262,oha-2012
+kítìan,,1du_p,1st (excl) Person Dual,59050,,,,bete1262,oha-2012
+lí,,1pl_a,1st (excl) Person Plural,59049,,,,bete1262,oha-2012
+lí,,1pl_s,1st (excl) Person Plural,59048,,,,bete1262,oha-2012
+líbə̄l,,1pl_o,1st (excl) Person Plural,59047,,,,bete1262,oha-2012
+kítìan,,1pl_p,1st (excl) Person Plural,59046,,,,bete1262,oha-2012
+lí,,12du_a,1st (incl) Person Dual,59045,,,,bete1262,oha-2012
+lí,,12du_s,1st (incl) Person Dual,59044,,,,bete1262,oha-2012
+líbə̄l,,12du_o,1st (incl) Person Dual,59043,,,,bete1262,oha-2012
+kítìan,,12du_p,1st (incl) Person Dual,59042,,,,bete1262,oha-2012
+lí,,12pl_a,1st (incl) Person Plural,59041,,,,bete1262,oha-2012
+lí,,12pl_s,1st (incl) Person Plural,59040,,,,bete1262,oha-2012
+líbə̄l,,12pl_o,1st (incl) Person Plural,59039,,,,bete1262,oha-2012
+kítìan,,12pl_p,1st (incl) Person Plural,59038,,,,bete1262,oha-2012
+wó,,2sg_a,2nd Person Singular,59037,,,,bete1262,oha-2012
+wó,,2sg_s,2nd Person Singular,59036,,,,bete1262,oha-2012
+wá,,2sg_o,2nd Person Singular,59035,,,,bete1262,oha-2012
+kígàŋ,,2sg_p,2nd Person Singular,59034,,,,bete1262,oha-2012
+mə̄n,,2du_a,2nd Person Dual,59033,,,,bete1262,oha-2012
+mə̄n,,2du_s,2nd Person Dual,59032,,,,bete1262,oha-2012
+ámə̄n,,2du_o,2nd Person Dual,59031,,,,bete1262,oha-2012
+kímə̄n,,2du_p,2nd Person Dual,59030,,,,bete1262,oha-2012
+mə̄n,,2pl_a,2nd Person Plural,59029,,,,bete1262,oha-2012
+mə̄n,,2pl_s,2nd Person Plural,59028,,,,bete1262,oha-2012
+ámə̄n,,2pl_o,2nd Person Plural,59027,,,,bete1262,oha-2012
+kímə̄n,,2pl_p,2nd Person Plural,59026,,,,bete1262,oha-2012
+ùfə̄l,,3sg_m_a,3rd Person Singular Masculine,59025,,,,bete1262,oha-2012
+ùfə̄l,,3sg_m_s,3rd Person Singular Masculine,59024,,,,bete1262,oha-2012
+hə́,,3sg_m_o,3rd Person Singular Masculine,59023,,,,bete1262,oha-2012
+kímà,,3sg_m_p,3rd Person Singular Masculine,59022,,,,bete1262,oha-2012
+kí,,3sg_n_a,3rd Person Singular Neuter,59021,,,,bete1262,oha-2012
+kí,,3sg_n_s,3rd Person Singular Neuter,59020,,,,bete1262,oha-2012
+áʃí,,3sg_n_o,3rd Person Singular Neuter,59019,,,,bete1262,oha-2012
+ábì,,3sg_n_p,3rd Person Singular Neuter,59018,,,,bete1262,oha-2012
+bèfə́l,,3d-a,3rd Person Dual,59017,,,,bete1262,oha-2012
+bèfə́l,,3d-s,3rd Person Dual,59016,,,,bete1262,oha-2012
+ábə́h,,3d-o,3rd Person Dual,59015,,,,bete1262,oha-2012
+kíbə̀l,,3d-p,3rd Person Dual,59014,,,,bete1262,oha-2012
+bèfə́l,,3p-a,3rd Person Plural,59013,,,,bete1262,oha-2012
+bèfə́l,,3p-s,3rd Person Plural,59012,,,,bete1262,oha-2012
+ábə́h,,3p-o,3rd Person Plural,59011,,,,bete1262,oha-2012
+kíbə̀l,,3p-p,3rd Person Plural,59010,,,,bete1262,oha-2012

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ragai;;1sg_a;1st (excl) Person Singular;41226;;;;roto1249;firchow-1987
-ragai;;1sg_s;1st (excl) Person Singular;41225;;;;roto1249;firchow-1987
-ragai;;1sg_o;1st (excl) Person Singular;41224;;;;roto1249;firchow-1987
-oaa;;1sg_p;1st (excl) Person Singular;41223;;;;roto1249;firchow-1987
-vegei;;1du_a;1st (excl) Person Dual;41222;;;;roto1249;firchow-1987
-vegei;;1du_s;1st (excl) Person Dual;41221;;;;roto1249;firchow-1987
-vegei;;1du_o;1st (excl) Person Dual;41220;;;;roto1249;firchow-1987
-oave;;1du_p;1st (excl) Person Dual;41219;;;;roto1249;firchow-1987
-igei;;1pl_a;1st (excl) Person Plural;41218;;;;roto1249;firchow-1987
-igei;;1pl_s;1st (excl) Person Plural;41217;;;;roto1249;firchow-1987
-igei;;1pl_o;1st (excl) Person Plural;41216;;;;roto1249;firchow-1987
-oaio;;1pl_p;1st (excl) Person Plural;41215;;;;roto1249;firchow-1987
-vegei;;12du_a;1st (incl) Person Dual;41214;;;;roto1249;firchow-1987
-vegei;;12du_s;1st (incl) Person Dual;41213;;;;roto1249;firchow-1987
-vegei;;12du_o;1st (incl) Person Dual;41212;;;;roto1249;firchow-1987
-oave;;12du_p;1st (incl) Person Dual;41211;;;;roto1249;firchow-1987
-vigei;;12pl_a;1st (incl) Person Plural;41210;;;;roto1249;firchow-1987
-vigei;;12pl_s;1st (incl) Person Plural;41209;;;;roto1249;firchow-1987
-vigei;;12pl_o;1st (incl) Person Plural;41208;;;;roto1249;firchow-1987
-oavi;;12pl_p;1st (incl) Person Plural;41207;;;;roto1249;firchow-1987
-vi;;2sg_a;2nd Person Singular;41206;;;;roto1249;firchow-1987
-vi;;2sg_s;2nd Person Singular;41205;;;;roto1249;firchow-1987
-vi;;2sg_o;2nd Person Singular;41204;;;;roto1249;firchow-1987
-oara;;2sg_p;2nd Person Singular;41203;;;;roto1249;firchow-1987
-vei;;2du_a;2nd Person Dual;41202;;;;roto1249;firchow-1987
-vei;;2du_s;2nd Person Dual;41201;;;;roto1249;firchow-1987
-vei;;2du_o;2nd Person Dual;41200;;;;roto1249;firchow-1987
-oaesi;;2du_p;2nd Person Dual;41199;;;;roto1249;firchow-1987
-visi;;2pl_a;2nd Person Plural;41198;;;;roto1249;firchow-1987
-visi;;2pl_s;2nd Person Plural;41197;;;;roto1249;firchow-1987
-visi;;2pl_o;2nd Person Plural;41196;;;;roto1249;firchow-1987
-oavisi;;2pl_p;2nd Person Plural;41195;;;;roto1249;firchow-1987
-rera;;3sg_m_a;3rd Person Singular Masculine;41194;;"rera is masculine; oira is feminine; va is neuter.";;roto1249;firchow-1987
-rera;;3sg_m_s;3rd Person Singular Masculine;41193;;"rera is masculine; oira is feminine; va is neuter.";;roto1249;firchow-1987
-rera;;3sg_m_o;3rd Person Singular Masculine;41192;;"rera is masculine; oira is feminine; va is neuter.";;roto1249;firchow-1987
-oaro;;3sg_m_p;3rd Person Singular Masculine;41191;;;;roto1249;firchow-1987
-oira;;3sg_n_a;3rd Person Singular Neuter;41190;;"rera is masculine; oira is feminine; va is neuter.";;roto1249;firchow-1987
-oira;;3sg_n_s;3rd Person Singular Neuter;41189;;"rera is masculine; oira is feminine; va is neuter.";;roto1249;firchow-1987
-oira;;3sg_n_o;3rd Person Singular Neuter;41188;;"rera is masculine; oira is feminine; va is neuter.";;roto1249;firchow-1987
-o;;3sg_n_p;3rd Person Singular Neuter;41187;;;;roto1249;firchow-1987
-vaiterei;;3d-a;3rd Person Dual;41186;;"vaiterei is masculine; vairei is feminine; varei is neuter.";;roto1249;firchow-1987
-vaiterei;;3d-s;3rd Person Dual;41185;;"vaiterei is masculine; vairei is feminine; varei is neuter.";;roto1249;firchow-1987
-vaiterei;;3d-o;3rd Person Dual;41184;;"vaiterei is masculine; vairei is feminine; varei is neuter.";;roto1249;firchow-1987
-oaesi, oaere;;3d-p;3rd Person Dual;41183;;;;roto1249;firchow-1987
-voea;;3p-a;3rd Person Plural;41182;;"voea is masculine; vairo is feminine; vara is neuter.";;roto1249;firchow-1987
-voea;;3p-s;3rd Person Plural;41181;;"voea is masculine; vairo is feminine; vara is neuter.";;roto1249;firchow-1987
-voea;;3p-o;3rd Person Plural;41180;;"voea is masculine; vairo is feminine; vara is neuter.";;roto1249;firchow-1987
-oaive, oae;;3p-p;3rd Person Plural;41179;;;;roto1249;firchow-1987
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ragai,,1sg_a,1st (excl) Person Singular,41226,,,,roto1249,firchow-1987
+ragai,,1sg_s,1st (excl) Person Singular,41225,,,,roto1249,firchow-1987
+ragai,,1sg_o,1st (excl) Person Singular,41224,,,,roto1249,firchow-1987
+oaa,,1sg_p,1st (excl) Person Singular,41223,,,,roto1249,firchow-1987
+vegei,,1du_a,1st (excl) Person Dual,41222,,,,roto1249,firchow-1987
+vegei,,1du_s,1st (excl) Person Dual,41221,,,,roto1249,firchow-1987
+vegei,,1du_o,1st (excl) Person Dual,41220,,,,roto1249,firchow-1987
+oave,,1du_p,1st (excl) Person Dual,41219,,,,roto1249,firchow-1987
+igei,,1pl_a,1st (excl) Person Plural,41218,,,,roto1249,firchow-1987
+igei,,1pl_s,1st (excl) Person Plural,41217,,,,roto1249,firchow-1987
+igei,,1pl_o,1st (excl) Person Plural,41216,,,,roto1249,firchow-1987
+oaio,,1pl_p,1st (excl) Person Plural,41215,,,,roto1249,firchow-1987
+vegei,,12du_a,1st (incl) Person Dual,41214,,,,roto1249,firchow-1987
+vegei,,12du_s,1st (incl) Person Dual,41213,,,,roto1249,firchow-1987
+vegei,,12du_o,1st (incl) Person Dual,41212,,,,roto1249,firchow-1987
+oave,,12du_p,1st (incl) Person Dual,41211,,,,roto1249,firchow-1987
+vigei,,12pl_a,1st (incl) Person Plural,41210,,,,roto1249,firchow-1987
+vigei,,12pl_s,1st (incl) Person Plural,41209,,,,roto1249,firchow-1987
+vigei,,12pl_o,1st (incl) Person Plural,41208,,,,roto1249,firchow-1987
+oavi,,12pl_p,1st (incl) Person Plural,41207,,,,roto1249,firchow-1987
+vi,,2sg_a,2nd Person Singular,41206,,,,roto1249,firchow-1987
+vi,,2sg_s,2nd Person Singular,41205,,,,roto1249,firchow-1987
+vi,,2sg_o,2nd Person Singular,41204,,,,roto1249,firchow-1987
+oara,,2sg_p,2nd Person Singular,41203,,,,roto1249,firchow-1987
+vei,,2du_a,2nd Person Dual,41202,,,,roto1249,firchow-1987
+vei,,2du_s,2nd Person Dual,41201,,,,roto1249,firchow-1987
+vei,,2du_o,2nd Person Dual,41200,,,,roto1249,firchow-1987
+oaesi,,2du_p,2nd Person Dual,41199,,,,roto1249,firchow-1987
+visi,,2pl_a,2nd Person Plural,41198,,,,roto1249,firchow-1987
+visi,,2pl_s,2nd Person Plural,41197,,,,roto1249,firchow-1987
+visi,,2pl_o,2nd Person Plural,41196,,,,roto1249,firchow-1987
+oavisi,,2pl_p,2nd Person Plural,41195,,,,roto1249,firchow-1987
+rera,,3sg_m_a,3rd Person Singular Masculine,41194,,rera is masculine; oira is feminine; va is neuter.,,roto1249,firchow-1987
+rera,,3sg_m_s,3rd Person Singular Masculine,41193,,rera is masculine; oira is feminine; va is neuter.,,roto1249,firchow-1987
+rera,,3sg_m_o,3rd Person Singular Masculine,41192,,rera is masculine; oira is feminine; va is neuter.,,roto1249,firchow-1987
+oaro,,3sg_m_p,3rd Person Singular Masculine,41191,,,,roto1249,firchow-1987
+oira,,3sg_n_a,3rd Person Singular Neuter,41190,,rera is masculine; oira is feminine; va is neuter.,,roto1249,firchow-1987
+oira,,3sg_n_s,3rd Person Singular Neuter,41189,,rera is masculine; oira is feminine; va is neuter.,,roto1249,firchow-1987
+oira,,3sg_n_o,3rd Person Singular Neuter,41188,,rera is masculine; oira is feminine; va is neuter.,,roto1249,firchow-1987
+o,,3sg_n_p,3rd Person Singular Neuter,41187,,,,roto1249,firchow-1987
+vaiterei,,3d-a,3rd Person Dual,41186,,vaiterei is masculine; vairei is feminine; varei is neuter.,,roto1249,firchow-1987
+vaiterei,,3d-s,3rd Person Dual,41185,,vaiterei is masculine; vairei is feminine; varei is neuter.,,roto1249,firchow-1987
+vaiterei,,3d-o,3rd Person Dual,41184,,vaiterei is masculine; vairei is feminine; varei is neuter.,,roto1249,firchow-1987
+"oaesi, oaere",,3d-p,3rd Person Dual,41183,,,,roto1249,firchow-1987
+voea,,3p-a,3rd Person Plural,41182,,voea is masculine; vairo is feminine; vara is neuter.,,roto1249,firchow-1987
+voea,,3p-s,3rd Person Plural,41181,,voea is masculine; vairo is feminine; vara is neuter.,,roto1249,firchow-1987
+voea,,3p-o,3rd Person Plural,41180,,voea is masculine; vairo is feminine; vara is neuter.,,roto1249,firchow-1987
+"oaive, oae",,3p-p,3rd Person Plural,41179,,,,roto1249,firchow-1987

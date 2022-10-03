@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nas;;1sg_a;1st (excl) Person Singular;52998;;;;cogu1240;ortizricaurte-2000
-nas;;1sg_s;1st (excl) Person Singular;52997;;;;cogu1240;ortizricaurte-2000
-nas;;1sg_o;1st (excl) Person Singular;52996;;;;cogu1240;ortizricaurte-2000
-na'hi;;1sg_p;1st (excl) Person Singular;52995;;;;cogu1240;ortizricaurte-2000
-nasɯn;;1du_a;1st (excl) Person Dual;52994;;;;cogu1240;ortizricaurte-2000
-nasɯn;;1du_s;1st (excl) Person Dual;52993;;;;cogu1240;ortizricaurte-2000
-nasɯn;;1du_o;1st (excl) Person Dual;52992;;;;cogu1240;ortizricaurte-2000
-sɯn-;;1du_p;1st (excl) Person Dual;52991;;;;cogu1240;ortizricaurte-2000
-nasɯn;;1pl_a;1st (excl) Person Plural;52990;;;;cogu1240;ortizricaurte-2000
-nasɯn;;1pl_s;1st (excl) Person Plural;52989;;;;cogu1240;ortizricaurte-2000
-nasɯn;;1pl_o;1st (excl) Person Plural;52988;;;;cogu1240;ortizricaurte-2000
-sɯn-;;1pl_p;1st (excl) Person Plural;52987;;;;cogu1240;ortizricaurte-2000
-nasɯn;;12du_a;1st (incl) Person Dual;52986;;;;cogu1240;ortizricaurte-2000
-nasɯn;;12du_s;1st (incl) Person Dual;52985;;;;cogu1240;ortizricaurte-2000
-nasɯn;;12du_o;1st (incl) Person Dual;52984;;;;cogu1240;ortizricaurte-2000
-na'uihi;;12du_p;1st (incl) Person Dual;52983;;;;cogu1240;ortizricaurte-2000
-nasɯn;;12pl_a;1st (incl) Person Plural;52982;;;;cogu1240;ortizricaurte-2000
-nasɯn;;12pl_s;1st (incl) Person Plural;52981;;;;cogu1240;ortizricaurte-2000
-nasɯn;;12pl_o;1st (incl) Person Plural;52980;;;;cogu1240;ortizricaurte-2000
-na'uihi;;12pl_p;1st (incl) Person Plural;52979;;;;cogu1240;ortizricaurte-2000
-ma;;2sg_a;2nd Person Singular;52978;;;;cogu1240;ortizricaurte-2000
-ma;;2sg_s;2nd Person Singular;52977;;;;cogu1240;ortizricaurte-2000
-ma;;2sg_o;2nd Person Singular;52976;;;;cogu1240;ortizricaurte-2000
-mi'hi;;2sg_p;2nd Person Singular;52975;;;;cogu1240;ortizricaurte-2000
-main;;2du_a;2nd Person Dual;52974;;;;cogu1240;ortizricaurte-2000
-main;;2du_s;2nd Person Dual;52973;;;;cogu1240;ortizricaurte-2000
-main;;2du_o;2nd Person Dual;52972;;;;cogu1240;ortizricaurte-2000
-mi'mihi;;2du_p;2nd Person Dual;52971;;;;cogu1240;ortizricaurte-2000
-main;;2pl_a;2nd Person Plural;52970;;;;cogu1240;ortizricaurte-2000
-main;;2pl_s;2nd Person Plural;52969;;;;cogu1240;ortizricaurte-2000
-main;;2pl_o;2nd Person Plural;52968;;;;cogu1240;ortizricaurte-2000
-mi'mihi;;2pl_p;2nd Person Plural;52967;;;;cogu1240;ortizricaurte-2000
-ei;;3sg_m_a;3rd Person Singular Masculine;52966;;;;cogu1240;ortizricaurte-2000
-ei;;3sg_m_s;3rd Person Singular Masculine;52965;;;;cogu1240;ortizricaurte-2000
-ei;;3sg_m_o;3rd Person Singular Masculine;52964;;;;cogu1240;ortizricaurte-2000
-a'hi;;3sg_m_p;3rd Person Singular Masculine;52963;;;;cogu1240;ortizricaurte-2000
-ei;;3sg_n_a;3rd Person Singular Neuter;52962;;;;cogu1240;ortizricaurte-2000
-ei;;3sg_n_s;3rd Person Singular Neuter;52961;;;;cogu1240;ortizricaurte-2000
-ei;;3sg_n_o;3rd Person Singular Neuter;52960;;;;cogu1240;ortizricaurte-2000
-a'hi;;3sg_n_p;3rd Person Singular Neuter;52959;;;;cogu1240;ortizricaurte-2000
-kauiʒi ;;3d-a;3rd Person Dual;52958;;kauiʒi as definite form and eikũẽ as indefinite;;cogu1240;ortizricaurte-2000
-kauiʒi ;;3d-s;3rd Person Dual;52957;;kauiʒi as definite form and eikũẽ as indefinite;;cogu1240;ortizricaurte-2000
-kauiʒi ;;3d-o;3rd Person Dual;52956;;kauiʒi as definite form and eikũẽ as indefinite;;cogu1240;ortizricaurte-2000
-ka'uihi;;3d-p;3rd Person Dual;52955;;;;cogu1240;ortizricaurte-2000
-kauiʒi ;;3p-a;3rd Person Plural;52954;;kauiʒi as definite form and eikũẽ as indefinite;;cogu1240;ortizricaurte-2000
-kauiʒi ;;3p-s;3rd Person Plural;52953;;kauiʒi as definite form and eikũẽ as indefinite;;cogu1240;ortizricaurte-2000
-kauiʒi ;;3p-o;3rd Person Plural;52952;;kauiʒi as definite form and eikũẽ as indefinite;;cogu1240;ortizricaurte-2000
-ka'uihi;;3p-p;3rd Person Plural;52951;;;;cogu1240;ortizricaurte-2000
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nas,,1sg_a,1st (excl) Person Singular,52998,,,,cogu1240,ortizricaurte-2000
+nas,,1sg_s,1st (excl) Person Singular,52997,,,,cogu1240,ortizricaurte-2000
+nas,,1sg_o,1st (excl) Person Singular,52996,,,,cogu1240,ortizricaurte-2000
+na'hi,,1sg_p,1st (excl) Person Singular,52995,,,,cogu1240,ortizricaurte-2000
+nasɯn,,1du_a,1st (excl) Person Dual,52994,,,,cogu1240,ortizricaurte-2000
+nasɯn,,1du_s,1st (excl) Person Dual,52993,,,,cogu1240,ortizricaurte-2000
+nasɯn,,1du_o,1st (excl) Person Dual,52992,,,,cogu1240,ortizricaurte-2000
+sɯn-,,1du_p,1st (excl) Person Dual,52991,,,,cogu1240,ortizricaurte-2000
+nasɯn,,1pl_a,1st (excl) Person Plural,52990,,,,cogu1240,ortizricaurte-2000
+nasɯn,,1pl_s,1st (excl) Person Plural,52989,,,,cogu1240,ortizricaurte-2000
+nasɯn,,1pl_o,1st (excl) Person Plural,52988,,,,cogu1240,ortizricaurte-2000
+sɯn-,,1pl_p,1st (excl) Person Plural,52987,,,,cogu1240,ortizricaurte-2000
+nasɯn,,12du_a,1st (incl) Person Dual,52986,,,,cogu1240,ortizricaurte-2000
+nasɯn,,12du_s,1st (incl) Person Dual,52985,,,,cogu1240,ortizricaurte-2000
+nasɯn,,12du_o,1st (incl) Person Dual,52984,,,,cogu1240,ortizricaurte-2000
+na'uihi,,12du_p,1st (incl) Person Dual,52983,,,,cogu1240,ortizricaurte-2000
+nasɯn,,12pl_a,1st (incl) Person Plural,52982,,,,cogu1240,ortizricaurte-2000
+nasɯn,,12pl_s,1st (incl) Person Plural,52981,,,,cogu1240,ortizricaurte-2000
+nasɯn,,12pl_o,1st (incl) Person Plural,52980,,,,cogu1240,ortizricaurte-2000
+na'uihi,,12pl_p,1st (incl) Person Plural,52979,,,,cogu1240,ortizricaurte-2000
+ma,,2sg_a,2nd Person Singular,52978,,,,cogu1240,ortizricaurte-2000
+ma,,2sg_s,2nd Person Singular,52977,,,,cogu1240,ortizricaurte-2000
+ma,,2sg_o,2nd Person Singular,52976,,,,cogu1240,ortizricaurte-2000
+mi'hi,,2sg_p,2nd Person Singular,52975,,,,cogu1240,ortizricaurte-2000
+main,,2du_a,2nd Person Dual,52974,,,,cogu1240,ortizricaurte-2000
+main,,2du_s,2nd Person Dual,52973,,,,cogu1240,ortizricaurte-2000
+main,,2du_o,2nd Person Dual,52972,,,,cogu1240,ortizricaurte-2000
+mi'mihi,,2du_p,2nd Person Dual,52971,,,,cogu1240,ortizricaurte-2000
+main,,2pl_a,2nd Person Plural,52970,,,,cogu1240,ortizricaurte-2000
+main,,2pl_s,2nd Person Plural,52969,,,,cogu1240,ortizricaurte-2000
+main,,2pl_o,2nd Person Plural,52968,,,,cogu1240,ortizricaurte-2000
+mi'mihi,,2pl_p,2nd Person Plural,52967,,,,cogu1240,ortizricaurte-2000
+ei,,3sg_m_a,3rd Person Singular Masculine,52966,,,,cogu1240,ortizricaurte-2000
+ei,,3sg_m_s,3rd Person Singular Masculine,52965,,,,cogu1240,ortizricaurte-2000
+ei,,3sg_m_o,3rd Person Singular Masculine,52964,,,,cogu1240,ortizricaurte-2000
+a'hi,,3sg_m_p,3rd Person Singular Masculine,52963,,,,cogu1240,ortizricaurte-2000
+ei,,3sg_n_a,3rd Person Singular Neuter,52962,,,,cogu1240,ortizricaurte-2000
+ei,,3sg_n_s,3rd Person Singular Neuter,52961,,,,cogu1240,ortizricaurte-2000
+ei,,3sg_n_o,3rd Person Singular Neuter,52960,,,,cogu1240,ortizricaurte-2000
+a'hi,,3sg_n_p,3rd Person Singular Neuter,52959,,,,cogu1240,ortizricaurte-2000
+kauiʒi,,3d-a,3rd Person Dual,52958,,kauiʒi as definite form and eikũẽ as indefinite,,cogu1240,ortizricaurte-2000
+kauiʒi,,3d-s,3rd Person Dual,52957,,kauiʒi as definite form and eikũẽ as indefinite,,cogu1240,ortizricaurte-2000
+kauiʒi,,3d-o,3rd Person Dual,52956,,kauiʒi as definite form and eikũẽ as indefinite,,cogu1240,ortizricaurte-2000
+ka'uihi,,3d-p,3rd Person Dual,52955,,,,cogu1240,ortizricaurte-2000
+kauiʒi,,3p-a,3rd Person Plural,52954,,kauiʒi as definite form and eikũẽ as indefinite,,cogu1240,ortizricaurte-2000
+kauiʒi,,3p-s,3rd Person Plural,52953,,kauiʒi as definite form and eikũẽ as indefinite,,cogu1240,ortizricaurte-2000
+kauiʒi,,3p-o,3rd Person Plural,52952,,kauiʒi as definite form and eikũẽ as indefinite,,cogu1240,ortizricaurte-2000
+ka'uihi,,3p-p,3rd Person Plural,52951,,,,cogu1240,ortizricaurte-2000

@@ -1,48 +1,48 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-anoʔ;;1sg_a;1st (excl) Person Singular;47058;;;;choc1276;broadwell-2006
-anoʔ;;1sg_s;1st (excl) Person Singular;47057;;;;choc1276;broadwell-2006
-anoʔ;;1sg_o;1st (excl) Person Singular;47056;;;;choc1276;broadwell-2006
-ámmiʔ;;1sg_p;1st (excl) Person Singular;47070;;;;choc1276;broadwell-2006
-piʃnoʔ;;1du_a;1st (excl) Person Dual;47055;;;;choc1276;broadwell-2006
-piʃnoʔ;;1du_s;1st (excl) Person Dual;47054;;;;choc1276;broadwell-2006
-piʃnoʔ;;1du_o;1st (excl) Person Dual;47053;;;;choc1276;broadwell-2006
-pímmiʔ;;1du_p;1st (excl) Person Dual;47069;;;;choc1276;broadwell-2006
-piʃnoʔ;;1pl_a;1st (excl) Person Plural;47052;;;;choc1276;broadwell-2006
-piʃnoʔ;;1pl_s;1st (excl) Person Plural;47051;;;;choc1276;broadwell-2006
-piʃnoʔ;;1pl_o;1st (excl) Person Plural;47050;;;;choc1276;broadwell-2006
-pímmiʔ;;1pl_p;1st (excl) Person Plural;47068;;;;choc1276;broadwell-2006
-piʃnoʔ;;12du_a;1st (incl) Person Dual;47049;;;;choc1276;broadwell-2006
-piʃnoʔ;;12du_s;1st (incl) Person Dual;47048;;;;choc1276;broadwell-2006
-piʃnoʔ;;12du_o;1st (incl) Person Dual;47047;;;;choc1276;broadwell-2006
-pímmiʔ;;12du_p;1st (incl) Person Dual;47067;;;;choc1276;broadwell-2006
-piʃnoʔ;;12pl_a;1st (incl) Person Plural;47046;;;;choc1276;broadwell-2006
-piʃnoʔ;;12pl_s;1st (incl) Person Plural;47045;;;;choc1276;broadwell-2006
-piʃnoʔ;;12pl_o;1st (incl) Person Plural;47044;;;;choc1276;broadwell-2006
-pímmiʔ;;12pl_p;1st (incl) Person Plural;47066;;;;choc1276;broadwell-2006
-ʧiʃnoʔ;;2sg_a;2nd Person Singular;47043;;;;choc1276;broadwell-2006
-ʧiʃnoʔ;;2sg_s;2nd Person Singular;47042;;;;choc1276;broadwell-2006
-ʧiʃnoʔ;;2sg_o;2nd Person Singular;47041;;;;choc1276;broadwell-2006
-ʧímmiʔ;;2sg_p;2nd Person Singular;47065;;;;choc1276;broadwell-2006
-haʧiʃnoʔ;;2du_a;2nd Person Dual;47040;;;;choc1276;broadwell-2006
-haʧiʃnoʔ;;2du_s;2nd Person Dual;47039;;;;choc1276;broadwell-2006
-haʧiʃnoʔ;;2du_o;2nd Person Dual;47038;;;;choc1276;broadwell-2006
-haʧímmiʔ;;2du_p;2nd Person Dual;47064;;;;choc1276;broadwell-2006
-haʧiʃnoʔ;;2pl_a;2nd Person Plural;47037;;;;choc1276;broadwell-2006
-haʧiʃnoʔ;;2pl_s;2nd Person Plural;47036;;;;choc1276;broadwell-2006
-haʧiʃnoʔ;;2pl_o;2nd Person Plural;47035;;;;choc1276;broadwell-2006
-haʧímmiʔ;;2pl_p;2nd Person Plural;47063;;;;choc1276;broadwell-2006
-yammak;;3sg_m_a;3rd Person Singular Masculine;47034;;The form 'yammak' is a demonstrative used for 3rd person reference..;;choc1276;broadwell-2006
-yammak;;3sg_m_s;3rd Person Singular Masculine;47033;;;;choc1276;broadwell-2006
-ímmiʔ;;3sg_m_p;3rd Person Singular Masculine;47062;;;;choc1276;broadwell-2006
-yammak;;3sg_n_a;3rd Person Singular Neuter;47031;;The form 'yammak' is also listed (Broadwell 2006:93).;;choc1276;broadwell-2006
-yammak;;3sg_n_s;3rd Person Singular Neuter;47030;;The form 'yammak' is also listed (Broadwell 2006:93).;;choc1276;broadwell-2006
-yammak;;3sg_n_o;3rd Person Singular Neuter;47029;;The form 'yammak' is also listed (Broadwell 2006:93).;;choc1276;broadwell-2006
-ímmiʔ;;3sg_n_p;3rd Person Singular Neuter;47061;;;;choc1276;broadwell-2006
-yammak;;3d-a;3rd Person Dual;47028;;;;choc1276;broadwell-2006
-yammak;;3d-s;3rd Person Dual;47027;;;;choc1276;broadwell-2006
-yammak;;3d-o;3rd Person Dual;47026;;;;choc1276;broadwell-2006
-ímmiʔ;;3d-p;3rd Person Dual;47060;;;;choc1276;broadwell-2006
-yammak;;3p-a;3rd Person Plural;47025;;;;choc1276;broadwell-2006
-yammak;;3p-s;3rd Person Plural;47024;;;;choc1276;broadwell-2006
-yammak;;3p-o;3rd Person Plural;47023;;;;choc1276;broadwell-2006
-ímmiʔ;;3p-p;3rd Person Plural;47059;;;;choc1276;broadwell-2006
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+anoʔ,,1sg_a,1st (excl) Person Singular,47058,,,,choc1276,broadwell-2006
+anoʔ,,1sg_s,1st (excl) Person Singular,47057,,,,choc1276,broadwell-2006
+anoʔ,,1sg_o,1st (excl) Person Singular,47056,,,,choc1276,broadwell-2006
+ámmiʔ,,1sg_p,1st (excl) Person Singular,47070,,,,choc1276,broadwell-2006
+piʃnoʔ,,1du_a,1st (excl) Person Dual,47055,,,,choc1276,broadwell-2006
+piʃnoʔ,,1du_s,1st (excl) Person Dual,47054,,,,choc1276,broadwell-2006
+piʃnoʔ,,1du_o,1st (excl) Person Dual,47053,,,,choc1276,broadwell-2006
+pímmiʔ,,1du_p,1st (excl) Person Dual,47069,,,,choc1276,broadwell-2006
+piʃnoʔ,,1pl_a,1st (excl) Person Plural,47052,,,,choc1276,broadwell-2006
+piʃnoʔ,,1pl_s,1st (excl) Person Plural,47051,,,,choc1276,broadwell-2006
+piʃnoʔ,,1pl_o,1st (excl) Person Plural,47050,,,,choc1276,broadwell-2006
+pímmiʔ,,1pl_p,1st (excl) Person Plural,47068,,,,choc1276,broadwell-2006
+piʃnoʔ,,12du_a,1st (incl) Person Dual,47049,,,,choc1276,broadwell-2006
+piʃnoʔ,,12du_s,1st (incl) Person Dual,47048,,,,choc1276,broadwell-2006
+piʃnoʔ,,12du_o,1st (incl) Person Dual,47047,,,,choc1276,broadwell-2006
+pímmiʔ,,12du_p,1st (incl) Person Dual,47067,,,,choc1276,broadwell-2006
+piʃnoʔ,,12pl_a,1st (incl) Person Plural,47046,,,,choc1276,broadwell-2006
+piʃnoʔ,,12pl_s,1st (incl) Person Plural,47045,,,,choc1276,broadwell-2006
+piʃnoʔ,,12pl_o,1st (incl) Person Plural,47044,,,,choc1276,broadwell-2006
+pímmiʔ,,12pl_p,1st (incl) Person Plural,47066,,,,choc1276,broadwell-2006
+ʧiʃnoʔ,,2sg_a,2nd Person Singular,47043,,,,choc1276,broadwell-2006
+ʧiʃnoʔ,,2sg_s,2nd Person Singular,47042,,,,choc1276,broadwell-2006
+ʧiʃnoʔ,,2sg_o,2nd Person Singular,47041,,,,choc1276,broadwell-2006
+ʧímmiʔ,,2sg_p,2nd Person Singular,47065,,,,choc1276,broadwell-2006
+haʧiʃnoʔ,,2du_a,2nd Person Dual,47040,,,,choc1276,broadwell-2006
+haʧiʃnoʔ,,2du_s,2nd Person Dual,47039,,,,choc1276,broadwell-2006
+haʧiʃnoʔ,,2du_o,2nd Person Dual,47038,,,,choc1276,broadwell-2006
+haʧímmiʔ,,2du_p,2nd Person Dual,47064,,,,choc1276,broadwell-2006
+haʧiʃnoʔ,,2pl_a,2nd Person Plural,47037,,,,choc1276,broadwell-2006
+haʧiʃnoʔ,,2pl_s,2nd Person Plural,47036,,,,choc1276,broadwell-2006
+haʧiʃnoʔ,,2pl_o,2nd Person Plural,47035,,,,choc1276,broadwell-2006
+haʧímmiʔ,,2pl_p,2nd Person Plural,47063,,,,choc1276,broadwell-2006
+yammak,,3sg_m_a,3rd Person Singular Masculine,47034,,The form 'yammak' is a demonstrative used for 3rd person reference..,,choc1276,broadwell-2006
+yammak,,3sg_m_s,3rd Person Singular Masculine,47033,,,,choc1276,broadwell-2006
+ímmiʔ,,3sg_m_p,3rd Person Singular Masculine,47062,,,,choc1276,broadwell-2006
+yammak,,3sg_n_a,3rd Person Singular Neuter,47031,,The form 'yammak' is also listed (Broadwell 2006:93).,,choc1276,broadwell-2006
+yammak,,3sg_n_s,3rd Person Singular Neuter,47030,,The form 'yammak' is also listed (Broadwell 2006:93).,,choc1276,broadwell-2006
+yammak,,3sg_n_o,3rd Person Singular Neuter,47029,,The form 'yammak' is also listed (Broadwell 2006:93).,,choc1276,broadwell-2006
+ímmiʔ,,3sg_n_p,3rd Person Singular Neuter,47061,,,,choc1276,broadwell-2006
+yammak,,3d-a,3rd Person Dual,47028,,,,choc1276,broadwell-2006
+yammak,,3d-s,3rd Person Dual,47027,,,,choc1276,broadwell-2006
+yammak,,3d-o,3rd Person Dual,47026,,,,choc1276,broadwell-2006
+ímmiʔ,,3d-p,3rd Person Dual,47060,,,,choc1276,broadwell-2006
+yammak,,3p-a,3rd Person Plural,47025,,,,choc1276,broadwell-2006
+yammak,,3p-s,3rd Person Plural,47024,,,,choc1276,broadwell-2006
+yammak,,3p-o,3rd Person Plural,47023,,,,choc1276,broadwell-2006
+ímmiʔ,,3p-p,3rd Person Plural,47059,,,,choc1276,broadwell-2006

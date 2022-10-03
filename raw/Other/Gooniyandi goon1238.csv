@@ -1,77 +1,77 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋañi;;1sg_a;1st (excl) Person Singular;28241;;;;goon1238;mcgregor-1990
-ŋañi;;1sg_s;1st (excl) Person Singular;28242;;;;goon1238;mcgregor-1990
-ŋañi;;1sg_o;1st (excl) Person Singular;28243;;;;goon1238;mcgregor-1990
-ŋaddagi;;1sg_p;1st (excl) Person Singular;28244;;;;goon1238;mcgregor-1990
-ŋidi;;1du_a;1st (excl) Person Dual;28245;;;;goon1238;mcgregor-1990
-ŋidi;;1du_s;1st (excl) Person Dual;28246;;;;goon1238;mcgregor-1990
-ŋidi;;1du_o;1st (excl) Person Dual;28247;;;;goon1238;mcgregor-1990
-ŋaddagi;;1du_p;1st (excl) Person Dual;28248;;;;goon1238;mcgregor-1990
-yaadi;;1pl_a;1st (excl) Person Plural;28249;;;;goon1238;mcgregor-1990
-yaadi;;1pl_s;1st (excl) Person Plural;28250;;;;goon1238;mcgregor-1990
-yaadi;;1pl_o;1st (excl) Person Plural;28251;;;;goon1238;mcgregor-1990
-ŋaddagi;;1pl_p;1st (excl) Person Plural;28252;;;;goon1238;mcgregor-1990
-ŋidi;;12du_a;1st (incl) Person Dual;28253;;;;goon1238;mcgregor-1990
-ŋidi;;12du_s;1st (incl) Person Dual;28254;;;;goon1238;mcgregor-1990
-ŋidi;;12du_o;1st (incl) Person Dual;28255;;;;goon1238;mcgregor-1990
-ŋaddagi;;12du_p;1st (incl) Person Dual;28256;;;;goon1238;mcgregor-1990
-yaadi;;12pl_a;1st (incl) Person Plural;28257;;;;goon1238;mcgregor-1990
-yaadi;;12pl_s;1st (incl) Person Plural;28258;;;;goon1238;mcgregor-1990
-yaadi;;12pl_o;1st (incl) Person Plural;28259;;;;goon1238;mcgregor-1990
-ŋaddagi;;12pl_p;1st (incl) Person Plural;28260;;;;goon1238;mcgregor-1990
-ŋiñji;;2sg_a;2nd Person Singular;28261;;;;goon1238;mcgregor-1990
-ŋiñji;;2sg_s;2nd Person Singular;28262;;;;goon1238;mcgregor-1990
-ŋiñji;;2sg_o;2nd Person Singular;28263;;;;goon1238;mcgregor-1990
-ŋaaŋgi;;2sg_p;2nd Person Singular;28264;;;;goon1238;mcgregor-1990
-gidiyooddoo;;2du_a;2nd Person Dual;28265;;;;goon1238;mcgregor-1990
-gidiyooddoo;;2du_s;2nd Person Dual;28266;;;;goon1238;mcgregor-1990
-gidiyooddoo;;2du_o;2nd Person Dual;28267;;;;goon1238;mcgregor-1990
-giddaŋiyoodoo;;2du_p;2nd Person Dual;28268;;;;goon1238;mcgregor-1990
-gidi;;2pl_a;2nd Person Plural;28269;;;;goon1238;mcgregor-1990
-gidi;;2pl_s;2nd Person Plural;28270;;;;goon1238;mcgregor-1990
-gidi;;2pl_o;2nd Person Plural;28271;;;;goon1238;mcgregor-1990
-giddaŋi;;2pl_p;2nd Person Plural;28272;;;;goon1238;mcgregor-1990
-niyi;;3sg_m_a;3rd Person Singular Masculine;28273;;;;goon1238;mcgregor-1990
-niyi;;3sg_m_s;3rd Person Singular Masculine;28274;;;;goon1238;mcgregor-1990
-niyi;;3sg_m_o;3rd Person Singular Masculine;28275;;;;goon1238;mcgregor-1990
-ṋoowoo;;3sg_m_p;3rd Person Singular Masculine;28276;;;;goon1238;mcgregor-1990
-niyi;;3sg_f_a;3rd Person Singular Feminine;28277;;;;goon1238;mcgregor-1990
-niyi;;3sg_f_s;3rd Person Singular Feminine;28278;;;;goon1238;mcgregor-1990
-niyi;;3sg_f_o;3rd Person Singular Feminine;28279;;;;goon1238;mcgregor-1990
-ṋoowoo;;3sg_f_p;3rd Person Singular Feminine;28280;;;;goon1238;mcgregor-1990
-niyi;;3sg_n_a;3rd Person Singular Neuter;28281;;;;goon1238;mcgregor-1990
-niyi;;3sg_n_s;3rd Person Singular Neuter;28282;;;;goon1238;mcgregor-1990
-niyi;;3sg_n_o;3rd Person Singular Neuter;28283;;;;goon1238;mcgregor-1990
-ṋoowoo;;3sg_n_p;3rd Person Singular Neuter;28284;;;;goon1238;mcgregor-1990
-bidiyooddoo;;3du_m_a;3rd Person Dual Masculine;28285;;;;goon1238;mcgregor-1990
-bidiyooddoo;;3du_m_s;3rd Person Dual Masculine;28286;;;;goon1238;mcgregor-1990
-bidiyooddoo;;3du_m_o;3rd Person Dual Masculine;28287;;;;goon1238;mcgregor-1990
-biddaŋiyooddoo;;3du_m_p;3rd Person Dual Masculine;28288;;;;goon1238;mcgregor-1990
-bidiyooddoo;;3du_f_a;3rd Person Dual Feminine;28289;;;;goon1238;mcgregor-1990
-bidiyooddoo;;3du_f_s;3rd Person Dual Feminine;28290;;;;goon1238;mcgregor-1990
-bidiyooddoo;;3du_f_o;3rd Person Dual Feminine;28291;;;;goon1238;mcgregor-1990
-biddaŋiyooddoo;;3du_f_p;3rd Person Dual Feminine;28292;;;;goon1238;mcgregor-1990
-bidiyooddoo;;3du_n_a;3rd Person Dual Neuter;28293;;;;goon1238;mcgregor-1990
-bidiyooddoo;;3du_n_s;3rd Person Dual Neuter;28294;;;;goon1238;mcgregor-1990
-bidiyooddoo;;3du_n_o;3rd Person Dual Neuter;28295;;;;goon1238;mcgregor-1990
-biddaŋiyooddoo;;3du_n_p;3rd Person Dual Neuter;28296;;;;goon1238;mcgregor-1990
-bidi;;3pl_m_a;3rd Person Plural Masculine;28297;;;;goon1238;mcgregor-1990
-bidi;;3pl_m_s;3rd Person Plural Masculine;28298;;;;goon1238;mcgregor-1990
-bidi;;3pl_m_o;3rd Person Plural Masculine;28299;;;;goon1238;mcgregor-1990
-biddaŋi;;3pl_m_p;3rd Person Plural Masculine;28300;;;;goon1238;mcgregor-1990
-bidi;;3pl_f_a;3rd Person Plural Feminine;28301;;;;goon1238;mcgregor-1990
-bidi;;3pl_f_s;3rd Person Plural Feminine;28302;;;;goon1238;mcgregor-1990
-bidi;;3pl_f_o;3rd Person Plural Feminine;28303;;;;goon1238;mcgregor-1990
-biddaŋi;;3pl_f_p;3rd Person Plural Feminine;28304;;;;goon1238;mcgregor-1990
-bidi;;3pl_n_a;3rd Person Plural Neuter;28305;;;;goon1238;mcgregor-1990
-bidi;;3pl_n_s;3rd Person Plural Neuter;28306;;;;goon1238;mcgregor-1990
-bidi;;3pl_n_o;3rd Person Plural Neuter;28307;;;;goon1238;mcgregor-1990
-biddaŋi;;3pl_n_p;3rd Person Plural Neuter;28308;;;;goon1238;mcgregor-1990
-bidiyooddoo;;3d-a;3rd Person Dual;36245;;;;goon1238;mcgregor-1990
-bidiyooddoo;;3d-s;3rd Person Dual;36465;;;;goon1238;mcgregor-1990
-bidiyooddoo;;3d-o;3rd Person Dual;36693;;;;goon1238;mcgregor-1990
-biddaŋiyooddoo;;3d-p;3rd Person Dual;36913;;;;goon1238;mcgregor-1990
-bidi;;3p-a;3rd Person Plural;37125;;;;goon1238;mcgregor-1990
-bidi;;3p-s;3rd Person Plural;37346;;;;goon1238;mcgregor-1990
-bidi;;3p-o;3rd Person Plural;37573;;;;goon1238;mcgregor-1990
-biddaŋi;;3p-p;3rd Person Plural;37791;;;;goon1238;mcgregor-1990
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋañi,,1sg_a,1st (excl) Person Singular,28241,,,,goon1238,mcgregor-1990
+ŋañi,,1sg_s,1st (excl) Person Singular,28242,,,,goon1238,mcgregor-1990
+ŋañi,,1sg_o,1st (excl) Person Singular,28243,,,,goon1238,mcgregor-1990
+ŋaddagi,,1sg_p,1st (excl) Person Singular,28244,,,,goon1238,mcgregor-1990
+ŋidi,,1du_a,1st (excl) Person Dual,28245,,,,goon1238,mcgregor-1990
+ŋidi,,1du_s,1st (excl) Person Dual,28246,,,,goon1238,mcgregor-1990
+ŋidi,,1du_o,1st (excl) Person Dual,28247,,,,goon1238,mcgregor-1990
+ŋaddagi,,1du_p,1st (excl) Person Dual,28248,,,,goon1238,mcgregor-1990
+yaadi,,1pl_a,1st (excl) Person Plural,28249,,,,goon1238,mcgregor-1990
+yaadi,,1pl_s,1st (excl) Person Plural,28250,,,,goon1238,mcgregor-1990
+yaadi,,1pl_o,1st (excl) Person Plural,28251,,,,goon1238,mcgregor-1990
+ŋaddagi,,1pl_p,1st (excl) Person Plural,28252,,,,goon1238,mcgregor-1990
+ŋidi,,12du_a,1st (incl) Person Dual,28253,,,,goon1238,mcgregor-1990
+ŋidi,,12du_s,1st (incl) Person Dual,28254,,,,goon1238,mcgregor-1990
+ŋidi,,12du_o,1st (incl) Person Dual,28255,,,,goon1238,mcgregor-1990
+ŋaddagi,,12du_p,1st (incl) Person Dual,28256,,,,goon1238,mcgregor-1990
+yaadi,,12pl_a,1st (incl) Person Plural,28257,,,,goon1238,mcgregor-1990
+yaadi,,12pl_s,1st (incl) Person Plural,28258,,,,goon1238,mcgregor-1990
+yaadi,,12pl_o,1st (incl) Person Plural,28259,,,,goon1238,mcgregor-1990
+ŋaddagi,,12pl_p,1st (incl) Person Plural,28260,,,,goon1238,mcgregor-1990
+ŋiñji,,2sg_a,2nd Person Singular,28261,,,,goon1238,mcgregor-1990
+ŋiñji,,2sg_s,2nd Person Singular,28262,,,,goon1238,mcgregor-1990
+ŋiñji,,2sg_o,2nd Person Singular,28263,,,,goon1238,mcgregor-1990
+ŋaaŋgi,,2sg_p,2nd Person Singular,28264,,,,goon1238,mcgregor-1990
+gidiyooddoo,,2du_a,2nd Person Dual,28265,,,,goon1238,mcgregor-1990
+gidiyooddoo,,2du_s,2nd Person Dual,28266,,,,goon1238,mcgregor-1990
+gidiyooddoo,,2du_o,2nd Person Dual,28267,,,,goon1238,mcgregor-1990
+giddaŋiyoodoo,,2du_p,2nd Person Dual,28268,,,,goon1238,mcgregor-1990
+gidi,,2pl_a,2nd Person Plural,28269,,,,goon1238,mcgregor-1990
+gidi,,2pl_s,2nd Person Plural,28270,,,,goon1238,mcgregor-1990
+gidi,,2pl_o,2nd Person Plural,28271,,,,goon1238,mcgregor-1990
+giddaŋi,,2pl_p,2nd Person Plural,28272,,,,goon1238,mcgregor-1990
+niyi,,3sg_m_a,3rd Person Singular Masculine,28273,,,,goon1238,mcgregor-1990
+niyi,,3sg_m_s,3rd Person Singular Masculine,28274,,,,goon1238,mcgregor-1990
+niyi,,3sg_m_o,3rd Person Singular Masculine,28275,,,,goon1238,mcgregor-1990
+ṋoowoo,,3sg_m_p,3rd Person Singular Masculine,28276,,,,goon1238,mcgregor-1990
+niyi,,3sg_f_a,3rd Person Singular Feminine,28277,,,,goon1238,mcgregor-1990
+niyi,,3sg_f_s,3rd Person Singular Feminine,28278,,,,goon1238,mcgregor-1990
+niyi,,3sg_f_o,3rd Person Singular Feminine,28279,,,,goon1238,mcgregor-1990
+ṋoowoo,,3sg_f_p,3rd Person Singular Feminine,28280,,,,goon1238,mcgregor-1990
+niyi,,3sg_n_a,3rd Person Singular Neuter,28281,,,,goon1238,mcgregor-1990
+niyi,,3sg_n_s,3rd Person Singular Neuter,28282,,,,goon1238,mcgregor-1990
+niyi,,3sg_n_o,3rd Person Singular Neuter,28283,,,,goon1238,mcgregor-1990
+ṋoowoo,,3sg_n_p,3rd Person Singular Neuter,28284,,,,goon1238,mcgregor-1990
+bidiyooddoo,,3du_m_a,3rd Person Dual Masculine,28285,,,,goon1238,mcgregor-1990
+bidiyooddoo,,3du_m_s,3rd Person Dual Masculine,28286,,,,goon1238,mcgregor-1990
+bidiyooddoo,,3du_m_o,3rd Person Dual Masculine,28287,,,,goon1238,mcgregor-1990
+biddaŋiyooddoo,,3du_m_p,3rd Person Dual Masculine,28288,,,,goon1238,mcgregor-1990
+bidiyooddoo,,3du_f_a,3rd Person Dual Feminine,28289,,,,goon1238,mcgregor-1990
+bidiyooddoo,,3du_f_s,3rd Person Dual Feminine,28290,,,,goon1238,mcgregor-1990
+bidiyooddoo,,3du_f_o,3rd Person Dual Feminine,28291,,,,goon1238,mcgregor-1990
+biddaŋiyooddoo,,3du_f_p,3rd Person Dual Feminine,28292,,,,goon1238,mcgregor-1990
+bidiyooddoo,,3du_n_a,3rd Person Dual Neuter,28293,,,,goon1238,mcgregor-1990
+bidiyooddoo,,3du_n_s,3rd Person Dual Neuter,28294,,,,goon1238,mcgregor-1990
+bidiyooddoo,,3du_n_o,3rd Person Dual Neuter,28295,,,,goon1238,mcgregor-1990
+biddaŋiyooddoo,,3du_n_p,3rd Person Dual Neuter,28296,,,,goon1238,mcgregor-1990
+bidi,,3pl_m_a,3rd Person Plural Masculine,28297,,,,goon1238,mcgregor-1990
+bidi,,3pl_m_s,3rd Person Plural Masculine,28298,,,,goon1238,mcgregor-1990
+bidi,,3pl_m_o,3rd Person Plural Masculine,28299,,,,goon1238,mcgregor-1990
+biddaŋi,,3pl_m_p,3rd Person Plural Masculine,28300,,,,goon1238,mcgregor-1990
+bidi,,3pl_f_a,3rd Person Plural Feminine,28301,,,,goon1238,mcgregor-1990
+bidi,,3pl_f_s,3rd Person Plural Feminine,28302,,,,goon1238,mcgregor-1990
+bidi,,3pl_f_o,3rd Person Plural Feminine,28303,,,,goon1238,mcgregor-1990
+biddaŋi,,3pl_f_p,3rd Person Plural Feminine,28304,,,,goon1238,mcgregor-1990
+bidi,,3pl_n_a,3rd Person Plural Neuter,28305,,,,goon1238,mcgregor-1990
+bidi,,3pl_n_s,3rd Person Plural Neuter,28306,,,,goon1238,mcgregor-1990
+bidi,,3pl_n_o,3rd Person Plural Neuter,28307,,,,goon1238,mcgregor-1990
+biddaŋi,,3pl_n_p,3rd Person Plural Neuter,28308,,,,goon1238,mcgregor-1990
+bidiyooddoo,,3d-a,3rd Person Dual,36245,,,,goon1238,mcgregor-1990
+bidiyooddoo,,3d-s,3rd Person Dual,36465,,,,goon1238,mcgregor-1990
+bidiyooddoo,,3d-o,3rd Person Dual,36693,,,,goon1238,mcgregor-1990
+biddaŋiyooddoo,,3d-p,3rd Person Dual,36913,,,,goon1238,mcgregor-1990
+bidi,,3p-a,3rd Person Plural,37125,,,,goon1238,mcgregor-1990
+bidi,,3p-s,3rd Person Plural,37346,,,,goon1238,mcgregor-1990
+bidi,,3p-o,3rd Person Plural,37573,,,,goon1238,mcgregor-1990
+biddaŋi,,3p-p,3rd Person Plural,37791,,,,goon1238,mcgregor-1990

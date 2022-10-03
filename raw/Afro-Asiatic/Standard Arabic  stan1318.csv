@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ʔana:;;1sg_a;1st (excl) Person Singular;43275;;;;stan1318;ryding-2005
-ʔana:;;1sg_s;1st (excl) Person Singular;43274;;;;stan1318;ryding-2005
--i:;;1sg_o;1st (excl) Person Singular;43273;;Shows alternation with the alomorph -ni:, which appears suffixed to verbs with a word final vowel..;;stan1318;ryding-2005
--i:;;1sg_p;1st (excl) Person Singular;43272;;Shows alternation with the alomorph -ni:, which appears suffixed to nouns with a word final vowel.;;stan1318;ryding-2005
-naHnu;;1du_a;1st (excl) Person Dual;43271;;;;stan1318;ryding-2005
-naHnu;;1du_s;1st (excl) Person Dual;43270;;;;stan1318;ryding-2005
--na:;;1du_o;1st (excl) Person Dual;43269;;;;stan1318;ryding-2005
--na:;;1du_p;1st (excl) Person Dual;43268;;;;stan1318;ryding-2005
-naHnu;;1pl_a;1st (excl) Person Plural;43267;;;;stan1318;ryding-2005
-naHnu;;1pl_s;1st (excl) Person Plural;43266;;;;stan1318;ryding-2005
--na:;;1pl_o;1st (excl) Person Plural;43265;;;;stan1318;ryding-2005
--na:;;1pl_p;1st (excl) Person Plural;43264;;;;stan1318;ryding-2005
-naHnu;;12du_a;1st (incl) Person Dual;43263;;;;stan1318;ryding-2005
-naHnu;;12du_s;1st (incl) Person Dual;43262;;;;stan1318;ryding-2005
--na:;;12du_o;1st (incl) Person Dual;43261;;;;stan1318;ryding-2005
--na:;;12du_p;1st (incl) Person Dual;43260;;;;stan1318;ryding-2005
-naHnu;;12pl_a;1st (incl) Person Plural;43259;;;;stan1318;ryding-2005
-naHnu;;12pl_s;1st (incl) Person Plural;43258;;;;stan1318;ryding-2005
--na:;;12pl_o;1st (incl) Person Plural;43257;;;;stan1318;ryding-2005
--na:;;12pl_p;1st (incl) Person Plural;43256;;;;stan1318;ryding-2005
-ʔanta;;2sg_a;2nd Person Singular;43255;;'ʔanta' is in fact the 2sgM form, 'ʔanti' is the 2sgF form. ;;stan1318;ryding-2005
-ʔanta;;2sg_s;2nd Person Singular;43254;;'ʔanta' is in fact the 2sgM form, 'ʔanti' is the 2sgF form.;;stan1318;ryding-2005
--ka;;2sg_o;2nd Person Singular;43253;;The 2sgF form is '-ki'.;;stan1318;ryding-2005
--ka;;2sg_p;2nd Person Singular;43252;;The 2sgF form is '-ki'.;;stan1318;ryding-2005
-ʔantuma:;;2du_a;2nd Person Dual;43251;;;;stan1318;ryding-2005
-ʔantuma:;;2du_s;2nd Person Dual;43250;;;;stan1318;ryding-2005
--kuma:;;2du_o;2nd Person Dual;43249;;;;stan1318;ryding-2005
--kuma:;;2du_p;2nd Person Dual;43248;;;;stan1318;ryding-2005
-ʔantum;;2pl_a;2nd Person Plural;43247;;'ʔantum' is in fact the 2dM form, the 2dF form is 'ʔntunna'.;;stan1318;ryding-2005
-ʔantum;;2pl_s;2nd Person Plural;43246;;'ʔantum' is in fact the 2dM form, the 2dF form is 'ʔntunna'.;;stan1318;ryding-2005
--kum;;2pl_o;2nd Person Plural;43245;;The 2dF form is '-kunna'.;;stan1318;ryding-2005
--kum;;2pl_p;2nd Person Plural;43244;;The 2dF form is '-kunna'.;;stan1318;ryding-2005
-huwa;;3sg_m_a;3rd Person Singular Masculine;43243;;;;stan1318;ryding-2005
-huwa;;3sg_m_s;3rd Person Singular Masculine;43242;;;;stan1318;ryding-2005
--hu;;3sg_m_o;3rd Person Singular Masculine;43241;;;;stan1318;ryding-2005
--hu;;3sg_m_p;3rd Person Singular Masculine;43240;;;;stan1318;ryding-2005
-hiya;;3sg_n_a;3rd Person Singular Neuter;43239;;;;stan1318;ryding-2005
-hiya;;3sg_n_s;3rd Person Singular Neuter;43238;;;;stan1318;ryding-2005
--ha:;;3sg_n_o;3rd Person Singular Neuter;43237;;;;stan1318;ryding-2005
--ha:;;3sg_n_p;3rd Person Singular Neuter;43236;;;;stan1318;ryding-2005
-huma:;;3d-a;3rd Person Dual;43235;;;;stan1318;ryding-2005
-huma:;;3d-s;3rd Person Dual;43234;;;;stan1318;ryding-2005
--huma:;;3d-o;3rd Person Dual;43233;;;;stan1318;ryding-2005
--huma:;;3d-p;3rd Person Dual;43232;;;;stan1318;ryding-2005
-hum;;3p-a;3rd Person Plural;43231;;;;stan1318;ryding-2005
-hum;;3p-s;3rd Person Plural;43230;;;;stan1318;ryding-2005
--hum;;3p-o;3rd Person Plural;43229;;;;stan1318;ryding-2005
--hum;;3p-p;3rd Person Plural;43228;;;;stan1318;ryding-2005
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ʔana:,,1sg_a,1st (excl) Person Singular,43275,,,,stan1318,ryding-2005
+ʔana:,,1sg_s,1st (excl) Person Singular,43274,,,,stan1318,ryding-2005
+-i:,,1sg_o,1st (excl) Person Singular,43273,,"Shows alternation with the alomorph -ni:, which appears suffixed to verbs with a word final vowel..",,stan1318,ryding-2005
+-i:,,1sg_p,1st (excl) Person Singular,43272,,"Shows alternation with the alomorph -ni:, which appears suffixed to nouns with a word final vowel.",,stan1318,ryding-2005
+naHnu,,1du_a,1st (excl) Person Dual,43271,,,,stan1318,ryding-2005
+naHnu,,1du_s,1st (excl) Person Dual,43270,,,,stan1318,ryding-2005
+-na:,,1du_o,1st (excl) Person Dual,43269,,,,stan1318,ryding-2005
+-na:,,1du_p,1st (excl) Person Dual,43268,,,,stan1318,ryding-2005
+naHnu,,1pl_a,1st (excl) Person Plural,43267,,,,stan1318,ryding-2005
+naHnu,,1pl_s,1st (excl) Person Plural,43266,,,,stan1318,ryding-2005
+-na:,,1pl_o,1st (excl) Person Plural,43265,,,,stan1318,ryding-2005
+-na:,,1pl_p,1st (excl) Person Plural,43264,,,,stan1318,ryding-2005
+naHnu,,12du_a,1st (incl) Person Dual,43263,,,,stan1318,ryding-2005
+naHnu,,12du_s,1st (incl) Person Dual,43262,,,,stan1318,ryding-2005
+-na:,,12du_o,1st (incl) Person Dual,43261,,,,stan1318,ryding-2005
+-na:,,12du_p,1st (incl) Person Dual,43260,,,,stan1318,ryding-2005
+naHnu,,12pl_a,1st (incl) Person Plural,43259,,,,stan1318,ryding-2005
+naHnu,,12pl_s,1st (incl) Person Plural,43258,,,,stan1318,ryding-2005
+-na:,,12pl_o,1st (incl) Person Plural,43257,,,,stan1318,ryding-2005
+-na:,,12pl_p,1st (incl) Person Plural,43256,,,,stan1318,ryding-2005
+ʔanta,,2sg_a,2nd Person Singular,43255,,"'ʔanta' is in fact the 2sgM form, 'ʔanti' is the 2sgF form.",,stan1318,ryding-2005
+ʔanta,,2sg_s,2nd Person Singular,43254,,"'ʔanta' is in fact the 2sgM form, 'ʔanti' is the 2sgF form.",,stan1318,ryding-2005
+-ka,,2sg_o,2nd Person Singular,43253,,The 2sgF form is '-ki'.,,stan1318,ryding-2005
+-ka,,2sg_p,2nd Person Singular,43252,,The 2sgF form is '-ki'.,,stan1318,ryding-2005
+ʔantuma:,,2du_a,2nd Person Dual,43251,,,,stan1318,ryding-2005
+ʔantuma:,,2du_s,2nd Person Dual,43250,,,,stan1318,ryding-2005
+-kuma:,,2du_o,2nd Person Dual,43249,,,,stan1318,ryding-2005
+-kuma:,,2du_p,2nd Person Dual,43248,,,,stan1318,ryding-2005
+ʔantum,,2pl_a,2nd Person Plural,43247,,"'ʔantum' is in fact the 2dM form, the 2dF form is 'ʔntunna'.",,stan1318,ryding-2005
+ʔantum,,2pl_s,2nd Person Plural,43246,,"'ʔantum' is in fact the 2dM form, the 2dF form is 'ʔntunna'.",,stan1318,ryding-2005
+-kum,,2pl_o,2nd Person Plural,43245,,The 2dF form is '-kunna'.,,stan1318,ryding-2005
+-kum,,2pl_p,2nd Person Plural,43244,,The 2dF form is '-kunna'.,,stan1318,ryding-2005
+huwa,,3sg_m_a,3rd Person Singular Masculine,43243,,,,stan1318,ryding-2005
+huwa,,3sg_m_s,3rd Person Singular Masculine,43242,,,,stan1318,ryding-2005
+-hu,,3sg_m_o,3rd Person Singular Masculine,43241,,,,stan1318,ryding-2005
+-hu,,3sg_m_p,3rd Person Singular Masculine,43240,,,,stan1318,ryding-2005
+hiya,,3sg_n_a,3rd Person Singular Neuter,43239,,,,stan1318,ryding-2005
+hiya,,3sg_n_s,3rd Person Singular Neuter,43238,,,,stan1318,ryding-2005
+-ha:,,3sg_n_o,3rd Person Singular Neuter,43237,,,,stan1318,ryding-2005
+-ha:,,3sg_n_p,3rd Person Singular Neuter,43236,,,,stan1318,ryding-2005
+huma:,,3d-a,3rd Person Dual,43235,,,,stan1318,ryding-2005
+huma:,,3d-s,3rd Person Dual,43234,,,,stan1318,ryding-2005
+-huma:,,3d-o,3rd Person Dual,43233,,,,stan1318,ryding-2005
+-huma:,,3d-p,3rd Person Dual,43232,,,,stan1318,ryding-2005
+hum,,3p-a,3rd Person Plural,43231,,,,stan1318,ryding-2005
+hum,,3p-s,3rd Person Plural,43230,,,,stan1318,ryding-2005
+-hum,,3p-o,3rd Person Plural,43229,,,,stan1318,ryding-2005
+-hum,,3p-p,3rd Person Plural,43228,,,,stan1318,ryding-2005

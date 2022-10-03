@@ -1,77 +1,77 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nze;;1sg_a;1st (excl) Person Singular;24028;;;;komn1238;doehler-2013
-nzæ;;1sg_s;1st (excl) Person Singular;24029;;;;komn1238;doehler-2013
-nzæ;;1sg_o;1st (excl) Person Singular;24030;;;;komn1238;doehler-2013
-nzone;;1sg_p;1st (excl) Person Singular;24031;;;;komn1238;doehler-2013
-ni;;1du_a;1st (excl) Person Dual;24032;;;;komn1238;doehler-2013
-ni;;1du_s;1st (excl) Person Dual;24033;;;;komn1238;doehler-2013
-ni;;1du_o;1st (excl) Person Dual;24034;;;;komn1238;doehler-2013
-nzenme;;1du_p;1st (excl) Person Dual;24035;;;;komn1238;doehler-2013
-ni;;1pl_a;1st (excl) Person Plural;24036;;;;komn1238;doehler-2013
-ni;;1pl_s;1st (excl) Person Plural;24037;;;;komn1238;doehler-2013
-ni;;1pl_o;1st (excl) Person Plural;24038;;;;komn1238;doehler-2013
-nzenme;;1pl_p;1st (excl) Person Plural;24039;;;;komn1238;doehler-2013
-ni;;12du_a;1st (incl) Person Dual;24040;;;;komn1238;doehler-2013
-ni;;12du_s;1st (incl) Person Dual;24041;;;;komn1238;doehler-2013
-ni;;12du_o;1st (incl) Person Dual;24042;;;;komn1238;doehler-2013
-nzenme;;12du_p;1st (incl) Person Dual;24043;;;;komn1238;doehler-2013
-ni;;12pl_a;1st (incl) Person Plural;24044;;;;komn1238;doehler-2013
-ni;;12pl_s;1st (incl) Person Plural;24045;;;;komn1238;doehler-2013
-ni;;12pl_o;1st (incl) Person Plural;24046;;;;komn1238;doehler-2013
-nzenme;;12pl_p;1st (incl) Person Plural;24047;;;;komn1238;doehler-2013
-mbe;;2sg_a;2nd Person Singular;24048;;;;komn1238;doehler-2013
-mbæ;;2sg_s;2nd Person Singular;24049;;;;komn1238;doehler-2013
-mbæ;;2sg_o;2nd Person Singular;24050;;;;komn1238;doehler-2013
-mbone;;2sg_p;2nd Person Singular;24051;;;;komn1238;doehler-2013
-mbə̯nə̯;;2du_a;2nd Person Dual;24052;;;;komn1238;doehler-2013
-mbæ;;2du_s;2nd Person Dual;24053;;;;komn1238;doehler-2013
-mbæ;;2du_o;2nd Person Dual;24054;;;;komn1238;doehler-2013
-mbɐnme;;2du_p;2nd Person Dual;24055;;;;komn1238;dohler-2016
-mbənə;;2pl_a;2nd Person Plural;24056;;;;komn1238;doehler-2013
-mbæ;;2pl_s;2nd Person Plural;24057;;;;komn1238;doehler-2013
-mbæ;;2pl_o;2nd Person Plural;24058;;;;komn1238;doehler-2013
-mbɐnme;;2pl_p;2nd Person Plural;24059;;;;komn1238;dohler-2016
-nɐɸ;;3sg_m_a;3rd Person Singular Masculine;24060;;;;komn1238;doehler-2013
-ɸi;;3sg_m_s;3rd Person Singular Masculine;24061;;;;komn1238;doehler-2013
-ɸi;;3sg_m_o;3rd Person Singular Masculine;24062;;;;komn1238;doehler-2013
-nɐɸə̯ne;;3sg_m_p;3rd Person Singular Masculine;24063;;;;komn1238;doehler-2013
-nɐɸ;;3sg_f_a;3rd Person Singular Feminine;24064;;;;komn1238;doehler-2013
-ɸi;;3sg_f_s;3rd Person Singular Feminine;24065;;;;komn1238;doehler-2013
-ɸi;;3sg_f_o;3rd Person Singular Feminine;24066;;;;komn1238;doehler-2013
-nɐɸə̯ne;;3sg_f_p;3rd Person Singular Feminine;24067;;;;komn1238;doehler-2013
-nɐɸ;;3sg_n_a;3rd Person Singular Neuter;24068;;;;komn1238;doehler-2013
-ɸi;;3sg_n_s;3rd Person Singular Neuter;24069;;;;komn1238;doehler-2013
-ɸi;;3sg_n_o;3rd Person Singular Neuter;24070;;;;komn1238;doehler-2013
-nɐɸə̯ne;;3sg_n_p;3rd Person Singular Neuter;24071;;;;komn1238;doehler-2013
-nɐɸɐ;;3du_m_a;3rd Person Dual Masculine;24072;;;;komn1238;doehler-2013
-ɸi;;3du_m_s;3rd Person Dual Masculine;24073;;;;komn1238;doehler-2013
-ɸi;;3du_m_o;3rd Person Dual Masculine;24074;;;;komn1238;doehler-2013
-nɐɸɐne;;3du_m_p;3rd Person Dual Masculine;24075;;;;komn1238;doehler-2013
-nɐɸɐ;;3du_f_a;3rd Person Dual Feminine;24076;;;;komn1238;doehler-2013
-ɸi;;3du_f_s;3rd Person Dual Feminine;24077;;;;komn1238;doehler-2013
-ɸi;;3du_f_o;3rd Person Dual Feminine;24078;;;;komn1238;doehler-2013
-nɐɸɐne;;3du_f_p;3rd Person Dual Feminine;24079;;;;komn1238;doehler-2013
-nɐɸɐ;;3du_n_a;3rd Person Dual Neuter;24080;;;;komn1238;doehler-2013
-ɸi;;3du_n_s;3rd Person Dual Neuter;24081;;;;komn1238;doehler-2013
-ɸi;;3du_n_o;3rd Person Dual Neuter;24082;;;;komn1238;doehler-2013
-nɐɸɐne;;3du_n_p;3rd Person Dual Neuter;24083;;;;komn1238;doehler-2013
-nɐɸɐ;;3pl_m_a;3rd Person Plural Masculine;24084;;;;komn1238;doehler-2013
-ɸi;;3pl_m_s;3rd Person Plural Masculine;24085;;;;komn1238;doehler-2013
-ɸi;;3pl_m_o;3rd Person Plural Masculine;24086;;;;komn1238;doehler-2013
-nɐɸɐne;;3pl_m_p;3rd Person Plural Masculine;24087;;;;komn1238;doehler-2013
-nɐɸɐ;;3pl_f_a;3rd Person Plural Feminine;24088;;;;komn1238;doehler-2013
-ɸi;;3pl_f_s;3rd Person Plural Feminine;24089;;;;komn1238;doehler-2013
-ɸi;;3pl_f_o;3rd Person Plural Feminine;24090;;;;komn1238;doehler-2013
-nɐɸɐne;;3pl_f_p;3rd Person Plural Feminine;24091;;;;komn1238;doehler-2013
-nɐɸɐ;;3pl_n_a;3rd Person Plural Neuter;24092;;;;komn1238;doehler-2013
-ɸi;;3pl_n_s;3rd Person Plural Neuter;24093;;;;komn1238;doehler-2013
-ɸi;;3pl_n_o;3rd Person Plural Neuter;24094;;;;komn1238;doehler-2013
-nɐɸɐne;;3pl_n_p;3rd Person Plural Neuter;24095;;;;komn1238;doehler-2013
-nɐɸɐ;;3d-a;3rd Person Dual;36300;;;;komn1238;doehler-2013
-ɸi;;3d-s;3rd Person Dual;36521;;;;komn1238;doehler-2013
-ɸi;;3d-o;3rd Person Dual;36749;;;;komn1238;doehler-2013
-nɐɸɐnme;;3d-p;3rd Person Dual;36960;;;;komn1238;dohler-2016
-nɐɸɐ;;3p-a;3rd Person Plural;37182;;;;komn1238;doehler-2013
-ɸi;;3p-s;3rd Person Plural;37403;;;;komn1238;doehler-2013
-ɸi;;3p-o;3rd Person Plural;37630;;;;komn1238;doehler-2013
-nɐɸɐnme;;3p-p;3rd Person Plural;37840;;;;komn1238;dohler-2016
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nze,,1sg_a,1st (excl) Person Singular,24028,,,,komn1238,doehler-2013
+nzæ,,1sg_s,1st (excl) Person Singular,24029,,,,komn1238,doehler-2013
+nzæ,,1sg_o,1st (excl) Person Singular,24030,,,,komn1238,doehler-2013
+nzone,,1sg_p,1st (excl) Person Singular,24031,,,,komn1238,doehler-2013
+ni,,1du_a,1st (excl) Person Dual,24032,,,,komn1238,doehler-2013
+ni,,1du_s,1st (excl) Person Dual,24033,,,,komn1238,doehler-2013
+ni,,1du_o,1st (excl) Person Dual,24034,,,,komn1238,doehler-2013
+nzenme,,1du_p,1st (excl) Person Dual,24035,,,,komn1238,doehler-2013
+ni,,1pl_a,1st (excl) Person Plural,24036,,,,komn1238,doehler-2013
+ni,,1pl_s,1st (excl) Person Plural,24037,,,,komn1238,doehler-2013
+ni,,1pl_o,1st (excl) Person Plural,24038,,,,komn1238,doehler-2013
+nzenme,,1pl_p,1st (excl) Person Plural,24039,,,,komn1238,doehler-2013
+ni,,12du_a,1st (incl) Person Dual,24040,,,,komn1238,doehler-2013
+ni,,12du_s,1st (incl) Person Dual,24041,,,,komn1238,doehler-2013
+ni,,12du_o,1st (incl) Person Dual,24042,,,,komn1238,doehler-2013
+nzenme,,12du_p,1st (incl) Person Dual,24043,,,,komn1238,doehler-2013
+ni,,12pl_a,1st (incl) Person Plural,24044,,,,komn1238,doehler-2013
+ni,,12pl_s,1st (incl) Person Plural,24045,,,,komn1238,doehler-2013
+ni,,12pl_o,1st (incl) Person Plural,24046,,,,komn1238,doehler-2013
+nzenme,,12pl_p,1st (incl) Person Plural,24047,,,,komn1238,doehler-2013
+mbe,,2sg_a,2nd Person Singular,24048,,,,komn1238,doehler-2013
+mbæ,,2sg_s,2nd Person Singular,24049,,,,komn1238,doehler-2013
+mbæ,,2sg_o,2nd Person Singular,24050,,,,komn1238,doehler-2013
+mbone,,2sg_p,2nd Person Singular,24051,,,,komn1238,doehler-2013
+mbə̯nə̯,,2du_a,2nd Person Dual,24052,,,,komn1238,doehler-2013
+mbæ,,2du_s,2nd Person Dual,24053,,,,komn1238,doehler-2013
+mbæ,,2du_o,2nd Person Dual,24054,,,,komn1238,doehler-2013
+mbɐnme,,2du_p,2nd Person Dual,24055,,,,komn1238,dohler-2016
+mbənə,,2pl_a,2nd Person Plural,24056,,,,komn1238,doehler-2013
+mbæ,,2pl_s,2nd Person Plural,24057,,,,komn1238,doehler-2013
+mbæ,,2pl_o,2nd Person Plural,24058,,,,komn1238,doehler-2013
+mbɐnme,,2pl_p,2nd Person Plural,24059,,,,komn1238,dohler-2016
+nɐɸ,,3sg_m_a,3rd Person Singular Masculine,24060,,,,komn1238,doehler-2013
+ɸi,,3sg_m_s,3rd Person Singular Masculine,24061,,,,komn1238,doehler-2013
+ɸi,,3sg_m_o,3rd Person Singular Masculine,24062,,,,komn1238,doehler-2013
+nɐɸə̯ne,,3sg_m_p,3rd Person Singular Masculine,24063,,,,komn1238,doehler-2013
+nɐɸ,,3sg_f_a,3rd Person Singular Feminine,24064,,,,komn1238,doehler-2013
+ɸi,,3sg_f_s,3rd Person Singular Feminine,24065,,,,komn1238,doehler-2013
+ɸi,,3sg_f_o,3rd Person Singular Feminine,24066,,,,komn1238,doehler-2013
+nɐɸə̯ne,,3sg_f_p,3rd Person Singular Feminine,24067,,,,komn1238,doehler-2013
+nɐɸ,,3sg_n_a,3rd Person Singular Neuter,24068,,,,komn1238,doehler-2013
+ɸi,,3sg_n_s,3rd Person Singular Neuter,24069,,,,komn1238,doehler-2013
+ɸi,,3sg_n_o,3rd Person Singular Neuter,24070,,,,komn1238,doehler-2013
+nɐɸə̯ne,,3sg_n_p,3rd Person Singular Neuter,24071,,,,komn1238,doehler-2013
+nɐɸɐ,,3du_m_a,3rd Person Dual Masculine,24072,,,,komn1238,doehler-2013
+ɸi,,3du_m_s,3rd Person Dual Masculine,24073,,,,komn1238,doehler-2013
+ɸi,,3du_m_o,3rd Person Dual Masculine,24074,,,,komn1238,doehler-2013
+nɐɸɐne,,3du_m_p,3rd Person Dual Masculine,24075,,,,komn1238,doehler-2013
+nɐɸɐ,,3du_f_a,3rd Person Dual Feminine,24076,,,,komn1238,doehler-2013
+ɸi,,3du_f_s,3rd Person Dual Feminine,24077,,,,komn1238,doehler-2013
+ɸi,,3du_f_o,3rd Person Dual Feminine,24078,,,,komn1238,doehler-2013
+nɐɸɐne,,3du_f_p,3rd Person Dual Feminine,24079,,,,komn1238,doehler-2013
+nɐɸɐ,,3du_n_a,3rd Person Dual Neuter,24080,,,,komn1238,doehler-2013
+ɸi,,3du_n_s,3rd Person Dual Neuter,24081,,,,komn1238,doehler-2013
+ɸi,,3du_n_o,3rd Person Dual Neuter,24082,,,,komn1238,doehler-2013
+nɐɸɐne,,3du_n_p,3rd Person Dual Neuter,24083,,,,komn1238,doehler-2013
+nɐɸɐ,,3pl_m_a,3rd Person Plural Masculine,24084,,,,komn1238,doehler-2013
+ɸi,,3pl_m_s,3rd Person Plural Masculine,24085,,,,komn1238,doehler-2013
+ɸi,,3pl_m_o,3rd Person Plural Masculine,24086,,,,komn1238,doehler-2013
+nɐɸɐne,,3pl_m_p,3rd Person Plural Masculine,24087,,,,komn1238,doehler-2013
+nɐɸɐ,,3pl_f_a,3rd Person Plural Feminine,24088,,,,komn1238,doehler-2013
+ɸi,,3pl_f_s,3rd Person Plural Feminine,24089,,,,komn1238,doehler-2013
+ɸi,,3pl_f_o,3rd Person Plural Feminine,24090,,,,komn1238,doehler-2013
+nɐɸɐne,,3pl_f_p,3rd Person Plural Feminine,24091,,,,komn1238,doehler-2013
+nɐɸɐ,,3pl_n_a,3rd Person Plural Neuter,24092,,,,komn1238,doehler-2013
+ɸi,,3pl_n_s,3rd Person Plural Neuter,24093,,,,komn1238,doehler-2013
+ɸi,,3pl_n_o,3rd Person Plural Neuter,24094,,,,komn1238,doehler-2013
+nɐɸɐne,,3pl_n_p,3rd Person Plural Neuter,24095,,,,komn1238,doehler-2013
+nɐɸɐ,,3d-a,3rd Person Dual,36300,,,,komn1238,doehler-2013
+ɸi,,3d-s,3rd Person Dual,36521,,,,komn1238,doehler-2013
+ɸi,,3d-o,3rd Person Dual,36749,,,,komn1238,doehler-2013
+nɐɸɐnme,,3d-p,3rd Person Dual,36960,,,,komn1238,dohler-2016
+nɐɸɐ,,3p-a,3rd Person Plural,37182,,,,komn1238,doehler-2013
+ɸi,,3p-s,3rd Person Plural,37403,,,,komn1238,doehler-2013
+ɸi,,3p-o,3rd Person Plural,37630,,,,komn1238,doehler-2013
+nɐɸɐnme,,3p-p,3rd Person Plural,37840,,,,komn1238,dohler-2016

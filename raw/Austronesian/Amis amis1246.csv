@@ -1,77 +1,77 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-kaku;;1sg_a;1st (excl) Person Singular;33111;;;;amis1246;wu-2006
-kaku;;1sg_s;1st (excl) Person Singular;33112;;;;amis1246;wu-2006
-takuwanan;;1sg_o;1st (excl) Person Singular;33113;;;;amis1246;wu-2006
-aku;;1sg_p;1st (excl) Person Singular;33114;;;;amis1246;wu-2006
-kami;;1du_a;1st (excl) Person Dual;33115;;;;amis1246;wu-2006
-kami;;1du_s;1st (excl) Person Dual;33116;;;;amis1246;wu-2006
-kamiyanan;;1du_o;1st (excl) Person Dual;33117;;;;amis1246;wu-2006
-niyam;;1du_p;1st (excl) Person Dual;33118;;;;amis1246;wu-2006
-kami;;1pl_a;1st (excl) Person Plural;33119;;;;amis1246;wu-2006
-kami;;1pl_s;1st (excl) Person Plural;33120;;;;amis1246;wu-2006
-kamiyanan;;1pl_o;1st (excl) Person Plural;33121;;;;amis1246;wu-2006
-niyam;;1pl_p;1st (excl) Person Plural;33122;;;;amis1246;wu-2006
-kita;;12du_a;1st (incl) Person Dual;33123;;;;amis1246;wu-2006
-kita;;12du_s;1st (incl) Person Dual;33124;;;;amis1246;wu-2006
-kitanan;;12du_o;1st (incl) Person Dual;33125;;;;amis1246;wu-2006
-ita;;12du_p;1st (incl) Person Dual;33126;;;;amis1246;wu-2006
-kita;;12pl_a;1st (incl) Person Plural;33127;;;;amis1246;wu-2006
-kita;;12pl_s;1st (incl) Person Plural;33128;;;;amis1246;wu-2006
-kitanan;;12pl_o;1st (incl) Person Plural;33129;;;;amis1246;wu-2006
-ita;;12pl_p;1st (incl) Person Plural;33130;;;;amis1246;wu-2006
-kisu;;2sg_a;2nd Person Singular;33131;;;;amis1246;wu-2006
-kisu;;2sg_s;2nd Person Singular;33132;;;;amis1246;wu-2006
-tisuwanan;;2sg_o;2nd Person Singular;33133;;;;amis1246;wu-2006
-isu;;2sg_p;2nd Person Singular;33134;;;;amis1246;wu-2006
-kamu;;2du_a;2nd Person Dual;33135;;;;amis1246;wu-2006
-kamu;;2du_s;2nd Person Dual;33136;;;;amis1246;wu-2006
-tamuanan;;2du_o;2nd Person Dual;33137;;;;amis1246;wu-2006
-namu;;2du_p;2nd Person Dual;33138;;;;amis1246;wu-2006
-kamu;;2pl_a;2nd Person Plural;33139;;;;amis1246;wu-2006
-kamu;;2pl_s;2nd Person Plural;33140;;;;amis1246;wu-2006
-tamuanan;;2pl_o;2nd Person Plural;33141;;;;amis1246;wu-2006
-namu;;2pl_p;2nd Person Plural;33142;;;;amis1246;wu-2006
-ciŋra;;3sg_m_a;3rd Person Singular Masculine;33143;;;;amis1246;wu-2006
-ciŋra;;3sg_m_s;3rd Person Singular Masculine;33144;;;;amis1246;wu-2006
-ciŋranan;;3sg_m_o;3rd Person Singular Masculine;33145;;;;amis1246;wu-2006
-nira;;3sg_m_p;3rd Person Singular Masculine;33146;;;;amis1246;wu-2006
-nira;;3sg_f_a;3rd Person Singular Feminine;33147;;;;amis1246;wu-2006
-ciŋra;;3sg_f_s;3rd Person Singular Feminine;33148;;;;amis1246;wu-2006
-ciŋranan;;3sg_f_o;3rd Person Singular Feminine;33149;;;;amis1246;wu-2006
-nira;;3sg_f_p;3rd Person Singular Feminine;33150;;;;amis1246;wu-2006
-ciŋra;;3sg_n_a;3rd Person Singular Neuter;33151;;;;amis1246;wu-2006
-ciŋra;;3sg_n_s;3rd Person Singular Neuter;33152;;;;amis1246;wu-2006
-ciŋranan;;3sg_n_o;3rd Person Singular Neuter;33153;;;;amis1246;wu-2006
-nira;;3sg_n_p;3rd Person Singular Neuter;33154;;;;amis1246;wu-2006
-naŋra;;3du_m_a;3rd Person Dual Masculine;33155;;;;amis1246;wu-2006
-caŋra;;3du_m_s;3rd Person Dual Masculine;33156;;;;amis1246;wu-2006
-caŋraan;;3du_m_o;3rd Person Dual Masculine;33157;;;;amis1246;wu-2006
-naŋra;;3du_m_p;3rd Person Dual Masculine;33158;;;;amis1246;wu-2006
-naŋra;;3du_f_a;3rd Person Dual Feminine;33159;;;;amis1246;wu-2006
-caŋra;;3du_f_s;3rd Person Dual Feminine;33160;;;;amis1246;wu-2006
-caŋraan;;3du_f_o;3rd Person Dual Feminine;33161;;;;amis1246;wu-2006
-naŋra;;3du_f_p;3rd Person Dual Feminine;33162;;;;amis1246;wu-2006
-naŋra;;3du_n_a;3rd Person Dual Neuter;33163;;;;amis1246;wu-2006
-caŋra;;3du_n_s;3rd Person Dual Neuter;33164;;;;amis1246;wu-2006
-caŋraan;;3du_n_o;3rd Person Dual Neuter;33165;;;;amis1246;wu-2006
-naŋra;;3du_n_p;3rd Person Dual Neuter;33166;;;;amis1246;wu-2006
-naŋra;;3pl_m_a;3rd Person Plural Masculine;33167;;;;amis1246;wu-2006
-caŋra;;3pl_m_s;3rd Person Plural Masculine;33168;;;;amis1246;wu-2006
-caŋraan;;3pl_m_o;3rd Person Plural Masculine;33169;;;;amis1246;wu-2006
-naŋra;;3pl_m_p;3rd Person Plural Masculine;33170;;;;amis1246;wu-2006
-naŋra;;3pl_f_a;3rd Person Plural Feminine;33171;;;;amis1246;wu-2006
-caŋra;;3pl_f_s;3rd Person Plural Feminine;33172;;;;amis1246;wu-2006
-caŋraan;;3pl_f_o;3rd Person Plural Feminine;33173;;;;amis1246;wu-2006
-naŋra;;3pl_f_p;3rd Person Plural Feminine;33174;;;;amis1246;wu-2006
-naŋra;;3pl_n_a;3rd Person Plural Neuter;33175;;;;amis1246;wu-2006
-caŋra;;3pl_n_s;3rd Person Plural Neuter;33176;;;;amis1246;wu-2006
-caŋraan;;3pl_n_o;3rd Person Plural Neuter;33177;;;;amis1246;wu-2006
-naŋra;;3pl_n_p;3rd Person Plural Neuter;33178;;;;amis1246;wu-2006
-caŋra;;3d-a;3rd Person Dual;36405;;;;amis1246;wu-2006
-caŋra;;3d-s;3rd Person Dual;36632;;;;amis1246;wu-2006
-caŋraan;;3d-o;3rd Person Dual;36856;;;;amis1246;wu-2006
-naŋra;;3d-p;3rd Person Dual;37072;;;;amis1246;wu-2006
-caŋra;;3p-a;3rd Person Plural;37287;;;;amis1246;wu-2006
-caŋra;;3p-s;3rd Person Plural;37512;;;;amis1246;wu-2006
-caŋraan;;3p-o;3rd Person Plural;37734;;;;amis1246;wu-2006
-naŋra;;3p-p;3rd Person Plural;37950;;;;amis1246;wu-2006
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+kaku,,1sg_a,1st (excl) Person Singular,33111,,,,amis1246,wu-2006
+kaku,,1sg_s,1st (excl) Person Singular,33112,,,,amis1246,wu-2006
+takuwanan,,1sg_o,1st (excl) Person Singular,33113,,,,amis1246,wu-2006
+aku,,1sg_p,1st (excl) Person Singular,33114,,,,amis1246,wu-2006
+kami,,1du_a,1st (excl) Person Dual,33115,,,,amis1246,wu-2006
+kami,,1du_s,1st (excl) Person Dual,33116,,,,amis1246,wu-2006
+kamiyanan,,1du_o,1st (excl) Person Dual,33117,,,,amis1246,wu-2006
+niyam,,1du_p,1st (excl) Person Dual,33118,,,,amis1246,wu-2006
+kami,,1pl_a,1st (excl) Person Plural,33119,,,,amis1246,wu-2006
+kami,,1pl_s,1st (excl) Person Plural,33120,,,,amis1246,wu-2006
+kamiyanan,,1pl_o,1st (excl) Person Plural,33121,,,,amis1246,wu-2006
+niyam,,1pl_p,1st (excl) Person Plural,33122,,,,amis1246,wu-2006
+kita,,12du_a,1st (incl) Person Dual,33123,,,,amis1246,wu-2006
+kita,,12du_s,1st (incl) Person Dual,33124,,,,amis1246,wu-2006
+kitanan,,12du_o,1st (incl) Person Dual,33125,,,,amis1246,wu-2006
+ita,,12du_p,1st (incl) Person Dual,33126,,,,amis1246,wu-2006
+kita,,12pl_a,1st (incl) Person Plural,33127,,,,amis1246,wu-2006
+kita,,12pl_s,1st (incl) Person Plural,33128,,,,amis1246,wu-2006
+kitanan,,12pl_o,1st (incl) Person Plural,33129,,,,amis1246,wu-2006
+ita,,12pl_p,1st (incl) Person Plural,33130,,,,amis1246,wu-2006
+kisu,,2sg_a,2nd Person Singular,33131,,,,amis1246,wu-2006
+kisu,,2sg_s,2nd Person Singular,33132,,,,amis1246,wu-2006
+tisuwanan,,2sg_o,2nd Person Singular,33133,,,,amis1246,wu-2006
+isu,,2sg_p,2nd Person Singular,33134,,,,amis1246,wu-2006
+kamu,,2du_a,2nd Person Dual,33135,,,,amis1246,wu-2006
+kamu,,2du_s,2nd Person Dual,33136,,,,amis1246,wu-2006
+tamuanan,,2du_o,2nd Person Dual,33137,,,,amis1246,wu-2006
+namu,,2du_p,2nd Person Dual,33138,,,,amis1246,wu-2006
+kamu,,2pl_a,2nd Person Plural,33139,,,,amis1246,wu-2006
+kamu,,2pl_s,2nd Person Plural,33140,,,,amis1246,wu-2006
+tamuanan,,2pl_o,2nd Person Plural,33141,,,,amis1246,wu-2006
+namu,,2pl_p,2nd Person Plural,33142,,,,amis1246,wu-2006
+ciŋra,,3sg_m_a,3rd Person Singular Masculine,33143,,,,amis1246,wu-2006
+ciŋra,,3sg_m_s,3rd Person Singular Masculine,33144,,,,amis1246,wu-2006
+ciŋranan,,3sg_m_o,3rd Person Singular Masculine,33145,,,,amis1246,wu-2006
+nira,,3sg_m_p,3rd Person Singular Masculine,33146,,,,amis1246,wu-2006
+nira,,3sg_f_a,3rd Person Singular Feminine,33147,,,,amis1246,wu-2006
+ciŋra,,3sg_f_s,3rd Person Singular Feminine,33148,,,,amis1246,wu-2006
+ciŋranan,,3sg_f_o,3rd Person Singular Feminine,33149,,,,amis1246,wu-2006
+nira,,3sg_f_p,3rd Person Singular Feminine,33150,,,,amis1246,wu-2006
+ciŋra,,3sg_n_a,3rd Person Singular Neuter,33151,,,,amis1246,wu-2006
+ciŋra,,3sg_n_s,3rd Person Singular Neuter,33152,,,,amis1246,wu-2006
+ciŋranan,,3sg_n_o,3rd Person Singular Neuter,33153,,,,amis1246,wu-2006
+nira,,3sg_n_p,3rd Person Singular Neuter,33154,,,,amis1246,wu-2006
+naŋra,,3du_m_a,3rd Person Dual Masculine,33155,,,,amis1246,wu-2006
+caŋra,,3du_m_s,3rd Person Dual Masculine,33156,,,,amis1246,wu-2006
+caŋraan,,3du_m_o,3rd Person Dual Masculine,33157,,,,amis1246,wu-2006
+naŋra,,3du_m_p,3rd Person Dual Masculine,33158,,,,amis1246,wu-2006
+naŋra,,3du_f_a,3rd Person Dual Feminine,33159,,,,amis1246,wu-2006
+caŋra,,3du_f_s,3rd Person Dual Feminine,33160,,,,amis1246,wu-2006
+caŋraan,,3du_f_o,3rd Person Dual Feminine,33161,,,,amis1246,wu-2006
+naŋra,,3du_f_p,3rd Person Dual Feminine,33162,,,,amis1246,wu-2006
+naŋra,,3du_n_a,3rd Person Dual Neuter,33163,,,,amis1246,wu-2006
+caŋra,,3du_n_s,3rd Person Dual Neuter,33164,,,,amis1246,wu-2006
+caŋraan,,3du_n_o,3rd Person Dual Neuter,33165,,,,amis1246,wu-2006
+naŋra,,3du_n_p,3rd Person Dual Neuter,33166,,,,amis1246,wu-2006
+naŋra,,3pl_m_a,3rd Person Plural Masculine,33167,,,,amis1246,wu-2006
+caŋra,,3pl_m_s,3rd Person Plural Masculine,33168,,,,amis1246,wu-2006
+caŋraan,,3pl_m_o,3rd Person Plural Masculine,33169,,,,amis1246,wu-2006
+naŋra,,3pl_m_p,3rd Person Plural Masculine,33170,,,,amis1246,wu-2006
+naŋra,,3pl_f_a,3rd Person Plural Feminine,33171,,,,amis1246,wu-2006
+caŋra,,3pl_f_s,3rd Person Plural Feminine,33172,,,,amis1246,wu-2006
+caŋraan,,3pl_f_o,3rd Person Plural Feminine,33173,,,,amis1246,wu-2006
+naŋra,,3pl_f_p,3rd Person Plural Feminine,33174,,,,amis1246,wu-2006
+naŋra,,3pl_n_a,3rd Person Plural Neuter,33175,,,,amis1246,wu-2006
+caŋra,,3pl_n_s,3rd Person Plural Neuter,33176,,,,amis1246,wu-2006
+caŋraan,,3pl_n_o,3rd Person Plural Neuter,33177,,,,amis1246,wu-2006
+naŋra,,3pl_n_p,3rd Person Plural Neuter,33178,,,,amis1246,wu-2006
+caŋra,,3d-a,3rd Person Dual,36405,,,,amis1246,wu-2006
+caŋra,,3d-s,3rd Person Dual,36632,,,,amis1246,wu-2006
+caŋraan,,3d-o,3rd Person Dual,36856,,,,amis1246,wu-2006
+naŋra,,3d-p,3rd Person Dual,37072,,,,amis1246,wu-2006
+caŋra,,3p-a,3rd Person Plural,37287,,,,amis1246,wu-2006
+caŋra,,3p-s,3rd Person Plural,37512,,,,amis1246,wu-2006
+caŋraan,,3p-o,3rd Person Plural,37734,,,,amis1246,wu-2006
+naŋra,,3p-p,3rd Person Plural,37950,,,,amis1246,wu-2006

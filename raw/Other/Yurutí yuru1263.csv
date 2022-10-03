@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-jɨɨ́;;1sg_a;1st (excl) Person Singular;52684;;;;yuru1263;2000
-jɨɨ́;;1sg_s;1st (excl) Person Singular;52683;;;;yuru1263;2000
-jɨɨ́;;1sg_o;1st (excl) Person Singular;52682;;;;yuru1263;2000
-jɨɨ́ka;;1sg_p;1st (excl) Person Singular;52718;;;;yuru1263;2000
-ɨ̃sã́;;1du_a;1st (excl) Person Dual;52681;;;;yuru1263;2000
-ɨ̃sã́;;1du_s;1st (excl) Person Dual;52680;;;;yuru1263;2000
-ɨ̃sã́;;1du_o;1st (excl) Person Dual;52679;;;;yuru1263;2000
-ɨ̃sã́ka;;1du_p;1st (excl) Person Dual;52717;;;;yuru1263;2000
-ɨ̃sã́;;1pl_a;1st (excl) Person Plural;52678;;;;yuru1263;2000
-ɨ̃sã́;;1pl_s;1st (excl) Person Plural;52677;;;;yuru1263;2000
-ɨ̃sã́;;1pl_o;1st (excl) Person Plural;52676;;;;yuru1263;2000
-ɨ̃sã́ka;;1pl_p;1st (excl) Person Plural;52716;;;;yuru1263;2000
-bãrĩ́;;12du_a;1st (incl) Person Dual;52675;;;;yuru1263;2000
-bãrĩ́;;12du_s;1st (incl) Person Dual;52674;;;;yuru1263;2000
-bãrĩ́;;12du_o;1st (incl) Person Dual;52673;;;;yuru1263;2000
-bãrĩ́ka;;12du_p;1st (incl) Person Dual;52715;;;;yuru1263;2000
-bãrĩ́;;12pl_a;1st (incl) Person Plural;52672;;;;yuru1263;2000
-bãrĩ́;;12pl_s;1st (incl) Person Plural;52671;;;;yuru1263;2000
-bãrĩ́;;12pl_o;1st (incl) Person Plural;52714;;;;yuru1263;2000
-bãrĩ́ka;;12pl_p;1st (incl) Person Plural;52713;;;;yuru1263;2000
-bɨ̃ɨ̃́;;2sg_a;2nd Person Singular;52712;;;;yuru1263;2000
-bɨ̃ɨ̃́;;2sg_s;2nd Person Singular;52711;;;;yuru1263;2000
-bɨ̃ɨ̃́;;2sg_o;2nd Person Singular;52710;;;;yuru1263;2000
-bɨ̃ɨ̃́ka;;2sg_p;2nd Person Singular;52709;;;;yuru1263;2000
-bɨ̃́hã;;2du_a;2nd Person Dual;52708;;;;yuru1263;2000
-bɨ̃́hã;;2du_s;2nd Person Dual;52707;;;;yuru1263;2000
-bɨ̃́hã;;2du_o;2nd Person Dual;52706;;;;yuru1263;2000
-bɨ̃́hãka;;2du_p;2nd Person Dual;52705;;;;yuru1263;2000
-bɨ̃́hã;;2pl_a;2nd Person Plural;52704;;;;yuru1263;2000
-bɨ̃́hã;;2pl_s;2nd Person Plural;52703;;;;yuru1263;2000
-bɨ̃́hã;;2pl_o;2nd Person Plural;52702;;;;yuru1263;2000
-bɨ̃́hãka;;2pl_p;2nd Person Plural;52701;;;;yuru1263;2000
-kɨ̃́ɨ̃;;3sg_m_a;3rd Person Singular Masculine;52700;;;;yuru1263;2000
-kɨ̃́ɨ̃;;3sg_m_s;3rd Person Singular Masculine;52699;;;;yuru1263;2000
-kɨ̃́ɨ̃;;3sg_m_o;3rd Person Singular Masculine;52698;;;;yuru1263;2000
-kɨ̃́ɨ̃ka;;3sg_m_p;3rd Person Singular Masculine;52697;;;;yuru1263;2000
-koó;;3sg_n_a;3rd Person Singular Neuter;52696;;;;yuru1263;2000
-koó;;3sg_n_s;3rd Person Singular Neuter;52695;;;;yuru1263;2000
-koó;;3sg_n_o;3rd Person Singular Neuter;52694;;;;yuru1263;2000
-koóka;;3sg_n_p;3rd Person Singular Neuter;52693;;;;yuru1263;2000
-kɨ̃́̃́hã;;3d-a;3rd Person Dual;52692;;;;yuru1263;2000
-kɨ̃́̃́hã;;3d-s;3rd Person Dual;52691;;;;yuru1263;2000
-kɨ̃́̃́hã;;3d-o;3rd Person Dual;52690;;;;yuru1263;2000
-kɨ̃́̃́hãka;;3d-p;3rd Person Dual;52689;;;;yuru1263;2000
-kɨ̃́̃́hã;;3p-a;3rd Person Plural;52688;;;;yuru1263;2000
-kɨ̃́̃́hã;;3p-s;3rd Person Plural;52687;;;;yuru1263;2000
-kɨ̃́̃́hã;;3p-o;3rd Person Plural;52686;;;;yuru1263;2000
-kɨ̃́̃́hãka;;3p-p;3rd Person Plural;52685;;;;yuru1263;2000
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+jɨɨ́,,1sg_a,1st (excl) Person Singular,52684,,,,yuru1263,2000
+jɨɨ́,,1sg_s,1st (excl) Person Singular,52683,,,,yuru1263,2000
+jɨɨ́,,1sg_o,1st (excl) Person Singular,52682,,,,yuru1263,2000
+jɨɨ́ka,,1sg_p,1st (excl) Person Singular,52718,,,,yuru1263,2000
+ɨ̃sã́,,1du_a,1st (excl) Person Dual,52681,,,,yuru1263,2000
+ɨ̃sã́,,1du_s,1st (excl) Person Dual,52680,,,,yuru1263,2000
+ɨ̃sã́,,1du_o,1st (excl) Person Dual,52679,,,,yuru1263,2000
+ɨ̃sã́ka,,1du_p,1st (excl) Person Dual,52717,,,,yuru1263,2000
+ɨ̃sã́,,1pl_a,1st (excl) Person Plural,52678,,,,yuru1263,2000
+ɨ̃sã́,,1pl_s,1st (excl) Person Plural,52677,,,,yuru1263,2000
+ɨ̃sã́,,1pl_o,1st (excl) Person Plural,52676,,,,yuru1263,2000
+ɨ̃sã́ka,,1pl_p,1st (excl) Person Plural,52716,,,,yuru1263,2000
+bãrĩ́,,12du_a,1st (incl) Person Dual,52675,,,,yuru1263,2000
+bãrĩ́,,12du_s,1st (incl) Person Dual,52674,,,,yuru1263,2000
+bãrĩ́,,12du_o,1st (incl) Person Dual,52673,,,,yuru1263,2000
+bãrĩ́ka,,12du_p,1st (incl) Person Dual,52715,,,,yuru1263,2000
+bãrĩ́,,12pl_a,1st (incl) Person Plural,52672,,,,yuru1263,2000
+bãrĩ́,,12pl_s,1st (incl) Person Plural,52671,,,,yuru1263,2000
+bãrĩ́,,12pl_o,1st (incl) Person Plural,52714,,,,yuru1263,2000
+bãrĩ́ka,,12pl_p,1st (incl) Person Plural,52713,,,,yuru1263,2000
+bɨ̃ɨ̃́,,2sg_a,2nd Person Singular,52712,,,,yuru1263,2000
+bɨ̃ɨ̃́,,2sg_s,2nd Person Singular,52711,,,,yuru1263,2000
+bɨ̃ɨ̃́,,2sg_o,2nd Person Singular,52710,,,,yuru1263,2000
+bɨ̃ɨ̃́ka,,2sg_p,2nd Person Singular,52709,,,,yuru1263,2000
+bɨ̃́hã,,2du_a,2nd Person Dual,52708,,,,yuru1263,2000
+bɨ̃́hã,,2du_s,2nd Person Dual,52707,,,,yuru1263,2000
+bɨ̃́hã,,2du_o,2nd Person Dual,52706,,,,yuru1263,2000
+bɨ̃́hãka,,2du_p,2nd Person Dual,52705,,,,yuru1263,2000
+bɨ̃́hã,,2pl_a,2nd Person Plural,52704,,,,yuru1263,2000
+bɨ̃́hã,,2pl_s,2nd Person Plural,52703,,,,yuru1263,2000
+bɨ̃́hã,,2pl_o,2nd Person Plural,52702,,,,yuru1263,2000
+bɨ̃́hãka,,2pl_p,2nd Person Plural,52701,,,,yuru1263,2000
+kɨ̃́ɨ̃,,3sg_m_a,3rd Person Singular Masculine,52700,,,,yuru1263,2000
+kɨ̃́ɨ̃,,3sg_m_s,3rd Person Singular Masculine,52699,,,,yuru1263,2000
+kɨ̃́ɨ̃,,3sg_m_o,3rd Person Singular Masculine,52698,,,,yuru1263,2000
+kɨ̃́ɨ̃ka,,3sg_m_p,3rd Person Singular Masculine,52697,,,,yuru1263,2000
+koó,,3sg_n_a,3rd Person Singular Neuter,52696,,,,yuru1263,2000
+koó,,3sg_n_s,3rd Person Singular Neuter,52695,,,,yuru1263,2000
+koó,,3sg_n_o,3rd Person Singular Neuter,52694,,,,yuru1263,2000
+koóka,,3sg_n_p,3rd Person Singular Neuter,52693,,,,yuru1263,2000
+kɨ̃́̃́hã,,3d-a,3rd Person Dual,52692,,,,yuru1263,2000
+kɨ̃́̃́hã,,3d-s,3rd Person Dual,52691,,,,yuru1263,2000
+kɨ̃́̃́hã,,3d-o,3rd Person Dual,52690,,,,yuru1263,2000
+kɨ̃́̃́hãka,,3d-p,3rd Person Dual,52689,,,,yuru1263,2000
+kɨ̃́̃́hã,,3p-a,3rd Person Plural,52688,,,,yuru1263,2000
+kɨ̃́̃́hã,,3p-s,3rd Person Plural,52687,,,,yuru1263,2000
+kɨ̃́̃́hã,,3p-o,3rd Person Plural,52686,,,,yuru1263,2000
+kɨ̃́̃́hãka,,3p-p,3rd Person Plural,52685,,,,yuru1263,2000

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-uanga;;1sg_a;1st (excl) Person Singular;46022;;;;kala1399;fortescue-1984
-uanga;;1sg_s;1st (excl) Person Singular;46021;;;;kala1399;fortescue-1984
-uanga;;1sg_o;1st (excl) Person Singular;46020;;;;kala1399;fortescue-1984
--ga;;1sg_p;1st (excl) Person Singular;46019;;;;kala1399;fortescue-1984
-uagut;;1du_a;1st (excl) Person Dual;46018;;;;kala1399;fortescue-1984
-uagut;;1du_s;1st (excl) Person Dual;46017;;;;kala1399;fortescue-1984
-uagut;;1du_o;1st (excl) Person Dual;46016;;;;kala1399;fortescue-1984
--put;;1du_p;1st (excl) Person Dual;46015;;The form '-rput' is also listed (Fortescue 1984:207).;;kala1399;fortescue-1984
-uagut;;1pl_a;1st (excl) Person Plural;46014;;;;kala1399;fortescue-1984
-uagut;;1pl_s;1st (excl) Person Plural;46013;;;;kala1399;fortescue-1984
-uagut;;1pl_o;1st (excl) Person Plural;46012;;;;kala1399;fortescue-1984
--put;;1pl_p;1st (excl) Person Plural;46011;;The form '-rput' is also listed (Fortescue 1984:207).;;kala1399;fortescue-1984
-uagut;;12du_a;1st (incl) Person Dual;46010;;;;kala1399;fortescue-1984
-uagut;;12du_s;1st (incl) Person Dual;46009;;;;kala1399;fortescue-1984
-uagut;;12du_o;1st (incl) Person Dual;46008;;;;kala1399;fortescue-1984
--put;;12du_p;1st (incl) Person Dual;46007;;The form '-rput' is also listed (Fortescue 1984:207).;;kala1399;fortescue-1984
-uagut;;12pl_a;1st (incl) Person Plural;46006;;;;kala1399;fortescue-1984
-uagut;;12pl_s;1st (incl) Person Plural;46005;;;;kala1399;fortescue-1984
-uagut;;12pl_o;1st (incl) Person Plural;46004;;;;kala1399;fortescue-1984
--put;;12pl_p;1st (incl) Person Plural;46003;;The form '-rput' is also listed (Fortescue 1984:207).;;kala1399;fortescue-1984
-ilːit;;2sg_a;2nd Person Singular;46002;;;;kala1399;fortescue-1984
-ilːit;;2sg_s;2nd Person Singular;46001;;;;kala1399;fortescue-1984
-ilːit;;2sg_o;2nd Person Singular;46000;;;;kala1399;fortescue-1984
--t;;2sg_p;2nd Person Singular;45999;;The form '-it' is also listed (Fortescue 1984:207).;;kala1399;fortescue-1984
-ilisːi ;;2du_a;2nd Person Dual;45998;;;;kala1399;fortescue-1984
-ilisːi ;;2du_s;2nd Person Dual;45997;;;;kala1399;fortescue-1984
-ilisːi ;;2du_o;2nd Person Dual;45996;;;;kala1399;fortescue-1984
--si;;2du_p;2nd Person Dual;45995;;The form '-rsi' is also listed (Fortescue 1984:207).;;kala1399;fortescue-1984
-ilisːi ;;2pl_a;2nd Person Plural;45994;;;;kala1399;fortescue-1984
-ilisːi ;;2pl_s;2nd Person Plural;45993;;;;kala1399;fortescue-1984
-ilisːi ;;2pl_o;2nd Person Plural;45992;;;;kala1399;fortescue-1984
--si;;2pl_p;2nd Person Plural;45991;;The form '-rsi' is also listed (Fortescue 1984:207).;;kala1399;fortescue-1984
-una;;3sg_m_a;3rd Person Singular Masculine;45990;;;;kala1399;fortescue-1984
-uːma;;3sg_m_s;3rd Person Singular Masculine;45989;;;;kala1399;fortescue-1984
-una;;3sg_m_o;3rd Person Singular Masculine;45988;;;;kala1399;fortescue-1984
--a;;3sg_m_p;3rd Person Singular Masculine;45987;;;;kala1399;fortescue-1984
-una;;3sg_n_a;3rd Person Singular Neuter;45986;;;;kala1399;fortescue-1984
-uːma;;3sg_n_s;3rd Person Singular Neuter;45985;;;;kala1399;fortescue-1984
-una;;3sg_n_o;3rd Person Singular Neuter;45984;;;;kala1399;fortescue-1984
--a;;3sg_n_p;3rd Person Singular Neuter;45983;;;;kala1399;fortescue-1984
-uku;;3d-a;3rd Person Dual;45982;;;;kala1399;fortescue-1984
-ukua;;3d-s;3rd Person Dual;45981;;;;kala1399;fortescue-1984
-uku;;3d-o;3rd Person Dual;45980;;;;kala1399;fortescue-1984
--at;;3d-p;3rd Person Dual;45979;;;;kala1399;fortescue-1984
-uku;;3p-a;3rd Person Plural;45978;;;;kala1399;fortescue-1984
-ukua;;3p-s;3rd Person Plural;45977;;;;kala1399;fortescue-1984
-uku;;3p-o;3rd Person Plural;45976;;;;kala1399;fortescue-1984
--at;;3p-p;3rd Person Plural;45975;;;;kala1399;fortescue-1984
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+uanga,,1sg_a,1st (excl) Person Singular,46022,,,,kala1399,fortescue-1984
+uanga,,1sg_s,1st (excl) Person Singular,46021,,,,kala1399,fortescue-1984
+uanga,,1sg_o,1st (excl) Person Singular,46020,,,,kala1399,fortescue-1984
+-ga,,1sg_p,1st (excl) Person Singular,46019,,,,kala1399,fortescue-1984
+uagut,,1du_a,1st (excl) Person Dual,46018,,,,kala1399,fortescue-1984
+uagut,,1du_s,1st (excl) Person Dual,46017,,,,kala1399,fortescue-1984
+uagut,,1du_o,1st (excl) Person Dual,46016,,,,kala1399,fortescue-1984
+-put,,1du_p,1st (excl) Person Dual,46015,,The form '-rput' is also listed (Fortescue 1984:207).,,kala1399,fortescue-1984
+uagut,,1pl_a,1st (excl) Person Plural,46014,,,,kala1399,fortescue-1984
+uagut,,1pl_s,1st (excl) Person Plural,46013,,,,kala1399,fortescue-1984
+uagut,,1pl_o,1st (excl) Person Plural,46012,,,,kala1399,fortescue-1984
+-put,,1pl_p,1st (excl) Person Plural,46011,,The form '-rput' is also listed (Fortescue 1984:207).,,kala1399,fortescue-1984
+uagut,,12du_a,1st (incl) Person Dual,46010,,,,kala1399,fortescue-1984
+uagut,,12du_s,1st (incl) Person Dual,46009,,,,kala1399,fortescue-1984
+uagut,,12du_o,1st (incl) Person Dual,46008,,,,kala1399,fortescue-1984
+-put,,12du_p,1st (incl) Person Dual,46007,,The form '-rput' is also listed (Fortescue 1984:207).,,kala1399,fortescue-1984
+uagut,,12pl_a,1st (incl) Person Plural,46006,,,,kala1399,fortescue-1984
+uagut,,12pl_s,1st (incl) Person Plural,46005,,,,kala1399,fortescue-1984
+uagut,,12pl_o,1st (incl) Person Plural,46004,,,,kala1399,fortescue-1984
+-put,,12pl_p,1st (incl) Person Plural,46003,,The form '-rput' is also listed (Fortescue 1984:207).,,kala1399,fortescue-1984
+ilːit,,2sg_a,2nd Person Singular,46002,,,,kala1399,fortescue-1984
+ilːit,,2sg_s,2nd Person Singular,46001,,,,kala1399,fortescue-1984
+ilːit,,2sg_o,2nd Person Singular,46000,,,,kala1399,fortescue-1984
+-t,,2sg_p,2nd Person Singular,45999,,The form '-it' is also listed (Fortescue 1984:207).,,kala1399,fortescue-1984
+ilisːi,,2du_a,2nd Person Dual,45998,,,,kala1399,fortescue-1984
+ilisːi,,2du_s,2nd Person Dual,45997,,,,kala1399,fortescue-1984
+ilisːi,,2du_o,2nd Person Dual,45996,,,,kala1399,fortescue-1984
+-si,,2du_p,2nd Person Dual,45995,,The form '-rsi' is also listed (Fortescue 1984:207).,,kala1399,fortescue-1984
+ilisːi,,2pl_a,2nd Person Plural,45994,,,,kala1399,fortescue-1984
+ilisːi,,2pl_s,2nd Person Plural,45993,,,,kala1399,fortescue-1984
+ilisːi,,2pl_o,2nd Person Plural,45992,,,,kala1399,fortescue-1984
+-si,,2pl_p,2nd Person Plural,45991,,The form '-rsi' is also listed (Fortescue 1984:207).,,kala1399,fortescue-1984
+una,,3sg_m_a,3rd Person Singular Masculine,45990,,,,kala1399,fortescue-1984
+uːma,,3sg_m_s,3rd Person Singular Masculine,45989,,,,kala1399,fortescue-1984
+una,,3sg_m_o,3rd Person Singular Masculine,45988,,,,kala1399,fortescue-1984
+-a,,3sg_m_p,3rd Person Singular Masculine,45987,,,,kala1399,fortescue-1984
+una,,3sg_n_a,3rd Person Singular Neuter,45986,,,,kala1399,fortescue-1984
+uːma,,3sg_n_s,3rd Person Singular Neuter,45985,,,,kala1399,fortescue-1984
+una,,3sg_n_o,3rd Person Singular Neuter,45984,,,,kala1399,fortescue-1984
+-a,,3sg_n_p,3rd Person Singular Neuter,45983,,,,kala1399,fortescue-1984
+uku,,3d-a,3rd Person Dual,45982,,,,kala1399,fortescue-1984
+ukua,,3d-s,3rd Person Dual,45981,,,,kala1399,fortescue-1984
+uku,,3d-o,3rd Person Dual,45980,,,,kala1399,fortescue-1984
+-at,,3d-p,3rd Person Dual,45979,,,,kala1399,fortescue-1984
+uku,,3p-a,3rd Person Plural,45978,,,,kala1399,fortescue-1984
+ukua,,3p-s,3rd Person Plural,45977,,,,kala1399,fortescue-1984
+uku,,3p-o,3rd Person Plural,45976,,,,kala1399,fortescue-1984
+-at,,3p-p,3rd Person Plural,45975,,,,kala1399,fortescue-1984

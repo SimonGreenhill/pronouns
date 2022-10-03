@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-gua;;1sg_a;1st (excl) Person Singular;48526;;;;indo1316;sneddon-2006
-gua;;1sg_s;1st (excl) Person Singular;48525;;;;indo1316;sneddon-2006
-gua;;1sg_o;1st (excl) Person Singular;48524;;;;indo1316;sneddon-2006
-gua;;1sg_p;1st (excl) Person Singular;48523;;;;indo1316;sneddon-2006
-kita;;1du_a;1st (excl) Person Dual;48522;;;;indo1316;sneddon-2006
-kita;;1du_s;1st (excl) Person Dual;48521;;;;indo1316;sneddon-2006
-kita;;1du_o;1st (excl) Person Dual;48520;;;;indo1316;sneddon-2006
-kita;;1du_p;1st (excl) Person Dual;48519;;;;indo1316;sneddon-2006
-kita;;1pl_a;1st (excl) Person Plural;48518;;;;indo1316;sneddon-2006
-kita;;1pl_s;1st (excl) Person Plural;48517;;;;indo1316;sneddon-2006
-kita;;1pl_o;1st (excl) Person Plural;48516;;;;indo1316;sneddon-2006
-kita;;1pl_p;1st (excl) Person Plural;48515;;;;indo1316;sneddon-2006
-kita;;12du_a;1st (incl) Person Dual;48514;;;;indo1316;sneddon-2006
-kita;;12du_s;1st (incl) Person Dual;48513;;;;indo1316;sneddon-2006
-kita;;12du_o;1st (incl) Person Dual;48512;;;;indo1316;sneddon-2006
-kita;;12du_p;1st (incl) Person Dual;48511;;;;indo1316;sneddon-2006
-kita;;12pl_a;1st (incl) Person Plural;48510;;;;indo1316;sneddon-2006
-kita;;12pl_s;1st (incl) Person Plural;48509;;;;indo1316;sneddon-2006
-kita;;12pl_o;1st (incl) Person Plural;48508;;;;indo1316;sneddon-2006
-kita;;12pl_p;1st (incl) Person Plural;48507;;;;indo1316;sneddon-2006
-elu;;2sg_a;2nd Person Singular;48506;;;;indo1316;sneddon-2006
-elu;;2sg_s;2nd Person Singular;48505;;;;indo1316;sneddon-2006
-elu;;2sg_o;2nd Person Singular;48504;;;;indo1316;sneddon-2006
-elu;;2sg_p;2nd Person Singular;48503;;;;indo1316;sneddon-2006
-elu;;2du_a;2nd Person Dual;48502;;;;indo1316;sneddon-2006
-elu;;2du_s;2nd Person Dual;48501;;;;indo1316;sneddon-2006
-elu;;2du_o;2nd Person Dual;48500;;;;indo1316;sneddon-2006
-elu;;2du_p;2nd Person Dual;48499;;;;indo1316;sneddon-2006
-elu;;2pl_a;2nd Person Plural;48498;;;;indo1316;sneddon-2006
-elu;;2pl_s;2nd Person Plural;48497;;;;indo1316;sneddon-2006
-elu;;2pl_o;2nd Person Plural;48496;;;;indo1316;sneddon-2006
-elu;;2pl_p;2nd Person Plural;48495;;;;indo1316;sneddon-2006
-dia;;3sg_m_a;3rd Person Singular Masculine;48494;;;;indo1316;sneddon-2006
-dia;;3sg_m_s;3rd Person Singular Masculine;48493;;;;indo1316;sneddon-2006
-dia;;3sg_m_o;3rd Person Singular Masculine;48492;;;;indo1316;sneddon-2006
-dia;;3sg_m_p;3rd Person Singular Masculine;48491;;;;indo1316;sneddon-2006
-dia;;3sg_n_a;3rd Person Singular Neuter;48490;;;;indo1316;sneddon-2006
-dia;;3sg_n_s;3rd Person Singular Neuter;48489;;;;indo1316;sneddon-2006
-dia;;3sg_n_o;3rd Person Singular Neuter;48488;;;;indo1316;sneddon-2006
-dia;;3sg_n_p;3rd Person Singular Neuter;48487;;;;indo1316;sneddon-2006
-mereka;;3d-a;3rd Person Dual;48486;;;;indo1316;sneddon-2006
-mereka;;3d-s;3rd Person Dual;48485;;;;indo1316;sneddon-2006
-mereka;;3d-o;3rd Person Dual;48484;;;;indo1316;sneddon-2006
-mereka;;3d-p;3rd Person Dual;48483;;;;indo1316;sneddon-2006
-mereka;;3p-a;3rd Person Plural;48482;;;;indo1316;sneddon-2006
-mereka;;3p-s;3rd Person Plural;48481;;;;indo1316;sneddon-2006
-mereka;;3p-o;3rd Person Plural;48480;;;;indo1316;sneddon-2006
-mereka;;3p-p;3rd Person Plural;48479;;;;indo1316;sneddon-2006
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+gua,,1sg_a,1st (excl) Person Singular,48526,,,,indo1316,sneddon-2006
+gua,,1sg_s,1st (excl) Person Singular,48525,,,,indo1316,sneddon-2006
+gua,,1sg_o,1st (excl) Person Singular,48524,,,,indo1316,sneddon-2006
+gua,,1sg_p,1st (excl) Person Singular,48523,,,,indo1316,sneddon-2006
+kita,,1du_a,1st (excl) Person Dual,48522,,,,indo1316,sneddon-2006
+kita,,1du_s,1st (excl) Person Dual,48521,,,,indo1316,sneddon-2006
+kita,,1du_o,1st (excl) Person Dual,48520,,,,indo1316,sneddon-2006
+kita,,1du_p,1st (excl) Person Dual,48519,,,,indo1316,sneddon-2006
+kita,,1pl_a,1st (excl) Person Plural,48518,,,,indo1316,sneddon-2006
+kita,,1pl_s,1st (excl) Person Plural,48517,,,,indo1316,sneddon-2006
+kita,,1pl_o,1st (excl) Person Plural,48516,,,,indo1316,sneddon-2006
+kita,,1pl_p,1st (excl) Person Plural,48515,,,,indo1316,sneddon-2006
+kita,,12du_a,1st (incl) Person Dual,48514,,,,indo1316,sneddon-2006
+kita,,12du_s,1st (incl) Person Dual,48513,,,,indo1316,sneddon-2006
+kita,,12du_o,1st (incl) Person Dual,48512,,,,indo1316,sneddon-2006
+kita,,12du_p,1st (incl) Person Dual,48511,,,,indo1316,sneddon-2006
+kita,,12pl_a,1st (incl) Person Plural,48510,,,,indo1316,sneddon-2006
+kita,,12pl_s,1st (incl) Person Plural,48509,,,,indo1316,sneddon-2006
+kita,,12pl_o,1st (incl) Person Plural,48508,,,,indo1316,sneddon-2006
+kita,,12pl_p,1st (incl) Person Plural,48507,,,,indo1316,sneddon-2006
+elu,,2sg_a,2nd Person Singular,48506,,,,indo1316,sneddon-2006
+elu,,2sg_s,2nd Person Singular,48505,,,,indo1316,sneddon-2006
+elu,,2sg_o,2nd Person Singular,48504,,,,indo1316,sneddon-2006
+elu,,2sg_p,2nd Person Singular,48503,,,,indo1316,sneddon-2006
+elu,,2du_a,2nd Person Dual,48502,,,,indo1316,sneddon-2006
+elu,,2du_s,2nd Person Dual,48501,,,,indo1316,sneddon-2006
+elu,,2du_o,2nd Person Dual,48500,,,,indo1316,sneddon-2006
+elu,,2du_p,2nd Person Dual,48499,,,,indo1316,sneddon-2006
+elu,,2pl_a,2nd Person Plural,48498,,,,indo1316,sneddon-2006
+elu,,2pl_s,2nd Person Plural,48497,,,,indo1316,sneddon-2006
+elu,,2pl_o,2nd Person Plural,48496,,,,indo1316,sneddon-2006
+elu,,2pl_p,2nd Person Plural,48495,,,,indo1316,sneddon-2006
+dia,,3sg_m_a,3rd Person Singular Masculine,48494,,,,indo1316,sneddon-2006
+dia,,3sg_m_s,3rd Person Singular Masculine,48493,,,,indo1316,sneddon-2006
+dia,,3sg_m_o,3rd Person Singular Masculine,48492,,,,indo1316,sneddon-2006
+dia,,3sg_m_p,3rd Person Singular Masculine,48491,,,,indo1316,sneddon-2006
+dia,,3sg_n_a,3rd Person Singular Neuter,48490,,,,indo1316,sneddon-2006
+dia,,3sg_n_s,3rd Person Singular Neuter,48489,,,,indo1316,sneddon-2006
+dia,,3sg_n_o,3rd Person Singular Neuter,48488,,,,indo1316,sneddon-2006
+dia,,3sg_n_p,3rd Person Singular Neuter,48487,,,,indo1316,sneddon-2006
+mereka,,3d-a,3rd Person Dual,48486,,,,indo1316,sneddon-2006
+mereka,,3d-s,3rd Person Dual,48485,,,,indo1316,sneddon-2006
+mereka,,3d-o,3rd Person Dual,48484,,,,indo1316,sneddon-2006
+mereka,,3d-p,3rd Person Dual,48483,,,,indo1316,sneddon-2006
+mereka,,3p-a,3rd Person Plural,48482,,,,indo1316,sneddon-2006
+mereka,,3p-s,3rd Person Plural,48481,,,,indo1316,sneddon-2006
+mereka,,3p-o,3rd Person Plural,48480,,,,indo1316,sneddon-2006
+mereka,,3p-p,3rd Person Plural,48479,,,,indo1316,sneddon-2006

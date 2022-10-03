@@ -1,45 +1,45 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nce;;1sg_a;1st (excl) Person Singular;55646;;;;karo1294;wilson-1961
-nce;;1sg_s;1st (excl) Person Singular;55645;;;;karo1294;wilson-1961
-nce;;1sg_o;1st (excl) Person Singular;55644;;;;karo1294;wilson-1961
--am;;1sg_p;1st (excl) Person Singular;55643;;;;karo1294;wilson-1961
-wunee;;1du_a;1st (excl) Person Dual;55642;;;;karo1294;wilson-1961
-wunee;;1du_s;1st (excl) Person Dual;55641;;;;karo1294;wilson-1961
-wunee;;1du_o;1st (excl) Person Dual;55640;;;;karo1294;wilson-1961
-wonaa;;1du_p;1st (excl) Person Dual;55639;;;;karo1294;wilson-1961
-wunee;;1pl_a;1st (excl) Person Plural;55638;;;;karo1294;wilson-1961
-wunee;;1pl_s;1st (excl) Person Plural;55637;;;;karo1294;wilson-1961
-wunee;;1pl_o;1st (excl) Person Plural;55636;;;;karo1294;wilson-1961
-wonaa;;1pl_p;1st (excl) Person Plural;55635;;;;karo1294;wilson-1961
-wunee;;12du_a;1st (incl) Person Dual;55634;;;;karo1294;wilson-1961
-wunee;;12du_s;1st (incl) Person Dual;55633;;;;karo1294;wilson-1961
-wunee;;12du_o;1st (incl) Person Dual;55632;;;;karo1294;wilson-1961
-wonaa;;12du_p;1st (incl) Person Dual;55631;;;;karo1294;wilson-1961
-wunee;;12pl_a;1st (incl) Person Plural;55630;;;;karo1294;wilson-1961
-wunee;;12pl_s;1st (incl) Person Plural;55629;;;;karo1294;wilson-1961
-wunee;;12pl_o;1st (incl) Person Plural;55628;;;;karo1294;wilson-1961
-wonaa;;12pl_p;1st (incl) Person Plural;55627;;;;karo1294;wilson-1961
-awɛ;;2sg_a;2nd Person Singular;55626;;;;karo1294;wilson-1961
-awɛ;;2sg_s;2nd Person Singular;55625;;;;karo1294;wilson-1961
-awɛ;;2sg_o;2nd Person Singular;55624;;;;karo1294;wilson-1961
--e;;2sg_p;2nd Person Singular;55623;;;;karo1294;wilson-1961
-aluu;;2du_a;2nd Person Dual;55622;;;;karo1294;wilson-1961
-aluu;;2du_s;2nd Person Dual;55621;;;;karo1294;wilson-1961
-aluu;;2du_o;2nd Person Dual;55620;;;;karo1294;wilson-1961
--aluu;;2du_p;2nd Person Dual;55619;;;;karo1294;wilson-1961
-aluu;;2pl_a;2nd Person Plural;55618;;;;karo1294;wilson-1961
-aluu;;2pl_s;2nd Person Plural;55617;;;;karo1294;wilson-1961
-aluu;;2pl_o;2nd Person Plural;55616;;;;karo1294;wilson-1961
--aluu;;2pl_p;2nd Person Plural;55615;;;;karo1294;wilson-1961
-akɛna;;3sg_m_a;3rd Person Singular Masculine;55614;;;;karo1294;wilson-1961
-akɛna;;3sg_m_s;3rd Person Singular Masculine;55613;;;;karo1294;wilson-1961
-akɛna;;3sg_m_o;3rd Person Singular Masculine;55612;;;;karo1294;wilson-1961
--ɔɔ;;3sg_m_p;3rd Person Singular Masculine;55611;;;;karo1294;wilson-1961
-pakɔ;;3d-a;3rd Person Dual;55610;;;;karo1294;wilson-1961
-pakɔ;;3d-s;3rd Person Dual;55609;;;;karo1294;wilson-1961
-pakɔ;;3d-o;3rd Person Dual;55608;;;;karo1294;wilson-1961
--ee;;3d-p;3rd Person Dual;55607;;;;karo1294;wilson-1961
-pakɔ;;3p-a;3rd Person Plural;55606;;;;karo1294;wilson-1961
-pakɔ;;3p-s;3rd Person Plural;55605;;;;karo1294;wilson-1961
-pakɔ;;3p-o;3rd Person Plural;55604;;;;karo1294;wilson-1961
--ee;;3p-p;3rd Person Plural;55603;;;;karo1294;wilson-1961
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nce,,1sg_a,1st (excl) Person Singular,55646,,,,karo1294,wilson-1961
+nce,,1sg_s,1st (excl) Person Singular,55645,,,,karo1294,wilson-1961
+nce,,1sg_o,1st (excl) Person Singular,55644,,,,karo1294,wilson-1961
+-am,,1sg_p,1st (excl) Person Singular,55643,,,,karo1294,wilson-1961
+wunee,,1du_a,1st (excl) Person Dual,55642,,,,karo1294,wilson-1961
+wunee,,1du_s,1st (excl) Person Dual,55641,,,,karo1294,wilson-1961
+wunee,,1du_o,1st (excl) Person Dual,55640,,,,karo1294,wilson-1961
+wonaa,,1du_p,1st (excl) Person Dual,55639,,,,karo1294,wilson-1961
+wunee,,1pl_a,1st (excl) Person Plural,55638,,,,karo1294,wilson-1961
+wunee,,1pl_s,1st (excl) Person Plural,55637,,,,karo1294,wilson-1961
+wunee,,1pl_o,1st (excl) Person Plural,55636,,,,karo1294,wilson-1961
+wonaa,,1pl_p,1st (excl) Person Plural,55635,,,,karo1294,wilson-1961
+wunee,,12du_a,1st (incl) Person Dual,55634,,,,karo1294,wilson-1961
+wunee,,12du_s,1st (incl) Person Dual,55633,,,,karo1294,wilson-1961
+wunee,,12du_o,1st (incl) Person Dual,55632,,,,karo1294,wilson-1961
+wonaa,,12du_p,1st (incl) Person Dual,55631,,,,karo1294,wilson-1961
+wunee,,12pl_a,1st (incl) Person Plural,55630,,,,karo1294,wilson-1961
+wunee,,12pl_s,1st (incl) Person Plural,55629,,,,karo1294,wilson-1961
+wunee,,12pl_o,1st (incl) Person Plural,55628,,,,karo1294,wilson-1961
+wonaa,,12pl_p,1st (incl) Person Plural,55627,,,,karo1294,wilson-1961
+awɛ,,2sg_a,2nd Person Singular,55626,,,,karo1294,wilson-1961
+awɛ,,2sg_s,2nd Person Singular,55625,,,,karo1294,wilson-1961
+awɛ,,2sg_o,2nd Person Singular,55624,,,,karo1294,wilson-1961
+-e,,2sg_p,2nd Person Singular,55623,,,,karo1294,wilson-1961
+aluu,,2du_a,2nd Person Dual,55622,,,,karo1294,wilson-1961
+aluu,,2du_s,2nd Person Dual,55621,,,,karo1294,wilson-1961
+aluu,,2du_o,2nd Person Dual,55620,,,,karo1294,wilson-1961
+-aluu,,2du_p,2nd Person Dual,55619,,,,karo1294,wilson-1961
+aluu,,2pl_a,2nd Person Plural,55618,,,,karo1294,wilson-1961
+aluu,,2pl_s,2nd Person Plural,55617,,,,karo1294,wilson-1961
+aluu,,2pl_o,2nd Person Plural,55616,,,,karo1294,wilson-1961
+-aluu,,2pl_p,2nd Person Plural,55615,,,,karo1294,wilson-1961
+akɛna,,3sg_m_a,3rd Person Singular Masculine,55614,,,,karo1294,wilson-1961
+akɛna,,3sg_m_s,3rd Person Singular Masculine,55613,,,,karo1294,wilson-1961
+akɛna,,3sg_m_o,3rd Person Singular Masculine,55612,,,,karo1294,wilson-1961
+-ɔɔ,,3sg_m_p,3rd Person Singular Masculine,55611,,,,karo1294,wilson-1961
+pakɔ,,3d-a,3rd Person Dual,55610,,,,karo1294,wilson-1961
+pakɔ,,3d-s,3rd Person Dual,55609,,,,karo1294,wilson-1961
+pakɔ,,3d-o,3rd Person Dual,55608,,,,karo1294,wilson-1961
+-ee,,3d-p,3rd Person Dual,55607,,,,karo1294,wilson-1961
+pakɔ,,3p-a,3rd Person Plural,55606,,,,karo1294,wilson-1961
+pakɔ,,3p-s,3rd Person Plural,55605,,,,karo1294,wilson-1961
+pakɔ,,3p-o,3rd Person Plural,55604,,,,karo1294,wilson-1961
+-ee,,3p-p,3rd Person Plural,55603,,,,karo1294,wilson-1961

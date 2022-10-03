@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-dʑigi;;1sg_a;1st (excl) Person Singular;44247;;The forms 'dʑi' and 'dʑiŋgi' are also listed (Andvik 2010:53).;;tsha1245;andvik-2010
-dʑaŋ;;1sg_s;1st (excl) Person Singular;44246;;;;tsha1245;andvik-2010
-dʑaŋ;;1sg_o;1st (excl) Person Singular;44245;;;;tsha1245;andvik-2010
-dʑaga;;1sg_p;1st (excl) Person Singular;44244;;The forms 'dʑa' and 'dʑaŋga' are also listed (Andvik 2010:53).;;tsha1245;andvik-2010
-atɕʰiki;;1du_a;1st (excl) Person Dual;44243;;;;tsha1245;andvik-2010
-atɕʰiŋ;;1du_s;1st (excl) Person Dual;44242;;;;tsha1245;andvik-2010
-atɕʰiŋ;;1du_o;1st (excl) Person Dual;44241;;;;tsha1245;andvik-2010
-atɕʰika;;1du_p;1st (excl) Person Dual;44240;;;;tsha1245;andvik-2010
-aɕi;;1pl_a;1st (excl) Person Plural;44239;;;;tsha1245;andvik-2010
-ai;;1pl_s;1st (excl) Person Plural;44238;;;;tsha1245;andvik-2010
-ai;;1pl_o;1st (excl) Person Plural;44237;;;;tsha1245;andvik-2010
-aha;;1pl_p;1st (excl) Person Plural;44236;;;;tsha1245;andvik-2010
-atɕʰiki;;12du_a;1st (incl) Person Dual;44235;;;;tsha1245;andvik-2010
-atɕʰiŋ;;12du_s;1st (incl) Person Dual;44234;;;;tsha1245;andvik-2010
-atɕʰiŋ;;12du_o;1st (incl) Person Dual;44233;;;;tsha1245;andvik-2010
-atɕʰika;;12du_p;1st (incl) Person Dual;44232;;;;tsha1245;andvik-2010
-aɕi;;12pl_a;1st (incl) Person Plural;44231;;;;tsha1245;andvik-2010
-ai;;12pl_s;1st (incl) Person Plural;44230;;;;tsha1245;andvik-2010
-ai;;12pl_o;1st (incl) Person Plural;44229;;;;tsha1245;andvik-2010
-aha;;12pl_p;1st (incl) Person Plural;44228;;;;tsha1245;andvik-2010
-nangi;;2sg_a;2nd Person Singular;44227;;;;tsha1245;andvik-2010
-nan;;2sg_s;2nd Person Singular;44226;;;;tsha1245;andvik-2010
-nan;;2sg_o;2nd Person Singular;44225;;;;tsha1245;andvik-2010
-naga;;2sg_p;2nd Person Singular;44224;;;;tsha1245;andvik-2010
-natɕʰiki;;2du_a;2nd Person Dual;44223;;The 1d form 'atɕʰiki' may also be used as the 2d form (Andvik 2010:53).;;tsha1245;andvik-2010
-natɕʰiŋ;;2du_s;2nd Person Dual;44222;;The 1d form 'atɕʰiŋ' may also be used as the 2d form (Andvik 2010:53).;;tsha1245;andvik-2010
-natɕʰiŋ;;2du_o;2nd Person Dual;44221;;The 1d form 'atɕʰiŋ' may also be used as the 2d form (Andvik 2010:53).;;tsha1245;andvik-2010
-natɕʰika;;2du_p;2nd Person Dual;44220;;The 1d form 'atɕʰika ' may also be used as the 2d form (Andvik 2010:53).;;tsha1245;andvik-2010
-naɕi;;2pl_a;2nd Person Plural;44219;;;;tsha1245;andvik-2010
-nai;;2pl_s;2nd Person Plural;44218;;;;tsha1245;andvik-2010
-nai;;2pl_o;2nd Person Plural;44217;;;;tsha1245;andvik-2010
-naha;;2pl_p;2nd Person Plural;44216;;;;tsha1245;andvik-2010
-ɾoki;;3sg_m_a;3rd Person Singular Masculine;44215;;;;tsha1245;andvik-2010
-ɾo;;3sg_m_s;3rd Person Singular Masculine;44214;;;;tsha1245;andvik-2010
-ɾo;;3sg_m_o;3rd Person Singular Masculine;44213;;;;tsha1245;andvik-2010
-ɾoka;;3sg_m_p;3rd Person Singular Masculine;44212;;;;tsha1245;andvik-2010
-ɾoki;;3sg_n_a;3rd Person Singular Neuter;44211;;;;tsha1245;andvik-2010
-ɾo;;3sg_n_s;3rd Person Singular Neuter;44210;;;;tsha1245;andvik-2010
-ɾo;;3sg_n_o;3rd Person Singular Neuter;44209;;;;tsha1245;andvik-2010
-ɾoka;;3sg_n_p;3rd Person Singular Neuter;44208;;;;tsha1245;andvik-2010
-roktsʰiki;;3d-a;3rd Person Dual;44207;;;;tsha1245;andvik-2010
-roktsʰiŋ;;3d-s;3rd Person Dual;44206;;;;tsha1245;andvik-2010
-roktsʰiŋ;;3d-o;3rd Person Dual;44205;;;;tsha1245;andvik-2010
-ɾoktsʰika;;3d-p;3rd Person Dual;44204;;;;tsha1245;andvik-2010
-ɾokteki;;3p-a;3rd Person Plural;44203;;;;tsha1245;andvik-2010
-rokte;;3p-s;3rd Person Plural;44202;;;;tsha1245;andvik-2010
-rokte;;3p-o;3rd Person Plural;44201;;;;tsha1245;andvik-2010
-ɾokteka;;3p-p;3rd Person Plural;44200;;;;tsha1245;andvik-2010
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+dʑigi,,1sg_a,1st (excl) Person Singular,44247,,The forms 'dʑi' and 'dʑiŋgi' are also listed (Andvik 2010:53).,,tsha1245,andvik-2010
+dʑaŋ,,1sg_s,1st (excl) Person Singular,44246,,,,tsha1245,andvik-2010
+dʑaŋ,,1sg_o,1st (excl) Person Singular,44245,,,,tsha1245,andvik-2010
+dʑaga,,1sg_p,1st (excl) Person Singular,44244,,The forms 'dʑa' and 'dʑaŋga' are also listed (Andvik 2010:53).,,tsha1245,andvik-2010
+atɕʰiki,,1du_a,1st (excl) Person Dual,44243,,,,tsha1245,andvik-2010
+atɕʰiŋ,,1du_s,1st (excl) Person Dual,44242,,,,tsha1245,andvik-2010
+atɕʰiŋ,,1du_o,1st (excl) Person Dual,44241,,,,tsha1245,andvik-2010
+atɕʰika,,1du_p,1st (excl) Person Dual,44240,,,,tsha1245,andvik-2010
+aɕi,,1pl_a,1st (excl) Person Plural,44239,,,,tsha1245,andvik-2010
+ai,,1pl_s,1st (excl) Person Plural,44238,,,,tsha1245,andvik-2010
+ai,,1pl_o,1st (excl) Person Plural,44237,,,,tsha1245,andvik-2010
+aha,,1pl_p,1st (excl) Person Plural,44236,,,,tsha1245,andvik-2010
+atɕʰiki,,12du_a,1st (incl) Person Dual,44235,,,,tsha1245,andvik-2010
+atɕʰiŋ,,12du_s,1st (incl) Person Dual,44234,,,,tsha1245,andvik-2010
+atɕʰiŋ,,12du_o,1st (incl) Person Dual,44233,,,,tsha1245,andvik-2010
+atɕʰika,,12du_p,1st (incl) Person Dual,44232,,,,tsha1245,andvik-2010
+aɕi,,12pl_a,1st (incl) Person Plural,44231,,,,tsha1245,andvik-2010
+ai,,12pl_s,1st (incl) Person Plural,44230,,,,tsha1245,andvik-2010
+ai,,12pl_o,1st (incl) Person Plural,44229,,,,tsha1245,andvik-2010
+aha,,12pl_p,1st (incl) Person Plural,44228,,,,tsha1245,andvik-2010
+nangi,,2sg_a,2nd Person Singular,44227,,,,tsha1245,andvik-2010
+nan,,2sg_s,2nd Person Singular,44226,,,,tsha1245,andvik-2010
+nan,,2sg_o,2nd Person Singular,44225,,,,tsha1245,andvik-2010
+naga,,2sg_p,2nd Person Singular,44224,,,,tsha1245,andvik-2010
+natɕʰiki,,2du_a,2nd Person Dual,44223,,The 1d form 'atɕʰiki' may also be used as the 2d form (Andvik 2010:53).,,tsha1245,andvik-2010
+natɕʰiŋ,,2du_s,2nd Person Dual,44222,,The 1d form 'atɕʰiŋ' may also be used as the 2d form (Andvik 2010:53).,,tsha1245,andvik-2010
+natɕʰiŋ,,2du_o,2nd Person Dual,44221,,The 1d form 'atɕʰiŋ' may also be used as the 2d form (Andvik 2010:53).,,tsha1245,andvik-2010
+natɕʰika,,2du_p,2nd Person Dual,44220,,The 1d form 'atɕʰika ' may also be used as the 2d form (Andvik 2010:53).,,tsha1245,andvik-2010
+naɕi,,2pl_a,2nd Person Plural,44219,,,,tsha1245,andvik-2010
+nai,,2pl_s,2nd Person Plural,44218,,,,tsha1245,andvik-2010
+nai,,2pl_o,2nd Person Plural,44217,,,,tsha1245,andvik-2010
+naha,,2pl_p,2nd Person Plural,44216,,,,tsha1245,andvik-2010
+ɾoki,,3sg_m_a,3rd Person Singular Masculine,44215,,,,tsha1245,andvik-2010
+ɾo,,3sg_m_s,3rd Person Singular Masculine,44214,,,,tsha1245,andvik-2010
+ɾo,,3sg_m_o,3rd Person Singular Masculine,44213,,,,tsha1245,andvik-2010
+ɾoka,,3sg_m_p,3rd Person Singular Masculine,44212,,,,tsha1245,andvik-2010
+ɾoki,,3sg_n_a,3rd Person Singular Neuter,44211,,,,tsha1245,andvik-2010
+ɾo,,3sg_n_s,3rd Person Singular Neuter,44210,,,,tsha1245,andvik-2010
+ɾo,,3sg_n_o,3rd Person Singular Neuter,44209,,,,tsha1245,andvik-2010
+ɾoka,,3sg_n_p,3rd Person Singular Neuter,44208,,,,tsha1245,andvik-2010
+roktsʰiki,,3d-a,3rd Person Dual,44207,,,,tsha1245,andvik-2010
+roktsʰiŋ,,3d-s,3rd Person Dual,44206,,,,tsha1245,andvik-2010
+roktsʰiŋ,,3d-o,3rd Person Dual,44205,,,,tsha1245,andvik-2010
+ɾoktsʰika,,3d-p,3rd Person Dual,44204,,,,tsha1245,andvik-2010
+ɾokteki,,3p-a,3rd Person Plural,44203,,,,tsha1245,andvik-2010
+rokte,,3p-s,3rd Person Plural,44202,,,,tsha1245,andvik-2010
+rokte,,3p-o,3rd Person Plural,44201,,,,tsha1245,andvik-2010
+ɾokteka,,3p-p,3rd Person Plural,44200,,,,tsha1245,andvik-2010

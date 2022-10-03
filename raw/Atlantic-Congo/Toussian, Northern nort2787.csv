@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-me˥, m˥-;;1sg_a;1st (excl) Person Singular;57920;;;;nort2787;zaugg-coretti-2005
-me˥, m˥-;;1sg_s;1st (excl) Person Singular;57919;;;;nort2787;zaugg-coretti-2005
-me˥, m˥-;;1sg_o;1st (excl) Person Singular;57918;;;;nort2787;zaugg-coretti-2005
-me˥, m˥-;;1sg_p;1st (excl) Person Singular;57917;;;;nort2787;zaugg-coretti-2005
-ne˩;;1du_a;1st (excl) Person Dual;57916;;;;nort2787;zaugg-coretti-2005
-ne˩;;1du_s;1st (excl) Person Dual;57915;;;;nort2787;zaugg-coretti-2005
-ne˩;;1du_o;1st (excl) Person Dual;57914;;;;nort2787;zaugg-coretti-2005
-ne˥;;1du_p;1st (excl) Person Dual;57913;;;;nort2787;zaugg-coretti-2005
-ne˩;;1pl_a;1st (excl) Person Plural;57912;;;;nort2787;zaugg-coretti-2005
-ne˩;;1pl_s;1st (excl) Person Plural;57911;;;;nort2787;zaugg-coretti-2005
-ne˩;;1pl_o;1st (excl) Person Plural;57910;;;;nort2787;zaugg-coretti-2005
-ne˥;;1pl_p;1st (excl) Person Plural;57909;;;;nort2787;zaugg-coretti-2005
-ne˩;;12du_a;1st (incl) Person Dual;57908;;;;nort2787;zaugg-coretti-2005
-ne˩;;12du_s;1st (incl) Person Dual;57907;;;;nort2787;zaugg-coretti-2005
-ne˩;;12du_o;1st (incl) Person Dual;57906;;;;nort2787;zaugg-coretti-2005
-ne˥;;12du_p;1st (incl) Person Dual;57905;;;;nort2787;zaugg-coretti-2005
-ne˩;;12pl_a;1st (incl) Person Plural;57904;;;;nort2787;zaugg-coretti-2005
-ne˩;;12pl_s;1st (incl) Person Plural;57903;;;;nort2787;zaugg-coretti-2005
-ne˩;;12pl_o;1st (incl) Person Plural;57902;;;;nort2787;zaugg-coretti-2005
-ne˥;;12pl_p;1st (incl) Person Plural;57901;;;;nort2787;zaugg-coretti-2005
-a˥;;2sg_a;2nd Person Singular;57900;;;;nort2787;zaugg-coretti-2005
-a˥;;2sg_s;2nd Person Singular;57899;;;;nort2787;zaugg-coretti-2005
-a˥;;2sg_o;2nd Person Singular;57898;;;;nort2787;zaugg-coretti-2005
-a˥;;2sg_p;2nd Person Singular;57897;;;;nort2787;zaugg-coretti-2005
-i˥;;2du_a;2nd Person Dual;57896;;;;nort2787;zaugg-coretti-2005
-i˥;;2du_s;2nd Person Dual;57895;;;;nort2787;zaugg-coretti-2005
-i˥;;2du_o;2nd Person Dual;57894;;;;nort2787;zaugg-coretti-2005
-i˥;;2du_p;2nd Person Dual;57893;;;;nort2787;zaugg-coretti-2005
-i˥;;2pl_a;2nd Person Plural;57892;;;;nort2787;zaugg-coretti-2005
-i˥;;2pl_s;2nd Person Plural;57891;;;;nort2787;zaugg-coretti-2005
-i˥;;2pl_o;2nd Person Plural;57890;;;;nort2787;zaugg-coretti-2005
-i˥;;2pl_p;2nd Person Plural;57889;;;;nort2787;zaugg-coretti-2005
-a˩;;3sg_m_a;3rd Person Singular Masculine;57888;;;;nort2787;zaugg-coretti-2005
-a˩;;3sg_m_s;3rd Person Singular Masculine;57887;;;;nort2787;zaugg-coretti-2005
-a˩;;3sg_m_o;3rd Person Singular Masculine;57886;;;;nort2787;zaugg-coretti-2005
-te˥;;3sg_m_p;3rd Person Singular Masculine;57885;;;;nort2787;zaugg-coretti-2005
-ke˩;;3sg_n_a;3rd Person Singular Neuter;57884;;;;nort2787;zaugg-coretti-2005
-ke˩;;3sg_n_s;3rd Person Singular Neuter;57883;;;;nort2787;zaugg-coretti-2005
-ke˩;;3sg_n_o;3rd Person Singular Neuter;57882;;;;nort2787;zaugg-coretti-2005
-ke˥;;3sg_n_p;3rd Person Singular Neuter;57881;;;;nort2787;zaugg-coretti-2005
-pe˩;;3d-a;3rd Person Dual;57880;;;;nort2787;zaugg-coretti-2005
-pe˩;;3d-s;3rd Person Dual;57879;;;;nort2787;zaugg-coretti-2005
-pe˩;;3d-o;3rd Person Dual;57878;;;;nort2787;zaugg-coretti-2005
-pe˥;;3d-p;3rd Person Dual;57877;;;;nort2787;zaugg-coretti-2005
-pe˩;;3p-a;3rd Person Plural;57876;;;;nort2787;zaugg-coretti-2005
-pe˩;;3p-s;3rd Person Plural;57875;;;;nort2787;zaugg-coretti-2005
-pe˩;;3p-o;3rd Person Plural;57874;;;;nort2787;zaugg-coretti-2005
-pe˥;;3p-p;3rd Person Plural;57873;;;;nort2787;zaugg-coretti-2005
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+"me˥, m˥-",,1sg_a,1st (excl) Person Singular,57920,,,,nort2787,zaugg-coretti-2005
+"me˥, m˥-",,1sg_s,1st (excl) Person Singular,57919,,,,nort2787,zaugg-coretti-2005
+"me˥, m˥-",,1sg_o,1st (excl) Person Singular,57918,,,,nort2787,zaugg-coretti-2005
+"me˥, m˥-",,1sg_p,1st (excl) Person Singular,57917,,,,nort2787,zaugg-coretti-2005
+ne˩,,1du_a,1st (excl) Person Dual,57916,,,,nort2787,zaugg-coretti-2005
+ne˩,,1du_s,1st (excl) Person Dual,57915,,,,nort2787,zaugg-coretti-2005
+ne˩,,1du_o,1st (excl) Person Dual,57914,,,,nort2787,zaugg-coretti-2005
+ne˥,,1du_p,1st (excl) Person Dual,57913,,,,nort2787,zaugg-coretti-2005
+ne˩,,1pl_a,1st (excl) Person Plural,57912,,,,nort2787,zaugg-coretti-2005
+ne˩,,1pl_s,1st (excl) Person Plural,57911,,,,nort2787,zaugg-coretti-2005
+ne˩,,1pl_o,1st (excl) Person Plural,57910,,,,nort2787,zaugg-coretti-2005
+ne˥,,1pl_p,1st (excl) Person Plural,57909,,,,nort2787,zaugg-coretti-2005
+ne˩,,12du_a,1st (incl) Person Dual,57908,,,,nort2787,zaugg-coretti-2005
+ne˩,,12du_s,1st (incl) Person Dual,57907,,,,nort2787,zaugg-coretti-2005
+ne˩,,12du_o,1st (incl) Person Dual,57906,,,,nort2787,zaugg-coretti-2005
+ne˥,,12du_p,1st (incl) Person Dual,57905,,,,nort2787,zaugg-coretti-2005
+ne˩,,12pl_a,1st (incl) Person Plural,57904,,,,nort2787,zaugg-coretti-2005
+ne˩,,12pl_s,1st (incl) Person Plural,57903,,,,nort2787,zaugg-coretti-2005
+ne˩,,12pl_o,1st (incl) Person Plural,57902,,,,nort2787,zaugg-coretti-2005
+ne˥,,12pl_p,1st (incl) Person Plural,57901,,,,nort2787,zaugg-coretti-2005
+a˥,,2sg_a,2nd Person Singular,57900,,,,nort2787,zaugg-coretti-2005
+a˥,,2sg_s,2nd Person Singular,57899,,,,nort2787,zaugg-coretti-2005
+a˥,,2sg_o,2nd Person Singular,57898,,,,nort2787,zaugg-coretti-2005
+a˥,,2sg_p,2nd Person Singular,57897,,,,nort2787,zaugg-coretti-2005
+i˥,,2du_a,2nd Person Dual,57896,,,,nort2787,zaugg-coretti-2005
+i˥,,2du_s,2nd Person Dual,57895,,,,nort2787,zaugg-coretti-2005
+i˥,,2du_o,2nd Person Dual,57894,,,,nort2787,zaugg-coretti-2005
+i˥,,2du_p,2nd Person Dual,57893,,,,nort2787,zaugg-coretti-2005
+i˥,,2pl_a,2nd Person Plural,57892,,,,nort2787,zaugg-coretti-2005
+i˥,,2pl_s,2nd Person Plural,57891,,,,nort2787,zaugg-coretti-2005
+i˥,,2pl_o,2nd Person Plural,57890,,,,nort2787,zaugg-coretti-2005
+i˥,,2pl_p,2nd Person Plural,57889,,,,nort2787,zaugg-coretti-2005
+a˩,,3sg_m_a,3rd Person Singular Masculine,57888,,,,nort2787,zaugg-coretti-2005
+a˩,,3sg_m_s,3rd Person Singular Masculine,57887,,,,nort2787,zaugg-coretti-2005
+a˩,,3sg_m_o,3rd Person Singular Masculine,57886,,,,nort2787,zaugg-coretti-2005
+te˥,,3sg_m_p,3rd Person Singular Masculine,57885,,,,nort2787,zaugg-coretti-2005
+ke˩,,3sg_n_a,3rd Person Singular Neuter,57884,,,,nort2787,zaugg-coretti-2005
+ke˩,,3sg_n_s,3rd Person Singular Neuter,57883,,,,nort2787,zaugg-coretti-2005
+ke˩,,3sg_n_o,3rd Person Singular Neuter,57882,,,,nort2787,zaugg-coretti-2005
+ke˥,,3sg_n_p,3rd Person Singular Neuter,57881,,,,nort2787,zaugg-coretti-2005
+pe˩,,3d-a,3rd Person Dual,57880,,,,nort2787,zaugg-coretti-2005
+pe˩,,3d-s,3rd Person Dual,57879,,,,nort2787,zaugg-coretti-2005
+pe˩,,3d-o,3rd Person Dual,57878,,,,nort2787,zaugg-coretti-2005
+pe˥,,3d-p,3rd Person Dual,57877,,,,nort2787,zaugg-coretti-2005
+pe˩,,3p-a,3rd Person Plural,57876,,,,nort2787,zaugg-coretti-2005
+pe˩,,3p-s,3rd Person Plural,57875,,,,nort2787,zaugg-coretti-2005
+pe˩,,3p-o,3rd Person Plural,57874,,,,nort2787,zaugg-coretti-2005
+pe˥,,3p-p,3rd Person Plural,57873,,,,nort2787,zaugg-coretti-2005

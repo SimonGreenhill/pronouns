@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nən;;1sg_a;1st (excl) Person Singular;52007;;;;arhu1242;frank-1985
-nən;;1sg_s;1st (excl) Person Singular;52006;;;;arhu1242;frank-1985
-nən;;1sg_o;1st (excl) Person Singular;52005;;;;arhu1242;frank-1985
-nən;;1sg_p;1st (excl) Person Singular;52004;;;;arhu1242;frank-1985
-niwi;;1du_a;1st (excl) Person Dual;52003;;;;arhu1242;frank-1985
-niwi;;1du_s;1st (excl) Person Dual;52002;;;;arhu1242;frank-1985
-niwi;;1du_o;1st (excl) Person Dual;52001;;;;arhu1242;frank-1985
-niwi;;1du_p;1st (excl) Person Dual;52000;;;;arhu1242;frank-1985
-niwi;;1pl_a;1st (excl) Person Plural;51999;;;;arhu1242;frank-1985
-niwi;;1pl_s;1st (excl) Person Plural;51998;;;;arhu1242;frank-1985
-niwi;;1pl_o;1st (excl) Person Plural;51997;;;;arhu1242;frank-1985
-niwi;;1pl_p;1st (excl) Person Plural;51996;;;;arhu1242;frank-1985
-manənkaʔ;;12du_a;1st (incl) Person Dual;51995;;;;arhu1242;frank-1985
-manənkaʔ;;12du_s;1st (incl) Person Dual;51994;;;;arhu1242;frank-1985
-manənkaʔ;;12du_o;1st (incl) Person Dual;51993;;;;arhu1242;frank-1985
-manənkaʔ;;12du_p;1st (incl) Person Dual;51992;;;;arhu1242;frank-1985
-manənkaʔ;;12pl_a;1st (incl) Person Plural;51991;;;;arhu1242;frank-1985
-manənkaʔ;;12pl_s;1st (incl) Person Plural;51990;;;;arhu1242;frank-1985
-manənkaʔ;;12pl_o;1st (incl) Person Plural;51989;;;;arhu1242;frank-1985
-manənkaʔ;;12pl_p;1st (incl) Person Plural;51988;;;;arhu1242;frank-1985
-ma;;2sg_a;2nd Person Singular;51987;;;;arhu1242;frank-1985
-ma;;2sg_s;2nd Person Singular;51986;;;;arhu1242;frank-1985
-ma;;2sg_o;2nd Person Singular;51985;;;;arhu1242;frank-1985
-ma;;2sg_p;2nd Person Singular;51984;;;;arhu1242;frank-1985
-miwi;;2du_a;2nd Person Dual;51983;;;;arhu1242;frank-1985
-miwi;;2du_s;2nd Person Dual;51982;;;;arhu1242;frank-1985
-miwi;;2du_o;2nd Person Dual;51981;;;;arhu1242;frank-1985
-miwi;;2du_p;2nd Person Dual;51980;;;;arhu1242;frank-1985
-miwi;;2pl_a;2nd Person Plural;51979;;;;arhu1242;frank-1985
-miwi;;2pl_s;2nd Person Plural;51978;;;;arhu1242;frank-1985
-miwi;;2pl_o;2nd Person Plural;51977;;;;arhu1242;frank-1985
-miwi;;2pl_p;2nd Person Plural;51976;;;;arhu1242;frank-1985
-a;;3sg_m_a;3rd Person Singular Masculine;51975;;;;arhu1242;frank-1985
-a;;3sg_m_s;3rd Person Singular Masculine;51974;;;;arhu1242;frank-1985
-a;;3sg_m_o;3rd Person Singular Masculine;51973;;;;arhu1242;frank-1985
-a;;3sg_m_p;3rd Person Singular Masculine;51972;;;;arhu1242;frank-1985
-a;;3sg_n_a;3rd Person Singular Neuter;51971;;;;arhu1242;frank-1985
-a;;3sg_n_s;3rd Person Singular Neuter;51970;;;;arhu1242;frank-1985
-a;;3sg_n_o;3rd Person Singular Neuter;51969;;;;arhu1242;frank-1985
-a;;3sg_n_p;3rd Person Singular Neuter;51968;;;;arhu1242;frank-1985
-iknəʔ;;3d-a;3rd Person Dual;51967;;;;arhu1242;frank-1985
-iknəʔ;;3d-s;3rd Person Dual;51966;;;;arhu1242;frank-1985
-iknəʔ;;3d-o;3rd Person Dual;51965;;;;arhu1242;frank-1985
-iknəʔ;;3d-p;3rd Person Dual;51964;;;;arhu1242;frank-1985
-iknəʔ;;3p-a;3rd Person Plural;51963;;;;arhu1242;frank-1985
-iknəʔ;;3p-s;3rd Person Plural;51962;;;;arhu1242;frank-1985
-iknəʔ;;3p-o;3rd Person Plural;51961;;;;arhu1242;frank-1985
-iknəʔ;;3p-p;3rd Person Plural;51960;;;;arhu1242;frank-1985
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nən,,1sg_a,1st (excl) Person Singular,52007,,,,arhu1242,frank-1985
+nən,,1sg_s,1st (excl) Person Singular,52006,,,,arhu1242,frank-1985
+nən,,1sg_o,1st (excl) Person Singular,52005,,,,arhu1242,frank-1985
+nən,,1sg_p,1st (excl) Person Singular,52004,,,,arhu1242,frank-1985
+niwi,,1du_a,1st (excl) Person Dual,52003,,,,arhu1242,frank-1985
+niwi,,1du_s,1st (excl) Person Dual,52002,,,,arhu1242,frank-1985
+niwi,,1du_o,1st (excl) Person Dual,52001,,,,arhu1242,frank-1985
+niwi,,1du_p,1st (excl) Person Dual,52000,,,,arhu1242,frank-1985
+niwi,,1pl_a,1st (excl) Person Plural,51999,,,,arhu1242,frank-1985
+niwi,,1pl_s,1st (excl) Person Plural,51998,,,,arhu1242,frank-1985
+niwi,,1pl_o,1st (excl) Person Plural,51997,,,,arhu1242,frank-1985
+niwi,,1pl_p,1st (excl) Person Plural,51996,,,,arhu1242,frank-1985
+manənkaʔ,,12du_a,1st (incl) Person Dual,51995,,,,arhu1242,frank-1985
+manənkaʔ,,12du_s,1st (incl) Person Dual,51994,,,,arhu1242,frank-1985
+manənkaʔ,,12du_o,1st (incl) Person Dual,51993,,,,arhu1242,frank-1985
+manənkaʔ,,12du_p,1st (incl) Person Dual,51992,,,,arhu1242,frank-1985
+manənkaʔ,,12pl_a,1st (incl) Person Plural,51991,,,,arhu1242,frank-1985
+manənkaʔ,,12pl_s,1st (incl) Person Plural,51990,,,,arhu1242,frank-1985
+manənkaʔ,,12pl_o,1st (incl) Person Plural,51989,,,,arhu1242,frank-1985
+manənkaʔ,,12pl_p,1st (incl) Person Plural,51988,,,,arhu1242,frank-1985
+ma,,2sg_a,2nd Person Singular,51987,,,,arhu1242,frank-1985
+ma,,2sg_s,2nd Person Singular,51986,,,,arhu1242,frank-1985
+ma,,2sg_o,2nd Person Singular,51985,,,,arhu1242,frank-1985
+ma,,2sg_p,2nd Person Singular,51984,,,,arhu1242,frank-1985
+miwi,,2du_a,2nd Person Dual,51983,,,,arhu1242,frank-1985
+miwi,,2du_s,2nd Person Dual,51982,,,,arhu1242,frank-1985
+miwi,,2du_o,2nd Person Dual,51981,,,,arhu1242,frank-1985
+miwi,,2du_p,2nd Person Dual,51980,,,,arhu1242,frank-1985
+miwi,,2pl_a,2nd Person Plural,51979,,,,arhu1242,frank-1985
+miwi,,2pl_s,2nd Person Plural,51978,,,,arhu1242,frank-1985
+miwi,,2pl_o,2nd Person Plural,51977,,,,arhu1242,frank-1985
+miwi,,2pl_p,2nd Person Plural,51976,,,,arhu1242,frank-1985
+a,,3sg_m_a,3rd Person Singular Masculine,51975,,,,arhu1242,frank-1985
+a,,3sg_m_s,3rd Person Singular Masculine,51974,,,,arhu1242,frank-1985
+a,,3sg_m_o,3rd Person Singular Masculine,51973,,,,arhu1242,frank-1985
+a,,3sg_m_p,3rd Person Singular Masculine,51972,,,,arhu1242,frank-1985
+a,,3sg_n_a,3rd Person Singular Neuter,51971,,,,arhu1242,frank-1985
+a,,3sg_n_s,3rd Person Singular Neuter,51970,,,,arhu1242,frank-1985
+a,,3sg_n_o,3rd Person Singular Neuter,51969,,,,arhu1242,frank-1985
+a,,3sg_n_p,3rd Person Singular Neuter,51968,,,,arhu1242,frank-1985
+iknəʔ,,3d-a,3rd Person Dual,51967,,,,arhu1242,frank-1985
+iknəʔ,,3d-s,3rd Person Dual,51966,,,,arhu1242,frank-1985
+iknəʔ,,3d-o,3rd Person Dual,51965,,,,arhu1242,frank-1985
+iknəʔ,,3d-p,3rd Person Dual,51964,,,,arhu1242,frank-1985
+iknəʔ,,3p-a,3rd Person Plural,51963,,,,arhu1242,frank-1985
+iknəʔ,,3p-s,3rd Person Plural,51962,,,,arhu1242,frank-1985
+iknəʔ,,3p-o,3rd Person Plural,51961,,,,arhu1242,frank-1985
+iknəʔ,,3p-p,3rd Person Plural,51960,,,,arhu1242,frank-1985

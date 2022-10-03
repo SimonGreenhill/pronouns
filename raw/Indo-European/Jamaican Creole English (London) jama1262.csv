@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-a;;1sg_a;1st (excl) Person Singular;49438;;;;jama1262;sutcliffe-1982
-a;;1sg_s;1st (excl) Person Singular;49437;;;;jama1262;sutcliffe-1982
-mi;;1sg_o;1st (excl) Person Singular;49436;;;;jama1262;sutcliffe-1982
-fimi;;1sg_p;1st (excl) Person Singular;49435;;;;jama1262;sutcliffe-1982
-wi;;1du_a;1st (excl) Person Dual;49434;;;;jama1262;sutcliffe-1982
-wi;;1du_s;1st (excl) Person Dual;49433;;;;jama1262;sutcliffe-1982
-wi;;1du_o;1st (excl) Person Dual;49432;;;;jama1262;sutcliffe-1982
-fiju;;1du_p;1st (excl) Person Dual;49431;;;;jama1262;sutcliffe-1982
-wi;;1pl_a;1st (excl) Person Plural;49430;;;;jama1262;sutcliffe-1982
-wi;;1pl_s;1st (excl) Person Plural;49429;;;;jama1262;sutcliffe-1982
-wi;;1pl_o;1st (excl) Person Plural;49428;;;;jama1262;sutcliffe-1982
-fiwi;;1pl_p;1st (excl) Person Plural;49427;;;;jama1262;sutcliffe-1982
-wi;;12du_a;1st (incl) Person Dual;49426;;;;jama1262;sutcliffe-1982
-wi;;12du_s;1st (incl) Person Dual;49425;;;;jama1262;sutcliffe-1982
-wi;;12du_o;1st (incl) Person Dual;49424;;;;jama1262;sutcliffe-1982
-fiwi;;12du_p;1st (incl) Person Dual;49423;;;;jama1262;sutcliffe-1982
-wi;;12pl_a;1st (incl) Person Plural;49422;;;;jama1262;sutcliffe-1982
-wi;;12pl_s;1st (incl) Person Plural;49421;;;;jama1262;sutcliffe-1982
-wi;;12pl_o;1st (incl) Person Plural;49420;;;;jama1262;sutcliffe-1982
-fiwi;;12pl_p;1st (incl) Person Plural;49419;;;;jama1262;sutcliffe-1982
-ju;;2sg_a;2nd Person Singular;49418;;;;jama1262;sutcliffe-1982
-ju;;2sg_s;2nd Person Singular;49417;;;;jama1262;sutcliffe-1982
-ju;;2sg_o;2nd Person Singular;49416;;;;jama1262;sutcliffe-1982
-fiju;;2sg_p;2nd Person Singular;49415;;;;jama1262;sutcliffe-1982
-unu;;2du_a;2nd Person Dual;49414;;;;jama1262;sutcliffe-1982
-unu;;2du_s;2nd Person Dual;49413;;;;jama1262;sutcliffe-1982
-unu;;2du_o;2nd Person Dual;49412;;;;jama1262;sutcliffe-1982
-fiunu;;2du_p;2nd Person Dual;49411;;;;jama1262;sutcliffe-1982
-unu;;2pl_a;2nd Person Plural;49410;;;;jama1262;sutcliffe-1982
-unu;;2pl_s;2nd Person Plural;49409;;;;jama1262;sutcliffe-1982
-unu;;2pl_o;2nd Person Plural;49408;;;;jama1262;sutcliffe-1982
-fiunu;;2pl_p;2nd Person Plural;49407;;;;jama1262;sutcliffe-1982
-im;;3sg_m_a;3rd Person Singular Masculine;49406;;;;jama1262;sutcliffe-1982
-im;;3sg_m_s;3rd Person Singular Masculine;49405;;;;jama1262;sutcliffe-1982
-im;;3sg_m_o;3rd Person Singular Masculine;49404;;;;jama1262;sutcliffe-1982
-fiim;;3sg_m_p;3rd Person Singular Masculine;49403;;;;jama1262;sutcliffe-1982
-im;;3sg_n_a;3rd Person Singular Neuter;49402;;;;jama1262;sutcliffe-1982
-im;;3sg_n_s;3rd Person Singular Neuter;49401;;;;jama1262;sutcliffe-1982
-im;;3sg_n_o;3rd Person Singular Neuter;49400;;;;jama1262;sutcliffe-1982
-fiim;;3sg_n_p;3rd Person Singular Neuter;49399;;;;jama1262;sutcliffe-1982
-dɛm;;3d-a;3rd Person Dual;49398;;;;jama1262;sutcliffe-1982
-dɛm;;3d-s;3rd Person Dual;49397;;;;jama1262;sutcliffe-1982
-dɛm;;3d-o;3rd Person Dual;49396;;;;jama1262;sutcliffe-1982
-fidɛm;;3d-p;3rd Person Dual;49395;;;;jama1262;sutcliffe-1982
-dɛm;;3p-a;3rd Person Plural;49394;;;;jama1262;sutcliffe-1982
-dɛm;;3p-s;3rd Person Plural;49393;;;;jama1262;sutcliffe-1982
-dɛm;;3p-o;3rd Person Plural;49392;;;;jama1262;sutcliffe-1982
-fidɛm;;3p-p;3rd Person Plural;49391;;;;jama1262;sutcliffe-1982
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+a,,1sg_a,1st (excl) Person Singular,49438,,,,jama1262,sutcliffe-1982
+a,,1sg_s,1st (excl) Person Singular,49437,,,,jama1262,sutcliffe-1982
+mi,,1sg_o,1st (excl) Person Singular,49436,,,,jama1262,sutcliffe-1982
+fimi,,1sg_p,1st (excl) Person Singular,49435,,,,jama1262,sutcliffe-1982
+wi,,1du_a,1st (excl) Person Dual,49434,,,,jama1262,sutcliffe-1982
+wi,,1du_s,1st (excl) Person Dual,49433,,,,jama1262,sutcliffe-1982
+wi,,1du_o,1st (excl) Person Dual,49432,,,,jama1262,sutcliffe-1982
+fiju,,1du_p,1st (excl) Person Dual,49431,,,,jama1262,sutcliffe-1982
+wi,,1pl_a,1st (excl) Person Plural,49430,,,,jama1262,sutcliffe-1982
+wi,,1pl_s,1st (excl) Person Plural,49429,,,,jama1262,sutcliffe-1982
+wi,,1pl_o,1st (excl) Person Plural,49428,,,,jama1262,sutcliffe-1982
+fiwi,,1pl_p,1st (excl) Person Plural,49427,,,,jama1262,sutcliffe-1982
+wi,,12du_a,1st (incl) Person Dual,49426,,,,jama1262,sutcliffe-1982
+wi,,12du_s,1st (incl) Person Dual,49425,,,,jama1262,sutcliffe-1982
+wi,,12du_o,1st (incl) Person Dual,49424,,,,jama1262,sutcliffe-1982
+fiwi,,12du_p,1st (incl) Person Dual,49423,,,,jama1262,sutcliffe-1982
+wi,,12pl_a,1st (incl) Person Plural,49422,,,,jama1262,sutcliffe-1982
+wi,,12pl_s,1st (incl) Person Plural,49421,,,,jama1262,sutcliffe-1982
+wi,,12pl_o,1st (incl) Person Plural,49420,,,,jama1262,sutcliffe-1982
+fiwi,,12pl_p,1st (incl) Person Plural,49419,,,,jama1262,sutcliffe-1982
+ju,,2sg_a,2nd Person Singular,49418,,,,jama1262,sutcliffe-1982
+ju,,2sg_s,2nd Person Singular,49417,,,,jama1262,sutcliffe-1982
+ju,,2sg_o,2nd Person Singular,49416,,,,jama1262,sutcliffe-1982
+fiju,,2sg_p,2nd Person Singular,49415,,,,jama1262,sutcliffe-1982
+unu,,2du_a,2nd Person Dual,49414,,,,jama1262,sutcliffe-1982
+unu,,2du_s,2nd Person Dual,49413,,,,jama1262,sutcliffe-1982
+unu,,2du_o,2nd Person Dual,49412,,,,jama1262,sutcliffe-1982
+fiunu,,2du_p,2nd Person Dual,49411,,,,jama1262,sutcliffe-1982
+unu,,2pl_a,2nd Person Plural,49410,,,,jama1262,sutcliffe-1982
+unu,,2pl_s,2nd Person Plural,49409,,,,jama1262,sutcliffe-1982
+unu,,2pl_o,2nd Person Plural,49408,,,,jama1262,sutcliffe-1982
+fiunu,,2pl_p,2nd Person Plural,49407,,,,jama1262,sutcliffe-1982
+im,,3sg_m_a,3rd Person Singular Masculine,49406,,,,jama1262,sutcliffe-1982
+im,,3sg_m_s,3rd Person Singular Masculine,49405,,,,jama1262,sutcliffe-1982
+im,,3sg_m_o,3rd Person Singular Masculine,49404,,,,jama1262,sutcliffe-1982
+fiim,,3sg_m_p,3rd Person Singular Masculine,49403,,,,jama1262,sutcliffe-1982
+im,,3sg_n_a,3rd Person Singular Neuter,49402,,,,jama1262,sutcliffe-1982
+im,,3sg_n_s,3rd Person Singular Neuter,49401,,,,jama1262,sutcliffe-1982
+im,,3sg_n_o,3rd Person Singular Neuter,49400,,,,jama1262,sutcliffe-1982
+fiim,,3sg_n_p,3rd Person Singular Neuter,49399,,,,jama1262,sutcliffe-1982
+dɛm,,3d-a,3rd Person Dual,49398,,,,jama1262,sutcliffe-1982
+dɛm,,3d-s,3rd Person Dual,49397,,,,jama1262,sutcliffe-1982
+dɛm,,3d-o,3rd Person Dual,49396,,,,jama1262,sutcliffe-1982
+fidɛm,,3d-p,3rd Person Dual,49395,,,,jama1262,sutcliffe-1982
+dɛm,,3p-a,3rd Person Plural,49394,,,,jama1262,sutcliffe-1982
+dɛm,,3p-s,3rd Person Plural,49393,,,,jama1262,sutcliffe-1982
+dɛm,,3p-o,3rd Person Plural,49392,,,,jama1262,sutcliffe-1982
+fidɛm,,3p-p,3rd Person Plural,49391,,,,jama1262,sutcliffe-1982

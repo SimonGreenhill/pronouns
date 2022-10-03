@@ -1,45 +1,45 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ání;;1sg_a;1st (excl) Person Singular;44007;;;;mbug1240;mous-2003
-ání;;1sg_s;1st (excl) Person Singular;44006;;;;mbug1240;mous-2003
-ání;;1sg_o;1st (excl) Person Singular;44005;;;;mbug1240;mous-2003
-ɣó;;1sg_p;1st (excl) Person Singular;44004;;;;mbug1240;mous-2003
-níne, nne;;1du_a;1st (excl) Person Dual;44003;;;;mbug1240;mous-2003
-níne, nne;;1du_s;1st (excl) Person Dual;44002;;;;mbug1240;mous-2003
-níne, nne;;1du_o;1st (excl) Person Dual;44001;;;;mbug1240;mous-2003
-kánu;;1du_p;1st (excl) Person Dual;44000;;;;mbug1240;mous-2003
-níne, nne;;1pl_a;1st (excl) Person Plural;43999;;;;mbug1240;mous-2003
-níne, nne;;1pl_s;1st (excl) Person Plural;43998;;;;mbug1240;mous-2003
-níne, nne;;1pl_o;1st (excl) Person Plural;43997;;;;mbug1240;mous-2003
-kánu;;1pl_p;1st (excl) Person Plural;43996;;;;mbug1240;mous-2003
-níne, nne;;12du_a;1st (incl) Person Dual;43995;;;;mbug1240;mous-2003
-níne, nne;;12du_s;1st (incl) Person Dual;43994;;;;mbug1240;mous-2003
-níne, nne;;12du_o;1st (incl) Person Dual;43993;;;;mbug1240;mous-2003
-kánu;;12du_p;1st (incl) Person Dual;43992;;;;mbug1240;mous-2003
-níne, nne;;12pl_a;1st (incl) Person Plural;43991;;;;mbug1240;mous-2003
-níne, nne;;12pl_s;1st (incl) Person Plural;43990;;;;mbug1240;mous-2003
-níne, nne;;12pl_o;1st (incl) Person Plural;43989;;;;mbug1240;mous-2003
-kánu;;12pl_p;1st (incl) Person Plural;43988;;;;mbug1240;mous-2003
-árí;;2sg_a;2nd Person Singular;43987;;;;mbug1240;mous-2003
-árí;;2sg_s;2nd Person Singular;43986;;;;mbug1240;mous-2003
-árí;;2sg_o;2nd Person Singular;43985;;;;mbug1240;mous-2003
-ké;;2sg_p;2nd Person Singular;43984;;;;mbug1240;mous-2003
-kúné;;2du_a;2nd Person Dual;43983;;;;mbug1240;mous-2003
-kúné;;2du_s;2nd Person Dual;43982;;;;mbug1240;mous-2003
-kúné;;2du_o;2nd Person Dual;43981;;;;mbug1240;mous-2003
-kɑ́ɣu ;;2du_p;2nd Person Dual;43980;;;;mbug1240;mous-2003
-kúné;;2pl_a;2nd Person Plural;43979;;;;mbug1240;mous-2003
-kúné;;2pl_s;2nd Person Plural;43978;;;;mbug1240;mous-2003
-kúné;;2pl_o;2nd Person Plural;43977;;;;mbug1240;mous-2003
-kɑ́ɣu ;;2pl_p;2nd Person Plural;43976;;;;mbug1240;mous-2003
-hú, ú;;3sg_m_a;3rd Person Singular Masculine;43975;;;;mbug1240;mous-2003
-hú, ú;;3sg_m_s;3rd Person Singular Masculine;43974;;;;mbug1240;mous-2003
-hú, ú;;3sg_m_o;3rd Person Singular Masculine;43973;;;;mbug1240;mous-2003
-kúʔu ;;3sg_m_p;3rd Person Singular Masculine;43972;;;;mbug1240;mous-2003
-hú, ú;;3d-a;3rd Person Dual;43967;;;;mbug1240;mous-2003
-hú, ú;;3d-s;3rd Person Dual;43966;;;;mbug1240;mous-2003
-hú, ú;;3d-o;3rd Person Dual;43965;;;;mbug1240;mous-2003
-kíni ;;3d-p;3rd Person Dual;43964;;;;mbug1240;mous-2003
-hú, ú;;3p-a;3rd Person Plural;43963;;;;mbug1240;mous-2003
-hú, ú;;3p-s;3rd Person Plural;43962;;;;mbug1240;mous-2003
-hú, ú;;3p-o;3rd Person Plural;43961;;;;mbug1240;mous-2003
-kíni ;;3p-p;3rd Person Plural;43960;;;;mbug1240;mous-2003
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ání,,1sg_a,1st (excl) Person Singular,44007,,,,mbug1240,mous-2003
+ání,,1sg_s,1st (excl) Person Singular,44006,,,,mbug1240,mous-2003
+ání,,1sg_o,1st (excl) Person Singular,44005,,,,mbug1240,mous-2003
+ɣó,,1sg_p,1st (excl) Person Singular,44004,,,,mbug1240,mous-2003
+"níne, nne",,1du_a,1st (excl) Person Dual,44003,,,,mbug1240,mous-2003
+"níne, nne",,1du_s,1st (excl) Person Dual,44002,,,,mbug1240,mous-2003
+"níne, nne",,1du_o,1st (excl) Person Dual,44001,,,,mbug1240,mous-2003
+kánu,,1du_p,1st (excl) Person Dual,44000,,,,mbug1240,mous-2003
+"níne, nne",,1pl_a,1st (excl) Person Plural,43999,,,,mbug1240,mous-2003
+"níne, nne",,1pl_s,1st (excl) Person Plural,43998,,,,mbug1240,mous-2003
+"níne, nne",,1pl_o,1st (excl) Person Plural,43997,,,,mbug1240,mous-2003
+kánu,,1pl_p,1st (excl) Person Plural,43996,,,,mbug1240,mous-2003
+"níne, nne",,12du_a,1st (incl) Person Dual,43995,,,,mbug1240,mous-2003
+"níne, nne",,12du_s,1st (incl) Person Dual,43994,,,,mbug1240,mous-2003
+"níne, nne",,12du_o,1st (incl) Person Dual,43993,,,,mbug1240,mous-2003
+kánu,,12du_p,1st (incl) Person Dual,43992,,,,mbug1240,mous-2003
+"níne, nne",,12pl_a,1st (incl) Person Plural,43991,,,,mbug1240,mous-2003
+"níne, nne",,12pl_s,1st (incl) Person Plural,43990,,,,mbug1240,mous-2003
+"níne, nne",,12pl_o,1st (incl) Person Plural,43989,,,,mbug1240,mous-2003
+kánu,,12pl_p,1st (incl) Person Plural,43988,,,,mbug1240,mous-2003
+árí,,2sg_a,2nd Person Singular,43987,,,,mbug1240,mous-2003
+árí,,2sg_s,2nd Person Singular,43986,,,,mbug1240,mous-2003
+árí,,2sg_o,2nd Person Singular,43985,,,,mbug1240,mous-2003
+ké,,2sg_p,2nd Person Singular,43984,,,,mbug1240,mous-2003
+kúné,,2du_a,2nd Person Dual,43983,,,,mbug1240,mous-2003
+kúné,,2du_s,2nd Person Dual,43982,,,,mbug1240,mous-2003
+kúné,,2du_o,2nd Person Dual,43981,,,,mbug1240,mous-2003
+kɑ́ɣu,,2du_p,2nd Person Dual,43980,,,,mbug1240,mous-2003
+kúné,,2pl_a,2nd Person Plural,43979,,,,mbug1240,mous-2003
+kúné,,2pl_s,2nd Person Plural,43978,,,,mbug1240,mous-2003
+kúné,,2pl_o,2nd Person Plural,43977,,,,mbug1240,mous-2003
+kɑ́ɣu,,2pl_p,2nd Person Plural,43976,,,,mbug1240,mous-2003
+"hú, ú",,3sg_m_a,3rd Person Singular Masculine,43975,,,,mbug1240,mous-2003
+"hú, ú",,3sg_m_s,3rd Person Singular Masculine,43974,,,,mbug1240,mous-2003
+"hú, ú",,3sg_m_o,3rd Person Singular Masculine,43973,,,,mbug1240,mous-2003
+kúʔu,,3sg_m_p,3rd Person Singular Masculine,43972,,,,mbug1240,mous-2003
+"hú, ú",,3d-a,3rd Person Dual,43967,,,,mbug1240,mous-2003
+"hú, ú",,3d-s,3rd Person Dual,43966,,,,mbug1240,mous-2003
+"hú, ú",,3d-o,3rd Person Dual,43965,,,,mbug1240,mous-2003
+kíni,,3d-p,3rd Person Dual,43964,,,,mbug1240,mous-2003
+"hú, ú",,3p-a,3rd Person Plural,43963,,,,mbug1240,mous-2003
+"hú, ú",,3p-s,3rd Person Plural,43962,,,,mbug1240,mous-2003
+"hú, ú",,3p-o,3rd Person Plural,43961,,,,mbug1240,mous-2003
+kíni,,3p-p,3rd Person Plural,43960,,,,mbug1240,mous-2003

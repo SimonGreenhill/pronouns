@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-na;;1sg_a;1st (excl) Person Singular;54456;;;;guam1248;vasquez-1988
-na;;1sg_s;1st (excl) Person Singular;54455;;;;guam1248;vasquez-1988
-nan;;1sg_o;1st (excl) Person Singular;54454;;;;guam1248;vasquez-1988
-nai;;1sg_p;1st (excl) Person Singular;54453;;;;guam1248;vasquez-1988
-nam;;1du_a;1st (excl) Person Dual;54452;;;;guam1248;vasquez-1988
-nam;;1du_s;1st (excl) Person Dual;54451;;;;guam1248;vasquez-1988
-namun;;1du_o;1st (excl) Person Dual;54450;;;;guam1248;vasquez-1988
-namui;;1du_p;1st (excl) Person Dual;54449;;;;guam1248;vasquez-1988
-nam;;1pl_a;1st (excl) Person Plural;54448;;;;guam1248;vasquez-1988
-nam;;1pl_s;1st (excl) Person Plural;54447;;;;guam1248;vasquez-1988
-namun;;1pl_o;1st (excl) Person Plural;54446;;;;guam1248;vasquez-1988
-namui;;1pl_p;1st (excl) Person Plural;54445;;;;guam1248;vasquez-1988
-nam;;12du_a;1st (incl) Person Dual;54444;;;;guam1248;vasquez-1988
-nam;;12du_s;1st (incl) Person Dual;54443;;;;guam1248;vasquez-1988
-namun;;12du_o;1st (incl) Person Dual;54442;;;;guam1248;vasquez-1988
-namui;;12du_p;1st (incl) Person Dual;54441;;;;guam1248;vasquez-1988
-nam;;12pl_a;1st (incl) Person Plural;54440;;;;guam1248;vasquez-1988
-nam;;12pl_s;1st (incl) Person Plural;54439;;;;guam1248;vasquez-1988
-namun;;12pl_o;1st (incl) Person Plural;54438;;;;guam1248;vasquez-1988
-namui;;12pl_p;1st (incl) Person Plural;54437;;;;guam1248;vasquez-1988
-ñi;;2sg_a;2nd Person Singular;54436;;;;guam1248;vasquez-1988
-ñi;;2sg_s;2nd Person Singular;54435;;;;guam1248;vasquez-1988
-ñun;;2sg_o;2nd Person Singular;54434;;;;guam1248;vasquez-1988
-ñui;;2sg_p;2nd Person Singular;54433;;;;guam1248;vasquez-1988
-ñim;;2du_a;2nd Person Dual;54432;;;;guam1248;vasquez-1988
-ñim;;2du_s;2nd Person Dual;54431;;;;guam1248;vasquez-1988
-ñimun;;2du_o;2nd Person Dual;54430;;;;guam1248;vasquez-1988
-ñimui;;2du_p;2nd Person Dual;54429;;;;guam1248;vasquez-1988
-ñim;;2pl_a;2nd Person Plural;54428;;;;guam1248;vasquez-1988
-ñim;;2pl_s;2nd Person Plural;54427;;;;guam1248;vasquez-1988
-ñimun;;2pl_o;2nd Person Plural;54426;;;;guam1248;vasquez-1988
-ñimui;;2pl_p;2nd Person Plural;54425;;;;guam1248;vasquez-1988
-nə;;3sg_m_a;3rd Person Singular Masculine;54424;;;;guam1248;vasquez-1988
-nə;;3sg_m_s;3rd Person Singular Masculine;54423;;;;guam1248;vasquez-1988
-nəi;;3sg_m_o;3rd Person Singular Masculine;54422;;;;guam1248;vasquez-1988
-nəi;;3sg_m_p;3rd Person Singular Masculine;54421;;;;guam1248;vasquez-1988
-nə;;3sg_n_a;3rd Person Singular Neuter;54420;;;;guam1248;vasquez-1988
-nə;;3sg_n_s;3rd Person Singular Neuter;54419;;;;guam1248;vasquez-1988
-nəi;;3sg_n_o;3rd Person Singular Neuter;54418;;;;guam1248;vasquez-1988
-nəi;;3sg_n_p;3rd Person Singular Neuter;54417;;;;guam1248;vasquez-1988
-nəm;;3d-a;3rd Person Dual;54416;;;;guam1248;vasquez-1988
-nəm;;3d-s;3rd Person Dual;54415;;;;guam1248;vasquez-1988
-nəmui;;3d-o;3rd Person Dual;54414;;;;guam1248;vasquez-1988
-nəmui;;3d-p;3rd Person Dual;54413;;;;guam1248;vasquez-1988
-nəm;;3p-a;3rd Person Plural;54412;;;;guam1248;vasquez-1988
-nəm;;3p-s;3rd Person Plural;54411;;;;guam1248;vasquez-1988
-nəmui;;3p-o;3rd Person Plural;54410;;;;guam1248;vasquez-1988
-nəmui;;3p-p;3rd Person Plural;54409;;;;guam1248;vasquez-1988
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+na,,1sg_a,1st (excl) Person Singular,54456,,,,guam1248,vasquez-1988
+na,,1sg_s,1st (excl) Person Singular,54455,,,,guam1248,vasquez-1988
+nan,,1sg_o,1st (excl) Person Singular,54454,,,,guam1248,vasquez-1988
+nai,,1sg_p,1st (excl) Person Singular,54453,,,,guam1248,vasquez-1988
+nam,,1du_a,1st (excl) Person Dual,54452,,,,guam1248,vasquez-1988
+nam,,1du_s,1st (excl) Person Dual,54451,,,,guam1248,vasquez-1988
+namun,,1du_o,1st (excl) Person Dual,54450,,,,guam1248,vasquez-1988
+namui,,1du_p,1st (excl) Person Dual,54449,,,,guam1248,vasquez-1988
+nam,,1pl_a,1st (excl) Person Plural,54448,,,,guam1248,vasquez-1988
+nam,,1pl_s,1st (excl) Person Plural,54447,,,,guam1248,vasquez-1988
+namun,,1pl_o,1st (excl) Person Plural,54446,,,,guam1248,vasquez-1988
+namui,,1pl_p,1st (excl) Person Plural,54445,,,,guam1248,vasquez-1988
+nam,,12du_a,1st (incl) Person Dual,54444,,,,guam1248,vasquez-1988
+nam,,12du_s,1st (incl) Person Dual,54443,,,,guam1248,vasquez-1988
+namun,,12du_o,1st (incl) Person Dual,54442,,,,guam1248,vasquez-1988
+namui,,12du_p,1st (incl) Person Dual,54441,,,,guam1248,vasquez-1988
+nam,,12pl_a,1st (incl) Person Plural,54440,,,,guam1248,vasquez-1988
+nam,,12pl_s,1st (incl) Person Plural,54439,,,,guam1248,vasquez-1988
+namun,,12pl_o,1st (incl) Person Plural,54438,,,,guam1248,vasquez-1988
+namui,,12pl_p,1st (incl) Person Plural,54437,,,,guam1248,vasquez-1988
+ñi,,2sg_a,2nd Person Singular,54436,,,,guam1248,vasquez-1988
+ñi,,2sg_s,2nd Person Singular,54435,,,,guam1248,vasquez-1988
+ñun,,2sg_o,2nd Person Singular,54434,,,,guam1248,vasquez-1988
+ñui,,2sg_p,2nd Person Singular,54433,,,,guam1248,vasquez-1988
+ñim,,2du_a,2nd Person Dual,54432,,,,guam1248,vasquez-1988
+ñim,,2du_s,2nd Person Dual,54431,,,,guam1248,vasquez-1988
+ñimun,,2du_o,2nd Person Dual,54430,,,,guam1248,vasquez-1988
+ñimui,,2du_p,2nd Person Dual,54429,,,,guam1248,vasquez-1988
+ñim,,2pl_a,2nd Person Plural,54428,,,,guam1248,vasquez-1988
+ñim,,2pl_s,2nd Person Plural,54427,,,,guam1248,vasquez-1988
+ñimun,,2pl_o,2nd Person Plural,54426,,,,guam1248,vasquez-1988
+ñimui,,2pl_p,2nd Person Plural,54425,,,,guam1248,vasquez-1988
+nə,,3sg_m_a,3rd Person Singular Masculine,54424,,,,guam1248,vasquez-1988
+nə,,3sg_m_s,3rd Person Singular Masculine,54423,,,,guam1248,vasquez-1988
+nəi,,3sg_m_o,3rd Person Singular Masculine,54422,,,,guam1248,vasquez-1988
+nəi,,3sg_m_p,3rd Person Singular Masculine,54421,,,,guam1248,vasquez-1988
+nə,,3sg_n_a,3rd Person Singular Neuter,54420,,,,guam1248,vasquez-1988
+nə,,3sg_n_s,3rd Person Singular Neuter,54419,,,,guam1248,vasquez-1988
+nəi,,3sg_n_o,3rd Person Singular Neuter,54418,,,,guam1248,vasquez-1988
+nəi,,3sg_n_p,3rd Person Singular Neuter,54417,,,,guam1248,vasquez-1988
+nəm,,3d-a,3rd Person Dual,54416,,,,guam1248,vasquez-1988
+nəm,,3d-s,3rd Person Dual,54415,,,,guam1248,vasquez-1988
+nəmui,,3d-o,3rd Person Dual,54414,,,,guam1248,vasquez-1988
+nəmui,,3d-p,3rd Person Dual,54413,,,,guam1248,vasquez-1988
+nəm,,3p-a,3rd Person Plural,54412,,,,guam1248,vasquez-1988
+nəm,,3p-s,3rd Person Plural,54411,,,,guam1248,vasquez-1988
+nəmui,,3p-o,3rd Person Plural,54410,,,,guam1248,vasquez-1988
+nəmui,,3p-p,3rd Person Plural,54409,,,,guam1248,vasquez-1988

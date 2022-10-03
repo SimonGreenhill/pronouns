@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋaji;;1sg_a;1st (excl) Person Singular;47634;;;;nhan1238;blevins-2001
-ŋaji;;1sg_s;1st (excl) Person Singular;47633;;;;nhan1238;blevins-2001
-ŋajin̪a;;1sg_o;1st (excl) Person Singular;47632;;;;nhan1238;blevins-2001
-ŋajuŋa;;1sg_p;1st (excl) Person Singular;47631;;;;nhan1238;blevins-2001
-ŋajit̪ada;;1du_a;1st (excl) Person Dual;47630;;;;nhan1238;blevins-2001
-ŋajit̪ada;;1du_s;1st (excl) Person Dual;47629;;;;nhan1238;blevins-2001
-ŋajit̪adan̪a;;1du_o;1st (excl) Person Dual;47628;;;;nhan1238;blevins-2001
-ŋajit̪adawu;;1du_p;1st (excl) Person Dual;47627;;;;nhan1238;blevins-2001
-ŋajinu;;1pl_a;1st (excl) Person Plural;47626;;;;nhan1238;blevins-2001
-ŋajinu;;1pl_s;1st (excl) Person Plural;47625;;;;nhan1238;blevins-2001
-ŋajinun̪a;;1pl_o;1st (excl) Person Plural;47624;;;;nhan1238;blevins-2001
-ŋajinuː;;1pl_p;1st (excl) Person Plural;47623;;;;nhan1238;blevins-2001
-ŋajit̪ada;;12du_a;1st (incl) Person Dual;47622;;;;nhan1238;blevins-2001
-ŋajit̪ada;;12du_s;1st (incl) Person Dual;47621;;;;nhan1238;blevins-2001
-ŋajit̪adan̪a;;12du_o;1st (incl) Person Dual;47620;;;;nhan1238;blevins-2001
-ŋajit̪adawu;;12du_p;1st (incl) Person Dual;47619;;;;nhan1238;blevins-2001
-ŋajinu;;12pl_a;1st (incl) Person Plural;47618;;;;nhan1238;blevins-2001
-ŋajinu;;12pl_s;1st (incl) Person Plural;47617;;;;nhan1238;blevins-2001
-ŋajinun̪a;;12pl_o;1st (incl) Person Plural;47616;;;;nhan1238;blevins-2001
-ŋajinuː;;12pl_p;1st (incl) Person Plural;47615;;;;nhan1238;blevins-2001
-ɳini;;2sg_a;2nd Person Singular;47614;;;;nhan1238;blevins-2001
-ɳini;;2sg_s;2nd Person Singular;47613;;;;nhan1238;blevins-2001
-ɳinin̪a;;2sg_o;2nd Person Singular;47612;;;;nhan1238;blevins-2001
-ɳinuŋa;;2sg_p;2nd Person Singular;47611;;;;nhan1238;blevins-2001
-ɳinit̪ada;;2du_a;2nd Person Dual;47610;;;;nhan1238;blevins-2001
-ɳinit̪ada;;2du_s;2nd Person Dual;47609;;;;nhan1238;blevins-2001
-ɳinit̪adan̪a;;2du_o;2nd Person Dual;47608;;;;nhan1238;blevins-2001
-ɳinit̪adawu;;2du_p;2nd Person Dual;47607;;;;nhan1238;blevins-2001
-ɳininu;;2pl_a;2nd Person Plural;47606;;;;nhan1238;blevins-2001
-ɳininu;;2pl_s;2nd Person Plural;47605;;;;nhan1238;blevins-2001
-ɳininun̪a;;2pl_o;2nd Person Plural;47604;;;;nhan1238;blevins-2001
-ɳininuɳgu;;2pl_p;2nd Person Plural;47603;;;;nhan1238;blevins-2001
-aluu;;3sg_m_a;3rd Person Singular Masculine;47602;;;;nhan1238;blevins-2001
-ala;;3sg_m_s;3rd Person Singular Masculine;47601;;;;nhan1238;blevins-2001
-ala;;3sg_m_o;3rd Person Singular Masculine;47600;;;;nhan1238;blevins-2001
-alaŋura;;3sg_m_p;3rd Person Singular Masculine;47599;;;;nhan1238;blevins-2001
-aluu;;3sg_n_a;3rd Person Singular Neuter;47598;;;;nhan1238;blevins-2001
-ala;;3sg_n_s;3rd Person Singular Neuter;47597;;;;nhan1238;blevins-2001
-ala;;3sg_n_o;3rd Person Singular Neuter;47596;;;;nhan1238;blevins-2001
-alaŋura;;3sg_n_p;3rd Person Singular Neuter;47595;;;;nhan1238;blevins-2001
-alat̪adalu;;3d-a;3rd Person Dual;47594;;;;nhan1238;blevins-2001
-alat̪ada;;3d-s;3rd Person Dual;47593;;;;nhan1238;blevins-2001
-alat̪ada;;3d-o;3rd Person Dual;47592;;;;nhan1238;blevins-2001
-alat̪adawu;;3d-p;3rd Person Dual;47591;;;;nhan1238;blevins-2001
-aluundu;;3p-a;3rd Person Plural;47590;;;;nhan1238;blevins-2001
-alinu;;3p-s;3rd Person Plural;47589;;;;nhan1238;blevins-2001
-alinu;;3p-o;3rd Person Plural;47588;;;;nhan1238;blevins-2001
-alinuu;;3p-p;3rd Person Plural;47587;;;;nhan1238;blevins-2001
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋaji,,1sg_a,1st (excl) Person Singular,47634,,,,nhan1238,blevins-2001
+ŋaji,,1sg_s,1st (excl) Person Singular,47633,,,,nhan1238,blevins-2001
+ŋajin̪a,,1sg_o,1st (excl) Person Singular,47632,,,,nhan1238,blevins-2001
+ŋajuŋa,,1sg_p,1st (excl) Person Singular,47631,,,,nhan1238,blevins-2001
+ŋajit̪ada,,1du_a,1st (excl) Person Dual,47630,,,,nhan1238,blevins-2001
+ŋajit̪ada,,1du_s,1st (excl) Person Dual,47629,,,,nhan1238,blevins-2001
+ŋajit̪adan̪a,,1du_o,1st (excl) Person Dual,47628,,,,nhan1238,blevins-2001
+ŋajit̪adawu,,1du_p,1st (excl) Person Dual,47627,,,,nhan1238,blevins-2001
+ŋajinu,,1pl_a,1st (excl) Person Plural,47626,,,,nhan1238,blevins-2001
+ŋajinu,,1pl_s,1st (excl) Person Plural,47625,,,,nhan1238,blevins-2001
+ŋajinun̪a,,1pl_o,1st (excl) Person Plural,47624,,,,nhan1238,blevins-2001
+ŋajinuː,,1pl_p,1st (excl) Person Plural,47623,,,,nhan1238,blevins-2001
+ŋajit̪ada,,12du_a,1st (incl) Person Dual,47622,,,,nhan1238,blevins-2001
+ŋajit̪ada,,12du_s,1st (incl) Person Dual,47621,,,,nhan1238,blevins-2001
+ŋajit̪adan̪a,,12du_o,1st (incl) Person Dual,47620,,,,nhan1238,blevins-2001
+ŋajit̪adawu,,12du_p,1st (incl) Person Dual,47619,,,,nhan1238,blevins-2001
+ŋajinu,,12pl_a,1st (incl) Person Plural,47618,,,,nhan1238,blevins-2001
+ŋajinu,,12pl_s,1st (incl) Person Plural,47617,,,,nhan1238,blevins-2001
+ŋajinun̪a,,12pl_o,1st (incl) Person Plural,47616,,,,nhan1238,blevins-2001
+ŋajinuː,,12pl_p,1st (incl) Person Plural,47615,,,,nhan1238,blevins-2001
+ɳini,,2sg_a,2nd Person Singular,47614,,,,nhan1238,blevins-2001
+ɳini,,2sg_s,2nd Person Singular,47613,,,,nhan1238,blevins-2001
+ɳinin̪a,,2sg_o,2nd Person Singular,47612,,,,nhan1238,blevins-2001
+ɳinuŋa,,2sg_p,2nd Person Singular,47611,,,,nhan1238,blevins-2001
+ɳinit̪ada,,2du_a,2nd Person Dual,47610,,,,nhan1238,blevins-2001
+ɳinit̪ada,,2du_s,2nd Person Dual,47609,,,,nhan1238,blevins-2001
+ɳinit̪adan̪a,,2du_o,2nd Person Dual,47608,,,,nhan1238,blevins-2001
+ɳinit̪adawu,,2du_p,2nd Person Dual,47607,,,,nhan1238,blevins-2001
+ɳininu,,2pl_a,2nd Person Plural,47606,,,,nhan1238,blevins-2001
+ɳininu,,2pl_s,2nd Person Plural,47605,,,,nhan1238,blevins-2001
+ɳininun̪a,,2pl_o,2nd Person Plural,47604,,,,nhan1238,blevins-2001
+ɳininuɳgu,,2pl_p,2nd Person Plural,47603,,,,nhan1238,blevins-2001
+aluu,,3sg_m_a,3rd Person Singular Masculine,47602,,,,nhan1238,blevins-2001
+ala,,3sg_m_s,3rd Person Singular Masculine,47601,,,,nhan1238,blevins-2001
+ala,,3sg_m_o,3rd Person Singular Masculine,47600,,,,nhan1238,blevins-2001
+alaŋura,,3sg_m_p,3rd Person Singular Masculine,47599,,,,nhan1238,blevins-2001
+aluu,,3sg_n_a,3rd Person Singular Neuter,47598,,,,nhan1238,blevins-2001
+ala,,3sg_n_s,3rd Person Singular Neuter,47597,,,,nhan1238,blevins-2001
+ala,,3sg_n_o,3rd Person Singular Neuter,47596,,,,nhan1238,blevins-2001
+alaŋura,,3sg_n_p,3rd Person Singular Neuter,47595,,,,nhan1238,blevins-2001
+alat̪adalu,,3d-a,3rd Person Dual,47594,,,,nhan1238,blevins-2001
+alat̪ada,,3d-s,3rd Person Dual,47593,,,,nhan1238,blevins-2001
+alat̪ada,,3d-o,3rd Person Dual,47592,,,,nhan1238,blevins-2001
+alat̪adawu,,3d-p,3rd Person Dual,47591,,,,nhan1238,blevins-2001
+aluundu,,3p-a,3rd Person Plural,47590,,,,nhan1238,blevins-2001
+alinu,,3p-s,3rd Person Plural,47589,,,,nhan1238,blevins-2001
+alinu,,3p-o,3rd Person Plural,47588,,,,nhan1238,blevins-2001
+alinuu,,3p-p,3rd Person Plural,47587,,,,nhan1238,blevins-2001

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-anígu;;1sg_a;1st (excl) Person Singular;44391;;;;soma1255;saeed-1999
-anígu;;1sg_s;1st (excl) Person Singular;44390;;;;soma1255;saeed-1999
-aníga;;1sg_o;1st (excl) Person Singular;44389;;;;soma1255;saeed-1999
--kàyga;;1sg_p;1st (excl) Person Singular;44388;;The form used for a feminine possessum is '-tàjda'.;;soma1255;saeed-1999
-annágu;;1du_a;1st (excl) Person Dual;44387;;;;soma1255;saeed-1999
-annágu;;1du_s;1st (excl) Person Dual;44386;;;;soma1255;saeed-1999
-annága;;1du_o;1st (excl) Person Dual;44385;;;;soma1255;saeed-1999
--kayága;;1du_p;1st (excl) Person Dual;44384;;The form used for a feminine possessum is '-tajáda'.;;soma1255;saeed-1999
-annágu;;1pl_a;1st (excl) Person Plural;44383;;;;soma1255;saeed-1999
-annágu;;1pl_s;1st (excl) Person Plural;44382;;;;soma1255;saeed-1999
-annága;;1pl_o;1st (excl) Person Plural;44381;;;;soma1255;saeed-1999
--kayága;;1pl_p;1st (excl) Person Plural;44380;;The form used for a feminine possessum is '-tajáda'.;;soma1255;saeed-1999
-innágu;;12du_a;1st (incl) Person Dual;44379;;;;soma1255;saeed-1999
-innágu;;12du_s;1st (incl) Person Dual;44378;;;;soma1255;saeed-1999
-innága;;12du_o;1st (incl) Person Dual;44377;;;;soma1255;saeed-1999
--kèenna;;12du_p;1st (incl) Person Dual;44376;;The form used for a feminine possessum is '-tèenna'.;;soma1255;saeed-1999
-innágu;;12pl_a;1st (incl) Person Plural;44375;;;;soma1255;saeed-1999
-innágu;;12pl_s;1st (incl) Person Plural;44374;;;;soma1255;saeed-1999
-innága;;12pl_o;1st (incl) Person Plural;44373;;;;soma1255;saeed-1999
--kèenna;;12pl_p;1st (incl) Person Plural;44372;;The form used for a feminine possessum is '-tèenna'.;;soma1255;saeed-1999
-adigu;;2sg_a;2nd Person Singular;44371;;;;soma1255;saeed-1999
-adigu;;2sg_s;2nd Person Singular;44370;;;;soma1255;saeed-1999
-adíga;;2sg_o;2nd Person Singular;44369;;;;soma1255;saeed-1999
--kàaga;;2sg_p;2nd Person Singular;44368;;The form used for a feminine possessum is '-tàada'.;;soma1255;saeed-1999
-idíngu;;2du_a;2nd Person Dual;44367;;;;soma1255;saeed-1999
-idíngu;;2du_s;2nd Person Dual;44366;;;;soma1255;saeed-1999
-idínga;;2du_o;2nd Person Dual;44365;;;;soma1255;saeed-1999
--kìinna;;2du_p;2nd Person Dual;44364;;The form used for a feminine possessum is '-tìinna'.;;soma1255;saeed-1999
-idíngu;;2pl_a;2nd Person Plural;44363;;;;soma1255;saeed-1999
-idíngu;;2pl_s;2nd Person Plural;44362;;;;soma1255;saeed-1999
-idínga;;2pl_o;2nd Person Plural;44361;;;;soma1255;saeed-1999
--kìinna;;2pl_p;2nd Person Plural;44360;;The form used for a feminine possessum is '-tìinna'.;;soma1255;saeed-1999
-iságu;;3sg_m_a;3rd Person Singular Masculine;44359;;;;soma1255;saeed-1999
-iságu;;3sg_m_s;3rd Person Singular Masculine;44358;;;;soma1255;saeed-1999
-isága;;3sg_m_o;3rd Person Singular Masculine;44357;;;;soma1255;saeed-1999
--kìisa;;3sg_m_p;3rd Person Singular Masculine;44356;;The form used for a feminine possessum is '-tìisa'.;;soma1255;saeed-1999
-iyádu;;3sg_n_a;3rd Person Singular Neuter;44355;;;;soma1255;saeed-1999
-iyádu;;3sg_n_s;3rd Person Singular Neuter;44354;;;;soma1255;saeed-1999
-iyáda;;3sg_n_o;3rd Person Singular Neuter;44353;;;;soma1255;saeed-1999
--kèeda;;3sg_n_p;3rd Person Singular Neuter;44352;;The form used for a feminine possessum is '-tèeda'.;;soma1255;saeed-1999
-iyágu;;3d-a;3rd Person Dual;44351;;;;soma1255;saeed-1999
-iyágu;;3d-s;3rd Person Dual;44350;;;;soma1255;saeed-1999
-iyágu;;3d-o;3rd Person Dual;44349;;;;soma1255;saeed-1999
--kòoda;;3d-p;3rd Person Dual;44348;;The form used for a feminine possessum is '-tòoda'.;;soma1255;saeed-1999
-iyágu;;3p-a;3rd Person Plural;44347;;;;soma1255;saeed-1999
-iyágu;;3p-s;3rd Person Plural;44346;;;;soma1255;saeed-1999
-iyágu;;3p-o;3rd Person Plural;44345;;;;soma1255;saeed-1999
--kòoda;;3p-p;3rd Person Plural;44344;;The form used for a feminine possessum is '-tòoda'.;;soma1255;saeed-1999
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+anígu,,1sg_a,1st (excl) Person Singular,44391,,,,soma1255,saeed-1999
+anígu,,1sg_s,1st (excl) Person Singular,44390,,,,soma1255,saeed-1999
+aníga,,1sg_o,1st (excl) Person Singular,44389,,,,soma1255,saeed-1999
+-kàyga,,1sg_p,1st (excl) Person Singular,44388,,The form used for a feminine possessum is '-tàjda'.,,soma1255,saeed-1999
+annágu,,1du_a,1st (excl) Person Dual,44387,,,,soma1255,saeed-1999
+annágu,,1du_s,1st (excl) Person Dual,44386,,,,soma1255,saeed-1999
+annága,,1du_o,1st (excl) Person Dual,44385,,,,soma1255,saeed-1999
+-kayága,,1du_p,1st (excl) Person Dual,44384,,The form used for a feminine possessum is '-tajáda'.,,soma1255,saeed-1999
+annágu,,1pl_a,1st (excl) Person Plural,44383,,,,soma1255,saeed-1999
+annágu,,1pl_s,1st (excl) Person Plural,44382,,,,soma1255,saeed-1999
+annága,,1pl_o,1st (excl) Person Plural,44381,,,,soma1255,saeed-1999
+-kayága,,1pl_p,1st (excl) Person Plural,44380,,The form used for a feminine possessum is '-tajáda'.,,soma1255,saeed-1999
+innágu,,12du_a,1st (incl) Person Dual,44379,,,,soma1255,saeed-1999
+innágu,,12du_s,1st (incl) Person Dual,44378,,,,soma1255,saeed-1999
+innága,,12du_o,1st (incl) Person Dual,44377,,,,soma1255,saeed-1999
+-kèenna,,12du_p,1st (incl) Person Dual,44376,,The form used for a feminine possessum is '-tèenna'.,,soma1255,saeed-1999
+innágu,,12pl_a,1st (incl) Person Plural,44375,,,,soma1255,saeed-1999
+innágu,,12pl_s,1st (incl) Person Plural,44374,,,,soma1255,saeed-1999
+innága,,12pl_o,1st (incl) Person Plural,44373,,,,soma1255,saeed-1999
+-kèenna,,12pl_p,1st (incl) Person Plural,44372,,The form used for a feminine possessum is '-tèenna'.,,soma1255,saeed-1999
+adigu,,2sg_a,2nd Person Singular,44371,,,,soma1255,saeed-1999
+adigu,,2sg_s,2nd Person Singular,44370,,,,soma1255,saeed-1999
+adíga,,2sg_o,2nd Person Singular,44369,,,,soma1255,saeed-1999
+-kàaga,,2sg_p,2nd Person Singular,44368,,The form used for a feminine possessum is '-tàada'.,,soma1255,saeed-1999
+idíngu,,2du_a,2nd Person Dual,44367,,,,soma1255,saeed-1999
+idíngu,,2du_s,2nd Person Dual,44366,,,,soma1255,saeed-1999
+idínga,,2du_o,2nd Person Dual,44365,,,,soma1255,saeed-1999
+-kìinna,,2du_p,2nd Person Dual,44364,,The form used for a feminine possessum is '-tìinna'.,,soma1255,saeed-1999
+idíngu,,2pl_a,2nd Person Plural,44363,,,,soma1255,saeed-1999
+idíngu,,2pl_s,2nd Person Plural,44362,,,,soma1255,saeed-1999
+idínga,,2pl_o,2nd Person Plural,44361,,,,soma1255,saeed-1999
+-kìinna,,2pl_p,2nd Person Plural,44360,,The form used for a feminine possessum is '-tìinna'.,,soma1255,saeed-1999
+iságu,,3sg_m_a,3rd Person Singular Masculine,44359,,,,soma1255,saeed-1999
+iságu,,3sg_m_s,3rd Person Singular Masculine,44358,,,,soma1255,saeed-1999
+isága,,3sg_m_o,3rd Person Singular Masculine,44357,,,,soma1255,saeed-1999
+-kìisa,,3sg_m_p,3rd Person Singular Masculine,44356,,The form used for a feminine possessum is '-tìisa'.,,soma1255,saeed-1999
+iyádu,,3sg_n_a,3rd Person Singular Neuter,44355,,,,soma1255,saeed-1999
+iyádu,,3sg_n_s,3rd Person Singular Neuter,44354,,,,soma1255,saeed-1999
+iyáda,,3sg_n_o,3rd Person Singular Neuter,44353,,,,soma1255,saeed-1999
+-kèeda,,3sg_n_p,3rd Person Singular Neuter,44352,,The form used for a feminine possessum is '-tèeda'.,,soma1255,saeed-1999
+iyágu,,3d-a,3rd Person Dual,44351,,,,soma1255,saeed-1999
+iyágu,,3d-s,3rd Person Dual,44350,,,,soma1255,saeed-1999
+iyágu,,3d-o,3rd Person Dual,44349,,,,soma1255,saeed-1999
+-kòoda,,3d-p,3rd Person Dual,44348,,The form used for a feminine possessum is '-tòoda'.,,soma1255,saeed-1999
+iyágu,,3p-a,3rd Person Plural,44347,,,,soma1255,saeed-1999
+iyágu,,3p-s,3rd Person Plural,44346,,,,soma1255,saeed-1999
+iyágu,,3p-o,3rd Person Plural,44345,,,,soma1255,saeed-1999
+-kòoda,,3p-p,3rd Person Plural,44344,,The form used for a feminine possessum is '-tòoda'.,,soma1255,saeed-1999

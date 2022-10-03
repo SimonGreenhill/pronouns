@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-jɨ;;1sg_a;1st (excl) Person Singular;52199;;;;cube1242;chacon-2012
-jɨ;;1sg_s;1st (excl) Person Singular;52198;;;;cube1242;chacon-2012
-jɨ;;1sg_o;1st (excl) Person Singular;52197;;;;cube1242;chacon-2012
-hɨ-;;1sg_p;1st (excl) Person Singular;52196;;;;cube1242;chacon-2012
-jɨ̃hã`;;1du_a;1st (excl) Person Dual;52195;;;;cube1242;chacon-2012
-jɨ̃hã`;;1du_s;1st (excl) Person Dual;52194;;;;cube1242;chacon-2012
-jɨ̃hã`;;1du_o;1st (excl) Person Dual;52193;;;;cube1242;chacon-2012
-jɨ̃hẽ;;1du_p;1st (excl) Person Dual;52192;;;;cube1242;chacon-2012
-jɨ̃hã;;1pl_a;1st (excl) Person Plural;52191;;;;cube1242;chacon-2012
-jɨ̃hã;;1pl_s;1st (excl) Person Plural;52190;;;;cube1242;chacon-2012
-jɨ̃hã;;1pl_o;1st (excl) Person Plural;52189;;;;cube1242;chacon-2012
-jɨ̃hẽ;;1pl_p;1st (excl) Person Plural;52188;;;;cube1242;chacon-2012
-bãhã;;12du_a;1st (incl) Person Dual;52187;;;;cube1242;chacon-2012
-bãhã;;12du_s;1st (incl) Person Dual;52186;;;;cube1242;chacon-2012
-bãhã;;12du_o;1st (incl) Person Dual;52185;;;;cube1242;chacon-2012
-bãhẽ;;12du_p;1st (incl) Person Dual;52184;;;;cube1242;chacon-2012
-bãhã;;12pl_a;1st (incl) Person Plural;52183;;;;cube1242;chacon-2012
-bãhã;;12pl_s;1st (incl) Person Plural;52182;;;;cube1242;chacon-2012
-bãhã;;12pl_o;1st (incl) Person Plural;52181;;;;cube1242;chacon-2012
-bãhẽ;;12pl_p;1st (incl) Person Plural;52180;;;;cube1242;chacon-2012
-bɨ̃;;2sg_a;2nd Person Singular;52179;;;;cube1242;chacon-2012
-bɨ̃;;2sg_s;2nd Person Singular;52178;;;;cube1242;chacon-2012
-bɨ̃;;2sg_o;2nd Person Singular;52177;;;;cube1242;chacon-2012
-bɨ̃-;;2sg_p;2nd Person Singular;52176;;;;cube1242;chacon-2012
-bɨ̃hã;;2du_a;2nd Person Dual;52175;;;;cube1242;chacon-2012
-bɨ̃hã;;2du_s;2nd Person Dual;52174;;;;cube1242;chacon-2012
-bɨ̃hã;;2du_o;2nd Person Dual;52173;;;;cube1242;chacon-2012
-bɨ̃hẽ;;2du_p;2nd Person Dual;52172;;;;cube1242;chacon-2012
-bɨ̃ã;;2pl_a;2nd Person Plural;52171;;;;cube1242;chacon-2012
-bɨ̃hã;;2pl_s;2nd Person Plural;52170;;;;cube1242;chacon-2012
-bɨ̃hã;;2pl_o;2nd Person Plural;52169;;;;cube1242;chacon-2012
-bɨ̃hẽ;;2pl_p;2nd Person Plural;52168;;;;cube1242;chacon-2012
-ɨ̃;;3sg_m_a;3rd Person Singular Masculine;52167;;;;cube1242;chacon-2012
-ɨ̃;;3sg_m_s;3rd Person Singular Masculine;52166;;;;cube1242;chacon-2012
-ɨ̃;;3sg_m_o;3rd Person Singular Masculine;52165;;;;cube1242;chacon-2012
-ɨ̃-i -;;3sg_m_p;3rd Person Singular Masculine;52164;;;;cube1242;chacon-2012
-õ;;3sg_n_a;3rd Person Singular Neuter;52163;;;;cube1242;chacon-2012
-õ;;3sg_n_s;3rd Person Singular Neuter;52162;;;;cube1242;chacon-2012
-õ;;3sg_n_o;3rd Person Singular Neuter;52161;;;;cube1242;chacon-2012
-õ-i -;;3sg_n_p;3rd Person Singular Neuter;52160;;;;cube1242;chacon-2012
-dã;;3d-a;3rd Person Dual;52159;;;;cube1242;chacon-2012
-dã;;3d-s;3rd Person Dual;52158;;;;cube1242;chacon-2012
-dã;;3d-o;3rd Person Dual;52157;;;;cube1242;chacon-2012
-dẽ;;3d-p;3rd Person Dual;52156;;;;cube1242;chacon-2012
-dã;;3p-a;3rd Person Plural;52155;;;;cube1242;chacon-2012
-dã;;3p-s;3rd Person Plural;52154;;;;cube1242;chacon-2012
-dã;;3p-o;3rd Person Plural;52153;;;;cube1242;chacon-2012
-dẽ;;3p-p;3rd Person Plural;52152;;;;cube1242;chacon-2012
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+jɨ,,1sg_a,1st (excl) Person Singular,52199,,,,cube1242,chacon-2012
+jɨ,,1sg_s,1st (excl) Person Singular,52198,,,,cube1242,chacon-2012
+jɨ,,1sg_o,1st (excl) Person Singular,52197,,,,cube1242,chacon-2012
+hɨ-,,1sg_p,1st (excl) Person Singular,52196,,,,cube1242,chacon-2012
+jɨ̃hã`,,1du_a,1st (excl) Person Dual,52195,,,,cube1242,chacon-2012
+jɨ̃hã`,,1du_s,1st (excl) Person Dual,52194,,,,cube1242,chacon-2012
+jɨ̃hã`,,1du_o,1st (excl) Person Dual,52193,,,,cube1242,chacon-2012
+jɨ̃hẽ,,1du_p,1st (excl) Person Dual,52192,,,,cube1242,chacon-2012
+jɨ̃hã,,1pl_a,1st (excl) Person Plural,52191,,,,cube1242,chacon-2012
+jɨ̃hã,,1pl_s,1st (excl) Person Plural,52190,,,,cube1242,chacon-2012
+jɨ̃hã,,1pl_o,1st (excl) Person Plural,52189,,,,cube1242,chacon-2012
+jɨ̃hẽ,,1pl_p,1st (excl) Person Plural,52188,,,,cube1242,chacon-2012
+bãhã,,12du_a,1st (incl) Person Dual,52187,,,,cube1242,chacon-2012
+bãhã,,12du_s,1st (incl) Person Dual,52186,,,,cube1242,chacon-2012
+bãhã,,12du_o,1st (incl) Person Dual,52185,,,,cube1242,chacon-2012
+bãhẽ,,12du_p,1st (incl) Person Dual,52184,,,,cube1242,chacon-2012
+bãhã,,12pl_a,1st (incl) Person Plural,52183,,,,cube1242,chacon-2012
+bãhã,,12pl_s,1st (incl) Person Plural,52182,,,,cube1242,chacon-2012
+bãhã,,12pl_o,1st (incl) Person Plural,52181,,,,cube1242,chacon-2012
+bãhẽ,,12pl_p,1st (incl) Person Plural,52180,,,,cube1242,chacon-2012
+bɨ̃,,2sg_a,2nd Person Singular,52179,,,,cube1242,chacon-2012
+bɨ̃,,2sg_s,2nd Person Singular,52178,,,,cube1242,chacon-2012
+bɨ̃,,2sg_o,2nd Person Singular,52177,,,,cube1242,chacon-2012
+bɨ̃-,,2sg_p,2nd Person Singular,52176,,,,cube1242,chacon-2012
+bɨ̃hã,,2du_a,2nd Person Dual,52175,,,,cube1242,chacon-2012
+bɨ̃hã,,2du_s,2nd Person Dual,52174,,,,cube1242,chacon-2012
+bɨ̃hã,,2du_o,2nd Person Dual,52173,,,,cube1242,chacon-2012
+bɨ̃hẽ,,2du_p,2nd Person Dual,52172,,,,cube1242,chacon-2012
+bɨ̃ã,,2pl_a,2nd Person Plural,52171,,,,cube1242,chacon-2012
+bɨ̃hã,,2pl_s,2nd Person Plural,52170,,,,cube1242,chacon-2012
+bɨ̃hã,,2pl_o,2nd Person Plural,52169,,,,cube1242,chacon-2012
+bɨ̃hẽ,,2pl_p,2nd Person Plural,52168,,,,cube1242,chacon-2012
+ɨ̃,,3sg_m_a,3rd Person Singular Masculine,52167,,,,cube1242,chacon-2012
+ɨ̃,,3sg_m_s,3rd Person Singular Masculine,52166,,,,cube1242,chacon-2012
+ɨ̃,,3sg_m_o,3rd Person Singular Masculine,52165,,,,cube1242,chacon-2012
+ɨ̃-i -,,3sg_m_p,3rd Person Singular Masculine,52164,,,,cube1242,chacon-2012
+õ,,3sg_n_a,3rd Person Singular Neuter,52163,,,,cube1242,chacon-2012
+õ,,3sg_n_s,3rd Person Singular Neuter,52162,,,,cube1242,chacon-2012
+õ,,3sg_n_o,3rd Person Singular Neuter,52161,,,,cube1242,chacon-2012
+õ-i -,,3sg_n_p,3rd Person Singular Neuter,52160,,,,cube1242,chacon-2012
+dã,,3d-a,3rd Person Dual,52159,,,,cube1242,chacon-2012
+dã,,3d-s,3rd Person Dual,52158,,,,cube1242,chacon-2012
+dã,,3d-o,3rd Person Dual,52157,,,,cube1242,chacon-2012
+dẽ,,3d-p,3rd Person Dual,52156,,,,cube1242,chacon-2012
+dã,,3p-a,3rd Person Plural,52155,,,,cube1242,chacon-2012
+dã,,3p-s,3rd Person Plural,52154,,,,cube1242,chacon-2012
+dã,,3p-o,3rd Person Plural,52153,,,,cube1242,chacon-2012
+dẽ,,3p-p,3rd Person Plural,52152,,,,cube1242,chacon-2012

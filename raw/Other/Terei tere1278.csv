@@ -1,42 +1,42 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ne;;1sg_a;1st (excl) Person Singular;41010;;;;tere1278;grisward-1910
-ne;;1sg_s;1st (excl) Person Singular;41009;;;;tere1278;grisward-1910
-ne;;1sg_o;1st (excl) Person Singular;41008;;;;tere1278;grisward-1910
-ri-;;1sg_p;1st (excl) Person Singular;42545;;;;tere1278;grisward-1910
-i-;;1sg_p;1st (excl) Person Singular;42546;;;;tere1278;grisward-1910
-re;;1du_a;1st (excl) Person Dual;41006;;;;tere1278;grisward-1910
-re;;1du_s;1st (excl) Person Dual;41005;;;;tere1278;grisward-1910
-re;;1du_o;1st (excl) Person Dual;41004;;;;tere1278;grisward-1910
-rei-;;1du_p;1st (excl) Person Dual;42537;;;;tere1278;grisward-1910
-rii-;;1du_p;1st (excl) Person Dual;42538;;;;tere1278;grisward-1910
-re;;1pl_a;1st (excl) Person Plural;41002;;;;tere1278;grisward-1910
-re;;1pl_s;1st (excl) Person Plural;41001;;;;tere1278;grisward-1910
-re;;1pl_o;1st (excl) Person Plural;41000;;;;tere1278;grisward-1910
-rei-;;1pl_p;1st (excl) Person Plural;42543;;;;tere1278;grisward-1910
-rii-;;1pl_p;1st (excl) Person Plural;42544;;;;tere1278;grisward-1910
-re;;12du_a;1st (incl) Person Dual;40998;;;;tere1278;grisward-1910
-re;;12du_s;1st (incl) Person Dual;40997;;;;tere1278;grisward-1910
-re;;12du_o;1st (incl) Person Dual;40996;;;;tere1278;grisward-1910
-rei-;;12du_p;1st (incl) Person Dual;42541;;;;tere1278;grisward-1910
-rii-;;12du_p;1st (incl) Person Dual;42542;;;;tere1278;grisward-1910
-re;;12pl_a;1st (incl) Person Plural;40994;;;;tere1278;grisward-1910
-re;;12pl_s;1st (incl) Person Plural;40993;;;;tere1278;grisward-1910
-re;;12pl_o;1st (incl) Person Plural;40992;;;;tere1278;grisward-1910
-rei-;;12pl_p;1st (incl) Person Plural;42539;;;;tere1278;grisward-1910
-rii-;;12pl_p;1st (incl) Person Plural;42540;;;;tere1278;grisward-1910
-ro;;2sg_a;2nd Person Singular;40990;;;;tere1278;grisward-1910
-ro;;2sg_s;2nd Person Singular;40989;;;;tere1278;grisward-1910
-ro;;2sg_o;2nd Person Singular;40988;;;;tere1278;grisward-1910
-ro-;;2sg_p;2nd Person Singular;40987;;;;tere1278;grisward-1910
-rai;;2du_a;2nd Person Dual;40986;;;;tere1278;grisward-1910
-rai;;2du_s;2nd Person Dual;40985;;;;tere1278;grisward-1910
-rai;;2du_o;2nd Person Dual;40984;;;;tere1278;grisward-1910
-rai;;2du_p;2nd Person Dual;40983;;;;tere1278;grisward-1910
-rai;;2pl_a;2nd Person Plural;40982;;;;tere1278;grisward-1910
-rai;;2pl_s;2nd Person Plural;40981;;;;tere1278;grisward-1910
-rai;;2pl_o;2nd Person Plural;40980;;;;tere1278;grisward-1910
-rai;;2pl_p;2nd Person Plural;40979;;;;tere1278;grisward-1910
-po-;;3sg_m_p;3rd Person Singular Masculine;40975;;;;tere1278;grisward-1910
-po-;;3sg_n_p;3rd Person Singular Neuter;40971;;;;tere1278;grisward-1910
-pai;;3d-p;3rd Person Dual;40967;;;;tere1278;grisward-1910
-pai;;3p-p;3rd Person Plural;40963;;;;tere1278;grisward-1910
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ne,,1sg_a,1st (excl) Person Singular,41010,,,,tere1278,grisward-1910
+ne,,1sg_s,1st (excl) Person Singular,41009,,,,tere1278,grisward-1910
+ne,,1sg_o,1st (excl) Person Singular,41008,,,,tere1278,grisward-1910
+ri-,,1sg_p,1st (excl) Person Singular,42545,,,,tere1278,grisward-1910
+i-,,1sg_p,1st (excl) Person Singular,42546,,,,tere1278,grisward-1910
+re,,1du_a,1st (excl) Person Dual,41006,,,,tere1278,grisward-1910
+re,,1du_s,1st (excl) Person Dual,41005,,,,tere1278,grisward-1910
+re,,1du_o,1st (excl) Person Dual,41004,,,,tere1278,grisward-1910
+rei-,,1du_p,1st (excl) Person Dual,42537,,,,tere1278,grisward-1910
+rii-,,1du_p,1st (excl) Person Dual,42538,,,,tere1278,grisward-1910
+re,,1pl_a,1st (excl) Person Plural,41002,,,,tere1278,grisward-1910
+re,,1pl_s,1st (excl) Person Plural,41001,,,,tere1278,grisward-1910
+re,,1pl_o,1st (excl) Person Plural,41000,,,,tere1278,grisward-1910
+rei-,,1pl_p,1st (excl) Person Plural,42543,,,,tere1278,grisward-1910
+rii-,,1pl_p,1st (excl) Person Plural,42544,,,,tere1278,grisward-1910
+re,,12du_a,1st (incl) Person Dual,40998,,,,tere1278,grisward-1910
+re,,12du_s,1st (incl) Person Dual,40997,,,,tere1278,grisward-1910
+re,,12du_o,1st (incl) Person Dual,40996,,,,tere1278,grisward-1910
+rei-,,12du_p,1st (incl) Person Dual,42541,,,,tere1278,grisward-1910
+rii-,,12du_p,1st (incl) Person Dual,42542,,,,tere1278,grisward-1910
+re,,12pl_a,1st (incl) Person Plural,40994,,,,tere1278,grisward-1910
+re,,12pl_s,1st (incl) Person Plural,40993,,,,tere1278,grisward-1910
+re,,12pl_o,1st (incl) Person Plural,40992,,,,tere1278,grisward-1910
+rei-,,12pl_p,1st (incl) Person Plural,42539,,,,tere1278,grisward-1910
+rii-,,12pl_p,1st (incl) Person Plural,42540,,,,tere1278,grisward-1910
+ro,,2sg_a,2nd Person Singular,40990,,,,tere1278,grisward-1910
+ro,,2sg_s,2nd Person Singular,40989,,,,tere1278,grisward-1910
+ro,,2sg_o,2nd Person Singular,40988,,,,tere1278,grisward-1910
+ro-,,2sg_p,2nd Person Singular,40987,,,,tere1278,grisward-1910
+rai,,2du_a,2nd Person Dual,40986,,,,tere1278,grisward-1910
+rai,,2du_s,2nd Person Dual,40985,,,,tere1278,grisward-1910
+rai,,2du_o,2nd Person Dual,40984,,,,tere1278,grisward-1910
+rai,,2du_p,2nd Person Dual,40983,,,,tere1278,grisward-1910
+rai,,2pl_a,2nd Person Plural,40982,,,,tere1278,grisward-1910
+rai,,2pl_s,2nd Person Plural,40981,,,,tere1278,grisward-1910
+rai,,2pl_o,2nd Person Plural,40980,,,,tere1278,grisward-1910
+rai,,2pl_p,2nd Person Plural,40979,,,,tere1278,grisward-1910
+po-,,3sg_m_p,3rd Person Singular Masculine,40975,,,,tere1278,grisward-1910
+po-,,3sg_n_p,3rd Person Singular Neuter,40971,,,,tere1278,grisward-1910
+pai,,3d-p,3rd Person Dual,40967,,,,tere1278,grisward-1910
+pai,,3p-p,3rd Person Plural,40963,,,,tere1278,grisward-1910

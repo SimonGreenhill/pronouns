@@ -1,37 +1,37 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-niŋ;;1sg_a;1st (excl) Person Singular;40962;;;;koro1313;rausch-1912
-niŋ;;1sg_s;1st (excl) Person Singular;40961;;;;koro1313;rausch-1912
-niŋ;;1sg_o;1st (excl) Person Singular;40960;;;;koro1313;rausch-1912
-ŋ-;;1sg_p;1st (excl) Person Singular;40959;;;;koro1313;rausch-1912
-naa;;1du_a;1st (excl) Person Dual;40958;;;;koro1313;rausch-1912
-naa;;1du_s;1st (excl) Person Dual;40957;;;;koro1313;rausch-1912
-naa;;1du_o;1st (excl) Person Dual;40956;;;;koro1313;rausch-1912
-nɛɛ-;;1du_p;1st (excl) Person Dual;40955;;;;koro1313;rausch-1912
-nii;;1pl_a;1st (excl) Person Plural;40954;;;;koro1313;rausch-1912
-nii;;1pl_s;1st (excl) Person Plural;40953;;;;koro1313;rausch-1912
-nii;;1pl_o;1st (excl) Person Plural;40952;;;;koro1313;rausch-1912
-nii-;;1pl_p;1st (excl) Person Plural;40951;;;;koro1313;rausch-1912
-naa;;12du_a;1st (incl) Person Dual;40950;;;;koro1313;rausch-1912
-naa;;12du_s;1st (incl) Person Dual;40949;;;;koro1313;rausch-1912
-naa;;12du_o;1st (incl) Person Dual;40948;;;;koro1313;rausch-1912
-nɛɛ-;;12du_p;1st (incl) Person Dual;40947;;;;koro1313;rausch-1912
-nii;;12pl_a;1st (incl) Person Plural;40946;;;;koro1313;rausch-1912
-nii;;12pl_s;1st (incl) Person Plural;40945;;;;koro1313;rausch-1912
-nii;;12pl_o;1st (incl) Person Plural;40944;;;;koro1313;rausch-1912
-nii-;;12pl_p;1st (incl) Person Plural;40943;;;;koro1313;rausch-1912
-da;;2sg_a;2nd Person Singular;40942;;;;koro1313;rausch-1912
-da;;2sg_s;2nd Person Singular;40941;;;;koro1313;rausch-1912
-da;;2sg_o;2nd Person Singular;40940;;;;koro1313;rausch-1912
-da-;;2sg_p;2nd Person Singular;40939;;;;koro1313;rausch-1912
-daa;;2du_a;2nd Person Dual;40938;;;;koro1313;rausch-1912
-daa;;2du_s;2nd Person Dual;40937;;;;koro1313;rausch-1912
-daa;;2du_o;2nd Person Dual;40936;;;;koro1313;rausch-1912
-dɛɛ-;;2du_p;2nd Person Dual;40935;;;;koro1313;rausch-1912
-daa;;2pl_a;2nd Person Plural;40934;;;;koro1313;rausch-1912
-daa;;2pl_s;2nd Person Plural;40933;;;;koro1313;rausch-1912
-daa;;2pl_o;2nd Person Plural;40932;;;;koro1313;rausch-1912
-daa-;;2pl_p;2nd Person Plural;40931;;;;koro1313;rausch-1912
-ba-;;3sg_m_p;3rd Person Singular Masculine;40927;;;;koro1313;rausch-1912
-ba-;;3sg_n_p;3rd Person Singular Neuter;40923;;;;koro1313;rausch-1912
-bɛɛ-;;3d-p;3rd Person Dual;40919;;;;koro1313;rausch-1912
-bɛ-;;3p-p;3rd Person Plural;40915;;;;koro1313;rausch-1912
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+niŋ,,1sg_a,1st (excl) Person Singular,40962,,,,koro1313,rausch-1912
+niŋ,,1sg_s,1st (excl) Person Singular,40961,,,,koro1313,rausch-1912
+niŋ,,1sg_o,1st (excl) Person Singular,40960,,,,koro1313,rausch-1912
+ŋ-,,1sg_p,1st (excl) Person Singular,40959,,,,koro1313,rausch-1912
+naa,,1du_a,1st (excl) Person Dual,40958,,,,koro1313,rausch-1912
+naa,,1du_s,1st (excl) Person Dual,40957,,,,koro1313,rausch-1912
+naa,,1du_o,1st (excl) Person Dual,40956,,,,koro1313,rausch-1912
+nɛɛ-,,1du_p,1st (excl) Person Dual,40955,,,,koro1313,rausch-1912
+nii,,1pl_a,1st (excl) Person Plural,40954,,,,koro1313,rausch-1912
+nii,,1pl_s,1st (excl) Person Plural,40953,,,,koro1313,rausch-1912
+nii,,1pl_o,1st (excl) Person Plural,40952,,,,koro1313,rausch-1912
+nii-,,1pl_p,1st (excl) Person Plural,40951,,,,koro1313,rausch-1912
+naa,,12du_a,1st (incl) Person Dual,40950,,,,koro1313,rausch-1912
+naa,,12du_s,1st (incl) Person Dual,40949,,,,koro1313,rausch-1912
+naa,,12du_o,1st (incl) Person Dual,40948,,,,koro1313,rausch-1912
+nɛɛ-,,12du_p,1st (incl) Person Dual,40947,,,,koro1313,rausch-1912
+nii,,12pl_a,1st (incl) Person Plural,40946,,,,koro1313,rausch-1912
+nii,,12pl_s,1st (incl) Person Plural,40945,,,,koro1313,rausch-1912
+nii,,12pl_o,1st (incl) Person Plural,40944,,,,koro1313,rausch-1912
+nii-,,12pl_p,1st (incl) Person Plural,40943,,,,koro1313,rausch-1912
+da,,2sg_a,2nd Person Singular,40942,,,,koro1313,rausch-1912
+da,,2sg_s,2nd Person Singular,40941,,,,koro1313,rausch-1912
+da,,2sg_o,2nd Person Singular,40940,,,,koro1313,rausch-1912
+da-,,2sg_p,2nd Person Singular,40939,,,,koro1313,rausch-1912
+daa,,2du_a,2nd Person Dual,40938,,,,koro1313,rausch-1912
+daa,,2du_s,2nd Person Dual,40937,,,,koro1313,rausch-1912
+daa,,2du_o,2nd Person Dual,40936,,,,koro1313,rausch-1912
+dɛɛ-,,2du_p,2nd Person Dual,40935,,,,koro1313,rausch-1912
+daa,,2pl_a,2nd Person Plural,40934,,,,koro1313,rausch-1912
+daa,,2pl_s,2nd Person Plural,40933,,,,koro1313,rausch-1912
+daa,,2pl_o,2nd Person Plural,40932,,,,koro1313,rausch-1912
+daa-,,2pl_p,2nd Person Plural,40931,,,,koro1313,rausch-1912
+ba-,,3sg_m_p,3rd Person Singular Masculine,40927,,,,koro1313,rausch-1912
+ba-,,3sg_n_p,3rd Person Singular Neuter,40923,,,,koro1313,rausch-1912
+bɛɛ-,,3d-p,3rd Person Dual,40919,,,,koro1313,rausch-1912
+bɛ-,,3p-p,3rd Person Plural,40915,,,,koro1313,rausch-1912

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nʰú;;1sg_a;1st (excl) Person Singular;54360;;;;cabi1241;ramirez-2001
-nʰú;;1sg_s;1st (excl) Person Singular;54359;;;;cabi1241;ramirez-2001
-nʰú;;1sg_o;1st (excl) Person Singular;54358;;;;cabi1241;ramirez-2001
-nu-;;1sg_p;1st (excl) Person Singular;54357;;;;cabi1241;ramirez-2001
-wʰé;;1du_a;1st (excl) Person Dual;54356;;;;cabi1241;ramirez-2001
-wʰé;;1du_s;1st (excl) Person Dual;54355;;;;cabi1241;ramirez-2001
-wʰé;;1du_o;1st (excl) Person Dual;54354;;;;cabi1241;ramirez-2001
-wa-;;1du_p;1st (excl) Person Dual;54353;;;;cabi1241;ramirez-2001
-wʰé;;1pl_a;1st (excl) Person Plural;54352;;;;cabi1241;ramirez-2001
-wʰé;;1pl_s;1st (excl) Person Plural;54351;;;;cabi1241;ramirez-2001
-wʰé;;1pl_o;1st (excl) Person Plural;54350;;;;cabi1241;ramirez-2001
-wa-;;1pl_p;1st (excl) Person Plural;54349;;;;cabi1241;ramirez-2001
-wʰé;;12du_a;1st (incl) Person Dual;54348;;;;cabi1241;ramirez-2001
-wʰé;;12du_s;1st (incl) Person Dual;54347;;;;cabi1241;ramirez-2001
-wʰé;;12du_o;1st (incl) Person Dual;54346;;;;cabi1241;ramirez-2001
-wa-;;12du_p;1st (incl) Person Dual;54345;;;;cabi1241;ramirez-2001
-wʰé;;12pl_a;1st (incl) Person Plural;54344;;;;cabi1241;ramirez-2001
-wʰé;;12pl_s;1st (incl) Person Plural;54343;;;;cabi1241;ramirez-2001
-wʰé;;12pl_o;1st (incl) Person Plural;54342;;;;cabi1241;ramirez-2001
-wa-;;12pl_p;1st (incl) Person Plural;54341;;;;cabi1241;ramirez-2001
-pʰé;;2sg_a;2nd Person Singular;54340;;;;cabi1241;ramirez-2001
-pʰé;;2sg_s;2nd Person Singular;54339;;;;cabi1241;ramirez-2001
-pʰé;;2sg_o;2nd Person Singular;54338;;;;cabi1241;ramirez-2001
-pi-;;2sg_p;2nd Person Singular;54337;;;;cabi1241;ramirez-2001
-ʔéni;;2du_a;2nd Person Dual;54336;;;;cabi1241;ramirez-2001
-ʔéni;;2du_s;2nd Person Dual;54335;;;;cabi1241;ramirez-2001
-ʔéni;;2du_o;2nd Person Dual;54334;;;;cabi1241;ramirez-2001
-ʔéni-;;2du_p;2nd Person Dual;54333;;;;cabi1241;ramirez-2001
-ʔéni;;2pl_a;2nd Person Plural;54332;;;;cabi1241;ramirez-2001
-ʔéni;;2pl_s;2nd Person Plural;54331;;;;cabi1241;ramirez-2001
-ʔéni;;2pl_o;2nd Person Plural;54330;;;;cabi1241;ramirez-2001
-ʔéni-;;2pl_p;2nd Person Plural;54329;;;;cabi1241;ramirez-2001
-pʰé;;3sg_m_a;3rd Person Singular Masculine;54328;;;;cabi1241;ramirez-2001
-pʰé;;3sg_m_s;3rd Person Singular Masculine;54327;;;;cabi1241;ramirez-2001
-pʰé;;3sg_m_o;3rd Person Singular Masculine;54326;;;;cabi1241;ramirez-2001
-u-;;3sg_m_p;3rd Person Singular Masculine;60995;;;;cabi1241;ramirez-2001
-wa;;3sg_n_a;3rd Person Singular Neuter;54325;;;;cabi1241;ramirez-2001
-wa;;3sg_n_s;3rd Person Singular Neuter;54324;;;;cabi1241;ramirez-2001
-wa;;3sg_n_o;3rd Person Singular Neuter;54323;;;;cabi1241;ramirez-2001
-u-;;3sg_n_p;3rd Person Singular Neuter;54322;;;;cabi1241;ramirez-2001
-nʰé;;3d-a;3rd Person Dual;54321;;;;cabi1241;ramirez-2001
-nʰé;;3d-s;3rd Person Dual;54320;;;;cabi1241;ramirez-2001
-nʰé;;3d-o;3rd Person Dual;54319;;;;cabi1241;ramirez-2001
-na-;;3d-p;3rd Person Dual;54318;;;;cabi1241;ramirez-2001
-nʰé;;3p-a;3rd Person Plural;54317;;;;cabi1241;ramirez-2001
-nʰé;;3p-s;3rd Person Plural;54316;;;;cabi1241;ramirez-2001
-nʰé;;3p-o;3rd Person Plural;54315;;;;cabi1241;ramirez-2001
-na-;;3p-p;3rd Person Plural;54314;;;;cabi1241;ramirez-2001
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nʰú,,1sg_a,1st (excl) Person Singular,54360,,,,cabi1241,ramirez-2001
+nʰú,,1sg_s,1st (excl) Person Singular,54359,,,,cabi1241,ramirez-2001
+nʰú,,1sg_o,1st (excl) Person Singular,54358,,,,cabi1241,ramirez-2001
+nu-,,1sg_p,1st (excl) Person Singular,54357,,,,cabi1241,ramirez-2001
+wʰé,,1du_a,1st (excl) Person Dual,54356,,,,cabi1241,ramirez-2001
+wʰé,,1du_s,1st (excl) Person Dual,54355,,,,cabi1241,ramirez-2001
+wʰé,,1du_o,1st (excl) Person Dual,54354,,,,cabi1241,ramirez-2001
+wa-,,1du_p,1st (excl) Person Dual,54353,,,,cabi1241,ramirez-2001
+wʰé,,1pl_a,1st (excl) Person Plural,54352,,,,cabi1241,ramirez-2001
+wʰé,,1pl_s,1st (excl) Person Plural,54351,,,,cabi1241,ramirez-2001
+wʰé,,1pl_o,1st (excl) Person Plural,54350,,,,cabi1241,ramirez-2001
+wa-,,1pl_p,1st (excl) Person Plural,54349,,,,cabi1241,ramirez-2001
+wʰé,,12du_a,1st (incl) Person Dual,54348,,,,cabi1241,ramirez-2001
+wʰé,,12du_s,1st (incl) Person Dual,54347,,,,cabi1241,ramirez-2001
+wʰé,,12du_o,1st (incl) Person Dual,54346,,,,cabi1241,ramirez-2001
+wa-,,12du_p,1st (incl) Person Dual,54345,,,,cabi1241,ramirez-2001
+wʰé,,12pl_a,1st (incl) Person Plural,54344,,,,cabi1241,ramirez-2001
+wʰé,,12pl_s,1st (incl) Person Plural,54343,,,,cabi1241,ramirez-2001
+wʰé,,12pl_o,1st (incl) Person Plural,54342,,,,cabi1241,ramirez-2001
+wa-,,12pl_p,1st (incl) Person Plural,54341,,,,cabi1241,ramirez-2001
+pʰé,,2sg_a,2nd Person Singular,54340,,,,cabi1241,ramirez-2001
+pʰé,,2sg_s,2nd Person Singular,54339,,,,cabi1241,ramirez-2001
+pʰé,,2sg_o,2nd Person Singular,54338,,,,cabi1241,ramirez-2001
+pi-,,2sg_p,2nd Person Singular,54337,,,,cabi1241,ramirez-2001
+ʔéni,,2du_a,2nd Person Dual,54336,,,,cabi1241,ramirez-2001
+ʔéni,,2du_s,2nd Person Dual,54335,,,,cabi1241,ramirez-2001
+ʔéni,,2du_o,2nd Person Dual,54334,,,,cabi1241,ramirez-2001
+ʔéni-,,2du_p,2nd Person Dual,54333,,,,cabi1241,ramirez-2001
+ʔéni,,2pl_a,2nd Person Plural,54332,,,,cabi1241,ramirez-2001
+ʔéni,,2pl_s,2nd Person Plural,54331,,,,cabi1241,ramirez-2001
+ʔéni,,2pl_o,2nd Person Plural,54330,,,,cabi1241,ramirez-2001
+ʔéni-,,2pl_p,2nd Person Plural,54329,,,,cabi1241,ramirez-2001
+pʰé,,3sg_m_a,3rd Person Singular Masculine,54328,,,,cabi1241,ramirez-2001
+pʰé,,3sg_m_s,3rd Person Singular Masculine,54327,,,,cabi1241,ramirez-2001
+pʰé,,3sg_m_o,3rd Person Singular Masculine,54326,,,,cabi1241,ramirez-2001
+u-,,3sg_m_p,3rd Person Singular Masculine,60995,,,,cabi1241,ramirez-2001
+wa,,3sg_n_a,3rd Person Singular Neuter,54325,,,,cabi1241,ramirez-2001
+wa,,3sg_n_s,3rd Person Singular Neuter,54324,,,,cabi1241,ramirez-2001
+wa,,3sg_n_o,3rd Person Singular Neuter,54323,,,,cabi1241,ramirez-2001
+u-,,3sg_n_p,3rd Person Singular Neuter,54322,,,,cabi1241,ramirez-2001
+nʰé,,3d-a,3rd Person Dual,54321,,,,cabi1241,ramirez-2001
+nʰé,,3d-s,3rd Person Dual,54320,,,,cabi1241,ramirez-2001
+nʰé,,3d-o,3rd Person Dual,54319,,,,cabi1241,ramirez-2001
+na-,,3d-p,3rd Person Dual,54318,,,,cabi1241,ramirez-2001
+nʰé,,3p-a,3rd Person Plural,54317,,,,cabi1241,ramirez-2001
+nʰé,,3p-s,3rd Person Plural,54316,,,,cabi1241,ramirez-2001
+nʰé,,3p-o,3rd Person Plural,54315,,,,cabi1241,ramirez-2001
+na-,,3p-p,3rd Person Plural,54314,,,,cabi1241,ramirez-2001

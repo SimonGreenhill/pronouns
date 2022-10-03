@@ -1,88 +1,88 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-aku, kula, dalem;;1sg_a;1st (excl) Person Singular;31355;;;;java1254;robson-1992
-aku, kula, dalem;;1sg_s;1st (excl) Person Singular;31356;;;;java1254;robson-1992
-aku, kula, dalem;;1sg_o;1st (excl) Person Singular;31357;;;;java1254;robson-1992
--ku;;1sg_p;1st (excl) Person Singular;31358;;;;java1254;robson-1992
-awake dhewe, kita;;1du_a;1st (excl) Person Dual;31359;;;;java1254;robson-1992
-awake dhewe, kita;;1du_s;1st (excl) Person Dual;31360;;;;java1254;robson-1992
-awake dhewe, kita;;1du_o;1st (excl) Person Dual;31361;;;;java1254;robson-1992
-awake dhewe;;1du_p;1st (excl) Person Dual;31362;;;;java1254;robson-1992
-awake dhewe, kita;;1pl_a;1st (excl) Person Plural;31363;;;;java1254;robson-1992
-awake dhewe, kita;;1pl_s;1st (excl) Person Plural;31364;;;;java1254;robson-1992
-awake dhewe, kita;;1pl_o;1st (excl) Person Plural;31365;;;;java1254;robson-1992
-awake dhewe;;1pl_p;1st (excl) Person Plural;31366;;;;java1254;robson-1992
-awake dhewe, kita;;12du_a;1st (incl) Person Dual;31367;;;;java1254;robson-1992
-awake dhewe, kita;;12du_s;1st (incl) Person Dual;31368;;;;java1254;robson-1992
-awake dhewe, kita;;12du_o;1st (incl) Person Dual;31369;;;;java1254;robson-1992
-awake dhewe;;12du_p;1st (incl) Person Dual;31370;;;;java1254;robson-1992
-awake dhewe, kita;;12pl_a;1st (incl) Person Plural;31371;;;;java1254;robson-1992
-awake dhewe, kita;;12pl_s;1st (incl) Person Plural;31372;;;;java1254;robson-1992
-awake dhewe, kita;;12pl_o;1st (incl) Person Plural;31373;;;;java1254;robson-1992
-awake dhewe;;12pl_p;1st (incl) Person Plural;31374;;;;java1254;robson-1992
-kowe, sampeyan, panjenengan;;2sg_a;2nd Person Singular;31375;;;;java1254;robson-1992
-kowe, sampeyan, panjenengan;;2sg_s;2nd Person Singular;31376;;;;java1254;robson-1992
-kowe, sampeyan, panjenengan;;2sg_o;2nd Person Singular;31377;;;;java1254;robson-1992
--mu;;2sg_p;2nd Person Singular;31378;;;;java1254;robson-1992
-kowe, sampeyan, panjenengan;;2du_a;2nd Person Dual;31379;;;;java1254;robson-1992
-kowe, sampeyan, panjenengan;;2du_s;2nd Person Dual;31380;;;;java1254;robson-1992
-kowe, sampeyan, panjenengan;;2du_o;2nd Person Dual;31381;;;;java1254;robson-1992
--mu;;2du_p;2nd Person Dual;31382;;;;java1254;robson-1992
-kowe, sampeyan, panjenengan;;2pl_a;2nd Person Plural;31383;;;;java1254;robson-1992
-kowe, sampeyan, panjenengan;;2pl_s;2nd Person Plural;31384;;;;java1254;robson-1992
-kowe, sampeyan, panjenengan;;2pl_o;2nd Person Plural;31385;;;;java1254;robson-1992
--mu;;2pl_p;2nd Person Plural;31386;;;;java1254;robson-1992
-dheweke, piyambakipun, panjenenganipun;;3sg_m_a;3rd Person Singular Masculine;31387;;;;java1254;robson-1992
-dheweke, piyambakipun, panjenenganipun;;3sg_m_s;3rd Person Singular Masculine;31388;;;;java1254;robson-1992
-dheweke, piyambakipun, panjenenganipun;;3sg_m_o;3rd Person Singular Masculine;31389;;;;java1254;robson-1992
--ne, -nipun;;3sg_m_p;3rd Person Singular Masculine;31390;;-e and -ipun are affixed to words ending in a consonant. -ne and -nipun are affixed to words ending in a vowel.;;java1254;robson-1992
--e, -ipun;;3sg_m_p;3rd Person Singular Masculine;31391;;;;java1254;robson-1992
-dheweke;;3sg_f_a;3rd Person Singular Feminine;31392;;;;java1254;robson-1992
-dheweke;;3sg_f_s;3rd Person Singular Feminine;31393;;;;java1254;robson-1992
-dheweke;;3sg_f_o;3rd Person Singular Feminine;31394;;;;java1254;robson-1992
--ne;;3sg_f_p;3rd Person Singular Feminine;31395;;;;java1254;robson-1992
--e;;3sg_f_p;3rd Person Singular Feminine;31396;;;;java1254;robson-1992
-dheweke, piyambakipun, panjenenganipun;;3sg_n_a;3rd Person Singular Neuter;31397;;;;java1254;robson-1992
-dheweke, piyambakipun, panjenenganipun;;3sg_n_s;3rd Person Singular Neuter;31398;;;;java1254;robson-1992
-dheweke, piyambakipun, panjenenganipun;;3sg_n_o;3rd Person Singular Neuter;31399;;;;java1254;robson-1992
--ne, -nipun;;3sg_n_p;3rd Person Singular Neuter;31400;;;;java1254;robson-1992
--e, -ipun;;3sg_n_p;3rd Person Singular Neuter;31401;;;;java1254;robson-1992
-dheweke;;3du_m_a;3rd Person Dual Masculine;31402;;;;java1254;robson-1992
-dheweke;;3du_m_s;3rd Person Dual Masculine;31403;;;;java1254;robson-1992
-dheweke;;3du_m_o;3rd Person Dual Masculine;31404;;;;java1254;robson-1992
--ne;;3du_m_p;3rd Person Dual Masculine;31405;;;;java1254;robson-1992
--e;;3du_m_p;3rd Person Dual Masculine;31406;;;;java1254;robson-1992
-dheweke;;3du_f_a;3rd Person Dual Feminine;31407;;;;java1254;robson-1992
-dheweke;;3du_f_s;3rd Person Dual Feminine;31408;;;;java1254;robson-1992
-dheweke;;3du_f_o;3rd Person Dual Feminine;31409;;;;java1254;robson-1992
--ne;;3du_f_p;3rd Person Dual Feminine;31410;;;;java1254;robson-1992
--e;;3du_f_p;3rd Person Dual Feminine;31411;;;;java1254;robson-1992
-dheweke;;3du_n_a;3rd Person Dual Neuter;31412;;;;java1254;robson-1992
-dheweke;;3du_n_s;3rd Person Dual Neuter;31413;;;;java1254;robson-1992
-dheweke;;3du_n_o;3rd Person Dual Neuter;31414;;;;java1254;robson-1992
--ne;;3du_n_p;3rd Person Dual Neuter;31415;;;;java1254;robson-1992
--e;;3du_n_p;3rd Person Dual Neuter;31416;;;;java1254;robson-1992
-dheweke;;3pl_m_a;3rd Person Plural Masculine;31417;;;;java1254;robson-1992
-dheweke;;3pl_m_s;3rd Person Plural Masculine;31418;;;;java1254;robson-1992
-dheweke;;3pl_m_o;3rd Person Plural Masculine;31419;;;;java1254;robson-1992
--ne;;3pl_m_p;3rd Person Plural Masculine;31420;;;;java1254;robson-1992
--e;;3pl_m_p;3rd Person Plural Masculine;31421;;;;java1254;robson-1992
-dheweke;;3pl_f_a;3rd Person Plural Feminine;31422;;;;java1254;robson-1992
-dheweke;;3pl_f_s;3rd Person Plural Feminine;31423;;;;java1254;robson-1992
-dheweke;;3pl_f_o;3rd Person Plural Feminine;31424;;;;java1254;robson-1992
--ne;;3pl_f_p;3rd Person Plural Feminine;31425;;;;java1254;robson-1992
--e;;3pl_f_p;3rd Person Plural Feminine;31426;;;;java1254;robson-1992
-dheweke;;3pl_n_a;3rd Person Plural Neuter;31427;;;;java1254;robson-1992
-dheweke;;3pl_n_s;3rd Person Plural Neuter;31428;;;;java1254;robson-1992
-dheweke;;3pl_n_o;3rd Person Plural Neuter;31429;;;;java1254;robson-1992
--ne;;3pl_n_p;3rd Person Plural Neuter;31430;;;;java1254;robson-1992
--e;;3pl_n_p;3rd Person Plural Neuter;31431;;;;java1254;robson-1992
-dheweke, piyambakipun, panjenenganipun;;3d-a;3rd Person Dual;36319;;;;java1254;robson-1992
-dheweke, piyambakipun, panjenenganipun;;3d-s;3rd Person Dual;36539;;;;java1254;robson-1992
-dheweke, piyambakipun, panjenenganipun;;3d-o;3rd Person Dual;36767;;;;java1254;robson-1992
--e, -ipun;;3d-p;3rd Person Dual;36975;;;;java1254;robson-1992
--ne, -nipun;;3d-p;3rd Person Dual;36976;;;;java1254;robson-1992
-dheweke, piyambakipun, panjenenganipun;;3p-a;3rd Person Plural;37200;;;;java1254;robson-1992
-dheweke, piyambakipun, panjenenganipun;;3p-s;3rd Person Plural;37420;;;;java1254;robson-1992
-dheweke, piyambakipun, panjenenganipun;;3p-o;3rd Person Plural;37647;;;;java1254;robson-1992
--e, -ipun;;3p-p;3rd Person Plural;37854;;;;java1254;robson-1992
--ne, -nipun;;3p-p;3rd Person Plural;37855;;;;java1254;robson-1992
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+"aku, kula, dalem",,1sg_a,1st (excl) Person Singular,31355,,,,java1254,robson-1992
+"aku, kula, dalem",,1sg_s,1st (excl) Person Singular,31356,,,,java1254,robson-1992
+"aku, kula, dalem",,1sg_o,1st (excl) Person Singular,31357,,,,java1254,robson-1992
+-ku,,1sg_p,1st (excl) Person Singular,31358,,,,java1254,robson-1992
+"awake dhewe, kita",,1du_a,1st (excl) Person Dual,31359,,,,java1254,robson-1992
+"awake dhewe, kita",,1du_s,1st (excl) Person Dual,31360,,,,java1254,robson-1992
+"awake dhewe, kita",,1du_o,1st (excl) Person Dual,31361,,,,java1254,robson-1992
+awake dhewe,,1du_p,1st (excl) Person Dual,31362,,,,java1254,robson-1992
+"awake dhewe, kita",,1pl_a,1st (excl) Person Plural,31363,,,,java1254,robson-1992
+"awake dhewe, kita",,1pl_s,1st (excl) Person Plural,31364,,,,java1254,robson-1992
+"awake dhewe, kita",,1pl_o,1st (excl) Person Plural,31365,,,,java1254,robson-1992
+awake dhewe,,1pl_p,1st (excl) Person Plural,31366,,,,java1254,robson-1992
+"awake dhewe, kita",,12du_a,1st (incl) Person Dual,31367,,,,java1254,robson-1992
+"awake dhewe, kita",,12du_s,1st (incl) Person Dual,31368,,,,java1254,robson-1992
+"awake dhewe, kita",,12du_o,1st (incl) Person Dual,31369,,,,java1254,robson-1992
+awake dhewe,,12du_p,1st (incl) Person Dual,31370,,,,java1254,robson-1992
+"awake dhewe, kita",,12pl_a,1st (incl) Person Plural,31371,,,,java1254,robson-1992
+"awake dhewe, kita",,12pl_s,1st (incl) Person Plural,31372,,,,java1254,robson-1992
+"awake dhewe, kita",,12pl_o,1st (incl) Person Plural,31373,,,,java1254,robson-1992
+awake dhewe,,12pl_p,1st (incl) Person Plural,31374,,,,java1254,robson-1992
+"kowe, sampeyan, panjenengan",,2sg_a,2nd Person Singular,31375,,,,java1254,robson-1992
+"kowe, sampeyan, panjenengan",,2sg_s,2nd Person Singular,31376,,,,java1254,robson-1992
+"kowe, sampeyan, panjenengan",,2sg_o,2nd Person Singular,31377,,,,java1254,robson-1992
+-mu,,2sg_p,2nd Person Singular,31378,,,,java1254,robson-1992
+"kowe, sampeyan, panjenengan",,2du_a,2nd Person Dual,31379,,,,java1254,robson-1992
+"kowe, sampeyan, panjenengan",,2du_s,2nd Person Dual,31380,,,,java1254,robson-1992
+"kowe, sampeyan, panjenengan",,2du_o,2nd Person Dual,31381,,,,java1254,robson-1992
+-mu,,2du_p,2nd Person Dual,31382,,,,java1254,robson-1992
+"kowe, sampeyan, panjenengan",,2pl_a,2nd Person Plural,31383,,,,java1254,robson-1992
+"kowe, sampeyan, panjenengan",,2pl_s,2nd Person Plural,31384,,,,java1254,robson-1992
+"kowe, sampeyan, panjenengan",,2pl_o,2nd Person Plural,31385,,,,java1254,robson-1992
+-mu,,2pl_p,2nd Person Plural,31386,,,,java1254,robson-1992
+"dheweke, piyambakipun, panjenenganipun",,3sg_m_a,3rd Person Singular Masculine,31387,,,,java1254,robson-1992
+"dheweke, piyambakipun, panjenenganipun",,3sg_m_s,3rd Person Singular Masculine,31388,,,,java1254,robson-1992
+"dheweke, piyambakipun, panjenenganipun",,3sg_m_o,3rd Person Singular Masculine,31389,,,,java1254,robson-1992
+"-ne, -nipun",,3sg_m_p,3rd Person Singular Masculine,31390,,-e and -ipun are affixed to words ending in a consonant. -ne and -nipun are affixed to words ending in a vowel.,,java1254,robson-1992
+"-e, -ipun",,3sg_m_p,3rd Person Singular Masculine,31391,,,,java1254,robson-1992
+dheweke,,3sg_f_a,3rd Person Singular Feminine,31392,,,,java1254,robson-1992
+dheweke,,3sg_f_s,3rd Person Singular Feminine,31393,,,,java1254,robson-1992
+dheweke,,3sg_f_o,3rd Person Singular Feminine,31394,,,,java1254,robson-1992
+-ne,,3sg_f_p,3rd Person Singular Feminine,31395,,,,java1254,robson-1992
+-e,,3sg_f_p,3rd Person Singular Feminine,31396,,,,java1254,robson-1992
+"dheweke, piyambakipun, panjenenganipun",,3sg_n_a,3rd Person Singular Neuter,31397,,,,java1254,robson-1992
+"dheweke, piyambakipun, panjenenganipun",,3sg_n_s,3rd Person Singular Neuter,31398,,,,java1254,robson-1992
+"dheweke, piyambakipun, panjenenganipun",,3sg_n_o,3rd Person Singular Neuter,31399,,,,java1254,robson-1992
+"-ne, -nipun",,3sg_n_p,3rd Person Singular Neuter,31400,,,,java1254,robson-1992
+"-e, -ipun",,3sg_n_p,3rd Person Singular Neuter,31401,,,,java1254,robson-1992
+dheweke,,3du_m_a,3rd Person Dual Masculine,31402,,,,java1254,robson-1992
+dheweke,,3du_m_s,3rd Person Dual Masculine,31403,,,,java1254,robson-1992
+dheweke,,3du_m_o,3rd Person Dual Masculine,31404,,,,java1254,robson-1992
+-ne,,3du_m_p,3rd Person Dual Masculine,31405,,,,java1254,robson-1992
+-e,,3du_m_p,3rd Person Dual Masculine,31406,,,,java1254,robson-1992
+dheweke,,3du_f_a,3rd Person Dual Feminine,31407,,,,java1254,robson-1992
+dheweke,,3du_f_s,3rd Person Dual Feminine,31408,,,,java1254,robson-1992
+dheweke,,3du_f_o,3rd Person Dual Feminine,31409,,,,java1254,robson-1992
+-ne,,3du_f_p,3rd Person Dual Feminine,31410,,,,java1254,robson-1992
+-e,,3du_f_p,3rd Person Dual Feminine,31411,,,,java1254,robson-1992
+dheweke,,3du_n_a,3rd Person Dual Neuter,31412,,,,java1254,robson-1992
+dheweke,,3du_n_s,3rd Person Dual Neuter,31413,,,,java1254,robson-1992
+dheweke,,3du_n_o,3rd Person Dual Neuter,31414,,,,java1254,robson-1992
+-ne,,3du_n_p,3rd Person Dual Neuter,31415,,,,java1254,robson-1992
+-e,,3du_n_p,3rd Person Dual Neuter,31416,,,,java1254,robson-1992
+dheweke,,3pl_m_a,3rd Person Plural Masculine,31417,,,,java1254,robson-1992
+dheweke,,3pl_m_s,3rd Person Plural Masculine,31418,,,,java1254,robson-1992
+dheweke,,3pl_m_o,3rd Person Plural Masculine,31419,,,,java1254,robson-1992
+-ne,,3pl_m_p,3rd Person Plural Masculine,31420,,,,java1254,robson-1992
+-e,,3pl_m_p,3rd Person Plural Masculine,31421,,,,java1254,robson-1992
+dheweke,,3pl_f_a,3rd Person Plural Feminine,31422,,,,java1254,robson-1992
+dheweke,,3pl_f_s,3rd Person Plural Feminine,31423,,,,java1254,robson-1992
+dheweke,,3pl_f_o,3rd Person Plural Feminine,31424,,,,java1254,robson-1992
+-ne,,3pl_f_p,3rd Person Plural Feminine,31425,,,,java1254,robson-1992
+-e,,3pl_f_p,3rd Person Plural Feminine,31426,,,,java1254,robson-1992
+dheweke,,3pl_n_a,3rd Person Plural Neuter,31427,,,,java1254,robson-1992
+dheweke,,3pl_n_s,3rd Person Plural Neuter,31428,,,,java1254,robson-1992
+dheweke,,3pl_n_o,3rd Person Plural Neuter,31429,,,,java1254,robson-1992
+-ne,,3pl_n_p,3rd Person Plural Neuter,31430,,,,java1254,robson-1992
+-e,,3pl_n_p,3rd Person Plural Neuter,31431,,,,java1254,robson-1992
+"dheweke, piyambakipun, panjenenganipun",,3d-a,3rd Person Dual,36319,,,,java1254,robson-1992
+"dheweke, piyambakipun, panjenenganipun",,3d-s,3rd Person Dual,36539,,,,java1254,robson-1992
+"dheweke, piyambakipun, panjenenganipun",,3d-o,3rd Person Dual,36767,,,,java1254,robson-1992
+"-e, -ipun",,3d-p,3rd Person Dual,36975,,,,java1254,robson-1992
+"-ne, -nipun",,3d-p,3rd Person Dual,36976,,,,java1254,robson-1992
+"dheweke, piyambakipun, panjenenganipun",,3p-a,3rd Person Plural,37200,,,,java1254,robson-1992
+"dheweke, piyambakipun, panjenenganipun",,3p-s,3rd Person Plural,37420,,,,java1254,robson-1992
+"dheweke, piyambakipun, panjenenganipun",,3p-o,3rd Person Plural,37647,,,,java1254,robson-1992
+"-e, -ipun",,3p-p,3rd Person Plural,37854,,,,java1254,robson-1992
+"-ne, -nipun",,3p-p,3rd Person Plural,37855,,,,java1254,robson-1992

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-yau ;;1sg_a;1st (excl) Person Singular;50434;;;;urav1235;crowley-1999
-yau ;;1sg_s;1st (excl) Person Singular;50433;;;;urav1235;crowley-1999
-yau ;;1sg_o;1st (excl) Person Singular;50432;;;;urav1235;crowley-1999
-aryau ;;1sg_p;1st (excl) Person Singular;50431;;The form /arau/ is also listed (Crowley 1999:128). ;;urav1235;crowley-1999
-qim;;1du_a;1st (excl) Person Dual;50430;;;;urav1235;crowley-1999
-qim;;1du_s;1st (excl) Person Dual;50429;;;;urav1235;crowley-1999
-qim;;1du_o;1st (excl) Person Dual;50428;;;;urav1235;crowley-1999
-arkim ;;1du_p;1st (excl) Person Dual;50427;;;;urav1235;crowley-1999
-qim;;1pl_a;1st (excl) Person Plural;50426;;;;urav1235;crowley-1999
-qim;;1pl_s;1st (excl) Person Plural;50425;;;;urav1235;crowley-1999
-qim;;1pl_o;1st (excl) Person Plural;50424;;;;urav1235;crowley-1999
-arkim ;;1pl_p;1st (excl) Person Plural;50423;;;;urav1235;crowley-1999
-qis;;12du_a;1st (incl) Person Dual;50422;;;;urav1235;crowley-1999
-qis;;12du_s;1st (incl) Person Dual;50421;;;;urav1235;crowley-1999
-qis;;12du_o;1st (incl) Person Dual;50420;;;;urav1235;crowley-1999
-arkis;;12du_p;1st (incl) Person Dual;50419;;;;urav1235;crowley-1999
-qis;;12pl_a;1st (incl) Person Plural;50418;;;;urav1235;crowley-1999
-qis;;12pl_s;1st (incl) Person Plural;50417;;;;urav1235;crowley-1999
-qis;;12pl_o;1st (incl) Person Plural;50416;;;;urav1235;crowley-1999
-arkis;;12pl_p;1st (incl) Person Plural;50415;;;;urav1235;crowley-1999
-qa;;2sg_a;2nd Person Singular;50414;;;;urav1235;crowley-1999
-qa;;2sg_s;2nd Person Singular;50413;;;;urav1235;crowley-1999
-qa;;2sg_o;2nd Person Singular;50412;;;;urav1235;crowley-1999
-arka;;2sg_p;2nd Person Singular;50411;;;;urav1235;crowley-1999
-gimi;;2du_a;2nd Person Dual;50410;;;;urav1235;crowley-1999
-gimi;;2du_s;2nd Person Dual;50409;;;;urav1235;crowley-1999
-gimi;;2du_o;2nd Person Dual;50408;;;;urav1235;crowley-1999
-argimi;;2du_p;2nd Person Dual;50407;;;;urav1235;crowley-1999
-gimi;;2pl_a;2nd Person Plural;50406;;;;urav1235;crowley-1999
-gimi;;2pl_s;2nd Person Plural;50405;;;;urav1235;crowley-1999
-gimi;;2pl_o;2nd Person Plural;50404;;;;urav1235;crowley-1999
-argimi;;2pl_p;2nd Person Plural;50403;;;;urav1235;crowley-1999
-iyi;;3sg_m_a;3rd Person Singular Masculine;50402;;;;urav1235;crowley-1999
-iyi;;3sg_m_s;3rd Person Singular Masculine;50401;;;;urav1235;crowley-1999
-iyi;;3sg_m_o;3rd Person Singular Masculine;50400;;;;urav1235;crowley-1999
-aryi ;;3sg_m_p;3rd Person Singular Masculine;50399;;;;urav1235;crowley-1999
-iyi;;3sg_n_a;3rd Person Singular Neuter;50398;;;;urav1235;crowley-1999
-iyi;;3sg_n_s;3rd Person Singular Neuter;50397;;;;urav1235;crowley-1999
-iyi;;3sg_n_o;3rd Person Singular Neuter;50396;;;;urav1235;crowley-1999
-aryi ;;3sg_n_p;3rd Person Singular Neuter;50395;;;;urav1235;crowley-1999
-leil;;3d-a;3rd Person Dual;50394;;;;urav1235;crowley-1999
-leil;;3d-s;3rd Person Dual;50393;;;;urav1235;crowley-1999
-leil;;3d-o;3rd Person Dual;50392;;;;urav1235;crowley-1999
-ahleil;;3d-p;3rd Person Dual;50391;;;;urav1235;crowley-1999
-leil;;3p-a;3rd Person Plural;50390;;;;urav1235;crowley-1999
-leil;;3p-s;3rd Person Plural;50389;;;;urav1235;crowley-1999
-leil;;3p-o;3rd Person Plural;50388;;;;urav1235;crowley-1999
-ahleil;;3p-p;3rd Person Plural;50387;;;;urav1235;crowley-1999
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+yau,,1sg_a,1st (excl) Person Singular,50434,,,,urav1235,crowley-1999
+yau,,1sg_s,1st (excl) Person Singular,50433,,,,urav1235,crowley-1999
+yau,,1sg_o,1st (excl) Person Singular,50432,,,,urav1235,crowley-1999
+aryau,,1sg_p,1st (excl) Person Singular,50431,,The form /arau/ is also listed (Crowley 1999:128).,,urav1235,crowley-1999
+qim,,1du_a,1st (excl) Person Dual,50430,,,,urav1235,crowley-1999
+qim,,1du_s,1st (excl) Person Dual,50429,,,,urav1235,crowley-1999
+qim,,1du_o,1st (excl) Person Dual,50428,,,,urav1235,crowley-1999
+arkim,,1du_p,1st (excl) Person Dual,50427,,,,urav1235,crowley-1999
+qim,,1pl_a,1st (excl) Person Plural,50426,,,,urav1235,crowley-1999
+qim,,1pl_s,1st (excl) Person Plural,50425,,,,urav1235,crowley-1999
+qim,,1pl_o,1st (excl) Person Plural,50424,,,,urav1235,crowley-1999
+arkim,,1pl_p,1st (excl) Person Plural,50423,,,,urav1235,crowley-1999
+qis,,12du_a,1st (incl) Person Dual,50422,,,,urav1235,crowley-1999
+qis,,12du_s,1st (incl) Person Dual,50421,,,,urav1235,crowley-1999
+qis,,12du_o,1st (incl) Person Dual,50420,,,,urav1235,crowley-1999
+arkis,,12du_p,1st (incl) Person Dual,50419,,,,urav1235,crowley-1999
+qis,,12pl_a,1st (incl) Person Plural,50418,,,,urav1235,crowley-1999
+qis,,12pl_s,1st (incl) Person Plural,50417,,,,urav1235,crowley-1999
+qis,,12pl_o,1st (incl) Person Plural,50416,,,,urav1235,crowley-1999
+arkis,,12pl_p,1st (incl) Person Plural,50415,,,,urav1235,crowley-1999
+qa,,2sg_a,2nd Person Singular,50414,,,,urav1235,crowley-1999
+qa,,2sg_s,2nd Person Singular,50413,,,,urav1235,crowley-1999
+qa,,2sg_o,2nd Person Singular,50412,,,,urav1235,crowley-1999
+arka,,2sg_p,2nd Person Singular,50411,,,,urav1235,crowley-1999
+gimi,,2du_a,2nd Person Dual,50410,,,,urav1235,crowley-1999
+gimi,,2du_s,2nd Person Dual,50409,,,,urav1235,crowley-1999
+gimi,,2du_o,2nd Person Dual,50408,,,,urav1235,crowley-1999
+argimi,,2du_p,2nd Person Dual,50407,,,,urav1235,crowley-1999
+gimi,,2pl_a,2nd Person Plural,50406,,,,urav1235,crowley-1999
+gimi,,2pl_s,2nd Person Plural,50405,,,,urav1235,crowley-1999
+gimi,,2pl_o,2nd Person Plural,50404,,,,urav1235,crowley-1999
+argimi,,2pl_p,2nd Person Plural,50403,,,,urav1235,crowley-1999
+iyi,,3sg_m_a,3rd Person Singular Masculine,50402,,,,urav1235,crowley-1999
+iyi,,3sg_m_s,3rd Person Singular Masculine,50401,,,,urav1235,crowley-1999
+iyi,,3sg_m_o,3rd Person Singular Masculine,50400,,,,urav1235,crowley-1999
+aryi,,3sg_m_p,3rd Person Singular Masculine,50399,,,,urav1235,crowley-1999
+iyi,,3sg_n_a,3rd Person Singular Neuter,50398,,,,urav1235,crowley-1999
+iyi,,3sg_n_s,3rd Person Singular Neuter,50397,,,,urav1235,crowley-1999
+iyi,,3sg_n_o,3rd Person Singular Neuter,50396,,,,urav1235,crowley-1999
+aryi,,3sg_n_p,3rd Person Singular Neuter,50395,,,,urav1235,crowley-1999
+leil,,3d-a,3rd Person Dual,50394,,,,urav1235,crowley-1999
+leil,,3d-s,3rd Person Dual,50393,,,,urav1235,crowley-1999
+leil,,3d-o,3rd Person Dual,50392,,,,urav1235,crowley-1999
+ahleil,,3d-p,3rd Person Dual,50391,,,,urav1235,crowley-1999
+leil,,3p-a,3rd Person Plural,50390,,,,urav1235,crowley-1999
+leil,,3p-s,3rd Person Plural,50389,,,,urav1235,crowley-1999
+leil,,3p-o,3rd Person Plural,50388,,,,urav1235,crowley-1999
+ahleil,,3p-p,3rd Person Plural,50387,,,,urav1235,crowley-1999

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mǐ;;1sg_a;1st (excl) Person Singular;57392;;;;jams1239;heath-2008
-mǐ;;1sg_s;1st (excl) Person Singular;57391;;;;jams1239;heath-2008
-mí;;1sg_o;1st (excl) Person Singular;57390;;;;jams1239;heath-2008
-má;;1sg_p;1st (excl) Person Singular;57389;;;;jams1239;heath-2008
-ɛ̀mɛ̀;;1du_a;1st (excl) Person Dual;57388;;;;jams1239;heath-2008
-ɛ̀mɛ̀;;1du_s;1st (excl) Person Dual;57387;;;;jams1239;heath-2008
-ɛ́mɛ́;;1du_o;1st (excl) Person Dual;57386;;;;jams1239;heath-2008
-ɛ̀mɛ̀;;1du_p;1st (excl) Person Dual;57385;;;;jams1239;heath-2008
-ɛ̀mɛ̀;;1pl_a;1st (excl) Person Plural;57384;;;;jams1239;heath-2008
-ɛ̀mɛ̀;;1pl_s;1st (excl) Person Plural;57383;;;;jams1239;heath-2008
-ɛ́mɛ́;;1pl_o;1st (excl) Person Plural;57382;;;;jams1239;heath-2008
-ɛ̀mɛ̀;;1pl_p;1st (excl) Person Plural;57381;;;;jams1239;heath-2008
-ɛ̀mɛ̀;;12du_a;1st (incl) Person Dual;57380;;;;jams1239;heath-2008
-ɛ̀mɛ̀;;12du_s;1st (incl) Person Dual;57379;;;;jams1239;heath-2008
-ɛ́mɛ́;;12du_o;1st (incl) Person Dual;57378;;;;jams1239;heath-2008
-ɛ̀mɛ̀;;12du_p;1st (incl) Person Dual;57377;;;;jams1239;heath-2008
-ɛ̀mɛ̀;;12pl_a;1st (incl) Person Plural;57376;;;;jams1239;heath-2008
-ɛ̀mɛ̀;;12pl_s;1st (incl) Person Plural;57375;;;;jams1239;heath-2008
-ɛ́mɛ́;;12pl_o;1st (incl) Person Plural;57374;;;;jams1239;heath-2008
-ɛ̀mɛ̀;;12pl_p;1st (incl) Person Plural;57373;;;;jams1239;heath-2008
-ù;;2sg_a;2nd Person Singular;57372;;;;jams1239;heath-2008
-ù;;2sg_s;2nd Person Singular;57371;;;;jams1239;heath-2008
-ú;;2sg_o;2nd Person Singular;57370;;;;jams1239;heath-2008
-á;;2sg_p;2nd Person Singular;57369;;;;jams1239;heath-2008
-è;;2du_a;2nd Person Dual;57368;;;;jams1239;heath-2008
-è;;2du_s;2nd Person Dual;57367;;;;jams1239;heath-2008
-é;;2du_o;2nd Person Dual;57366;;;;jams1239;heath-2008
-é;;2du_p;2nd Person Dual;57365;;;;jams1239;heath-2008
-è;;2pl_a;2nd Person Plural;57364;;;;jams1239;heath-2008
-è;;2pl_s;2nd Person Plural;57363;;;;jams1239;heath-2008
-é;;2pl_o;2nd Person Plural;57362;;;;jams1239;heath-2008
-é;;2pl_p;2nd Person Plural;57361;;;;jams1239;heath-2008
-wò;;3sg_m_a;3rd Person Singular Masculine;57360;;;;jams1239;heath-2008
-wò;;3sg_m_s;3rd Person Singular Masculine;57359;;;;jams1239;heath-2008
-wó;;3sg_m_o;3rd Person Singular Masculine;57358;;;;jams1239;heath-2008
-wó;;3sg_m_p;3rd Person Singular Masculine;57357;;;;jams1239;heath-2008
-ko;;3sg_n_a;3rd Person Singular Neuter;57356;;;;jams1239;heath-2008
-ko;;3sg_n_s;3rd Person Singular Neuter;57355;;;;jams1239;heath-2008
-kó;;3sg_n_o;3rd Person Singular Neuter;57354;;;;jams1239;heath-2008
-kó;;3sg_n_p;3rd Person Singular Neuter;57353;;;;jams1239;heath-2008
-bè;;3d-a;3rd Person Dual;57352;;;;jams1239;heath-2008
-bè;;3d-s;3rd Person Dual;57351;;;;jams1239;heath-2008
-bé;;3d-o;3rd Person Dual;57350;;;;jams1239;heath-2008
-bé;;3d-p;3rd Person Dual;57349;;;;jams1239;heath-2008
-bè;;3p-a;3rd Person Plural;57348;;;;jams1239;heath-2008
-bè;;3p-s;3rd Person Plural;57347;;;;jams1239;heath-2008
-bé;;3p-o;3rd Person Plural;57346;;;;jams1239;heath-2008
-bé;;3p-p;3rd Person Plural;57345;;;;jams1239;heath-2008
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mǐ,,1sg_a,1st (excl) Person Singular,57392,,,,jams1239,heath-2008
+mǐ,,1sg_s,1st (excl) Person Singular,57391,,,,jams1239,heath-2008
+mí,,1sg_o,1st (excl) Person Singular,57390,,,,jams1239,heath-2008
+má,,1sg_p,1st (excl) Person Singular,57389,,,,jams1239,heath-2008
+ɛ̀mɛ̀,,1du_a,1st (excl) Person Dual,57388,,,,jams1239,heath-2008
+ɛ̀mɛ̀,,1du_s,1st (excl) Person Dual,57387,,,,jams1239,heath-2008
+ɛ́mɛ́,,1du_o,1st (excl) Person Dual,57386,,,,jams1239,heath-2008
+ɛ̀mɛ̀,,1du_p,1st (excl) Person Dual,57385,,,,jams1239,heath-2008
+ɛ̀mɛ̀,,1pl_a,1st (excl) Person Plural,57384,,,,jams1239,heath-2008
+ɛ̀mɛ̀,,1pl_s,1st (excl) Person Plural,57383,,,,jams1239,heath-2008
+ɛ́mɛ́,,1pl_o,1st (excl) Person Plural,57382,,,,jams1239,heath-2008
+ɛ̀mɛ̀,,1pl_p,1st (excl) Person Plural,57381,,,,jams1239,heath-2008
+ɛ̀mɛ̀,,12du_a,1st (incl) Person Dual,57380,,,,jams1239,heath-2008
+ɛ̀mɛ̀,,12du_s,1st (incl) Person Dual,57379,,,,jams1239,heath-2008
+ɛ́mɛ́,,12du_o,1st (incl) Person Dual,57378,,,,jams1239,heath-2008
+ɛ̀mɛ̀,,12du_p,1st (incl) Person Dual,57377,,,,jams1239,heath-2008
+ɛ̀mɛ̀,,12pl_a,1st (incl) Person Plural,57376,,,,jams1239,heath-2008
+ɛ̀mɛ̀,,12pl_s,1st (incl) Person Plural,57375,,,,jams1239,heath-2008
+ɛ́mɛ́,,12pl_o,1st (incl) Person Plural,57374,,,,jams1239,heath-2008
+ɛ̀mɛ̀,,12pl_p,1st (incl) Person Plural,57373,,,,jams1239,heath-2008
+ù,,2sg_a,2nd Person Singular,57372,,,,jams1239,heath-2008
+ù,,2sg_s,2nd Person Singular,57371,,,,jams1239,heath-2008
+ú,,2sg_o,2nd Person Singular,57370,,,,jams1239,heath-2008
+á,,2sg_p,2nd Person Singular,57369,,,,jams1239,heath-2008
+è,,2du_a,2nd Person Dual,57368,,,,jams1239,heath-2008
+è,,2du_s,2nd Person Dual,57367,,,,jams1239,heath-2008
+é,,2du_o,2nd Person Dual,57366,,,,jams1239,heath-2008
+é,,2du_p,2nd Person Dual,57365,,,,jams1239,heath-2008
+è,,2pl_a,2nd Person Plural,57364,,,,jams1239,heath-2008
+è,,2pl_s,2nd Person Plural,57363,,,,jams1239,heath-2008
+é,,2pl_o,2nd Person Plural,57362,,,,jams1239,heath-2008
+é,,2pl_p,2nd Person Plural,57361,,,,jams1239,heath-2008
+wò,,3sg_m_a,3rd Person Singular Masculine,57360,,,,jams1239,heath-2008
+wò,,3sg_m_s,3rd Person Singular Masculine,57359,,,,jams1239,heath-2008
+wó,,3sg_m_o,3rd Person Singular Masculine,57358,,,,jams1239,heath-2008
+wó,,3sg_m_p,3rd Person Singular Masculine,57357,,,,jams1239,heath-2008
+ko,,3sg_n_a,3rd Person Singular Neuter,57356,,,,jams1239,heath-2008
+ko,,3sg_n_s,3rd Person Singular Neuter,57355,,,,jams1239,heath-2008
+kó,,3sg_n_o,3rd Person Singular Neuter,57354,,,,jams1239,heath-2008
+kó,,3sg_n_p,3rd Person Singular Neuter,57353,,,,jams1239,heath-2008
+bè,,3d-a,3rd Person Dual,57352,,,,jams1239,heath-2008
+bè,,3d-s,3rd Person Dual,57351,,,,jams1239,heath-2008
+bé,,3d-o,3rd Person Dual,57350,,,,jams1239,heath-2008
+bé,,3d-p,3rd Person Dual,57349,,,,jams1239,heath-2008
+bè,,3p-a,3rd Person Plural,57348,,,,jams1239,heath-2008
+bè,,3p-s,3rd Person Plural,57347,,,,jams1239,heath-2008
+bé,,3p-o,3rd Person Plural,57346,,,,jams1239,heath-2008
+bé,,3p-p,3rd Person Plural,57345,,,,jams1239,heath-2008

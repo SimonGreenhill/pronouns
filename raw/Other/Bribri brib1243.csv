@@ -1,45 +1,45 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-yeʔ=rʊ, yɔ;;1sg_a;1st (excl) Person Singular;51915;;;;brib1243;constenla-et-al-1979
-yeʔ;;1sg_s;1st (excl) Person Singular;51914;;;;brib1243;constenla-et-al-1979
-yeʔ;;1sg_o;1st (excl) Person Singular;51913;;;;brib1243;constenla-et-al-1979
-yeʔ;;1sg_p;1st (excl) Person Singular;51912;;;;brib1243;constenla-et-al-1979
-saʔ=dɔr;;1du_a;1st (excl) Person Dual;51911;;;;brib1243;constenla-et-al-1979
-saʔ;;1du_s;1st (excl) Person Dual;51910;;;;brib1243;constenla-et-al-1979
-saʔ;;1du_o;1st (excl) Person Dual;51909;;;;brib1243;constenla-et-al-1979
-saʔ;;1du_p;1st (excl) Person Dual;51908;;;;brib1243;constenla-et-al-1979
-saʔ=dɔr;;1pl_a;1st (excl) Person Plural;51907;;;;brib1243;constenla-et-al-1979
-saʔ;;1pl_s;1st (excl) Person Plural;51906;;;;brib1243;constenla-et-al-1979
-saʔ;;1pl_o;1st (excl) Person Plural;51905;;;;brib1243;constenla-et-al-1979
-saʔ;;1pl_p;1st (excl) Person Plural;51904;;;;brib1243;constenla-et-al-1979
-seʔ=dɔr, sɔʔ;;12du_a;1st (incl) Person Dual;51903;;;;brib1243;constenla-et-al-1979
-seʔ;;12du_s;1st (incl) Person Dual;51902;;;;brib1243;constenla-et-al-1979
-seʔ;;12du_o;1st (incl) Person Dual;51901;;;;brib1243;constenla-et-al-1979
-seʔ;;12du_p;1st (incl) Person Dual;51900;;;;brib1243;constenla-et-al-1979
-seʔ=dɔr, sɔʔ;;12pl_a;1st (incl) Person Plural;51899;;;;brib1243;constenla-et-al-1979
-seʔ;;12pl_s;1st (incl) Person Plural;51898;;;;brib1243;constenla-et-al-1979
-seʔ;;12pl_o;1st (incl) Person Plural;51897;;;;brib1243;constenla-et-al-1979
-seʔ;;12pl_p;1st (incl) Person Plural;51896;;;;brib1243;constenla-et-al-1979
-beʔ=rʊ, bɔ;;2sg_a;2nd Person Singular;51895;;;;brib1243;constenla-et-al-1979
-beʔ;;2sg_s;2nd Person Singular;51894;;;;brib1243;constenla-et-al-1979
-beʔ;;2sg_o;2nd Person Singular;51893;;;;brib1243;constenla-et-al-1979
-beʔ;;2sg_p;2nd Person Singular;51892;;;;brib1243;constenla-et-al-1979
-aʔ=rʊ;;2du_a;2nd Person Dual;51891;;;;brib1243;constenla-et-al-1979
-aʔ;;2du_s;2nd Person Dual;51890;;;;brib1243;constenla-et-al-1979
-aʔ;;2du_o;2nd Person Dual;51889;;;;brib1243;constenla-et-al-1979
-aʔ;;2du_p;2nd Person Dual;51888;;;;brib1243;constenla-et-al-1979
-aʔ=rʊ;;2pl_a;2nd Person Plural;51887;;;;brib1243;constenla-et-al-1979
-aʔ;;2pl_s;2nd Person Plural;51886;;;;brib1243;constenla-et-al-1979
-aʔ;;2pl_o;2nd Person Plural;51885;;;;brib1243;constenla-et-al-1979
-aʔ;;2pl_p;2nd Person Plural;51884;;;;brib1243;constenla-et-al-1979
-ieʔ=rʊ;;3sg_m_a;3rd Person Singular Masculine;51883;;;;brib1243;constenla-et-al-1979
-ieʔ;;3sg_m_s;3rd Person Singular Masculine;51882;;;;brib1243;constenla-et-al-1979
-ieʔ;;3sg_m_o;3rd Person Singular Masculine;51881;;;;brib1243;constenla-et-al-1979
-ieʔ;;3sg_m_p;3rd Person Singular Masculine;51880;;;;brib1243;constenla-et-al-1979
-ieʔpa=rʊ, irirdak;;3d-a;3rd Person Dual;51879;;;;brib1243;constenla-et-al-1979
-ieʔpa;;3d-s;3rd Person Dual;51878;;;;brib1243;constenla-et-al-1979
-ieʔpa;;3d-o;3rd Person Dual;51877;;;;brib1243;constenla-et-al-1979
-ieʔpa;;3d-p;3rd Person Dual;51876;;;;brib1243;constenla-et-al-1979
-ieʔpa=rʊ, irirdak;;3p-a;3rd Person Plural;51875;;;;brib1243;constenla-et-al-1979
-ieʔpa;;3p-s;3rd Person Plural;51874;;;;brib1243;constenla-et-al-1979
-ieʔpa;;3p-o;3rd Person Plural;51873;;;;brib1243;constenla-et-al-1979
-ieʔpa;;3p-p;3rd Person Plural;51872;;;;brib1243;constenla-et-al-1979
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+"yeʔ=rʊ, yɔ",,1sg_a,1st (excl) Person Singular,51915,,,,brib1243,constenla-et-al-1979
+yeʔ,,1sg_s,1st (excl) Person Singular,51914,,,,brib1243,constenla-et-al-1979
+yeʔ,,1sg_o,1st (excl) Person Singular,51913,,,,brib1243,constenla-et-al-1979
+yeʔ,,1sg_p,1st (excl) Person Singular,51912,,,,brib1243,constenla-et-al-1979
+saʔ=dɔr,,1du_a,1st (excl) Person Dual,51911,,,,brib1243,constenla-et-al-1979
+saʔ,,1du_s,1st (excl) Person Dual,51910,,,,brib1243,constenla-et-al-1979
+saʔ,,1du_o,1st (excl) Person Dual,51909,,,,brib1243,constenla-et-al-1979
+saʔ,,1du_p,1st (excl) Person Dual,51908,,,,brib1243,constenla-et-al-1979
+saʔ=dɔr,,1pl_a,1st (excl) Person Plural,51907,,,,brib1243,constenla-et-al-1979
+saʔ,,1pl_s,1st (excl) Person Plural,51906,,,,brib1243,constenla-et-al-1979
+saʔ,,1pl_o,1st (excl) Person Plural,51905,,,,brib1243,constenla-et-al-1979
+saʔ,,1pl_p,1st (excl) Person Plural,51904,,,,brib1243,constenla-et-al-1979
+"seʔ=dɔr, sɔʔ",,12du_a,1st (incl) Person Dual,51903,,,,brib1243,constenla-et-al-1979
+seʔ,,12du_s,1st (incl) Person Dual,51902,,,,brib1243,constenla-et-al-1979
+seʔ,,12du_o,1st (incl) Person Dual,51901,,,,brib1243,constenla-et-al-1979
+seʔ,,12du_p,1st (incl) Person Dual,51900,,,,brib1243,constenla-et-al-1979
+"seʔ=dɔr, sɔʔ",,12pl_a,1st (incl) Person Plural,51899,,,,brib1243,constenla-et-al-1979
+seʔ,,12pl_s,1st (incl) Person Plural,51898,,,,brib1243,constenla-et-al-1979
+seʔ,,12pl_o,1st (incl) Person Plural,51897,,,,brib1243,constenla-et-al-1979
+seʔ,,12pl_p,1st (incl) Person Plural,51896,,,,brib1243,constenla-et-al-1979
+"beʔ=rʊ, bɔ",,2sg_a,2nd Person Singular,51895,,,,brib1243,constenla-et-al-1979
+beʔ,,2sg_s,2nd Person Singular,51894,,,,brib1243,constenla-et-al-1979
+beʔ,,2sg_o,2nd Person Singular,51893,,,,brib1243,constenla-et-al-1979
+beʔ,,2sg_p,2nd Person Singular,51892,,,,brib1243,constenla-et-al-1979
+aʔ=rʊ,,2du_a,2nd Person Dual,51891,,,,brib1243,constenla-et-al-1979
+aʔ,,2du_s,2nd Person Dual,51890,,,,brib1243,constenla-et-al-1979
+aʔ,,2du_o,2nd Person Dual,51889,,,,brib1243,constenla-et-al-1979
+aʔ,,2du_p,2nd Person Dual,51888,,,,brib1243,constenla-et-al-1979
+aʔ=rʊ,,2pl_a,2nd Person Plural,51887,,,,brib1243,constenla-et-al-1979
+aʔ,,2pl_s,2nd Person Plural,51886,,,,brib1243,constenla-et-al-1979
+aʔ,,2pl_o,2nd Person Plural,51885,,,,brib1243,constenla-et-al-1979
+aʔ,,2pl_p,2nd Person Plural,51884,,,,brib1243,constenla-et-al-1979
+ieʔ=rʊ,,3sg_m_a,3rd Person Singular Masculine,51883,,,,brib1243,constenla-et-al-1979
+ieʔ,,3sg_m_s,3rd Person Singular Masculine,51882,,,,brib1243,constenla-et-al-1979
+ieʔ,,3sg_m_o,3rd Person Singular Masculine,51881,,,,brib1243,constenla-et-al-1979
+ieʔ,,3sg_m_p,3rd Person Singular Masculine,51880,,,,brib1243,constenla-et-al-1979
+"ieʔpa=rʊ, irirdak",,3d-a,3rd Person Dual,51879,,,,brib1243,constenla-et-al-1979
+ieʔpa,,3d-s,3rd Person Dual,51878,,,,brib1243,constenla-et-al-1979
+ieʔpa,,3d-o,3rd Person Dual,51877,,,,brib1243,constenla-et-al-1979
+ieʔpa,,3d-p,3rd Person Dual,51876,,,,brib1243,constenla-et-al-1979
+"ieʔpa=rʊ, irirdak",,3p-a,3rd Person Plural,51875,,,,brib1243,constenla-et-al-1979
+ieʔpa,,3p-s,3rd Person Plural,51874,,,,brib1243,constenla-et-al-1979
+ieʔpa,,3p-o,3rd Person Plural,51873,,,,brib1243,constenla-et-al-1979
+ieʔpa,,3p-p,3rd Person Plural,51872,,,,brib1243,constenla-et-al-1979

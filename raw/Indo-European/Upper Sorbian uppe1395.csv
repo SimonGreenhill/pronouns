@@ -1,69 +1,69 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ja;;1sg_a;1st (excl) Person Singular;26661;;;;uppe1395;stone-1993b
-ja;;1sg_s;1st (excl) Person Singular;26662;;;;uppe1395;stone-1993b
-mje;;1sg_o;1st (excl) Person Singular;26663;;;;uppe1395;stone-1993b
-mój;;1sg_p;1st (excl) Person Singular;26664;;;;uppe1395;stone-1993b
-mój;;1du_a;1st (excl) Person Dual;26665;;;;uppe1395;stone-1993b
-mój;;1du_s;1st (excl) Person Dual;26666;;;;uppe1395;stone-1993b
-naju;;1du_o;1st (excl) Person Dual;26667;;;;uppe1395;stone-1993b
-naš;;1du_p;1st (excl) Person Dual;26668;;;;uppe1395;stone-1993b
-my;;1pl_a;1st (excl) Person Plural;26669;;;;uppe1395;stone-1993b
-my;;1pl_s;1st (excl) Person Plural;26670;;;;uppe1395;stone-1993b
-nas;;1pl_o;1st (excl) Person Plural;26671;;;;uppe1395;stone-1993b
-naš;;1pl_p;1st (excl) Person Plural;26672;;;;uppe1395;stone-1993b
-mój;;12du_a;1st (incl) Person Dual;26673;;;;uppe1395;stone-1993b
-mój;;12du_s;1st (incl) Person Dual;26674;;;;uppe1395;stone-1993b
-naju;;12du_o;1st (incl) Person Dual;26675;;;;uppe1395;stone-1993b
-naš;;12du_p;1st (incl) Person Dual;26676;;;;uppe1395;stone-1993b
-my;;12pl_a;1st (incl) Person Plural;26677;;;;uppe1395;stone-1993b
-my;;12pl_s;1st (incl) Person Plural;26678;;;;uppe1395;stone-1993b
-nas;;12pl_o;1st (incl) Person Plural;26679;;;;uppe1395;stone-1993b
-naš;;12pl_p;1st (incl) Person Plural;26680;;;;uppe1395;stone-1993b
-ty;;2sg_a;2nd Person Singular;26681;;;;uppe1395;stone-1993b
-ty;;2sg_s;2nd Person Singular;26682;;;;uppe1395;stone-1993b
-tebje;;2sg_o;2nd Person Singular;26683;;;;uppe1395;stone-1993b
-wój;;2du_a;2nd Person Dual;26684;;;;uppe1395;stone-1993b
-wój;;2du_s;2nd Person Dual;26685;;;;uppe1395;stone-1993b
-waju;;2du_o;2nd Person Dual;26686;;;;uppe1395;stone-1993b
-wy;;2pl_a;2nd Person Plural;26687;;;;uppe1395;stone-1993b
-wy;;2pl_s;2nd Person Plural;26688;;;;uppe1395;stone-1993b
-was;;2pl_o;2nd Person Plural;26689;;;;uppe1395;stone-1993b
-wón;;3sg_m_a;3rd Person Singular Masculine;26690;;;;uppe1395;stone-1993b
-wón;;3sg_m_s;3rd Person Singular Masculine;26691;;;;uppe1395;stone-1993b
-jeho;;3sg_m_o;3rd Person Singular Masculine;26692;;;;uppe1395;stone-1993b
-wona;;3sg_f_a;3rd Person Singular Feminine;26693;;;;uppe1395;stone-1993b
-wona;;3sg_f_s;3rd Person Singular Feminine;26694;;;;uppe1395;stone-1993b
-ju;;3sg_f_o;3rd Person Singular Feminine;26695;;;;uppe1395;stone-1993b
-wono;;3sg_n_a;3rd Person Singular Neuter;26696;;;;uppe1395;stone-1993b
-wono;;3sg_n_s;3rd Person Singular Neuter;26697;;;;uppe1395;stone-1993b
-jo;;3sg_n_o;3rd Person Singular Neuter;26698;;;;uppe1395;stone-1993b
-wonaj;;3du_m_a;3rd Person Dual Masculine;26699;;;;uppe1395;stone-1993b
-wonaj;;3du_m_s;3rd Person Dual Masculine;26700;;;;uppe1395;stone-1993b
-jeju;;3du_m_o;3rd Person Dual Masculine;26701;;;;uppe1395;stone-1993b
-wonej;;3du_f_a;3rd Person Dual Feminine;26702;;;;uppe1395;stone-1993b
-wonej;;3du_f_s;3rd Person Dual Feminine;26703;;;;uppe1395;stone-1993b
-jej;;3du_f_o;3rd Person Dual Feminine;26704;;;;uppe1395;stone-1993b
-wonej;;3du_n_a;3rd Person Dual Neuter;26705;;;;uppe1395;stone-1993b
-wonej;;3du_n_s;3rd Person Dual Neuter;26706;;;;uppe1395;stone-1993b
-jej;;3du_n_o;3rd Person Dual Neuter;26707;;;;uppe1395;stone-1993b
-woni;;3pl_m_a;3rd Person Plural Masculine;26708;;;;uppe1395;stone-1993b
-woni;;3pl_m_s;3rd Person Plural Masculine;26709;;;;uppe1395;stone-1993b
-jich;;3pl_m_o;3rd Person Plural Masculine;26710;;;;uppe1395;stone-1993b
-wone;;3pl_f_a;3rd Person Plural Feminine;26711;;;;uppe1395;stone-1993b
-wone;;3pl_f_s;3rd Person Plural Feminine;26712;;;;uppe1395;stone-1993b
-je;;3pl_f_o;3rd Person Plural Feminine;26713;;;;uppe1395;stone-1993b
-wone;;3pl_n_a;3rd Person Plural Neuter;26714;;;;uppe1395;stone-1993b
-wone;;3pl_n_s;3rd Person Plural Neuter;26715;;;;uppe1395;stone-1993b
-je;;3pl_n_o;3rd Person Plural Neuter;26716;;;;uppe1395;stone-1993b
-wonaj;;3d-a;3rd Person Dual;36272;;;;uppe1395;stone-1993b
-wonej;;3d-a;3rd Person Dual;36273;;;;uppe1395;stone-1993b
-wonaj;;3d-s;3rd Person Dual;36492;;;;uppe1395;stone-1993b
-wonej;;3d-s;3rd Person Dual;36493;;;;uppe1395;stone-1993b
-jeju;;3d-o;3rd Person Dual;36719;;;;uppe1395;stone-1993b
-jej;;3d-o;3rd Person Dual;36720;;;;uppe1395;stone-1993b
-woni;;3p-a;3rd Person Plural;37152;;;;uppe1395;stone-1993b
-wone;;3p-a;3rd Person Plural;37153;;;;uppe1395;stone-1993b
-woni;;3p-s;3rd Person Plural;37373;;;;uppe1395;stone-1993b
-wone;;3p-s;3rd Person Plural;37374;;;;uppe1395;stone-1993b
-jich;;3p-o;3rd Person Plural;37599;;;;uppe1395;stone-1993b
-je;;3p-o;3rd Person Plural;37600;;;;uppe1395;stone-1993b
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ja,,1sg_a,1st (excl) Person Singular,26661,,,,uppe1395,stone-1993b
+ja,,1sg_s,1st (excl) Person Singular,26662,,,,uppe1395,stone-1993b
+mje,,1sg_o,1st (excl) Person Singular,26663,,,,uppe1395,stone-1993b
+mój,,1sg_p,1st (excl) Person Singular,26664,,,,uppe1395,stone-1993b
+mój,,1du_a,1st (excl) Person Dual,26665,,,,uppe1395,stone-1993b
+mój,,1du_s,1st (excl) Person Dual,26666,,,,uppe1395,stone-1993b
+naju,,1du_o,1st (excl) Person Dual,26667,,,,uppe1395,stone-1993b
+naš,,1du_p,1st (excl) Person Dual,26668,,,,uppe1395,stone-1993b
+my,,1pl_a,1st (excl) Person Plural,26669,,,,uppe1395,stone-1993b
+my,,1pl_s,1st (excl) Person Plural,26670,,,,uppe1395,stone-1993b
+nas,,1pl_o,1st (excl) Person Plural,26671,,,,uppe1395,stone-1993b
+naš,,1pl_p,1st (excl) Person Plural,26672,,,,uppe1395,stone-1993b
+mój,,12du_a,1st (incl) Person Dual,26673,,,,uppe1395,stone-1993b
+mój,,12du_s,1st (incl) Person Dual,26674,,,,uppe1395,stone-1993b
+naju,,12du_o,1st (incl) Person Dual,26675,,,,uppe1395,stone-1993b
+naš,,12du_p,1st (incl) Person Dual,26676,,,,uppe1395,stone-1993b
+my,,12pl_a,1st (incl) Person Plural,26677,,,,uppe1395,stone-1993b
+my,,12pl_s,1st (incl) Person Plural,26678,,,,uppe1395,stone-1993b
+nas,,12pl_o,1st (incl) Person Plural,26679,,,,uppe1395,stone-1993b
+naš,,12pl_p,1st (incl) Person Plural,26680,,,,uppe1395,stone-1993b
+ty,,2sg_a,2nd Person Singular,26681,,,,uppe1395,stone-1993b
+ty,,2sg_s,2nd Person Singular,26682,,,,uppe1395,stone-1993b
+tebje,,2sg_o,2nd Person Singular,26683,,,,uppe1395,stone-1993b
+wój,,2du_a,2nd Person Dual,26684,,,,uppe1395,stone-1993b
+wój,,2du_s,2nd Person Dual,26685,,,,uppe1395,stone-1993b
+waju,,2du_o,2nd Person Dual,26686,,,,uppe1395,stone-1993b
+wy,,2pl_a,2nd Person Plural,26687,,,,uppe1395,stone-1993b
+wy,,2pl_s,2nd Person Plural,26688,,,,uppe1395,stone-1993b
+was,,2pl_o,2nd Person Plural,26689,,,,uppe1395,stone-1993b
+wón,,3sg_m_a,3rd Person Singular Masculine,26690,,,,uppe1395,stone-1993b
+wón,,3sg_m_s,3rd Person Singular Masculine,26691,,,,uppe1395,stone-1993b
+jeho,,3sg_m_o,3rd Person Singular Masculine,26692,,,,uppe1395,stone-1993b
+wona,,3sg_f_a,3rd Person Singular Feminine,26693,,,,uppe1395,stone-1993b
+wona,,3sg_f_s,3rd Person Singular Feminine,26694,,,,uppe1395,stone-1993b
+ju,,3sg_f_o,3rd Person Singular Feminine,26695,,,,uppe1395,stone-1993b
+wono,,3sg_n_a,3rd Person Singular Neuter,26696,,,,uppe1395,stone-1993b
+wono,,3sg_n_s,3rd Person Singular Neuter,26697,,,,uppe1395,stone-1993b
+jo,,3sg_n_o,3rd Person Singular Neuter,26698,,,,uppe1395,stone-1993b
+wonaj,,3du_m_a,3rd Person Dual Masculine,26699,,,,uppe1395,stone-1993b
+wonaj,,3du_m_s,3rd Person Dual Masculine,26700,,,,uppe1395,stone-1993b
+jeju,,3du_m_o,3rd Person Dual Masculine,26701,,,,uppe1395,stone-1993b
+wonej,,3du_f_a,3rd Person Dual Feminine,26702,,,,uppe1395,stone-1993b
+wonej,,3du_f_s,3rd Person Dual Feminine,26703,,,,uppe1395,stone-1993b
+jej,,3du_f_o,3rd Person Dual Feminine,26704,,,,uppe1395,stone-1993b
+wonej,,3du_n_a,3rd Person Dual Neuter,26705,,,,uppe1395,stone-1993b
+wonej,,3du_n_s,3rd Person Dual Neuter,26706,,,,uppe1395,stone-1993b
+jej,,3du_n_o,3rd Person Dual Neuter,26707,,,,uppe1395,stone-1993b
+woni,,3pl_m_a,3rd Person Plural Masculine,26708,,,,uppe1395,stone-1993b
+woni,,3pl_m_s,3rd Person Plural Masculine,26709,,,,uppe1395,stone-1993b
+jich,,3pl_m_o,3rd Person Plural Masculine,26710,,,,uppe1395,stone-1993b
+wone,,3pl_f_a,3rd Person Plural Feminine,26711,,,,uppe1395,stone-1993b
+wone,,3pl_f_s,3rd Person Plural Feminine,26712,,,,uppe1395,stone-1993b
+je,,3pl_f_o,3rd Person Plural Feminine,26713,,,,uppe1395,stone-1993b
+wone,,3pl_n_a,3rd Person Plural Neuter,26714,,,,uppe1395,stone-1993b
+wone,,3pl_n_s,3rd Person Plural Neuter,26715,,,,uppe1395,stone-1993b
+je,,3pl_n_o,3rd Person Plural Neuter,26716,,,,uppe1395,stone-1993b
+wonaj,,3d-a,3rd Person Dual,36272,,,,uppe1395,stone-1993b
+wonej,,3d-a,3rd Person Dual,36273,,,,uppe1395,stone-1993b
+wonaj,,3d-s,3rd Person Dual,36492,,,,uppe1395,stone-1993b
+wonej,,3d-s,3rd Person Dual,36493,,,,uppe1395,stone-1993b
+jeju,,3d-o,3rd Person Dual,36719,,,,uppe1395,stone-1993b
+jej,,3d-o,3rd Person Dual,36720,,,,uppe1395,stone-1993b
+woni,,3p-a,3rd Person Plural,37152,,,,uppe1395,stone-1993b
+wone,,3p-a,3rd Person Plural,37153,,,,uppe1395,stone-1993b
+woni,,3p-s,3rd Person Plural,37373,,,,uppe1395,stone-1993b
+wone,,3p-s,3rd Person Plural,37374,,,,uppe1395,stone-1993b
+jich,,3p-o,3rd Person Plural,37599,,,,uppe1395,stone-1993b
+je,,3p-o,3rd Person Plural,37600,,,,uppe1395,stone-1993b

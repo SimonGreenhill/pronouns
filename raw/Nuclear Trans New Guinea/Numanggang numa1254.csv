@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nu;;1sg_a;1st (excl) Person Singular;61876;;;;numa1254;hynum-2010
-nu;;1sg_s;1st (excl) Person Singular;61875;;;;numa1254;hynum-2010
-nu;;1sg_o;1st (excl) Person Singular;61874;;;;numa1254;hynum-2010
-nuniŋ;;1sg_p;1st (excl) Person Singular;61873;;;;numa1254;hynum-2010
-indi;;1du_a;1st (excl) Person Dual;61872;;;;numa1254;hynum-2010
-indi;;1du_s;1st (excl) Person Dual;61871;;;;numa1254;hynum-2010
-indi;;1du_o;1st (excl) Person Dual;61870;;;;numa1254;hynum-2010
-indiniŋ;;1du_p;1st (excl) Person Dual;61869;;;;numa1254;hynum-2010
-indi;;1pl_a;1st (excl) Person Plural;61868;;;;numa1254;hynum-2010
-indi;;1pl_s;1st (excl) Person Plural;61867;;;;numa1254;hynum-2010
-indi;;1pl_o;1st (excl) Person Plural;61866;;;;numa1254;hynum-2010
-indiniŋ;;1pl_p;1st (excl) Person Plural;61865;;;;numa1254;hynum-2010
-indi;;12du_a;1st (incl) Person Dual;61864;;;;numa1254;hynum-2010
-indi;;12du_s;1st (incl) Person Dual;61863;;;;numa1254;hynum-2010
-indi;;12du_o;1st (incl) Person Dual;61862;;;;numa1254;hynum-2010
-indiniŋ;;12du_p;1st (incl) Person Dual;61861;;;;numa1254;hynum-2010
-indi;;12pl_a;1st (incl) Person Plural;61860;;;;numa1254;hynum-2010
-indi;;12pl_s;1st (incl) Person Plural;61859;;;;numa1254;hynum-2010
-indi;;12pl_o;1st (incl) Person Plural;61858;;;;numa1254;hynum-2010
-indiniŋ;;12pl_p;1st (incl) Person Plural;61857;;;;numa1254;hynum-2010
-du;;2sg_a;2nd Person Singular;61856;;;;numa1254;hynum-2010
-du;;2sg_s;2nd Person Singular;61855;;;;numa1254;hynum-2010
-du;;2sg_o;2nd Person Singular;61854;;;;numa1254;hynum-2010
-duniŋ;;2sg_p;2nd Person Singular;61853;;;;numa1254;hynum-2010
-hidi;;2du_a;2nd Person Dual;61852;;;;numa1254;hynum-2010
-hidi;;2du_s;2nd Person Dual;61851;;;;numa1254;hynum-2010
-hidi;;2du_o;2nd Person Dual;61850;;;;numa1254;hynum-2010
-hidiniŋ;;2du_p;2nd Person Dual;61849;;;;numa1254;hynum-2010
-hidi;;2pl_a;2nd Person Plural;61848;;;;numa1254;hynum-2010
-hidi;;2pl_s;2nd Person Plural;62101;;;;numa1254;hynum-2010
-hidi;;2pl_o;2nd Person Plural;62100;;;;numa1254;hynum-2010
-hidiniŋ;;2pl_p;2nd Person Plural;62102;;;;numa1254;hynum-2010
-adi;;3sg_m_a;3rd Person Singular Masculine;61847;;;;numa1254;hynum-2010
-adi;;3sg_m_s;3rd Person Singular Masculine;61846;;;;numa1254;hynum-2010
-adi;;3sg_m_o;3rd Person Singular Masculine;61845;;;;numa1254;hynum-2010
--ŋiŋ;;3sg_m_p;3rd Person Singular Masculine;61844;;;;numa1254;hynum-2010
-adi;;3sg_n_a;3rd Person Singular Neuter;61843;;;;numa1254;hynum-2010
-adi;;3sg_n_s;3rd Person Singular Neuter;61842;;;;numa1254;hynum-2010
-adi;;3sg_n_o;3rd Person Singular Neuter;61841;;;;numa1254;hynum-2010
--ŋiŋ;;3sg_n_p;3rd Person Singular Neuter;61840;;;;numa1254;hynum-2010
-adi;;3d-a;3rd Person Dual;61839;;;;numa1254;hynum-2010
-adi;;3d-s;3rd Person Dual;61838;;;;numa1254;hynum-2010
-adi;;3d-o;3rd Person Dual;61837;;;;numa1254;hynum-2010
--hik;;3d-p;3rd Person Dual;61836;;;;numa1254;hynum-2010
-adi;;3p-a;3rd Person Plural;61835;;;;numa1254;hynum-2010
-adi;;3p-s;3rd Person Plural;61834;;;;numa1254;hynum-2010
-adi;;3p-o;3rd Person Plural;61833;;;;numa1254;hynum-2010
--hik;;3p-p;3rd Person Plural;61832;;;;numa1254;hynum-2010
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nu,,1sg_a,1st (excl) Person Singular,61876,,,,numa1254,hynum-2010
+nu,,1sg_s,1st (excl) Person Singular,61875,,,,numa1254,hynum-2010
+nu,,1sg_o,1st (excl) Person Singular,61874,,,,numa1254,hynum-2010
+nuniŋ,,1sg_p,1st (excl) Person Singular,61873,,,,numa1254,hynum-2010
+indi,,1du_a,1st (excl) Person Dual,61872,,,,numa1254,hynum-2010
+indi,,1du_s,1st (excl) Person Dual,61871,,,,numa1254,hynum-2010
+indi,,1du_o,1st (excl) Person Dual,61870,,,,numa1254,hynum-2010
+indiniŋ,,1du_p,1st (excl) Person Dual,61869,,,,numa1254,hynum-2010
+indi,,1pl_a,1st (excl) Person Plural,61868,,,,numa1254,hynum-2010
+indi,,1pl_s,1st (excl) Person Plural,61867,,,,numa1254,hynum-2010
+indi,,1pl_o,1st (excl) Person Plural,61866,,,,numa1254,hynum-2010
+indiniŋ,,1pl_p,1st (excl) Person Plural,61865,,,,numa1254,hynum-2010
+indi,,12du_a,1st (incl) Person Dual,61864,,,,numa1254,hynum-2010
+indi,,12du_s,1st (incl) Person Dual,61863,,,,numa1254,hynum-2010
+indi,,12du_o,1st (incl) Person Dual,61862,,,,numa1254,hynum-2010
+indiniŋ,,12du_p,1st (incl) Person Dual,61861,,,,numa1254,hynum-2010
+indi,,12pl_a,1st (incl) Person Plural,61860,,,,numa1254,hynum-2010
+indi,,12pl_s,1st (incl) Person Plural,61859,,,,numa1254,hynum-2010
+indi,,12pl_o,1st (incl) Person Plural,61858,,,,numa1254,hynum-2010
+indiniŋ,,12pl_p,1st (incl) Person Plural,61857,,,,numa1254,hynum-2010
+du,,2sg_a,2nd Person Singular,61856,,,,numa1254,hynum-2010
+du,,2sg_s,2nd Person Singular,61855,,,,numa1254,hynum-2010
+du,,2sg_o,2nd Person Singular,61854,,,,numa1254,hynum-2010
+duniŋ,,2sg_p,2nd Person Singular,61853,,,,numa1254,hynum-2010
+hidi,,2du_a,2nd Person Dual,61852,,,,numa1254,hynum-2010
+hidi,,2du_s,2nd Person Dual,61851,,,,numa1254,hynum-2010
+hidi,,2du_o,2nd Person Dual,61850,,,,numa1254,hynum-2010
+hidiniŋ,,2du_p,2nd Person Dual,61849,,,,numa1254,hynum-2010
+hidi,,2pl_a,2nd Person Plural,61848,,,,numa1254,hynum-2010
+hidi,,2pl_s,2nd Person Plural,62101,,,,numa1254,hynum-2010
+hidi,,2pl_o,2nd Person Plural,62100,,,,numa1254,hynum-2010
+hidiniŋ,,2pl_p,2nd Person Plural,62102,,,,numa1254,hynum-2010
+adi,,3sg_m_a,3rd Person Singular Masculine,61847,,,,numa1254,hynum-2010
+adi,,3sg_m_s,3rd Person Singular Masculine,61846,,,,numa1254,hynum-2010
+adi,,3sg_m_o,3rd Person Singular Masculine,61845,,,,numa1254,hynum-2010
+-ŋiŋ,,3sg_m_p,3rd Person Singular Masculine,61844,,,,numa1254,hynum-2010
+adi,,3sg_n_a,3rd Person Singular Neuter,61843,,,,numa1254,hynum-2010
+adi,,3sg_n_s,3rd Person Singular Neuter,61842,,,,numa1254,hynum-2010
+adi,,3sg_n_o,3rd Person Singular Neuter,61841,,,,numa1254,hynum-2010
+-ŋiŋ,,3sg_n_p,3rd Person Singular Neuter,61840,,,,numa1254,hynum-2010
+adi,,3d-a,3rd Person Dual,61839,,,,numa1254,hynum-2010
+adi,,3d-s,3rd Person Dual,61838,,,,numa1254,hynum-2010
+adi,,3d-o,3rd Person Dual,61837,,,,numa1254,hynum-2010
+-hik,,3d-p,3rd Person Dual,61836,,,,numa1254,hynum-2010
+adi,,3p-a,3rd Person Plural,61835,,,,numa1254,hynum-2010
+adi,,3p-s,3rd Person Plural,61834,,,,numa1254,hynum-2010
+adi,,3p-o,3rd Person Plural,61833,,,,numa1254,hynum-2010
+-hik,,3p-p,3rd Person Plural,61832,,,,numa1254,hynum-2010

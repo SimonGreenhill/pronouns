@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-jani;;1sg_a;1st (excl) Person Singular;62503;;;;tauy1241;macdonald-2013
-ja;;1sg_s;1st (excl) Person Singular;62504;;;;tauy1241;macdonald-2013
-ja-;;1sg_o;1st (excl) Person Singular;62505;;;;tauy1241;macdonald-2013
-ja-;;1sg_p;1st (excl) Person Singular;62506;;;;tauy1241;macdonald-2013
-senni;;1du_a;1st (excl) Person Dual;62507;;;;tauy1241;macdonald-2013
-sen;;1du_s;1st (excl) Person Dual;62508;;;;tauy1241;macdonald-2013
-sen-;;1du_o;1st (excl) Person Dual;62509;;;;tauy1241;macdonald-2013
-sen-;;1du_p;1st (excl) Person Dual;62497;;;;tauy1241;macdonald-2013
-senni;;1pl_a;1st (excl) Person Plural;62498;;;;tauy1241;macdonald-2013
-sen;;1pl_s;1st (excl) Person Plural;62499;;;;tauy1241;macdonald-2013
-sen-;;1pl_o;1st (excl) Person Plural;62500;;;;tauy1241;macdonald-2013
-sen-;;1pl_p;1st (excl) Person Plural;62501;;;;tauy1241;macdonald-2013
-senni;;12du_a;1st (incl) Person Dual;62502;;;;tauy1241;macdonald-2013
-sen;;12du_s;1st (incl) Person Dual;62510;;;;tauy1241;macdonald-2013
-sen-;;12du_o;1st (incl) Person Dual;62511;;;;tauy1241;macdonald-2013
-sen-;;12du_p;1st (incl) Person Dual;62512;;;;tauy1241;macdonald-2013
-senni;;12pl_a;1st (incl) Person Plural;62513;;;;tauy1241;macdonald-2013
-sen;;12pl_s;1st (incl) Person Plural;62514;;;;tauy1241;macdonald-2013
-sen-;;12pl_o;1st (incl) Person Plural;62515;;;;tauy1241;macdonald-2013
-sen-;;12pl_p;1st (incl) Person Plural;62516;;;;tauy1241;macdonald-2013
-nani;;2sg_a;2nd Person Singular;62517;;;;tauy1241;macdonald-2013
-na;;2sg_s;2nd Person Singular;62518;;;;tauy1241;macdonald-2013
-na-;;2sg_o;2nd Person Singular;62519;;;;tauy1241;macdonald-2013
-na-;;2sg_p;2nd Person Singular;62520;;;;tauy1241;macdonald-2013
-tenni;;2du_a;2nd Person Dual;62521;;;;tauy1241;macdonald-2013
-ten;;2du_s;2nd Person Dual;62522;;;;tauy1241;macdonald-2013
-ten-;;2du_o;2nd Person Dual;62523;;;;tauy1241;macdonald-2013
-ten-;;2du_p;2nd Person Dual;62524;;;;tauy1241;macdonald-2013
-tenni;;2pl_a;2nd Person Plural;62525;;;;tauy1241;macdonald-2013
-ten;;2pl_s;2nd Person Plural;62526;;;;tauy1241;macdonald-2013
-ten-;;2pl_o;2nd Person Plural;62527;;;;tauy1241;macdonald-2013
-ten-;;2pl_p;2nd Person Plural;62528;;;;tauy1241;macdonald-2013
-neni;;3sg_m_a;3rd Person Singular Masculine;62529;;;;tauy1241;macdonald-2013
-ne;;3sg_m_s;3rd Person Singular Masculine;62530;;;;tauy1241;macdonald-2013
-0;;3sg_m_o;3rd Person Singular Masculine;62531;;;;tauy1241;macdonald-2013
-0;;3sg_m_p;3rd Person Singular Masculine;62532;;;;tauy1241;macdonald-2013
-neni;;3sg_n_a;3rd Person Singular Neuter;62533;;;;tauy1241;macdonald-2013
-ne;;3sg_n_s;3rd Person Singular Neuter;62534;;;;tauy1241;macdonald-2013
-0;;3sg_n_o;3rd Person Singular Neuter;62535;;;;tauy1241;macdonald-2013
-0;;3sg_n_p;3rd Person Singular Neuter;62544;;;;tauy1241;macdonald-2013
-nenni;;3d-a;3rd Person Dual;62543;;;;tauy1241;macdonald-2013
-nen;;3d-s;3rd Person Dual;62542;;;;tauy1241;macdonald-2013
-nen-;;3d-o;3rd Person Dual;62541;;;;tauy1241;macdonald-2013
-nen-;;3d-p;3rd Person Dual;62540;;;;tauy1241;macdonald-2013
-nenni;;3p-a;3rd Person Plural;62539;;;;tauy1241;macdonald-2013
-nen;;3p-s;3rd Person Plural;62538;;;;tauy1241;macdonald-2013
-nen-;;3p-o;3rd Person Plural;62537;;;;tauy1241;macdonald-2013
-nen-;;3p-p;3rd Person Plural;62536;;;;tauy1241;macdonald-2013
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+jani,,1sg_a,1st (excl) Person Singular,62503,,,,tauy1241,macdonald-2013
+ja,,1sg_s,1st (excl) Person Singular,62504,,,,tauy1241,macdonald-2013
+ja-,,1sg_o,1st (excl) Person Singular,62505,,,,tauy1241,macdonald-2013
+ja-,,1sg_p,1st (excl) Person Singular,62506,,,,tauy1241,macdonald-2013
+senni,,1du_a,1st (excl) Person Dual,62507,,,,tauy1241,macdonald-2013
+sen,,1du_s,1st (excl) Person Dual,62508,,,,tauy1241,macdonald-2013
+sen-,,1du_o,1st (excl) Person Dual,62509,,,,tauy1241,macdonald-2013
+sen-,,1du_p,1st (excl) Person Dual,62497,,,,tauy1241,macdonald-2013
+senni,,1pl_a,1st (excl) Person Plural,62498,,,,tauy1241,macdonald-2013
+sen,,1pl_s,1st (excl) Person Plural,62499,,,,tauy1241,macdonald-2013
+sen-,,1pl_o,1st (excl) Person Plural,62500,,,,tauy1241,macdonald-2013
+sen-,,1pl_p,1st (excl) Person Plural,62501,,,,tauy1241,macdonald-2013
+senni,,12du_a,1st (incl) Person Dual,62502,,,,tauy1241,macdonald-2013
+sen,,12du_s,1st (incl) Person Dual,62510,,,,tauy1241,macdonald-2013
+sen-,,12du_o,1st (incl) Person Dual,62511,,,,tauy1241,macdonald-2013
+sen-,,12du_p,1st (incl) Person Dual,62512,,,,tauy1241,macdonald-2013
+senni,,12pl_a,1st (incl) Person Plural,62513,,,,tauy1241,macdonald-2013
+sen,,12pl_s,1st (incl) Person Plural,62514,,,,tauy1241,macdonald-2013
+sen-,,12pl_o,1st (incl) Person Plural,62515,,,,tauy1241,macdonald-2013
+sen-,,12pl_p,1st (incl) Person Plural,62516,,,,tauy1241,macdonald-2013
+nani,,2sg_a,2nd Person Singular,62517,,,,tauy1241,macdonald-2013
+na,,2sg_s,2nd Person Singular,62518,,,,tauy1241,macdonald-2013
+na-,,2sg_o,2nd Person Singular,62519,,,,tauy1241,macdonald-2013
+na-,,2sg_p,2nd Person Singular,62520,,,,tauy1241,macdonald-2013
+tenni,,2du_a,2nd Person Dual,62521,,,,tauy1241,macdonald-2013
+ten,,2du_s,2nd Person Dual,62522,,,,tauy1241,macdonald-2013
+ten-,,2du_o,2nd Person Dual,62523,,,,tauy1241,macdonald-2013
+ten-,,2du_p,2nd Person Dual,62524,,,,tauy1241,macdonald-2013
+tenni,,2pl_a,2nd Person Plural,62525,,,,tauy1241,macdonald-2013
+ten,,2pl_s,2nd Person Plural,62526,,,,tauy1241,macdonald-2013
+ten-,,2pl_o,2nd Person Plural,62527,,,,tauy1241,macdonald-2013
+ten-,,2pl_p,2nd Person Plural,62528,,,,tauy1241,macdonald-2013
+neni,,3sg_m_a,3rd Person Singular Masculine,62529,,,,tauy1241,macdonald-2013
+ne,,3sg_m_s,3rd Person Singular Masculine,62530,,,,tauy1241,macdonald-2013
+0,,3sg_m_o,3rd Person Singular Masculine,62531,,,,tauy1241,macdonald-2013
+0,,3sg_m_p,3rd Person Singular Masculine,62532,,,,tauy1241,macdonald-2013
+neni,,3sg_n_a,3rd Person Singular Neuter,62533,,,,tauy1241,macdonald-2013
+ne,,3sg_n_s,3rd Person Singular Neuter,62534,,,,tauy1241,macdonald-2013
+0,,3sg_n_o,3rd Person Singular Neuter,62535,,,,tauy1241,macdonald-2013
+0,,3sg_n_p,3rd Person Singular Neuter,62544,,,,tauy1241,macdonald-2013
+nenni,,3d-a,3rd Person Dual,62543,,,,tauy1241,macdonald-2013
+nen,,3d-s,3rd Person Dual,62542,,,,tauy1241,macdonald-2013
+nen-,,3d-o,3rd Person Dual,62541,,,,tauy1241,macdonald-2013
+nen-,,3d-p,3rd Person Dual,62540,,,,tauy1241,macdonald-2013
+nenni,,3p-a,3rd Person Plural,62539,,,,tauy1241,macdonald-2013
+nen,,3p-s,3rd Person Plural,62538,,,,tauy1241,macdonald-2013
+nen-,,3p-o,3rd Person Plural,62537,,,,tauy1241,macdonald-2013
+nen-,,3p-p,3rd Person Plural,62536,,,,tauy1241,macdonald-2013

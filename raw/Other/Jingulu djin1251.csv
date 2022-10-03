@@ -1,52 +1,52 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋayarni;;1sg_a;1st (excl) Person Singular;25936;;;;djin1251;pensalfini-2003
-ŋaya;;1sg_s;1st (excl) Person Singular;25937;;;;djin1251;pensalfini-2003
-ŋarru;;1sg_o;1st (excl) Person Singular;61369;;;;djin1251;pensalfini-2003
-ŋarr-;;1sg_p;1st (excl) Person Singular;61370;;;;djin1251;pensalfini-2003
-ŋiɲiyilirni;;1du_a;1st (excl) Person Dual;25938;;;;djin1251;pensalfini-2003
-ŋiɲiyila;;1du_s;1st (excl) Person Dual;25939;;;;djin1251;pensalfini-2003
-ŋiɲaku;;1du_o;1st (excl) Person Dual;61371;;;;djin1251;pensalfini-2003
-ŋiɲak-;;1du_p;1st (excl) Person Dual;61372;;;;djin1251;pensalfini-2003
-ŋirrikarni;;1pl_a;1st (excl) Person Plural;25940;;;;djin1251;pensalfini-2003
-ŋirriwala;;1pl_s;1st (excl) Person Plural;25941;;;;djin1251;pensalfini-2003
-ŋirraku;;1pl_o;1st (excl) Person Plural;61373;;;;djin1251;pensalfini-2003
-ŋirrak-;;1pl_p;1st (excl) Person Plural;61374;;;;djin1251;pensalfini-2003
-mindiyilirni;;12du_a;1st (incl) Person Dual;25942;;;;djin1251;pensalfini-2003
-mindiyila;;12du_s;1st (incl) Person Dual;25943;;;;djin1251;pensalfini-2003
-mindaku;;12du_o;1st (incl) Person Dual;61375;;;;djin1251;pensalfini-2003
-mindak-;;12du_p;1st (incl) Person Dual;61376;;;;djin1251;pensalfini-2003
-ŋurrawalarni;;12pl_a;1st (incl) Person Plural;25944;;;;djin1251;pensalfini-2003
-ŋurrawala;;12pl_s;1st (incl) Person Plural;25945;;;;djin1251;pensalfini-2003
-ŋurraku;;12pl_o;1st (incl) Person Plural;61377;;;;djin1251;pensalfini-2003
-ŋurrak-;;12pl_p;1st (incl) Person Plural;61378;;;;djin1251;pensalfini-2003
-ɲamarni;;2sg_a;2nd Person Singular;25946;;;;djin1251;pensalfini-2003
-ɲama;;2sg_s;2nd Person Singular;25947;;;;djin1251;pensalfini-2003
-ŋaanku;;2sg_o;2nd Person Singular;61379;;;;djin1251;pensalfini-2003
-ŋaank-;;2sg_p;2nd Person Singular;61380;;;;djin1251;pensalfini-2003
-kuɲiyilirni;;2du_a;2nd Person Dual;25948;;;;djin1251;pensalfini-2003
-kuɲiyila;;2du_s;2nd Person Dual;25949;;;;djin1251;pensalfini-2003
-kuɲaku;;2du_o;2nd Person Dual;61381;;;;djin1251;pensalfini-2003
-kuɲak-;;2du_p;2nd Person Dual;61382;;;;djin1251;pensalfini-2003
-kurrawalarni;;2pl_a;2nd Person Plural;25950;;;;djin1251;pensalfini-2003
-kurrawala;;2pl_s;2nd Person Plural;25951;;;;djin1251;pensalfini-2003
-kurraku;;2pl_o;2nd Person Plural;61383;;;;djin1251;pensalfini-2003
-kurrak-;;2pl_p;2nd Person Plural;61384;;;;djin1251;pensalfini-2003
-jama;;3sg_m_a;3rd Person Singular Masculine;61393;;jama is a masculine demonstrative used for 3rd person reference.;;djin1251;pensalfini-2003
-jama;;3sg_m_s;3rd Person Singular Masculine;61394;;jama is a masculine demonstrative used for 3rd person reference.;;djin1251;pensalfini-2003
-ŋarnu;;3sg_m_o;3rd Person Singular Masculine;61385;;;;djin1251;pensalfini-2003
-niyi-;;3sg_m_p;3rd Person Singular Masculine;61386;;;;djin1251;pensalfini-2003
-jimi;;3sg_n_a;3rd Person Singular Neuter;61395;;jimi is a neuterdemonstrative used for 3rd person reference.;;djin1251;pensalfini-2003
-jimi;;3sg_n_s;3rd Person Singular Neuter;61396;;jimi is a neuter demonstrative used for 3rd person reference.;;djin1251;pensalfini-2003
-ŋayi;;3sg_n_o;3rd Person Singular Neuter;61387;;;;djin1251;pensalfini-2003
-niyi-;;3sg_n_p;3rd Person Singular Neuter;61388;;;;djin1251;pensalfini-2003
-waɲikila;;3du_m_s;3rd Person Dual Masculine;25952;;;;djin1251;pensalfini-2003
-waɲikila;;3du_f_s;3rd Person Dual Feminine;25953;;;;djin1251;pensalfini-2003
-waɲikila;;3du_n_s;3rd Person Dual Neuter;25954;;;;djin1251;pensalfini-2003
-jamabaji;;3d-a;3rd Person Dual;61397;;jamabaji is a masculine distal demonstrative plus plural suffix used for 3rd person plural reference.;;djin1251;pensalfini-2003
-waɲikila;;3d-s;3rd Person Dual;36502;;;;djin1251;pensalfini-2003
-wuɲaku;;3d-o;3rd Person Dual;61389;;;;djin1251;pensalfini-2003
-wuɲak-;;3d-p;3rd Person Dual;61390;;;;djin1251;pensalfini-2003
-jamabaji;;3p-a;3rd Person Plural;61398;;jamabaji is a masculine distal demonstrative plus plural suffix used for 3rd person plural reference.;;djin1251;pensalfini-2003
-jamabaji;;3p-s;3rd Person Plural;61399;;jamabaji is a masculine distal demonstrative plus plural suffix used for 3rd person plural reference.;;djin1251;pensalfini-2003
-wurraku, ɲurraku;;3p-o;3rd Person Plural;61391;;;;djin1251;pensalfini-2003
-wurrak-, ɲurrak-;;3p-p;3rd Person Plural;61392;;;;djin1251;pensalfini-2003
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋayarni,,1sg_a,1st (excl) Person Singular,25936,,,,djin1251,pensalfini-2003
+ŋaya,,1sg_s,1st (excl) Person Singular,25937,,,,djin1251,pensalfini-2003
+ŋarru,,1sg_o,1st (excl) Person Singular,61369,,,,djin1251,pensalfini-2003
+ŋarr-,,1sg_p,1st (excl) Person Singular,61370,,,,djin1251,pensalfini-2003
+ŋiɲiyilirni,,1du_a,1st (excl) Person Dual,25938,,,,djin1251,pensalfini-2003
+ŋiɲiyila,,1du_s,1st (excl) Person Dual,25939,,,,djin1251,pensalfini-2003
+ŋiɲaku,,1du_o,1st (excl) Person Dual,61371,,,,djin1251,pensalfini-2003
+ŋiɲak-,,1du_p,1st (excl) Person Dual,61372,,,,djin1251,pensalfini-2003
+ŋirrikarni,,1pl_a,1st (excl) Person Plural,25940,,,,djin1251,pensalfini-2003
+ŋirriwala,,1pl_s,1st (excl) Person Plural,25941,,,,djin1251,pensalfini-2003
+ŋirraku,,1pl_o,1st (excl) Person Plural,61373,,,,djin1251,pensalfini-2003
+ŋirrak-,,1pl_p,1st (excl) Person Plural,61374,,,,djin1251,pensalfini-2003
+mindiyilirni,,12du_a,1st (incl) Person Dual,25942,,,,djin1251,pensalfini-2003
+mindiyila,,12du_s,1st (incl) Person Dual,25943,,,,djin1251,pensalfini-2003
+mindaku,,12du_o,1st (incl) Person Dual,61375,,,,djin1251,pensalfini-2003
+mindak-,,12du_p,1st (incl) Person Dual,61376,,,,djin1251,pensalfini-2003
+ŋurrawalarni,,12pl_a,1st (incl) Person Plural,25944,,,,djin1251,pensalfini-2003
+ŋurrawala,,12pl_s,1st (incl) Person Plural,25945,,,,djin1251,pensalfini-2003
+ŋurraku,,12pl_o,1st (incl) Person Plural,61377,,,,djin1251,pensalfini-2003
+ŋurrak-,,12pl_p,1st (incl) Person Plural,61378,,,,djin1251,pensalfini-2003
+ɲamarni,,2sg_a,2nd Person Singular,25946,,,,djin1251,pensalfini-2003
+ɲama,,2sg_s,2nd Person Singular,25947,,,,djin1251,pensalfini-2003
+ŋaanku,,2sg_o,2nd Person Singular,61379,,,,djin1251,pensalfini-2003
+ŋaank-,,2sg_p,2nd Person Singular,61380,,,,djin1251,pensalfini-2003
+kuɲiyilirni,,2du_a,2nd Person Dual,25948,,,,djin1251,pensalfini-2003
+kuɲiyila,,2du_s,2nd Person Dual,25949,,,,djin1251,pensalfini-2003
+kuɲaku,,2du_o,2nd Person Dual,61381,,,,djin1251,pensalfini-2003
+kuɲak-,,2du_p,2nd Person Dual,61382,,,,djin1251,pensalfini-2003
+kurrawalarni,,2pl_a,2nd Person Plural,25950,,,,djin1251,pensalfini-2003
+kurrawala,,2pl_s,2nd Person Plural,25951,,,,djin1251,pensalfini-2003
+kurraku,,2pl_o,2nd Person Plural,61383,,,,djin1251,pensalfini-2003
+kurrak-,,2pl_p,2nd Person Plural,61384,,,,djin1251,pensalfini-2003
+jama,,3sg_m_a,3rd Person Singular Masculine,61393,,jama is a masculine demonstrative used for 3rd person reference.,,djin1251,pensalfini-2003
+jama,,3sg_m_s,3rd Person Singular Masculine,61394,,jama is a masculine demonstrative used for 3rd person reference.,,djin1251,pensalfini-2003
+ŋarnu,,3sg_m_o,3rd Person Singular Masculine,61385,,,,djin1251,pensalfini-2003
+niyi-,,3sg_m_p,3rd Person Singular Masculine,61386,,,,djin1251,pensalfini-2003
+jimi,,3sg_n_a,3rd Person Singular Neuter,61395,,jimi is a neuterdemonstrative used for 3rd person reference.,,djin1251,pensalfini-2003
+jimi,,3sg_n_s,3rd Person Singular Neuter,61396,,jimi is a neuter demonstrative used for 3rd person reference.,,djin1251,pensalfini-2003
+ŋayi,,3sg_n_o,3rd Person Singular Neuter,61387,,,,djin1251,pensalfini-2003
+niyi-,,3sg_n_p,3rd Person Singular Neuter,61388,,,,djin1251,pensalfini-2003
+waɲikila,,3du_m_s,3rd Person Dual Masculine,25952,,,,djin1251,pensalfini-2003
+waɲikila,,3du_f_s,3rd Person Dual Feminine,25953,,,,djin1251,pensalfini-2003
+waɲikila,,3du_n_s,3rd Person Dual Neuter,25954,,,,djin1251,pensalfini-2003
+jamabaji,,3d-a,3rd Person Dual,61397,,jamabaji is a masculine distal demonstrative plus plural suffix used for 3rd person plural reference.,,djin1251,pensalfini-2003
+waɲikila,,3d-s,3rd Person Dual,36502,,,,djin1251,pensalfini-2003
+wuɲaku,,3d-o,3rd Person Dual,61389,,,,djin1251,pensalfini-2003
+wuɲak-,,3d-p,3rd Person Dual,61390,,,,djin1251,pensalfini-2003
+jamabaji,,3p-a,3rd Person Plural,61398,,jamabaji is a masculine distal demonstrative plus plural suffix used for 3rd person plural reference.,,djin1251,pensalfini-2003
+jamabaji,,3p-s,3rd Person Plural,61399,,jamabaji is a masculine distal demonstrative plus plural suffix used for 3rd person plural reference.,,djin1251,pensalfini-2003
+"wurraku, ɲurraku",,3p-o,3rd Person Plural,61391,,,,djin1251,pensalfini-2003
+"wurrak-, ɲurrak-",,3p-p,3rd Person Plural,61392,,,,djin1251,pensalfini-2003

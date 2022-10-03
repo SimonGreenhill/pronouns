@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-aj;;1sg_a;1st (excl) Person Singular;41130;;;;stan1293;oed-2013
-aj;;1sg_s;1st (excl) Person Singular;41129;;;;stan1293;oed-2013
-mi:;;1sg_o;1st (excl) Person Singular;41128;;;;stan1293;oed-2013
-maj;;1sg_p;1st (excl) Person Singular;41127;;;;stan1293;oed-2013
-wi:;;1du_a;1st (excl) Person Dual;41126;;;;stan1293;oed-2013
-wi:;;1du_s;1st (excl) Person Dual;41125;;;;stan1293;oed-2013
-as;;1du_o;1st (excl) Person Dual;41124;;;;stan1293;oed-2013
-auə;;1du_p;1st (excl) Person Dual;41123;;;;stan1293;oed-2013
-wi:;;1pl_a;1st (excl) Person Plural;41122;;;;stan1293;oed-2013
-wi:;;1pl_s;1st (excl) Person Plural;41121;;;;stan1293;oed-2013
-as;;1pl_o;1st (excl) Person Plural;41120;;;;stan1293;oed-2013
-auə;;1pl_p;1st (excl) Person Plural;41119;;;;stan1293;oed-2013
-wi:;;12du_a;1st (incl) Person Dual;41118;;;;stan1293;oed-2013
-wi:;;12du_s;1st (incl) Person Dual;41117;;;;stan1293;oed-2013
-as;;12du_o;1st (incl) Person Dual;41116;;;;stan1293;oed-2013
-auə;;12du_p;1st (incl) Person Dual;41115;;;;stan1293;oed-2013
-wi:;;12pl_a;1st (incl) Person Plural;41114;;;;stan1293;oed-2013
-wi:;;12pl_s;1st (incl) Person Plural;41113;;;;stan1293;oed-2013
-as;;12pl_o;1st (incl) Person Plural;41112;;;;stan1293;oed-2013
-auə;;12pl_p;1st (incl) Person Plural;41111;;;;stan1293;oed-2013
-ju:;;2sg_a;2nd Person Singular;41110;;;;stan1293;oed-2013
-ju:;;2sg_s;2nd Person Singular;41109;;;;stan1293;oed-2013
-ju:;;2sg_o;2nd Person Singular;41108;;;;stan1293;oed-2013
-jɔ:;;2sg_p;2nd Person Singular;41107;;;;stan1293;oed-2013
-ju:;;2du_a;2nd Person Dual;41106;;;;stan1293;oed-2013
-ju:;;2du_s;2nd Person Dual;41105;;;;stan1293;oed-2013
-ju:;;2du_o;2nd Person Dual;41104;;;;stan1293;oed-2013
-jɔ:;;2du_p;2nd Person Dual;41103;;;;stan1293;oed-2013
-ju:;;2pl_a;2nd Person Plural;41102;;;;stan1293;oed-2013
-ju:;;2pl_s;2nd Person Plural;41101;;;;stan1293;oed-2013
-ju:;;2pl_o;2nd Person Plural;41100;;;;stan1293;oed-2013
-jɔ:;;2pl_p;2nd Person Plural;41099;;;;stan1293;oed-2013
-hi:;;3sg_m_a;3rd Person Singular Masculine;41098;;;;stan1293;oed-2013
-hi:;;3sg_m_s;3rd Person Singular Masculine;41097;;;;stan1293;oed-2013
-hɩm;;3sg_m_o;3rd Person Singular Masculine;41096;;;;stan1293;oed-2013
-hɩz;;3sg_m_p;3rd Person Singular Masculine;41095;;;;stan1293;oed-2013
-ši:;;3sg_n_a;3rd Person Singular Neuter;41094;;;;stan1293;oed-2013
-ši:;;3sg_n_s;3rd Person Singular Neuter;41093;;;;stan1293;oed-2013
-hə:;;3sg_n_o;3rd Person Singular Neuter;41092;;;;stan1293;oed-2013
-hə:;;3sg_n_p;3rd Person Singular Neuter;41091;;;;stan1293;oed-2013
-ðɛj;;3d-a;3rd Person Dual;41090;;;;stan1293;oed-2013
-ðɛj;;3d-s;3rd Person Dual;41089;;;;stan1293;oed-2013
-ðɛm;;3d-o;3rd Person Dual;41088;;;;stan1293;oed-2013
-ðɛ:;;3d-p;3rd Person Dual;41087;;;;stan1293;oed-2013
-ðɛj;;3p-a;3rd Person Plural;41086;;;;stan1293;oed-2013
-ðɛj;;3p-s;3rd Person Plural;41085;;;;stan1293;oed-2013
-ðɛm;;3p-o;3rd Person Plural;41084;;;;stan1293;oed-2013
-ðɛ:;;3p-p;3rd Person Plural;41083;;;;stan1293;oed-2013
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+aj,,1sg_a,1st (excl) Person Singular,41130,,,,stan1293,oed-2013
+aj,,1sg_s,1st (excl) Person Singular,41129,,,,stan1293,oed-2013
+mi:,,1sg_o,1st (excl) Person Singular,41128,,,,stan1293,oed-2013
+maj,,1sg_p,1st (excl) Person Singular,41127,,,,stan1293,oed-2013
+wi:,,1du_a,1st (excl) Person Dual,41126,,,,stan1293,oed-2013
+wi:,,1du_s,1st (excl) Person Dual,41125,,,,stan1293,oed-2013
+as,,1du_o,1st (excl) Person Dual,41124,,,,stan1293,oed-2013
+auə,,1du_p,1st (excl) Person Dual,41123,,,,stan1293,oed-2013
+wi:,,1pl_a,1st (excl) Person Plural,41122,,,,stan1293,oed-2013
+wi:,,1pl_s,1st (excl) Person Plural,41121,,,,stan1293,oed-2013
+as,,1pl_o,1st (excl) Person Plural,41120,,,,stan1293,oed-2013
+auə,,1pl_p,1st (excl) Person Plural,41119,,,,stan1293,oed-2013
+wi:,,12du_a,1st (incl) Person Dual,41118,,,,stan1293,oed-2013
+wi:,,12du_s,1st (incl) Person Dual,41117,,,,stan1293,oed-2013
+as,,12du_o,1st (incl) Person Dual,41116,,,,stan1293,oed-2013
+auə,,12du_p,1st (incl) Person Dual,41115,,,,stan1293,oed-2013
+wi:,,12pl_a,1st (incl) Person Plural,41114,,,,stan1293,oed-2013
+wi:,,12pl_s,1st (incl) Person Plural,41113,,,,stan1293,oed-2013
+as,,12pl_o,1st (incl) Person Plural,41112,,,,stan1293,oed-2013
+auə,,12pl_p,1st (incl) Person Plural,41111,,,,stan1293,oed-2013
+ju:,,2sg_a,2nd Person Singular,41110,,,,stan1293,oed-2013
+ju:,,2sg_s,2nd Person Singular,41109,,,,stan1293,oed-2013
+ju:,,2sg_o,2nd Person Singular,41108,,,,stan1293,oed-2013
+jɔ:,,2sg_p,2nd Person Singular,41107,,,,stan1293,oed-2013
+ju:,,2du_a,2nd Person Dual,41106,,,,stan1293,oed-2013
+ju:,,2du_s,2nd Person Dual,41105,,,,stan1293,oed-2013
+ju:,,2du_o,2nd Person Dual,41104,,,,stan1293,oed-2013
+jɔ:,,2du_p,2nd Person Dual,41103,,,,stan1293,oed-2013
+ju:,,2pl_a,2nd Person Plural,41102,,,,stan1293,oed-2013
+ju:,,2pl_s,2nd Person Plural,41101,,,,stan1293,oed-2013
+ju:,,2pl_o,2nd Person Plural,41100,,,,stan1293,oed-2013
+jɔ:,,2pl_p,2nd Person Plural,41099,,,,stan1293,oed-2013
+hi:,,3sg_m_a,3rd Person Singular Masculine,41098,,,,stan1293,oed-2013
+hi:,,3sg_m_s,3rd Person Singular Masculine,41097,,,,stan1293,oed-2013
+hɩm,,3sg_m_o,3rd Person Singular Masculine,41096,,,,stan1293,oed-2013
+hɩz,,3sg_m_p,3rd Person Singular Masculine,41095,,,,stan1293,oed-2013
+ši:,,3sg_n_a,3rd Person Singular Neuter,41094,,,,stan1293,oed-2013
+ši:,,3sg_n_s,3rd Person Singular Neuter,41093,,,,stan1293,oed-2013
+hə:,,3sg_n_o,3rd Person Singular Neuter,41092,,,,stan1293,oed-2013
+hə:,,3sg_n_p,3rd Person Singular Neuter,41091,,,,stan1293,oed-2013
+ðɛj,,3d-a,3rd Person Dual,41090,,,,stan1293,oed-2013
+ðɛj,,3d-s,3rd Person Dual,41089,,,,stan1293,oed-2013
+ðɛm,,3d-o,3rd Person Dual,41088,,,,stan1293,oed-2013
+ðɛ:,,3d-p,3rd Person Dual,41087,,,,stan1293,oed-2013
+ðɛj,,3p-a,3rd Person Plural,41086,,,,stan1293,oed-2013
+ðɛj,,3p-s,3rd Person Plural,41085,,,,stan1293,oed-2013
+ðɛm,,3p-o,3rd Person Plural,41084,,,,stan1293,oed-2013
+ðɛ:,,3p-p,3rd Person Plural,41083,,,,stan1293,oed-2013

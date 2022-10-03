@@ -1,77 +1,77 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋki;;1sg_a;1st (excl) Person Singular;23319;;;;gunt1241;quinn
-ŋka;;1sg_s;1st (excl) Person Singular;23320;;;;gunt1241;quinn
-ŋka;;1sg_o;1st (excl) Person Singular;23321;;;;gunt1241;quinn
-njun;;1sg_p;1st (excl) Person Singular;23322;;;;gunt1241;quinn
-nenje;;1du_a;1st (excl) Person Dual;23323;;;;gunt1241;quinn
-ni;;1du_s;1st (excl) Person Dual;23324;;;;gunt1241;quinn
-ni;;1du_o;1st (excl) Person Dual;23325;;;;gunt1241;quinn
-njen;;1du_p;1st (excl) Person Dual;23326;;;;gunt1241;quinn
-nenje;;1pl_a;1st (excl) Person Plural;23327;;;;gunt1241;quinn
-ni;;1pl_s;1st (excl) Person Plural;23328;;;;gunt1241;quinn
-ni;;1pl_o;1st (excl) Person Plural;23329;;;;gunt1241;quinn
-njen;;1pl_p;1st (excl) Person Plural;23330;;;;gunt1241;quinn
-nenje;;12du_a;1st (incl) Person Dual;23331;;;;gunt1241;quinn
-ni;;12du_s;1st (incl) Person Dual;23332;;;;gunt1241;quinn
-ni;;12du_o;1st (incl) Person Dual;23333;;;;gunt1241;quinn
-njen;;12du_p;1st (incl) Person Dual;23334;;;;gunt1241;quinn
-nenje;;12pl_a;1st (incl) Person Plural;23335;;;;gunt1241;quinn
-ni;;12pl_s;1st (incl) Person Plural;23336;;;;gunt1241;quinn
-ni;;12pl_o;1st (incl) Person Plural;23337;;;;gunt1241;quinn
-njen;;12pl_p;1st (incl) Person Plural;23338;;;;gunt1241;quinn
-mbi;;2sg_a;2nd Person Singular;23339;;;;gunt1241;quinn
-mba;;2sg_s;2nd Person Singular;23340;;;;gunt1241;quinn
-mba;;2sg_o;2nd Person Singular;23341;;;;gunt1241;quinn
-mbun;;2sg_p;2nd Person Singular;23342;;;;gunt1241;quinn
-mbenje;;2du_a;2nd Person Dual;23343;;;;gunt1241;quinn
-mba;;2du_s;2nd Person Dual;23344;;;;gunt1241;quinn
-mba;;2du_o;2nd Person Dual;23345;;;;gunt1241;quinn
-mben;;2du_p;2nd Person Dual;23346;;;;gunt1241;quinn
-mbenje;;2pl_a;2nd Person Plural;23347;;;;gunt1241;quinn
-mba;;2pl_s;2nd Person Plural;23348;;;;gunt1241;quinn
-mba;;2pl_o;2nd Person Plural;23349;;;;gunt1241;quinn
-mben;;2pl_p;2nd Person Plural;23350;;;;gunt1241;quinn
-pambu;;3sg_m_a;3rd Person Singular Masculine;23351;;;;gunt1241;quinn
-pi;;3sg_m_s;3rd Person Singular Masculine;23352;;;;gunt1241;quinn
-pi;;3sg_m_o;3rd Person Singular Masculine;23353;;;;gunt1241;quinn
-benan;;3sg_m_p;3rd Person Singular Masculine;23354;;;;gunt1241;quinn
-pambu;;3sg_f_a;3rd Person Singular Feminine;23355;;;;gunt1241;quinn
-pi;;3sg_f_s;3rd Person Singular Feminine;23356;;;;gunt1241;quinn
-pi;;3sg_f_o;3rd Person Singular Feminine;23357;;;;gunt1241;quinn
-benan;;3sg_f_p;3rd Person Singular Feminine;23358;;;;gunt1241;quinn
-pambu;;3sg_n_a;3rd Person Singular Neuter;23359;;;;gunt1241;quinn
-pi;;3sg_n_s;3rd Person Singular Neuter;23360;;;;gunt1241;quinn
-pi;;3sg_n_o;3rd Person Singular Neuter;23361;;;;gunt1241;quinn
-benan;;3sg_n_p;3rd Person Singular Neuter;23362;;;;gunt1241;quinn
-pambaŋk;;3du_m_a;3rd Person Dual Masculine;23363;;;;gunt1241;quinn
-pi;;3du_m_s;3rd Person Dual Masculine;23364;;;;gunt1241;quinn
-pi;;3du_m_o;3rd Person Dual Masculine;23365;;;;gunt1241;quinn
-benani;;3du_m_p;3rd Person Dual Masculine;23366;;;;gunt1241;quinn
-pambaŋk;;3du_f_a;3rd Person Dual Feminine;23367;;;;gunt1241;quinn
-pi;;3du_f_s;3rd Person Dual Feminine;23368;;;;gunt1241;quinn
-pi;;3du_f_o;3rd Person Dual Feminine;23369;;;;gunt1241;quinn
-benani;;3du_f_p;3rd Person Dual Feminine;23370;;;;gunt1241;quinn
-pambaŋk;;3du_n_a;3rd Person Dual Neuter;23371;;;;gunt1241;quinn
-pi;;3du_n_s;3rd Person Dual Neuter;23372;;;;gunt1241;quinn
-pi;;3du_n_o;3rd Person Dual Neuter;23373;;;;gunt1241;quinn
-benani;;3du_n_p;3rd Person Dual Neuter;23374;;;;gunt1241;quinn
-pambaŋk;;3pl_m_a;3rd Person Plural Masculine;23375;;;;gunt1241;quinn
-pi;;3pl_m_s;3rd Person Plural Masculine;23376;;;;gunt1241;quinn
-pi;;3pl_m_o;3rd Person Plural Masculine;23377;;;;gunt1241;quinn
-benani;;3pl_m_p;3rd Person Plural Masculine;23378;;;;gunt1241;quinn
-pambaŋk;;3pl_f_a;3rd Person Plural Feminine;23379;;;;gunt1241;quinn
-pi;;3pl_f_s;3rd Person Plural Feminine;23380;;;;gunt1241;quinn
-pi;;3pl_f_o;3rd Person Plural Feminine;23381;;;;gunt1241;quinn
-benani;;3pl_f_p;3rd Person Plural Feminine;23382;;;;gunt1241;quinn
-pambaŋk;;3pl_n_a;3rd Person Plural Neuter;23383;;;;gunt1241;quinn
-pi;;3pl_n_s;3rd Person Plural Neuter;23384;;;;gunt1241;quinn
-pi;;3pl_n_o;3rd Person Plural Neuter;23385;;;;gunt1241;quinn
-benani;;3pl_n_p;3rd Person Plural Neuter;23386;;;;gunt1241;quinn
-pambaŋk;;3d-a;3rd Person Dual;36295;;;;gunt1241;quinn
-pi;;3d-s;3rd Person Dual;36516;;;;gunt1241;quinn
-pi;;3d-o;3rd Person Dual;36744;;;;gunt1241;quinn
-benani;;3d-p;3rd Person Dual;36955;;;;gunt1241;quinn
-pambaŋk;;3p-a;3rd Person Plural;37176;;;;gunt1241;quinn
-pi;;3p-s;3rd Person Plural;37397;;;;gunt1241;quinn
-pi;;3p-o;3rd Person Plural;37624;;;;gunt1241;quinn
-benani;;3p-p;3rd Person Plural;37834;;;;gunt1241;quinn
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋki,,1sg_a,1st (excl) Person Singular,23319,,,,gunt1241,quinn
+ŋka,,1sg_s,1st (excl) Person Singular,23320,,,,gunt1241,quinn
+ŋka,,1sg_o,1st (excl) Person Singular,23321,,,,gunt1241,quinn
+njun,,1sg_p,1st (excl) Person Singular,23322,,,,gunt1241,quinn
+nenje,,1du_a,1st (excl) Person Dual,23323,,,,gunt1241,quinn
+ni,,1du_s,1st (excl) Person Dual,23324,,,,gunt1241,quinn
+ni,,1du_o,1st (excl) Person Dual,23325,,,,gunt1241,quinn
+njen,,1du_p,1st (excl) Person Dual,23326,,,,gunt1241,quinn
+nenje,,1pl_a,1st (excl) Person Plural,23327,,,,gunt1241,quinn
+ni,,1pl_s,1st (excl) Person Plural,23328,,,,gunt1241,quinn
+ni,,1pl_o,1st (excl) Person Plural,23329,,,,gunt1241,quinn
+njen,,1pl_p,1st (excl) Person Plural,23330,,,,gunt1241,quinn
+nenje,,12du_a,1st (incl) Person Dual,23331,,,,gunt1241,quinn
+ni,,12du_s,1st (incl) Person Dual,23332,,,,gunt1241,quinn
+ni,,12du_o,1st (incl) Person Dual,23333,,,,gunt1241,quinn
+njen,,12du_p,1st (incl) Person Dual,23334,,,,gunt1241,quinn
+nenje,,12pl_a,1st (incl) Person Plural,23335,,,,gunt1241,quinn
+ni,,12pl_s,1st (incl) Person Plural,23336,,,,gunt1241,quinn
+ni,,12pl_o,1st (incl) Person Plural,23337,,,,gunt1241,quinn
+njen,,12pl_p,1st (incl) Person Plural,23338,,,,gunt1241,quinn
+mbi,,2sg_a,2nd Person Singular,23339,,,,gunt1241,quinn
+mba,,2sg_s,2nd Person Singular,23340,,,,gunt1241,quinn
+mba,,2sg_o,2nd Person Singular,23341,,,,gunt1241,quinn
+mbun,,2sg_p,2nd Person Singular,23342,,,,gunt1241,quinn
+mbenje,,2du_a,2nd Person Dual,23343,,,,gunt1241,quinn
+mba,,2du_s,2nd Person Dual,23344,,,,gunt1241,quinn
+mba,,2du_o,2nd Person Dual,23345,,,,gunt1241,quinn
+mben,,2du_p,2nd Person Dual,23346,,,,gunt1241,quinn
+mbenje,,2pl_a,2nd Person Plural,23347,,,,gunt1241,quinn
+mba,,2pl_s,2nd Person Plural,23348,,,,gunt1241,quinn
+mba,,2pl_o,2nd Person Plural,23349,,,,gunt1241,quinn
+mben,,2pl_p,2nd Person Plural,23350,,,,gunt1241,quinn
+pambu,,3sg_m_a,3rd Person Singular Masculine,23351,,,,gunt1241,quinn
+pi,,3sg_m_s,3rd Person Singular Masculine,23352,,,,gunt1241,quinn
+pi,,3sg_m_o,3rd Person Singular Masculine,23353,,,,gunt1241,quinn
+benan,,3sg_m_p,3rd Person Singular Masculine,23354,,,,gunt1241,quinn
+pambu,,3sg_f_a,3rd Person Singular Feminine,23355,,,,gunt1241,quinn
+pi,,3sg_f_s,3rd Person Singular Feminine,23356,,,,gunt1241,quinn
+pi,,3sg_f_o,3rd Person Singular Feminine,23357,,,,gunt1241,quinn
+benan,,3sg_f_p,3rd Person Singular Feminine,23358,,,,gunt1241,quinn
+pambu,,3sg_n_a,3rd Person Singular Neuter,23359,,,,gunt1241,quinn
+pi,,3sg_n_s,3rd Person Singular Neuter,23360,,,,gunt1241,quinn
+pi,,3sg_n_o,3rd Person Singular Neuter,23361,,,,gunt1241,quinn
+benan,,3sg_n_p,3rd Person Singular Neuter,23362,,,,gunt1241,quinn
+pambaŋk,,3du_m_a,3rd Person Dual Masculine,23363,,,,gunt1241,quinn
+pi,,3du_m_s,3rd Person Dual Masculine,23364,,,,gunt1241,quinn
+pi,,3du_m_o,3rd Person Dual Masculine,23365,,,,gunt1241,quinn
+benani,,3du_m_p,3rd Person Dual Masculine,23366,,,,gunt1241,quinn
+pambaŋk,,3du_f_a,3rd Person Dual Feminine,23367,,,,gunt1241,quinn
+pi,,3du_f_s,3rd Person Dual Feminine,23368,,,,gunt1241,quinn
+pi,,3du_f_o,3rd Person Dual Feminine,23369,,,,gunt1241,quinn
+benani,,3du_f_p,3rd Person Dual Feminine,23370,,,,gunt1241,quinn
+pambaŋk,,3du_n_a,3rd Person Dual Neuter,23371,,,,gunt1241,quinn
+pi,,3du_n_s,3rd Person Dual Neuter,23372,,,,gunt1241,quinn
+pi,,3du_n_o,3rd Person Dual Neuter,23373,,,,gunt1241,quinn
+benani,,3du_n_p,3rd Person Dual Neuter,23374,,,,gunt1241,quinn
+pambaŋk,,3pl_m_a,3rd Person Plural Masculine,23375,,,,gunt1241,quinn
+pi,,3pl_m_s,3rd Person Plural Masculine,23376,,,,gunt1241,quinn
+pi,,3pl_m_o,3rd Person Plural Masculine,23377,,,,gunt1241,quinn
+benani,,3pl_m_p,3rd Person Plural Masculine,23378,,,,gunt1241,quinn
+pambaŋk,,3pl_f_a,3rd Person Plural Feminine,23379,,,,gunt1241,quinn
+pi,,3pl_f_s,3rd Person Plural Feminine,23380,,,,gunt1241,quinn
+pi,,3pl_f_o,3rd Person Plural Feminine,23381,,,,gunt1241,quinn
+benani,,3pl_f_p,3rd Person Plural Feminine,23382,,,,gunt1241,quinn
+pambaŋk,,3pl_n_a,3rd Person Plural Neuter,23383,,,,gunt1241,quinn
+pi,,3pl_n_s,3rd Person Plural Neuter,23384,,,,gunt1241,quinn
+pi,,3pl_n_o,3rd Person Plural Neuter,23385,,,,gunt1241,quinn
+benani,,3pl_n_p,3rd Person Plural Neuter,23386,,,,gunt1241,quinn
+pambaŋk,,3d-a,3rd Person Dual,36295,,,,gunt1241,quinn
+pi,,3d-s,3rd Person Dual,36516,,,,gunt1241,quinn
+pi,,3d-o,3rd Person Dual,36744,,,,gunt1241,quinn
+benani,,3d-p,3rd Person Dual,36955,,,,gunt1241,quinn
+pambaŋk,,3p-a,3rd Person Plural,37176,,,,gunt1241,quinn
+pi,,3p-s,3rd Person Plural,37397,,,,gunt1241,quinn
+pi,,3p-o,3rd Person Plural,37624,,,,gunt1241,quinn
+benani,,3p-p,3rd Person Plural,37834,,,,gunt1241,quinn

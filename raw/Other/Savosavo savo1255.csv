@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-a'ɲina;;1sg_a;1st (excl) Person Singular;44534;;;;savo1255;wegener-2012
-a'ɲina;;1sg_s;1st (excl) Person Singular;44533;;;;savo1255;wegener-2012
-a'ɲi;;1sg_o;1st (excl) Person Singular;44532;;;;savo1255;wegener-2012
-aiβa;;1sg_p;1st (excl) Person Singular;44531;;'a'ɲiβa' also occurs but is considered 'quite emphatic' (Wgener 2010:78).;;savo1255;wegener-2012
-aɰena;;1du_a;1st (excl) Person Dual;44530;;;;savo1255;wegener-2012
-aɰena;;1du_s;1st (excl) Person Dual;44529;;;;savo1255;wegener-2012
-aɰe;;1du_o;1st (excl) Person Dual;44528;;;;savo1255;wegener-2012
-aɰeβa;;1du_p;1st (excl) Person Dual;44527;;;;savo1255;wegener-2012
-aβena;;1pl_a;1st (excl) Person Plural;44526;;;;savo1255;wegener-2012
-aβena;;1pl_s;1st (excl) Person Plural;44525;;;;savo1255;wegener-2012
-aβe;;1pl_o;1st (excl) Person Plural;44524;;;;savo1255;wegener-2012
-aβeβa;;1pl_p;1st (excl) Person Plural;44523;;;;savo1255;wegener-2012
-maina;;12du_a;1st (incl) Person Dual;44522;;;;savo1255;wegener-2012
-maina;;12du_s;1st (incl) Person Dual;44521;;;;savo1255;wegener-2012
-mai;;12du_o;1st (incl) Person Dual;44520;;;;savo1255;wegener-2012
-maiβa;;12du_p;1st (incl) Person Dual;44519;;;;savo1255;wegener-2012
-maina;;12pl_a;1st (incl) Person Plural;44518;;;;savo1255;wegener-2012
-maina;;12pl_s;1st (incl) Person Plural;44517;;;;savo1255;wegener-2012
-mai;;12pl_o;1st (incl) Person Plural;44516;;;;savo1255;wegener-2012
-maiβa;;12pl_p;1st (incl) Person Plural;44515;;;;savo1255;wegener-2012
-nona;;2sg_a;2nd Person Singular;44514;;;;savo1255;wegener-2012
-nona;;2sg_s;2nd Person Singular;44513;;;;savo1255;wegener-2012
-no;;2sg_o;2nd Person Singular;44512;;;;savo1255;wegener-2012
-noβa;;2sg_p;2nd Person Singular;44511;;;;savo1255;wegener-2012
-pena;;2du_a;2nd Person Dual;44510;;;;savo1255;wegener-2012
-pena;;2du_s;2nd Person Dual;44509;;;;savo1255;wegener-2012
-pe;;2du_o;2nd Person Dual;44508;;;;savo1255;wegener-2012
-peβa;;2du_p;2nd Person Dual;44507;;;;savo1255;wegener-2012
-mena;;2pl_a;2nd Person Plural;44506;;;;savo1255;wegener-2012
-mena;;2pl_s;2nd Person Plural;44505;;;;savo1255;wegener-2012
-me;;2pl_o;2nd Person Plural;44504;;;;savo1255;wegener-2012
-meβa;;2pl_p;2nd Person Plural;44503;;;;savo1255;wegener-2012
-lona;;3sg_m_a;3rd Person Singular Masculine;44502;;;;savo1255;wegener-2012
-lona;;3sg_m_s;3rd Person Singular Masculine;44501;;;;savo1255;wegener-2012
-lo;;3sg_m_o;3rd Person Singular Masculine;44500;;;;savo1255;wegener-2012
-loβa;;3sg_m_p;3rd Person Singular Masculine;44499;;;;savo1255;wegener-2012
-kona;;3sg_n_a;3rd Person Singular Neuter;44498;;;;savo1255;wegener-2012
-kona;;3sg_n_s;3rd Person Singular Neuter;44497;;;;savo1255;wegener-2012
-ko;;3sg_n_o;3rd Person Singular Neuter;44496;;;;savo1255;wegener-2012
-koβa;;3sg_n_p;3rd Person Singular Neuter;44495;;;;savo1255;wegener-2012
-tona;;3d-a;3rd Person Dual;44494;;;;savo1255;wegener-2012
-tona;;3d-s;3rd Person Dual;44493;;;;savo1255;wegener-2012
-to;;3d-o;3rd Person Dual;44492;;;;savo1255;wegener-2012
-toβa;;3d-p;3rd Person Dual;44491;;;;savo1255;wegener-2012
-ze;;3p-a;3rd Person Plural;44490;;;;savo1255;wegener-2012
-ze;;3p-s;3rd Person Plural;44489;;;;savo1255;wegener-2012
-zepo;;3p-o;3rd Person Plural;44488;;;;savo1255;wegener-2012
-zeβa;;3p-p;3rd Person Plural;44487;;;;savo1255;wegener-2012
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+a'ɲina,,1sg_a,1st (excl) Person Singular,44534,,,,savo1255,wegener-2012
+a'ɲina,,1sg_s,1st (excl) Person Singular,44533,,,,savo1255,wegener-2012
+a'ɲi,,1sg_o,1st (excl) Person Singular,44532,,,,savo1255,wegener-2012
+aiβa,,1sg_p,1st (excl) Person Singular,44531,,'a'ɲiβa' also occurs but is considered 'quite emphatic' (Wgener 2010:78).,,savo1255,wegener-2012
+aɰena,,1du_a,1st (excl) Person Dual,44530,,,,savo1255,wegener-2012
+aɰena,,1du_s,1st (excl) Person Dual,44529,,,,savo1255,wegener-2012
+aɰe,,1du_o,1st (excl) Person Dual,44528,,,,savo1255,wegener-2012
+aɰeβa,,1du_p,1st (excl) Person Dual,44527,,,,savo1255,wegener-2012
+aβena,,1pl_a,1st (excl) Person Plural,44526,,,,savo1255,wegener-2012
+aβena,,1pl_s,1st (excl) Person Plural,44525,,,,savo1255,wegener-2012
+aβe,,1pl_o,1st (excl) Person Plural,44524,,,,savo1255,wegener-2012
+aβeβa,,1pl_p,1st (excl) Person Plural,44523,,,,savo1255,wegener-2012
+maina,,12du_a,1st (incl) Person Dual,44522,,,,savo1255,wegener-2012
+maina,,12du_s,1st (incl) Person Dual,44521,,,,savo1255,wegener-2012
+mai,,12du_o,1st (incl) Person Dual,44520,,,,savo1255,wegener-2012
+maiβa,,12du_p,1st (incl) Person Dual,44519,,,,savo1255,wegener-2012
+maina,,12pl_a,1st (incl) Person Plural,44518,,,,savo1255,wegener-2012
+maina,,12pl_s,1st (incl) Person Plural,44517,,,,savo1255,wegener-2012
+mai,,12pl_o,1st (incl) Person Plural,44516,,,,savo1255,wegener-2012
+maiβa,,12pl_p,1st (incl) Person Plural,44515,,,,savo1255,wegener-2012
+nona,,2sg_a,2nd Person Singular,44514,,,,savo1255,wegener-2012
+nona,,2sg_s,2nd Person Singular,44513,,,,savo1255,wegener-2012
+no,,2sg_o,2nd Person Singular,44512,,,,savo1255,wegener-2012
+noβa,,2sg_p,2nd Person Singular,44511,,,,savo1255,wegener-2012
+pena,,2du_a,2nd Person Dual,44510,,,,savo1255,wegener-2012
+pena,,2du_s,2nd Person Dual,44509,,,,savo1255,wegener-2012
+pe,,2du_o,2nd Person Dual,44508,,,,savo1255,wegener-2012
+peβa,,2du_p,2nd Person Dual,44507,,,,savo1255,wegener-2012
+mena,,2pl_a,2nd Person Plural,44506,,,,savo1255,wegener-2012
+mena,,2pl_s,2nd Person Plural,44505,,,,savo1255,wegener-2012
+me,,2pl_o,2nd Person Plural,44504,,,,savo1255,wegener-2012
+meβa,,2pl_p,2nd Person Plural,44503,,,,savo1255,wegener-2012
+lona,,3sg_m_a,3rd Person Singular Masculine,44502,,,,savo1255,wegener-2012
+lona,,3sg_m_s,3rd Person Singular Masculine,44501,,,,savo1255,wegener-2012
+lo,,3sg_m_o,3rd Person Singular Masculine,44500,,,,savo1255,wegener-2012
+loβa,,3sg_m_p,3rd Person Singular Masculine,44499,,,,savo1255,wegener-2012
+kona,,3sg_n_a,3rd Person Singular Neuter,44498,,,,savo1255,wegener-2012
+kona,,3sg_n_s,3rd Person Singular Neuter,44497,,,,savo1255,wegener-2012
+ko,,3sg_n_o,3rd Person Singular Neuter,44496,,,,savo1255,wegener-2012
+koβa,,3sg_n_p,3rd Person Singular Neuter,44495,,,,savo1255,wegener-2012
+tona,,3d-a,3rd Person Dual,44494,,,,savo1255,wegener-2012
+tona,,3d-s,3rd Person Dual,44493,,,,savo1255,wegener-2012
+to,,3d-o,3rd Person Dual,44492,,,,savo1255,wegener-2012
+toβa,,3d-p,3rd Person Dual,44491,,,,savo1255,wegener-2012
+ze,,3p-a,3rd Person Plural,44490,,,,savo1255,wegener-2012
+ze,,3p-s,3rd Person Plural,44489,,,,savo1255,wegener-2012
+zepo,,3p-o,3rd Person Plural,44488,,,,savo1255,wegener-2012
+zeβa,,3p-p,3rd Person Plural,44487,,,,savo1255,wegener-2012

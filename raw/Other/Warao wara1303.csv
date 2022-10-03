@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ine;;1sg_a;1st (excl) Person Singular;45878;;;;wara1303;romero-figeroa-1997
-ine;;1sg_s;1st (excl) Person Singular;45877;;;;wara1303;romero-figeroa-1997
-ma;;1sg_o;1st (excl) Person Singular;45876;;;;wara1303;romero-figeroa-1997
-ma-;;1sg_p;1st (excl) Person Singular;45875;;;;wara1303;romero-figeroa-1997
-oko;;1du_a;1st (excl) Person Dual;45874;;;;wara1303;romero-figeroa-1997
-oko;;1du_s;1st (excl) Person Dual;45873;;;;wara1303;romero-figeroa-1997
-ka;;1du_o;1st (excl) Person Dual;45872;;;;wara1303;romero-figeroa-1997
-ka-;;1du_p;1st (excl) Person Dual;45871;;;;wara1303;romero-figeroa-1997
-oko;;1pl_a;1st (excl) Person Plural;45870;;;;wara1303;romero-figeroa-1997
-oko;;1pl_s;1st (excl) Person Plural;45869;;;;wara1303;romero-figeroa-1997
-ka;;1pl_o;1st (excl) Person Plural;45868;;;;wara1303;romero-figeroa-1997
-ka-;;1pl_p;1st (excl) Person Plural;45867;;;;wara1303;romero-figeroa-1997
-oko;;12du_a;1st (incl) Person Dual;45866;;;;wara1303;romero-figeroa-1997
-oko;;12du_s;1st (incl) Person Dual;45865;;;;wara1303;romero-figeroa-1997
-ka;;12du_o;1st (incl) Person Dual;45864;;;;wara1303;romero-figeroa-1997
-ka-;;12du_p;1st (incl) Person Dual;45863;;;;wara1303;romero-figeroa-1997
-oko;;12pl_a;1st (incl) Person Plural;45862;;;;wara1303;romero-figeroa-1997
-oko;;12pl_s;1st (incl) Person Plural;45861;;;;wara1303;romero-figeroa-1997
-ka;;12pl_o;1st (incl) Person Plural;45860;;;;wara1303;romero-figeroa-1997
-ka-;;12pl_p;1st (incl) Person Plural;45859;;;;wara1303;romero-figeroa-1997
-ihi;;2sg_a;2nd Person Singular;45858;;;;wara1303;romero-figeroa-1997
-ihi;;2sg_s;2nd Person Singular;45857;;;;wara1303;romero-figeroa-1997
-hi;;2sg_o;2nd Person Singular;45856;;;;wara1303;romero-figeroa-1997
-hi-;;2sg_p;2nd Person Singular;45855;;;;wara1303;romero-figeroa-1997
-yatu;;2du_a;2nd Person Dual;45854;;;;wara1303;romero-figeroa-1997
-yatu;;2du_s;2nd Person Dual;45853;;;;wara1303;romero-figeroa-1997
-yatu;;2du_o;2nd Person Dual;45852;;;;wara1303;romero-figeroa-1997
-yatu;;2du_p;2nd Person Dual;45851;;;;wara1303;romero-figeroa-1997
-yatu;;2pl_a;2nd Person Plural;45850;;;;wara1303;romero-figeroa-1997
-yatu;;2pl_s;2nd Person Plural;45849;;;;wara1303;romero-figeroa-1997
-yatu;;2pl_o;2nd Person Plural;45848;;;;wara1303;romero-figeroa-1997
-yatu;;2pl_p;2nd Person Plural;45847;;;;wara1303;romero-figeroa-1997
-tai;;3sg_m_a;3rd Person Singular Masculine;45846;;;;wara1303;romero-figeroa-1997
-tai;;3sg_m_s;3rd Person Singular Masculine;45845;;;;wara1303;romero-figeroa-1997
-tai;;3sg_m_o;3rd Person Singular Masculine;45844;;;;wara1303;romero-figeroa-1997
-∅ ;;3sg_m_p;3rd Person Singular Masculine;45843;;;;wara1303;romero-figeroa-1997
-tai;;3sg_n_a;3rd Person Singular Neuter;45842;;;;wara1303;romero-figeroa-1997
-tai;;3sg_n_s;3rd Person Singular Neuter;45841;;;;wara1303;romero-figeroa-1997
-tai;;3sg_n_o;3rd Person Singular Neuter;45840;;;;wara1303;romero-figeroa-1997
-∅ ;;3sg_n_p;3rd Person Singular Neuter;45839;;;;wara1303;romero-figeroa-1997
-tatuma;;3d-a;3rd Person Dual;45838;;;;wara1303;romero-figeroa-1997
-tatuma;;3d-s;3rd Person Dual;45837;;;;wara1303;romero-figeroa-1997
-tatuma;;3d-o;3rd Person Dual;45836;;;;wara1303;romero-figeroa-1997
-∅ ;;3d-p;3rd Person Dual;45835;;;;wara1303;romero-figeroa-1997
-tatuma;;3p-a;3rd Person Plural;45834;;;;wara1303;romero-figeroa-1997
-tatuma;;3p-s;3rd Person Plural;45833;;;;wara1303;romero-figeroa-1997
-tatuma;;3p-o;3rd Person Plural;45832;;;;wara1303;romero-figeroa-1997
-∅ ;;3p-p;3rd Person Plural;45831;;;;wara1303;romero-figeroa-1997
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ine,,1sg_a,1st (excl) Person Singular,45878,,,,wara1303,romero-figeroa-1997
+ine,,1sg_s,1st (excl) Person Singular,45877,,,,wara1303,romero-figeroa-1997
+ma,,1sg_o,1st (excl) Person Singular,45876,,,,wara1303,romero-figeroa-1997
+ma-,,1sg_p,1st (excl) Person Singular,45875,,,,wara1303,romero-figeroa-1997
+oko,,1du_a,1st (excl) Person Dual,45874,,,,wara1303,romero-figeroa-1997
+oko,,1du_s,1st (excl) Person Dual,45873,,,,wara1303,romero-figeroa-1997
+ka,,1du_o,1st (excl) Person Dual,45872,,,,wara1303,romero-figeroa-1997
+ka-,,1du_p,1st (excl) Person Dual,45871,,,,wara1303,romero-figeroa-1997
+oko,,1pl_a,1st (excl) Person Plural,45870,,,,wara1303,romero-figeroa-1997
+oko,,1pl_s,1st (excl) Person Plural,45869,,,,wara1303,romero-figeroa-1997
+ka,,1pl_o,1st (excl) Person Plural,45868,,,,wara1303,romero-figeroa-1997
+ka-,,1pl_p,1st (excl) Person Plural,45867,,,,wara1303,romero-figeroa-1997
+oko,,12du_a,1st (incl) Person Dual,45866,,,,wara1303,romero-figeroa-1997
+oko,,12du_s,1st (incl) Person Dual,45865,,,,wara1303,romero-figeroa-1997
+ka,,12du_o,1st (incl) Person Dual,45864,,,,wara1303,romero-figeroa-1997
+ka-,,12du_p,1st (incl) Person Dual,45863,,,,wara1303,romero-figeroa-1997
+oko,,12pl_a,1st (incl) Person Plural,45862,,,,wara1303,romero-figeroa-1997
+oko,,12pl_s,1st (incl) Person Plural,45861,,,,wara1303,romero-figeroa-1997
+ka,,12pl_o,1st (incl) Person Plural,45860,,,,wara1303,romero-figeroa-1997
+ka-,,12pl_p,1st (incl) Person Plural,45859,,,,wara1303,romero-figeroa-1997
+ihi,,2sg_a,2nd Person Singular,45858,,,,wara1303,romero-figeroa-1997
+ihi,,2sg_s,2nd Person Singular,45857,,,,wara1303,romero-figeroa-1997
+hi,,2sg_o,2nd Person Singular,45856,,,,wara1303,romero-figeroa-1997
+hi-,,2sg_p,2nd Person Singular,45855,,,,wara1303,romero-figeroa-1997
+yatu,,2du_a,2nd Person Dual,45854,,,,wara1303,romero-figeroa-1997
+yatu,,2du_s,2nd Person Dual,45853,,,,wara1303,romero-figeroa-1997
+yatu,,2du_o,2nd Person Dual,45852,,,,wara1303,romero-figeroa-1997
+yatu,,2du_p,2nd Person Dual,45851,,,,wara1303,romero-figeroa-1997
+yatu,,2pl_a,2nd Person Plural,45850,,,,wara1303,romero-figeroa-1997
+yatu,,2pl_s,2nd Person Plural,45849,,,,wara1303,romero-figeroa-1997
+yatu,,2pl_o,2nd Person Plural,45848,,,,wara1303,romero-figeroa-1997
+yatu,,2pl_p,2nd Person Plural,45847,,,,wara1303,romero-figeroa-1997
+tai,,3sg_m_a,3rd Person Singular Masculine,45846,,,,wara1303,romero-figeroa-1997
+tai,,3sg_m_s,3rd Person Singular Masculine,45845,,,,wara1303,romero-figeroa-1997
+tai,,3sg_m_o,3rd Person Singular Masculine,45844,,,,wara1303,romero-figeroa-1997
+∅,,3sg_m_p,3rd Person Singular Masculine,45843,,,,wara1303,romero-figeroa-1997
+tai,,3sg_n_a,3rd Person Singular Neuter,45842,,,,wara1303,romero-figeroa-1997
+tai,,3sg_n_s,3rd Person Singular Neuter,45841,,,,wara1303,romero-figeroa-1997
+tai,,3sg_n_o,3rd Person Singular Neuter,45840,,,,wara1303,romero-figeroa-1997
+∅,,3sg_n_p,3rd Person Singular Neuter,45839,,,,wara1303,romero-figeroa-1997
+tatuma,,3d-a,3rd Person Dual,45838,,,,wara1303,romero-figeroa-1997
+tatuma,,3d-s,3rd Person Dual,45837,,,,wara1303,romero-figeroa-1997
+tatuma,,3d-o,3rd Person Dual,45836,,,,wara1303,romero-figeroa-1997
+∅,,3d-p,3rd Person Dual,45835,,,,wara1303,romero-figeroa-1997
+tatuma,,3p-a,3rd Person Plural,45834,,,,wara1303,romero-figeroa-1997
+tatuma,,3p-s,3rd Person Plural,45833,,,,wara1303,romero-figeroa-1997
+tatuma,,3p-o,3rd Person Plural,45832,,,,wara1303,romero-figeroa-1997
+∅,,3p-p,3rd Person Plural,45831,,,,wara1303,romero-figeroa-1997

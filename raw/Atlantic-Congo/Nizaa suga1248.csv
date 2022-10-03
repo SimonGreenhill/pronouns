@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mi˧;;1sg_a;1st (excl) Person Singular;58682;;;;suga1248;kjelsvik-2002
-mi˧;;1sg_s;1st (excl) Person Singular;58681;;;;suga1248;kjelsvik-2002
-mi˧;;1sg_o;1st (excl) Person Singular;58680;;;;suga1248;kjelsvik-2002
-mi˧;;1sg_p;1st (excl) Person Singular;58679;;;;suga1248;kjelsvik-2002
-yi˥;;1du_a;1st (excl) Person Dual;58678;;;;suga1248;kjelsvik-2002
-yi˥;;1du_s;1st (excl) Person Dual;58677;;;;suga1248;kjelsvik-2002
-yi˥;;1du_o;1st (excl) Person Dual;58676;;;;suga1248;kjelsvik-2002
-yi˥;;1du_p;1st (excl) Person Dual;58675;;;;suga1248;kjelsvik-2002
-yi˥;;1pl_a;1st (excl) Person Plural;58674;;;;suga1248;kjelsvik-2002
-yi˥;;1pl_s;1st (excl) Person Plural;58673;;;;suga1248;kjelsvik-2002
-yi˥;;1pl_o;1st (excl) Person Plural;58672;;;;suga1248;kjelsvik-2002
-yi˥;;1pl_p;1st (excl) Person Plural;58671;;;;suga1248;kjelsvik-2002
-yi˥;;12du_a;1st (incl) Person Dual;58670;;;;suga1248;kjelsvik-2002
-yi˥;;12du_s;1st (incl) Person Dual;58669;;;;suga1248;kjelsvik-2002
-yi˥;;12du_o;1st (incl) Person Dual;58668;;;;suga1248;kjelsvik-2002
-yi˥;;12du_p;1st (incl) Person Dual;58667;;;;suga1248;kjelsvik-2002
-yi˥;;12pl_a;1st (incl) Person Plural;58666;;;;suga1248;kjelsvik-2002
-yi˥;;12pl_s;1st (incl) Person Plural;58665;;;;suga1248;kjelsvik-2002
-yi˥;;12pl_o;1st (incl) Person Plural;58664;;;;suga1248;kjelsvik-2002
-yi˥;;12pl_p;1st (incl) Person Plural;58663;;;;suga1248;kjelsvik-2002
-wu˧;;2sg_a;2nd Person Singular;58662;;;;suga1248;kjelsvik-2002
-wu˧;;2sg_s;2nd Person Singular;58661;;;;suga1248;kjelsvik-2002
-wu˧;;2sg_o;2nd Person Singular;58660;;;;suga1248;kjelsvik-2002
-wu˧;;2sg_p;2nd Person Singular;58659;;;;suga1248;kjelsvik-2002
-ɲu˥;;2du_a;2nd Person Dual;58658;;;;suga1248;kjelsvik-2002
-ɲu˥;;2du_s;2nd Person Dual;58657;;;;suga1248;kjelsvik-2002
-ɲu˥;;2du_o;2nd Person Dual;58656;;;;suga1248;kjelsvik-2002
-ɲu˥;;2du_p;2nd Person Dual;58655;;;;suga1248;kjelsvik-2002
-ɲu˥;;2pl_a;2nd Person Plural;58654;;;;suga1248;kjelsvik-2002
-ɲu˥;;2pl_s;2nd Person Plural;58653;;;;suga1248;kjelsvik-2002
-ɲu˥;;2pl_o;2nd Person Plural;58652;;;;suga1248;kjelsvik-2002
-ɲu˥;;2pl_p;2nd Person Plural;58651;;;;suga1248;kjelsvik-2002
-ŋu˧;;3sg_m_a;3rd Person Singular Masculine;58650;;;;suga1248;kjelsvik-2002
-ŋu˧;;3sg_m_s;3rd Person Singular Masculine;58649;;;;suga1248;kjelsvik-2002
-ŋu˧;;3sg_m_o;3rd Person Singular Masculine;58648;;;;suga1248;kjelsvik-2002
-ŋu˧;;3sg_m_p;3rd Person Singular Masculine;58647;;;;suga1248;kjelsvik-2002
-ŋu˧;;3sg_n_a;3rd Person Singular Neuter;58646;;;;suga1248;kjelsvik-2002
-ŋu˧;;3sg_n_s;3rd Person Singular Neuter;58645;;;;suga1248;kjelsvik-2002
-ŋu˧;;3sg_n_o;3rd Person Singular Neuter;58644;;;;suga1248;kjelsvik-2002
-ŋu˧;;3sg_n_p;3rd Person Singular Neuter;58643;;;;suga1248;kjelsvik-2002
-ɓu˧;;3d-a;3rd Person Dual;58642;;;;suga1248;kjelsvik-2002
-ɓu˧;;3d-s;3rd Person Dual;58641;;;;suga1248;kjelsvik-2002
-ɓu˧;;3d-o;3rd Person Dual;58640;;;;suga1248;kjelsvik-2002
-ɓu˧;;3d-p;3rd Person Dual;58639;;;;suga1248;kjelsvik-2002
-ɓu˧;;3p-a;3rd Person Plural;58638;;;;suga1248;kjelsvik-2002
-ɓu˧;;3p-s;3rd Person Plural;58637;;;;suga1248;kjelsvik-2002
-ɓu˧;;3p-o;3rd Person Plural;58636;;;;suga1248;kjelsvik-2002
-ɓu˧;;3p-p;3rd Person Plural;58635;;;;suga1248;kjelsvik-2002
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mi˧,,1sg_a,1st (excl) Person Singular,58682,,,,suga1248,kjelsvik-2002
+mi˧,,1sg_s,1st (excl) Person Singular,58681,,,,suga1248,kjelsvik-2002
+mi˧,,1sg_o,1st (excl) Person Singular,58680,,,,suga1248,kjelsvik-2002
+mi˧,,1sg_p,1st (excl) Person Singular,58679,,,,suga1248,kjelsvik-2002
+yi˥,,1du_a,1st (excl) Person Dual,58678,,,,suga1248,kjelsvik-2002
+yi˥,,1du_s,1st (excl) Person Dual,58677,,,,suga1248,kjelsvik-2002
+yi˥,,1du_o,1st (excl) Person Dual,58676,,,,suga1248,kjelsvik-2002
+yi˥,,1du_p,1st (excl) Person Dual,58675,,,,suga1248,kjelsvik-2002
+yi˥,,1pl_a,1st (excl) Person Plural,58674,,,,suga1248,kjelsvik-2002
+yi˥,,1pl_s,1st (excl) Person Plural,58673,,,,suga1248,kjelsvik-2002
+yi˥,,1pl_o,1st (excl) Person Plural,58672,,,,suga1248,kjelsvik-2002
+yi˥,,1pl_p,1st (excl) Person Plural,58671,,,,suga1248,kjelsvik-2002
+yi˥,,12du_a,1st (incl) Person Dual,58670,,,,suga1248,kjelsvik-2002
+yi˥,,12du_s,1st (incl) Person Dual,58669,,,,suga1248,kjelsvik-2002
+yi˥,,12du_o,1st (incl) Person Dual,58668,,,,suga1248,kjelsvik-2002
+yi˥,,12du_p,1st (incl) Person Dual,58667,,,,suga1248,kjelsvik-2002
+yi˥,,12pl_a,1st (incl) Person Plural,58666,,,,suga1248,kjelsvik-2002
+yi˥,,12pl_s,1st (incl) Person Plural,58665,,,,suga1248,kjelsvik-2002
+yi˥,,12pl_o,1st (incl) Person Plural,58664,,,,suga1248,kjelsvik-2002
+yi˥,,12pl_p,1st (incl) Person Plural,58663,,,,suga1248,kjelsvik-2002
+wu˧,,2sg_a,2nd Person Singular,58662,,,,suga1248,kjelsvik-2002
+wu˧,,2sg_s,2nd Person Singular,58661,,,,suga1248,kjelsvik-2002
+wu˧,,2sg_o,2nd Person Singular,58660,,,,suga1248,kjelsvik-2002
+wu˧,,2sg_p,2nd Person Singular,58659,,,,suga1248,kjelsvik-2002
+ɲu˥,,2du_a,2nd Person Dual,58658,,,,suga1248,kjelsvik-2002
+ɲu˥,,2du_s,2nd Person Dual,58657,,,,suga1248,kjelsvik-2002
+ɲu˥,,2du_o,2nd Person Dual,58656,,,,suga1248,kjelsvik-2002
+ɲu˥,,2du_p,2nd Person Dual,58655,,,,suga1248,kjelsvik-2002
+ɲu˥,,2pl_a,2nd Person Plural,58654,,,,suga1248,kjelsvik-2002
+ɲu˥,,2pl_s,2nd Person Plural,58653,,,,suga1248,kjelsvik-2002
+ɲu˥,,2pl_o,2nd Person Plural,58652,,,,suga1248,kjelsvik-2002
+ɲu˥,,2pl_p,2nd Person Plural,58651,,,,suga1248,kjelsvik-2002
+ŋu˧,,3sg_m_a,3rd Person Singular Masculine,58650,,,,suga1248,kjelsvik-2002
+ŋu˧,,3sg_m_s,3rd Person Singular Masculine,58649,,,,suga1248,kjelsvik-2002
+ŋu˧,,3sg_m_o,3rd Person Singular Masculine,58648,,,,suga1248,kjelsvik-2002
+ŋu˧,,3sg_m_p,3rd Person Singular Masculine,58647,,,,suga1248,kjelsvik-2002
+ŋu˧,,3sg_n_a,3rd Person Singular Neuter,58646,,,,suga1248,kjelsvik-2002
+ŋu˧,,3sg_n_s,3rd Person Singular Neuter,58645,,,,suga1248,kjelsvik-2002
+ŋu˧,,3sg_n_o,3rd Person Singular Neuter,58644,,,,suga1248,kjelsvik-2002
+ŋu˧,,3sg_n_p,3rd Person Singular Neuter,58643,,,,suga1248,kjelsvik-2002
+ɓu˧,,3d-a,3rd Person Dual,58642,,,,suga1248,kjelsvik-2002
+ɓu˧,,3d-s,3rd Person Dual,58641,,,,suga1248,kjelsvik-2002
+ɓu˧,,3d-o,3rd Person Dual,58640,,,,suga1248,kjelsvik-2002
+ɓu˧,,3d-p,3rd Person Dual,58639,,,,suga1248,kjelsvik-2002
+ɓu˧,,3p-a,3rd Person Plural,58638,,,,suga1248,kjelsvik-2002
+ɓu˧,,3p-s,3rd Person Plural,58637,,,,suga1248,kjelsvik-2002
+ɓu˧,,3p-o,3rd Person Plural,58636,,,,suga1248,kjelsvik-2002
+ɓu˧,,3p-p,3rd Person Plural,58635,,,,suga1248,kjelsvik-2002

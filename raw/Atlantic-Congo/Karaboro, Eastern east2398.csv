@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ta˧, ra˧;;1sg_a;1st (excl) Person Singular;57824;;;;east2398;wichser-1994
-ta˧, ra˧;;1sg_s;1st (excl) Person Singular;57823;;;;east2398;wichser-1994
-ta˧, ra˧;;1sg_o;1st (excl) Person Singular;57822;;;;east2398;wichser-1994
-ta˧, ra˧;;1sg_p;1st (excl) Person Singular;57821;;;;east2398;wichser-1994
-wo˥;;1du_a;1st (excl) Person Dual;57820;;;;east2398;wichser-1994
-wo˥;;1du_s;1st (excl) Person Dual;57819;;;;east2398;wichser-1994
-wo˥;;1du_o;1st (excl) Person Dual;57818;;;;east2398;wichser-1994
-wo˥;;1du_p;1st (excl) Person Dual;57817;;;;east2398;wichser-1994
-wo˥;;1pl_a;1st (excl) Person Plural;57816;;;;east2398;wichser-1994
-wo˥;;1pl_s;1st (excl) Person Plural;57815;;;;east2398;wichser-1994
-wo˥;;1pl_o;1st (excl) Person Plural;57814;;;;east2398;wichser-1994
-wo˥;;1pl_p;1st (excl) Person Plural;57813;;;;east2398;wichser-1994
-wo˥;;12du_a;1st (incl) Person Dual;57812;;;;east2398;wichser-1994
-wo˥;;12du_s;1st (incl) Person Dual;57811;;;;east2398;wichser-1994
-wo˥;;12du_o;1st (incl) Person Dual;57810;;;;east2398;wichser-1994
-wo˥;;12du_p;1st (incl) Person Dual;57809;;;;east2398;wichser-1994
-wo˥;;12pl_a;1st (incl) Person Plural;57808;;;;east2398;wichser-1994
-wo˥;;12pl_s;1st (incl) Person Plural;57807;;;;east2398;wichser-1994
-wo˥;;12pl_o;1st (incl) Person Plural;57806;;;;east2398;wichser-1994
-wo˥;;12pl_p;1st (incl) Person Plural;57805;;;;east2398;wichser-1994
-ma˧;;2sg_a;2nd Person Singular;57804;;;;east2398;wichser-1994
-ma˧;;2sg_s;2nd Person Singular;57803;;;;east2398;wichser-1994
-ma˧;;2sg_o;2nd Person Singular;57802;;;;east2398;wichser-1994
-ma˧;;2sg_p;2nd Person Singular;57801;;;;east2398;wichser-1994
-ye˥;;2du_a;2nd Person Dual;57800;;;;east2398;wichser-1994
-ye˥;;2du_s;2nd Person Dual;57799;;;;east2398;wichser-1994
-ye˥;;2du_o;2nd Person Dual;57798;;;;east2398;wichser-1994
-ye˥;;2du_p;2nd Person Dual;57797;;;;east2398;wichser-1994
-ye˥;;2pl_a;2nd Person Plural;57796;;;;east2398;wichser-1994
-ye˥;;2pl_s;2nd Person Plural;57795;;;;east2398;wichser-1994
-ye˥;;2pl_o;2nd Person Plural;57794;;;;east2398;wichser-1994
-ye˥;;2pl_p;2nd Person Plural;57793;;;;east2398;wichser-1994
-u˧;;3sg_m_a;3rd Person Singular Masculine;57792;;;;east2398;wichser-1994
-u˧;;3sg_m_s;3rd Person Singular Masculine;57791;;;;east2398;wichser-1994
-u˧;;3sg_m_o;3rd Person Singular Masculine;57790;;;;east2398;wichser-1994
-u˧;;3sg_m_p;3rd Person Singular Masculine;57789;;;;east2398;wichser-1994
-ke˧;;3sg_n_a;3rd Person Singular Neuter;57788;;;;east2398;wichser-1994
-ke˧;;3sg_n_s;3rd Person Singular Neuter;57787;;;;east2398;wichser-1994
-ke˧;;3sg_n_o;3rd Person Singular Neuter;57786;;;;east2398;wichser-1994
-ke˧;;3sg_n_p;3rd Person Singular Neuter;57785;;;;east2398;wichser-1994
-pe˧;;3d-a;3rd Person Dual;57784;;;;east2398;wichser-1994
-pe˧;;3d-s;3rd Person Dual;57783;;;;east2398;wichser-1994
-pe˧;;3d-o;3rd Person Dual;57782;;;;east2398;wichser-1994
-pe˧;;3d-p;3rd Person Dual;57781;;;;east2398;wichser-1994
-pe˧;;3p-a;3rd Person Plural;57780;;;;east2398;wichser-1994
-pe˧;;3p-s;3rd Person Plural;57779;;;;east2398;wichser-1994
-pe˧;;3p-o;3rd Person Plural;57778;;;;east2398;wichser-1994
-pe˧;;3p-p;3rd Person Plural;57777;;;;east2398;wichser-1994
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+"ta˧, ra˧",,1sg_a,1st (excl) Person Singular,57824,,,,east2398,wichser-1994
+"ta˧, ra˧",,1sg_s,1st (excl) Person Singular,57823,,,,east2398,wichser-1994
+"ta˧, ra˧",,1sg_o,1st (excl) Person Singular,57822,,,,east2398,wichser-1994
+"ta˧, ra˧",,1sg_p,1st (excl) Person Singular,57821,,,,east2398,wichser-1994
+wo˥,,1du_a,1st (excl) Person Dual,57820,,,,east2398,wichser-1994
+wo˥,,1du_s,1st (excl) Person Dual,57819,,,,east2398,wichser-1994
+wo˥,,1du_o,1st (excl) Person Dual,57818,,,,east2398,wichser-1994
+wo˥,,1du_p,1st (excl) Person Dual,57817,,,,east2398,wichser-1994
+wo˥,,1pl_a,1st (excl) Person Plural,57816,,,,east2398,wichser-1994
+wo˥,,1pl_s,1st (excl) Person Plural,57815,,,,east2398,wichser-1994
+wo˥,,1pl_o,1st (excl) Person Plural,57814,,,,east2398,wichser-1994
+wo˥,,1pl_p,1st (excl) Person Plural,57813,,,,east2398,wichser-1994
+wo˥,,12du_a,1st (incl) Person Dual,57812,,,,east2398,wichser-1994
+wo˥,,12du_s,1st (incl) Person Dual,57811,,,,east2398,wichser-1994
+wo˥,,12du_o,1st (incl) Person Dual,57810,,,,east2398,wichser-1994
+wo˥,,12du_p,1st (incl) Person Dual,57809,,,,east2398,wichser-1994
+wo˥,,12pl_a,1st (incl) Person Plural,57808,,,,east2398,wichser-1994
+wo˥,,12pl_s,1st (incl) Person Plural,57807,,,,east2398,wichser-1994
+wo˥,,12pl_o,1st (incl) Person Plural,57806,,,,east2398,wichser-1994
+wo˥,,12pl_p,1st (incl) Person Plural,57805,,,,east2398,wichser-1994
+ma˧,,2sg_a,2nd Person Singular,57804,,,,east2398,wichser-1994
+ma˧,,2sg_s,2nd Person Singular,57803,,,,east2398,wichser-1994
+ma˧,,2sg_o,2nd Person Singular,57802,,,,east2398,wichser-1994
+ma˧,,2sg_p,2nd Person Singular,57801,,,,east2398,wichser-1994
+ye˥,,2du_a,2nd Person Dual,57800,,,,east2398,wichser-1994
+ye˥,,2du_s,2nd Person Dual,57799,,,,east2398,wichser-1994
+ye˥,,2du_o,2nd Person Dual,57798,,,,east2398,wichser-1994
+ye˥,,2du_p,2nd Person Dual,57797,,,,east2398,wichser-1994
+ye˥,,2pl_a,2nd Person Plural,57796,,,,east2398,wichser-1994
+ye˥,,2pl_s,2nd Person Plural,57795,,,,east2398,wichser-1994
+ye˥,,2pl_o,2nd Person Plural,57794,,,,east2398,wichser-1994
+ye˥,,2pl_p,2nd Person Plural,57793,,,,east2398,wichser-1994
+u˧,,3sg_m_a,3rd Person Singular Masculine,57792,,,,east2398,wichser-1994
+u˧,,3sg_m_s,3rd Person Singular Masculine,57791,,,,east2398,wichser-1994
+u˧,,3sg_m_o,3rd Person Singular Masculine,57790,,,,east2398,wichser-1994
+u˧,,3sg_m_p,3rd Person Singular Masculine,57789,,,,east2398,wichser-1994
+ke˧,,3sg_n_a,3rd Person Singular Neuter,57788,,,,east2398,wichser-1994
+ke˧,,3sg_n_s,3rd Person Singular Neuter,57787,,,,east2398,wichser-1994
+ke˧,,3sg_n_o,3rd Person Singular Neuter,57786,,,,east2398,wichser-1994
+ke˧,,3sg_n_p,3rd Person Singular Neuter,57785,,,,east2398,wichser-1994
+pe˧,,3d-a,3rd Person Dual,57784,,,,east2398,wichser-1994
+pe˧,,3d-s,3rd Person Dual,57783,,,,east2398,wichser-1994
+pe˧,,3d-o,3rd Person Dual,57782,,,,east2398,wichser-1994
+pe˧,,3d-p,3rd Person Dual,57781,,,,east2398,wichser-1994
+pe˧,,3p-a,3rd Person Plural,57780,,,,east2398,wichser-1994
+pe˧,,3p-s,3rd Person Plural,57779,,,,east2398,wichser-1994
+pe˧,,3p-o,3rd Person Plural,57778,,,,east2398,wichser-1994
+pe˧,,3p-p,3rd Person Plural,57777,,,,east2398,wichser-1994

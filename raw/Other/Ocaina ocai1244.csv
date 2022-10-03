@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-xo̙;;1sg_a;1st (excl) Person Singular;52514;;;;ocai1244;rosselli-2000
-xo̙;;1sg_s;1st (excl) Person Singular;52513;;;;ocai1244;rosselli-2000
-xo̙;;1sg_o;1st (excl) Person Singular;52512;;;;ocai1244;rosselli-2000
--x, -k, or -cV added to the noun according to the radix or other factors ;;1sg_p;1st (excl) Person Singular;52526;;;;ocai1244;rosselli-2000
-xoxo ;;1du_a;1st (excl) Person Dual;52511;;feminine form xaka;;ocai1244;rosselli-2000
-xoxo ;;1du_s;1st (excl) Person Dual;52510;;xaka as feminine form;;ocai1244;rosselli-2000
-xoxo ;;1du_o;1st (excl) Person Dual;52509;;xaka as feminine form;;ocai1244;rosselli-2000
-xoxo;;1du_p;1st (excl) Person Dual;52525;;xaka as feminine form;;ocai1244;rosselli-2000
-xako;;1pl_a;1st (excl) Person Plural;52508;;;;ocai1244;rosselli-2000
-xako;;1pl_s;1st (excl) Person Plural;52507;;;;ocai1244;rosselli-2000
-xako;;1pl_o;1st (excl) Person Plural;52506;;;;ocai1244;rosselli-2000
-xako;;1pl_p;1st (excl) Person Plural;52524;;;;ocai1244;rosselli-2000
-xoxo ;;12du_a;1st (incl) Person Dual;52505;;feminine form xaka;;ocai1244;rosselli-2000
-xoxo ;;12du_s;1st (incl) Person Dual;52504;;xaka as feminine form;;ocai1244;rosselli-2000
-xoxo ;;12du_o;1st (incl) Person Dual;52503;;xaka as feminine form;;ocai1244;rosselli-2000
-xoxo ;;12du_p;1st (incl) Person Dual;52523;;xaka as feminine form;;ocai1244;rosselli-2000
-xako;;12pl_a;1st (incl) Person Plural;52502;;;;ocai1244;rosselli-2000
-xako;;12pl_s;1st (incl) Person Plural;52501;;;;ocai1244;rosselli-2000
-xako;;12pl_o;1st (incl) Person Plural;52500;;;;ocai1244;rosselli-2000
-xako;;12pl_p;1st (incl) Person Plural;52522;;;;ocai1244;rosselli-2000
-o̙;;2sg_a;2nd Person Singular;52499;;;;ocai1244;rosselli-2000
-o̙;;2sg_s;2nd Person Singular;52498;;;;ocai1244;rosselli-2000
-o̙;;2sg_o;2nd Person Singular;52497;;;;ocai1244;rosselli-2000
-tonal marks the first syllable of the noun;;2sg_p;2nd Person Singular;52521;;;;ocai1244;rosselli-2000
-mo̙ʔxo ;;2du_a;2nd Person Dual;52496;;mo̙ʔxa as feminine form;;ocai1244;rosselli-2000
-mo̙ʔxo ;;2du_s;2nd Person Dual;52495;;mo̙ʔxa as feminine form;;ocai1244;rosselli-2000
-mo̙ʔxo ;;2du_o;2nd Person Dual;52494;;mo̙ʔxa as feminine form;;ocai1244;rosselli-2000
-mo̙ʔxo ;;2du_p;2nd Person Dual;52520;;mo̙ʔxa as feminine form;;ocai1244;rosselli-2000
-mo̙to;;2pl_a;2nd Person Plural;52493;;;;ocai1244;rosselli-2000
-mo̙to;;2pl_s;2nd Person Plural;52492;;;;ocai1244;rosselli-2000
-mo̙to;;2pl_o;2nd Person Plural;52491;;;;ocai1244;rosselli-2000
-mo̙to;;2pl_p;2nd Person Plural;52519;;;;ocai1244;rosselli-2000
-i̙ha̙ ;;3sg_m_a;3rd Person Singular Masculine;52490;;;;ocai1244;rosselli-2000
-i̙ha̙ ;;3sg_m_s;3rd Person Singular Masculine;52489;;;;ocai1244;rosselli-2000
-i̙ha̙ ;;3sg_m_o;3rd Person Singular Masculine;52488;;;;ocai1244;rosselli-2000
-i̙ha̙ ;;3sg_m_p;3rd Person Singular Masculine;52518;;i̙ha̙ is an animated form, the inanimated one is ttʸa̙hu̙;;ocai1244;rosselli-2000
-i̙ha̙ ;;3sg_n_a;3rd Person Singular Neuter;52487;;;;ocai1244;rosselli-2000
-i̙ha̙ ;;3sg_n_s;3rd Person Singular Neuter;52486;;;;ocai1244;rosselli-2000
-i̙ha̙ ;;3sg_n_o;3rd Person Singular Neuter;52485;;;;ocai1244;rosselli-2000
-i̙ha̙;;3sg_n_p;3rd Person Singular Neuter;52517;;i̙ha̙ is an animated form, the inanimated one is ttʸa̙hu̙;;ocai1244;rosselli-2000
-umáha ;;3d-a;3rd Person Dual;52484;;ukáha as feminine form;;ocai1244;rosselli-2000
-umáha ;;3d-s;3rd Person Dual;52483;;ukáha as feminine form;;ocai1244;rosselli-2000
-umáha ;;3d-o;3rd Person Dual;52482;;ukáha as feminine form;;ocai1244;rosselli-2000
-umáha;;3d-p;3rd Person Dual;52516;;ukáha as feminine form;;ocai1244;rosselli-2000
-usa;;3p-a;3rd Person Plural;52481;;;;ocai1244;rosselli-2000
-usa;;3p-s;3rd Person Plural;52480;;;;ocai1244;rosselli-2000
-usa;;3p-o;3rd Person Plural;52479;;;;ocai1244;rosselli-2000
-usa;;3p-p;3rd Person Plural;52515;;;;ocai1244;rosselli-2000
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+xo̙,,1sg_a,1st (excl) Person Singular,52514,,,,ocai1244,rosselli-2000
+xo̙,,1sg_s,1st (excl) Person Singular,52513,,,,ocai1244,rosselli-2000
+xo̙,,1sg_o,1st (excl) Person Singular,52512,,,,ocai1244,rosselli-2000
+"-x, -k, or -cV added to the noun according to the radix or other factors",,1sg_p,1st (excl) Person Singular,52526,,,,ocai1244,rosselli-2000
+xoxo,,1du_a,1st (excl) Person Dual,52511,,feminine form xaka,,ocai1244,rosselli-2000
+xoxo,,1du_s,1st (excl) Person Dual,52510,,xaka as feminine form,,ocai1244,rosselli-2000
+xoxo,,1du_o,1st (excl) Person Dual,52509,,xaka as feminine form,,ocai1244,rosselli-2000
+xoxo,,1du_p,1st (excl) Person Dual,52525,,xaka as feminine form,,ocai1244,rosselli-2000
+xako,,1pl_a,1st (excl) Person Plural,52508,,,,ocai1244,rosselli-2000
+xako,,1pl_s,1st (excl) Person Plural,52507,,,,ocai1244,rosselli-2000
+xako,,1pl_o,1st (excl) Person Plural,52506,,,,ocai1244,rosselli-2000
+xako,,1pl_p,1st (excl) Person Plural,52524,,,,ocai1244,rosselli-2000
+xoxo,,12du_a,1st (incl) Person Dual,52505,,feminine form xaka,,ocai1244,rosselli-2000
+xoxo,,12du_s,1st (incl) Person Dual,52504,,xaka as feminine form,,ocai1244,rosselli-2000
+xoxo,,12du_o,1st (incl) Person Dual,52503,,xaka as feminine form,,ocai1244,rosselli-2000
+xoxo,,12du_p,1st (incl) Person Dual,52523,,xaka as feminine form,,ocai1244,rosselli-2000
+xako,,12pl_a,1st (incl) Person Plural,52502,,,,ocai1244,rosselli-2000
+xako,,12pl_s,1st (incl) Person Plural,52501,,,,ocai1244,rosselli-2000
+xako,,12pl_o,1st (incl) Person Plural,52500,,,,ocai1244,rosselli-2000
+xako,,12pl_p,1st (incl) Person Plural,52522,,,,ocai1244,rosselli-2000
+o̙,,2sg_a,2nd Person Singular,52499,,,,ocai1244,rosselli-2000
+o̙,,2sg_s,2nd Person Singular,52498,,,,ocai1244,rosselli-2000
+o̙,,2sg_o,2nd Person Singular,52497,,,,ocai1244,rosselli-2000
+tonal marks the first syllable of the noun,,2sg_p,2nd Person Singular,52521,,,,ocai1244,rosselli-2000
+mo̙ʔxo,,2du_a,2nd Person Dual,52496,,mo̙ʔxa as feminine form,,ocai1244,rosselli-2000
+mo̙ʔxo,,2du_s,2nd Person Dual,52495,,mo̙ʔxa as feminine form,,ocai1244,rosselli-2000
+mo̙ʔxo,,2du_o,2nd Person Dual,52494,,mo̙ʔxa as feminine form,,ocai1244,rosselli-2000
+mo̙ʔxo,,2du_p,2nd Person Dual,52520,,mo̙ʔxa as feminine form,,ocai1244,rosselli-2000
+mo̙to,,2pl_a,2nd Person Plural,52493,,,,ocai1244,rosselli-2000
+mo̙to,,2pl_s,2nd Person Plural,52492,,,,ocai1244,rosselli-2000
+mo̙to,,2pl_o,2nd Person Plural,52491,,,,ocai1244,rosselli-2000
+mo̙to,,2pl_p,2nd Person Plural,52519,,,,ocai1244,rosselli-2000
+i̙ha̙,,3sg_m_a,3rd Person Singular Masculine,52490,,,,ocai1244,rosselli-2000
+i̙ha̙,,3sg_m_s,3rd Person Singular Masculine,52489,,,,ocai1244,rosselli-2000
+i̙ha̙,,3sg_m_o,3rd Person Singular Masculine,52488,,,,ocai1244,rosselli-2000
+i̙ha̙,,3sg_m_p,3rd Person Singular Masculine,52518,,"i̙ha̙ is an animated form, the inanimated one is ttʸa̙hu̙",,ocai1244,rosselli-2000
+i̙ha̙,,3sg_n_a,3rd Person Singular Neuter,52487,,,,ocai1244,rosselli-2000
+i̙ha̙,,3sg_n_s,3rd Person Singular Neuter,52486,,,,ocai1244,rosselli-2000
+i̙ha̙,,3sg_n_o,3rd Person Singular Neuter,52485,,,,ocai1244,rosselli-2000
+i̙ha̙,,3sg_n_p,3rd Person Singular Neuter,52517,,"i̙ha̙ is an animated form, the inanimated one is ttʸa̙hu̙",,ocai1244,rosselli-2000
+umáha,,3d-a,3rd Person Dual,52484,,ukáha as feminine form,,ocai1244,rosselli-2000
+umáha,,3d-s,3rd Person Dual,52483,,ukáha as feminine form,,ocai1244,rosselli-2000
+umáha,,3d-o,3rd Person Dual,52482,,ukáha as feminine form,,ocai1244,rosselli-2000
+umáha,,3d-p,3rd Person Dual,52516,,ukáha as feminine form,,ocai1244,rosselli-2000
+usa,,3p-a,3rd Person Plural,52481,,,,ocai1244,rosselli-2000
+usa,,3p-s,3rd Person Plural,52480,,,,ocai1244,rosselli-2000
+usa,,3p-o,3rd Person Plural,52479,,,,ocai1244,rosselli-2000
+usa,,3p-p,3rd Person Plural,52515,,,,ocai1244,rosselli-2000

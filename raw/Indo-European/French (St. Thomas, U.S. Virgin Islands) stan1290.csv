@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-je;;1sg_a;1st (excl) Person Singular;50482;;The form /mwê/ is also listed, see Highfield (1979:79) for discussion of this variants distribution.;;stan1290;highfield-1979
-je;;1sg_s;1st (excl) Person Singular;50481;;The form /mwê/ is also listed, see Highfield (1979:79) for discussion of this variants distribution.;;stan1290;highfield-1979
-me;;1sg_o;1st (excl) Person Singular;50480;;;;stan1290;highfield-1979
-moûn ;;1sg_p;1st (excl) Person Singular;50479;;;;stan1290;highfield-1979
-ôn;;1du_a;1st (excl) Person Dual;50478;;;;stan1290;highfield-1979
-ôn;;1du_s;1st (excl) Person Dual;50477;;;;stan1290;highfield-1979
-nouz;;1du_o;1st (excl) Person Dual;50476;;;;stan1290;highfield-1979
-nòt ;;1du_p;1st (excl) Person Dual;50475;;;;stan1290;highfield-1979
-ôn;;1pl_a;1st (excl) Person Plural;50474;;;;stan1290;highfield-1979
-ôn;;1pl_s;1st (excl) Person Plural;50473;;;;stan1290;highfield-1979
-nouz;;1pl_o;1st (excl) Person Plural;50472;;;;stan1290;highfield-1979
-nòt ;;1pl_p;1st (excl) Person Plural;50471;;;;stan1290;highfield-1979
-ôn;;12du_a;1st (incl) Person Dual;50470;;;;stan1290;highfield-1979
-ôn;;12du_s;1st (incl) Person Dual;50469;;;;stan1290;highfield-1979
-nouz;;12du_o;1st (incl) Person Dual;50468;;;;stan1290;highfield-1979
-nòt ;;12du_p;1st (incl) Person Dual;50467;;;;stan1290;highfield-1979
-ôn;;12pl_a;1st (incl) Person Plural;50466;;;;stan1290;highfield-1979
-ôn;;12pl_s;1st (incl) Person Plural;50465;;;;stan1290;highfield-1979
-nouz;;12pl_o;1st (incl) Person Plural;50464;;;;stan1290;highfield-1979
-nòt ;;12pl_p;1st (incl) Person Plural;50463;;;;stan1290;highfield-1979
-tu;;2sg_a;2nd Person Singular;50462;;;;stan1290;highfield-1979
-tu;;2sg_s;2nd Person Singular;50461;;;;stan1290;highfield-1979
-te;;2sg_o;2nd Person Singular;50460;;;;stan1290;highfield-1979
-tôn ;;2sg_p;2nd Person Singular;50459;;;;stan1290;highfield-1979
-vouzót;;2du_a;2nd Person Dual;50458;;;;stan1290;highfield-1979
-vouzót;;2du_s;2nd Person Dual;50457;;;;stan1290;highfield-1979
-vouz;;2du_o;2nd Person Dual;50456;;;;stan1290;highfield-1979
-vòt ;;2du_p;2nd Person Dual;50455;;;;stan1290;highfield-1979
-vouzót;;2pl_a;2nd Person Plural;50454;;;;stan1290;highfield-1979
-vouzót;;2pl_s;2nd Person Plural;50453;;;;stan1290;highfield-1979
-vouz;;2pl_o;2nd Person Plural;50452;;;;stan1290;highfield-1979
-vòt ;;2pl_p;2nd Person Plural;50451;;;;stan1290;highfield-1979
-iy;;3sg_m_a;3rd Person Singular Masculine;50450;;The form /il/ is also listed as a free varient (Highfield 1979:79).;;stan1290;highfield-1979
-iy;;3sg_m_s;3rd Person Singular Masculine;50449;;The form /il/ is also listed as a free varient (Highfield 1979:79).;;stan1290;highfield-1979
-le;;3sg_m_o;3rd Person Singular Masculine;50448;;;;stan1290;highfield-1979
-sôn ;;3sg_m_p;3rd Person Singular Masculine;50447;;;;stan1290;highfield-1979
-al;;3sg_n_a;3rd Person Singular Neuter;50446;;The form /èl/ is also listed as a free variant (Highfield 1979:79).;;stan1290;highfield-1979
-al;;3sg_n_s;3rd Person Singular Neuter;50445;;The form /èl/ is also listed as a free variant (Highfield 1979:79).;;stan1290;highfield-1979
-la;;3sg_n_o;3rd Person Singular Neuter;50444;;;;stan1290;highfield-1979
-sôn;;3sg_n_p;3rd Person Singular Neuter;50443;;;;stan1290;highfield-1979
-óel;;3d-a;3rd Person Dual;50442;;;;stan1290;highfield-1979
-óel;;3d-s;3rd Person Dual;50441;;;;stan1290;highfield-1979
-léz;;3d-o;3rd Person Dual;50440;;;;stan1290;highfield-1979
-loèr ;;3d-p;3rd Person Dual;50439;;;;stan1290;highfield-1979
-óel;;3p-a;3rd Person Plural;50438;;;;stan1290;highfield-1979
-óel;;3p-s;3rd Person Plural;50437;;;;stan1290;highfield-1979
-léz;;3p-o;3rd Person Plural;50436;;;;stan1290;highfield-1979
-loèr ;;3p-p;3rd Person Plural;50435;;;;stan1290;highfield-1979
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+je,,1sg_a,1st (excl) Person Singular,50482,,"The form /mwê/ is also listed, see Highfield (1979:79) for discussion of this variants distribution.",,stan1290,highfield-1979
+je,,1sg_s,1st (excl) Person Singular,50481,,"The form /mwê/ is also listed, see Highfield (1979:79) for discussion of this variants distribution.",,stan1290,highfield-1979
+me,,1sg_o,1st (excl) Person Singular,50480,,,,stan1290,highfield-1979
+moûn,,1sg_p,1st (excl) Person Singular,50479,,,,stan1290,highfield-1979
+ôn,,1du_a,1st (excl) Person Dual,50478,,,,stan1290,highfield-1979
+ôn,,1du_s,1st (excl) Person Dual,50477,,,,stan1290,highfield-1979
+nouz,,1du_o,1st (excl) Person Dual,50476,,,,stan1290,highfield-1979
+nòt,,1du_p,1st (excl) Person Dual,50475,,,,stan1290,highfield-1979
+ôn,,1pl_a,1st (excl) Person Plural,50474,,,,stan1290,highfield-1979
+ôn,,1pl_s,1st (excl) Person Plural,50473,,,,stan1290,highfield-1979
+nouz,,1pl_o,1st (excl) Person Plural,50472,,,,stan1290,highfield-1979
+nòt,,1pl_p,1st (excl) Person Plural,50471,,,,stan1290,highfield-1979
+ôn,,12du_a,1st (incl) Person Dual,50470,,,,stan1290,highfield-1979
+ôn,,12du_s,1st (incl) Person Dual,50469,,,,stan1290,highfield-1979
+nouz,,12du_o,1st (incl) Person Dual,50468,,,,stan1290,highfield-1979
+nòt,,12du_p,1st (incl) Person Dual,50467,,,,stan1290,highfield-1979
+ôn,,12pl_a,1st (incl) Person Plural,50466,,,,stan1290,highfield-1979
+ôn,,12pl_s,1st (incl) Person Plural,50465,,,,stan1290,highfield-1979
+nouz,,12pl_o,1st (incl) Person Plural,50464,,,,stan1290,highfield-1979
+nòt,,12pl_p,1st (incl) Person Plural,50463,,,,stan1290,highfield-1979
+tu,,2sg_a,2nd Person Singular,50462,,,,stan1290,highfield-1979
+tu,,2sg_s,2nd Person Singular,50461,,,,stan1290,highfield-1979
+te,,2sg_o,2nd Person Singular,50460,,,,stan1290,highfield-1979
+tôn,,2sg_p,2nd Person Singular,50459,,,,stan1290,highfield-1979
+vouzót,,2du_a,2nd Person Dual,50458,,,,stan1290,highfield-1979
+vouzót,,2du_s,2nd Person Dual,50457,,,,stan1290,highfield-1979
+vouz,,2du_o,2nd Person Dual,50456,,,,stan1290,highfield-1979
+vòt,,2du_p,2nd Person Dual,50455,,,,stan1290,highfield-1979
+vouzót,,2pl_a,2nd Person Plural,50454,,,,stan1290,highfield-1979
+vouzót,,2pl_s,2nd Person Plural,50453,,,,stan1290,highfield-1979
+vouz,,2pl_o,2nd Person Plural,50452,,,,stan1290,highfield-1979
+vòt,,2pl_p,2nd Person Plural,50451,,,,stan1290,highfield-1979
+iy,,3sg_m_a,3rd Person Singular Masculine,50450,,The form /il/ is also listed as a free varient (Highfield 1979:79).,,stan1290,highfield-1979
+iy,,3sg_m_s,3rd Person Singular Masculine,50449,,The form /il/ is also listed as a free varient (Highfield 1979:79).,,stan1290,highfield-1979
+le,,3sg_m_o,3rd Person Singular Masculine,50448,,,,stan1290,highfield-1979
+sôn,,3sg_m_p,3rd Person Singular Masculine,50447,,,,stan1290,highfield-1979
+al,,3sg_n_a,3rd Person Singular Neuter,50446,,The form /èl/ is also listed as a free variant (Highfield 1979:79).,,stan1290,highfield-1979
+al,,3sg_n_s,3rd Person Singular Neuter,50445,,The form /èl/ is also listed as a free variant (Highfield 1979:79).,,stan1290,highfield-1979
+la,,3sg_n_o,3rd Person Singular Neuter,50444,,,,stan1290,highfield-1979
+sôn,,3sg_n_p,3rd Person Singular Neuter,50443,,,,stan1290,highfield-1979
+óel,,3d-a,3rd Person Dual,50442,,,,stan1290,highfield-1979
+óel,,3d-s,3rd Person Dual,50441,,,,stan1290,highfield-1979
+léz,,3d-o,3rd Person Dual,50440,,,,stan1290,highfield-1979
+loèr,,3d-p,3rd Person Dual,50439,,,,stan1290,highfield-1979
+óel,,3p-a,3rd Person Plural,50438,,,,stan1290,highfield-1979
+óel,,3p-s,3rd Person Plural,50437,,,,stan1290,highfield-1979
+léz,,3p-o,3rd Person Plural,50436,,,,stan1290,highfield-1979
+loèr,,3p-p,3rd Person Plural,50435,,,,stan1290,highfield-1979

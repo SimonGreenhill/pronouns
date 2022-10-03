@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-yek;;1sg_a;1st (excl) Person Singular;40626;;;;buki1249;conrad-and-wogiga-1991
-yek;;1sg_s;1st (excl) Person Singular;40625;;;;buki1249;conrad-and-wogiga-1991
-yek;;1sg_o;1st (excl) Person Singular;40624;;;;buki1249;conrad-and-wogiga-1991
-yeki-;;1sg_p;1st (excl) Person Singular;40623;;;;buki1249;conrad-and-wogiga-1991
-ohwak;;1du_a;1st (excl) Person Dual;40622;;;;buki1249;conrad-and-wogiga-1991
-ohwak;;1du_s;1st (excl) Person Dual;40621;;;;buki1249;conrad-and-wogiga-1991
-ohwak;;1du_o;1st (excl) Person Dual;40620;;;;buki1249;conrad-and-wogiga-1991
-yeki-;;1du_p;1st (excl) Person Dual;40619;;;;buki1249;conrad-and-wogiga-1991
-apak;;1pl_a;1st (excl) Person Plural;40618;;;;buki1249;conrad-and-wogiga-1991
-apak;;1pl_s;1st (excl) Person Plural;40617;;;;buki1249;conrad-and-wogiga-1991
-apak;;1pl_o;1st (excl) Person Plural;40616;;;;buki1249;conrad-and-wogiga-1991
-apaki-;;1pl_p;1st (excl) Person Plural;40615;;;;buki1249;conrad-and-wogiga-1991
-ohwak;;12du_a;1st (incl) Person Dual;40614;;;;buki1249;conrad-and-wogiga-1991
-ohwak;;12du_s;1st (incl) Person Dual;40613;;;;buki1249;conrad-and-wogiga-1991
-ohwak;;12du_o;1st (incl) Person Dual;40612;;;;buki1249;conrad-and-wogiga-1991
-ohwaki-;;12du_p;1st (incl) Person Dual;40611;;;;buki1249;conrad-and-wogiga-1991
-apak;;12pl_a;1st (incl) Person Plural;40610;;;;buki1249;conrad-and-wogiga-1991
-apak;;12pl_s;1st (incl) Person Plural;40609;;;;buki1249;conrad-and-wogiga-1991
-apak;;12pl_o;1st (incl) Person Plural;40608;;;;buki1249;conrad-and-wogiga-1991
-apaki-;;12pl_p;1st (incl) Person Plural;40607;;;;buki1249;conrad-and-wogiga-1991
-nyak;;2sg_a;2nd Person Singular;40606;;;;buki1249;conrad-and-wogiga-1991
-nyak;;2sg_s;2nd Person Singular;40605;;;;buki1249;conrad-and-wogiga-1991
-nyak;;2sg_o;2nd Person Singular;40604;;;;buki1249;conrad-and-wogiga-1991
-nyaki-;;2sg_p;2nd Person Singular;40603;;;;buki1249;conrad-and-wogiga-1991
-bwiepú;;2du_a;2nd Person Dual;40602;;;;buki1249;conrad-and-wogiga-1991
-bwiepú;;2du_s;2nd Person Dual;40601;;;;buki1249;conrad-and-wogiga-1991
-bwiepú;;2du_o;2nd Person Dual;40600;;;;buki1249;conrad-and-wogiga-1991
-bwiepúi-;;2du_p;2nd Person Dual;40599;;;;buki1249;conrad-and-wogiga-1991
-ipak;;2pl_a;2nd Person Plural;40598;;;;buki1249;conrad-and-wogiga-1991
-ipak;;2pl_s;2nd Person Plural;40597;;;;buki1249;conrad-and-wogiga-1991
-ipak;;2pl_o;2nd Person Plural;40596;;;;buki1249;conrad-and-wogiga-1991
-ipaki;;2pl_p;2nd Person Plural;40595;;;;buki1249;conrad-and-wogiga-1991
-énan, nani;;3sg_m_a;3rd Person Singular Masculine;40594;;;;buki1249;conrad-and-wogiga-1991
-énan, nani;;3sg_m_s;3rd Person Singular Masculine;40593;;;;buki1249;conrad-and-wogiga-1991
-énan, nani;;3sg_m_o;3rd Person Singular Masculine;40592;;;;buki1249;conrad-and-wogiga-1991
-énani-;;3sg_m_p;3rd Person Singular Masculine;40591;;;;buki1249;conrad-and-wogiga-1991
-okok, kwakwi;;3sg_n_a;3rd Person Singular Neuter;40590;;;;buki1249;conrad-and-wogiga-1991
-okok, kwakwi;;3sg_n_s;3rd Person Singular Neuter;40589;;;;buki1249;conrad-and-wogiga-1991
-okok, kwakwi;;3sg_n_o;3rd Person Singular Neuter;40588;;;;buki1249;conrad-and-wogiga-1991
-okoki-;;3sg_n_p;3rd Person Singular Neuter;40587;;;;buki1249;conrad-and-wogiga-1991
-omom bwióm;;3d-a;3rd Person Dual;40586;;omom bwióm is masculine. owo bwiou is feminine, and echech bwiech is the mixed gender form.;;buki1249;conrad-and-wogiga-1991
-omom bwiom;;3d-s;3rd Person Dual;40585;;omom bwióm is masculine. owo bwiou is feminine, and echech bwiech is the mixed gender form.;;buki1249;conrad-and-wogiga-1991
-omom bwiom;;3d-o;3rd Person Dual;40584;;omom bwióm is masculine. owo bwiou is feminine, and echech bwiech is the mixed gender form.;;buki1249;conrad-and-wogiga-1991
-omom bwiomi-;;3d-p;3rd Person Dual;40583;;;;buki1249;conrad-and-wogiga-1991
-omom, mami;;3p-a;3rd Person Plural;40582;;omom/mami are masculine forms. owo/wawi are feminine forms. echech/chachi are mixed gender forms.;;buki1249;conrad-and-wogiga-1991
-omom, mami;;3p-s;3rd Person Plural;40581;;omom/mami are masculine forms. owo/wawi are feminine forms. echech/chachi are mixed gender forms.;;buki1249;conrad-and-wogiga-1991
-omom, mami;;3p-o;3rd Person Plural;40580;;omom/mami are masculine forms. owo/wawi are feminine forms. echech/chachi are mixed gender forms.;;buki1249;conrad-and-wogiga-1991
-omomi-;;3p-p;3rd Person Plural;40579;;;;buki1249;conrad-and-wogiga-1991
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+yek,,1sg_a,1st (excl) Person Singular,40626,,,,buki1249,conrad-and-wogiga-1991
+yek,,1sg_s,1st (excl) Person Singular,40625,,,,buki1249,conrad-and-wogiga-1991
+yek,,1sg_o,1st (excl) Person Singular,40624,,,,buki1249,conrad-and-wogiga-1991
+yeki-,,1sg_p,1st (excl) Person Singular,40623,,,,buki1249,conrad-and-wogiga-1991
+ohwak,,1du_a,1st (excl) Person Dual,40622,,,,buki1249,conrad-and-wogiga-1991
+ohwak,,1du_s,1st (excl) Person Dual,40621,,,,buki1249,conrad-and-wogiga-1991
+ohwak,,1du_o,1st (excl) Person Dual,40620,,,,buki1249,conrad-and-wogiga-1991
+yeki-,,1du_p,1st (excl) Person Dual,40619,,,,buki1249,conrad-and-wogiga-1991
+apak,,1pl_a,1st (excl) Person Plural,40618,,,,buki1249,conrad-and-wogiga-1991
+apak,,1pl_s,1st (excl) Person Plural,40617,,,,buki1249,conrad-and-wogiga-1991
+apak,,1pl_o,1st (excl) Person Plural,40616,,,,buki1249,conrad-and-wogiga-1991
+apaki-,,1pl_p,1st (excl) Person Plural,40615,,,,buki1249,conrad-and-wogiga-1991
+ohwak,,12du_a,1st (incl) Person Dual,40614,,,,buki1249,conrad-and-wogiga-1991
+ohwak,,12du_s,1st (incl) Person Dual,40613,,,,buki1249,conrad-and-wogiga-1991
+ohwak,,12du_o,1st (incl) Person Dual,40612,,,,buki1249,conrad-and-wogiga-1991
+ohwaki-,,12du_p,1st (incl) Person Dual,40611,,,,buki1249,conrad-and-wogiga-1991
+apak,,12pl_a,1st (incl) Person Plural,40610,,,,buki1249,conrad-and-wogiga-1991
+apak,,12pl_s,1st (incl) Person Plural,40609,,,,buki1249,conrad-and-wogiga-1991
+apak,,12pl_o,1st (incl) Person Plural,40608,,,,buki1249,conrad-and-wogiga-1991
+apaki-,,12pl_p,1st (incl) Person Plural,40607,,,,buki1249,conrad-and-wogiga-1991
+nyak,,2sg_a,2nd Person Singular,40606,,,,buki1249,conrad-and-wogiga-1991
+nyak,,2sg_s,2nd Person Singular,40605,,,,buki1249,conrad-and-wogiga-1991
+nyak,,2sg_o,2nd Person Singular,40604,,,,buki1249,conrad-and-wogiga-1991
+nyaki-,,2sg_p,2nd Person Singular,40603,,,,buki1249,conrad-and-wogiga-1991
+bwiepú,,2du_a,2nd Person Dual,40602,,,,buki1249,conrad-and-wogiga-1991
+bwiepú,,2du_s,2nd Person Dual,40601,,,,buki1249,conrad-and-wogiga-1991
+bwiepú,,2du_o,2nd Person Dual,40600,,,,buki1249,conrad-and-wogiga-1991
+bwiepúi-,,2du_p,2nd Person Dual,40599,,,,buki1249,conrad-and-wogiga-1991
+ipak,,2pl_a,2nd Person Plural,40598,,,,buki1249,conrad-and-wogiga-1991
+ipak,,2pl_s,2nd Person Plural,40597,,,,buki1249,conrad-and-wogiga-1991
+ipak,,2pl_o,2nd Person Plural,40596,,,,buki1249,conrad-and-wogiga-1991
+ipaki,,2pl_p,2nd Person Plural,40595,,,,buki1249,conrad-and-wogiga-1991
+"énan, nani",,3sg_m_a,3rd Person Singular Masculine,40594,,,,buki1249,conrad-and-wogiga-1991
+"énan, nani",,3sg_m_s,3rd Person Singular Masculine,40593,,,,buki1249,conrad-and-wogiga-1991
+"énan, nani",,3sg_m_o,3rd Person Singular Masculine,40592,,,,buki1249,conrad-and-wogiga-1991
+énani-,,3sg_m_p,3rd Person Singular Masculine,40591,,,,buki1249,conrad-and-wogiga-1991
+"okok, kwakwi",,3sg_n_a,3rd Person Singular Neuter,40590,,,,buki1249,conrad-and-wogiga-1991
+"okok, kwakwi",,3sg_n_s,3rd Person Singular Neuter,40589,,,,buki1249,conrad-and-wogiga-1991
+"okok, kwakwi",,3sg_n_o,3rd Person Singular Neuter,40588,,,,buki1249,conrad-and-wogiga-1991
+okoki-,,3sg_n_p,3rd Person Singular Neuter,40587,,,,buki1249,conrad-and-wogiga-1991
+omom bwióm,,3d-a,3rd Person Dual,40586,,"omom bwióm is masculine. owo bwiou is feminine, and echech bwiech is the mixed gender form.",,buki1249,conrad-and-wogiga-1991
+omom bwiom,,3d-s,3rd Person Dual,40585,,"omom bwióm is masculine. owo bwiou is feminine, and echech bwiech is the mixed gender form.",,buki1249,conrad-and-wogiga-1991
+omom bwiom,,3d-o,3rd Person Dual,40584,,"omom bwióm is masculine. owo bwiou is feminine, and echech bwiech is the mixed gender form.",,buki1249,conrad-and-wogiga-1991
+omom bwiomi-,,3d-p,3rd Person Dual,40583,,,,buki1249,conrad-and-wogiga-1991
+"omom, mami",,3p-a,3rd Person Plural,40582,,omom/mami are masculine forms. owo/wawi are feminine forms. echech/chachi are mixed gender forms.,,buki1249,conrad-and-wogiga-1991
+"omom, mami",,3p-s,3rd Person Plural,40581,,omom/mami are masculine forms. owo/wawi are feminine forms. echech/chachi are mixed gender forms.,,buki1249,conrad-and-wogiga-1991
+"omom, mami",,3p-o,3rd Person Plural,40580,,omom/mami are masculine forms. owo/wawi are feminine forms. echech/chachi are mixed gender forms.,,buki1249,conrad-and-wogiga-1991
+omomi-,,3p-p,3rd Person Plural,40579,,,,buki1249,conrad-and-wogiga-1991

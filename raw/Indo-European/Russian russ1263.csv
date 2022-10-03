@@ -1,77 +1,77 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ja;;1sg_a;1st (excl) Person Singular;23555;;;;russ1263;pulkina-1975
-ja;;1sg_s;1st (excl) Person Singular;23556;;;;russ1263;pulkina-1975
-menjá;;1sg_o;1st (excl) Person Singular;23557;;;;russ1263;pulkina-1975
-moj;;1sg_p;1st (excl) Person Singular;23558;;;;russ1263;pulkina-1975
-mɨ;;1du_a;1st (excl) Person Dual;23559;;;;russ1263;pulkina-1975
-mɨ;;1du_s;1st (excl) Person Dual;23560;;;;russ1263;pulkina-1975
-nas;;1du_o;1st (excl) Person Dual;23561;;;;russ1263;pulkina-1975
-naš;;1du_p;1st (excl) Person Dual;23562;;;;russ1263;pulkina-1975
-mɨ;;1pl_a;1st (excl) Person Plural;23563;;;;russ1263;pulkina-1975
-mɨ;;1pl_s;1st (excl) Person Plural;23564;;;;russ1263;pulkina-1975
-nas;;1pl_o;1st (excl) Person Plural;23565;;;;russ1263;pulkina-1975
-naš;;1pl_p;1st (excl) Person Plural;23566;;;;russ1263;pulkina-1975
-mɨ;;12du_a;1st (incl) Person Dual;23567;;;;russ1263;pulkina-1975
-mɨ;;12du_s;1st (incl) Person Dual;23568;;;;russ1263;pulkina-1975
-nas;;12du_o;1st (incl) Person Dual;23569;;;;russ1263;pulkina-1975
-naš;;12du_p;1st (incl) Person Dual;23570;;;;russ1263;pulkina-1975
-mɨ;;12pl_a;1st (incl) Person Plural;23571;;;;russ1263;pulkina-1975
-mɨ;;12pl_s;1st (incl) Person Plural;23572;;;;russ1263;pulkina-1975
-nas;;12pl_o;1st (incl) Person Plural;23573;;;;russ1263;pulkina-1975
-naš;;12pl_p;1st (incl) Person Plural;23574;;;;russ1263;pulkina-1975
-tɨ;;2sg_a;2nd Person Singular;23575;;;;russ1263;pulkina-1975
-tɨ;;2sg_s;2nd Person Singular;23576;;;;russ1263;pulkina-1975
-tebjá;;2sg_o;2nd Person Singular;23577;;;;russ1263;pulkina-1975
-tvoj;;2sg_p;2nd Person Singular;23578;;;;russ1263;pulkina-1975
-vɨ;;2du_a;2nd Person Dual;23579;;;;russ1263;pulkina-1975
-vɨ;;2du_s;2nd Person Dual;23580;;;;russ1263;pulkina-1975
-vas;;2du_o;2nd Person Dual;23581;;;;russ1263;pulkina-1975
-vaš;;2du_p;2nd Person Dual;23582;;;;russ1263;pulkina-1975
-vɨ;;2pl_a;2nd Person Plural;23583;;;;russ1263;pulkina-1975
-vɨ;;2pl_s;2nd Person Plural;23584;;;;russ1263;pulkina-1975
-vas;;2pl_o;2nd Person Plural;23585;;;;russ1263;pulkina-1975
-vaš;;2pl_p;2nd Person Plural;23586;;;;russ1263;pulkina-1975
-on;;3sg_m_a;3rd Person Singular Masculine;23587;;;;russ1263;pulkina-1975
-on;;3sg_m_s;3rd Person Singular Masculine;23588;;;;russ1263;pulkina-1975
-evó;;3sg_m_o;3rd Person Singular Masculine;23589;;;;russ1263;pulkina-1975
-evó;;3sg_m_p;3rd Person Singular Masculine;23590;;;;russ1263;pulkina-1975
-oná;;3sg_f_a;3rd Person Singular Feminine;23591;;;;russ1263;pulkina-1975
-oná;;3sg_f_s;3rd Person Singular Feminine;23592;;;;russ1263;pulkina-1975
-ejó;;3sg_f_o;3rd Person Singular Feminine;23593;;;;russ1263;pulkina-1975
-ejó;;3sg_f_p;3rd Person Singular Feminine;23594;;;;russ1263;pulkina-1975
-onó;;3sg_n_a;3rd Person Singular Neuter;23595;;;;russ1263;pulkina-1975
-onó;;3sg_n_s;3rd Person Singular Neuter;23596;;;;russ1263;pulkina-1975
-evó;;3sg_n_o;3rd Person Singular Neuter;23597;;;;russ1263;pulkina-1975
-evó;;3sg_n_p;3rd Person Singular Neuter;23598;;;;russ1263;pulkina-1975
-oní;;3du_m_a;3rd Person Dual Masculine;23599;;;;russ1263;pulkina-1975
-oní;;3du_m_s;3rd Person Dual Masculine;23600;;;;russ1263;pulkina-1975
-ix;;3du_m_o;3rd Person Dual Masculine;23601;;;;russ1263;pulkina-1975
-ix;;3du_m_p;3rd Person Dual Masculine;23602;;;;russ1263;pulkina-1975
-oní;;3du_f_a;3rd Person Dual Feminine;23603;;;;russ1263;pulkina-1975
-oní;;3du_f_s;3rd Person Dual Feminine;23604;;;;russ1263;pulkina-1975
-ix;;3du_f_o;3rd Person Dual Feminine;23605;;;;russ1263;pulkina-1975
-ix;;3du_f_p;3rd Person Dual Feminine;23606;;;;russ1263;pulkina-1975
-oní;;3du_n_a;3rd Person Dual Neuter;23607;;;;russ1263;pulkina-1975
-oní;;3du_n_s;3rd Person Dual Neuter;23608;;;;russ1263;pulkina-1975
-ix;;3du_n_o;3rd Person Dual Neuter;23609;;;;russ1263;pulkina-1975
-ix;;3du_n_p;3rd Person Dual Neuter;23610;;;;russ1263;pulkina-1975
-oní;;3pl_m_a;3rd Person Plural Masculine;23611;;;;russ1263;pulkina-1975
-oní;;3pl_m_s;3rd Person Plural Masculine;23612;;;;russ1263;pulkina-1975
-ix;;3pl_m_o;3rd Person Plural Masculine;23613;;;;russ1263;pulkina-1975
-ix;;3pl_m_p;3rd Person Plural Masculine;23614;;;;russ1263;pulkina-1975
-oní;;3pl_f_a;3rd Person Plural Feminine;23615;;;;russ1263;pulkina-1975
-oní;;3pl_f_s;3rd Person Plural Feminine;23616;;;;russ1263;pulkina-1975
-ix;;3pl_f_o;3rd Person Plural Feminine;23617;;;;russ1263;pulkina-1975
-ix;;3pl_f_p;3rd Person Plural Feminine;23618;;;;russ1263;pulkina-1975
-oní;;3pl_n_a;3rd Person Plural Neuter;23619;;;;russ1263;pulkina-1975
-oní;;3pl_n_s;3rd Person Plural Neuter;23620;;;;russ1263;pulkina-1975
-ix;;3pl_n_o;3rd Person Plural Neuter;23621;;;;russ1263;pulkina-1975
-ix;;3pl_n_p;3rd Person Plural Neuter;23622;;;;russ1263;pulkina-1975
-oní;;3d-a;3rd Person Dual;36360;;;;russ1263;pulkina-1975
-oní;;3d-s;3rd Person Dual;36587;;;;russ1263;pulkina-1975
-ix;;3d-o;3rd Person Dual;36813;;;;russ1263;pulkina-1975
-ix;;3d-p;3rd Person Dual;37022;;;;russ1263;pulkina-1975
-oní;;3p-a;3rd Person Plural;37243;;;;russ1263;pulkina-1975
-oní;;3p-s;3rd Person Plural;37469;;;;russ1263;pulkina-1975
-ix;;3p-o;3rd Person Plural;37692;;;;russ1263;pulkina-1975
-ix;;3p-p;3rd Person Plural;37900;;;;russ1263;pulkina-1975
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ja,,1sg_a,1st (excl) Person Singular,23555,,,,russ1263,pulkina-1975
+ja,,1sg_s,1st (excl) Person Singular,23556,,,,russ1263,pulkina-1975
+menjá,,1sg_o,1st (excl) Person Singular,23557,,,,russ1263,pulkina-1975
+moj,,1sg_p,1st (excl) Person Singular,23558,,,,russ1263,pulkina-1975
+mɨ,,1du_a,1st (excl) Person Dual,23559,,,,russ1263,pulkina-1975
+mɨ,,1du_s,1st (excl) Person Dual,23560,,,,russ1263,pulkina-1975
+nas,,1du_o,1st (excl) Person Dual,23561,,,,russ1263,pulkina-1975
+naš,,1du_p,1st (excl) Person Dual,23562,,,,russ1263,pulkina-1975
+mɨ,,1pl_a,1st (excl) Person Plural,23563,,,,russ1263,pulkina-1975
+mɨ,,1pl_s,1st (excl) Person Plural,23564,,,,russ1263,pulkina-1975
+nas,,1pl_o,1st (excl) Person Plural,23565,,,,russ1263,pulkina-1975
+naš,,1pl_p,1st (excl) Person Plural,23566,,,,russ1263,pulkina-1975
+mɨ,,12du_a,1st (incl) Person Dual,23567,,,,russ1263,pulkina-1975
+mɨ,,12du_s,1st (incl) Person Dual,23568,,,,russ1263,pulkina-1975
+nas,,12du_o,1st (incl) Person Dual,23569,,,,russ1263,pulkina-1975
+naš,,12du_p,1st (incl) Person Dual,23570,,,,russ1263,pulkina-1975
+mɨ,,12pl_a,1st (incl) Person Plural,23571,,,,russ1263,pulkina-1975
+mɨ,,12pl_s,1st (incl) Person Plural,23572,,,,russ1263,pulkina-1975
+nas,,12pl_o,1st (incl) Person Plural,23573,,,,russ1263,pulkina-1975
+naš,,12pl_p,1st (incl) Person Plural,23574,,,,russ1263,pulkina-1975
+tɨ,,2sg_a,2nd Person Singular,23575,,,,russ1263,pulkina-1975
+tɨ,,2sg_s,2nd Person Singular,23576,,,,russ1263,pulkina-1975
+tebjá,,2sg_o,2nd Person Singular,23577,,,,russ1263,pulkina-1975
+tvoj,,2sg_p,2nd Person Singular,23578,,,,russ1263,pulkina-1975
+vɨ,,2du_a,2nd Person Dual,23579,,,,russ1263,pulkina-1975
+vɨ,,2du_s,2nd Person Dual,23580,,,,russ1263,pulkina-1975
+vas,,2du_o,2nd Person Dual,23581,,,,russ1263,pulkina-1975
+vaš,,2du_p,2nd Person Dual,23582,,,,russ1263,pulkina-1975
+vɨ,,2pl_a,2nd Person Plural,23583,,,,russ1263,pulkina-1975
+vɨ,,2pl_s,2nd Person Plural,23584,,,,russ1263,pulkina-1975
+vas,,2pl_o,2nd Person Plural,23585,,,,russ1263,pulkina-1975
+vaš,,2pl_p,2nd Person Plural,23586,,,,russ1263,pulkina-1975
+on,,3sg_m_a,3rd Person Singular Masculine,23587,,,,russ1263,pulkina-1975
+on,,3sg_m_s,3rd Person Singular Masculine,23588,,,,russ1263,pulkina-1975
+evó,,3sg_m_o,3rd Person Singular Masculine,23589,,,,russ1263,pulkina-1975
+evó,,3sg_m_p,3rd Person Singular Masculine,23590,,,,russ1263,pulkina-1975
+oná,,3sg_f_a,3rd Person Singular Feminine,23591,,,,russ1263,pulkina-1975
+oná,,3sg_f_s,3rd Person Singular Feminine,23592,,,,russ1263,pulkina-1975
+ejó,,3sg_f_o,3rd Person Singular Feminine,23593,,,,russ1263,pulkina-1975
+ejó,,3sg_f_p,3rd Person Singular Feminine,23594,,,,russ1263,pulkina-1975
+onó,,3sg_n_a,3rd Person Singular Neuter,23595,,,,russ1263,pulkina-1975
+onó,,3sg_n_s,3rd Person Singular Neuter,23596,,,,russ1263,pulkina-1975
+evó,,3sg_n_o,3rd Person Singular Neuter,23597,,,,russ1263,pulkina-1975
+evó,,3sg_n_p,3rd Person Singular Neuter,23598,,,,russ1263,pulkina-1975
+oní,,3du_m_a,3rd Person Dual Masculine,23599,,,,russ1263,pulkina-1975
+oní,,3du_m_s,3rd Person Dual Masculine,23600,,,,russ1263,pulkina-1975
+ix,,3du_m_o,3rd Person Dual Masculine,23601,,,,russ1263,pulkina-1975
+ix,,3du_m_p,3rd Person Dual Masculine,23602,,,,russ1263,pulkina-1975
+oní,,3du_f_a,3rd Person Dual Feminine,23603,,,,russ1263,pulkina-1975
+oní,,3du_f_s,3rd Person Dual Feminine,23604,,,,russ1263,pulkina-1975
+ix,,3du_f_o,3rd Person Dual Feminine,23605,,,,russ1263,pulkina-1975
+ix,,3du_f_p,3rd Person Dual Feminine,23606,,,,russ1263,pulkina-1975
+oní,,3du_n_a,3rd Person Dual Neuter,23607,,,,russ1263,pulkina-1975
+oní,,3du_n_s,3rd Person Dual Neuter,23608,,,,russ1263,pulkina-1975
+ix,,3du_n_o,3rd Person Dual Neuter,23609,,,,russ1263,pulkina-1975
+ix,,3du_n_p,3rd Person Dual Neuter,23610,,,,russ1263,pulkina-1975
+oní,,3pl_m_a,3rd Person Plural Masculine,23611,,,,russ1263,pulkina-1975
+oní,,3pl_m_s,3rd Person Plural Masculine,23612,,,,russ1263,pulkina-1975
+ix,,3pl_m_o,3rd Person Plural Masculine,23613,,,,russ1263,pulkina-1975
+ix,,3pl_m_p,3rd Person Plural Masculine,23614,,,,russ1263,pulkina-1975
+oní,,3pl_f_a,3rd Person Plural Feminine,23615,,,,russ1263,pulkina-1975
+oní,,3pl_f_s,3rd Person Plural Feminine,23616,,,,russ1263,pulkina-1975
+ix,,3pl_f_o,3rd Person Plural Feminine,23617,,,,russ1263,pulkina-1975
+ix,,3pl_f_p,3rd Person Plural Feminine,23618,,,,russ1263,pulkina-1975
+oní,,3pl_n_a,3rd Person Plural Neuter,23619,,,,russ1263,pulkina-1975
+oní,,3pl_n_s,3rd Person Plural Neuter,23620,,,,russ1263,pulkina-1975
+ix,,3pl_n_o,3rd Person Plural Neuter,23621,,,,russ1263,pulkina-1975
+ix,,3pl_n_p,3rd Person Plural Neuter,23622,,,,russ1263,pulkina-1975
+oní,,3d-a,3rd Person Dual,36360,,,,russ1263,pulkina-1975
+oní,,3d-s,3rd Person Dual,36587,,,,russ1263,pulkina-1975
+ix,,3d-o,3rd Person Dual,36813,,,,russ1263,pulkina-1975
+ix,,3d-p,3rd Person Dual,37022,,,,russ1263,pulkina-1975
+oní,,3p-a,3rd Person Plural,37243,,,,russ1263,pulkina-1975
+oní,,3p-s,3rd Person Plural,37469,,,,russ1263,pulkina-1975
+ix,,3p-o,3rd Person Plural,37692,,,,russ1263,pulkina-1975
+ix,,3p-p,3rd Person Plural,37900,,,,russ1263,pulkina-1975

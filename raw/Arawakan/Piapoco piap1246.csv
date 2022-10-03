@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-núa;;1sg_a;1st (excl) Person Singular;52902;;;;piap1246;mosonyi-2000
-núa;;1sg_s;1st (excl) Person Singular;52901;;;;piap1246;mosonyi-2000
-núa;;1sg_o;1st (excl) Person Singular;52900;;;;piap1246;mosonyi-2000
-nu-;;1sg_p;1st (excl) Person Singular;52899;;;;piap1246;mosonyi-2000
-βía;;1du_a;1st (excl) Person Dual;52898;;;;piap1246;mosonyi-2000
-βía;;1du_s;1st (excl) Person Dual;52897;;;;piap1246;mosonyi-2000
-βía;;1du_o;1st (excl) Person Dual;52896;;;;piap1246;mosonyi-2000
-wa-;;1du_p;1st (excl) Person Dual;52895;;;;piap1246;mosonyi-2000
-βía;;1pl_a;1st (excl) Person Plural;52894;;;;piap1246;mosonyi-2000
-βía;;1pl_s;1st (excl) Person Plural;52893;;;;piap1246;mosonyi-2000
-βía;;1pl_o;1st (excl) Person Plural;52892;;;;piap1246;mosonyi-2000
-wa-;;1pl_p;1st (excl) Person Plural;52891;;;;piap1246;mosonyi-2000
-βía;;12du_a;1st (incl) Person Dual;52890;;;;piap1246;mosonyi-2000
-βía;;12du_s;1st (incl) Person Dual;52889;;;;piap1246;mosonyi-2000
-βía;;12du_o;1st (incl) Person Dual;52888;;;;piap1246;mosonyi-2000
-wa-;;12du_p;1st (incl) Person Dual;52887;;;;piap1246;mosonyi-2000
-βía;;12pl_a;1st (incl) Person Plural;52886;;;;piap1246;mosonyi-2000
-βía;;12pl_s;1st (incl) Person Plural;52885;;;;piap1246;mosonyi-2000
-βía;;12pl_o;1st (incl) Person Plural;52884;;;;piap1246;mosonyi-2000
-wa-;;12pl_p;1st (incl) Person Plural;52883;;;;piap1246;mosonyi-2000
-pia;;2sg_a;2nd Person Singular;52882;;;;piap1246;mosonyi-2000
-pia;;2sg_s;2nd Person Singular;52881;;;;piap1246;mosonyi-2000
-pia;;2sg_o;2nd Person Singular;52880;;;;piap1246;mosonyi-2000
-pi-;;2sg_p;2nd Person Singular;52879;;;;piap1246;mosonyi-2000
-piakué;;2du_a;2nd Person Dual;52878;;;;piap1246;mosonyi-2000
-piakué;;2du_s;2nd Person Dual;52877;;;;piap1246;mosonyi-2000
-piakué;;2du_o;2nd Person Dual;52876;;;;piap1246;mosonyi-2000
-pi-, kue-;;2du_p;2nd Person Dual;52875;;;;piap1246;mosonyi-2000
-piakué;;2pl_a;2nd Person Plural;52874;;;;piap1246;mosonyi-2000
-piakué;;2pl_s;2nd Person Plural;52873;;;;piap1246;mosonyi-2000
-piakué;;2pl_o;2nd Person Plural;52872;;;;piap1246;mosonyi-2000
-pi-, kue-;;2pl_p;2nd Person Plural;52871;;;;piap1246;mosonyi-2000
-jáa'i;;3sg_m_a;3rd Person Singular Masculine;52870;;;;piap1246;mosonyi-2000
-jáa'i;;3sg_m_s;3rd Person Singular Masculine;52869;;;;piap1246;mosonyi-2000
-jáa'i;;3sg_m_o;3rd Person Singular Masculine;52868;;;;piap1246;mosonyi-2000
-i-, li-;;3sg_m_p;3rd Person Singular Masculine;52867;;;;piap1246;mosonyi-2000
-tsáa'i;;3sg_n_a;3rd Person Singular Neuter;52866;;;;piap1246;mosonyi-2000
-tsáa'i;;3sg_n_s;3rd Person Singular Neuter;52865;;;;piap1246;mosonyi-2000
-tsáa'i;;3sg_n_o;3rd Person Singular Neuter;52864;;;;piap1246;mosonyi-2000
-i, ru-;;3sg_n_p;3rd Person Singular Neuter;52863;;;;piap1246;mosonyi-2000
-náa'i;;3d-a;3rd Person Dual;52862;;;;piap1246;mosonyi-2000
-náa'i;;3d-s;3rd Person Dual;52861;;;;piap1246;mosonyi-2000
-náa'i;;3d-o;3rd Person Dual;52860;;;;piap1246;mosonyi-2000
-i-, na-;;3d-p;3rd Person Dual;52859;;;;piap1246;mosonyi-2000
-náa'i;;3p-a;3rd Person Plural;52858;;;;piap1246;mosonyi-2000
-náa'i;;3p-s;3rd Person Plural;52857;;;;piap1246;mosonyi-2000
-náa'i;;3p-o;3rd Person Plural;52856;;;;piap1246;mosonyi-2000
-i-, na-;;3p-p;3rd Person Plural;52855;;;;piap1246;mosonyi-2000
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+núa,,1sg_a,1st (excl) Person Singular,52902,,,,piap1246,mosonyi-2000
+núa,,1sg_s,1st (excl) Person Singular,52901,,,,piap1246,mosonyi-2000
+núa,,1sg_o,1st (excl) Person Singular,52900,,,,piap1246,mosonyi-2000
+nu-,,1sg_p,1st (excl) Person Singular,52899,,,,piap1246,mosonyi-2000
+βía,,1du_a,1st (excl) Person Dual,52898,,,,piap1246,mosonyi-2000
+βía,,1du_s,1st (excl) Person Dual,52897,,,,piap1246,mosonyi-2000
+βía,,1du_o,1st (excl) Person Dual,52896,,,,piap1246,mosonyi-2000
+wa-,,1du_p,1st (excl) Person Dual,52895,,,,piap1246,mosonyi-2000
+βía,,1pl_a,1st (excl) Person Plural,52894,,,,piap1246,mosonyi-2000
+βía,,1pl_s,1st (excl) Person Plural,52893,,,,piap1246,mosonyi-2000
+βía,,1pl_o,1st (excl) Person Plural,52892,,,,piap1246,mosonyi-2000
+wa-,,1pl_p,1st (excl) Person Plural,52891,,,,piap1246,mosonyi-2000
+βía,,12du_a,1st (incl) Person Dual,52890,,,,piap1246,mosonyi-2000
+βía,,12du_s,1st (incl) Person Dual,52889,,,,piap1246,mosonyi-2000
+βía,,12du_o,1st (incl) Person Dual,52888,,,,piap1246,mosonyi-2000
+wa-,,12du_p,1st (incl) Person Dual,52887,,,,piap1246,mosonyi-2000
+βía,,12pl_a,1st (incl) Person Plural,52886,,,,piap1246,mosonyi-2000
+βía,,12pl_s,1st (incl) Person Plural,52885,,,,piap1246,mosonyi-2000
+βía,,12pl_o,1st (incl) Person Plural,52884,,,,piap1246,mosonyi-2000
+wa-,,12pl_p,1st (incl) Person Plural,52883,,,,piap1246,mosonyi-2000
+pia,,2sg_a,2nd Person Singular,52882,,,,piap1246,mosonyi-2000
+pia,,2sg_s,2nd Person Singular,52881,,,,piap1246,mosonyi-2000
+pia,,2sg_o,2nd Person Singular,52880,,,,piap1246,mosonyi-2000
+pi-,,2sg_p,2nd Person Singular,52879,,,,piap1246,mosonyi-2000
+piakué,,2du_a,2nd Person Dual,52878,,,,piap1246,mosonyi-2000
+piakué,,2du_s,2nd Person Dual,52877,,,,piap1246,mosonyi-2000
+piakué,,2du_o,2nd Person Dual,52876,,,,piap1246,mosonyi-2000
+"pi-, kue-",,2du_p,2nd Person Dual,52875,,,,piap1246,mosonyi-2000
+piakué,,2pl_a,2nd Person Plural,52874,,,,piap1246,mosonyi-2000
+piakué,,2pl_s,2nd Person Plural,52873,,,,piap1246,mosonyi-2000
+piakué,,2pl_o,2nd Person Plural,52872,,,,piap1246,mosonyi-2000
+"pi-, kue-",,2pl_p,2nd Person Plural,52871,,,,piap1246,mosonyi-2000
+jáa'i,,3sg_m_a,3rd Person Singular Masculine,52870,,,,piap1246,mosonyi-2000
+jáa'i,,3sg_m_s,3rd Person Singular Masculine,52869,,,,piap1246,mosonyi-2000
+jáa'i,,3sg_m_o,3rd Person Singular Masculine,52868,,,,piap1246,mosonyi-2000
+"i-, li-",,3sg_m_p,3rd Person Singular Masculine,52867,,,,piap1246,mosonyi-2000
+tsáa'i,,3sg_n_a,3rd Person Singular Neuter,52866,,,,piap1246,mosonyi-2000
+tsáa'i,,3sg_n_s,3rd Person Singular Neuter,52865,,,,piap1246,mosonyi-2000
+tsáa'i,,3sg_n_o,3rd Person Singular Neuter,52864,,,,piap1246,mosonyi-2000
+"i, ru-",,3sg_n_p,3rd Person Singular Neuter,52863,,,,piap1246,mosonyi-2000
+náa'i,,3d-a,3rd Person Dual,52862,,,,piap1246,mosonyi-2000
+náa'i,,3d-s,3rd Person Dual,52861,,,,piap1246,mosonyi-2000
+náa'i,,3d-o,3rd Person Dual,52860,,,,piap1246,mosonyi-2000
+"i-, na-",,3d-p,3rd Person Dual,52859,,,,piap1246,mosonyi-2000
+náa'i,,3p-a,3rd Person Plural,52858,,,,piap1246,mosonyi-2000
+náa'i,,3p-s,3rd Person Plural,52857,,,,piap1246,mosonyi-2000
+náa'i,,3p-o,3rd Person Plural,52856,,,,piap1246,mosonyi-2000
+"i-, na-",,3p-p,3rd Person Plural,52855,,,,piap1246,mosonyi-2000

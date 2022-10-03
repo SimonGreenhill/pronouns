@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mĩ˩;;1sg_a;1st (excl) Person Singular;57104;;;;mamb1294;anonby-2008
-mĩ˩;;1sg_s;1st (excl) Person Singular;57103;;;;mamb1294;anonby-2008
-mĩ˥;;1sg_o;1st (excl) Person Singular;57102;;;;mamb1294;anonby-2008
-ʔĩĩ˥;;1sg_p;1st (excl) Person Singular;57101;;;;mamb1294;anonby-2008
-ri˩;;1du_a;1st (excl) Person Dual;57100;;;;mamb1294;anonby-2008
-ri˩;;1du_s;1st (excl) Person Dual;57099;;;;mamb1294;anonby-2008
-ri˥;;1du_o;1st (excl) Person Dual;57098;;;;mamb1294;anonby-2008
-ʔi˥ri˥;;1du_p;1st (excl) Person Dual;57097;;;;mamb1294;anonby-2008
-ri˩;;1pl_a;1st (excl) Person Plural;57096;;;;mamb1294;anonby-2008
-ri˩;;1pl_s;1st (excl) Person Plural;57095;;;;mamb1294;anonby-2008
-ri˥;;1pl_o;1st (excl) Person Plural;57094;;;;mamb1294;anonby-2008
-ʔi˥ri˥;;1pl_p;1st (excl) Person Plural;57093;;;;mamb1294;anonby-2008
-nã˩;;12du_a;1st (incl) Person Dual;57092;;;;mamb1294;anonby-2008
-nã˩;;12du_s;1st (incl) Person Dual;57091;;;;mamb1294;anonby-2008
-nã˥;;12du_o;1st (incl) Person Dual;57090;;;;mamb1294;anonby-2008
-ʔa˥nã˥;;12du_p;1st (incl) Person Dual;57089;;;;mamb1294;anonby-2008
-nã˩nza˩;;12pl_a;1st (incl) Person Plural;57088;;;;mamb1294;anonby-2008
-nã˩nza˩;;12pl_s;1st (incl) Person Plural;57087;;;;mamb1294;anonby-2008
-zi˩nza˥, -zi˥nã˥;;12pl_o;1st (incl) Person Plural;57086;;;;mamb1294;anonby-2008
-ʔa˥nza˥;;12pl_p;1st (incl) Person Plural;57085;;;;mamb1294;anonby-2008
-mũ˩;;2sg_a;2nd Person Singular;57084;;;;mamb1294;anonby-2008
-mũ˩;;2sg_s;2nd Person Singular;57083;;;;mamb1294;anonby-2008
--m˥;;2sg_o;2nd Person Singular;57082;;;;mamb1294;anonby-2008
-ʔa˥m;;2sg_p;2nd Person Singular;57081;;;;mamb1294;anonby-2008
-ro˩, ʔo˩;;2du_a;2nd Person Dual;57080;;;;mamb1294;anonby-2008
-ro˩, ʔo˩;;2du_s;2nd Person Dual;57079;;;;mamb1294;anonby-2008
-ro˥;;2du_o;2nd Person Dual;57078;;;;mamb1294;anonby-2008
-ʔo˥ro˥;;2du_p;2nd Person Dual;57077;;;;mamb1294;anonby-2008
-ro˩, ʔo˩;;2pl_a;2nd Person Plural;57076;;;;mamb1294;anonby-2008
-ro˩, ʔo˩;;2pl_s;2nd Person Plural;57075;;;;mamb1294;anonby-2008
-ro˥;;2pl_o;2nd Person Plural;57074;;;;mamb1294;anonby-2008
-ʔo˥ro˥;;2pl_p;2nd Person Plural;57073;;;;mamb1294;anonby-2008
-du˥;;3sg_m_a;3rd Person Singular Masculine;57072;;;;mamb1294;anonby-2008
-du˥;;3sg_m_s;3rd Person Singular Masculine;57071;;;;mamb1294;anonby-2008
--˩ru˥, -˩wu˥;;3sg_m_o;3rd Person Singular Masculine;57070;;low tone on verb stem;;mamb1294;anonby-2008
-ʔuu˥ru˥, ʔuu˥wu˥;;3sg_m_p;3rd Person Singular Masculine;57069;;;;mamb1294;anonby-2008
-du˥;;3sg_n_a;3rd Person Singular Neuter;57068;;;;mamb1294;anonby-2008
-du˥;;3sg_n_s;3rd Person Singular Neuter;57067;;;;mamb1294;anonby-2008
--˩ru˥, -˩wu˥;;3sg_n_o;3rd Person Singular Neuter;57066;;low tone on verb stem;;mamb1294;anonby-2008
-ʔuu˥ru˥, ʔuu˥wu˥;;3sg_n_p;3rd Person Singular Neuter;57065;;;;mamb1294;anonby-2008
-du˩gzi˥;;3d-a;3rd Person Dual;57064;;;;mamb1294;anonby-2008
-du˩gzi˥;;3d-s;3rd Person Dual;57063;;;;mamb1294;anonby-2008
-du˩gu˥;;3d-o;3rd Person Dual;57062;;;;mamb1294;anonby-2008
-du˩gu˥;;3d-p;3rd Person Dual;57061;;;;mamb1294;anonby-2008
-du˩gzi˥;;3p-a;3rd Person Plural;57060;;;;mamb1294;anonby-2008
-du˩gzi˥;;3p-s;3rd Person Plural;57059;;;;mamb1294;anonby-2008
-du˩gu˥;;3p-o;3rd Person Plural;57058;;;;mamb1294;anonby-2008
-du˩gu˥;;3p-p;3rd Person Plural;57057;;;;mamb1294;anonby-2008
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mĩ˩,,1sg_a,1st (excl) Person Singular,57104,,,,mamb1294,anonby-2008
+mĩ˩,,1sg_s,1st (excl) Person Singular,57103,,,,mamb1294,anonby-2008
+mĩ˥,,1sg_o,1st (excl) Person Singular,57102,,,,mamb1294,anonby-2008
+ʔĩĩ˥,,1sg_p,1st (excl) Person Singular,57101,,,,mamb1294,anonby-2008
+ri˩,,1du_a,1st (excl) Person Dual,57100,,,,mamb1294,anonby-2008
+ri˩,,1du_s,1st (excl) Person Dual,57099,,,,mamb1294,anonby-2008
+ri˥,,1du_o,1st (excl) Person Dual,57098,,,,mamb1294,anonby-2008
+ʔi˥ri˥,,1du_p,1st (excl) Person Dual,57097,,,,mamb1294,anonby-2008
+ri˩,,1pl_a,1st (excl) Person Plural,57096,,,,mamb1294,anonby-2008
+ri˩,,1pl_s,1st (excl) Person Plural,57095,,,,mamb1294,anonby-2008
+ri˥,,1pl_o,1st (excl) Person Plural,57094,,,,mamb1294,anonby-2008
+ʔi˥ri˥,,1pl_p,1st (excl) Person Plural,57093,,,,mamb1294,anonby-2008
+nã˩,,12du_a,1st (incl) Person Dual,57092,,,,mamb1294,anonby-2008
+nã˩,,12du_s,1st (incl) Person Dual,57091,,,,mamb1294,anonby-2008
+nã˥,,12du_o,1st (incl) Person Dual,57090,,,,mamb1294,anonby-2008
+ʔa˥nã˥,,12du_p,1st (incl) Person Dual,57089,,,,mamb1294,anonby-2008
+nã˩nza˩,,12pl_a,1st (incl) Person Plural,57088,,,,mamb1294,anonby-2008
+nã˩nza˩,,12pl_s,1st (incl) Person Plural,57087,,,,mamb1294,anonby-2008
+"zi˩nza˥, -zi˥nã˥",,12pl_o,1st (incl) Person Plural,57086,,,,mamb1294,anonby-2008
+ʔa˥nza˥,,12pl_p,1st (incl) Person Plural,57085,,,,mamb1294,anonby-2008
+mũ˩,,2sg_a,2nd Person Singular,57084,,,,mamb1294,anonby-2008
+mũ˩,,2sg_s,2nd Person Singular,57083,,,,mamb1294,anonby-2008
+-m˥,,2sg_o,2nd Person Singular,57082,,,,mamb1294,anonby-2008
+ʔa˥m,,2sg_p,2nd Person Singular,57081,,,,mamb1294,anonby-2008
+"ro˩, ʔo˩",,2du_a,2nd Person Dual,57080,,,,mamb1294,anonby-2008
+"ro˩, ʔo˩",,2du_s,2nd Person Dual,57079,,,,mamb1294,anonby-2008
+ro˥,,2du_o,2nd Person Dual,57078,,,,mamb1294,anonby-2008
+ʔo˥ro˥,,2du_p,2nd Person Dual,57077,,,,mamb1294,anonby-2008
+"ro˩, ʔo˩",,2pl_a,2nd Person Plural,57076,,,,mamb1294,anonby-2008
+"ro˩, ʔo˩",,2pl_s,2nd Person Plural,57075,,,,mamb1294,anonby-2008
+ro˥,,2pl_o,2nd Person Plural,57074,,,,mamb1294,anonby-2008
+ʔo˥ro˥,,2pl_p,2nd Person Plural,57073,,,,mamb1294,anonby-2008
+du˥,,3sg_m_a,3rd Person Singular Masculine,57072,,,,mamb1294,anonby-2008
+du˥,,3sg_m_s,3rd Person Singular Masculine,57071,,,,mamb1294,anonby-2008
+"-˩ru˥, -˩wu˥",,3sg_m_o,3rd Person Singular Masculine,57070,,low tone on verb stem,,mamb1294,anonby-2008
+"ʔuu˥ru˥, ʔuu˥wu˥",,3sg_m_p,3rd Person Singular Masculine,57069,,,,mamb1294,anonby-2008
+du˥,,3sg_n_a,3rd Person Singular Neuter,57068,,,,mamb1294,anonby-2008
+du˥,,3sg_n_s,3rd Person Singular Neuter,57067,,,,mamb1294,anonby-2008
+"-˩ru˥, -˩wu˥",,3sg_n_o,3rd Person Singular Neuter,57066,,low tone on verb stem,,mamb1294,anonby-2008
+"ʔuu˥ru˥, ʔuu˥wu˥",,3sg_n_p,3rd Person Singular Neuter,57065,,,,mamb1294,anonby-2008
+du˩gzi˥,,3d-a,3rd Person Dual,57064,,,,mamb1294,anonby-2008
+du˩gzi˥,,3d-s,3rd Person Dual,57063,,,,mamb1294,anonby-2008
+du˩gu˥,,3d-o,3rd Person Dual,57062,,,,mamb1294,anonby-2008
+du˩gu˥,,3d-p,3rd Person Dual,57061,,,,mamb1294,anonby-2008
+du˩gzi˥,,3p-a,3rd Person Plural,57060,,,,mamb1294,anonby-2008
+du˩gzi˥,,3p-s,3rd Person Plural,57059,,,,mamb1294,anonby-2008
+du˩gu˥,,3p-o,3rd Person Plural,57058,,,,mamb1294,anonby-2008
+du˩gu˥,,3p-p,3rd Person Plural,57057,,,,mamb1294,anonby-2008

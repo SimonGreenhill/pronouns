@@ -1,110 +1,110 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋaḓu;;1sg_a;1st (excl) Person Singular;23156;;;;wang1291;donaldson-1980
-ŋaḓu;;1sg_s;1st (excl) Person Singular;23157;;;;wang1291;donaldson-1980
-ŋaḓii;;1sg_o;1st (excl) Person Singular;23158;;;;wang1291;donaldson-1980
-ŋaḓii;;1sg_p;1st (excl) Person Singular;23159;;;;wang1291;donaldson-1980
-ŋaliina;;1du_a;1st (excl) Person Dual;23160;;;;wang1291;donaldson-1980
-ŋaliina;;1du_s;1st (excl) Person Dual;23161;;;;wang1291;donaldson-1980
-ŋaligiina;;1du_o;1st (excl) Person Dual;23162;;;;wang1291;donaldson-1980
-ŋaligiina;;1du_p;1st (excl) Person Dual;23163;;;;wang1291;donaldson-1980
-ŋiyanuna;;1pl_a;1st (excl) Person Plural;23164;;;;wang1291;donaldson-1980
-ŋiyanuna;;1pl_s;1st (excl) Person Plural;23165;;;;wang1291;donaldson-1980
-ŋiyanigiina;;1pl_o;1st (excl) Person Plural;23166;;;;wang1291;donaldson-1980
-ŋiyanigiina;;1pl_p;1st (excl) Person Plural;23167;;;;wang1291;donaldson-1980
-ŋalii;;12du_a;1st (incl) Person Dual;23168;;;;wang1291;donaldson-1980
-ŋalii;;12du_s;1st (incl) Person Dual;23169;;;;wang1291;donaldson-1980
-ŋaligiiN-;;12du_o;1st (incl) Person Dual;23170;;;;wang1291;donaldson-1980
-ŋaligiiN-;;12du_p;1st (incl) Person Dual;23171;;;;wang1291;donaldson-1980
-ŋiyanu;;12pl_a;1st (incl) Person Plural;23172;;;;wang1291;donaldson-1980
-ŋiyanu;;12pl_s;1st (incl) Person Plural;23173;;;;wang1291;donaldson-1980
-ŋiyanigiiN-;;12pl_o;1st (incl) Person Plural;23174;;;;wang1291;donaldson-1980
-ŋiyanigiiN-;;12pl_p;1st (incl) Person Plural;23175;;;;wang1291;donaldson-1980
-ŋindu;;2sg_a;2nd Person Singular;23176;;;;wang1291;donaldson-1980
-ŋindu;;2sg_s;2nd Person Singular;23177;;;;wang1291;donaldson-1980
-ŋinuu;;2sg_o;2nd Person Singular;23178;;;;wang1291;donaldson-1980
-ŋinuu;;2sg_p;2nd Person Singular;23179;;;;wang1291;donaldson-1980
-ŋindubulaa;;2du_a;2nd Person Dual;23180;;;;wang1291;donaldson-1980
-ŋindubulaa;;2du_s;2nd Person Dual;23181;;;;wang1291;donaldson-1980
-ŋinuubulaa;;2du_o;2nd Person Dual;23182;;;;wang1291;donaldson-1980
-ŋinuubulaa;;2du_p;2nd Person Dual;23183;;;;wang1291;donaldson-1980
-ŋindugal;;2pl_a;2nd Person Plural;23184;;;;wang1291;donaldson-1980
-ŋindugal;;2pl_s;2nd Person Plural;23185;;;;wang1291;donaldson-1980
-ŋinuugal;;2pl_o;2nd Person Plural;23186;;;;wang1291;donaldson-1980
-ŋinuugal;;2pl_p;2nd Person Plural;23187;;;;wang1291;donaldson-1980
-=lu;;3sg_m_a;3rd Person Singular Masculine;23188;;;;wang1291;donaldson-1980
-=yu;;3sg_m_a;3rd Person Singular Masculine;23189;;;;wang1291;donaldson-1980
-=niN-;;3sg_m_s;3rd Person Singular Masculine;23190;;;;wang1291;donaldson-1980
-=naN-;;3sg_m_s;3rd Person Singular Masculine;23191;;;;wang1291;donaldson-1980
-=niN-;;3sg_m_o;3rd Person Singular Masculine;23192;;;;wang1291;donaldson-1980
-=naN-;;3sg_m_o;3rd Person Singular Masculine;23193;;;;wang1291;donaldson-1980
-=luguN-;;3sg_m_p;3rd Person Singular Masculine;23194;;;;wang1291;donaldson-1980
-=lu;;3sg_f_a;3rd Person Singular Feminine;23195;;;;wang1291;donaldson-1980
-=yu;;3sg_f_a;3rd Person Singular Feminine;23196;;;;wang1291;donaldson-1980
-=niN-;;3sg_f_s;3rd Person Singular Feminine;23197;;;;wang1291;donaldson-1980
-=naN-;;3sg_f_s;3rd Person Singular Feminine;23198;;;;wang1291;donaldson-1980
-=niN-;;3sg_f_o;3rd Person Singular Feminine;23199;;;;wang1291;donaldson-1980
-=naN-;;3sg_f_o;3rd Person Singular Feminine;23200;;;;wang1291;donaldson-1980
-=luguN-;;3sg_f_p;3rd Person Singular Feminine;23201;;;;wang1291;donaldson-1980
-=lu;;3sg_n_a;3rd Person Singular Neuter;23202;;;;wang1291;donaldson-1980
-=yu;;3sg_n_a;3rd Person Singular Neuter;23203;;;;wang1291;donaldson-1980
-=niN-;;3sg_n_s;3rd Person Singular Neuter;23204;;;;wang1291;donaldson-1980
-=naN-;;3sg_n_s;3rd Person Singular Neuter;23205;;;;wang1291;donaldson-1980
-=niN-;;3sg_n_o;3rd Person Singular Neuter;23206;;;;wang1291;donaldson-1980
-=naN-;;3sg_n_o;3rd Person Singular Neuter;23207;;;;wang1291;donaldson-1980
-=luguN-;;3sg_n_p;3rd Person Singular Neuter;23208;;;;wang1291;donaldson-1980
-=lubulaa;;3du_m_a;3rd Person Dual Masculine;23209;;;;wang1291;donaldson-1980
-=yubulaa;;3du_m_a;3rd Person Dual Masculine;23210;;;;wang1291;donaldson-1980
-=nimbulaa;;3du_m_s;3rd Person Dual Masculine;23211;;;;wang1291;donaldson-1980
-=nambulaa;;3du_m_s;3rd Person Dual Masculine;23212;;;;wang1291;donaldson-1980
-=nimbulaa;;3du_m_o;3rd Person Dual Masculine;23213;;;;wang1291;donaldson-1980
-=nambulaa;;3du_m_o;3rd Person Dual Masculine;23214;;;;wang1291;donaldson-1980
-=lugumbulaa;;3du_m_p;3rd Person Dual Masculine;23215;;;;wang1291;donaldson-1980
-=lubulaa;;3du_f_a;3rd Person Dual Feminine;23216;;;;wang1291;donaldson-1980
-=yubulaa;;3du_f_a;3rd Person Dual Feminine;23217;;;;wang1291;donaldson-1980
-=nimbulaa;;3du_f_s;3rd Person Dual Feminine;23218;;;;wang1291;donaldson-1980
-=nambulaa;;3du_f_s;3rd Person Dual Feminine;23219;;;;wang1291;donaldson-1980
-=nimbulaa;;3du_f_o;3rd Person Dual Feminine;23220;;;;wang1291;donaldson-1980
-=nambulaa;;3du_f_o;3rd Person Dual Feminine;23221;;;;wang1291;donaldson-1980
-=lugumbulaa;;3du_f_p;3rd Person Dual Feminine;23222;;;;wang1291;donaldson-1980
-=lubulaa;;3du_n_a;3rd Person Dual Neuter;23223;;;;wang1291;donaldson-1980
-=yubulaa;;3du_n_a;3rd Person Dual Neuter;23224;;;;wang1291;donaldson-1980
-=nimbulaa;;3du_n_s;3rd Person Dual Neuter;23225;;;;wang1291;donaldson-1980
-=nambulaa;;3du_n_s;3rd Person Dual Neuter;23226;;;;wang1291;donaldson-1980
-=nimbulaa;;3du_n_o;3rd Person Dual Neuter;23227;;;;wang1291;donaldson-1980
-=nambulaa;;3du_n_o;3rd Person Dual Neuter;23228;;;;wang1291;donaldson-1980
-=lugumbulaa;;3du_n_p;3rd Person Dual Neuter;23229;;;;wang1291;donaldson-1980
-=lugal;;3pl_m_a;3rd Person Plural Masculine;23230;;;;wang1291;donaldson-1980
-=yugal;;3pl_m_a;3rd Person Plural Masculine;23231;;;;wang1291;donaldson-1980
-=niŋgal;;3pl_m_s;3rd Person Plural Masculine;23232;;;;wang1291;donaldson-1980
-=naŋgal;;3pl_m_s;3rd Person Plural Masculine;23233;;;;wang1291;donaldson-1980
-=niŋgal;;3pl_m_o;3rd Person Plural Masculine;23234;;;;wang1291;donaldson-1980
-=naŋgal;;3pl_m_o;3rd Person Plural Masculine;23235;;;;wang1291;donaldson-1980
-=luguŋgal;;3pl_m_p;3rd Person Plural Masculine;23236;;;;wang1291;donaldson-1980
-=lugal;;3pl_f_a;3rd Person Plural Feminine;23237;;;;wang1291;donaldson-1980
-=yugal;;3pl_f_a;3rd Person Plural Feminine;23238;;;;wang1291;donaldson-1980
-=niŋgal;;3pl_f_s;3rd Person Plural Feminine;23239;;;;wang1291;donaldson-1980
-=naŋgal;;3pl_f_s;3rd Person Plural Feminine;23240;;;;wang1291;donaldson-1980
-=niŋgal;;3pl_f_o;3rd Person Plural Feminine;23241;;;;wang1291;donaldson-1980
-=naŋgal;;3pl_f_o;3rd Person Plural Feminine;23242;;;;wang1291;donaldson-1980
-=luguŋgal;;3pl_f_p;3rd Person Plural Feminine;23243;;;;wang1291;donaldson-1980
-=lugal;;3pl_n_a;3rd Person Plural Neuter;23244;;;;wang1291;donaldson-1980
-=yugal;;3pl_n_a;3rd Person Plural Neuter;23245;;;;wang1291;donaldson-1980
-=niŋgal;;3pl_n_s;3rd Person Plural Neuter;23246;;;;wang1291;donaldson-1980
-=naŋgal;;3pl_n_s;3rd Person Plural Neuter;23247;;;;wang1291;donaldson-1980
-=niŋgal;;3pl_n_o;3rd Person Plural Neuter;23248;;;;wang1291;donaldson-1980
-=naŋgal;;3pl_n_o;3rd Person Plural Neuter;23249;;;;wang1291;donaldson-1980
-=luguŋgal;;3pl_n_p;3rd Person Plural Neuter;23250;;;;wang1291;donaldson-1980
-=lubulaa;;3d-a;3rd Person Dual;36237;;;;wang1291;donaldson-1980
-=yubulaa;;3d-a;3rd Person Dual;36238;;;;wang1291;donaldson-1980
-=nambulaa;;3d-s;3rd Person Dual;36457;;;;wang1291;donaldson-1980
-=nimbulaa;;3d-s;3rd Person Dual;36458;;;;wang1291;donaldson-1980
-=nambulaa;;3d-o;3rd Person Dual;36685;;;;wang1291;donaldson-1980
-=nimbulaa;;3d-o;3rd Person Dual;36686;;;;wang1291;donaldson-1980
-=lugumbulaa;;3d-p;3rd Person Dual;36908;;;;wang1291;donaldson-1980
-=lugal;;3p-a;3rd Person Plural;37117;;;;wang1291;donaldson-1980
-=yugal;;3p-a;3rd Person Plural;37118;;;;wang1291;donaldson-1980
-=naŋgal;;3p-s;3rd Person Plural;37338;;;;wang1291;donaldson-1980
-=niŋgal;;3p-s;3rd Person Plural;37339;;;;wang1291;donaldson-1980
-=naŋgal;;3p-o;3rd Person Plural;37565;;;;wang1291;donaldson-1980
-=niŋgal;;3p-o;3rd Person Plural;37566;;;;wang1291;donaldson-1980
-=luguŋgal;;3p-p;3rd Person Plural;37786;;;;wang1291;donaldson-1980
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋaḓu,,1sg_a,1st (excl) Person Singular,23156,,,,wang1291,donaldson-1980
+ŋaḓu,,1sg_s,1st (excl) Person Singular,23157,,,,wang1291,donaldson-1980
+ŋaḓii,,1sg_o,1st (excl) Person Singular,23158,,,,wang1291,donaldson-1980
+ŋaḓii,,1sg_p,1st (excl) Person Singular,23159,,,,wang1291,donaldson-1980
+ŋaliina,,1du_a,1st (excl) Person Dual,23160,,,,wang1291,donaldson-1980
+ŋaliina,,1du_s,1st (excl) Person Dual,23161,,,,wang1291,donaldson-1980
+ŋaligiina,,1du_o,1st (excl) Person Dual,23162,,,,wang1291,donaldson-1980
+ŋaligiina,,1du_p,1st (excl) Person Dual,23163,,,,wang1291,donaldson-1980
+ŋiyanuna,,1pl_a,1st (excl) Person Plural,23164,,,,wang1291,donaldson-1980
+ŋiyanuna,,1pl_s,1st (excl) Person Plural,23165,,,,wang1291,donaldson-1980
+ŋiyanigiina,,1pl_o,1st (excl) Person Plural,23166,,,,wang1291,donaldson-1980
+ŋiyanigiina,,1pl_p,1st (excl) Person Plural,23167,,,,wang1291,donaldson-1980
+ŋalii,,12du_a,1st (incl) Person Dual,23168,,,,wang1291,donaldson-1980
+ŋalii,,12du_s,1st (incl) Person Dual,23169,,,,wang1291,donaldson-1980
+ŋaligiiN-,,12du_o,1st (incl) Person Dual,23170,,,,wang1291,donaldson-1980
+ŋaligiiN-,,12du_p,1st (incl) Person Dual,23171,,,,wang1291,donaldson-1980
+ŋiyanu,,12pl_a,1st (incl) Person Plural,23172,,,,wang1291,donaldson-1980
+ŋiyanu,,12pl_s,1st (incl) Person Plural,23173,,,,wang1291,donaldson-1980
+ŋiyanigiiN-,,12pl_o,1st (incl) Person Plural,23174,,,,wang1291,donaldson-1980
+ŋiyanigiiN-,,12pl_p,1st (incl) Person Plural,23175,,,,wang1291,donaldson-1980
+ŋindu,,2sg_a,2nd Person Singular,23176,,,,wang1291,donaldson-1980
+ŋindu,,2sg_s,2nd Person Singular,23177,,,,wang1291,donaldson-1980
+ŋinuu,,2sg_o,2nd Person Singular,23178,,,,wang1291,donaldson-1980
+ŋinuu,,2sg_p,2nd Person Singular,23179,,,,wang1291,donaldson-1980
+ŋindubulaa,,2du_a,2nd Person Dual,23180,,,,wang1291,donaldson-1980
+ŋindubulaa,,2du_s,2nd Person Dual,23181,,,,wang1291,donaldson-1980
+ŋinuubulaa,,2du_o,2nd Person Dual,23182,,,,wang1291,donaldson-1980
+ŋinuubulaa,,2du_p,2nd Person Dual,23183,,,,wang1291,donaldson-1980
+ŋindugal,,2pl_a,2nd Person Plural,23184,,,,wang1291,donaldson-1980
+ŋindugal,,2pl_s,2nd Person Plural,23185,,,,wang1291,donaldson-1980
+ŋinuugal,,2pl_o,2nd Person Plural,23186,,,,wang1291,donaldson-1980
+ŋinuugal,,2pl_p,2nd Person Plural,23187,,,,wang1291,donaldson-1980
+=lu,,3sg_m_a,3rd Person Singular Masculine,23188,,,,wang1291,donaldson-1980
+=yu,,3sg_m_a,3rd Person Singular Masculine,23189,,,,wang1291,donaldson-1980
+=niN-,,3sg_m_s,3rd Person Singular Masculine,23190,,,,wang1291,donaldson-1980
+=naN-,,3sg_m_s,3rd Person Singular Masculine,23191,,,,wang1291,donaldson-1980
+=niN-,,3sg_m_o,3rd Person Singular Masculine,23192,,,,wang1291,donaldson-1980
+=naN-,,3sg_m_o,3rd Person Singular Masculine,23193,,,,wang1291,donaldson-1980
+=luguN-,,3sg_m_p,3rd Person Singular Masculine,23194,,,,wang1291,donaldson-1980
+=lu,,3sg_f_a,3rd Person Singular Feminine,23195,,,,wang1291,donaldson-1980
+=yu,,3sg_f_a,3rd Person Singular Feminine,23196,,,,wang1291,donaldson-1980
+=niN-,,3sg_f_s,3rd Person Singular Feminine,23197,,,,wang1291,donaldson-1980
+=naN-,,3sg_f_s,3rd Person Singular Feminine,23198,,,,wang1291,donaldson-1980
+=niN-,,3sg_f_o,3rd Person Singular Feminine,23199,,,,wang1291,donaldson-1980
+=naN-,,3sg_f_o,3rd Person Singular Feminine,23200,,,,wang1291,donaldson-1980
+=luguN-,,3sg_f_p,3rd Person Singular Feminine,23201,,,,wang1291,donaldson-1980
+=lu,,3sg_n_a,3rd Person Singular Neuter,23202,,,,wang1291,donaldson-1980
+=yu,,3sg_n_a,3rd Person Singular Neuter,23203,,,,wang1291,donaldson-1980
+=niN-,,3sg_n_s,3rd Person Singular Neuter,23204,,,,wang1291,donaldson-1980
+=naN-,,3sg_n_s,3rd Person Singular Neuter,23205,,,,wang1291,donaldson-1980
+=niN-,,3sg_n_o,3rd Person Singular Neuter,23206,,,,wang1291,donaldson-1980
+=naN-,,3sg_n_o,3rd Person Singular Neuter,23207,,,,wang1291,donaldson-1980
+=luguN-,,3sg_n_p,3rd Person Singular Neuter,23208,,,,wang1291,donaldson-1980
+=lubulaa,,3du_m_a,3rd Person Dual Masculine,23209,,,,wang1291,donaldson-1980
+=yubulaa,,3du_m_a,3rd Person Dual Masculine,23210,,,,wang1291,donaldson-1980
+=nimbulaa,,3du_m_s,3rd Person Dual Masculine,23211,,,,wang1291,donaldson-1980
+=nambulaa,,3du_m_s,3rd Person Dual Masculine,23212,,,,wang1291,donaldson-1980
+=nimbulaa,,3du_m_o,3rd Person Dual Masculine,23213,,,,wang1291,donaldson-1980
+=nambulaa,,3du_m_o,3rd Person Dual Masculine,23214,,,,wang1291,donaldson-1980
+=lugumbulaa,,3du_m_p,3rd Person Dual Masculine,23215,,,,wang1291,donaldson-1980
+=lubulaa,,3du_f_a,3rd Person Dual Feminine,23216,,,,wang1291,donaldson-1980
+=yubulaa,,3du_f_a,3rd Person Dual Feminine,23217,,,,wang1291,donaldson-1980
+=nimbulaa,,3du_f_s,3rd Person Dual Feminine,23218,,,,wang1291,donaldson-1980
+=nambulaa,,3du_f_s,3rd Person Dual Feminine,23219,,,,wang1291,donaldson-1980
+=nimbulaa,,3du_f_o,3rd Person Dual Feminine,23220,,,,wang1291,donaldson-1980
+=nambulaa,,3du_f_o,3rd Person Dual Feminine,23221,,,,wang1291,donaldson-1980
+=lugumbulaa,,3du_f_p,3rd Person Dual Feminine,23222,,,,wang1291,donaldson-1980
+=lubulaa,,3du_n_a,3rd Person Dual Neuter,23223,,,,wang1291,donaldson-1980
+=yubulaa,,3du_n_a,3rd Person Dual Neuter,23224,,,,wang1291,donaldson-1980
+=nimbulaa,,3du_n_s,3rd Person Dual Neuter,23225,,,,wang1291,donaldson-1980
+=nambulaa,,3du_n_s,3rd Person Dual Neuter,23226,,,,wang1291,donaldson-1980
+=nimbulaa,,3du_n_o,3rd Person Dual Neuter,23227,,,,wang1291,donaldson-1980
+=nambulaa,,3du_n_o,3rd Person Dual Neuter,23228,,,,wang1291,donaldson-1980
+=lugumbulaa,,3du_n_p,3rd Person Dual Neuter,23229,,,,wang1291,donaldson-1980
+=lugal,,3pl_m_a,3rd Person Plural Masculine,23230,,,,wang1291,donaldson-1980
+=yugal,,3pl_m_a,3rd Person Plural Masculine,23231,,,,wang1291,donaldson-1980
+=niŋgal,,3pl_m_s,3rd Person Plural Masculine,23232,,,,wang1291,donaldson-1980
+=naŋgal,,3pl_m_s,3rd Person Plural Masculine,23233,,,,wang1291,donaldson-1980
+=niŋgal,,3pl_m_o,3rd Person Plural Masculine,23234,,,,wang1291,donaldson-1980
+=naŋgal,,3pl_m_o,3rd Person Plural Masculine,23235,,,,wang1291,donaldson-1980
+=luguŋgal,,3pl_m_p,3rd Person Plural Masculine,23236,,,,wang1291,donaldson-1980
+=lugal,,3pl_f_a,3rd Person Plural Feminine,23237,,,,wang1291,donaldson-1980
+=yugal,,3pl_f_a,3rd Person Plural Feminine,23238,,,,wang1291,donaldson-1980
+=niŋgal,,3pl_f_s,3rd Person Plural Feminine,23239,,,,wang1291,donaldson-1980
+=naŋgal,,3pl_f_s,3rd Person Plural Feminine,23240,,,,wang1291,donaldson-1980
+=niŋgal,,3pl_f_o,3rd Person Plural Feminine,23241,,,,wang1291,donaldson-1980
+=naŋgal,,3pl_f_o,3rd Person Plural Feminine,23242,,,,wang1291,donaldson-1980
+=luguŋgal,,3pl_f_p,3rd Person Plural Feminine,23243,,,,wang1291,donaldson-1980
+=lugal,,3pl_n_a,3rd Person Plural Neuter,23244,,,,wang1291,donaldson-1980
+=yugal,,3pl_n_a,3rd Person Plural Neuter,23245,,,,wang1291,donaldson-1980
+=niŋgal,,3pl_n_s,3rd Person Plural Neuter,23246,,,,wang1291,donaldson-1980
+=naŋgal,,3pl_n_s,3rd Person Plural Neuter,23247,,,,wang1291,donaldson-1980
+=niŋgal,,3pl_n_o,3rd Person Plural Neuter,23248,,,,wang1291,donaldson-1980
+=naŋgal,,3pl_n_o,3rd Person Plural Neuter,23249,,,,wang1291,donaldson-1980
+=luguŋgal,,3pl_n_p,3rd Person Plural Neuter,23250,,,,wang1291,donaldson-1980
+=lubulaa,,3d-a,3rd Person Dual,36237,,,,wang1291,donaldson-1980
+=yubulaa,,3d-a,3rd Person Dual,36238,,,,wang1291,donaldson-1980
+=nambulaa,,3d-s,3rd Person Dual,36457,,,,wang1291,donaldson-1980
+=nimbulaa,,3d-s,3rd Person Dual,36458,,,,wang1291,donaldson-1980
+=nambulaa,,3d-o,3rd Person Dual,36685,,,,wang1291,donaldson-1980
+=nimbulaa,,3d-o,3rd Person Dual,36686,,,,wang1291,donaldson-1980
+=lugumbulaa,,3d-p,3rd Person Dual,36908,,,,wang1291,donaldson-1980
+=lugal,,3p-a,3rd Person Plural,37117,,,,wang1291,donaldson-1980
+=yugal,,3p-a,3rd Person Plural,37118,,,,wang1291,donaldson-1980
+=naŋgal,,3p-s,3rd Person Plural,37338,,,,wang1291,donaldson-1980
+=niŋgal,,3p-s,3rd Person Plural,37339,,,,wang1291,donaldson-1980
+=naŋgal,,3p-o,3rd Person Plural,37565,,,,wang1291,donaldson-1980
+=niŋgal,,3p-o,3rd Person Plural,37566,,,,wang1291,donaldson-1980
+=luguŋgal,,3p-p,3rd Person Plural,37786,,,,wang1291,donaldson-1980

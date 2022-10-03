@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-na˦;;1sg_a;1st (excl) Person Singular;58112;;;;baat1238;welmers-1952
-na˦;;1sg_s;1st (excl) Person Singular;58111;;;;baat1238;welmers-1952
-man˦;;1sg_o;1st (excl) Person Singular;58110;;;;baat1238;welmers-1952
-nɛn˥;;1sg_p;1st (excl) Person Singular;58109;;;;baat1238;welmers-1952
-sa˦;;1du_a;1st (excl) Person Dual;58108;;;;baat1238;welmers-1952
-sa˦;;1du_s;1st (excl) Person Dual;58107;;;;baat1238;welmers-1952
-sun˦;;1du_o;1st (excl) Person Dual;58106;;;;baat1238;welmers-1952
-bɛ˩sɛn˥;;1du_p;1st (excl) Person Dual;58105;;;;baat1238;welmers-1952
-sa˦;;1pl_a;1st (excl) Person Plural;58104;;;;baat1238;welmers-1952
-sa˦;;1pl_s;1st (excl) Person Plural;58103;;;;baat1238;welmers-1952
-sun˦;;1pl_o;1st (excl) Person Plural;58102;;;;baat1238;welmers-1952
-bɛ˩sɛn˥;;1pl_p;1st (excl) Person Plural;58101;;;;baat1238;welmers-1952
-sa˦;;12du_a;1st (incl) Person Dual;58100;;;;baat1238;welmers-1952
-sa˦;;12du_s;1st (incl) Person Dual;58099;;;;baat1238;welmers-1952
-sun˦;;12du_o;1st (incl) Person Dual;58098;;;;baat1238;welmers-1952
-bɛ˩sɛn˥;;12du_p;1st (incl) Person Dual;58097;;;;baat1238;welmers-1952
-sa˦;;12pl_a;1st (incl) Person Plural;58096;;;;baat1238;welmers-1952
-sa˦;;12pl_s;1st (incl) Person Plural;58095;;;;baat1238;welmers-1952
-sun˦;;12pl_o;1st (incl) Person Plural;58094;;;;baat1238;welmers-1952
-bɛ˩sɛn˥;;12pl_p;1st (incl) Person Plural;58093;;;;baat1238;welmers-1952
-a˦;;2sg_a;2nd Person Singular;58092;;;;baat1238;welmers-1952
-a˦;;2sg_s;2nd Person Singular;58091;;;;baat1238;welmers-1952
-nun˦;;2sg_o;2nd Person Singular;58090;;;;baat1238;welmers-1952
-wu˥nɛn˥;;2sg_p;2nd Person Singular;58089;;;;baat1238;welmers-1952
-i˦;;2du_a;2nd Person Dual;58088;;;;baat1238;welmers-1952
-i˦;;2du_s;2nd Person Dual;58087;;;;baat1238;welmers-1952
-bɛ˩ɛ˦;;2du_o;2nd Person Dual;58086;;;;baat1238;welmers-1952
-bɛ˩ɛn˥;;2du_p;2nd Person Dual;58085;;;;baat1238;welmers-1952
-i˦;;2pl_a;2nd Person Plural;58084;;;;baat1238;welmers-1952
-i˦;;2pl_s;2nd Person Plural;58083;;;;baat1238;welmers-1952
-bɛ˩ɛ˦;;2pl_o;2nd Person Plural;58082;;;;baat1238;welmers-1952
-bɛ˩ɛn˥;;2pl_p;2nd Person Plural;58081;;;;baat1238;welmers-1952
-ya˦;;3sg_m_a;3rd Person Singular Masculine;58080;;;;baat1238;welmers-1952
-ya˦;;3sg_m_s;3rd Person Singular Masculine;58079;;;;baat1238;welmers-1952
-yu˩, ye˩;;3sg_m_o;3rd Person Singular Masculine;58078;;;;baat1238;welmers-1952
-yen˥;;3sg_m_p;3rd Person Singular Masculine;58077;;;;baat1238;welmers-1952
-ta˦;;3sg_n_a;3rd Person Singular Neuter;58076;;;;baat1238;welmers-1952
-ta˦;;3sg_n_s;3rd Person Singular Neuter;58075;;;;baat1238;welmers-1952
-tu˩, te˩;;3sg_n_o;3rd Person Singular Neuter;58074;;;;baat1238;welmers-1952
-ten˥;;3sg_n_p;3rd Person Singular Neuter;58073;;;;baat1238;welmers-1952
-yi˦;;3d-a;3rd Person Dual;58072;;;;baat1238;welmers-1952
-yi˦;;3d-s;3rd Person Dual;58071;;;;baat1238;welmers-1952
-yi˩;;3d-o;3rd Person Dual;58070;;;;baat1238;welmers-1952
-yi˥;;3d-p;3rd Person Dual;58069;;;;baat1238;welmers-1952
-yi˦;;3p-a;3rd Person Plural;58068;;;;baat1238;welmers-1952
-yi˦;;3p-s;3rd Person Plural;58067;;;;baat1238;welmers-1952
-yi˩;;3p-o;3rd Person Plural;58066;;;;baat1238;welmers-1952
-yi˥;;3p-p;3rd Person Plural;58065;;;;baat1238;welmers-1952
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+na˦,,1sg_a,1st (excl) Person Singular,58112,,,,baat1238,welmers-1952
+na˦,,1sg_s,1st (excl) Person Singular,58111,,,,baat1238,welmers-1952
+man˦,,1sg_o,1st (excl) Person Singular,58110,,,,baat1238,welmers-1952
+nɛn˥,,1sg_p,1st (excl) Person Singular,58109,,,,baat1238,welmers-1952
+sa˦,,1du_a,1st (excl) Person Dual,58108,,,,baat1238,welmers-1952
+sa˦,,1du_s,1st (excl) Person Dual,58107,,,,baat1238,welmers-1952
+sun˦,,1du_o,1st (excl) Person Dual,58106,,,,baat1238,welmers-1952
+bɛ˩sɛn˥,,1du_p,1st (excl) Person Dual,58105,,,,baat1238,welmers-1952
+sa˦,,1pl_a,1st (excl) Person Plural,58104,,,,baat1238,welmers-1952
+sa˦,,1pl_s,1st (excl) Person Plural,58103,,,,baat1238,welmers-1952
+sun˦,,1pl_o,1st (excl) Person Plural,58102,,,,baat1238,welmers-1952
+bɛ˩sɛn˥,,1pl_p,1st (excl) Person Plural,58101,,,,baat1238,welmers-1952
+sa˦,,12du_a,1st (incl) Person Dual,58100,,,,baat1238,welmers-1952
+sa˦,,12du_s,1st (incl) Person Dual,58099,,,,baat1238,welmers-1952
+sun˦,,12du_o,1st (incl) Person Dual,58098,,,,baat1238,welmers-1952
+bɛ˩sɛn˥,,12du_p,1st (incl) Person Dual,58097,,,,baat1238,welmers-1952
+sa˦,,12pl_a,1st (incl) Person Plural,58096,,,,baat1238,welmers-1952
+sa˦,,12pl_s,1st (incl) Person Plural,58095,,,,baat1238,welmers-1952
+sun˦,,12pl_o,1st (incl) Person Plural,58094,,,,baat1238,welmers-1952
+bɛ˩sɛn˥,,12pl_p,1st (incl) Person Plural,58093,,,,baat1238,welmers-1952
+a˦,,2sg_a,2nd Person Singular,58092,,,,baat1238,welmers-1952
+a˦,,2sg_s,2nd Person Singular,58091,,,,baat1238,welmers-1952
+nun˦,,2sg_o,2nd Person Singular,58090,,,,baat1238,welmers-1952
+wu˥nɛn˥,,2sg_p,2nd Person Singular,58089,,,,baat1238,welmers-1952
+i˦,,2du_a,2nd Person Dual,58088,,,,baat1238,welmers-1952
+i˦,,2du_s,2nd Person Dual,58087,,,,baat1238,welmers-1952
+bɛ˩ɛ˦,,2du_o,2nd Person Dual,58086,,,,baat1238,welmers-1952
+bɛ˩ɛn˥,,2du_p,2nd Person Dual,58085,,,,baat1238,welmers-1952
+i˦,,2pl_a,2nd Person Plural,58084,,,,baat1238,welmers-1952
+i˦,,2pl_s,2nd Person Plural,58083,,,,baat1238,welmers-1952
+bɛ˩ɛ˦,,2pl_o,2nd Person Plural,58082,,,,baat1238,welmers-1952
+bɛ˩ɛn˥,,2pl_p,2nd Person Plural,58081,,,,baat1238,welmers-1952
+ya˦,,3sg_m_a,3rd Person Singular Masculine,58080,,,,baat1238,welmers-1952
+ya˦,,3sg_m_s,3rd Person Singular Masculine,58079,,,,baat1238,welmers-1952
+"yu˩, ye˩",,3sg_m_o,3rd Person Singular Masculine,58078,,,,baat1238,welmers-1952
+yen˥,,3sg_m_p,3rd Person Singular Masculine,58077,,,,baat1238,welmers-1952
+ta˦,,3sg_n_a,3rd Person Singular Neuter,58076,,,,baat1238,welmers-1952
+ta˦,,3sg_n_s,3rd Person Singular Neuter,58075,,,,baat1238,welmers-1952
+"tu˩, te˩",,3sg_n_o,3rd Person Singular Neuter,58074,,,,baat1238,welmers-1952
+ten˥,,3sg_n_p,3rd Person Singular Neuter,58073,,,,baat1238,welmers-1952
+yi˦,,3d-a,3rd Person Dual,58072,,,,baat1238,welmers-1952
+yi˦,,3d-s,3rd Person Dual,58071,,,,baat1238,welmers-1952
+yi˩,,3d-o,3rd Person Dual,58070,,,,baat1238,welmers-1952
+yi˥,,3d-p,3rd Person Dual,58069,,,,baat1238,welmers-1952
+yi˦,,3p-a,3rd Person Plural,58068,,,,baat1238,welmers-1952
+yi˦,,3p-s,3rd Person Plural,58067,,,,baat1238,welmers-1952
+yi˩,,3p-o,3rd Person Plural,58066,,,,baat1238,welmers-1952
+yi˥,,3p-p,3rd Person Plural,58065,,,,baat1238,welmers-1952

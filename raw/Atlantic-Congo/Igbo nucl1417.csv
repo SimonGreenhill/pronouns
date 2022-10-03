@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-m̀, mmo;;1sg_a;1st (excl) Person Singular;54832;;;;nucl1417;emenanjo-1987
-m̀, mmo;;1sg_s;1st (excl) Person Singular;54831;;;;nucl1417;emenanjo-1987
-m̀, mo;;1sg_o;1st (excl) Person Singular;54830;;;;nucl1417;emenanjo-1987
-m̀, mo;;1sg_p;1st (excl) Person Singular;54829;;;;nucl1417;emenanjo-1987
-àɲi;;1du_a;1st (excl) Person Dual;54828;;;;nucl1417;emenanjo-1987
-àɲi;;1du_s;1st (excl) Person Dual;54827;;;;nucl1417;emenanjo-1987
-àɲi;;1du_o;1st (excl) Person Dual;54826;;;;nucl1417;emenanjo-1987
-àɲi;;1du_p;1st (excl) Person Dual;54825;;;;nucl1417;emenanjo-1987
-àɲi;;1pl_a;1st (excl) Person Plural;54824;;;;nucl1417;emenanjo-1987
-àɲi;;1pl_s;1st (excl) Person Plural;54823;;;;nucl1417;emenanjo-1987
-àɲi;;1pl_o;1st (excl) Person Plural;54822;;;;nucl1417;emenanjo-1987
-àɲi;;1pl_p;1st (excl) Person Plural;54821;;;;nucl1417;emenanjo-1987
-àɲi;;12du_a;1st (incl) Person Dual;54820;;;;nucl1417;emenanjo-1987
-àɲi;;12du_s;1st (incl) Person Dual;54819;;;;nucl1417;emenanjo-1987
-àɲi;;12du_o;1st (incl) Person Dual;54818;;;;nucl1417;emenanjo-1987
-àɲi;;12du_p;1st (incl) Person Dual;54817;;;;nucl1417;emenanjo-1987
-àɲi;;12pl_a;1st (incl) Person Plural;54816;;;;nucl1417;emenanjo-1987
-àɲi;;12pl_s;1st (incl) Person Plural;54815;;;;nucl1417;emenanjo-1987
-àɲi;;12pl_o;1st (incl) Person Plural;54814;;;;nucl1417;emenanjo-1987
-àɲi;;12pl_p;1st (incl) Person Plural;54813;;;;nucl1417;emenanjo-1987
-ŋe;;2sg_a;2nd Person Singular;54812;;;;nucl1417;emenanjo-1987
-ŋe;;2sg_s;2nd Person Singular;54811;;;;nucl1417;emenanjo-1987
-ge;;2sg_o;2nd Person Singular;54810;;;;nucl1417;emenanjo-1987
-ge;;2sg_p;2nd Person Singular;54809;;;;nucl1417;emenanjo-1987
-ono;;2du_a;2nd Person Dual;54808;;;;nucl1417;emenanjo-1987
-ono;;2du_s;2nd Person Dual;54807;;;;nucl1417;emenanjo-1987
-ono;;2du_o;2nd Person Dual;54806;;;;nucl1417;emenanjo-1987
-ono;;2du_p;2nd Person Dual;54805;;;;nucl1417;emenanjo-1987
-ono;;2pl_a;2nd Person Plural;54804;;;;nucl1417;emenanjo-1987
-ono;;2pl_s;2nd Person Plural;54803;;;;nucl1417;emenanjo-1987
-ono;;2pl_o;2nd Person Plural;54802;;;;nucl1417;emenanjo-1987
-ono;;2pl_p;2nd Person Plural;54801;;;;nucl1417;emenanjo-1987
-ya;;3sg_m_a;3rd Person Singular Masculine;54800;;;;nucl1417;emenanjo-1987
-ya;;3sg_m_s;3rd Person Singular Masculine;54799;;;;nucl1417;emenanjo-1987
-ya;;3sg_m_o;3rd Person Singular Masculine;54798;;;;nucl1417;emenanjo-1987
-ya;;3sg_m_p;3rd Person Singular Masculine;54797;;;;nucl1417;emenanjo-1987
-ya;;3sg_n_a;3rd Person Singular Neuter;54796;;;;nucl1417;emenanjo-1987
-ya;;3sg_n_s;3rd Person Singular Neuter;54795;;;;nucl1417;emenanjo-1987
-ya;;3sg_n_o;3rd Person Singular Neuter;54794;;;;nucl1417;emenanjo-1987
-ya;;3sg_n_p;3rd Person Singular Neuter;54793;;;;nucl1417;emenanjo-1987
-ha;;3d-a;3rd Person Dual;54792;;;;nucl1417;emenanjo-1987
-ha;;3d-s;3rd Person Dual;54791;;;;nucl1417;emenanjo-1987
-ha;;3d-o;3rd Person Dual;54790;;;;nucl1417;emenanjo-1987
-ha;;3d-p;3rd Person Dual;54789;;;;nucl1417;emenanjo-1987
-ha;;3p-a;3rd Person Plural;54788;;;;nucl1417;emenanjo-1987
-ha;;3p-s;3rd Person Plural;54787;;;;nucl1417;emenanjo-1987
-ha;;3p-o;3rd Person Plural;54786;;;;nucl1417;emenanjo-1987
-ha;;3p-p;3rd Person Plural;54785;;;;nucl1417;emenanjo-1987
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+"m̀, mmo",,1sg_a,1st (excl) Person Singular,54832,,,,nucl1417,emenanjo-1987
+"m̀, mmo",,1sg_s,1st (excl) Person Singular,54831,,,,nucl1417,emenanjo-1987
+"m̀, mo",,1sg_o,1st (excl) Person Singular,54830,,,,nucl1417,emenanjo-1987
+"m̀, mo",,1sg_p,1st (excl) Person Singular,54829,,,,nucl1417,emenanjo-1987
+àɲi,,1du_a,1st (excl) Person Dual,54828,,,,nucl1417,emenanjo-1987
+àɲi,,1du_s,1st (excl) Person Dual,54827,,,,nucl1417,emenanjo-1987
+àɲi,,1du_o,1st (excl) Person Dual,54826,,,,nucl1417,emenanjo-1987
+àɲi,,1du_p,1st (excl) Person Dual,54825,,,,nucl1417,emenanjo-1987
+àɲi,,1pl_a,1st (excl) Person Plural,54824,,,,nucl1417,emenanjo-1987
+àɲi,,1pl_s,1st (excl) Person Plural,54823,,,,nucl1417,emenanjo-1987
+àɲi,,1pl_o,1st (excl) Person Plural,54822,,,,nucl1417,emenanjo-1987
+àɲi,,1pl_p,1st (excl) Person Plural,54821,,,,nucl1417,emenanjo-1987
+àɲi,,12du_a,1st (incl) Person Dual,54820,,,,nucl1417,emenanjo-1987
+àɲi,,12du_s,1st (incl) Person Dual,54819,,,,nucl1417,emenanjo-1987
+àɲi,,12du_o,1st (incl) Person Dual,54818,,,,nucl1417,emenanjo-1987
+àɲi,,12du_p,1st (incl) Person Dual,54817,,,,nucl1417,emenanjo-1987
+àɲi,,12pl_a,1st (incl) Person Plural,54816,,,,nucl1417,emenanjo-1987
+àɲi,,12pl_s,1st (incl) Person Plural,54815,,,,nucl1417,emenanjo-1987
+àɲi,,12pl_o,1st (incl) Person Plural,54814,,,,nucl1417,emenanjo-1987
+àɲi,,12pl_p,1st (incl) Person Plural,54813,,,,nucl1417,emenanjo-1987
+ŋe,,2sg_a,2nd Person Singular,54812,,,,nucl1417,emenanjo-1987
+ŋe,,2sg_s,2nd Person Singular,54811,,,,nucl1417,emenanjo-1987
+ge,,2sg_o,2nd Person Singular,54810,,,,nucl1417,emenanjo-1987
+ge,,2sg_p,2nd Person Singular,54809,,,,nucl1417,emenanjo-1987
+ono,,2du_a,2nd Person Dual,54808,,,,nucl1417,emenanjo-1987
+ono,,2du_s,2nd Person Dual,54807,,,,nucl1417,emenanjo-1987
+ono,,2du_o,2nd Person Dual,54806,,,,nucl1417,emenanjo-1987
+ono,,2du_p,2nd Person Dual,54805,,,,nucl1417,emenanjo-1987
+ono,,2pl_a,2nd Person Plural,54804,,,,nucl1417,emenanjo-1987
+ono,,2pl_s,2nd Person Plural,54803,,,,nucl1417,emenanjo-1987
+ono,,2pl_o,2nd Person Plural,54802,,,,nucl1417,emenanjo-1987
+ono,,2pl_p,2nd Person Plural,54801,,,,nucl1417,emenanjo-1987
+ya,,3sg_m_a,3rd Person Singular Masculine,54800,,,,nucl1417,emenanjo-1987
+ya,,3sg_m_s,3rd Person Singular Masculine,54799,,,,nucl1417,emenanjo-1987
+ya,,3sg_m_o,3rd Person Singular Masculine,54798,,,,nucl1417,emenanjo-1987
+ya,,3sg_m_p,3rd Person Singular Masculine,54797,,,,nucl1417,emenanjo-1987
+ya,,3sg_n_a,3rd Person Singular Neuter,54796,,,,nucl1417,emenanjo-1987
+ya,,3sg_n_s,3rd Person Singular Neuter,54795,,,,nucl1417,emenanjo-1987
+ya,,3sg_n_o,3rd Person Singular Neuter,54794,,,,nucl1417,emenanjo-1987
+ya,,3sg_n_p,3rd Person Singular Neuter,54793,,,,nucl1417,emenanjo-1987
+ha,,3d-a,3rd Person Dual,54792,,,,nucl1417,emenanjo-1987
+ha,,3d-s,3rd Person Dual,54791,,,,nucl1417,emenanjo-1987
+ha,,3d-o,3rd Person Dual,54790,,,,nucl1417,emenanjo-1987
+ha,,3d-p,3rd Person Dual,54789,,,,nucl1417,emenanjo-1987
+ha,,3p-a,3rd Person Plural,54788,,,,nucl1417,emenanjo-1987
+ha,,3p-s,3rd Person Plural,54787,,,,nucl1417,emenanjo-1987
+ha,,3p-o,3rd Person Plural,54786,,,,nucl1417,emenanjo-1987
+ha,,3p-p,3rd Person Plural,54785,,,,nucl1417,emenanjo-1987

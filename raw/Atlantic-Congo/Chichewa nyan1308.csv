@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ine ;;1sg_a;1st (excl) Person Singular;50962;;;;nyan1308;bentley-and-kulemeka-2001
-ine ;;1sg_s;1st (excl) Person Singular;50961;;;;nyan1308;bentley-and-kulemeka-2001
-ine ;;1sg_o;1st (excl) Person Singular;50960;;;;nyan1308;bentley-and-kulemeka-2001
-ine ;;1sg_p;1st (excl) Person Singular;50959;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;1du_a;1st (excl) Person Dual;50958;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;1du_s;1st (excl) Person Dual;50957;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;1du_o;1st (excl) Person Dual;50956;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;1du_p;1st (excl) Person Dual;50955;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;1pl_a;1st (excl) Person Plural;50954;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;1pl_s;1st (excl) Person Plural;50953;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;1pl_o;1st (excl) Person Plural;50952;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;1pl_p;1st (excl) Person Plural;50951;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;12du_a;1st (incl) Person Dual;50950;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;12du_s;1st (incl) Person Dual;50949;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;12du_o;1st (incl) Person Dual;50948;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;12du_p;1st (incl) Person Dual;50947;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;12pl_a;1st (incl) Person Plural;50946;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;12pl_s;1st (incl) Person Plural;50945;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;12pl_o;1st (incl) Person Plural;50944;;;;nyan1308;bentley-and-kulemeka-2001
-ife ;;12pl_p;1st (incl) Person Plural;50943;;;;nyan1308;bentley-and-kulemeka-2001
-iwe ;;2sg_a;2nd Person Singular;50942;;;;nyan1308;bentley-and-kulemeka-2001
-iwe ;;2sg_s;2nd Person Singular;50941;;;;nyan1308;bentley-and-kulemeka-2001
-iwe ;;2sg_o;2nd Person Singular;50940;;;;nyan1308;bentley-and-kulemeka-2001
-iwe ;;2sg_p;2nd Person Singular;50939;;;;nyan1308;bentley-and-kulemeka-2001
-inu ;;2du_a;2nd Person Dual;50938;;;;nyan1308;bentley-and-kulemeka-2001
-inu ;;2du_s;2nd Person Dual;50937;;;;nyan1308;bentley-and-kulemeka-2001
-inu ;;2du_o;2nd Person Dual;50936;;;;nyan1308;bentley-and-kulemeka-2001
-inu ;;2du_p;2nd Person Dual;50935;;;;nyan1308;bentley-and-kulemeka-2001
-inu ;;2pl_a;2nd Person Plural;50934;;;;nyan1308;bentley-and-kulemeka-2001
-inu ;;2pl_s;2nd Person Plural;50933;;;;nyan1308;bentley-and-kulemeka-2001
-inu ;;2pl_o;2nd Person Plural;50932;;;;nyan1308;bentley-and-kulemeka-2001
-inu ;;2pl_p;2nd Person Plural;50931;;;;nyan1308;bentley-and-kulemeka-2001
-iye ;;3sg_m_a;3rd Person Singular Masculine;50930;;;;nyan1308;bentley-and-kulemeka-2001
-iye ;;3sg_m_s;3rd Person Singular Masculine;50929;;;;nyan1308;bentley-and-kulemeka-2001
-iye ;;3sg_m_o;3rd Person Singular Masculine;50928;;;;nyan1308;bentley-and-kulemeka-2001
-iye ;;3sg_m_p;3rd Person Singular Masculine;50927;;;;nyan1308;bentley-and-kulemeka-2001
-iye ;;3sg_n_a;3rd Person Singular Neuter;50926;;;;nyan1308;bentley-and-kulemeka-2001
-iye ;;3sg_n_s;3rd Person Singular Neuter;50925;;;;nyan1308;bentley-and-kulemeka-2001
-iye ;;3sg_n_o;3rd Person Singular Neuter;50924;;;;nyan1308;bentley-and-kulemeka-2001
-iye ;;3sg_n_p;3rd Person Singular Neuter;50923;;;;nyan1308;bentley-and-kulemeka-2001
-iwo ;;3d-a;3rd Person Dual;50922;;;;nyan1308;bentley-and-kulemeka-2001
-iwo ;;3d-s;3rd Person Dual;50921;;;;nyan1308;bentley-and-kulemeka-2001
-iwo ;;3d-o;3rd Person Dual;50920;;;;nyan1308;bentley-and-kulemeka-2001
-iwo ;;3d-p;3rd Person Dual;50919;;;;nyan1308;bentley-and-kulemeka-2001
-iwo ;;3p-a;3rd Person Plural;50918;;;;nyan1308;bentley-and-kulemeka-2001
-iwo ;;3p-s;3rd Person Plural;50917;;;;nyan1308;bentley-and-kulemeka-2001
-iwo ;;3p-o;3rd Person Plural;50916;;;;nyan1308;bentley-and-kulemeka-2001
-iwo ;;3p-p;3rd Person Plural;50915;;;;nyan1308;bentley-and-kulemeka-2001
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ine,,1sg_a,1st (excl) Person Singular,50962,,,,nyan1308,bentley-and-kulemeka-2001
+ine,,1sg_s,1st (excl) Person Singular,50961,,,,nyan1308,bentley-and-kulemeka-2001
+ine,,1sg_o,1st (excl) Person Singular,50960,,,,nyan1308,bentley-and-kulemeka-2001
+ine,,1sg_p,1st (excl) Person Singular,50959,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,1du_a,1st (excl) Person Dual,50958,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,1du_s,1st (excl) Person Dual,50957,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,1du_o,1st (excl) Person Dual,50956,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,1du_p,1st (excl) Person Dual,50955,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,1pl_a,1st (excl) Person Plural,50954,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,1pl_s,1st (excl) Person Plural,50953,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,1pl_o,1st (excl) Person Plural,50952,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,1pl_p,1st (excl) Person Plural,50951,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,12du_a,1st (incl) Person Dual,50950,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,12du_s,1st (incl) Person Dual,50949,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,12du_o,1st (incl) Person Dual,50948,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,12du_p,1st (incl) Person Dual,50947,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,12pl_a,1st (incl) Person Plural,50946,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,12pl_s,1st (incl) Person Plural,50945,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,12pl_o,1st (incl) Person Plural,50944,,,,nyan1308,bentley-and-kulemeka-2001
+ife,,12pl_p,1st (incl) Person Plural,50943,,,,nyan1308,bentley-and-kulemeka-2001
+iwe,,2sg_a,2nd Person Singular,50942,,,,nyan1308,bentley-and-kulemeka-2001
+iwe,,2sg_s,2nd Person Singular,50941,,,,nyan1308,bentley-and-kulemeka-2001
+iwe,,2sg_o,2nd Person Singular,50940,,,,nyan1308,bentley-and-kulemeka-2001
+iwe,,2sg_p,2nd Person Singular,50939,,,,nyan1308,bentley-and-kulemeka-2001
+inu,,2du_a,2nd Person Dual,50938,,,,nyan1308,bentley-and-kulemeka-2001
+inu,,2du_s,2nd Person Dual,50937,,,,nyan1308,bentley-and-kulemeka-2001
+inu,,2du_o,2nd Person Dual,50936,,,,nyan1308,bentley-and-kulemeka-2001
+inu,,2du_p,2nd Person Dual,50935,,,,nyan1308,bentley-and-kulemeka-2001
+inu,,2pl_a,2nd Person Plural,50934,,,,nyan1308,bentley-and-kulemeka-2001
+inu,,2pl_s,2nd Person Plural,50933,,,,nyan1308,bentley-and-kulemeka-2001
+inu,,2pl_o,2nd Person Plural,50932,,,,nyan1308,bentley-and-kulemeka-2001
+inu,,2pl_p,2nd Person Plural,50931,,,,nyan1308,bentley-and-kulemeka-2001
+iye,,3sg_m_a,3rd Person Singular Masculine,50930,,,,nyan1308,bentley-and-kulemeka-2001
+iye,,3sg_m_s,3rd Person Singular Masculine,50929,,,,nyan1308,bentley-and-kulemeka-2001
+iye,,3sg_m_o,3rd Person Singular Masculine,50928,,,,nyan1308,bentley-and-kulemeka-2001
+iye,,3sg_m_p,3rd Person Singular Masculine,50927,,,,nyan1308,bentley-and-kulemeka-2001
+iye,,3sg_n_a,3rd Person Singular Neuter,50926,,,,nyan1308,bentley-and-kulemeka-2001
+iye,,3sg_n_s,3rd Person Singular Neuter,50925,,,,nyan1308,bentley-and-kulemeka-2001
+iye,,3sg_n_o,3rd Person Singular Neuter,50924,,,,nyan1308,bentley-and-kulemeka-2001
+iye,,3sg_n_p,3rd Person Singular Neuter,50923,,,,nyan1308,bentley-and-kulemeka-2001
+iwo,,3d-a,3rd Person Dual,50922,,,,nyan1308,bentley-and-kulemeka-2001
+iwo,,3d-s,3rd Person Dual,50921,,,,nyan1308,bentley-and-kulemeka-2001
+iwo,,3d-o,3rd Person Dual,50920,,,,nyan1308,bentley-and-kulemeka-2001
+iwo,,3d-p,3rd Person Dual,50919,,,,nyan1308,bentley-and-kulemeka-2001
+iwo,,3p-a,3rd Person Plural,50918,,,,nyan1308,bentley-and-kulemeka-2001
+iwo,,3p-s,3rd Person Plural,50917,,,,nyan1308,bentley-and-kulemeka-2001
+iwo,,3p-o,3rd Person Plural,50916,,,,nyan1308,bentley-and-kulemeka-2001
+iwo,,3p-p,3rd Person Plural,50915,,,,nyan1308,bentley-and-kulemeka-2001

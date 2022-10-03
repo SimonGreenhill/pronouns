@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-kana ;;1sg_a;1st (excl) Person Singular;50386;;;;bign1238;fox-1979
-kana ;;1sg_s;1st (excl) Person Singular;50385;;;;bign1238;fox-1979
-kana ;;1sg_o;1st (excl) Person Singular;50384;;;;bign1238;fox-1979
--k ;;1sg_p;1st (excl) Person Singular;50383;;;;bign1238;fox-1979
-kam̼em̼;;1du_a;1st (excl) Person Dual;50382;;;;bign1238;fox-1979
-kam̼em̼;;1du_s;1st (excl) Person Dual;50381;;;;bign1238;fox-1979
-kam̼em̼;;1du_o;1st (excl) Person Dual;50380;;;;bign1238;fox-1979
--m̼em̼ ;;1du_p;1st (excl) Person Dual;50379;;;;bign1238;fox-1979
-kam̼em̼;;1pl_a;1st (excl) Person Plural;50378;;;;bign1238;fox-1979
-kam̼em̼;;1pl_s;1st (excl) Person Plural;50377;;;;bign1238;fox-1979
-kam̼em̼;;1pl_o;1st (excl) Person Plural;50376;;;;bign1238;fox-1979
--m̼em̼ ;;1pl_p;1st (excl) Person Plural;50375;;;;bign1238;fox-1979
-nakəd;;12du_a;1st (incl) Person Dual;50374;;;;bign1238;fox-1979
-nakəd;;12du_s;1st (incl) Person Dual;50373;;;;bign1238;fox-1979
-nakəd;;12du_o;1st (incl) Person Dual;50372;;;;bign1238;fox-1979
--d ;;12du_p;1st (incl) Person Dual;50371;;;;bign1238;fox-1979
-nakəd;;12pl_a;1st (incl) Person Plural;50370;;;;bign1238;fox-1979
-nakəd;;12pl_s;1st (incl) Person Plural;50369;;;;bign1238;fox-1979
-nakəd;;12pl_o;1st (incl) Person Plural;50368;;;;bign1238;fox-1979
--d ;;12pl_p;1st (incl) Person Plural;50367;;;;bign1238;fox-1979
-nakəm;;2sg_a;2nd Person Singular;50366;;;;bign1238;fox-1979
-nakəm;;2sg_s;2nd Person Singular;50365;;;;bign1238;fox-1979
--əɣ ;;2sg_o;2nd Person Singular;50364;;;;bign1238;fox-1979
--m ;;2sg_p;2nd Person Singular;50363;;;;bign1238;fox-1979
-kam̼i ;;2du_a;2nd Person Dual;50362;;;;bign1238;fox-1979
-kam̼i ;;2du_s;2nd Person Dual;50361;;;;bign1238;fox-1979
-kam̼i ;;2du_o;2nd Person Dual;50360;;;;bign1238;fox-1979
--m̼i ;;2du_p;2nd Person Dual;50359;;;;bign1238;fox-1979
-kam̼i ;;2pl_a;2nd Person Plural;50358;;;;bign1238;fox-1979
-kam̼i ;;2pl_s;2nd Person Plural;50357;;;;bign1238;fox-1979
-kam̼i ;;2pl_o;2nd Person Plural;50356;;;;bign1238;fox-1979
--m̼i ;;2pl_p;2nd Person Plural;50355;;;;bign1238;fox-1979
-ɣin;;3sg_m_a;3rd Person Singular Masculine;50354;;;;bign1238;fox-1979
-ɣin;;3sg_m_s;3rd Person Singular Masculine;50353;;;;bign1238;fox-1979
--i ;;3sg_m_o;3rd Person Singular Masculine;50352;;;;bign1238;fox-1979
--n ;;3sg_m_p;3rd Person Singular Masculine;50351;;;;bign1238;fox-1979
-ɣin;;3sg_n_a;3rd Person Singular Neuter;50350;;;;bign1238;fox-1979
-ɣin;;3sg_n_s;3rd Person Singular Neuter;50349;;;;bign1238;fox-1979
--i ;;3sg_n_o;3rd Person Singular Neuter;50348;;;;bign1238;fox-1979
--n ;;3sg_n_p;3rd Person Singular Neuter;50347;;;;bign1238;fox-1979
-ɣir;;3d-a;3rd Person Dual;50346;;;;bign1238;fox-1979
-ɣir;;3d-s;3rd Person Dual;50345;;;;bign1238;fox-1979
--r ;;3d-o;3rd Person Dual;50344;;;;bign1238;fox-1979
--r ;;3d-p;3rd Person Dual;50343;;;;bign1238;fox-1979
-ɣir;;3p-a;3rd Person Plural;50342;;;;bign1238;fox-1979
-ɣir;;3p-s;3rd Person Plural;50341;;;;bign1238;fox-1979
--r ;;3p-o;3rd Person Plural;50340;;;;bign1238;fox-1979
--r ;;3p-p;3rd Person Plural;50339;;;;bign1238;fox-1979
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+kana,,1sg_a,1st (excl) Person Singular,50386,,,,bign1238,fox-1979
+kana,,1sg_s,1st (excl) Person Singular,50385,,,,bign1238,fox-1979
+kana,,1sg_o,1st (excl) Person Singular,50384,,,,bign1238,fox-1979
+-k,,1sg_p,1st (excl) Person Singular,50383,,,,bign1238,fox-1979
+kam̼em̼,,1du_a,1st (excl) Person Dual,50382,,,,bign1238,fox-1979
+kam̼em̼,,1du_s,1st (excl) Person Dual,50381,,,,bign1238,fox-1979
+kam̼em̼,,1du_o,1st (excl) Person Dual,50380,,,,bign1238,fox-1979
+-m̼em̼,,1du_p,1st (excl) Person Dual,50379,,,,bign1238,fox-1979
+kam̼em̼,,1pl_a,1st (excl) Person Plural,50378,,,,bign1238,fox-1979
+kam̼em̼,,1pl_s,1st (excl) Person Plural,50377,,,,bign1238,fox-1979
+kam̼em̼,,1pl_o,1st (excl) Person Plural,50376,,,,bign1238,fox-1979
+-m̼em̼,,1pl_p,1st (excl) Person Plural,50375,,,,bign1238,fox-1979
+nakəd,,12du_a,1st (incl) Person Dual,50374,,,,bign1238,fox-1979
+nakəd,,12du_s,1st (incl) Person Dual,50373,,,,bign1238,fox-1979
+nakəd,,12du_o,1st (incl) Person Dual,50372,,,,bign1238,fox-1979
+-d,,12du_p,1st (incl) Person Dual,50371,,,,bign1238,fox-1979
+nakəd,,12pl_a,1st (incl) Person Plural,50370,,,,bign1238,fox-1979
+nakəd,,12pl_s,1st (incl) Person Plural,50369,,,,bign1238,fox-1979
+nakəd,,12pl_o,1st (incl) Person Plural,50368,,,,bign1238,fox-1979
+-d,,12pl_p,1st (incl) Person Plural,50367,,,,bign1238,fox-1979
+nakəm,,2sg_a,2nd Person Singular,50366,,,,bign1238,fox-1979
+nakəm,,2sg_s,2nd Person Singular,50365,,,,bign1238,fox-1979
+-əɣ,,2sg_o,2nd Person Singular,50364,,,,bign1238,fox-1979
+-m,,2sg_p,2nd Person Singular,50363,,,,bign1238,fox-1979
+kam̼i,,2du_a,2nd Person Dual,50362,,,,bign1238,fox-1979
+kam̼i,,2du_s,2nd Person Dual,50361,,,,bign1238,fox-1979
+kam̼i,,2du_o,2nd Person Dual,50360,,,,bign1238,fox-1979
+-m̼i,,2du_p,2nd Person Dual,50359,,,,bign1238,fox-1979
+kam̼i,,2pl_a,2nd Person Plural,50358,,,,bign1238,fox-1979
+kam̼i,,2pl_s,2nd Person Plural,50357,,,,bign1238,fox-1979
+kam̼i,,2pl_o,2nd Person Plural,50356,,,,bign1238,fox-1979
+-m̼i,,2pl_p,2nd Person Plural,50355,,,,bign1238,fox-1979
+ɣin,,3sg_m_a,3rd Person Singular Masculine,50354,,,,bign1238,fox-1979
+ɣin,,3sg_m_s,3rd Person Singular Masculine,50353,,,,bign1238,fox-1979
+-i,,3sg_m_o,3rd Person Singular Masculine,50352,,,,bign1238,fox-1979
+-n,,3sg_m_p,3rd Person Singular Masculine,50351,,,,bign1238,fox-1979
+ɣin,,3sg_n_a,3rd Person Singular Neuter,50350,,,,bign1238,fox-1979
+ɣin,,3sg_n_s,3rd Person Singular Neuter,50349,,,,bign1238,fox-1979
+-i,,3sg_n_o,3rd Person Singular Neuter,50348,,,,bign1238,fox-1979
+-n,,3sg_n_p,3rd Person Singular Neuter,50347,,,,bign1238,fox-1979
+ɣir,,3d-a,3rd Person Dual,50346,,,,bign1238,fox-1979
+ɣir,,3d-s,3rd Person Dual,50345,,,,bign1238,fox-1979
+-r,,3d-o,3rd Person Dual,50344,,,,bign1238,fox-1979
+-r,,3d-p,3rd Person Dual,50343,,,,bign1238,fox-1979
+ɣir,,3p-a,3rd Person Plural,50342,,,,bign1238,fox-1979
+ɣir,,3p-s,3rd Person Plural,50341,,,,bign1238,fox-1979
+-r,,3p-o,3rd Person Plural,50340,,,,bign1238,fox-1979
+-r,,3p-p,3rd Person Plural,50339,,,,bign1238,fox-1979

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-s̻i;;1sg_a;1st (excl) Person Singular;44822;;;;kwaz1243;van-der-voort-2004
-s̻i;;1sg_s;1st (excl) Person Singular;44821;;;;kwaz1243;van-der-voort-2004
-s̻i;;1sg_o;1st (excl) Person Singular;44820;;;;kwaz1243;van-der-voort-2004
-s̻idɨ-;;1sg_p;1st (excl) Person Singular;44819;;;;kwaz1243;van-der-voort-2004
-ts̻i'tsɛ;;1du_a;1st (excl) Person Dual;44818;;;;kwaz1243;van-der-voort-2004
-ts̻i'tsɛ;;1du_s;1st (excl) Person Dual;44817;;;;kwaz1243;van-der-voort-2004
-ts̻i'tsɛ;;1du_o;1st (excl) Person Dual;44816;;;;kwaz1243;van-der-voort-2004
-ts̻i'tsɛdɨ-;;1du_p;1st (excl) Person Dual;44815;;;;kwaz1243;van-der-voort-2004
-ts̻i'tsɛ;;1pl_a;1st (excl) Person Plural;44814;;;;kwaz1243;van-der-voort-2004
-ts̻i'tsɛ;;1pl_s;1st (excl) Person Plural;44813;;;;kwaz1243;van-der-voort-2004
-ts̻i'tsɛ;;1pl_o;1st (excl) Person Plural;44812;;;;kwaz1243;van-der-voort-2004
-ts̻i'tsɛdɨ-;;1pl_p;1st (excl) Person Plural;44811;;;;kwaz1243;van-der-voort-2004
-ʧa'na;;12du_a;1st (incl) Person Dual;44810;;;;kwaz1243;van-der-voort-2004
-ʧa'na;;12du_s;1st (incl) Person Dual;44809;;;;kwaz1243;van-der-voort-2004
-ʧa'na;;12du_o;1st (incl) Person Dual;44808;;;;kwaz1243;van-der-voort-2004
-ʧa'nadɨ-;;12du_p;1st (incl) Person Dual;44807;;;;kwaz1243;van-der-voort-2004
-ʧa'na;;12pl_a;1st (incl) Person Plural;44806;;;;kwaz1243;van-der-voort-2004
-ʧa'na;;12pl_s;1st (incl) Person Plural;44805;;;;kwaz1243;van-der-voort-2004
-ʧa'na;;12pl_o;1st (incl) Person Plural;44804;;;;kwaz1243;van-der-voort-2004
-ʧa'nadɨ-;;12pl_p;1st (incl) Person Plural;44803;;;;kwaz1243;van-der-voort-2004
-sɨi;;2sg_a;2nd Person Singular;44802;;;;kwaz1243;van-der-voort-2004
-sɨi;;2sg_s;2nd Person Singular;44801;;;;kwaz1243;van-der-voort-2004
-sɨi;;2sg_o;2nd Person Singular;44800;;;;kwaz1243;van-der-voort-2004
-sɨidɨ-;;2sg_p;2nd Person Singular;44799;;;;kwaz1243;van-der-voort-2004
-sɨi'tsɛ;;2du_a;2nd Person Dual;44798;;;;kwaz1243;van-der-voort-2004
-sɨi'tsɛ;;2du_s;2nd Person Dual;44797;;;;kwaz1243;van-der-voort-2004
-sɨi'tsɛ;;2du_o;2nd Person Dual;44796;;;;kwaz1243;van-der-voort-2004
-sɨi'tsɛdɨ-;;2du_p;2nd Person Dual;44795;;;;kwaz1243;van-der-voort-2004
-sɨi'tsɛ;;2pl_a;2nd Person Plural;44794;;;;kwaz1243;van-der-voort-2004
-sɨi'tsɛ;;2pl_s;2nd Person Plural;44793;;;;kwaz1243;van-der-voort-2004
-sɨi'tsɛ;;2pl_o;2nd Person Plural;44792;;;;kwaz1243;van-der-voort-2004
-sɨi'tsɛdɨ-;;2pl_p;2nd Person Plural;44791;;;;kwaz1243;van-der-voort-2004
-ĩ;;3sg_m_a;3rd Person Singular Masculine;44790;;;;kwaz1243;van-der-voort-2004
-ĩ;;3sg_m_s;3rd Person Singular Masculine;44789;;;;kwaz1243;van-der-voort-2004
-ĩ;;3sg_m_o;3rd Person Singular Masculine;44788;;;;kwaz1243;van-der-voort-2004
-ĩdɨ-;;3sg_m_p;3rd Person Singular Masculine;44787;;;;kwaz1243;van-der-voort-2004
-ĩ;;3sg_n_a;3rd Person Singular Neuter;44786;;;;kwaz1243;van-der-voort-2004
-ĩ;;3sg_n_s;3rd Person Singular Neuter;44785;;;;kwaz1243;van-der-voort-2004
-ĩ;;3sg_n_o;3rd Person Singular Neuter;44784;;;;kwaz1243;van-der-voort-2004
-ĩdɨ-;;3sg_n_p;3rd Person Singular Neuter;44783;;;;kwaz1243;van-der-voort-2004
-ĩ;;3d-a;3rd Person Dual;44782;;;;kwaz1243;van-der-voort-2004
-ĩ;;3d-s;3rd Person Dual;44781;;;;kwaz1243;van-der-voort-2004
-ĩ;;3d-o;3rd Person Dual;44780;;;;kwaz1243;van-der-voort-2004
-ĩdɨ-;;3d-p;3rd Person Dual;44779;;;;kwaz1243;van-der-voort-2004
-ĩ;;3p-a;3rd Person Plural;44778;;;;kwaz1243;van-der-voort-2004
-ĩ;;3p-s;3rd Person Plural;44777;;;;kwaz1243;van-der-voort-2004
-ĩ;;3p-o;3rd Person Plural;44776;;;;kwaz1243;van-der-voort-2004
-ĩdɨ-;;3p-p;3rd Person Plural;44775;;;;kwaz1243;van-der-voort-2004
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+s̻i,,1sg_a,1st (excl) Person Singular,44822,,,,kwaz1243,van-der-voort-2004
+s̻i,,1sg_s,1st (excl) Person Singular,44821,,,,kwaz1243,van-der-voort-2004
+s̻i,,1sg_o,1st (excl) Person Singular,44820,,,,kwaz1243,van-der-voort-2004
+s̻idɨ-,,1sg_p,1st (excl) Person Singular,44819,,,,kwaz1243,van-der-voort-2004
+ts̻i'tsɛ,,1du_a,1st (excl) Person Dual,44818,,,,kwaz1243,van-der-voort-2004
+ts̻i'tsɛ,,1du_s,1st (excl) Person Dual,44817,,,,kwaz1243,van-der-voort-2004
+ts̻i'tsɛ,,1du_o,1st (excl) Person Dual,44816,,,,kwaz1243,van-der-voort-2004
+ts̻i'tsɛdɨ-,,1du_p,1st (excl) Person Dual,44815,,,,kwaz1243,van-der-voort-2004
+ts̻i'tsɛ,,1pl_a,1st (excl) Person Plural,44814,,,,kwaz1243,van-der-voort-2004
+ts̻i'tsɛ,,1pl_s,1st (excl) Person Plural,44813,,,,kwaz1243,van-der-voort-2004
+ts̻i'tsɛ,,1pl_o,1st (excl) Person Plural,44812,,,,kwaz1243,van-der-voort-2004
+ts̻i'tsɛdɨ-,,1pl_p,1st (excl) Person Plural,44811,,,,kwaz1243,van-der-voort-2004
+ʧa'na,,12du_a,1st (incl) Person Dual,44810,,,,kwaz1243,van-der-voort-2004
+ʧa'na,,12du_s,1st (incl) Person Dual,44809,,,,kwaz1243,van-der-voort-2004
+ʧa'na,,12du_o,1st (incl) Person Dual,44808,,,,kwaz1243,van-der-voort-2004
+ʧa'nadɨ-,,12du_p,1st (incl) Person Dual,44807,,,,kwaz1243,van-der-voort-2004
+ʧa'na,,12pl_a,1st (incl) Person Plural,44806,,,,kwaz1243,van-der-voort-2004
+ʧa'na,,12pl_s,1st (incl) Person Plural,44805,,,,kwaz1243,van-der-voort-2004
+ʧa'na,,12pl_o,1st (incl) Person Plural,44804,,,,kwaz1243,van-der-voort-2004
+ʧa'nadɨ-,,12pl_p,1st (incl) Person Plural,44803,,,,kwaz1243,van-der-voort-2004
+sɨi,,2sg_a,2nd Person Singular,44802,,,,kwaz1243,van-der-voort-2004
+sɨi,,2sg_s,2nd Person Singular,44801,,,,kwaz1243,van-der-voort-2004
+sɨi,,2sg_o,2nd Person Singular,44800,,,,kwaz1243,van-der-voort-2004
+sɨidɨ-,,2sg_p,2nd Person Singular,44799,,,,kwaz1243,van-der-voort-2004
+sɨi'tsɛ,,2du_a,2nd Person Dual,44798,,,,kwaz1243,van-der-voort-2004
+sɨi'tsɛ,,2du_s,2nd Person Dual,44797,,,,kwaz1243,van-der-voort-2004
+sɨi'tsɛ,,2du_o,2nd Person Dual,44796,,,,kwaz1243,van-der-voort-2004
+sɨi'tsɛdɨ-,,2du_p,2nd Person Dual,44795,,,,kwaz1243,van-der-voort-2004
+sɨi'tsɛ,,2pl_a,2nd Person Plural,44794,,,,kwaz1243,van-der-voort-2004
+sɨi'tsɛ,,2pl_s,2nd Person Plural,44793,,,,kwaz1243,van-der-voort-2004
+sɨi'tsɛ,,2pl_o,2nd Person Plural,44792,,,,kwaz1243,van-der-voort-2004
+sɨi'tsɛdɨ-,,2pl_p,2nd Person Plural,44791,,,,kwaz1243,van-der-voort-2004
+ĩ,,3sg_m_a,3rd Person Singular Masculine,44790,,,,kwaz1243,van-der-voort-2004
+ĩ,,3sg_m_s,3rd Person Singular Masculine,44789,,,,kwaz1243,van-der-voort-2004
+ĩ,,3sg_m_o,3rd Person Singular Masculine,44788,,,,kwaz1243,van-der-voort-2004
+ĩdɨ-,,3sg_m_p,3rd Person Singular Masculine,44787,,,,kwaz1243,van-der-voort-2004
+ĩ,,3sg_n_a,3rd Person Singular Neuter,44786,,,,kwaz1243,van-der-voort-2004
+ĩ,,3sg_n_s,3rd Person Singular Neuter,44785,,,,kwaz1243,van-der-voort-2004
+ĩ,,3sg_n_o,3rd Person Singular Neuter,44784,,,,kwaz1243,van-der-voort-2004
+ĩdɨ-,,3sg_n_p,3rd Person Singular Neuter,44783,,,,kwaz1243,van-der-voort-2004
+ĩ,,3d-a,3rd Person Dual,44782,,,,kwaz1243,van-der-voort-2004
+ĩ,,3d-s,3rd Person Dual,44781,,,,kwaz1243,van-der-voort-2004
+ĩ,,3d-o,3rd Person Dual,44780,,,,kwaz1243,van-der-voort-2004
+ĩdɨ-,,3d-p,3rd Person Dual,44779,,,,kwaz1243,van-der-voort-2004
+ĩ,,3p-a,3rd Person Plural,44778,,,,kwaz1243,van-der-voort-2004
+ĩ,,3p-s,3rd Person Plural,44777,,,,kwaz1243,van-der-voort-2004
+ĩ,,3p-o,3rd Person Plural,44776,,,,kwaz1243,van-der-voort-2004
+ĩdɨ-,,3p-p,3rd Person Plural,44775,,,,kwaz1243,van-der-voort-2004

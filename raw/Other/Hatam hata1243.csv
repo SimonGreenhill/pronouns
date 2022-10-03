@@ -1,50 +1,50 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-da;;1sg_a;1st (excl) Person Singular;41966;;;;hata1243;reesink-1999
-da;;1sg_s;1st (excl) Person Singular;41965;;;;hata1243;reesink-1999
-da;;1sg_o;1st (excl) Person Singular;41964;;;;hata1243;reesink-1999
-ditde;;1sg_p;1st (excl) Person Singular;41963;;;;hata1243;reesink-1999
-sa;;1du_a;1st (excl) Person Dual;41962;;;;hata1243;reesink-1999
-sa;;1du_s;1st (excl) Person Dual;41961;;;;hata1243;reesink-1999
-sa;;1du_o;1st (excl) Person Dual;41960;;;;hata1243;reesink-1999
-side;;1du_p;1st (excl) Person Dual;41959;;;;hata1243;reesink-1999
-ɲe;;1pl_a;1st (excl) Person Plural;41958;;;;hata1243;reesink-1999
-ɲe;;1pl_s;1st (excl) Person Plural;41957;;;;hata1243;reesink-1999
-ɲe;;1pl_o;1st (excl) Person Plural;41956;;;;hata1243;reesink-1999
-ide;;1pl_p;1st (excl) Person Plural;41955;;;;hata1243;reesink-1999
-sa;;12du_a;1st (incl) Person Dual;41954;;;;hata1243;reesink-1999
-sa;;12du_s;1st (incl) Person Dual;41953;;;;hata1243;reesink-1999
-sa;;12du_o;1st (incl) Person Dual;41952;;;;hata1243;reesink-1999
-side;;12du_p;1st (incl) Person Dual;41951;;;;hata1243;reesink-1999
-ɲe;;12pl_a;1st (incl) Person Plural;41950;;;;hata1243;reesink-1999
-ɲe;;12pl_s;1st (incl) Person Plural;41949;;;;hata1243;reesink-1999
-ɲe;;12pl_o;1st (incl) Person Plural;41948;;;;hata1243;reesink-1999
-ɲende;;12pl_p;1st (incl) Person Plural;42457;;;;hata1243;reesink-1999
-nide;;12pl_p;1st (incl) Person Plural;42458;;;;hata1243;reesink-1999
-na;;2sg_a;2nd Person Singular;41946;;;;hata1243;reesink-1999
-na;;2sg_s;2nd Person Singular;41945;;;;hata1243;reesink-1999
-na;;2sg_o;2nd Person Singular;41944;;;;hata1243;reesink-1999
-ade;;2sg_p;2nd Person Singular;41943;;;;hata1243;reesink-1999
-je;;2du_a;2nd Person Dual;41942;;;;hata1243;reesink-1999
-je;;2du_s;2nd Person Dual;41941;;;;hata1243;reesink-1999
-je;;2du_o;2nd Person Dual;41940;;;;hata1243;reesink-1999
-jide;;2du_p;2nd Person Dual;41939;;;;hata1243;reesink-1999
-je;;2pl_a;2nd Person Plural;41938;;;;hata1243;reesink-1999
-je;;2pl_s;2nd Person Plural;41937;;;;hata1243;reesink-1999
-je;;2pl_o;2nd Person Plural;41936;;;;hata1243;reesink-1999
-jide;;2pl_p;2nd Person Plural;41935;;;;hata1243;reesink-1999
-nok;;3sg_m_a;3rd Person Singular Masculine;41934;;;;hata1243;reesink-1999
-nok;;3sg_m_s;3rd Person Singular Masculine;41933;;;;hata1243;reesink-1999
-nok;;3sg_m_o;3rd Person Singular Masculine;41932;;;;hata1243;reesink-1999
-nide;;3sg_m_p;3rd Person Singular Masculine;41931;;;;hata1243;reesink-1999
-nok;;3sg_n_a;3rd Person Singular Neuter;41930;;;;hata1243;reesink-1999
-nok;;3sg_n_s;3rd Person Singular Neuter;41929;;;;hata1243;reesink-1999
-nok;;3sg_n_o;3rd Person Singular Neuter;41928;;;;hata1243;reesink-1999
-nide;;3sg_n_p;3rd Person Singular Neuter;41927;;;;hata1243;reesink-1999
-yok;;3d-a;3rd Person Dual;41926;;;;hata1243;reesink-1999
-yok;;3d-s;3rd Person Dual;41925;;;;hata1243;reesink-1999
-yok;;3d-o;3rd Person Dual;41924;;;;hata1243;reesink-1999
-ide;;3d-p;3rd Person Dual;41923;;;;hata1243;reesink-1999
-yok;;3p-a;3rd Person Plural;41922;;;;hata1243;reesink-1999
-yok;;3p-s;3rd Person Plural;41921;;;;hata1243;reesink-1999
-yok;;3p-o;3rd Person Plural;41920;;;;hata1243;reesink-1999
-ide;;3p-p;3rd Person Plural;41919;;;;hata1243;reesink-1999
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+da,,1sg_a,1st (excl) Person Singular,41966,,,,hata1243,reesink-1999
+da,,1sg_s,1st (excl) Person Singular,41965,,,,hata1243,reesink-1999
+da,,1sg_o,1st (excl) Person Singular,41964,,,,hata1243,reesink-1999
+ditde,,1sg_p,1st (excl) Person Singular,41963,,,,hata1243,reesink-1999
+sa,,1du_a,1st (excl) Person Dual,41962,,,,hata1243,reesink-1999
+sa,,1du_s,1st (excl) Person Dual,41961,,,,hata1243,reesink-1999
+sa,,1du_o,1st (excl) Person Dual,41960,,,,hata1243,reesink-1999
+side,,1du_p,1st (excl) Person Dual,41959,,,,hata1243,reesink-1999
+ɲe,,1pl_a,1st (excl) Person Plural,41958,,,,hata1243,reesink-1999
+ɲe,,1pl_s,1st (excl) Person Plural,41957,,,,hata1243,reesink-1999
+ɲe,,1pl_o,1st (excl) Person Plural,41956,,,,hata1243,reesink-1999
+ide,,1pl_p,1st (excl) Person Plural,41955,,,,hata1243,reesink-1999
+sa,,12du_a,1st (incl) Person Dual,41954,,,,hata1243,reesink-1999
+sa,,12du_s,1st (incl) Person Dual,41953,,,,hata1243,reesink-1999
+sa,,12du_o,1st (incl) Person Dual,41952,,,,hata1243,reesink-1999
+side,,12du_p,1st (incl) Person Dual,41951,,,,hata1243,reesink-1999
+ɲe,,12pl_a,1st (incl) Person Plural,41950,,,,hata1243,reesink-1999
+ɲe,,12pl_s,1st (incl) Person Plural,41949,,,,hata1243,reesink-1999
+ɲe,,12pl_o,1st (incl) Person Plural,41948,,,,hata1243,reesink-1999
+ɲende,,12pl_p,1st (incl) Person Plural,42457,,,,hata1243,reesink-1999
+nide,,12pl_p,1st (incl) Person Plural,42458,,,,hata1243,reesink-1999
+na,,2sg_a,2nd Person Singular,41946,,,,hata1243,reesink-1999
+na,,2sg_s,2nd Person Singular,41945,,,,hata1243,reesink-1999
+na,,2sg_o,2nd Person Singular,41944,,,,hata1243,reesink-1999
+ade,,2sg_p,2nd Person Singular,41943,,,,hata1243,reesink-1999
+je,,2du_a,2nd Person Dual,41942,,,,hata1243,reesink-1999
+je,,2du_s,2nd Person Dual,41941,,,,hata1243,reesink-1999
+je,,2du_o,2nd Person Dual,41940,,,,hata1243,reesink-1999
+jide,,2du_p,2nd Person Dual,41939,,,,hata1243,reesink-1999
+je,,2pl_a,2nd Person Plural,41938,,,,hata1243,reesink-1999
+je,,2pl_s,2nd Person Plural,41937,,,,hata1243,reesink-1999
+je,,2pl_o,2nd Person Plural,41936,,,,hata1243,reesink-1999
+jide,,2pl_p,2nd Person Plural,41935,,,,hata1243,reesink-1999
+nok,,3sg_m_a,3rd Person Singular Masculine,41934,,,,hata1243,reesink-1999
+nok,,3sg_m_s,3rd Person Singular Masculine,41933,,,,hata1243,reesink-1999
+nok,,3sg_m_o,3rd Person Singular Masculine,41932,,,,hata1243,reesink-1999
+nide,,3sg_m_p,3rd Person Singular Masculine,41931,,,,hata1243,reesink-1999
+nok,,3sg_n_a,3rd Person Singular Neuter,41930,,,,hata1243,reesink-1999
+nok,,3sg_n_s,3rd Person Singular Neuter,41929,,,,hata1243,reesink-1999
+nok,,3sg_n_o,3rd Person Singular Neuter,41928,,,,hata1243,reesink-1999
+nide,,3sg_n_p,3rd Person Singular Neuter,41927,,,,hata1243,reesink-1999
+yok,,3d-a,3rd Person Dual,41926,,,,hata1243,reesink-1999
+yok,,3d-s,3rd Person Dual,41925,,,,hata1243,reesink-1999
+yok,,3d-o,3rd Person Dual,41924,,,,hata1243,reesink-1999
+ide,,3d-p,3rd Person Dual,41923,,,,hata1243,reesink-1999
+yok,,3p-a,3rd Person Plural,41922,,,,hata1243,reesink-1999
+yok,,3p-s,3rd Person Plural,41921,,,,hata1243,reesink-1999
+yok,,3p-o,3rd Person Plural,41920,,,,hata1243,reesink-1999
+ide,,3p-p,3rd Person Plural,41919,,,,hata1243,reesink-1999

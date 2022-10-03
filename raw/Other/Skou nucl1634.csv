@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nì;;1sg_a;1st (excl) Person Singular;40485;;;;nucl1634;donohue-2011
-nì;;1sg_s;1st (excl) Person Singular;40484;;;;nucl1634;donohue-2011
-nì;;1sg_o;1st (excl) Person Singular;40483;;;;nucl1634;donohue-2011
-nì;;1sg_p;1st (excl) Person Singular;40482;;;;nucl1634;donohue-2011
-anake;;1du_a;1st (excl) Person Dual;40481;;"anake is the non-feminine form; anape is the feminine form.";;nucl1634;donohue-2011
-anake;;1du_s;1st (excl) Person Dual;40480;;"anake is the non-feminine form; anape is the feminine form.";;nucl1634;donohue-2011
-anake;;1du_o;1st (excl) Person Dual;40479;;"anake is the non-feminine form; anape is the feminine form.";;nucl1634;donohue-2011
-nè;;1du_p;1st (excl) Person Dual;40478;;;;nucl1634;donohue-2011
-ne;;1pl_a;1st (excl) Person Plural;40477;;;;nucl1634;donohue-2011
-ne;;1pl_s;1st (excl) Person Plural;40476;;;;nucl1634;donohue-2011
-ne;;1pl_o;1st (excl) Person Plural;40475;;;;nucl1634;donohue-2011
-nè;;1pl_p;1st (excl) Person Plural;40474;;;;nucl1634;donohue-2011
-amanè;;12du_a;1st (incl) Person Dual;40473;;;;nucl1634;donohue-2011
-amanè;;12du_s;1st (incl) Person Dual;40472;;;;nucl1634;donohue-2011
-amanè;;12du_o;1st (incl) Person Dual;40471;;;;nucl1634;donohue-2011
-nè;;12du_p;1st (incl) Person Dual;40470;;;;nucl1634;donohue-2011
-ne;;12pl_a;1st (incl) Person Plural;40469;;;;nucl1634;donohue-2011
-ne;;12pl_s;1st (incl) Person Plural;40468;;;;nucl1634;donohue-2011
-ne;;12pl_o;1st (incl) Person Plural;40467;;;;nucl1634;donohue-2011
-nè;;12pl_p;1st (incl) Person Plural;40466;;;;nucl1634;donohue-2011
-mè;;2sg_a;2nd Person Singular;40465;;;;nucl1634;donohue-2011
-mè;;2sg_s;2nd Person Singular;40464;;;;nucl1634;donohue-2011
-mè;;2sg_o;2nd Person Singular;40463;;;;nucl1634;donohue-2011
-mè;;2sg_p;2nd Person Singular;40462;;;;nucl1634;donohue-2011
-enake;;2du_a;2nd Person Dual;40461;;"enake is the non-feminine form; enape is the feminine form.";;nucl1634;donohue-2011
-enake;;2du_s;2nd Person Dual;40460;;"enake is the non-feminine form; enape is the feminine form";;nucl1634;donohue-2011
-enake;;2du_o;2nd Person Dual;40459;;"enake is the non-feminine form; enape is the feminine form";;nucl1634;donohue-2011
-è;;2du_p;2nd Person Dual;40458;;;;nucl1634;donohue-2011
-e;;2pl_a;2nd Person Plural;40457;;;;nucl1634;donohue-2011
-e;;2pl_s;2nd Person Plural;40456;;;;nucl1634;donohue-2011
-e;;2pl_o;2nd Person Plural;40455;;;;nucl1634;donohue-2011
-è;;2pl_p;2nd Person Plural;40454;;;;nucl1634;donohue-2011
-ke;;3sg_m_a;3rd Person Singular Masculine;40453;;;;nucl1634;donohue-2011
-ke;;3sg_m_s;3rd Person Singular Masculine;40452;;;;nucl1634;donohue-2011
-ke;;3sg_m_o;3rd Person Singular Masculine;40451;;;;nucl1634;donohue-2011
-ké;;3sg_m_p;3rd Person Singular Masculine;40450;;;;nucl1634;donohue-2011
-pe;;3sg_n_a;3rd Person Singular Neuter;40449;;;;nucl1634;donohue-2011
-pe;;3sg_n_s;3rd Person Singular Neuter;40448;;;;nucl1634;donohue-2011
-pe;;3sg_n_o;3rd Person Singular Neuter;40447;;;;nucl1634;donohue-2011
-pè;;3sg_n_p;3rd Person Singular Neuter;40446;;;;nucl1634;donohue-2011
-tenake;;3d-a;3rd Person Dual;40445;;"tenake is the non-feminine form; tenape is the feminine form.";;nucl1634;donohue-2011
-tenake;;3d-s;3rd Person Dual;40444;;"tenake is the non-feminine form; tenape is the feminine form.";;nucl1634;donohue-2011
-tenake;;3d-o;3rd Person Dual;40443;;"tenake is the non-feminine form; tenape is the feminine form.";;nucl1634;donohue-2011
-tè;;3d-p;3rd Person Dual;40442;;;;nucl1634;donohue-2011
-te;;3p-a;3rd Person Plural;40441;;;;nucl1634;donohue-2011
-te;;3p-s;3rd Person Plural;40440;;;;nucl1634;donohue-2011
-te;;3p-o;3rd Person Plural;40439;;;;nucl1634;donohue-2011
-tè;;3p-p;3rd Person Plural;40438;;;;nucl1634;donohue-2011
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nì,,1sg_a,1st (excl) Person Singular,40485,,,,nucl1634,donohue-2011
+nì,,1sg_s,1st (excl) Person Singular,40484,,,,nucl1634,donohue-2011
+nì,,1sg_o,1st (excl) Person Singular,40483,,,,nucl1634,donohue-2011
+nì,,1sg_p,1st (excl) Person Singular,40482,,,,nucl1634,donohue-2011
+anake,,1du_a,1st (excl) Person Dual,40481,,anake is the non-feminine form; anape is the feminine form.,,nucl1634,donohue-2011
+anake,,1du_s,1st (excl) Person Dual,40480,,anake is the non-feminine form; anape is the feminine form.,,nucl1634,donohue-2011
+anake,,1du_o,1st (excl) Person Dual,40479,,anake is the non-feminine form; anape is the feminine form.,,nucl1634,donohue-2011
+nè,,1du_p,1st (excl) Person Dual,40478,,,,nucl1634,donohue-2011
+ne,,1pl_a,1st (excl) Person Plural,40477,,,,nucl1634,donohue-2011
+ne,,1pl_s,1st (excl) Person Plural,40476,,,,nucl1634,donohue-2011
+ne,,1pl_o,1st (excl) Person Plural,40475,,,,nucl1634,donohue-2011
+nè,,1pl_p,1st (excl) Person Plural,40474,,,,nucl1634,donohue-2011
+amanè,,12du_a,1st (incl) Person Dual,40473,,,,nucl1634,donohue-2011
+amanè,,12du_s,1st (incl) Person Dual,40472,,,,nucl1634,donohue-2011
+amanè,,12du_o,1st (incl) Person Dual,40471,,,,nucl1634,donohue-2011
+nè,,12du_p,1st (incl) Person Dual,40470,,,,nucl1634,donohue-2011
+ne,,12pl_a,1st (incl) Person Plural,40469,,,,nucl1634,donohue-2011
+ne,,12pl_s,1st (incl) Person Plural,40468,,,,nucl1634,donohue-2011
+ne,,12pl_o,1st (incl) Person Plural,40467,,,,nucl1634,donohue-2011
+nè,,12pl_p,1st (incl) Person Plural,40466,,,,nucl1634,donohue-2011
+mè,,2sg_a,2nd Person Singular,40465,,,,nucl1634,donohue-2011
+mè,,2sg_s,2nd Person Singular,40464,,,,nucl1634,donohue-2011
+mè,,2sg_o,2nd Person Singular,40463,,,,nucl1634,donohue-2011
+mè,,2sg_p,2nd Person Singular,40462,,,,nucl1634,donohue-2011
+enake,,2du_a,2nd Person Dual,40461,,enake is the non-feminine form; enape is the feminine form.,,nucl1634,donohue-2011
+enake,,2du_s,2nd Person Dual,40460,,enake is the non-feminine form; enape is the feminine form,,nucl1634,donohue-2011
+enake,,2du_o,2nd Person Dual,40459,,enake is the non-feminine form; enape is the feminine form,,nucl1634,donohue-2011
+è,,2du_p,2nd Person Dual,40458,,,,nucl1634,donohue-2011
+e,,2pl_a,2nd Person Plural,40457,,,,nucl1634,donohue-2011
+e,,2pl_s,2nd Person Plural,40456,,,,nucl1634,donohue-2011
+e,,2pl_o,2nd Person Plural,40455,,,,nucl1634,donohue-2011
+è,,2pl_p,2nd Person Plural,40454,,,,nucl1634,donohue-2011
+ke,,3sg_m_a,3rd Person Singular Masculine,40453,,,,nucl1634,donohue-2011
+ke,,3sg_m_s,3rd Person Singular Masculine,40452,,,,nucl1634,donohue-2011
+ke,,3sg_m_o,3rd Person Singular Masculine,40451,,,,nucl1634,donohue-2011
+ké,,3sg_m_p,3rd Person Singular Masculine,40450,,,,nucl1634,donohue-2011
+pe,,3sg_n_a,3rd Person Singular Neuter,40449,,,,nucl1634,donohue-2011
+pe,,3sg_n_s,3rd Person Singular Neuter,40448,,,,nucl1634,donohue-2011
+pe,,3sg_n_o,3rd Person Singular Neuter,40447,,,,nucl1634,donohue-2011
+pè,,3sg_n_p,3rd Person Singular Neuter,40446,,,,nucl1634,donohue-2011
+tenake,,3d-a,3rd Person Dual,40445,,tenake is the non-feminine form; tenape is the feminine form.,,nucl1634,donohue-2011
+tenake,,3d-s,3rd Person Dual,40444,,tenake is the non-feminine form; tenape is the feminine form.,,nucl1634,donohue-2011
+tenake,,3d-o,3rd Person Dual,40443,,tenake is the non-feminine form; tenape is the feminine form.,,nucl1634,donohue-2011
+tè,,3d-p,3rd Person Dual,40442,,,,nucl1634,donohue-2011
+te,,3p-a,3rd Person Plural,40441,,,,nucl1634,donohue-2011
+te,,3p-s,3rd Person Plural,40440,,,,nucl1634,donohue-2011
+te,,3p-o,3rd Person Plural,40439,,,,nucl1634,donohue-2011
+tè,,3p-p,3rd Person Plural,40438,,,,nucl1634,donohue-2011

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-na(o);;1sg_a;1st (excl) Person Singular;48670;;;;mafe1237;guerin-2011
-na(o);;1sg_s;1st (excl) Person Singular;48669;;;;mafe1237;guerin-2011
--ao;;1sg_o;1st (excl) Person Singular;48668;;;;mafe1237;guerin-2011
--ku;;1sg_p;1st (excl) Person Singular;48667;;;;mafe1237;guerin-2011
-kam̋arua;;1du_a;1st (excl) Person Dual;48666;;;;mafe1237;guerin-2011
-kam̋arua;;1du_s;1st (excl) Person Dual;48665;;;;mafe1237;guerin-2011
-kam̋arua;;1du_o;1st (excl) Person Dual;48664;;;;mafe1237;guerin-2011
--m̋amrua;;1du_p;1st (excl) Person Dual;48663;;;;mafe1237;guerin-2011
-kam̋im;;1pl_a;1st (excl) Person Plural;48662;;;;mafe1237;guerin-2011
-kam̋im;;1pl_s;1st (excl) Person Plural;48661;;;;mafe1237;guerin-2011
-kam̋im;;1pl_o;1st (excl) Person Plural;48660;;;;mafe1237;guerin-2011
--m̋am;;1pl_p;1st (excl) Person Plural;48659;;;;mafe1237;guerin-2011
-darua;;12du_a;1st (incl) Person Dual;48658;;;;mafe1237;guerin-2011
-darua;;12du_s;1st (incl) Person Dual;48657;;;;mafe1237;guerin-2011
-darua;;12du_o;1st (incl) Person Dual;48656;;;;mafe1237;guerin-2011
-darua;;12du_p;1st (incl) Person Dual;48655;;;;mafe1237;guerin-2011
-(n)ida;;12pl_a;1st (incl) Person Plural;48654;;;;mafe1237;guerin-2011
-(n)ida;;12pl_s;1st (incl) Person Plural;48653;;;;mafe1237;guerin-2011
--(i)da;;12pl_o;1st (incl) Person Plural;48652;;;;mafe1237;guerin-2011
--(i)da;;12pl_p;1st (incl) Person Plural;48651;;;;mafe1237;guerin-2011
-nno;;2sg_a;2nd Person Singular;48650;;;;mafe1237;guerin-2011
-nno;;2sg_s;2nd Person Singular;48649;;;;mafe1237;guerin-2011
--o;;2sg_o;2nd Person Singular;48648;;;;mafe1237;guerin-2011
--m;;2sg_p;2nd Person Singular;48647;;;;mafe1237;guerin-2011
-kamruo;;2du_a;2nd Person Dual;48646;;;;mafe1237;guerin-2011
-kamruo;;2du_s;2nd Person Dual;48645;;;;mafe1237;guerin-2011
-kamruo;;2du_o;2nd Person Dual;48644;;;;mafe1237;guerin-2011
--mrua;;2du_p;2nd Person Dual;48643;;;;mafe1237;guerin-2011
-kam̋im;;2pl_a;2nd Person Plural;48642;;;;mafe1237;guerin-2011
-kam̋im;;2pl_s;2nd Person Plural;48641;;;;mafe1237;guerin-2011
-kam̋im;;2pl_o;2nd Person Plural;48640;;;;mafe1237;guerin-2011
--m̋im;;2pl_p;2nd Person Plural;48639;;;;mafe1237;guerin-2011
-nna;;3sg_m_a;3rd Person Singular Masculine;48638;;;;mafe1237;guerin-2011
-nna;;3sg_m_s;3rd Person Singular Masculine;48637;;;;mafe1237;guerin-2011
--a;;3sg_m_o;3rd Person Singular Masculine;48636;;;;mafe1237;guerin-2011
--n(a);;3sg_m_p;3rd Person Singular Masculine;48635;;;;mafe1237;guerin-2011
-nna;;3sg_n_a;3rd Person Singular Neuter;48634;;;;mafe1237;guerin-2011
-nna;;3sg_n_s;3rd Person Singular Neuter;48633;;;;mafe1237;guerin-2011
--a;;3sg_n_o;3rd Person Singular Neuter;48632;;;;mafe1237;guerin-2011
--(n)a;;3sg_n_p;3rd Person Singular Neuter;48631;;;;mafe1237;guerin-2011
-rarua;;3d-a;3rd Person Dual;48630;;;;mafe1237;guerin-2011
-rarua;;3d-s;3rd Person Dual;48629;;;;mafe1237;guerin-2011
-rarua;;3d-o;3rd Person Dual;48628;;;;mafe1237;guerin-2011
-rarua;;3d-p;3rd Person Dual;48627;;;;mafe1237;guerin-2011
-nira;;3p-a;3rd Person Plural;48626;;;;mafe1237;guerin-2011
-nira;;3p-s;3rd Person Plural;48625;;;;mafe1237;guerin-2011
--(i)ra;;3p-o;3rd Person Plural;48624;;;;mafe1237;guerin-2011
--(i)ra;;3p-p;3rd Person Plural;48623;;;;mafe1237;guerin-2011
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+na(o),,1sg_a,1st (excl) Person Singular,48670,,,,mafe1237,guerin-2011
+na(o),,1sg_s,1st (excl) Person Singular,48669,,,,mafe1237,guerin-2011
+-ao,,1sg_o,1st (excl) Person Singular,48668,,,,mafe1237,guerin-2011
+-ku,,1sg_p,1st (excl) Person Singular,48667,,,,mafe1237,guerin-2011
+kam̋arua,,1du_a,1st (excl) Person Dual,48666,,,,mafe1237,guerin-2011
+kam̋arua,,1du_s,1st (excl) Person Dual,48665,,,,mafe1237,guerin-2011
+kam̋arua,,1du_o,1st (excl) Person Dual,48664,,,,mafe1237,guerin-2011
+-m̋amrua,,1du_p,1st (excl) Person Dual,48663,,,,mafe1237,guerin-2011
+kam̋im,,1pl_a,1st (excl) Person Plural,48662,,,,mafe1237,guerin-2011
+kam̋im,,1pl_s,1st (excl) Person Plural,48661,,,,mafe1237,guerin-2011
+kam̋im,,1pl_o,1st (excl) Person Plural,48660,,,,mafe1237,guerin-2011
+-m̋am,,1pl_p,1st (excl) Person Plural,48659,,,,mafe1237,guerin-2011
+darua,,12du_a,1st (incl) Person Dual,48658,,,,mafe1237,guerin-2011
+darua,,12du_s,1st (incl) Person Dual,48657,,,,mafe1237,guerin-2011
+darua,,12du_o,1st (incl) Person Dual,48656,,,,mafe1237,guerin-2011
+darua,,12du_p,1st (incl) Person Dual,48655,,,,mafe1237,guerin-2011
+(n)ida,,12pl_a,1st (incl) Person Plural,48654,,,,mafe1237,guerin-2011
+(n)ida,,12pl_s,1st (incl) Person Plural,48653,,,,mafe1237,guerin-2011
+-(i)da,,12pl_o,1st (incl) Person Plural,48652,,,,mafe1237,guerin-2011
+-(i)da,,12pl_p,1st (incl) Person Plural,48651,,,,mafe1237,guerin-2011
+nno,,2sg_a,2nd Person Singular,48650,,,,mafe1237,guerin-2011
+nno,,2sg_s,2nd Person Singular,48649,,,,mafe1237,guerin-2011
+-o,,2sg_o,2nd Person Singular,48648,,,,mafe1237,guerin-2011
+-m,,2sg_p,2nd Person Singular,48647,,,,mafe1237,guerin-2011
+kamruo,,2du_a,2nd Person Dual,48646,,,,mafe1237,guerin-2011
+kamruo,,2du_s,2nd Person Dual,48645,,,,mafe1237,guerin-2011
+kamruo,,2du_o,2nd Person Dual,48644,,,,mafe1237,guerin-2011
+-mrua,,2du_p,2nd Person Dual,48643,,,,mafe1237,guerin-2011
+kam̋im,,2pl_a,2nd Person Plural,48642,,,,mafe1237,guerin-2011
+kam̋im,,2pl_s,2nd Person Plural,48641,,,,mafe1237,guerin-2011
+kam̋im,,2pl_o,2nd Person Plural,48640,,,,mafe1237,guerin-2011
+-m̋im,,2pl_p,2nd Person Plural,48639,,,,mafe1237,guerin-2011
+nna,,3sg_m_a,3rd Person Singular Masculine,48638,,,,mafe1237,guerin-2011
+nna,,3sg_m_s,3rd Person Singular Masculine,48637,,,,mafe1237,guerin-2011
+-a,,3sg_m_o,3rd Person Singular Masculine,48636,,,,mafe1237,guerin-2011
+-n(a),,3sg_m_p,3rd Person Singular Masculine,48635,,,,mafe1237,guerin-2011
+nna,,3sg_n_a,3rd Person Singular Neuter,48634,,,,mafe1237,guerin-2011
+nna,,3sg_n_s,3rd Person Singular Neuter,48633,,,,mafe1237,guerin-2011
+-a,,3sg_n_o,3rd Person Singular Neuter,48632,,,,mafe1237,guerin-2011
+-(n)a,,3sg_n_p,3rd Person Singular Neuter,48631,,,,mafe1237,guerin-2011
+rarua,,3d-a,3rd Person Dual,48630,,,,mafe1237,guerin-2011
+rarua,,3d-s,3rd Person Dual,48629,,,,mafe1237,guerin-2011
+rarua,,3d-o,3rd Person Dual,48628,,,,mafe1237,guerin-2011
+rarua,,3d-p,3rd Person Dual,48627,,,,mafe1237,guerin-2011
+nira,,3p-a,3rd Person Plural,48626,,,,mafe1237,guerin-2011
+nira,,3p-s,3rd Person Plural,48625,,,,mafe1237,guerin-2011
+-(i)ra,,3p-o,3rd Person Plural,48624,,,,mafe1237,guerin-2011
+-(i)ra,,3p-p,3rd Person Plural,48623,,,,mafe1237,guerin-2011

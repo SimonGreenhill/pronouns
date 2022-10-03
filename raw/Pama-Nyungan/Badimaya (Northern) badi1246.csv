@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋgad̪u;;1sg_a;1st (excl) Person Singular;47538;;;;badi1246;dunn-1988
-ŋgad̪u;;1sg_s;1st (excl) Person Singular;47537;;;;badi1246;dunn-1988
-ŋgad̪un̪a;;1sg_o;1st (excl) Person Singular;47536;;;;badi1246;dunn-1988
-ŋanaŋu;;1sg_p;1st (excl) Person Singular;47535;;;;badi1246;dunn-1988
-ŋaliɟa;;1du_a;1st (excl) Person Dual;47534;;;;badi1246;dunn-1988
-ŋaliɟa;;1du_s;1st (excl) Person Dual;47533;;;;badi1246;dunn-1988
-ŋaliɟan̪a;;1du_o;1st (excl) Person Dual;47532;;;;badi1246;dunn-1988
-ŋaliɟaŋ;;1du_p;1st (excl) Person Dual;47531;;;;badi1246;dunn-1988
-ŋgalimi;;1pl_a;1st (excl) Person Plural;47530;;;;badi1246;dunn-1988
-ŋgalimi;;1pl_s;1st (excl) Person Plural;47529;;;;badi1246;dunn-1988
-ŋgalimin̪a;;1pl_o;1st (excl) Person Plural;47528;;;;badi1246;dunn-1988
-ŋgalimiŋ;;1pl_p;1st (excl) Person Plural;47527;;;;badi1246;dunn-1988
-ŋaliɟa;;12du_a;1st (incl) Person Dual;47526;;;;badi1246;dunn-1988
-ŋaliɟa;;12du_s;1st (incl) Person Dual;47525;;;;badi1246;dunn-1988
-ŋaliɟan̪a;;12du_o;1st (incl) Person Dual;47524;;;;badi1246;dunn-1988
-ŋaliɟaŋ;;12du_p;1st (incl) Person Dual;47523;;;;badi1246;dunn-1988
-ŋgalimi;;12pl_a;1st (incl) Person Plural;47522;;;;badi1246;dunn-1988
-ŋgalimi;;12pl_s;1st (incl) Person Plural;47521;;;;badi1246;dunn-1988
-ŋgalimin̪a;;12pl_o;1st (incl) Person Plural;47520;;;;badi1246;dunn-1988
-ŋgalimiŋ;;12pl_p;1st (incl) Person Plural;47519;;;;badi1246;dunn-1988
-n̪undu;;2sg_a;2nd Person Singular;47518;;;;badi1246;dunn-1988
-n̪undu;;2sg_s;2nd Person Singular;47517;;;;badi1246;dunn-1988
-n̪undun̪a;;2sg_o;2nd Person Singular;47516;;;;badi1246;dunn-1988
-n̪unuŋu;;2sg_p;2nd Person Singular;47515;;;;badi1246;dunn-1988
-n̪ubali;;2du_a;2nd Person Dual;47514;;;;badi1246;dunn-1988
-n̪ubali;;2du_s;2nd Person Dual;47513;;;;badi1246;dunn-1988
-n̪ubalin̪a;;2du_o;2nd Person Dual;47512;;;;badi1246;dunn-1988
-n̪ubaliŋ;;2du_p;2nd Person Dual;47511;;;;badi1246;dunn-1988
-n̪uɹa;;2pl_a;2nd Person Plural;47510;;;;badi1246;dunn-1988
-n̪uɹa;;2pl_s;2nd Person Plural;47509;;;;badi1246;dunn-1988
-n̪uɹan̪a;;2pl_o;2nd Person Plural;47508;;;;badi1246;dunn-1988
-n̪uɹaŋ;;2pl_p;2nd Person Plural;47507;;;;badi1246;dunn-1988
-balu;;3sg_m_a;3rd Person Singular Masculine;47506;;;;badi1246;dunn-1988
-balu;;3sg_m_s;3rd Person Singular Masculine;47505;;;;badi1246;dunn-1988
-balun̪a;;3sg_m_o;3rd Person Singular Masculine;47504;;;;badi1246;dunn-1988
-baluŋu;;3sg_m_p;3rd Person Singular Masculine;47503;;;;badi1246;dunn-1988
-balu;;3sg_n_a;3rd Person Singular Neuter;47502;;;;badi1246;dunn-1988
-balu;;3sg_n_s;3rd Person Singular Neuter;47501;;;;badi1246;dunn-1988
-balun̪a;;3sg_n_o;3rd Person Singular Neuter;47500;;;;badi1246;dunn-1988
-baluŋu;;3sg_n_p;3rd Person Singular Neuter;47499;;;;badi1246;dunn-1988
-buliɟa;;3d-a;3rd Person Dual;47498;;;;badi1246;dunn-1988
-buliɟa;;3d-s;3rd Person Dual;47497;;;;badi1246;dunn-1988
-buliɟan̪a;;3d-o;3rd Person Dual;47496;;;;badi1246;dunn-1988
-buliɟuŋ;;3d-p;3rd Person Dual;47495;;;;badi1246;dunn-1988
-d̪an̪a;;3p-a;3rd Person Plural;47494;;;;badi1246;dunn-1988
-d̪an̪a;;3p-s;3rd Person Plural;47493;;;;badi1246;dunn-1988
-d̪an̪an̪a;;3p-o;3rd Person Plural;47492;;;;badi1246;dunn-1988
-d̪an̪aŋ;;3p-p;3rd Person Plural;47491;;;;badi1246;dunn-1988
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋgad̪u,,1sg_a,1st (excl) Person Singular,47538,,,,badi1246,dunn-1988
+ŋgad̪u,,1sg_s,1st (excl) Person Singular,47537,,,,badi1246,dunn-1988
+ŋgad̪un̪a,,1sg_o,1st (excl) Person Singular,47536,,,,badi1246,dunn-1988
+ŋanaŋu,,1sg_p,1st (excl) Person Singular,47535,,,,badi1246,dunn-1988
+ŋaliɟa,,1du_a,1st (excl) Person Dual,47534,,,,badi1246,dunn-1988
+ŋaliɟa,,1du_s,1st (excl) Person Dual,47533,,,,badi1246,dunn-1988
+ŋaliɟan̪a,,1du_o,1st (excl) Person Dual,47532,,,,badi1246,dunn-1988
+ŋaliɟaŋ,,1du_p,1st (excl) Person Dual,47531,,,,badi1246,dunn-1988
+ŋgalimi,,1pl_a,1st (excl) Person Plural,47530,,,,badi1246,dunn-1988
+ŋgalimi,,1pl_s,1st (excl) Person Plural,47529,,,,badi1246,dunn-1988
+ŋgalimin̪a,,1pl_o,1st (excl) Person Plural,47528,,,,badi1246,dunn-1988
+ŋgalimiŋ,,1pl_p,1st (excl) Person Plural,47527,,,,badi1246,dunn-1988
+ŋaliɟa,,12du_a,1st (incl) Person Dual,47526,,,,badi1246,dunn-1988
+ŋaliɟa,,12du_s,1st (incl) Person Dual,47525,,,,badi1246,dunn-1988
+ŋaliɟan̪a,,12du_o,1st (incl) Person Dual,47524,,,,badi1246,dunn-1988
+ŋaliɟaŋ,,12du_p,1st (incl) Person Dual,47523,,,,badi1246,dunn-1988
+ŋgalimi,,12pl_a,1st (incl) Person Plural,47522,,,,badi1246,dunn-1988
+ŋgalimi,,12pl_s,1st (incl) Person Plural,47521,,,,badi1246,dunn-1988
+ŋgalimin̪a,,12pl_o,1st (incl) Person Plural,47520,,,,badi1246,dunn-1988
+ŋgalimiŋ,,12pl_p,1st (incl) Person Plural,47519,,,,badi1246,dunn-1988
+n̪undu,,2sg_a,2nd Person Singular,47518,,,,badi1246,dunn-1988
+n̪undu,,2sg_s,2nd Person Singular,47517,,,,badi1246,dunn-1988
+n̪undun̪a,,2sg_o,2nd Person Singular,47516,,,,badi1246,dunn-1988
+n̪unuŋu,,2sg_p,2nd Person Singular,47515,,,,badi1246,dunn-1988
+n̪ubali,,2du_a,2nd Person Dual,47514,,,,badi1246,dunn-1988
+n̪ubali,,2du_s,2nd Person Dual,47513,,,,badi1246,dunn-1988
+n̪ubalin̪a,,2du_o,2nd Person Dual,47512,,,,badi1246,dunn-1988
+n̪ubaliŋ,,2du_p,2nd Person Dual,47511,,,,badi1246,dunn-1988
+n̪uɹa,,2pl_a,2nd Person Plural,47510,,,,badi1246,dunn-1988
+n̪uɹa,,2pl_s,2nd Person Plural,47509,,,,badi1246,dunn-1988
+n̪uɹan̪a,,2pl_o,2nd Person Plural,47508,,,,badi1246,dunn-1988
+n̪uɹaŋ,,2pl_p,2nd Person Plural,47507,,,,badi1246,dunn-1988
+balu,,3sg_m_a,3rd Person Singular Masculine,47506,,,,badi1246,dunn-1988
+balu,,3sg_m_s,3rd Person Singular Masculine,47505,,,,badi1246,dunn-1988
+balun̪a,,3sg_m_o,3rd Person Singular Masculine,47504,,,,badi1246,dunn-1988
+baluŋu,,3sg_m_p,3rd Person Singular Masculine,47503,,,,badi1246,dunn-1988
+balu,,3sg_n_a,3rd Person Singular Neuter,47502,,,,badi1246,dunn-1988
+balu,,3sg_n_s,3rd Person Singular Neuter,47501,,,,badi1246,dunn-1988
+balun̪a,,3sg_n_o,3rd Person Singular Neuter,47500,,,,badi1246,dunn-1988
+baluŋu,,3sg_n_p,3rd Person Singular Neuter,47499,,,,badi1246,dunn-1988
+buliɟa,,3d-a,3rd Person Dual,47498,,,,badi1246,dunn-1988
+buliɟa,,3d-s,3rd Person Dual,47497,,,,badi1246,dunn-1988
+buliɟan̪a,,3d-o,3rd Person Dual,47496,,,,badi1246,dunn-1988
+buliɟuŋ,,3d-p,3rd Person Dual,47495,,,,badi1246,dunn-1988
+d̪an̪a,,3p-a,3rd Person Plural,47494,,,,badi1246,dunn-1988
+d̪an̪a,,3p-s,3rd Person Plural,47493,,,,badi1246,dunn-1988
+d̪an̪an̪a,,3p-o,3rd Person Plural,47492,,,,badi1246,dunn-1988
+d̪an̪aŋ,,3p-p,3rd Person Plural,47491,,,,badi1246,dunn-1988

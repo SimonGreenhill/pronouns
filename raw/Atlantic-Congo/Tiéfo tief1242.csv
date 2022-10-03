@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-no˧;;1sg_a;1st (excl) Person Singular;57968;;;;tief1242;winkelmann-1998
-no˧;;1sg_s;1st (excl) Person Singular;57967;;;;tief1242;winkelmann-1998
-no˧;;1sg_o;1st (excl) Person Singular;57966;;;;tief1242;winkelmann-1998
-no˧;;1sg_p;1st (excl) Person Singular;57965;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;1du_a;1st (excl) Person Dual;57964;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;1du_s;1st (excl) Person Dual;57963;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;1du_o;1st (excl) Person Dual;57962;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;1du_p;1st (excl) Person Dual;57961;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;1pl_a;1st (excl) Person Plural;57960;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;1pl_s;1st (excl) Person Plural;57959;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;1pl_o;1st (excl) Person Plural;57958;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;1pl_p;1st (excl) Person Plural;57957;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;12du_a;1st (incl) Person Dual;57956;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;12du_s;1st (incl) Person Dual;57955;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;12du_o;1st (incl) Person Dual;57954;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;12du_p;1st (incl) Person Dual;57953;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;12pl_a;1st (incl) Person Plural;57952;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;12pl_s;1st (incl) Person Plural;57951;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;12pl_o;1st (incl) Person Plural;57950;;;;tief1242;winkelmann-1998
-ʔeyuo˩;;12pl_p;1st (incl) Person Plural;57949;;;;tief1242;winkelmann-1998
-mo˧;;2sg_a;2nd Person Singular;57948;;;;tief1242;winkelmann-1998
-mo˧;;2sg_s;2nd Person Singular;57947;;;;tief1242;winkelmann-1998
-mo˧;;2sg_o;2nd Person Singular;57946;;;;tief1242;winkelmann-1998
-mo˧;;2sg_p;2nd Person Singular;57945;;;;tief1242;winkelmann-1998
-buo˩;;2du_a;2nd Person Dual;57944;;;;tief1242;winkelmann-1998
-buo˩;;2du_s;2nd Person Dual;57943;;;;tief1242;winkelmann-1998
-buo˩;;2du_o;2nd Person Dual;57942;;;;tief1242;winkelmann-1998
-buo˩;;2du_p;2nd Person Dual;57941;;;;tief1242;winkelmann-1998
-buo˩;;2pl_a;2nd Person Plural;57940;;;;tief1242;winkelmann-1998
-buo˩;;2pl_s;2nd Person Plural;57939;;;;tief1242;winkelmann-1998
-buo˩;;2pl_o;2nd Person Plural;57938;;;;tief1242;winkelmann-1998
-buo˩;;2pl_p;2nd Person Plural;57937;;;;tief1242;winkelmann-1998
-ʔɔ̃˩;;3sg_m_a;3rd Person Singular Masculine;57936;;;;tief1242;winkelmann-1998
-ʔɔ̃˩;;3sg_m_s;3rd Person Singular Masculine;57935;;;;tief1242;winkelmann-1998
-ʔɔ̃˩;;3sg_m_o;3rd Person Singular Masculine;57934;;;;tief1242;winkelmann-1998
-ʔɔ̃˩;;3sg_m_p;3rd Person Singular Masculine;57933;;;;tief1242;winkelmann-1998
-ʔa˩;;3sg_n_a;3rd Person Singular Neuter;57932;;;;tief1242;winkelmann-1998
-ʔa˩;;3sg_n_s;3rd Person Singular Neuter;57931;;;;tief1242;winkelmann-1998
--re˩, -ni˩;;3sg_n_o;3rd Person Singular Neuter;57930;;;;tief1242;winkelmann-1998
-Ø;;3sg_n_p;3rd Person Singular Neuter;57929;;zero morpheme;;tief1242;winkelmann-1998
-ʔo˩;;3d-a;3rd Person Dual;57928;;;;tief1242;winkelmann-1998
-ʔo˩;;3d-s;3rd Person Dual;57927;;;;tief1242;winkelmann-1998
-ʔo˩;;3d-o;3rd Person Dual;57926;;;;tief1242;winkelmann-1998
-ʔo˩;;3d-p;3rd Person Dual;57925;;;;tief1242;winkelmann-1998
-ʔo˩;;3p-a;3rd Person Plural;57924;;;;tief1242;winkelmann-1998
-ʔo˩;;3p-s;3rd Person Plural;57923;;;;tief1242;winkelmann-1998
-ʔo˩;;3p-o;3rd Person Plural;57922;;;;tief1242;winkelmann-1998
-ʔo˩;;3p-p;3rd Person Plural;57921;;;;tief1242;winkelmann-1998
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+no˧,,1sg_a,1st (excl) Person Singular,57968,,,,tief1242,winkelmann-1998
+no˧,,1sg_s,1st (excl) Person Singular,57967,,,,tief1242,winkelmann-1998
+no˧,,1sg_o,1st (excl) Person Singular,57966,,,,tief1242,winkelmann-1998
+no˧,,1sg_p,1st (excl) Person Singular,57965,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,1du_a,1st (excl) Person Dual,57964,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,1du_s,1st (excl) Person Dual,57963,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,1du_o,1st (excl) Person Dual,57962,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,1du_p,1st (excl) Person Dual,57961,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,1pl_a,1st (excl) Person Plural,57960,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,1pl_s,1st (excl) Person Plural,57959,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,1pl_o,1st (excl) Person Plural,57958,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,1pl_p,1st (excl) Person Plural,57957,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,12du_a,1st (incl) Person Dual,57956,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,12du_s,1st (incl) Person Dual,57955,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,12du_o,1st (incl) Person Dual,57954,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,12du_p,1st (incl) Person Dual,57953,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,12pl_a,1st (incl) Person Plural,57952,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,12pl_s,1st (incl) Person Plural,57951,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,12pl_o,1st (incl) Person Plural,57950,,,,tief1242,winkelmann-1998
+ʔeyuo˩,,12pl_p,1st (incl) Person Plural,57949,,,,tief1242,winkelmann-1998
+mo˧,,2sg_a,2nd Person Singular,57948,,,,tief1242,winkelmann-1998
+mo˧,,2sg_s,2nd Person Singular,57947,,,,tief1242,winkelmann-1998
+mo˧,,2sg_o,2nd Person Singular,57946,,,,tief1242,winkelmann-1998
+mo˧,,2sg_p,2nd Person Singular,57945,,,,tief1242,winkelmann-1998
+buo˩,,2du_a,2nd Person Dual,57944,,,,tief1242,winkelmann-1998
+buo˩,,2du_s,2nd Person Dual,57943,,,,tief1242,winkelmann-1998
+buo˩,,2du_o,2nd Person Dual,57942,,,,tief1242,winkelmann-1998
+buo˩,,2du_p,2nd Person Dual,57941,,,,tief1242,winkelmann-1998
+buo˩,,2pl_a,2nd Person Plural,57940,,,,tief1242,winkelmann-1998
+buo˩,,2pl_s,2nd Person Plural,57939,,,,tief1242,winkelmann-1998
+buo˩,,2pl_o,2nd Person Plural,57938,,,,tief1242,winkelmann-1998
+buo˩,,2pl_p,2nd Person Plural,57937,,,,tief1242,winkelmann-1998
+ʔɔ̃˩,,3sg_m_a,3rd Person Singular Masculine,57936,,,,tief1242,winkelmann-1998
+ʔɔ̃˩,,3sg_m_s,3rd Person Singular Masculine,57935,,,,tief1242,winkelmann-1998
+ʔɔ̃˩,,3sg_m_o,3rd Person Singular Masculine,57934,,,,tief1242,winkelmann-1998
+ʔɔ̃˩,,3sg_m_p,3rd Person Singular Masculine,57933,,,,tief1242,winkelmann-1998
+ʔa˩,,3sg_n_a,3rd Person Singular Neuter,57932,,,,tief1242,winkelmann-1998
+ʔa˩,,3sg_n_s,3rd Person Singular Neuter,57931,,,,tief1242,winkelmann-1998
+"-re˩, -ni˩",,3sg_n_o,3rd Person Singular Neuter,57930,,,,tief1242,winkelmann-1998
+Ø,,3sg_n_p,3rd Person Singular Neuter,57929,,zero morpheme,,tief1242,winkelmann-1998
+ʔo˩,,3d-a,3rd Person Dual,57928,,,,tief1242,winkelmann-1998
+ʔo˩,,3d-s,3rd Person Dual,57927,,,,tief1242,winkelmann-1998
+ʔo˩,,3d-o,3rd Person Dual,57926,,,,tief1242,winkelmann-1998
+ʔo˩,,3d-p,3rd Person Dual,57925,,,,tief1242,winkelmann-1998
+ʔo˩,,3p-a,3rd Person Plural,57924,,,,tief1242,winkelmann-1998
+ʔo˩,,3p-s,3rd Person Plural,57923,,,,tief1242,winkelmann-1998
+ʔo˩,,3p-o,3rd Person Plural,57922,,,,tief1242,winkelmann-1998
+ʔo˩,,3p-p,3rd Person Plural,57921,,,,tief1242,winkelmann-1998

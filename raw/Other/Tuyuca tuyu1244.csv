@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-jɨ'ɨ;;1sg_a;1st (excl) Person Singular;52670;;;;tuyu1244;barnes-and-malone-2000
-jɨ'ɨ;;1sg_s;1st (excl) Person Singular;52669;;;;tuyu1244;barnes-and-malone-2000
-jɨ'ɨ;;1sg_o;1st (excl) Person Singular;52668;;;;tuyu1244;barnes-and-malone-2000
--ja;;1sg_p;1st (excl) Person Singular;52667;;;;tuyu1244;barnes-and-malone-2000
-ɨ̃'sã;;1du_a;1st (excl) Person Dual;52666;;;;tuyu1244;barnes-and-malone-2000
-ɨ̃'sã;;1du_s;1st (excl) Person Dual;52665;;;;tuyu1244;barnes-and-malone-2000
-ɨ̃'sã;;1du_o;1st (excl) Person Dual;52664;;;;tuyu1244;barnes-and-malone-2000
--je;;1du_p;1st (excl) Person Dual;52663;;;;tuyu1244;barnes-and-malone-2000
-ɨ̃'sã;;1pl_a;1st (excl) Person Plural;52662;;;;tuyu1244;barnes-and-malone-2000
-ɨ̃'sã;;1pl_s;1st (excl) Person Plural;52661;;;;tuyu1244;barnes-and-malone-2000
-ɨ̃'sã;;1pl_o;1st (excl) Person Plural;52660;;;;tuyu1244;barnes-and-malone-2000
--je;;1pl_p;1st (excl) Person Plural;52659;;;;tuyu1244;barnes-and-malone-2000
-bã'dĩ;;12du_a;1st (incl) Person Dual;52658;;;;tuyu1244;barnes-and-malone-2000
-bã'dĩ;;12du_s;1st (incl) Person Dual;52657;;;;tuyu1244;barnes-and-malone-2000
-bã'dĩ;;12du_o;1st (incl) Person Dual;52656;;;;tuyu1244;barnes-and-malone-2000
--je;;12du_p;1st (incl) Person Dual;52655;;;;tuyu1244;barnes-and-malone-2000
-bã'dĩ;;12pl_a;1st (incl) Person Plural;52654;;;;tuyu1244;barnes-and-malone-2000
-bã'dĩ;;12pl_s;1st (incl) Person Plural;52653;;;;tuyu1244;barnes-and-malone-2000
-bã'dĩ;;12pl_o;1st (incl) Person Plural;52652;;;;tuyu1244;barnes-and-malone-2000
--je;;12pl_p;1st (incl) Person Plural;52651;;;;tuyu1244;barnes-and-malone-2000
-bɨ̃'ɨ̃ ;;2sg_a;2nd Person Singular;52650;;;;tuyu1244;barnes-and-malone-2000
-bɨ̃'ɨ̃ ;;2sg_s;2nd Person Singular;52649;;;;tuyu1244;barnes-and-malone-2000
-bɨ̃'ɨ̃ ;;2sg_o;2nd Person Singular;52648;;;;tuyu1244;barnes-and-malone-2000
--ja;;2sg_p;2nd Person Singular;52647;;;;tuyu1244;barnes-and-malone-2000
-bɨ̃ã;;2du_a;2nd Person Dual;52646;;;;tuyu1244;barnes-and-malone-2000
-bɨ̃ã;;2du_s;2nd Person Dual;52645;;;;tuyu1244;barnes-and-malone-2000
-bɨ̃ã;;2du_o;2nd Person Dual;52644;;;;tuyu1244;barnes-and-malone-2000
--je;;2du_p;2nd Person Dual;52643;;;;tuyu1244;barnes-and-malone-2000
-bɨ̃ã;;2pl_a;2nd Person Plural;52642;;;;tuyu1244;barnes-and-malone-2000
-bɨ̃ã;;2pl_s;2nd Person Plural;52641;;;;tuyu1244;barnes-and-malone-2000
-bɨ̃ã;;2pl_o;2nd Person Plural;52640;;;;tuyu1244;barnes-and-malone-2000
--je;;2pl_p;2nd Person Plural;52639;;;;tuyu1244;barnes-and-malone-2000
-kɨ̃'ɨ̃;;3sg_m_a;3rd Person Singular Masculine;52638;;;;tuyu1244;barnes-and-malone-2000
-kɨ̃'ɨ̃;;3sg_m_s;3rd Person Singular Masculine;52637;;;;tuyu1244;barnes-and-malone-2000
-kɨ̃'ɨ̃;;3sg_m_o;3rd Person Singular Masculine;52636;;;;tuyu1244;barnes-and-malone-2000
--ja;;3sg_m_p;3rd Person Singular Masculine;52635;;;;tuyu1244;barnes-and-malone-2000
-ko'o;;3sg_n_a;3rd Person Singular Neuter;52634;;;;tuyu1244;barnes-and-malone-2000
-ko'o;;3sg_n_s;3rd Person Singular Neuter;52633;;;;tuyu1244;barnes-and-malone-2000
-ko'o;;3sg_n_o;3rd Person Singular Neuter;52632;;;;tuyu1244;barnes-and-malone-2000
--ja;;3sg_n_p;3rd Person Singular Neuter;52631;;;;tuyu1244;barnes-and-malone-2000
-kɨ̃ã;;3d-a;3rd Person Dual;52630;;;;tuyu1244;barnes-and-malone-2000
-kɨ̃ã;;3d-s;3rd Person Dual;52629;;;;tuyu1244;barnes-and-malone-2000
-kɨ̃ã;;3d-o;3rd Person Dual;52628;;;;tuyu1244;barnes-and-malone-2000
--je;;3d-p;3rd Person Dual;52627;;;;tuyu1244;barnes-and-malone-2000
-kɨ̃ã;;3p-a;3rd Person Plural;52626;;;;tuyu1244;barnes-and-malone-2000
-kɨ̃ã;;3p-s;3rd Person Plural;52625;;;;tuyu1244;barnes-and-malone-2000
-kɨ̃ã;;3p-o;3rd Person Plural;52624;;;;tuyu1244;barnes-and-malone-2000
--je;;3p-p;3rd Person Plural;52623;;;;tuyu1244;barnes-and-malone-2000
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+jɨ'ɨ,,1sg_a,1st (excl) Person Singular,52670,,,,tuyu1244,barnes-and-malone-2000
+jɨ'ɨ,,1sg_s,1st (excl) Person Singular,52669,,,,tuyu1244,barnes-and-malone-2000
+jɨ'ɨ,,1sg_o,1st (excl) Person Singular,52668,,,,tuyu1244,barnes-and-malone-2000
+-ja,,1sg_p,1st (excl) Person Singular,52667,,,,tuyu1244,barnes-and-malone-2000
+ɨ̃'sã,,1du_a,1st (excl) Person Dual,52666,,,,tuyu1244,barnes-and-malone-2000
+ɨ̃'sã,,1du_s,1st (excl) Person Dual,52665,,,,tuyu1244,barnes-and-malone-2000
+ɨ̃'sã,,1du_o,1st (excl) Person Dual,52664,,,,tuyu1244,barnes-and-malone-2000
+-je,,1du_p,1st (excl) Person Dual,52663,,,,tuyu1244,barnes-and-malone-2000
+ɨ̃'sã,,1pl_a,1st (excl) Person Plural,52662,,,,tuyu1244,barnes-and-malone-2000
+ɨ̃'sã,,1pl_s,1st (excl) Person Plural,52661,,,,tuyu1244,barnes-and-malone-2000
+ɨ̃'sã,,1pl_o,1st (excl) Person Plural,52660,,,,tuyu1244,barnes-and-malone-2000
+-je,,1pl_p,1st (excl) Person Plural,52659,,,,tuyu1244,barnes-and-malone-2000
+bã'dĩ,,12du_a,1st (incl) Person Dual,52658,,,,tuyu1244,barnes-and-malone-2000
+bã'dĩ,,12du_s,1st (incl) Person Dual,52657,,,,tuyu1244,barnes-and-malone-2000
+bã'dĩ,,12du_o,1st (incl) Person Dual,52656,,,,tuyu1244,barnes-and-malone-2000
+-je,,12du_p,1st (incl) Person Dual,52655,,,,tuyu1244,barnes-and-malone-2000
+bã'dĩ,,12pl_a,1st (incl) Person Plural,52654,,,,tuyu1244,barnes-and-malone-2000
+bã'dĩ,,12pl_s,1st (incl) Person Plural,52653,,,,tuyu1244,barnes-and-malone-2000
+bã'dĩ,,12pl_o,1st (incl) Person Plural,52652,,,,tuyu1244,barnes-and-malone-2000
+-je,,12pl_p,1st (incl) Person Plural,52651,,,,tuyu1244,barnes-and-malone-2000
+bɨ̃'ɨ̃,,2sg_a,2nd Person Singular,52650,,,,tuyu1244,barnes-and-malone-2000
+bɨ̃'ɨ̃,,2sg_s,2nd Person Singular,52649,,,,tuyu1244,barnes-and-malone-2000
+bɨ̃'ɨ̃,,2sg_o,2nd Person Singular,52648,,,,tuyu1244,barnes-and-malone-2000
+-ja,,2sg_p,2nd Person Singular,52647,,,,tuyu1244,barnes-and-malone-2000
+bɨ̃ã,,2du_a,2nd Person Dual,52646,,,,tuyu1244,barnes-and-malone-2000
+bɨ̃ã,,2du_s,2nd Person Dual,52645,,,,tuyu1244,barnes-and-malone-2000
+bɨ̃ã,,2du_o,2nd Person Dual,52644,,,,tuyu1244,barnes-and-malone-2000
+-je,,2du_p,2nd Person Dual,52643,,,,tuyu1244,barnes-and-malone-2000
+bɨ̃ã,,2pl_a,2nd Person Plural,52642,,,,tuyu1244,barnes-and-malone-2000
+bɨ̃ã,,2pl_s,2nd Person Plural,52641,,,,tuyu1244,barnes-and-malone-2000
+bɨ̃ã,,2pl_o,2nd Person Plural,52640,,,,tuyu1244,barnes-and-malone-2000
+-je,,2pl_p,2nd Person Plural,52639,,,,tuyu1244,barnes-and-malone-2000
+kɨ̃'ɨ̃,,3sg_m_a,3rd Person Singular Masculine,52638,,,,tuyu1244,barnes-and-malone-2000
+kɨ̃'ɨ̃,,3sg_m_s,3rd Person Singular Masculine,52637,,,,tuyu1244,barnes-and-malone-2000
+kɨ̃'ɨ̃,,3sg_m_o,3rd Person Singular Masculine,52636,,,,tuyu1244,barnes-and-malone-2000
+-ja,,3sg_m_p,3rd Person Singular Masculine,52635,,,,tuyu1244,barnes-and-malone-2000
+ko'o,,3sg_n_a,3rd Person Singular Neuter,52634,,,,tuyu1244,barnes-and-malone-2000
+ko'o,,3sg_n_s,3rd Person Singular Neuter,52633,,,,tuyu1244,barnes-and-malone-2000
+ko'o,,3sg_n_o,3rd Person Singular Neuter,52632,,,,tuyu1244,barnes-and-malone-2000
+-ja,,3sg_n_p,3rd Person Singular Neuter,52631,,,,tuyu1244,barnes-and-malone-2000
+kɨ̃ã,,3d-a,3rd Person Dual,52630,,,,tuyu1244,barnes-and-malone-2000
+kɨ̃ã,,3d-s,3rd Person Dual,52629,,,,tuyu1244,barnes-and-malone-2000
+kɨ̃ã,,3d-o,3rd Person Dual,52628,,,,tuyu1244,barnes-and-malone-2000
+-je,,3d-p,3rd Person Dual,52627,,,,tuyu1244,barnes-and-malone-2000
+kɨ̃ã,,3p-a,3rd Person Plural,52626,,,,tuyu1244,barnes-and-malone-2000
+kɨ̃ã,,3p-s,3rd Person Plural,52625,,,,tuyu1244,barnes-and-malone-2000
+kɨ̃ã,,3p-o,3rd Person Plural,52624,,,,tuyu1244,barnes-and-malone-2000
+-je,,3p-p,3rd Person Plural,52623,,,,tuyu1244,barnes-and-malone-2000

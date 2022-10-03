@@ -1,77 +1,77 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-dif;;1sg_a;1st (excl) Person Singular;35103;;;;mosk1236;gravelle-2010
-dif;;1sg_s;1st (excl) Person Singular;35104;;;;mosk1236;gravelle-2010
-dif;;1sg_o;1st (excl) Person Singular;35105;;;;mosk1236;gravelle-2010
-dadin;;1sg_p;1st (excl) Person Singular;35106;;;;mosk1236;gravelle-2010
-yef;;1du_a;1st (excl) Person Dual;35107;;;;mosk1236;gravelle-2010
-yef;;1du_s;1st (excl) Person Dual;35108;;;;mosk1236;gravelle-2010
-yef;;1du_o;1st (excl) Person Dual;35109;;;;mosk1236;gravelle-2010
-yefyen;;1du_p;1st (excl) Person Dual;35110;;;;mosk1236;gravelle-2010
-mif;;1pl_a;1st (excl) Person Plural;35111;;;;mosk1236;gravelle-2010
-mif;;1pl_s;1st (excl) Person Plural;35112;;;;mosk1236;gravelle-2010
-mif;;1pl_o;1st (excl) Person Plural;35113;;;;mosk1236;gravelle-2010
-mifmin;;1pl_p;1st (excl) Person Plural;35114;;;;mosk1236;gravelle-2010
-yef;;12du_a;1st (incl) Person Dual;35115;;;;mosk1236;gravelle-2010
-yef;;12du_s;1st (incl) Person Dual;35116;;;;mosk1236;gravelle-2010
-yef;;12du_o;1st (incl) Person Dual;35117;;;;mosk1236;gravelle-2010
-yefyen;;12du_p;1st (incl) Person Dual;35118;;;;mosk1236;gravelle-2010
-mif;;12pl_a;1st (incl) Person Plural;35119;;;;mosk1236;gravelle-2010
-mif;;12pl_s;1st (incl) Person Plural;35120;;;;mosk1236;gravelle-2010
-mif;;12pl_o;1st (incl) Person Plural;35121;;;;mosk1236;gravelle-2010
-mifmin;;12pl_p;1st (incl) Person Plural;35122;;;;mosk1236;gravelle-2010
-bua;;2sg_a;2nd Person Singular;35123;;;;mosk1236;gravelle-2010
-bua;;2sg_s;2nd Person Singular;35124;;;;mosk1236;gravelle-2010
-bua;;2sg_o;2nd Person Singular;35125;;;;mosk1236;gravelle-2010
-buwun;;2sg_p;2nd Person Singular;35126;;;;mosk1236;gravelle-2010
-yoga;;2du_a;2nd Person Dual;35127;;;;mosk1236;gravelle-2010
-yoga;;2du_s;2nd Person Dual;35128;;;;mosk1236;gravelle-2010
-yoga;;2du_o;2nd Person Dual;35129;;;;mosk1236;gravelle-2010
-yogyen;;2du_p;2nd Person Dual;35130;;;;mosk1236;gravelle-2010
-yua;;2pl_a;2nd Person Plural;35131;;;;mosk1236;gravelle-2010
-yua;;2pl_s;2nd Person Plural;35132;;;;mosk1236;gravelle-2010
-yua;;2pl_o;2nd Person Plural;35133;;;;mosk1236;gravelle-2010
-yuyun;;2pl_p;2nd Person Plural;35134;;;;mosk1236;gravelle-2010
-ofa;;3sg_m_a;3rd Person Singular Masculine;35135;;;;mosk1236;gravelle-2010
-ofa;;3sg_m_s;3rd Person Singular Masculine;35136;;;;mosk1236;gravelle-2010
-ofa;;3sg_m_o;3rd Person Singular Masculine;35137;;;;mosk1236;gravelle-2010
-ofon;;3sg_m_p;3rd Person Singular Masculine;35138;;;;mosk1236;gravelle-2010
-ofa;;3sg_f_a;3rd Person Singular Feminine;35139;;;;mosk1236;gravelle-2010
-ofa;;3sg_f_s;3rd Person Singular Feminine;35140;;;;mosk1236;gravelle-2010
-ofa;;3sg_f_o;3rd Person Singular Feminine;35141;;;;mosk1236;gravelle-2010
-ofon;;3sg_f_p;3rd Person Singular Feminine;35142;;;;mosk1236;gravelle-2010
-ofa;;3sg_n_a;3rd Person Singular Neuter;35143;;;;mosk1236;gravelle-2010
-ofa;;3sg_n_s;3rd Person Singular Neuter;35144;;;;mosk1236;gravelle-2010
-ofa;;3sg_n_o;3rd Person Singular Neuter;35145;;;;mosk1236;gravelle-2010
-ofon;;3sg_n_p;3rd Person Singular Neuter;35146;;;;mosk1236;gravelle-2010
-ergog;;3du_m_a;3rd Person Dual Masculine;35147;;;;mosk1236;gravelle-2010
-ergog;;3du_m_s;3rd Person Dual Masculine;35148;;;;mosk1236;gravelle-2010
-ergog;;3du_m_o;3rd Person Dual Masculine;35149;;;;mosk1236;gravelle-2010
-ergen;;3du_m_p;3rd Person Dual Masculine;35150;;;;mosk1236;gravelle-2010
-ergog;;3du_f_a;3rd Person Dual Feminine;35151;;;;mosk1236;gravelle-2010
-ergog;;3du_f_s;3rd Person Dual Feminine;35152;;;;mosk1236;gravelle-2010
-ergog;;3du_f_o;3rd Person Dual Feminine;35153;;;;mosk1236;gravelle-2010
-ergen;;3du_f_p;3rd Person Dual Feminine;35154;;;;mosk1236;gravelle-2010
-ergog;;3du_n_a;3rd Person Dual Neuter;35155;;;;mosk1236;gravelle-2010
-ergog;;3du_n_s;3rd Person Dual Neuter;35156;;;;mosk1236;gravelle-2010
-ergog;;3du_n_o;3rd Person Dual Neuter;35157;;;;mosk1236;gravelle-2010
-ergen;;3du_n_p;3rd Person Dual Neuter;35158;;;;mosk1236;gravelle-2010
-eri;;3pl_m_a;3rd Person Plural Masculine;35159;;;;mosk1236;gravelle-2010
-eri;;3pl_m_s;3rd Person Plural Masculine;35160;;;;mosk1236;gravelle-2010
-eri;;3pl_m_o;3rd Person Plural Masculine;35161;;;;mosk1236;gravelle-2010
-erin;;3pl_m_p;3rd Person Plural Masculine;35162;;;;mosk1236;gravelle-2010
-eri;;3pl_f_a;3rd Person Plural Feminine;35163;;;;mosk1236;gravelle-2010
-eri;;3pl_f_s;3rd Person Plural Feminine;35164;;;;mosk1236;gravelle-2010
-eri;;3pl_f_o;3rd Person Plural Feminine;35165;;;;mosk1236;gravelle-2010
-erin;;3pl_f_p;3rd Person Plural Feminine;35166;;;;mosk1236;gravelle-2010
-eri;;3pl_n_a;3rd Person Plural Neuter;35167;;;;mosk1236;gravelle-2010
-eri;;3pl_n_s;3rd Person Plural Neuter;35168;;;;mosk1236;gravelle-2010
-eri;;3pl_n_o;3rd Person Plural Neuter;35169;;;;mosk1236;gravelle-2010
-erin;;3pl_n_p;3rd Person Plural Neuter;35170;;;;mosk1236;gravelle-2010
-ergog;;3d-a;3rd Person Dual;36417;;;;mosk1236;gravelle-2010
-ergog;;3d-s;3rd Person Dual;36644;;;;mosk1236;gravelle-2010
-ergog;;3d-o;3rd Person Dual;36867;;;;mosk1236;gravelle-2010
-ergen;;3d-p;3rd Person Dual;37083;;;;mosk1236;gravelle-2010
-eri;;3p-a;3rd Person Plural;37299;;;;mosk1236;gravelle-2010
-eri;;3p-s;3rd Person Plural;37524;;;;mosk1236;gravelle-2010
-eri;;3p-o;3rd Person Plural;37745;;;;mosk1236;gravelle-2010
-erin;;3p-p;3rd Person Plural;37961;;;;mosk1236;gravelle-2010
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+dif,,1sg_a,1st (excl) Person Singular,35103,,,,mosk1236,gravelle-2010
+dif,,1sg_s,1st (excl) Person Singular,35104,,,,mosk1236,gravelle-2010
+dif,,1sg_o,1st (excl) Person Singular,35105,,,,mosk1236,gravelle-2010
+dadin,,1sg_p,1st (excl) Person Singular,35106,,,,mosk1236,gravelle-2010
+yef,,1du_a,1st (excl) Person Dual,35107,,,,mosk1236,gravelle-2010
+yef,,1du_s,1st (excl) Person Dual,35108,,,,mosk1236,gravelle-2010
+yef,,1du_o,1st (excl) Person Dual,35109,,,,mosk1236,gravelle-2010
+yefyen,,1du_p,1st (excl) Person Dual,35110,,,,mosk1236,gravelle-2010
+mif,,1pl_a,1st (excl) Person Plural,35111,,,,mosk1236,gravelle-2010
+mif,,1pl_s,1st (excl) Person Plural,35112,,,,mosk1236,gravelle-2010
+mif,,1pl_o,1st (excl) Person Plural,35113,,,,mosk1236,gravelle-2010
+mifmin,,1pl_p,1st (excl) Person Plural,35114,,,,mosk1236,gravelle-2010
+yef,,12du_a,1st (incl) Person Dual,35115,,,,mosk1236,gravelle-2010
+yef,,12du_s,1st (incl) Person Dual,35116,,,,mosk1236,gravelle-2010
+yef,,12du_o,1st (incl) Person Dual,35117,,,,mosk1236,gravelle-2010
+yefyen,,12du_p,1st (incl) Person Dual,35118,,,,mosk1236,gravelle-2010
+mif,,12pl_a,1st (incl) Person Plural,35119,,,,mosk1236,gravelle-2010
+mif,,12pl_s,1st (incl) Person Plural,35120,,,,mosk1236,gravelle-2010
+mif,,12pl_o,1st (incl) Person Plural,35121,,,,mosk1236,gravelle-2010
+mifmin,,12pl_p,1st (incl) Person Plural,35122,,,,mosk1236,gravelle-2010
+bua,,2sg_a,2nd Person Singular,35123,,,,mosk1236,gravelle-2010
+bua,,2sg_s,2nd Person Singular,35124,,,,mosk1236,gravelle-2010
+bua,,2sg_o,2nd Person Singular,35125,,,,mosk1236,gravelle-2010
+buwun,,2sg_p,2nd Person Singular,35126,,,,mosk1236,gravelle-2010
+yoga,,2du_a,2nd Person Dual,35127,,,,mosk1236,gravelle-2010
+yoga,,2du_s,2nd Person Dual,35128,,,,mosk1236,gravelle-2010
+yoga,,2du_o,2nd Person Dual,35129,,,,mosk1236,gravelle-2010
+yogyen,,2du_p,2nd Person Dual,35130,,,,mosk1236,gravelle-2010
+yua,,2pl_a,2nd Person Plural,35131,,,,mosk1236,gravelle-2010
+yua,,2pl_s,2nd Person Plural,35132,,,,mosk1236,gravelle-2010
+yua,,2pl_o,2nd Person Plural,35133,,,,mosk1236,gravelle-2010
+yuyun,,2pl_p,2nd Person Plural,35134,,,,mosk1236,gravelle-2010
+ofa,,3sg_m_a,3rd Person Singular Masculine,35135,,,,mosk1236,gravelle-2010
+ofa,,3sg_m_s,3rd Person Singular Masculine,35136,,,,mosk1236,gravelle-2010
+ofa,,3sg_m_o,3rd Person Singular Masculine,35137,,,,mosk1236,gravelle-2010
+ofon,,3sg_m_p,3rd Person Singular Masculine,35138,,,,mosk1236,gravelle-2010
+ofa,,3sg_f_a,3rd Person Singular Feminine,35139,,,,mosk1236,gravelle-2010
+ofa,,3sg_f_s,3rd Person Singular Feminine,35140,,,,mosk1236,gravelle-2010
+ofa,,3sg_f_o,3rd Person Singular Feminine,35141,,,,mosk1236,gravelle-2010
+ofon,,3sg_f_p,3rd Person Singular Feminine,35142,,,,mosk1236,gravelle-2010
+ofa,,3sg_n_a,3rd Person Singular Neuter,35143,,,,mosk1236,gravelle-2010
+ofa,,3sg_n_s,3rd Person Singular Neuter,35144,,,,mosk1236,gravelle-2010
+ofa,,3sg_n_o,3rd Person Singular Neuter,35145,,,,mosk1236,gravelle-2010
+ofon,,3sg_n_p,3rd Person Singular Neuter,35146,,,,mosk1236,gravelle-2010
+ergog,,3du_m_a,3rd Person Dual Masculine,35147,,,,mosk1236,gravelle-2010
+ergog,,3du_m_s,3rd Person Dual Masculine,35148,,,,mosk1236,gravelle-2010
+ergog,,3du_m_o,3rd Person Dual Masculine,35149,,,,mosk1236,gravelle-2010
+ergen,,3du_m_p,3rd Person Dual Masculine,35150,,,,mosk1236,gravelle-2010
+ergog,,3du_f_a,3rd Person Dual Feminine,35151,,,,mosk1236,gravelle-2010
+ergog,,3du_f_s,3rd Person Dual Feminine,35152,,,,mosk1236,gravelle-2010
+ergog,,3du_f_o,3rd Person Dual Feminine,35153,,,,mosk1236,gravelle-2010
+ergen,,3du_f_p,3rd Person Dual Feminine,35154,,,,mosk1236,gravelle-2010
+ergog,,3du_n_a,3rd Person Dual Neuter,35155,,,,mosk1236,gravelle-2010
+ergog,,3du_n_s,3rd Person Dual Neuter,35156,,,,mosk1236,gravelle-2010
+ergog,,3du_n_o,3rd Person Dual Neuter,35157,,,,mosk1236,gravelle-2010
+ergen,,3du_n_p,3rd Person Dual Neuter,35158,,,,mosk1236,gravelle-2010
+eri,,3pl_m_a,3rd Person Plural Masculine,35159,,,,mosk1236,gravelle-2010
+eri,,3pl_m_s,3rd Person Plural Masculine,35160,,,,mosk1236,gravelle-2010
+eri,,3pl_m_o,3rd Person Plural Masculine,35161,,,,mosk1236,gravelle-2010
+erin,,3pl_m_p,3rd Person Plural Masculine,35162,,,,mosk1236,gravelle-2010
+eri,,3pl_f_a,3rd Person Plural Feminine,35163,,,,mosk1236,gravelle-2010
+eri,,3pl_f_s,3rd Person Plural Feminine,35164,,,,mosk1236,gravelle-2010
+eri,,3pl_f_o,3rd Person Plural Feminine,35165,,,,mosk1236,gravelle-2010
+erin,,3pl_f_p,3rd Person Plural Feminine,35166,,,,mosk1236,gravelle-2010
+eri,,3pl_n_a,3rd Person Plural Neuter,35167,,,,mosk1236,gravelle-2010
+eri,,3pl_n_s,3rd Person Plural Neuter,35168,,,,mosk1236,gravelle-2010
+eri,,3pl_n_o,3rd Person Plural Neuter,35169,,,,mosk1236,gravelle-2010
+erin,,3pl_n_p,3rd Person Plural Neuter,35170,,,,mosk1236,gravelle-2010
+ergog,,3d-a,3rd Person Dual,36417,,,,mosk1236,gravelle-2010
+ergog,,3d-s,3rd Person Dual,36644,,,,mosk1236,gravelle-2010
+ergog,,3d-o,3rd Person Dual,36867,,,,mosk1236,gravelle-2010
+ergen,,3d-p,3rd Person Dual,37083,,,,mosk1236,gravelle-2010
+eri,,3p-a,3rd Person Plural,37299,,,,mosk1236,gravelle-2010
+eri,,3p-s,3rd Person Plural,37524,,,,mosk1236,gravelle-2010
+eri,,3p-o,3rd Person Plural,37745,,,,mosk1236,gravelle-2010
+erin,,3p-p,3rd Person Plural,37961,,,,mosk1236,gravelle-2010

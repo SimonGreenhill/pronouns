@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ni;;1sg_a;1st (excl) Person Singular;62396;;;;yeii1239;carroll-2017
-ni;;1sg_s;1st (excl) Person Singular;62395;;;;yeii1239;carroll-2017
-nia;;1sg_o;1st (excl) Person Singular;62394;;;;yeii1239;carroll-2017
-nianɛ;;1sg_p;1st (excl) Person Singular;62393;;;;yeii1239;carroll-2017
-bi;;1du_a;1st (excl) Person Dual;62392;;;;yeii1239;carroll-2017
-bi;;1du_s;1st (excl) Person Dual;62391;;;;yeii1239;carroll-2017
-bia;;1du_o;1st (excl) Person Dual;62390;;;;yeii1239;carroll-2017
-bini;;1du_p;1st (excl) Person Dual;62389;;;;yeii1239;carroll-2017
-bi;;1pl_a;1st (excl) Person Plural;62388;;;;yeii1239;carroll-2017
-bi;;1pl_s;1st (excl) Person Plural;62387;;;;yeii1239;carroll-2017
-bia;;1pl_o;1st (excl) Person Plural;62386;;;;yeii1239;carroll-2017
-bini;;1pl_p;1st (excl) Person Plural;62385;;;;yeii1239;carroll-2017
-bi;;12du_a;1st (incl) Person Dual;62384;;;;yeii1239;carroll-2017
-bi;;12du_s;1st (incl) Person Dual;62383;;;;yeii1239;carroll-2017
-bia;;12du_o;1st (incl) Person Dual;62382;;;;yeii1239;carroll-2017
-bini;;12du_p;1st (incl) Person Dual;62381;;;;yeii1239;carroll-2017
-bi;;12pl_a;1st (incl) Person Plural;62380;;;;yeii1239;carroll-2017
-bi;;12pl_s;1st (incl) Person Plural;62379;;;;yeii1239;carroll-2017
-bia;;12pl_o;1st (incl) Person Plural;62378;;;;yeii1239;carroll-2017
-bini;;12pl_p;1st (incl) Person Plural;62377;;;;yeii1239;carroll-2017
-bu;;2sg_a;2nd Person Singular;62376;;;;yeii1239;carroll-2017
-bu;;2sg_s;2nd Person Singular;62375;;;;yeii1239;carroll-2017
-ba;;2sg_o;2nd Person Singular;62374;;;;yeii1239;carroll-2017
-banɛ;;2sg_p;2nd Person Singular;62373;;;;yeii1239;carroll-2017
-bi;;2du_a;2nd Person Dual;62372;;;;yeii1239;carroll-2017
-bi;;2du_s;2nd Person Dual;62371;;;;yeii1239;carroll-2017
-bu;;2du_o;2nd Person Dual;62370;;;;yeii1239;carroll-2017
-buni;;2du_p;2nd Person Dual;62369;;;;yeii1239;carroll-2017
-bi;;2pl_a;2nd Person Plural;62368;;;;yeii1239;carroll-2017
-bi;;2pl_s;2nd Person Plural;62367;;;;yeii1239;carroll-2017
-bu;;2pl_o;2nd Person Plural;62366;;;;yeii1239;carroll-2017
-buni;;2pl_p;2nd Person Plural;62365;;;;yeii1239;carroll-2017
-ɛd;;3sg_m_a;3rd Person Singular Masculine;62364;;;;yeii1239;carroll-2017
-ɛd;;3sg_m_s;3rd Person Singular Masculine;62363;;;;yeii1239;carroll-2017
-ɛdɛ;;3sg_m_o;3rd Person Singular Masculine;62362;;;;yeii1239;carroll-2017
-ɛdɛni;;3sg_m_p;3rd Person Singular Masculine;62361;;;;yeii1239;carroll-2017
-ɛd;;3sg_n_a;3rd Person Singular Neuter;62360;;;;yeii1239;carroll-2017
-ɛd;;3sg_n_s;3rd Person Singular Neuter;62359;;;;yeii1239;carroll-2017
-ɛdɛ;;3sg_n_o;3rd Person Singular Neuter;62358;;;;yeii1239;carroll-2017
-ɛdɛni;;3sg_n_p;3rd Person Singular Neuter;62357;;;;yeii1239;carroll-2017
-ɛd;;3d-a;3rd Person Dual;62356;;;;yeii1239;carroll-2017
-ɛd;;3d-s;3rd Person Dual;62355;;;;yeii1239;carroll-2017
-ɛdɛ;;3d-o;3rd Person Dual;62354;;;;yeii1239;carroll-2017
-ɛdɛni;;3d-p;3rd Person Dual;62353;;;;yeii1239;carroll-2017
-ɛd;;3p-a;3rd Person Plural;62352;;;;yeii1239;carroll-2017
-ɛd;;3p-s;3rd Person Plural;62351;;;;yeii1239;carroll-2017
-ɛdɛ;;3p-o;3rd Person Plural;62350;;;;yeii1239;carroll-2017
-ɛdɛni;;3p-p;3rd Person Plural;62349;;;;yeii1239;carroll-2017
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ni,,1sg_a,1st (excl) Person Singular,62396,,,,yeii1239,carroll-2017
+ni,,1sg_s,1st (excl) Person Singular,62395,,,,yeii1239,carroll-2017
+nia,,1sg_o,1st (excl) Person Singular,62394,,,,yeii1239,carroll-2017
+nianɛ,,1sg_p,1st (excl) Person Singular,62393,,,,yeii1239,carroll-2017
+bi,,1du_a,1st (excl) Person Dual,62392,,,,yeii1239,carroll-2017
+bi,,1du_s,1st (excl) Person Dual,62391,,,,yeii1239,carroll-2017
+bia,,1du_o,1st (excl) Person Dual,62390,,,,yeii1239,carroll-2017
+bini,,1du_p,1st (excl) Person Dual,62389,,,,yeii1239,carroll-2017
+bi,,1pl_a,1st (excl) Person Plural,62388,,,,yeii1239,carroll-2017
+bi,,1pl_s,1st (excl) Person Plural,62387,,,,yeii1239,carroll-2017
+bia,,1pl_o,1st (excl) Person Plural,62386,,,,yeii1239,carroll-2017
+bini,,1pl_p,1st (excl) Person Plural,62385,,,,yeii1239,carroll-2017
+bi,,12du_a,1st (incl) Person Dual,62384,,,,yeii1239,carroll-2017
+bi,,12du_s,1st (incl) Person Dual,62383,,,,yeii1239,carroll-2017
+bia,,12du_o,1st (incl) Person Dual,62382,,,,yeii1239,carroll-2017
+bini,,12du_p,1st (incl) Person Dual,62381,,,,yeii1239,carroll-2017
+bi,,12pl_a,1st (incl) Person Plural,62380,,,,yeii1239,carroll-2017
+bi,,12pl_s,1st (incl) Person Plural,62379,,,,yeii1239,carroll-2017
+bia,,12pl_o,1st (incl) Person Plural,62378,,,,yeii1239,carroll-2017
+bini,,12pl_p,1st (incl) Person Plural,62377,,,,yeii1239,carroll-2017
+bu,,2sg_a,2nd Person Singular,62376,,,,yeii1239,carroll-2017
+bu,,2sg_s,2nd Person Singular,62375,,,,yeii1239,carroll-2017
+ba,,2sg_o,2nd Person Singular,62374,,,,yeii1239,carroll-2017
+banɛ,,2sg_p,2nd Person Singular,62373,,,,yeii1239,carroll-2017
+bi,,2du_a,2nd Person Dual,62372,,,,yeii1239,carroll-2017
+bi,,2du_s,2nd Person Dual,62371,,,,yeii1239,carroll-2017
+bu,,2du_o,2nd Person Dual,62370,,,,yeii1239,carroll-2017
+buni,,2du_p,2nd Person Dual,62369,,,,yeii1239,carroll-2017
+bi,,2pl_a,2nd Person Plural,62368,,,,yeii1239,carroll-2017
+bi,,2pl_s,2nd Person Plural,62367,,,,yeii1239,carroll-2017
+bu,,2pl_o,2nd Person Plural,62366,,,,yeii1239,carroll-2017
+buni,,2pl_p,2nd Person Plural,62365,,,,yeii1239,carroll-2017
+ɛd,,3sg_m_a,3rd Person Singular Masculine,62364,,,,yeii1239,carroll-2017
+ɛd,,3sg_m_s,3rd Person Singular Masculine,62363,,,,yeii1239,carroll-2017
+ɛdɛ,,3sg_m_o,3rd Person Singular Masculine,62362,,,,yeii1239,carroll-2017
+ɛdɛni,,3sg_m_p,3rd Person Singular Masculine,62361,,,,yeii1239,carroll-2017
+ɛd,,3sg_n_a,3rd Person Singular Neuter,62360,,,,yeii1239,carroll-2017
+ɛd,,3sg_n_s,3rd Person Singular Neuter,62359,,,,yeii1239,carroll-2017
+ɛdɛ,,3sg_n_o,3rd Person Singular Neuter,62358,,,,yeii1239,carroll-2017
+ɛdɛni,,3sg_n_p,3rd Person Singular Neuter,62357,,,,yeii1239,carroll-2017
+ɛd,,3d-a,3rd Person Dual,62356,,,,yeii1239,carroll-2017
+ɛd,,3d-s,3rd Person Dual,62355,,,,yeii1239,carroll-2017
+ɛdɛ,,3d-o,3rd Person Dual,62354,,,,yeii1239,carroll-2017
+ɛdɛni,,3d-p,3rd Person Dual,62353,,,,yeii1239,carroll-2017
+ɛd,,3p-a,3rd Person Plural,62352,,,,yeii1239,carroll-2017
+ɛd,,3p-s,3rd Person Plural,62351,,,,yeii1239,carroll-2017
+ɛdɛ,,3p-o,3rd Person Plural,62350,,,,yeii1239,carroll-2017
+ɛdɛni,,3p-p,3rd Person Plural,62349,,,,yeii1239,carroll-2017

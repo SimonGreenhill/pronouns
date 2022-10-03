@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-(i)nyaa;;1sg_a;1st (excl) Person Singular;62051;;;;elna1235;casad-1984
-(i)nyaa;;1sg_s;1st (excl) Person Singular;62050;;;;elna1235;casad-1984
-(í)nyeeci;;1sg_o;1st (excl) Person Singular;62049;;;;elna1235;casad-1984
-(í)nyeeci;;1sg_p;1st (excl) Person Singular;62048;;;;elna1235;casad-1984
-(i)tyan;;1du_a;1st (excl) Person Dual;62047;;;;elna1235;casad-1984
-(i)tyan;;1du_s;1st (excl) Person Dual;62046;;;;elna1235;casad-1984
-(í)tyehmi;;1du_o;1st (excl) Person Dual;62045;;;;elna1235;casad-1984
-(í)tyehmi;;1du_p;1st (excl) Person Dual;62044;;;;elna1235;casad-1984
-(i)tyan;;1pl_a;1st (excl) Person Plural;62043;;;;elna1235;casad-1984
-(i)tyan;;1pl_s;1st (excl) Person Plural;62042;;;;elna1235;casad-1984
-(í)tyehmi;;1pl_o;1st (excl) Person Plural;62041;;;;elna1235;casad-1984
-(í)tyehmi;;1pl_p;1st (excl) Person Plural;62040;;;;elna1235;casad-1984
-(i)tyan;;12du_a;1st (incl) Person Dual;62039;;;;elna1235;casad-1984
-(i)tyan;;12du_s;1st (incl) Person Dual;62038;;;;elna1235;casad-1984
-(í)tyehmi;;12du_o;1st (incl) Person Dual;62037;;;;elna1235;casad-1984
-(í)tyehmi;;12du_p;1st (incl) Person Dual;62036;;;;elna1235;casad-1984
-(i)tyan;;12pl_a;1st (incl) Person Plural;62035;;;;elna1235;casad-1984
-(i)tyan;;12pl_s;1st (incl) Person Plural;62034;;;;elna1235;casad-1984
-(í)tyehmi;;12pl_o;1st (incl) Person Plural;62033;;;;elna1235;casad-1984
-(í)tyehmi;;12pl_p;1st (incl) Person Plural;62032;;;;elna1235;casad-1984
-mwaa;;2sg_a;2nd Person Singular;62031;;;;elna1235;casad-1984
-mwaa;;2sg_s;2nd Person Singular;62030;;;;elna1235;casad-1984
-mwéeci;;2sg_o;2nd Person Singular;62029;;;;elna1235;casad-1984
-mwéeci;;2sg_p;2nd Person Singular;62028;;;;elna1235;casad-1984
-mwaan;;2du_a;2nd Person Dual;62027;;;;elna1235;casad-1984
-mwaan;;2du_s;2nd Person Dual;62026;;;;elna1235;casad-1984
-mwéhmi;;2du_o;2nd Person Dual;62025;;;;elna1235;casad-1984
-mwéhmi;;2du_p;2nd Person Dual;62024;;;;elna1235;casad-1984
-mwaan;;2pl_a;2nd Person Plural;62023;;;;elna1235;casad-1984
-mwaan;;2pl_s;2nd Person Plural;62022;;;;elna1235;casad-1984
-mwéhmi;;2pl_o;2nd Person Plural;62021;;;;elna1235;casad-1984
-mwéhmi;;2pl_p;2nd Person Plural;62020;;;;elna1235;casad-1984
-amɨ, amɨhna;;3sg_m_a;3rd Person Singular Masculine;62019;;amɨ is a subject preverbal demonstrative 'there', amɨhna is post-verbal subject demonstrative.;;elna1235;casad-1984
-amɨ, amɨhna;;3sg_m_s;3rd Person Singular Masculine;62018;;amɨ is a subject preverbal demonstrative 'there', amɨhna is post-verbal subject demonstrative.;;elna1235;casad-1984
-amɨh, pamɨhna;;3sg_m_o;3rd Person Singular Masculine;62017;;amɨh is a preverbal object demonstrative, pamɨhna is a post-verbal object demonstrative.;;elna1235;casad-1984
-amɨh, pamɨhna;;3sg_m_p;3rd Person Singular Masculine;62016;;;;elna1235;casad-1984
-amɨ, amɨhna;;3sg_n_a;3rd Person Singular Neuter;62015;;amɨ is a subject preverbal demonstrative 'there', amɨhna is post-verbal subject demonstrative.;;elna1235;casad-1984
-amɨ, amɨhna;;3sg_n_s;3rd Person Singular Neuter;62014;;amɨ is a subject preverbal demonstrative 'there', amɨhna is post-verbal subject demonstrative.;;elna1235;casad-1984
-amɨh, pamɨhna;;3sg_n_o;3rd Person Singular Neuter;62013;;amɨh is a preverbal object demonstrative, pamɨhna is a post-verbal object demonstrative.;;elna1235;casad-1984
-amɨh, pamɨhna;;3sg_n_p;3rd Person Singular Neuter;62012;;;;elna1235;casad-1984
-mamɨhna;;3d-a;3rd Person Dual;62011;;mamɨhna is a post-verbal plural demonstrative.;;elna1235;casad-1984
-mamɨhna;;3d-s;3rd Person Dual;62010;;mamɨhna is a post-verbal plural demonstrative.;;elna1235;casad-1984
-amɨme(h), mamɨhna;;3d-o;3rd Person Dual;62009;;amɨme(h) is a preverbal object demonstrative. mamɨhna is a post-verbal plural demonstrative.;;elna1235;casad-1984
-amɨme(h), mamɨhna;;3d-p;3rd Person Dual;62008;;;;elna1235;casad-1984
-mamɨhna;;3p-a;3rd Person Plural;62007;;mamɨhna is a post-verbal plural demonstrative.;;elna1235;casad-1984
-mamɨhna;;3p-s;3rd Person Plural;62006;;mamɨhna is a post-verbal plural demonstrative.;;elna1235;casad-1984
-amɨme(h),mamɨhna;;3p-o;3rd Person Plural;62005;;amɨme(h) is a preverbal object demonstrative. mamɨhna is a post-verbal plural demonstrative.;;elna1235;casad-1984
-amɨme(h),mamɨhna;;3p-p;3rd Person Plural;62004;;;;elna1235;casad-1984
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+(i)nyaa,,1sg_a,1st (excl) Person Singular,62051,,,,elna1235,casad-1984
+(i)nyaa,,1sg_s,1st (excl) Person Singular,62050,,,,elna1235,casad-1984
+(í)nyeeci,,1sg_o,1st (excl) Person Singular,62049,,,,elna1235,casad-1984
+(í)nyeeci,,1sg_p,1st (excl) Person Singular,62048,,,,elna1235,casad-1984
+(i)tyan,,1du_a,1st (excl) Person Dual,62047,,,,elna1235,casad-1984
+(i)tyan,,1du_s,1st (excl) Person Dual,62046,,,,elna1235,casad-1984
+(í)tyehmi,,1du_o,1st (excl) Person Dual,62045,,,,elna1235,casad-1984
+(í)tyehmi,,1du_p,1st (excl) Person Dual,62044,,,,elna1235,casad-1984
+(i)tyan,,1pl_a,1st (excl) Person Plural,62043,,,,elna1235,casad-1984
+(i)tyan,,1pl_s,1st (excl) Person Plural,62042,,,,elna1235,casad-1984
+(í)tyehmi,,1pl_o,1st (excl) Person Plural,62041,,,,elna1235,casad-1984
+(í)tyehmi,,1pl_p,1st (excl) Person Plural,62040,,,,elna1235,casad-1984
+(i)tyan,,12du_a,1st (incl) Person Dual,62039,,,,elna1235,casad-1984
+(i)tyan,,12du_s,1st (incl) Person Dual,62038,,,,elna1235,casad-1984
+(í)tyehmi,,12du_o,1st (incl) Person Dual,62037,,,,elna1235,casad-1984
+(í)tyehmi,,12du_p,1st (incl) Person Dual,62036,,,,elna1235,casad-1984
+(i)tyan,,12pl_a,1st (incl) Person Plural,62035,,,,elna1235,casad-1984
+(i)tyan,,12pl_s,1st (incl) Person Plural,62034,,,,elna1235,casad-1984
+(í)tyehmi,,12pl_o,1st (incl) Person Plural,62033,,,,elna1235,casad-1984
+(í)tyehmi,,12pl_p,1st (incl) Person Plural,62032,,,,elna1235,casad-1984
+mwaa,,2sg_a,2nd Person Singular,62031,,,,elna1235,casad-1984
+mwaa,,2sg_s,2nd Person Singular,62030,,,,elna1235,casad-1984
+mwéeci,,2sg_o,2nd Person Singular,62029,,,,elna1235,casad-1984
+mwéeci,,2sg_p,2nd Person Singular,62028,,,,elna1235,casad-1984
+mwaan,,2du_a,2nd Person Dual,62027,,,,elna1235,casad-1984
+mwaan,,2du_s,2nd Person Dual,62026,,,,elna1235,casad-1984
+mwéhmi,,2du_o,2nd Person Dual,62025,,,,elna1235,casad-1984
+mwéhmi,,2du_p,2nd Person Dual,62024,,,,elna1235,casad-1984
+mwaan,,2pl_a,2nd Person Plural,62023,,,,elna1235,casad-1984
+mwaan,,2pl_s,2nd Person Plural,62022,,,,elna1235,casad-1984
+mwéhmi,,2pl_o,2nd Person Plural,62021,,,,elna1235,casad-1984
+mwéhmi,,2pl_p,2nd Person Plural,62020,,,,elna1235,casad-1984
+"amɨ, amɨhna",,3sg_m_a,3rd Person Singular Masculine,62019,,"amɨ is a subject preverbal demonstrative 'there', amɨhna is post-verbal subject demonstrative.",,elna1235,casad-1984
+"amɨ, amɨhna",,3sg_m_s,3rd Person Singular Masculine,62018,,"amɨ is a subject preverbal demonstrative 'there', amɨhna is post-verbal subject demonstrative.",,elna1235,casad-1984
+"amɨh, pamɨhna",,3sg_m_o,3rd Person Singular Masculine,62017,,"amɨh is a preverbal object demonstrative, pamɨhna is a post-verbal object demonstrative.",,elna1235,casad-1984
+"amɨh, pamɨhna",,3sg_m_p,3rd Person Singular Masculine,62016,,,,elna1235,casad-1984
+"amɨ, amɨhna",,3sg_n_a,3rd Person Singular Neuter,62015,,"amɨ is a subject preverbal demonstrative 'there', amɨhna is post-verbal subject demonstrative.",,elna1235,casad-1984
+"amɨ, amɨhna",,3sg_n_s,3rd Person Singular Neuter,62014,,"amɨ is a subject preverbal demonstrative 'there', amɨhna is post-verbal subject demonstrative.",,elna1235,casad-1984
+"amɨh, pamɨhna",,3sg_n_o,3rd Person Singular Neuter,62013,,"amɨh is a preverbal object demonstrative, pamɨhna is a post-verbal object demonstrative.",,elna1235,casad-1984
+"amɨh, pamɨhna",,3sg_n_p,3rd Person Singular Neuter,62012,,,,elna1235,casad-1984
+mamɨhna,,3d-a,3rd Person Dual,62011,,mamɨhna is a post-verbal plural demonstrative.,,elna1235,casad-1984
+mamɨhna,,3d-s,3rd Person Dual,62010,,mamɨhna is a post-verbal plural demonstrative.,,elna1235,casad-1984
+"amɨme(h), mamɨhna",,3d-o,3rd Person Dual,62009,,amɨme(h) is a preverbal object demonstrative. mamɨhna is a post-verbal plural demonstrative.,,elna1235,casad-1984
+"amɨme(h), mamɨhna",,3d-p,3rd Person Dual,62008,,,,elna1235,casad-1984
+mamɨhna,,3p-a,3rd Person Plural,62007,,mamɨhna is a post-verbal plural demonstrative.,,elna1235,casad-1984
+mamɨhna,,3p-s,3rd Person Plural,62006,,mamɨhna is a post-verbal plural demonstrative.,,elna1235,casad-1984
+"amɨme(h),mamɨhna",,3p-o,3rd Person Plural,62005,,amɨme(h) is a preverbal object demonstrative. mamɨhna is a post-verbal plural demonstrative.,,elna1235,casad-1984
+"amɨme(h),mamɨhna",,3p-p,3rd Person Plural,62004,,,,elna1235,casad-1984

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋaypa;;1sg_a;1st (excl) Person Singular;60640;;;;bura1267;green-1987
-ŋaypa;;1sg_s;1st (excl) Person Singular;60639;;;;bura1267;green-1987
-ŋaypa;;1sg_o;1st (excl) Person Singular;60638;;;;bura1267;green-1987
-gunŋaypa;;1sg_p;1st (excl) Person Singular;60637;;;;bura1267;green-1987
-ŋatipa;;1du_a;1st (excl) Person Dual;60636;;;;bura1267;green-1987
-ŋatipa;;1du_s;1st (excl) Person Dual;60635;;;;bura1267;green-1987
-ŋatipa;;1du_o;1st (excl) Person Dual;60634;;;;bura1267;green-1987
-gunŋatipa;;1du_p;1st (excl) Person Dual;60633;;;;bura1267;green-1987
-ŋayburpa;;1pl_a;1st (excl) Person Plural;60632;;;;bura1267;green-1987
-ŋayburpa;;1pl_s;1st (excl) Person Plural;60631;;;;bura1267;green-1987
-ŋayburpa;;1pl_o;1st (excl) Person Plural;60630;;;;bura1267;green-1987
-gunŋayburpa;;1pl_p;1st (excl) Person Plural;60629;;;;bura1267;green-1987
-ŋaripa;;12du_a;1st (incl) Person Dual;60628;;;;bura1267;green-1987
-ŋaripa;;12du_s;1st (incl) Person Dual;60627;;;;bura1267;green-1987
-ŋaripa;;12du_o;1st (incl) Person Dual;60626;;;;bura1267;green-1987
-gunŋaripa;;12du_p;1st (incl) Person Dual;60625;;;;bura1267;green-1987
-ŋayburpa, ŋatipa;;12pl_a;1st (incl) Person Plural;60624;;;;bura1267;green-1987
-ŋayburpa, ŋatipa;;12pl_s;1st (incl) Person Plural;60623;;;;bura1267;green-1987
-ŋayburpa, ŋatipa;;12pl_o;1st (incl) Person Plural;60622;;;;bura1267;green-1987
-gunŋayburpa, gunŋatipa;;12pl_p;1st (incl) Person Plural;60621;;;;bura1267;green-1987
-ŋiɲipa;;2sg_a;2nd Person Singular;60620;;;;bura1267;green-1987
-ŋiɲipa;;2sg_s;2nd Person Singular;60619;;;;bura1267;green-1987
-ŋiɲipa;;2sg_o;2nd Person Singular;60618;;;;bura1267;green-1987
-gunŋiɲipa;;2sg_p;2nd Person Singular;60617;;;;bura1267;green-1987
-anagotipa;;2du_a;2nd Person Dual;60616;;;;bura1267;green-1987
-anagotipa;;2du_s;2nd Person Dual;60615;;;;bura1267;green-1987
-anagotipa;;2du_o;2nd Person Dual;60614;;;;bura1267;green-1987
-gunanagotipa;;2du_p;2nd Person Dual;60613;;;;bura1267;green-1987
-anagoyburpa;;2pl_a;2nd Person Plural;60612;;;;bura1267;green-1987
-anagoyburpa;;2pl_s;2nd Person Plural;60611;;;;bura1267;green-1987
-anagoyburpa;;2pl_o;2nd Person Plural;60610;;;;bura1267;green-1987
-gunanagoyburpa;;2pl_p;2nd Person Plural;60609;;;;bura1267;green-1987
-nipa;;3sg_m_a;3rd Person Singular Masculine;60608;;;;bura1267;green-1987
-nipa;;3sg_m_s;3rd Person Singular Masculine;60607;;;;bura1267;green-1987
-nipa;;3sg_m_o;3rd Person Singular Masculine;60606;;;;bura1267;green-1987
-gunyika, gunyigipa;;3sg_m_p;3rd Person Singular Masculine;60605;;;;bura1267;green-1987
-nipa;;3sg_n_a;3rd Person Singular Neuter;60604;;;;bura1267;green-1987
-nipa;;3sg_n_s;3rd Person Singular Neuter;60603;;;;bura1267;green-1987
-nipa;;3sg_n_o;3rd Person Singular Neuter;60602;;;;bura1267;green-1987
-gunyika, gunyigipa;;3sg_n_p;3rd Person Singular Neuter;60601;;;;bura1267;green-1987
-bitipa;;3d-a;3rd Person Dual;60600;;;;bura1267;green-1987
-bitipa;;3d-s;3rd Person Dual;60599;;;;bura1267;green-1987
-bitipa;;3d-o;3rd Person Dual;60598;;;;bura1267;green-1987
-gunbitipa;;3d-p;3rd Person Dual;60597;;;;bura1267;green-1987
-biripa;;3p-a;3rd Person Plural;60596;;;;bura1267;green-1987
-biripa;;3p-s;3rd Person Plural;60595;;;;bura1267;green-1987
-biripa;;3p-o;3rd Person Plural;60594;;;;bura1267;green-1987
-gunbiripa;;3p-p;3rd Person Plural;60593;;;;bura1267;green-1987
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋaypa,,1sg_a,1st (excl) Person Singular,60640,,,,bura1267,green-1987
+ŋaypa,,1sg_s,1st (excl) Person Singular,60639,,,,bura1267,green-1987
+ŋaypa,,1sg_o,1st (excl) Person Singular,60638,,,,bura1267,green-1987
+gunŋaypa,,1sg_p,1st (excl) Person Singular,60637,,,,bura1267,green-1987
+ŋatipa,,1du_a,1st (excl) Person Dual,60636,,,,bura1267,green-1987
+ŋatipa,,1du_s,1st (excl) Person Dual,60635,,,,bura1267,green-1987
+ŋatipa,,1du_o,1st (excl) Person Dual,60634,,,,bura1267,green-1987
+gunŋatipa,,1du_p,1st (excl) Person Dual,60633,,,,bura1267,green-1987
+ŋayburpa,,1pl_a,1st (excl) Person Plural,60632,,,,bura1267,green-1987
+ŋayburpa,,1pl_s,1st (excl) Person Plural,60631,,,,bura1267,green-1987
+ŋayburpa,,1pl_o,1st (excl) Person Plural,60630,,,,bura1267,green-1987
+gunŋayburpa,,1pl_p,1st (excl) Person Plural,60629,,,,bura1267,green-1987
+ŋaripa,,12du_a,1st (incl) Person Dual,60628,,,,bura1267,green-1987
+ŋaripa,,12du_s,1st (incl) Person Dual,60627,,,,bura1267,green-1987
+ŋaripa,,12du_o,1st (incl) Person Dual,60626,,,,bura1267,green-1987
+gunŋaripa,,12du_p,1st (incl) Person Dual,60625,,,,bura1267,green-1987
+"ŋayburpa, ŋatipa",,12pl_a,1st (incl) Person Plural,60624,,,,bura1267,green-1987
+"ŋayburpa, ŋatipa",,12pl_s,1st (incl) Person Plural,60623,,,,bura1267,green-1987
+"ŋayburpa, ŋatipa",,12pl_o,1st (incl) Person Plural,60622,,,,bura1267,green-1987
+"gunŋayburpa, gunŋatipa",,12pl_p,1st (incl) Person Plural,60621,,,,bura1267,green-1987
+ŋiɲipa,,2sg_a,2nd Person Singular,60620,,,,bura1267,green-1987
+ŋiɲipa,,2sg_s,2nd Person Singular,60619,,,,bura1267,green-1987
+ŋiɲipa,,2sg_o,2nd Person Singular,60618,,,,bura1267,green-1987
+gunŋiɲipa,,2sg_p,2nd Person Singular,60617,,,,bura1267,green-1987
+anagotipa,,2du_a,2nd Person Dual,60616,,,,bura1267,green-1987
+anagotipa,,2du_s,2nd Person Dual,60615,,,,bura1267,green-1987
+anagotipa,,2du_o,2nd Person Dual,60614,,,,bura1267,green-1987
+gunanagotipa,,2du_p,2nd Person Dual,60613,,,,bura1267,green-1987
+anagoyburpa,,2pl_a,2nd Person Plural,60612,,,,bura1267,green-1987
+anagoyburpa,,2pl_s,2nd Person Plural,60611,,,,bura1267,green-1987
+anagoyburpa,,2pl_o,2nd Person Plural,60610,,,,bura1267,green-1987
+gunanagoyburpa,,2pl_p,2nd Person Plural,60609,,,,bura1267,green-1987
+nipa,,3sg_m_a,3rd Person Singular Masculine,60608,,,,bura1267,green-1987
+nipa,,3sg_m_s,3rd Person Singular Masculine,60607,,,,bura1267,green-1987
+nipa,,3sg_m_o,3rd Person Singular Masculine,60606,,,,bura1267,green-1987
+"gunyika, gunyigipa",,3sg_m_p,3rd Person Singular Masculine,60605,,,,bura1267,green-1987
+nipa,,3sg_n_a,3rd Person Singular Neuter,60604,,,,bura1267,green-1987
+nipa,,3sg_n_s,3rd Person Singular Neuter,60603,,,,bura1267,green-1987
+nipa,,3sg_n_o,3rd Person Singular Neuter,60602,,,,bura1267,green-1987
+"gunyika, gunyigipa",,3sg_n_p,3rd Person Singular Neuter,60601,,,,bura1267,green-1987
+bitipa,,3d-a,3rd Person Dual,60600,,,,bura1267,green-1987
+bitipa,,3d-s,3rd Person Dual,60599,,,,bura1267,green-1987
+bitipa,,3d-o,3rd Person Dual,60598,,,,bura1267,green-1987
+gunbitipa,,3d-p,3rd Person Dual,60597,,,,bura1267,green-1987
+biripa,,3p-a,3rd Person Plural,60596,,,,bura1267,green-1987
+biripa,,3p-s,3rd Person Plural,60595,,,,bura1267,green-1987
+biripa,,3p-o,3rd Person Plural,60594,,,,bura1267,green-1987
+gunbiripa,,3p-p,3rd Person Plural,60593,,,,bura1267,green-1987

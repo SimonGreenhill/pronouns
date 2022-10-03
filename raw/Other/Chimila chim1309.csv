@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-naaʔri;;1sg_a;1st (excl) Person Singular;54221;;;;chim1309;amaya-1996
-naaʔri;;1sg_s;1st (excl) Person Singular;54220;;;;chim1309;amaya-1996
-naaʔri;;1sg_o;1st (excl) Person Singular;54219;;;;chim1309;amaya-1996
-naʔ-;;1sg_p;1st (excl) Person Singular;54218;;;;chim1309;amaya-1996
-naʔraʔ;;1du_a;1st (excl) Person Dual;54217;;;;chim1309;amaya-1996
-naʔraʔ;;1du_s;1st (excl) Person Dual;54216;;;;chim1309;amaya-1996
-naʔraʔ;;1du_o;1st (excl) Person Dual;54215;;;;chim1309;amaya-1996
-na-;;1du_p;1st (excl) Person Dual;54214;;;;chim1309;amaya-1996
-nuʔranaʔriʔra;;1pl_a;1st (excl) Person Plural;54213;;;;chim1309;amaya-1996
-nuʔranaʔriʔra;;1pl_s;1st (excl) Person Plural;54212;;;;chim1309;amaya-1996
-nuʔranaʔriʔra;;1pl_o;1st (excl) Person Plural;54211;;;;chim1309;amaya-1996
-naʔra-;;1pl_p;1st (excl) Person Plural;54210;;;;chim1309;amaya-1996
-naʔraʔ;;12du_a;1st (incl) Person Dual;54209;;;;chim1309;amaya-1996
-naʔraʔ;;12du_s;1st (incl) Person Dual;54208;;;;chim1309;amaya-1996
-naʔraʔ;;12du_o;1st (incl) Person Dual;54207;;;;chim1309;amaya-1996
-na-;;12du_p;1st (incl) Person Dual;54206;;;;chim1309;amaya-1996
-nuʔranaʔriʔra;;12pl_a;1st (incl) Person Plural;54205;;;;chim1309;amaya-1996
-nuʔranaʔriʔra;;12pl_s;1st (incl) Person Plural;54204;;;;chim1309;amaya-1996
-nuʔranaʔriʔra;;12pl_o;1st (incl) Person Plural;54203;;;;chim1309;amaya-1996
-naʔra-;;12pl_p;1st (incl) Person Plural;54202;;;;chim1309;amaya-1996
-amma~atta;;2sg_a;2nd Person Singular;54201;;;;chim1309;amaya-1996
-amma~atta;;2sg_s;2nd Person Singular;54200;;;;chim1309;amaya-1996
-amma~atta;;2sg_o;2nd Person Singular;54199;;;;chim1309;amaya-1996
-maʔ-;;2sg_p;2nd Person Singular;54198;;;;chim1309;amaya-1996
-ammaʔra;;2du_a;2nd Person Dual;54197;;;;chim1309;amaya-1996
-ammaʔra;;2du_s;2nd Person Dual;54196;;;;chim1309;amaya-1996
-ammaʔra;;2du_o;2nd Person Dual;54195;;;;chim1309;amaya-1996
-ma-;;2du_p;2nd Person Dual;54194;;;;chim1309;amaya-1996
-attaʔra;;2pl_a;2nd Person Plural;54193;;;;chim1309;amaya-1996
-attaʔra;;2pl_s;2nd Person Plural;54192;;;;chim1309;amaya-1996
-attaʔra;;2pl_o;2nd Person Plural;54191;;;;chim1309;amaya-1996
-maʔra-;;2pl_p;2nd Person Plural;54190;;;;chim1309;amaya-1996
-noggwe;;3sg_m_a;3rd Person Singular Masculine;54189;;;;chim1309;amaya-1996
-noggwe;;3sg_m_s;3rd Person Singular Masculine;54188;;;;chim1309;amaya-1996
-noggwe;;3sg_m_o;3rd Person Singular Masculine;54187;;;;chim1309;amaya-1996
-niʰ-;;3sg_m_p;3rd Person Singular Masculine;54186;;;;chim1309;amaya-1996
-noggwe;;3sg_n_a;3rd Person Singular Neuter;54185;;;;chim1309;amaya-1996
-noggwe;;3sg_n_s;3rd Person Singular Neuter;54184;;;;chim1309;amaya-1996
-noggwe;;3sg_n_o;3rd Person Singular Neuter;54183;;;;chim1309;amaya-1996
-niʰ-;;3sg_n_p;3rd Person Singular Neuter;54182;;;;chim1309;amaya-1996
-aaʔrigwe;;3d-a;3rd Person Dual;54181;;;;chim1309;amaya-1996
-aaʔrigwe;;3d-s;3rd Person Dual;54180;;;;chim1309;amaya-1996
-aaʔrigwe;;3d-o;3rd Person Dual;54179;;;;chim1309;amaya-1996
-ni-;;3d-p;3rd Person Dual;54178;;;;chim1309;amaya-1996
-noggweʔra;;3p-a;3rd Person Plural;54177;;;;chim1309;amaya-1996
-noggweʔra;;3p-s;3rd Person Plural;54176;;;;chim1309;amaya-1996
-noggweʔra;;3p-o;3rd Person Plural;54175;;;;chim1309;amaya-1996
-niʰne-;;3p-p;3rd Person Plural;54174;;;;chim1309;amaya-1996
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+naaʔri,,1sg_a,1st (excl) Person Singular,54221,,,,chim1309,amaya-1996
+naaʔri,,1sg_s,1st (excl) Person Singular,54220,,,,chim1309,amaya-1996
+naaʔri,,1sg_o,1st (excl) Person Singular,54219,,,,chim1309,amaya-1996
+naʔ-,,1sg_p,1st (excl) Person Singular,54218,,,,chim1309,amaya-1996
+naʔraʔ,,1du_a,1st (excl) Person Dual,54217,,,,chim1309,amaya-1996
+naʔraʔ,,1du_s,1st (excl) Person Dual,54216,,,,chim1309,amaya-1996
+naʔraʔ,,1du_o,1st (excl) Person Dual,54215,,,,chim1309,amaya-1996
+na-,,1du_p,1st (excl) Person Dual,54214,,,,chim1309,amaya-1996
+nuʔranaʔriʔra,,1pl_a,1st (excl) Person Plural,54213,,,,chim1309,amaya-1996
+nuʔranaʔriʔra,,1pl_s,1st (excl) Person Plural,54212,,,,chim1309,amaya-1996
+nuʔranaʔriʔra,,1pl_o,1st (excl) Person Plural,54211,,,,chim1309,amaya-1996
+naʔra-,,1pl_p,1st (excl) Person Plural,54210,,,,chim1309,amaya-1996
+naʔraʔ,,12du_a,1st (incl) Person Dual,54209,,,,chim1309,amaya-1996
+naʔraʔ,,12du_s,1st (incl) Person Dual,54208,,,,chim1309,amaya-1996
+naʔraʔ,,12du_o,1st (incl) Person Dual,54207,,,,chim1309,amaya-1996
+na-,,12du_p,1st (incl) Person Dual,54206,,,,chim1309,amaya-1996
+nuʔranaʔriʔra,,12pl_a,1st (incl) Person Plural,54205,,,,chim1309,amaya-1996
+nuʔranaʔriʔra,,12pl_s,1st (incl) Person Plural,54204,,,,chim1309,amaya-1996
+nuʔranaʔriʔra,,12pl_o,1st (incl) Person Plural,54203,,,,chim1309,amaya-1996
+naʔra-,,12pl_p,1st (incl) Person Plural,54202,,,,chim1309,amaya-1996
+amma~atta,,2sg_a,2nd Person Singular,54201,,,,chim1309,amaya-1996
+amma~atta,,2sg_s,2nd Person Singular,54200,,,,chim1309,amaya-1996
+amma~atta,,2sg_o,2nd Person Singular,54199,,,,chim1309,amaya-1996
+maʔ-,,2sg_p,2nd Person Singular,54198,,,,chim1309,amaya-1996
+ammaʔra,,2du_a,2nd Person Dual,54197,,,,chim1309,amaya-1996
+ammaʔra,,2du_s,2nd Person Dual,54196,,,,chim1309,amaya-1996
+ammaʔra,,2du_o,2nd Person Dual,54195,,,,chim1309,amaya-1996
+ma-,,2du_p,2nd Person Dual,54194,,,,chim1309,amaya-1996
+attaʔra,,2pl_a,2nd Person Plural,54193,,,,chim1309,amaya-1996
+attaʔra,,2pl_s,2nd Person Plural,54192,,,,chim1309,amaya-1996
+attaʔra,,2pl_o,2nd Person Plural,54191,,,,chim1309,amaya-1996
+maʔra-,,2pl_p,2nd Person Plural,54190,,,,chim1309,amaya-1996
+noggwe,,3sg_m_a,3rd Person Singular Masculine,54189,,,,chim1309,amaya-1996
+noggwe,,3sg_m_s,3rd Person Singular Masculine,54188,,,,chim1309,amaya-1996
+noggwe,,3sg_m_o,3rd Person Singular Masculine,54187,,,,chim1309,amaya-1996
+niʰ-,,3sg_m_p,3rd Person Singular Masculine,54186,,,,chim1309,amaya-1996
+noggwe,,3sg_n_a,3rd Person Singular Neuter,54185,,,,chim1309,amaya-1996
+noggwe,,3sg_n_s,3rd Person Singular Neuter,54184,,,,chim1309,amaya-1996
+noggwe,,3sg_n_o,3rd Person Singular Neuter,54183,,,,chim1309,amaya-1996
+niʰ-,,3sg_n_p,3rd Person Singular Neuter,54182,,,,chim1309,amaya-1996
+aaʔrigwe,,3d-a,3rd Person Dual,54181,,,,chim1309,amaya-1996
+aaʔrigwe,,3d-s,3rd Person Dual,54180,,,,chim1309,amaya-1996
+aaʔrigwe,,3d-o,3rd Person Dual,54179,,,,chim1309,amaya-1996
+ni-,,3d-p,3rd Person Dual,54178,,,,chim1309,amaya-1996
+noggweʔra,,3p-a,3rd Person Plural,54177,,,,chim1309,amaya-1996
+noggweʔra,,3p-s,3rd Person Plural,54176,,,,chim1309,amaya-1996
+noggweʔra,,3p-o,3rd Person Plural,54175,,,,chim1309,amaya-1996
+niʰne-,,3p-p,3rd Person Plural,54174,,,,chim1309,amaya-1996

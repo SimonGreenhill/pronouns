@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-taja;;1sg_a;1st (excl) Person Singular;53082;;;;wayu1243;mansen-and-captain-2000
-taja;;1sg_s;1st (excl) Person Singular;53081;;;;wayu1243;mansen-and-captain-2000
-taja;;1sg_o;1st (excl) Person Singular;53080;;;;wayu1243;mansen-and-captain-2000
-ta-;;1sg_p;1st (excl) Person Singular;53079;;;;wayu1243;mansen-and-captain-2000
-waja;;1du_a;1st (excl) Person Dual;53078;;;;wayu1243;mansen-and-captain-2000
-waja;;1du_s;1st (excl) Person Dual;53077;;;;wayu1243;mansen-and-captain-2000
-waja;;1du_o;1st (excl) Person Dual;53076;;;;wayu1243;mansen-and-captain-2000
-wa-;;1du_p;1st (excl) Person Dual;53075;;;;wayu1243;mansen-and-captain-2000
-waja;;1pl_a;1st (excl) Person Plural;53074;;;;wayu1243;mansen-and-captain-2000
-waja;;1pl_s;1st (excl) Person Plural;53073;;;;wayu1243;mansen-and-captain-2000
-waja;;1pl_o;1st (excl) Person Plural;53072;;;;wayu1243;mansen-and-captain-2000
-wa-;;1pl_p;1st (excl) Person Plural;53071;;;;wayu1243;mansen-and-captain-2000
-waja;;12du_a;1st (incl) Person Dual;53070;;;;wayu1243;mansen-and-captain-2000
-waja;;12du_s;1st (incl) Person Dual;53069;;;;wayu1243;mansen-and-captain-2000
-waja;;12du_o;1st (incl) Person Dual;53068;;;;wayu1243;mansen-and-captain-2000
-wa-;;12du_p;1st (incl) Person Dual;53067;;;;wayu1243;mansen-and-captain-2000
-waja;;12pl_a;1st (incl) Person Plural;53066;;;;wayu1243;mansen-and-captain-2000
-waja;;12pl_s;1st (incl) Person Plural;53065;;;;wayu1243;mansen-and-captain-2000
-waja;;12pl_o;1st (incl) Person Plural;53064;;;;wayu1243;mansen-and-captain-2000
-wa-;;12pl_p;1st (incl) Person Plural;53063;;;;wayu1243;mansen-and-captain-2000
-pia;;2sg_a;2nd Person Singular;53062;;;;wayu1243;mansen-and-captain-2000
-pia;;2sg_s;2nd Person Singular;53061;;;;wayu1243;mansen-and-captain-2000
-pia;;2sg_o;2nd Person Singular;53060;;;;wayu1243;mansen-and-captain-2000
-pɨ-;;2sg_p;2nd Person Singular;53059;;;;wayu1243;mansen-and-captain-2000
-hia;;2du_a;2nd Person Dual;53058;;;;wayu1243;mansen-and-captain-2000
-hia;;2du_s;2nd Person Dual;53057;;;;wayu1243;mansen-and-captain-2000
-hia;;2du_o;2nd Person Dual;53056;;;;wayu1243;mansen-and-captain-2000
-hɨ-;;2du_p;2nd Person Dual;53055;;;;wayu1243;mansen-and-captain-2000
-hia;;2pl_a;2nd Person Plural;53054;;;;wayu1243;mansen-and-captain-2000
-hia;;2pl_s;2nd Person Plural;53053;;;;wayu1243;mansen-and-captain-2000
-hia;;2pl_o;2nd Person Plural;53052;;;;wayu1243;mansen-and-captain-2000
-hɨ-;;2pl_p;2nd Person Plural;53051;;;;wayu1243;mansen-and-captain-2000
-nia;;3sg_m_a;3rd Person Singular Masculine;53050;;;;wayu1243;mansen-and-captain-2000
-nia;;3sg_m_s;3rd Person Singular Masculine;53049;;;;wayu1243;mansen-and-captain-2000
-nia;;3sg_m_o;3rd Person Singular Masculine;53048;;;;wayu1243;mansen-and-captain-2000
-nɨ-;;3sg_m_p;3rd Person Singular Masculine;53047;;;;wayu1243;mansen-and-captain-2000
-ʃia;;3sg_n_a;3rd Person Singular Neuter;53046;;;;wayu1243;mansen-and-captain-2000
-ʃia;;3sg_n_s;3rd Person Singular Neuter;53045;;;;wayu1243;mansen-and-captain-2000
-ʃia;;3sg_n_o;3rd Person Singular Neuter;53044;;;;wayu1243;mansen-and-captain-2000
-sɨ-;;3sg_n_p;3rd Person Singular Neuter;53043;;;;wayu1243;mansen-and-captain-2000
-naja;;3d-a;3rd Person Dual;53042;;;;wayu1243;mansen-and-captain-2000
-naja;;3d-s;3rd Person Dual;53041;;;;wayu1243;mansen-and-captain-2000
-naja;;3d-o;3rd Person Dual;53040;;;;wayu1243;mansen-and-captain-2000
-na-;;3d-p;3rd Person Dual;53039;;;;wayu1243;mansen-and-captain-2000
-naja;;3p-a;3rd Person Plural;53038;;;;wayu1243;mansen-and-captain-2000
-naja;;3p-s;3rd Person Plural;53037;;;;wayu1243;mansen-and-captain-2000
-naja;;3p-o;3rd Person Plural;53036;;;;wayu1243;mansen-and-captain-2000
-na-;;3p-p;3rd Person Plural;53035;;;;wayu1243;mansen-and-captain-2000
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+taja,,1sg_a,1st (excl) Person Singular,53082,,,,wayu1243,mansen-and-captain-2000
+taja,,1sg_s,1st (excl) Person Singular,53081,,,,wayu1243,mansen-and-captain-2000
+taja,,1sg_o,1st (excl) Person Singular,53080,,,,wayu1243,mansen-and-captain-2000
+ta-,,1sg_p,1st (excl) Person Singular,53079,,,,wayu1243,mansen-and-captain-2000
+waja,,1du_a,1st (excl) Person Dual,53078,,,,wayu1243,mansen-and-captain-2000
+waja,,1du_s,1st (excl) Person Dual,53077,,,,wayu1243,mansen-and-captain-2000
+waja,,1du_o,1st (excl) Person Dual,53076,,,,wayu1243,mansen-and-captain-2000
+wa-,,1du_p,1st (excl) Person Dual,53075,,,,wayu1243,mansen-and-captain-2000
+waja,,1pl_a,1st (excl) Person Plural,53074,,,,wayu1243,mansen-and-captain-2000
+waja,,1pl_s,1st (excl) Person Plural,53073,,,,wayu1243,mansen-and-captain-2000
+waja,,1pl_o,1st (excl) Person Plural,53072,,,,wayu1243,mansen-and-captain-2000
+wa-,,1pl_p,1st (excl) Person Plural,53071,,,,wayu1243,mansen-and-captain-2000
+waja,,12du_a,1st (incl) Person Dual,53070,,,,wayu1243,mansen-and-captain-2000
+waja,,12du_s,1st (incl) Person Dual,53069,,,,wayu1243,mansen-and-captain-2000
+waja,,12du_o,1st (incl) Person Dual,53068,,,,wayu1243,mansen-and-captain-2000
+wa-,,12du_p,1st (incl) Person Dual,53067,,,,wayu1243,mansen-and-captain-2000
+waja,,12pl_a,1st (incl) Person Plural,53066,,,,wayu1243,mansen-and-captain-2000
+waja,,12pl_s,1st (incl) Person Plural,53065,,,,wayu1243,mansen-and-captain-2000
+waja,,12pl_o,1st (incl) Person Plural,53064,,,,wayu1243,mansen-and-captain-2000
+wa-,,12pl_p,1st (incl) Person Plural,53063,,,,wayu1243,mansen-and-captain-2000
+pia,,2sg_a,2nd Person Singular,53062,,,,wayu1243,mansen-and-captain-2000
+pia,,2sg_s,2nd Person Singular,53061,,,,wayu1243,mansen-and-captain-2000
+pia,,2sg_o,2nd Person Singular,53060,,,,wayu1243,mansen-and-captain-2000
+pɨ-,,2sg_p,2nd Person Singular,53059,,,,wayu1243,mansen-and-captain-2000
+hia,,2du_a,2nd Person Dual,53058,,,,wayu1243,mansen-and-captain-2000
+hia,,2du_s,2nd Person Dual,53057,,,,wayu1243,mansen-and-captain-2000
+hia,,2du_o,2nd Person Dual,53056,,,,wayu1243,mansen-and-captain-2000
+hɨ-,,2du_p,2nd Person Dual,53055,,,,wayu1243,mansen-and-captain-2000
+hia,,2pl_a,2nd Person Plural,53054,,,,wayu1243,mansen-and-captain-2000
+hia,,2pl_s,2nd Person Plural,53053,,,,wayu1243,mansen-and-captain-2000
+hia,,2pl_o,2nd Person Plural,53052,,,,wayu1243,mansen-and-captain-2000
+hɨ-,,2pl_p,2nd Person Plural,53051,,,,wayu1243,mansen-and-captain-2000
+nia,,3sg_m_a,3rd Person Singular Masculine,53050,,,,wayu1243,mansen-and-captain-2000
+nia,,3sg_m_s,3rd Person Singular Masculine,53049,,,,wayu1243,mansen-and-captain-2000
+nia,,3sg_m_o,3rd Person Singular Masculine,53048,,,,wayu1243,mansen-and-captain-2000
+nɨ-,,3sg_m_p,3rd Person Singular Masculine,53047,,,,wayu1243,mansen-and-captain-2000
+ʃia,,3sg_n_a,3rd Person Singular Neuter,53046,,,,wayu1243,mansen-and-captain-2000
+ʃia,,3sg_n_s,3rd Person Singular Neuter,53045,,,,wayu1243,mansen-and-captain-2000
+ʃia,,3sg_n_o,3rd Person Singular Neuter,53044,,,,wayu1243,mansen-and-captain-2000
+sɨ-,,3sg_n_p,3rd Person Singular Neuter,53043,,,,wayu1243,mansen-and-captain-2000
+naja,,3d-a,3rd Person Dual,53042,,,,wayu1243,mansen-and-captain-2000
+naja,,3d-s,3rd Person Dual,53041,,,,wayu1243,mansen-and-captain-2000
+naja,,3d-o,3rd Person Dual,53040,,,,wayu1243,mansen-and-captain-2000
+na-,,3d-p,3rd Person Dual,53039,,,,wayu1243,mansen-and-captain-2000
+naja,,3p-a,3rd Person Plural,53038,,,,wayu1243,mansen-and-captain-2000
+naja,,3p-s,3rd Person Plural,53037,,,,wayu1243,mansen-and-captain-2000
+naja,,3p-o,3rd Person Plural,53036,,,,wayu1243,mansen-and-captain-2000
+na-,,3p-p,3rd Person Plural,53035,,,,wayu1243,mansen-and-captain-2000

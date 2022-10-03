@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-N;;1sg_a;1st (excl) Person Singular;58348;;;;mamp1244;kropp-dakubu-1980
-N;;1sg_s;1st (excl) Person Singular;58347;;;;mamp1244;kropp-dakubu-1980
-ma;;1sg_o;1st (excl) Person Singular;58346;;;;mamp1244;kropp-dakubu-1980
-N;;1sg_p;1st (excl) Person Singular;58345;;;;mamp1244;kropp-dakubu-1980
-tɩ;;1du_a;1st (excl) Person Dual;58344;;;;mamp1244;kropp-dakubu-1980
-tɩ;;1du_s;1st (excl) Person Dual;58343;;;;mamp1244;kropp-dakubu-1980
-tɩ;;1du_o;1st (excl) Person Dual;58342;;;;mamp1244;kropp-dakubu-1980
-tɩ;;1du_p;1st (excl) Person Dual;58341;;;;mamp1244;kropp-dakubu-1980
-tɩ;;1pl_a;1st (excl) Person Plural;58340;;;;mamp1244;kropp-dakubu-1980
-tɩ;;1pl_s;1st (excl) Person Plural;58339;;;;mamp1244;kropp-dakubu-1980
-tɩ;;1pl_o;1st (excl) Person Plural;58338;;;;mamp1244;kropp-dakubu-1980
-tɩ;;1pl_p;1st (excl) Person Plural;58337;;;;mamp1244;kropp-dakubu-1980
-tɩ;;12du_a;1st (incl) Person Dual;58336;;;;mamp1244;kropp-dakubu-1980
-tɩ;;12du_s;1st (incl) Person Dual;58335;;;;mamp1244;kropp-dakubu-1980
-tɩ;;12du_o;1st (incl) Person Dual;58334;;;;mamp1244;kropp-dakubu-1980
-tɩ;;12du_p;1st (incl) Person Dual;58333;;;;mamp1244;kropp-dakubu-1980
-tɩ;;12pl_a;1st (incl) Person Plural;58332;;;;mamp1244;kropp-dakubu-1980
-tɩ;;12pl_s;1st (incl) Person Plural;58331;;;;mamp1244;kropp-dakubu-1980
-tɩ;;12pl_o;1st (incl) Person Plural;58330;;;;mamp1244;kropp-dakubu-1980
-tɩ;;12pl_p;1st (incl) Person Plural;58329;;;;mamp1244;kropp-dakubu-1980
-i;;2sg_a;2nd Person Singular;58328;;;;mamp1244;kropp-dakubu-1980
-i;;2sg_s;2nd Person Singular;58327;;;;mamp1244;kropp-dakubu-1980
-yi;;2sg_o;2nd Person Singular;58326;;;;mamp1244;kropp-dakubu-1980
-i;;2sg_p;2nd Person Singular;58325;;;;mamp1244;kropp-dakubu-1980
-ya;;2du_a;2nd Person Dual;58324;;;;mamp1244;kropp-dakubu-1980
-ya;;2du_s;2nd Person Dual;58323;;;;mamp1244;kropp-dakubu-1980
-ya;;2du_o;2nd Person Dual;58322;;;;mamp1244;kropp-dakubu-1980
-ya;;2du_p;2nd Person Dual;58321;;;;mamp1244;kropp-dakubu-1980
-ya;;2pl_a;2nd Person Plural;58320;;;;mamp1244;kropp-dakubu-1980
-ya;;2pl_s;2nd Person Plural;58319;;;;mamp1244;kropp-dakubu-1980
-ya;;2pl_o;2nd Person Plural;58318;;;;mamp1244;kropp-dakubu-1980
-ya;;2pl_p;2nd Person Plural;58317;;;;mamp1244;kropp-dakubu-1980
-u;;3sg_m_a;3rd Person Singular Masculine;58316;;;;mamp1244;kropp-dakubu-1980
-u;;3sg_m_s;3rd Person Singular Masculine;58315;;;;mamp1244;kropp-dakubu-1980
-u;;3sg_m_o;3rd Person Singular Masculine;58314;;;;mamp1244;kropp-dakubu-1980
-u;;3sg_m_p;3rd Person Singular Masculine;58313;;;;mamp1244;kropp-dakubu-1980
-ka;;3sg_n_a;3rd Person Singular Neuter;58312;;;;mamp1244;kropp-dakubu-1980
-ka;;3sg_n_s;3rd Person Singular Neuter;58311;;;;mamp1244;kropp-dakubu-1980
-ka;;3sg_n_o;3rd Person Singular Neuter;58310;;;;mamp1244;kropp-dakubu-1980
-ka;;3sg_n_p;3rd Person Singular Neuter;58309;;;;mamp1244;kropp-dakubu-1980
-ba;;3d-a;3rd Person Dual;58308;;;;mamp1244;kropp-dakubu-1980
-ba;;3d-s;3rd Person Dual;58307;;;;mamp1244;kropp-dakubu-1980
-ba;;3d-o;3rd Person Dual;58306;;;;mamp1244;kropp-dakubu-1980
-ba;;3d-p;3rd Person Dual;58305;;;;mamp1244;kropp-dakubu-1980
-ba;;3p-a;3rd Person Plural;58304;;;;mamp1244;kropp-dakubu-1980
-ba;;3p-s;3rd Person Plural;58303;;;;mamp1244;kropp-dakubu-1980
-ba;;3p-o;3rd Person Plural;58302;;;;mamp1244;kropp-dakubu-1980
-ba;;3p-p;3rd Person Plural;58301;;;;mamp1244;kropp-dakubu-1980
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+N,,1sg_a,1st (excl) Person Singular,58348,,,,mamp1244,kropp-dakubu-1980
+N,,1sg_s,1st (excl) Person Singular,58347,,,,mamp1244,kropp-dakubu-1980
+ma,,1sg_o,1st (excl) Person Singular,58346,,,,mamp1244,kropp-dakubu-1980
+N,,1sg_p,1st (excl) Person Singular,58345,,,,mamp1244,kropp-dakubu-1980
+tɩ,,1du_a,1st (excl) Person Dual,58344,,,,mamp1244,kropp-dakubu-1980
+tɩ,,1du_s,1st (excl) Person Dual,58343,,,,mamp1244,kropp-dakubu-1980
+tɩ,,1du_o,1st (excl) Person Dual,58342,,,,mamp1244,kropp-dakubu-1980
+tɩ,,1du_p,1st (excl) Person Dual,58341,,,,mamp1244,kropp-dakubu-1980
+tɩ,,1pl_a,1st (excl) Person Plural,58340,,,,mamp1244,kropp-dakubu-1980
+tɩ,,1pl_s,1st (excl) Person Plural,58339,,,,mamp1244,kropp-dakubu-1980
+tɩ,,1pl_o,1st (excl) Person Plural,58338,,,,mamp1244,kropp-dakubu-1980
+tɩ,,1pl_p,1st (excl) Person Plural,58337,,,,mamp1244,kropp-dakubu-1980
+tɩ,,12du_a,1st (incl) Person Dual,58336,,,,mamp1244,kropp-dakubu-1980
+tɩ,,12du_s,1st (incl) Person Dual,58335,,,,mamp1244,kropp-dakubu-1980
+tɩ,,12du_o,1st (incl) Person Dual,58334,,,,mamp1244,kropp-dakubu-1980
+tɩ,,12du_p,1st (incl) Person Dual,58333,,,,mamp1244,kropp-dakubu-1980
+tɩ,,12pl_a,1st (incl) Person Plural,58332,,,,mamp1244,kropp-dakubu-1980
+tɩ,,12pl_s,1st (incl) Person Plural,58331,,,,mamp1244,kropp-dakubu-1980
+tɩ,,12pl_o,1st (incl) Person Plural,58330,,,,mamp1244,kropp-dakubu-1980
+tɩ,,12pl_p,1st (incl) Person Plural,58329,,,,mamp1244,kropp-dakubu-1980
+i,,2sg_a,2nd Person Singular,58328,,,,mamp1244,kropp-dakubu-1980
+i,,2sg_s,2nd Person Singular,58327,,,,mamp1244,kropp-dakubu-1980
+yi,,2sg_o,2nd Person Singular,58326,,,,mamp1244,kropp-dakubu-1980
+i,,2sg_p,2nd Person Singular,58325,,,,mamp1244,kropp-dakubu-1980
+ya,,2du_a,2nd Person Dual,58324,,,,mamp1244,kropp-dakubu-1980
+ya,,2du_s,2nd Person Dual,58323,,,,mamp1244,kropp-dakubu-1980
+ya,,2du_o,2nd Person Dual,58322,,,,mamp1244,kropp-dakubu-1980
+ya,,2du_p,2nd Person Dual,58321,,,,mamp1244,kropp-dakubu-1980
+ya,,2pl_a,2nd Person Plural,58320,,,,mamp1244,kropp-dakubu-1980
+ya,,2pl_s,2nd Person Plural,58319,,,,mamp1244,kropp-dakubu-1980
+ya,,2pl_o,2nd Person Plural,58318,,,,mamp1244,kropp-dakubu-1980
+ya,,2pl_p,2nd Person Plural,58317,,,,mamp1244,kropp-dakubu-1980
+u,,3sg_m_a,3rd Person Singular Masculine,58316,,,,mamp1244,kropp-dakubu-1980
+u,,3sg_m_s,3rd Person Singular Masculine,58315,,,,mamp1244,kropp-dakubu-1980
+u,,3sg_m_o,3rd Person Singular Masculine,58314,,,,mamp1244,kropp-dakubu-1980
+u,,3sg_m_p,3rd Person Singular Masculine,58313,,,,mamp1244,kropp-dakubu-1980
+ka,,3sg_n_a,3rd Person Singular Neuter,58312,,,,mamp1244,kropp-dakubu-1980
+ka,,3sg_n_s,3rd Person Singular Neuter,58311,,,,mamp1244,kropp-dakubu-1980
+ka,,3sg_n_o,3rd Person Singular Neuter,58310,,,,mamp1244,kropp-dakubu-1980
+ka,,3sg_n_p,3rd Person Singular Neuter,58309,,,,mamp1244,kropp-dakubu-1980
+ba,,3d-a,3rd Person Dual,58308,,,,mamp1244,kropp-dakubu-1980
+ba,,3d-s,3rd Person Dual,58307,,,,mamp1244,kropp-dakubu-1980
+ba,,3d-o,3rd Person Dual,58306,,,,mamp1244,kropp-dakubu-1980
+ba,,3d-p,3rd Person Dual,58305,,,,mamp1244,kropp-dakubu-1980
+ba,,3p-a,3rd Person Plural,58304,,,,mamp1244,kropp-dakubu-1980
+ba,,3p-s,3rd Person Plural,58303,,,,mamp1244,kropp-dakubu-1980
+ba,,3p-o,3rd Person Plural,58302,,,,mamp1244,kropp-dakubu-1980
+ba,,3p-p,3rd Person Plural,58301,,,,mamp1244,kropp-dakubu-1980

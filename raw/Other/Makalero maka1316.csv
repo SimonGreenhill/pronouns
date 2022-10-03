@@ -1,122 +1,122 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ani;;1sg_a;1st (excl) Person Singular;33668;;;;maka1316;huber-2011
-ani;;1sg_s;1st (excl) Person Singular;33669;;;;maka1316;huber-2011
-ani;;1sg_o;1st (excl) Person Singular;33670;;;;maka1316;huber-2011
-asi-;;1sg_p;1st (excl) Person Singular;33671;;;;maka1316;huber-2011
-ini;;1du_a;1st (excl) Person Dual;33672;;;;maka1316;huber-2011
-ini;;1du_s;1st (excl) Person Dual;33673;;;;maka1316;huber-2011
-ini;;1du_o;1st (excl) Person Dual;33674;;;;maka1316;huber-2011
-isi-;;1du_p;1st (excl) Person Dual;33675;;;;maka1316;huber-2011
-ini;;1pl_a;1st (excl) Person Plural;33676;;;;maka1316;huber-2011
-ini;;1pl_s;1st (excl) Person Plural;33677;;;;maka1316;huber-2011
-ini;;1pl_o;1st (excl) Person Plural;33678;;;;maka1316;huber-2011
-isi-;;1pl_p;1st (excl) Person Plural;33679;;;;maka1316;huber-2011
-fi;;12du_a;1st (incl) Person Dual;33680;;;;maka1316;huber-2011
-fi;;12du_s;1st (incl) Person Dual;33681;;;;maka1316;huber-2011
-fi;;12du_o;1st (incl) Person Dual;33682;;;;maka1316;huber-2011
-fi-;;12du_p;1st (incl) Person Dual;33683;;;;maka1316;huber-2011
-fi;;12pl_a;1st (incl) Person Plural;33684;;;;maka1316;huber-2011
-fi;;12pl_s;1st (incl) Person Plural;33685;;;;maka1316;huber-2011
-fi;;12pl_o;1st (incl) Person Plural;33686;;;;maka1316;huber-2011
-fi-;;12pl_p;1st (incl) Person Plural;33687;;;;maka1316;huber-2011
-ei;;2sg_a;2nd Person Singular;33688;;;;maka1316;huber-2011
-ei;;2sg_s;2nd Person Singular;33689;;;;maka1316;huber-2011
-ei;;2sg_o;2nd Person Singular;33690;;;;maka1316;huber-2011
-ei-;;2sg_p;2nd Person Singular;33691;;;;maka1316;huber-2011
-ii;;2du_a;2nd Person Dual;33692;;;;maka1316;huber-2011
-ii;;2du_s;2nd Person Dual;33693;;;;maka1316;huber-2011
-ii;;2du_o;2nd Person Dual;33694;;;;maka1316;huber-2011
-ii-;;2du_p;2nd Person Dual;33695;;;;maka1316;huber-2011
-ii;;2pl_a;2nd Person Plural;33696;;;;maka1316;huber-2011
-ii;;2pl_s;2nd Person Plural;33697;;;;maka1316;huber-2011
-ii;;2pl_o;2nd Person Plural;33698;;;;maka1316;huber-2011
-ii-;;2pl_p;2nd Person Plural;33699;;;;maka1316;huber-2011
-kiloo;;3sg_m_a;3rd Person Singular Masculine;33700;;;;maka1316;huber-2011
-iraku;;3sg_m_a;3rd Person Singular Masculine;33701;;;;maka1316;huber-2011
-kiloo;;3sg_m_s;3rd Person Singular Masculine;33702;;;;maka1316;huber-2011
-iraku;;3sg_m_s;3rd Person Singular Masculine;33703;;;;maka1316;huber-2011
-kiloo;;3sg_m_o;3rd Person Singular Masculine;33704;;;;maka1316;huber-2011
-iraku;;3sg_m_o;3rd Person Singular Masculine;33705;;;;maka1316;huber-2011
-ki-;;3sg_m_p;3rd Person Singular Masculine;33706;;;;maka1316;huber-2011
-kiloo;;3sg_f_a;3rd Person Singular Feminine;33707;;;;maka1316;huber-2011
-iraku;;3sg_f_a;3rd Person Singular Feminine;33708;;;;maka1316;huber-2011
-kiloo;;3sg_f_s;3rd Person Singular Feminine;33709;;;;maka1316;huber-2011
-iraku;;3sg_f_s;3rd Person Singular Feminine;33710;;;;maka1316;huber-2011
-kiloo;;3sg_f_o;3rd Person Singular Feminine;33711;;;;maka1316;huber-2011
-iraku;;3sg_f_o;3rd Person Singular Feminine;33712;;;;maka1316;huber-2011
-ki-;;3sg_f_p;3rd Person Singular Feminine;33713;;;;maka1316;huber-2011
-iraku;;3sg_n_a;3rd Person Singular Neuter;42475;;;;maka1316;huber-2011
-kiloo;;3sg_n_a;3rd Person Singular Neuter;42476;;;;maka1316;huber-2011
-iraku;;3sg_n_s;3rd Person Singular Neuter;42479;;;;maka1316;huber-2011
-kiloo;;3sg_n_s;3rd Person Singular Neuter;42480;;;;maka1316;huber-2011
-iraku;;3sg_n_o;3rd Person Singular Neuter;42477;;;;maka1316;huber-2011
-kiloo;;3sg_n_o;3rd Person Singular Neuter;42478;;;;maka1316;huber-2011
-ki-;;3sg_n_p;3rd Person Singular Neuter;33717;;;;maka1316;huber-2011
-kilooraa;;3du_m_a;3rd Person Dual Masculine;33718;;;;maka1316;huber-2011
-irakulaa;;3du_m_a;3rd Person Dual Masculine;33719;;;;maka1316;huber-2011
-uera(laa);;3du_m_a;3rd Person Dual Masculine;33720;;;;maka1316;huber-2011
-kilooraa;;3du_m_s;3rd Person Dual Masculine;33721;;;;maka1316;huber-2011
-irakulaa;;3du_m_s;3rd Person Dual Masculine;33722;;;;maka1316;huber-2011
-uera(laa);;3du_m_s;3rd Person Dual Masculine;33723;;;;maka1316;huber-2011
-kilooraa;;3du_m_o;3rd Person Dual Masculine;33724;;;;maka1316;huber-2011
-irakulaa;;3du_m_o;3rd Person Dual Masculine;33725;;;;maka1316;huber-2011
-uera(laa);;3du_m_o;3rd Person Dual Masculine;33726;;;;maka1316;huber-2011
-ki-;;3du_m_p;3rd Person Dual Masculine;33727;;;;maka1316;huber-2011
-kilooraa;;3du_f_a;3rd Person Dual Feminine;33728;;;;maka1316;huber-2011
-irakulaa;;3du_f_a;3rd Person Dual Feminine;33729;;;;maka1316;huber-2011
-uera(laa);;3du_f_a;3rd Person Dual Feminine;33730;;;;maka1316;huber-2011
-kilooraa;;3du_f_s;3rd Person Dual Feminine;33731;;;;maka1316;huber-2011
-irakulaa;;3du_f_s;3rd Person Dual Feminine;33732;;;;maka1316;huber-2011
-uera(laa);;3du_f_s;3rd Person Dual Feminine;33733;;;;maka1316;huber-2011
-kilooraa;;3du_f_o;3rd Person Dual Feminine;33734;;;;maka1316;huber-2011
-irakulaa;;3du_f_o;3rd Person Dual Feminine;33735;;;;maka1316;huber-2011
-uera(laa);;3du_f_o;3rd Person Dual Feminine;33736;;;;maka1316;huber-2011
-ki-;;3du_f_p;3rd Person Dual Feminine;33737;;;;maka1316;huber-2011
--;;3du_n_a;3rd Person Dual Neuter;33738;;;;maka1316;huber-2011
--;;3du_n_s;3rd Person Dual Neuter;33739;;;;maka1316;huber-2011
--;;3du_n_o;3rd Person Dual Neuter;33740;;;;maka1316;huber-2011
--;;3du_n_p;3rd Person Dual Neuter;33741;;;;maka1316;huber-2011
-kilooraa;;3pl_m_a;3rd Person Plural Masculine;33742;;;;maka1316;huber-2011
-irakulaa;;3pl_m_a;3rd Person Plural Masculine;33743;;;;maka1316;huber-2011
-uera(laa);;3pl_m_a;3rd Person Plural Masculine;33744;;;;maka1316;huber-2011
-kilooraa;;3pl_m_s;3rd Person Plural Masculine;33745;;;;maka1316;huber-2011
-irakulaa;;3pl_m_s;3rd Person Plural Masculine;33746;;;;maka1316;huber-2011
-uera(laa);;3pl_m_s;3rd Person Plural Masculine;33747;;;;maka1316;huber-2011
-kilooraa;;3pl_m_o;3rd Person Plural Masculine;33748;;;;maka1316;huber-2011
-irakulaa;;3pl_m_o;3rd Person Plural Masculine;33749;;;;maka1316;huber-2011
-uera(laa);;3pl_m_o;3rd Person Plural Masculine;33750;;;;maka1316;huber-2011
-ki-;;3pl_m_p;3rd Person Plural Masculine;33751;;;;maka1316;huber-2011
-kilooraa;;3pl_f_a;3rd Person Plural Feminine;33752;;;;maka1316;huber-2011
-irakulaa;;3pl_f_a;3rd Person Plural Feminine;33753;;;;maka1316;huber-2011
-uera(laa);;3pl_f_a;3rd Person Plural Feminine;33754;;;;maka1316;huber-2011
-kilooraa;;3pl_f_s;3rd Person Plural Feminine;33755;;;;maka1316;huber-2011
-irakulaa;;3pl_f_s;3rd Person Plural Feminine;33756;;;;maka1316;huber-2011
-uera(laa);;3pl_f_s;3rd Person Plural Feminine;33757;;;;maka1316;huber-2011
-kilooraa;;3pl_f_o;3rd Person Plural Feminine;33758;;;;maka1316;huber-2011
-irakulaa;;3pl_f_o;3rd Person Plural Feminine;33759;;;;maka1316;huber-2011
-uera(laa);;3pl_f_o;3rd Person Plural Feminine;33760;;;;maka1316;huber-2011
-ki-;;3pl_f_p;3rd Person Plural Feminine;33761;;;;maka1316;huber-2011
--;;3pl_n_a;3rd Person Plural Neuter;33762;;;;maka1316;huber-2011
--;;3pl_n_s;3rd Person Plural Neuter;33763;;;;maka1316;huber-2011
--;;3pl_n_o;3rd Person Plural Neuter;33764;;;;maka1316;huber-2011
--;;3pl_n_p;3rd Person Plural Neuter;33765;;;;maka1316;huber-2011
-irakulaa;;3d-a;3rd Person Dual;36379;;;;maka1316;huber-2011
-kilooraa;;3d-a;3rd Person Dual;36380;;;;maka1316;huber-2011
-uera(laa);;3d-a;3rd Person Dual;36381;;;;maka1316;huber-2011
-irakulaa;;3d-s;3rd Person Dual;36606;;;;maka1316;huber-2011
-kilooraa;;3d-s;3rd Person Dual;36607;;;;maka1316;huber-2011
-uera(laa);;3d-s;3rd Person Dual;36608;;;;maka1316;huber-2011
-irakulaa;;3d-o;3rd Person Dual;36834;;;;maka1316;huber-2011
-kilooraa;;3d-o;3rd Person Dual;36835;;;;maka1316;huber-2011
-uera(laa);;3d-o;3rd Person Dual;36836;;;;maka1316;huber-2011
-ki-;;3d-p;3rd Person Dual;37050;;;;maka1316;huber-2011
-irakulaa;;3p-a;3rd Person Plural;37262;;;;maka1316;huber-2011
-kilooraa;;3p-a;3rd Person Plural;37263;;;;maka1316;huber-2011
-uera(laa);;3p-a;3rd Person Plural;37264;;;;maka1316;huber-2011
-irakulaa;;3p-s;3rd Person Plural;37488;;;;maka1316;huber-2011
-kilooraa;;3p-s;3rd Person Plural;37489;;;;maka1316;huber-2011
-uera(laa);;3p-s;3rd Person Plural;37490;;;;maka1316;huber-2011
-irakulaa;;3p-o;3rd Person Plural;37713;;;;maka1316;huber-2011
-kilooraa;;3p-o;3rd Person Plural;37714;;;;maka1316;huber-2011
-uera(laa);;3p-o;3rd Person Plural;37715;;;;maka1316;huber-2011
-ki-;;3p-p;3rd Person Plural;37927;;;;maka1316;huber-2011
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ani,,1sg_a,1st (excl) Person Singular,33668,,,,maka1316,huber-2011
+ani,,1sg_s,1st (excl) Person Singular,33669,,,,maka1316,huber-2011
+ani,,1sg_o,1st (excl) Person Singular,33670,,,,maka1316,huber-2011
+asi-,,1sg_p,1st (excl) Person Singular,33671,,,,maka1316,huber-2011
+ini,,1du_a,1st (excl) Person Dual,33672,,,,maka1316,huber-2011
+ini,,1du_s,1st (excl) Person Dual,33673,,,,maka1316,huber-2011
+ini,,1du_o,1st (excl) Person Dual,33674,,,,maka1316,huber-2011
+isi-,,1du_p,1st (excl) Person Dual,33675,,,,maka1316,huber-2011
+ini,,1pl_a,1st (excl) Person Plural,33676,,,,maka1316,huber-2011
+ini,,1pl_s,1st (excl) Person Plural,33677,,,,maka1316,huber-2011
+ini,,1pl_o,1st (excl) Person Plural,33678,,,,maka1316,huber-2011
+isi-,,1pl_p,1st (excl) Person Plural,33679,,,,maka1316,huber-2011
+fi,,12du_a,1st (incl) Person Dual,33680,,,,maka1316,huber-2011
+fi,,12du_s,1st (incl) Person Dual,33681,,,,maka1316,huber-2011
+fi,,12du_o,1st (incl) Person Dual,33682,,,,maka1316,huber-2011
+fi-,,12du_p,1st (incl) Person Dual,33683,,,,maka1316,huber-2011
+fi,,12pl_a,1st (incl) Person Plural,33684,,,,maka1316,huber-2011
+fi,,12pl_s,1st (incl) Person Plural,33685,,,,maka1316,huber-2011
+fi,,12pl_o,1st (incl) Person Plural,33686,,,,maka1316,huber-2011
+fi-,,12pl_p,1st (incl) Person Plural,33687,,,,maka1316,huber-2011
+ei,,2sg_a,2nd Person Singular,33688,,,,maka1316,huber-2011
+ei,,2sg_s,2nd Person Singular,33689,,,,maka1316,huber-2011
+ei,,2sg_o,2nd Person Singular,33690,,,,maka1316,huber-2011
+ei-,,2sg_p,2nd Person Singular,33691,,,,maka1316,huber-2011
+ii,,2du_a,2nd Person Dual,33692,,,,maka1316,huber-2011
+ii,,2du_s,2nd Person Dual,33693,,,,maka1316,huber-2011
+ii,,2du_o,2nd Person Dual,33694,,,,maka1316,huber-2011
+ii-,,2du_p,2nd Person Dual,33695,,,,maka1316,huber-2011
+ii,,2pl_a,2nd Person Plural,33696,,,,maka1316,huber-2011
+ii,,2pl_s,2nd Person Plural,33697,,,,maka1316,huber-2011
+ii,,2pl_o,2nd Person Plural,33698,,,,maka1316,huber-2011
+ii-,,2pl_p,2nd Person Plural,33699,,,,maka1316,huber-2011
+kiloo,,3sg_m_a,3rd Person Singular Masculine,33700,,,,maka1316,huber-2011
+iraku,,3sg_m_a,3rd Person Singular Masculine,33701,,,,maka1316,huber-2011
+kiloo,,3sg_m_s,3rd Person Singular Masculine,33702,,,,maka1316,huber-2011
+iraku,,3sg_m_s,3rd Person Singular Masculine,33703,,,,maka1316,huber-2011
+kiloo,,3sg_m_o,3rd Person Singular Masculine,33704,,,,maka1316,huber-2011
+iraku,,3sg_m_o,3rd Person Singular Masculine,33705,,,,maka1316,huber-2011
+ki-,,3sg_m_p,3rd Person Singular Masculine,33706,,,,maka1316,huber-2011
+kiloo,,3sg_f_a,3rd Person Singular Feminine,33707,,,,maka1316,huber-2011
+iraku,,3sg_f_a,3rd Person Singular Feminine,33708,,,,maka1316,huber-2011
+kiloo,,3sg_f_s,3rd Person Singular Feminine,33709,,,,maka1316,huber-2011
+iraku,,3sg_f_s,3rd Person Singular Feminine,33710,,,,maka1316,huber-2011
+kiloo,,3sg_f_o,3rd Person Singular Feminine,33711,,,,maka1316,huber-2011
+iraku,,3sg_f_o,3rd Person Singular Feminine,33712,,,,maka1316,huber-2011
+ki-,,3sg_f_p,3rd Person Singular Feminine,33713,,,,maka1316,huber-2011
+iraku,,3sg_n_a,3rd Person Singular Neuter,42475,,,,maka1316,huber-2011
+kiloo,,3sg_n_a,3rd Person Singular Neuter,42476,,,,maka1316,huber-2011
+iraku,,3sg_n_s,3rd Person Singular Neuter,42479,,,,maka1316,huber-2011
+kiloo,,3sg_n_s,3rd Person Singular Neuter,42480,,,,maka1316,huber-2011
+iraku,,3sg_n_o,3rd Person Singular Neuter,42477,,,,maka1316,huber-2011
+kiloo,,3sg_n_o,3rd Person Singular Neuter,42478,,,,maka1316,huber-2011
+ki-,,3sg_n_p,3rd Person Singular Neuter,33717,,,,maka1316,huber-2011
+kilooraa,,3du_m_a,3rd Person Dual Masculine,33718,,,,maka1316,huber-2011
+irakulaa,,3du_m_a,3rd Person Dual Masculine,33719,,,,maka1316,huber-2011
+uera(laa),,3du_m_a,3rd Person Dual Masculine,33720,,,,maka1316,huber-2011
+kilooraa,,3du_m_s,3rd Person Dual Masculine,33721,,,,maka1316,huber-2011
+irakulaa,,3du_m_s,3rd Person Dual Masculine,33722,,,,maka1316,huber-2011
+uera(laa),,3du_m_s,3rd Person Dual Masculine,33723,,,,maka1316,huber-2011
+kilooraa,,3du_m_o,3rd Person Dual Masculine,33724,,,,maka1316,huber-2011
+irakulaa,,3du_m_o,3rd Person Dual Masculine,33725,,,,maka1316,huber-2011
+uera(laa),,3du_m_o,3rd Person Dual Masculine,33726,,,,maka1316,huber-2011
+ki-,,3du_m_p,3rd Person Dual Masculine,33727,,,,maka1316,huber-2011
+kilooraa,,3du_f_a,3rd Person Dual Feminine,33728,,,,maka1316,huber-2011
+irakulaa,,3du_f_a,3rd Person Dual Feminine,33729,,,,maka1316,huber-2011
+uera(laa),,3du_f_a,3rd Person Dual Feminine,33730,,,,maka1316,huber-2011
+kilooraa,,3du_f_s,3rd Person Dual Feminine,33731,,,,maka1316,huber-2011
+irakulaa,,3du_f_s,3rd Person Dual Feminine,33732,,,,maka1316,huber-2011
+uera(laa),,3du_f_s,3rd Person Dual Feminine,33733,,,,maka1316,huber-2011
+kilooraa,,3du_f_o,3rd Person Dual Feminine,33734,,,,maka1316,huber-2011
+irakulaa,,3du_f_o,3rd Person Dual Feminine,33735,,,,maka1316,huber-2011
+uera(laa),,3du_f_o,3rd Person Dual Feminine,33736,,,,maka1316,huber-2011
+ki-,,3du_f_p,3rd Person Dual Feminine,33737,,,,maka1316,huber-2011
+-,,3du_n_a,3rd Person Dual Neuter,33738,,,,maka1316,huber-2011
+-,,3du_n_s,3rd Person Dual Neuter,33739,,,,maka1316,huber-2011
+-,,3du_n_o,3rd Person Dual Neuter,33740,,,,maka1316,huber-2011
+-,,3du_n_p,3rd Person Dual Neuter,33741,,,,maka1316,huber-2011
+kilooraa,,3pl_m_a,3rd Person Plural Masculine,33742,,,,maka1316,huber-2011
+irakulaa,,3pl_m_a,3rd Person Plural Masculine,33743,,,,maka1316,huber-2011
+uera(laa),,3pl_m_a,3rd Person Plural Masculine,33744,,,,maka1316,huber-2011
+kilooraa,,3pl_m_s,3rd Person Plural Masculine,33745,,,,maka1316,huber-2011
+irakulaa,,3pl_m_s,3rd Person Plural Masculine,33746,,,,maka1316,huber-2011
+uera(laa),,3pl_m_s,3rd Person Plural Masculine,33747,,,,maka1316,huber-2011
+kilooraa,,3pl_m_o,3rd Person Plural Masculine,33748,,,,maka1316,huber-2011
+irakulaa,,3pl_m_o,3rd Person Plural Masculine,33749,,,,maka1316,huber-2011
+uera(laa),,3pl_m_o,3rd Person Plural Masculine,33750,,,,maka1316,huber-2011
+ki-,,3pl_m_p,3rd Person Plural Masculine,33751,,,,maka1316,huber-2011
+kilooraa,,3pl_f_a,3rd Person Plural Feminine,33752,,,,maka1316,huber-2011
+irakulaa,,3pl_f_a,3rd Person Plural Feminine,33753,,,,maka1316,huber-2011
+uera(laa),,3pl_f_a,3rd Person Plural Feminine,33754,,,,maka1316,huber-2011
+kilooraa,,3pl_f_s,3rd Person Plural Feminine,33755,,,,maka1316,huber-2011
+irakulaa,,3pl_f_s,3rd Person Plural Feminine,33756,,,,maka1316,huber-2011
+uera(laa),,3pl_f_s,3rd Person Plural Feminine,33757,,,,maka1316,huber-2011
+kilooraa,,3pl_f_o,3rd Person Plural Feminine,33758,,,,maka1316,huber-2011
+irakulaa,,3pl_f_o,3rd Person Plural Feminine,33759,,,,maka1316,huber-2011
+uera(laa),,3pl_f_o,3rd Person Plural Feminine,33760,,,,maka1316,huber-2011
+ki-,,3pl_f_p,3rd Person Plural Feminine,33761,,,,maka1316,huber-2011
+-,,3pl_n_a,3rd Person Plural Neuter,33762,,,,maka1316,huber-2011
+-,,3pl_n_s,3rd Person Plural Neuter,33763,,,,maka1316,huber-2011
+-,,3pl_n_o,3rd Person Plural Neuter,33764,,,,maka1316,huber-2011
+-,,3pl_n_p,3rd Person Plural Neuter,33765,,,,maka1316,huber-2011
+irakulaa,,3d-a,3rd Person Dual,36379,,,,maka1316,huber-2011
+kilooraa,,3d-a,3rd Person Dual,36380,,,,maka1316,huber-2011
+uera(laa),,3d-a,3rd Person Dual,36381,,,,maka1316,huber-2011
+irakulaa,,3d-s,3rd Person Dual,36606,,,,maka1316,huber-2011
+kilooraa,,3d-s,3rd Person Dual,36607,,,,maka1316,huber-2011
+uera(laa),,3d-s,3rd Person Dual,36608,,,,maka1316,huber-2011
+irakulaa,,3d-o,3rd Person Dual,36834,,,,maka1316,huber-2011
+kilooraa,,3d-o,3rd Person Dual,36835,,,,maka1316,huber-2011
+uera(laa),,3d-o,3rd Person Dual,36836,,,,maka1316,huber-2011
+ki-,,3d-p,3rd Person Dual,37050,,,,maka1316,huber-2011
+irakulaa,,3p-a,3rd Person Plural,37262,,,,maka1316,huber-2011
+kilooraa,,3p-a,3rd Person Plural,37263,,,,maka1316,huber-2011
+uera(laa),,3p-a,3rd Person Plural,37264,,,,maka1316,huber-2011
+irakulaa,,3p-s,3rd Person Plural,37488,,,,maka1316,huber-2011
+kilooraa,,3p-s,3rd Person Plural,37489,,,,maka1316,huber-2011
+uera(laa),,3p-s,3rd Person Plural,37490,,,,maka1316,huber-2011
+irakulaa,,3p-o,3rd Person Plural,37713,,,,maka1316,huber-2011
+kilooraa,,3p-o,3rd Person Plural,37714,,,,maka1316,huber-2011
+uera(laa),,3p-o,3rd Person Plural,37715,,,,maka1316,huber-2011
+ki-,,3p-p,3rd Person Plural,37927,,,,maka1316,huber-2011

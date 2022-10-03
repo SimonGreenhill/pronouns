@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mæn;;1sg_a;1st (excl) Person Singular;43562;;;;west2369;mahootian-1997
-mæn;;1sg_s;1st (excl) Person Singular;43561;;;;west2369;mahootian-1997
-mæn;;1sg_o;1st (excl) Person Singular;43560;;;;west2369;mahootian-1997
-mæn;;1sg_p;1st (excl) Person Singular;43559;;;;west2369;mahootian-1997
-ma;;1du_a;1st (excl) Person Dual;43558;;;;west2369;mahootian-1997
-ma;;1du_s;1st (excl) Person Dual;43557;;;;west2369;mahootian-1997
-ma;;1du_o;1st (excl) Person Dual;43556;;;;west2369;mahootian-1997
-ma;;1du_p;1st (excl) Person Dual;43555;;;;west2369;mahootian-1997
-ma;;1pl_a;1st (excl) Person Plural;43554;;;;west2369;mahootian-1997
-ma;;1pl_s;1st (excl) Person Plural;43553;;;;west2369;mahootian-1997
-ma;;1pl_o;1st (excl) Person Plural;43552;;;;west2369;mahootian-1997
-ma;;1pl_p;1st (excl) Person Plural;43551;;;;west2369;mahootian-1997
-ma;;12du_a;1st (incl) Person Dual;43550;;;;west2369;mahootian-1997
-ma;;12du_s;1st (incl) Person Dual;43549;;;;west2369;mahootian-1997
-ma;;12du_o;1st (incl) Person Dual;43548;;;;west2369;mahootian-1997
-ma;;12du_p;1st (incl) Person Dual;43547;;;;west2369;mahootian-1997
-ma;;12pl_a;1st (incl) Person Plural;43546;;;;west2369;mahootian-1997
-ma;;12pl_s;1st (incl) Person Plural;43545;;;;west2369;mahootian-1997
-ma;;12pl_o;1st (incl) Person Plural;43544;;;;west2369;mahootian-1997
-ma;;12pl_p;1st (incl) Person Plural;58917;;;;west2369;mahootian-1997
-to;;2sg_a;2nd Person Singular;43543;;;;west2369;mahootian-1997
-to;;2sg_s;2nd Person Singular;43542;;;;west2369;mahootian-1997
-to;;2sg_o;2nd Person Singular;43541;;;;west2369;mahootian-1997
-to;;2sg_p;2nd Person Singular;43540;;;;west2369;mahootian-1997
-ʃoma;;2du_a;2nd Person Dual;43539;;This pronoun also functions as the 2sg formal form.;;west2369;mahootian-1997
-ʃoma;;2du_s;2nd Person Dual;43538;;This pronoun also functions as the 2sg formal form.;;west2369;mahootian-1997
-ʃoma;;2du_o;2nd Person Dual;43537;;This pronoun also functions as the 2sg formal form.;;west2369;mahootian-1997
-ʃoma;;2du_p;2nd Person Dual;43536;;This pronoun also functions as the 2sg formal form.;;west2369;mahootian-1997
-ʃoma;;2pl_a;2nd Person Plural;43535;;This pronoun also functions as the 2sg formal form.;;west2369;mahootian-1997
-ʃoma;;2pl_s;2nd Person Plural;43534;;This pronoun also functions as the 2sg formal form.;;west2369;mahootian-1997
-ʃoma;;2pl_o;2nd Person Plural;43533;;This pronoun also functions as the 2sg formal form.;;west2369;mahootian-1997
-ʃoma;;2pl_p;2nd Person Plural;43532;;This pronoun also functions as the 2sg formal form.;;west2369;mahootian-1997
-u;;3sg_m_a;3rd Person Singular Masculine;43531;;;;west2369;mahootian-1997
-u;;3sg_m_s;3rd Person Singular Masculine;43530;;;;west2369;mahootian-1997
-u;;3sg_m_o;3rd Person Singular Masculine;43529;;;;west2369;mahootian-1997
-u;;3sg_m_p;3rd Person Singular Masculine;43528;;;;west2369;mahootian-1997
-iʃun;;3sg_n_a;3rd Person Singular Neuter;43527;;;;west2369;mahootian-1997
-iʃun;;3sg_n_s;3rd Person Singular Neuter;43526;;;;west2369;mahootian-1997
-iʃun;;3sg_n_o;3rd Person Singular Neuter;43525;;;;west2369;mahootian-1997
-iʃun;;3sg_n_p;3rd Person Singular Neuter;43524;;;;west2369;mahootian-1997
-una;;3d-a;3rd Person Dual;43523;;;;west2369;mahootian-1997
-una;;3d-s;3rd Person Dual;43522;;;;west2369;mahootian-1997
-una;;3d-o;3rd Person Dual;43521;;;;west2369;mahootian-1997
-una;;3d-p;3rd Person Dual;43520;;;;west2369;mahootian-1997
-una;;3p-a;3rd Person Plural;43519;;;;west2369;mahootian-1997
-una ;;3p-s;3rd Person Plural;43518;;;;west2369;mahootian-1997
-una;;3p-o;3rd Person Plural;43517;;;;west2369;mahootian-1997
-una;;3p-p;3rd Person Plural;43516;;;;west2369;mahootian-1997
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mæn,,1sg_a,1st (excl) Person Singular,43562,,,,west2369,mahootian-1997
+mæn,,1sg_s,1st (excl) Person Singular,43561,,,,west2369,mahootian-1997
+mæn,,1sg_o,1st (excl) Person Singular,43560,,,,west2369,mahootian-1997
+mæn,,1sg_p,1st (excl) Person Singular,43559,,,,west2369,mahootian-1997
+ma,,1du_a,1st (excl) Person Dual,43558,,,,west2369,mahootian-1997
+ma,,1du_s,1st (excl) Person Dual,43557,,,,west2369,mahootian-1997
+ma,,1du_o,1st (excl) Person Dual,43556,,,,west2369,mahootian-1997
+ma,,1du_p,1st (excl) Person Dual,43555,,,,west2369,mahootian-1997
+ma,,1pl_a,1st (excl) Person Plural,43554,,,,west2369,mahootian-1997
+ma,,1pl_s,1st (excl) Person Plural,43553,,,,west2369,mahootian-1997
+ma,,1pl_o,1st (excl) Person Plural,43552,,,,west2369,mahootian-1997
+ma,,1pl_p,1st (excl) Person Plural,43551,,,,west2369,mahootian-1997
+ma,,12du_a,1st (incl) Person Dual,43550,,,,west2369,mahootian-1997
+ma,,12du_s,1st (incl) Person Dual,43549,,,,west2369,mahootian-1997
+ma,,12du_o,1st (incl) Person Dual,43548,,,,west2369,mahootian-1997
+ma,,12du_p,1st (incl) Person Dual,43547,,,,west2369,mahootian-1997
+ma,,12pl_a,1st (incl) Person Plural,43546,,,,west2369,mahootian-1997
+ma,,12pl_s,1st (incl) Person Plural,43545,,,,west2369,mahootian-1997
+ma,,12pl_o,1st (incl) Person Plural,43544,,,,west2369,mahootian-1997
+ma,,12pl_p,1st (incl) Person Plural,58917,,,,west2369,mahootian-1997
+to,,2sg_a,2nd Person Singular,43543,,,,west2369,mahootian-1997
+to,,2sg_s,2nd Person Singular,43542,,,,west2369,mahootian-1997
+to,,2sg_o,2nd Person Singular,43541,,,,west2369,mahootian-1997
+to,,2sg_p,2nd Person Singular,43540,,,,west2369,mahootian-1997
+ʃoma,,2du_a,2nd Person Dual,43539,,This pronoun also functions as the 2sg formal form.,,west2369,mahootian-1997
+ʃoma,,2du_s,2nd Person Dual,43538,,This pronoun also functions as the 2sg formal form.,,west2369,mahootian-1997
+ʃoma,,2du_o,2nd Person Dual,43537,,This pronoun also functions as the 2sg formal form.,,west2369,mahootian-1997
+ʃoma,,2du_p,2nd Person Dual,43536,,This pronoun also functions as the 2sg formal form.,,west2369,mahootian-1997
+ʃoma,,2pl_a,2nd Person Plural,43535,,This pronoun also functions as the 2sg formal form.,,west2369,mahootian-1997
+ʃoma,,2pl_s,2nd Person Plural,43534,,This pronoun also functions as the 2sg formal form.,,west2369,mahootian-1997
+ʃoma,,2pl_o,2nd Person Plural,43533,,This pronoun also functions as the 2sg formal form.,,west2369,mahootian-1997
+ʃoma,,2pl_p,2nd Person Plural,43532,,This pronoun also functions as the 2sg formal form.,,west2369,mahootian-1997
+u,,3sg_m_a,3rd Person Singular Masculine,43531,,,,west2369,mahootian-1997
+u,,3sg_m_s,3rd Person Singular Masculine,43530,,,,west2369,mahootian-1997
+u,,3sg_m_o,3rd Person Singular Masculine,43529,,,,west2369,mahootian-1997
+u,,3sg_m_p,3rd Person Singular Masculine,43528,,,,west2369,mahootian-1997
+iʃun,,3sg_n_a,3rd Person Singular Neuter,43527,,,,west2369,mahootian-1997
+iʃun,,3sg_n_s,3rd Person Singular Neuter,43526,,,,west2369,mahootian-1997
+iʃun,,3sg_n_o,3rd Person Singular Neuter,43525,,,,west2369,mahootian-1997
+iʃun,,3sg_n_p,3rd Person Singular Neuter,43524,,,,west2369,mahootian-1997
+una,,3d-a,3rd Person Dual,43523,,,,west2369,mahootian-1997
+una,,3d-s,3rd Person Dual,43522,,,,west2369,mahootian-1997
+una,,3d-o,3rd Person Dual,43521,,,,west2369,mahootian-1997
+una,,3d-p,3rd Person Dual,43520,,,,west2369,mahootian-1997
+una,,3p-a,3rd Person Plural,43519,,,,west2369,mahootian-1997
+una,,3p-s,3rd Person Plural,43518,,,,west2369,mahootian-1997
+una,,3p-o,3rd Person Plural,43517,,,,west2369,mahootian-1997
+una,,3p-p,3rd Person Plural,43516,,,,west2369,mahootian-1997

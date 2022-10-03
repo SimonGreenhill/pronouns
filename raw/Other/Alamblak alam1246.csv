@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nan;;1sg_a;1st (excl) Person Singular;41562;;;;alam1246;bruce-1984
-nan;;1sg_s;1st (excl) Person Singular;41561;;;;alam1246;bruce-1984
-nan;;1sg_o;1st (excl) Person Singular;41560;;;;alam1246;bruce-1984
-nanho;;1sg_p;1st (excl) Person Singular;41559;;;;alam1246;bruce-1984
-nën;;1du_a;1st (excl) Person Dual;41558;;;;alam1246;bruce-1984
-nën;;1du_s;1st (excl) Person Dual;41557;;;;alam1246;bruce-1984
-nën;;1du_o;1st (excl) Person Dual;41556;;;;alam1246;bruce-1984
-nënoh;;1du_p;1st (excl) Person Dual;41555;;;;alam1246;bruce-1984
-nëm;;1pl_a;1st (excl) Person Plural;41554;;;;alam1246;bruce-1984
-nëm;;1pl_s;1st (excl) Person Plural;41553;;;;alam1246;bruce-1984
-nëm;;1pl_o;1st (excl) Person Plural;41552;;;;alam1246;bruce-1984
-nëmoh;;1pl_p;1st (excl) Person Plural;41551;;;;alam1246;bruce-1984
-nën;;12du_a;1st (incl) Person Dual;41550;;;;alam1246;bruce-1984
-nën;;12du_s;1st (incl) Person Dual;41549;;;;alam1246;bruce-1984
-nën;;12du_o;1st (incl) Person Dual;41548;;;;alam1246;bruce-1984
-nënoh;;12du_p;1st (incl) Person Dual;41547;;;;alam1246;bruce-1984
-nëm;;12pl_a;1st (incl) Person Plural;41546;;;;alam1246;bruce-1984
-nëm;;12pl_s;1st (incl) Person Plural;41545;;;;alam1246;bruce-1984
-nëm;;12pl_o;1st (incl) Person Plural;41544;;;;alam1246;bruce-1984
-nëmoh;;12pl_p;1st (incl) Person Plural;41543;;;;alam1246;bruce-1984
-nin;;2sg_a;2nd Person Singular;41542;;;;alam1246;bruce-1984
-nin;;2sg_s;2nd Person Singular;41541;;;;alam1246;bruce-1984
-nin;;2sg_o;2nd Person Singular;41540;;;;alam1246;bruce-1984
-ninho;;2sg_p;2nd Person Singular;41539;;;;alam1246;bruce-1984
-nifɨn;;2du_a;2nd Person Dual;41538;;;;alam1246;bruce-1984
-nifɨn;;2du_s;2nd Person Dual;41537;;;;alam1246;bruce-1984
-nifɨn;;2du_o;2nd Person Dual;41536;;;;alam1246;bruce-1984
-nifɨnoh;;2du_p;2nd Person Dual;41535;;;;alam1246;bruce-1984
-nikëm;;2pl_a;2nd Person Plural;41534;;;;alam1246;bruce-1984
-nikëm;;2pl_s;2nd Person Plural;41533;;;;alam1246;bruce-1984
-nikëm;;2pl_o;2nd Person Plural;41532;;;;alam1246;bruce-1984
-nikëmoh;;2pl_p;2nd Person Plural;41531;;;;alam1246;bruce-1984
-rër;;3sg_m_a;3rd Person Singular Masculine;41530;;;;alam1246;bruce-1984
-rër;;3sg_m_s;3rd Person Singular Masculine;41529;;;;alam1246;bruce-1984
-rër;;3sg_m_o;3rd Person Singular Masculine;41528;;;;alam1246;bruce-1984
-rërho;;3sg_m_p;3rd Person Singular Masculine;41527;;;;alam1246;bruce-1984
-rët;;3sg_n_a;3rd Person Singular Neuter;41526;;;;alam1246;bruce-1984
-rët;;3sg_n_s;3rd Person Singular Neuter;41525;;;;alam1246;bruce-1984
-rët;;3sg_n_o;3rd Person Singular Neuter;41524;;;;alam1246;bruce-1984
-rëtho;;3sg_n_p;3rd Person Singular Neuter;41523;;;;alam1246;bruce-1984
-rëf;;3d-a;3rd Person Dual;41522;;;;alam1246;bruce-1984
-rëf;;3d-s;3rd Person Dual;41521;;;;alam1246;bruce-1984
-rëf;;3d-o;3rd Person Dual;41520;;;;alam1246;bruce-1984
-rëfho;;3d-p;3rd Person Dual;41519;;;;alam1246;bruce-1984
-rëm;;3p-a;3rd Person Plural;41518;;;;alam1246;bruce-1984
-rëm;;3p-s;3rd Person Plural;41517;;;;alam1246;bruce-1984
-rëm;;3p-o;3rd Person Plural;41516;;;;alam1246;bruce-1984
-rëmho;;3p-p;3rd Person Plural;41515;;;;alam1246;bruce-1984
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nan,,1sg_a,1st (excl) Person Singular,41562,,,,alam1246,bruce-1984
+nan,,1sg_s,1st (excl) Person Singular,41561,,,,alam1246,bruce-1984
+nan,,1sg_o,1st (excl) Person Singular,41560,,,,alam1246,bruce-1984
+nanho,,1sg_p,1st (excl) Person Singular,41559,,,,alam1246,bruce-1984
+nën,,1du_a,1st (excl) Person Dual,41558,,,,alam1246,bruce-1984
+nën,,1du_s,1st (excl) Person Dual,41557,,,,alam1246,bruce-1984
+nën,,1du_o,1st (excl) Person Dual,41556,,,,alam1246,bruce-1984
+nënoh,,1du_p,1st (excl) Person Dual,41555,,,,alam1246,bruce-1984
+nëm,,1pl_a,1st (excl) Person Plural,41554,,,,alam1246,bruce-1984
+nëm,,1pl_s,1st (excl) Person Plural,41553,,,,alam1246,bruce-1984
+nëm,,1pl_o,1st (excl) Person Plural,41552,,,,alam1246,bruce-1984
+nëmoh,,1pl_p,1st (excl) Person Plural,41551,,,,alam1246,bruce-1984
+nën,,12du_a,1st (incl) Person Dual,41550,,,,alam1246,bruce-1984
+nën,,12du_s,1st (incl) Person Dual,41549,,,,alam1246,bruce-1984
+nën,,12du_o,1st (incl) Person Dual,41548,,,,alam1246,bruce-1984
+nënoh,,12du_p,1st (incl) Person Dual,41547,,,,alam1246,bruce-1984
+nëm,,12pl_a,1st (incl) Person Plural,41546,,,,alam1246,bruce-1984
+nëm,,12pl_s,1st (incl) Person Plural,41545,,,,alam1246,bruce-1984
+nëm,,12pl_o,1st (incl) Person Plural,41544,,,,alam1246,bruce-1984
+nëmoh,,12pl_p,1st (incl) Person Plural,41543,,,,alam1246,bruce-1984
+nin,,2sg_a,2nd Person Singular,41542,,,,alam1246,bruce-1984
+nin,,2sg_s,2nd Person Singular,41541,,,,alam1246,bruce-1984
+nin,,2sg_o,2nd Person Singular,41540,,,,alam1246,bruce-1984
+ninho,,2sg_p,2nd Person Singular,41539,,,,alam1246,bruce-1984
+nifɨn,,2du_a,2nd Person Dual,41538,,,,alam1246,bruce-1984
+nifɨn,,2du_s,2nd Person Dual,41537,,,,alam1246,bruce-1984
+nifɨn,,2du_o,2nd Person Dual,41536,,,,alam1246,bruce-1984
+nifɨnoh,,2du_p,2nd Person Dual,41535,,,,alam1246,bruce-1984
+nikëm,,2pl_a,2nd Person Plural,41534,,,,alam1246,bruce-1984
+nikëm,,2pl_s,2nd Person Plural,41533,,,,alam1246,bruce-1984
+nikëm,,2pl_o,2nd Person Plural,41532,,,,alam1246,bruce-1984
+nikëmoh,,2pl_p,2nd Person Plural,41531,,,,alam1246,bruce-1984
+rër,,3sg_m_a,3rd Person Singular Masculine,41530,,,,alam1246,bruce-1984
+rër,,3sg_m_s,3rd Person Singular Masculine,41529,,,,alam1246,bruce-1984
+rër,,3sg_m_o,3rd Person Singular Masculine,41528,,,,alam1246,bruce-1984
+rërho,,3sg_m_p,3rd Person Singular Masculine,41527,,,,alam1246,bruce-1984
+rët,,3sg_n_a,3rd Person Singular Neuter,41526,,,,alam1246,bruce-1984
+rët,,3sg_n_s,3rd Person Singular Neuter,41525,,,,alam1246,bruce-1984
+rët,,3sg_n_o,3rd Person Singular Neuter,41524,,,,alam1246,bruce-1984
+rëtho,,3sg_n_p,3rd Person Singular Neuter,41523,,,,alam1246,bruce-1984
+rëf,,3d-a,3rd Person Dual,41522,,,,alam1246,bruce-1984
+rëf,,3d-s,3rd Person Dual,41521,,,,alam1246,bruce-1984
+rëf,,3d-o,3rd Person Dual,41520,,,,alam1246,bruce-1984
+rëfho,,3d-p,3rd Person Dual,41519,,,,alam1246,bruce-1984
+rëm,,3p-a,3rd Person Plural,41518,,,,alam1246,bruce-1984
+rëm,,3p-s,3rd Person Plural,41517,,,,alam1246,bruce-1984
+rëm,,3p-o,3rd Person Plural,41516,,,,alam1246,bruce-1984
+rëmho,,3p-p,3rd Person Plural,41515,,,,alam1246,bruce-1984

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ara;;1sg_a;1st (excl) Person Singular;42014;;;;toar1246;brown-1972
-ara;;1sg_s;1st (excl) Person Singular;42013;;;;toar1246;brown-1972
-araro;;1sg_o;1st (excl) Person Singular;42012;;;;toar1246;brown-1972
-arave;;1sg_p;1st (excl) Person Singular;42011;;;;toar1246;brown-1972
-elaka;;1du_a;1st (excl) Person Dual;42010;;;;toar1246;brown-1972
-elaka;;1du_s;1st (excl) Person Dual;42009;;;;toar1246;brown-1972
-elakaro;;1du_o;1st (excl) Person Dual;42008;;;;toar1246;brown-1972
-alakave;;1du_p;1st (excl) Person Dual;42007;;;;toar1246;brown-1972
-ela;;1pl_a;1st (excl) Person Plural;42006;;;;toar1246;brown-1972
-ela;;1pl_s;1st (excl) Person Plural;42005;;;;toar1246;brown-1972
-elaro;;1pl_o;1st (excl) Person Plural;42004;;;;toar1246;brown-1972
-elave;;1pl_p;1st (excl) Person Plural;42003;;;;toar1246;brown-1972
-elaka;;12du_a;1st (incl) Person Dual;42002;;;;toar1246;brown-1972
-elaka;;12du_s;1st (incl) Person Dual;42001;;;;toar1246;brown-1972
-elakaro;;12du_o;1st (incl) Person Dual;42000;;;;toar1246;brown-1972
-alakave;;12du_p;1st (incl) Person Dual;41999;;;;toar1246;brown-1972
-ereita;;12pl_a;1st (incl) Person Plural;41998;;;;toar1246;brown-1972
-ereita;;12pl_s;1st (incl) Person Plural;41997;;;;toar1246;brown-1972
-ereitaro;;12pl_o;1st (incl) Person Plural;41996;;;;toar1246;brown-1972
-ereitave;;12pl_p;1st (incl) Person Plural;41995;;;;toar1246;brown-1972
-a;;2sg_a;2nd Person Singular;41994;;;;toar1246;brown-1972
-a;;2sg_s;2nd Person Singular;41993;;;;toar1246;brown-1972
-aro;;2sg_o;2nd Person Singular;41992;;;;toar1246;brown-1972
-ave;;2sg_p;2nd Person Singular;41991;;;;toar1246;brown-1972
-euka;;2du_a;2nd Person Dual;41990;;;;toar1246;brown-1972
-euka;;2du_s;2nd Person Dual;41989;;;;toar1246;brown-1972
-eukaro;;2du_o;2nd Person Dual;41988;;;;toar1246;brown-1972
-eukave;;2du_p;2nd Person Dual;41987;;;;toar1246;brown-1972
-e;;2pl_a;2nd Person Plural;41986;;;;toar1246;brown-1972
-e;;2pl_s;2nd Person Plural;41985;;;;toar1246;brown-1972
-ero;;2pl_o;2nd Person Plural;41984;;;;toar1246;brown-1972
-eve;;2pl_p;2nd Person Plural;41983;;;;toar1246;brown-1972
-are;;3sg_m_a;3rd Person Singular Masculine;41982;;;;toar1246;brown-1972
-are;;3sg_m_s;3rd Person Singular Masculine;41981;;;;toar1246;brown-1972
-arero;;3sg_m_o;3rd Person Singular Masculine;41980;;;;toar1246;brown-1972
-areve;;3sg_m_p;3rd Person Singular Masculine;41979;;;;toar1246;brown-1972
-are;;3sg_n_a;3rd Person Singular Neuter;41978;;;;toar1246;brown-1972
-are;;3sg_n_s;3rd Person Singular Neuter;41977;;;;toar1246;brown-1972
-arero;;3sg_n_o;3rd Person Singular Neuter;41976;;;;toar1246;brown-1972
-areve;;3sg_n_p;3rd Person Singular Neuter;41975;;;;toar1246;brown-1972
-ereuka;;3d-a;3rd Person Dual;41974;;;;toar1246;brown-1972
-ereuka;;3d-s;3rd Person Dual;41973;;;;toar1246;brown-1972
-ereukaro;;3d-o;3rd Person Dual;41972;;;;toar1246;brown-1972
-ereukave;;3d-p;3rd Person Dual;41971;;;;toar1246;brown-1972
-ere;;3p-a;3rd Person Plural;41970;;;;toar1246;brown-1972
-ere;;3p-s;3rd Person Plural;41969;;;;toar1246;brown-1972
-erero;;3p-o;3rd Person Plural;41968;;;;toar1246;brown-1972
-ereve;;3p-p;3rd Person Plural;41967;;;;toar1246;brown-1972
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ara,,1sg_a,1st (excl) Person Singular,42014,,,,toar1246,brown-1972
+ara,,1sg_s,1st (excl) Person Singular,42013,,,,toar1246,brown-1972
+araro,,1sg_o,1st (excl) Person Singular,42012,,,,toar1246,brown-1972
+arave,,1sg_p,1st (excl) Person Singular,42011,,,,toar1246,brown-1972
+elaka,,1du_a,1st (excl) Person Dual,42010,,,,toar1246,brown-1972
+elaka,,1du_s,1st (excl) Person Dual,42009,,,,toar1246,brown-1972
+elakaro,,1du_o,1st (excl) Person Dual,42008,,,,toar1246,brown-1972
+alakave,,1du_p,1st (excl) Person Dual,42007,,,,toar1246,brown-1972
+ela,,1pl_a,1st (excl) Person Plural,42006,,,,toar1246,brown-1972
+ela,,1pl_s,1st (excl) Person Plural,42005,,,,toar1246,brown-1972
+elaro,,1pl_o,1st (excl) Person Plural,42004,,,,toar1246,brown-1972
+elave,,1pl_p,1st (excl) Person Plural,42003,,,,toar1246,brown-1972
+elaka,,12du_a,1st (incl) Person Dual,42002,,,,toar1246,brown-1972
+elaka,,12du_s,1st (incl) Person Dual,42001,,,,toar1246,brown-1972
+elakaro,,12du_o,1st (incl) Person Dual,42000,,,,toar1246,brown-1972
+alakave,,12du_p,1st (incl) Person Dual,41999,,,,toar1246,brown-1972
+ereita,,12pl_a,1st (incl) Person Plural,41998,,,,toar1246,brown-1972
+ereita,,12pl_s,1st (incl) Person Plural,41997,,,,toar1246,brown-1972
+ereitaro,,12pl_o,1st (incl) Person Plural,41996,,,,toar1246,brown-1972
+ereitave,,12pl_p,1st (incl) Person Plural,41995,,,,toar1246,brown-1972
+a,,2sg_a,2nd Person Singular,41994,,,,toar1246,brown-1972
+a,,2sg_s,2nd Person Singular,41993,,,,toar1246,brown-1972
+aro,,2sg_o,2nd Person Singular,41992,,,,toar1246,brown-1972
+ave,,2sg_p,2nd Person Singular,41991,,,,toar1246,brown-1972
+euka,,2du_a,2nd Person Dual,41990,,,,toar1246,brown-1972
+euka,,2du_s,2nd Person Dual,41989,,,,toar1246,brown-1972
+eukaro,,2du_o,2nd Person Dual,41988,,,,toar1246,brown-1972
+eukave,,2du_p,2nd Person Dual,41987,,,,toar1246,brown-1972
+e,,2pl_a,2nd Person Plural,41986,,,,toar1246,brown-1972
+e,,2pl_s,2nd Person Plural,41985,,,,toar1246,brown-1972
+ero,,2pl_o,2nd Person Plural,41984,,,,toar1246,brown-1972
+eve,,2pl_p,2nd Person Plural,41983,,,,toar1246,brown-1972
+are,,3sg_m_a,3rd Person Singular Masculine,41982,,,,toar1246,brown-1972
+are,,3sg_m_s,3rd Person Singular Masculine,41981,,,,toar1246,brown-1972
+arero,,3sg_m_o,3rd Person Singular Masculine,41980,,,,toar1246,brown-1972
+areve,,3sg_m_p,3rd Person Singular Masculine,41979,,,,toar1246,brown-1972
+are,,3sg_n_a,3rd Person Singular Neuter,41978,,,,toar1246,brown-1972
+are,,3sg_n_s,3rd Person Singular Neuter,41977,,,,toar1246,brown-1972
+arero,,3sg_n_o,3rd Person Singular Neuter,41976,,,,toar1246,brown-1972
+areve,,3sg_n_p,3rd Person Singular Neuter,41975,,,,toar1246,brown-1972
+ereuka,,3d-a,3rd Person Dual,41974,,,,toar1246,brown-1972
+ereuka,,3d-s,3rd Person Dual,41973,,,,toar1246,brown-1972
+ereukaro,,3d-o,3rd Person Dual,41972,,,,toar1246,brown-1972
+ereukave,,3d-p,3rd Person Dual,41971,,,,toar1246,brown-1972
+ere,,3p-a,3rd Person Plural,41970,,,,toar1246,brown-1972
+ere,,3p-s,3rd Person Plural,41969,,,,toar1246,brown-1972
+erero,,3p-o,3rd Person Plural,41968,,,,toar1246,brown-1972
+ereve,,3p-p,3rd Person Plural,41967,,,,toar1246,brown-1972

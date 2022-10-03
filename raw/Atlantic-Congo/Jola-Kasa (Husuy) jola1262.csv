@@ -1,45 +1,45 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-inje;;1sg_a;1st (excl) Person Singular;55254;;;;jola1262;wilson-2007
-inje;;1sg_s;1st (excl) Person Singular;55253;;;;jola1262;wilson-2007
-inje;;1sg_o;1st (excl) Person Singular;55252;;;;jola1262;wilson-2007
--ɔm;;1sg_p;1st (excl) Person Singular;55251;;;;jola1262;wilson-2007
-ɔlɔla;;1du_a;1st (excl) Person Dual;55250;;;;jola1262;wilson-2007
-ɔlɔla;;1du_s;1st (excl) Person Dual;55249;;;;jola1262;wilson-2007
-ɔlɔla;;1du_o;1st (excl) Person Dual;55248;;;;jola1262;wilson-2007
--ɔla;;1du_p;1st (excl) Person Dual;55247;;;;jola1262;wilson-2007
-ɔlɔli;;1pl_a;1st (excl) Person Plural;55246;;;;jola1262;wilson-2007
-ɔlɔli;;1pl_s;1st (excl) Person Plural;55245;;;;jola1262;wilson-2007
-ɔlɔli;;1pl_o;1st (excl) Person Plural;55244;;;;jola1262;wilson-2007
--ɔli;;1pl_p;1st (excl) Person Plural;55243;;;;jola1262;wilson-2007
-ɔlɔla;;12du_a;1st (incl) Person Dual;55242;;;;jola1262;wilson-2007
-ɔlɔla;;12du_s;1st (incl) Person Dual;55241;;;;jola1262;wilson-2007
-ɔlɔla;;12du_o;1st (incl) Person Dual;55240;;;;jola1262;wilson-2007
--ɔla;;12du_p;1st (incl) Person Dual;55239;;;;jola1262;wilson-2007
-ɔlɔlaal;;12pl_a;1st (incl) Person Plural;55238;;;;jola1262;wilson-2007
-ɔlɔlaal;;12pl_s;1st (incl) Person Plural;55237;;;;jola1262;wilson-2007
-ɔlɔlaal;;12pl_o;1st (incl) Person Plural;55236;;;;jola1262;wilson-2007
--ɔlaal;;12pl_p;1st (incl) Person Plural;55235;;;;jola1262;wilson-2007
-aw;;2sg_a;2nd Person Singular;55234;;;;jola1262;wilson-2007
-aw;;2sg_s;2nd Person Singular;55233;;;;jola1262;wilson-2007
-aw;;2sg_o;2nd Person Singular;55232;;;;jola1262;wilson-2007
--i;;2sg_p;2nd Person Singular;55231;;;;jola1262;wilson-2007
-bukuluul;;2du_a;2nd Person Dual;55230;;;;jola1262;wilson-2007
-bukuluul;;2du_s;2nd Person Dual;55229;;;;jola1262;wilson-2007
-bukuluul;;2du_o;2nd Person Dual;55228;;;;jola1262;wilson-2007
--uul;;2du_p;2nd Person Dual;55227;;;;jola1262;wilson-2007
-bukuluul;;2pl_a;2nd Person Plural;55226;;;;jola1262;wilson-2007
-bukuluul;;2pl_s;2nd Person Plural;55225;;;;jola1262;wilson-2007
-bukuluul;;2pl_o;2nd Person Plural;55224;;;;jola1262;wilson-2007
--uul;;2pl_p;2nd Person Plural;55223;;;;jola1262;wilson-2007
-ɔ, akila;;3sg_m_a;3rd Person Singular Masculine;55222;;;;jola1262;wilson-2007
-ɔ, akila;;3sg_m_s;3rd Person Singular Masculine;55221;;;;jola1262;wilson-2007
-ɔ, akila;;3sg_m_o;3rd Person Singular Masculine;55220;;;;jola1262;wilson-2007
--ɔɔl;;3sg_m_p;3rd Person Singular Masculine;55219;;;;jola1262;wilson-2007
-bukɔ;;3d-a;3rd Person Dual;55214;;;;jola1262;wilson-2007
-bukɔ;;3d-s;3rd Person Dual;55213;;;;jola1262;wilson-2007
-bukɔ;;3d-o;3rd Person Dual;55212;;;;jola1262;wilson-2007
--iil;;3d-p;3rd Person Dual;55211;;;;jola1262;wilson-2007
-bukɔ;;3p-a;3rd Person Plural;55210;;;;jola1262;wilson-2007
-bukɔ;;3p-s;3rd Person Plural;55209;;;;jola1262;wilson-2007
-bukɔ;;3p-o;3rd Person Plural;55208;;;;jola1262;wilson-2007
--iil;;3p-p;3rd Person Plural;55207;;;;jola1262;wilson-2007
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+inje,,1sg_a,1st (excl) Person Singular,55254,,,,jola1262,wilson-2007
+inje,,1sg_s,1st (excl) Person Singular,55253,,,,jola1262,wilson-2007
+inje,,1sg_o,1st (excl) Person Singular,55252,,,,jola1262,wilson-2007
+-ɔm,,1sg_p,1st (excl) Person Singular,55251,,,,jola1262,wilson-2007
+ɔlɔla,,1du_a,1st (excl) Person Dual,55250,,,,jola1262,wilson-2007
+ɔlɔla,,1du_s,1st (excl) Person Dual,55249,,,,jola1262,wilson-2007
+ɔlɔla,,1du_o,1st (excl) Person Dual,55248,,,,jola1262,wilson-2007
+-ɔla,,1du_p,1st (excl) Person Dual,55247,,,,jola1262,wilson-2007
+ɔlɔli,,1pl_a,1st (excl) Person Plural,55246,,,,jola1262,wilson-2007
+ɔlɔli,,1pl_s,1st (excl) Person Plural,55245,,,,jola1262,wilson-2007
+ɔlɔli,,1pl_o,1st (excl) Person Plural,55244,,,,jola1262,wilson-2007
+-ɔli,,1pl_p,1st (excl) Person Plural,55243,,,,jola1262,wilson-2007
+ɔlɔla,,12du_a,1st (incl) Person Dual,55242,,,,jola1262,wilson-2007
+ɔlɔla,,12du_s,1st (incl) Person Dual,55241,,,,jola1262,wilson-2007
+ɔlɔla,,12du_o,1st (incl) Person Dual,55240,,,,jola1262,wilson-2007
+-ɔla,,12du_p,1st (incl) Person Dual,55239,,,,jola1262,wilson-2007
+ɔlɔlaal,,12pl_a,1st (incl) Person Plural,55238,,,,jola1262,wilson-2007
+ɔlɔlaal,,12pl_s,1st (incl) Person Plural,55237,,,,jola1262,wilson-2007
+ɔlɔlaal,,12pl_o,1st (incl) Person Plural,55236,,,,jola1262,wilson-2007
+-ɔlaal,,12pl_p,1st (incl) Person Plural,55235,,,,jola1262,wilson-2007
+aw,,2sg_a,2nd Person Singular,55234,,,,jola1262,wilson-2007
+aw,,2sg_s,2nd Person Singular,55233,,,,jola1262,wilson-2007
+aw,,2sg_o,2nd Person Singular,55232,,,,jola1262,wilson-2007
+-i,,2sg_p,2nd Person Singular,55231,,,,jola1262,wilson-2007
+bukuluul,,2du_a,2nd Person Dual,55230,,,,jola1262,wilson-2007
+bukuluul,,2du_s,2nd Person Dual,55229,,,,jola1262,wilson-2007
+bukuluul,,2du_o,2nd Person Dual,55228,,,,jola1262,wilson-2007
+-uul,,2du_p,2nd Person Dual,55227,,,,jola1262,wilson-2007
+bukuluul,,2pl_a,2nd Person Plural,55226,,,,jola1262,wilson-2007
+bukuluul,,2pl_s,2nd Person Plural,55225,,,,jola1262,wilson-2007
+bukuluul,,2pl_o,2nd Person Plural,55224,,,,jola1262,wilson-2007
+-uul,,2pl_p,2nd Person Plural,55223,,,,jola1262,wilson-2007
+"ɔ, akila",,3sg_m_a,3rd Person Singular Masculine,55222,,,,jola1262,wilson-2007
+"ɔ, akila",,3sg_m_s,3rd Person Singular Masculine,55221,,,,jola1262,wilson-2007
+"ɔ, akila",,3sg_m_o,3rd Person Singular Masculine,55220,,,,jola1262,wilson-2007
+-ɔɔl,,3sg_m_p,3rd Person Singular Masculine,55219,,,,jola1262,wilson-2007
+bukɔ,,3d-a,3rd Person Dual,55214,,,,jola1262,wilson-2007
+bukɔ,,3d-s,3rd Person Dual,55213,,,,jola1262,wilson-2007
+bukɔ,,3d-o,3rd Person Dual,55212,,,,jola1262,wilson-2007
+-iil,,3d-p,3rd Person Dual,55211,,,,jola1262,wilson-2007
+bukɔ,,3p-a,3rd Person Plural,55210,,,,jola1262,wilson-2007
+bukɔ,,3p-s,3rd Person Plural,55209,,,,jola1262,wilson-2007
+bukɔ,,3p-o,3rd Person Plural,55208,,,,jola1262,wilson-2007
+-iil,,3p-p,3rd Person Plural,55207,,,,jola1262,wilson-2007

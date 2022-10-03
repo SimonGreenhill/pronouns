@@ -1,28 +1,28 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-niŋ;;1sg_s;1st (excl) Person Singular;42955;;;;zyud1238;hoenigman-2014
-tay;;1sg_o;1st (excl) Person Singular;42954;;;;zyud1238;hoenigman-2014
-tuŋ(gum)goy;;1sg_p;1st (excl) Person Singular;42953;;-gum- in brackets optional, often left out;;zyud1238;hoenigman-2014
-aŋ;;1du_s;1st (excl) Person Dual;42952;;;;zyud1238;hoenigman-2014
-asumgay (kondamin);;1du_o;1st (excl) Person Dual;42951;;;;zyud1238;hoenigman-2014
-asumgoy;;1du_p;1st (excl) Person Dual;42950;;;;zyud1238;hoenigman-2014
-aŋ;;1pl_s;1st (excl) Person Plural;42949;;;;zyud1238;hoenigman-2014
-aŋgay;;1pl_o;1st (excl) Person Plural;42948;;;;zyud1238;hoenigman-2014
-aŋgumgoy;;1pl_p;1st (excl) Person Plural;42947;;;;zyud1238;hoenigman-2014
-nan;;2sg_s;2nd Person Singular;42946;;;;zyud1238;hoenigman-2014
-nanday;;2sg_o;2nd Person Singular;42945;;;;zyud1238;hoenigman-2014
-nan(gum)goy;;2sg_p;2nd Person Singular;42944;;;;zyud1238;hoenigman-2014
-neɲ kondamin;;2du_s;2nd Person Dual;42943;;;;zyud1238;hoenigman-2014
-neɲ kondamiɲanda;;2du_o;2nd Person Dual;42942;;;;zyud1238;hoenigman-2014
-nuŋgumgoy;;2du_p;2nd Person Dual;42941;;;;zyud1238;hoenigman-2014
-noŋ;;2pl_s;2nd Person Plural;42940;;;;zyud1238;hoenigman-2014
-noŋgay;;2pl_o;2nd Person Plural;42939;;;;zyud1238;hoenigman-2014
-nuŋgumgoy;;2pl_p;2nd Person Plural;42938;;;;zyud1238;hoenigman-2014
-an;;3sg_m_s;3rd Person Singular Masculine;42937;;;;zyud1238;hoenigman-2014
-alay;;3sg_m_o;3rd Person Singular Masculine;42936;;;;zyud1238;hoenigman-2014
-anamgoy;;3sg_m_p;3rd Person Singular Masculine;42935;;;;zyud1238;hoenigman-2014
-neɲ kondamin;;3d-s;3rd Person Dual;42934;;;;zyud1238;hoenigman-2014
-kondaminɟay;;3d-o;3rd Person Dual;42933;;;;zyud1238;hoenigman-2014
-neɲ kondamin amgoy;;3d-p;3rd Person Dual;42932;;;;zyud1238;hoenigman-2014
-non;;3p-s;3rd Person Plural;42931;;;;zyud1238;hoenigman-2014
-komgay;;3p-o;3rd Person Plural;42930;;;;zyud1238;hoenigman-2014
-komgamgoy;;3p-p;3rd Person Plural;42929;;;;zyud1238;hoenigman-2014
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+niŋ,,1sg_s,1st (excl) Person Singular,42955,,,,zyud1238,hoenigman-2014
+tay,,1sg_o,1st (excl) Person Singular,42954,,,,zyud1238,hoenigman-2014
+tuŋ(gum)goy,,1sg_p,1st (excl) Person Singular,42953,,"-gum- in brackets optional, often left out",,zyud1238,hoenigman-2014
+aŋ,,1du_s,1st (excl) Person Dual,42952,,,,zyud1238,hoenigman-2014
+asumgay (kondamin),,1du_o,1st (excl) Person Dual,42951,,,,zyud1238,hoenigman-2014
+asumgoy,,1du_p,1st (excl) Person Dual,42950,,,,zyud1238,hoenigman-2014
+aŋ,,1pl_s,1st (excl) Person Plural,42949,,,,zyud1238,hoenigman-2014
+aŋgay,,1pl_o,1st (excl) Person Plural,42948,,,,zyud1238,hoenigman-2014
+aŋgumgoy,,1pl_p,1st (excl) Person Plural,42947,,,,zyud1238,hoenigman-2014
+nan,,2sg_s,2nd Person Singular,42946,,,,zyud1238,hoenigman-2014
+nanday,,2sg_o,2nd Person Singular,42945,,,,zyud1238,hoenigman-2014
+nan(gum)goy,,2sg_p,2nd Person Singular,42944,,,,zyud1238,hoenigman-2014
+neɲ kondamin,,2du_s,2nd Person Dual,42943,,,,zyud1238,hoenigman-2014
+neɲ kondamiɲanda,,2du_o,2nd Person Dual,42942,,,,zyud1238,hoenigman-2014
+nuŋgumgoy,,2du_p,2nd Person Dual,42941,,,,zyud1238,hoenigman-2014
+noŋ,,2pl_s,2nd Person Plural,42940,,,,zyud1238,hoenigman-2014
+noŋgay,,2pl_o,2nd Person Plural,42939,,,,zyud1238,hoenigman-2014
+nuŋgumgoy,,2pl_p,2nd Person Plural,42938,,,,zyud1238,hoenigman-2014
+an,,3sg_m_s,3rd Person Singular Masculine,42937,,,,zyud1238,hoenigman-2014
+alay,,3sg_m_o,3rd Person Singular Masculine,42936,,,,zyud1238,hoenigman-2014
+anamgoy,,3sg_m_p,3rd Person Singular Masculine,42935,,,,zyud1238,hoenigman-2014
+neɲ kondamin,,3d-s,3rd Person Dual,42934,,,,zyud1238,hoenigman-2014
+kondaminɟay,,3d-o,3rd Person Dual,42933,,,,zyud1238,hoenigman-2014
+neɲ kondamin amgoy,,3d-p,3rd Person Dual,42932,,,,zyud1238,hoenigman-2014
+non,,3p-s,3rd Person Plural,42931,,,,zyud1238,hoenigman-2014
+komgay,,3p-o,3rd Person Plural,42930,,,,zyud1238,hoenigman-2014
+komgamgoy,,3p-p,3rd Person Plural,42929,,,,zyud1238,hoenigman-2014

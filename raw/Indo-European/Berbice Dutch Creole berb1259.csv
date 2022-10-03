@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ɛkɛ ;;1sg_a;1st (excl) Person Singular;49582;;;;berb1259;kouwenberg-1994
-ɛkɛ ;;1sg_s;1st (excl) Person Singular;49581;;;;berb1259;kouwenberg-1994
-ɛkɛ ;;1sg_o;1st (excl) Person Singular;49580;;;;berb1259;kouwenberg-1994
-ɛkɛ ;;1sg_p;1st (excl) Person Singular;49579;;;;berb1259;kouwenberg-1994
-enʃi ;;1du_a;1st (excl) Person Dual;49578;;;;berb1259;kouwenberg-1994
-enʃi ;;1du_s;1st (excl) Person Dual;49577;;;;berb1259;kouwenberg-1994
-enʃi ;;1du_o;1st (excl) Person Dual;49576;;;;berb1259;kouwenberg-1994
-enʃi ;;1du_p;1st (excl) Person Dual;49575;;;;berb1259;kouwenberg-1994
-enʃi ;;1pl_a;1st (excl) Person Plural;49574;;;;berb1259;kouwenberg-1994
-enʃi ;;1pl_s;1st (excl) Person Plural;49573;;;;berb1259;kouwenberg-1994
-enʃi ;;1pl_o;1st (excl) Person Plural;49572;;;;berb1259;kouwenberg-1994
-enʃi ;;1pl_p;1st (excl) Person Plural;49571;;;;berb1259;kouwenberg-1994
-enʃi ;;12du_a;1st (incl) Person Dual;49570;;;;berb1259;kouwenberg-1994
-enʃi ;;12du_s;1st (incl) Person Dual;49569;;;;berb1259;kouwenberg-1994
-enʃi ;;12du_o;1st (incl) Person Dual;49568;;;;berb1259;kouwenberg-1994
-enʃi ;;12du_p;1st (incl) Person Dual;49567;;;;berb1259;kouwenberg-1994
-enʃi ;;12pl_a;1st (incl) Person Plural;49566;;;;berb1259;kouwenberg-1994
-enʃi ;;12pl_s;1st (incl) Person Plural;49565;;;;berb1259;kouwenberg-1994
-enʃi ;;12pl_o;1st (incl) Person Plural;49564;;;;berb1259;kouwenberg-1994
-enʃi ;;12pl_p;1st (incl) Person Plural;49563;;;;berb1259;kouwenberg-1994
-ju ;;2sg_a;2nd Person Singular;49562;;;;berb1259;kouwenberg-1994
-ju ;;2sg_s;2nd Person Singular;49561;;;;berb1259;kouwenberg-1994
-ju ;;2sg_o;2nd Person Singular;49560;;;;berb1259;kouwenberg-1994
-ju ;;2sg_p;2nd Person Singular;49559;;;;berb1259;kouwenberg-1994
-jɛndɛ ;;2du_a;2nd Person Dual;49558;;;;berb1259;kouwenberg-1994
-jɛndɛ ;;2du_s;2nd Person Dual;49557;;;;berb1259;kouwenberg-1994
-jɛndɛ ;;2du_o;2nd Person Dual;49556;;;;berb1259;kouwenberg-1994
-jɛndɛ ;;2du_p;2nd Person Dual;49555;;;;berb1259;kouwenberg-1994
-jɛndɛ ;;2pl_a;2nd Person Plural;49554;;;;berb1259;kouwenberg-1994
-jɛndɛ ;;2pl_s;2nd Person Plural;49553;;;;berb1259;kouwenberg-1994
-jɛndɛ ;;2pl_o;2nd Person Plural;49552;;;;berb1259;kouwenberg-1994
-jɛndɛ ;;2pl_p;2nd Person Plural;49551;;;;berb1259;kouwenberg-1994
-ori, o, a;;3sg_m_a;3rd Person Singular Masculine;49550;;;;berb1259;kouwenberg-1994
-ori, o, a;;3sg_m_s;3rd Person Singular Masculine;49549;;;;berb1259;kouwenberg-1994
-ori, o;;3sg_m_o;3rd Person Singular Masculine;49548;;;;berb1259;kouwenberg-1994
-ʃi, ori;;3sg_m_p;3rd Person Singular Masculine;49547;;;;berb1259;kouwenberg-1994
-ori, o, a;;3sg_n_a;3rd Person Singular Neuter;49546;;;;berb1259;kouwenberg-1994
-ori, o, a;;3sg_n_s;3rd Person Singular Neuter;49545;;;;berb1259;kouwenberg-1994
-ori, o;;3sg_n_o;3rd Person Singular Neuter;49544;;;;berb1259;kouwenberg-1994
-ʃi, ori;;3sg_n_p;3rd Person Singular Neuter;49543;;;;berb1259;kouwenberg-1994
-eni ;;3d-a;3rd Person Dual;49542;;;;berb1259;kouwenberg-1994
-eni ;;3d-s;3rd Person Dual;49541;;;;berb1259;kouwenberg-1994
-eni ;;3d-o;3rd Person Dual;49540;;;;berb1259;kouwenberg-1994
-eni ;;3d-p;3rd Person Dual;49539;;;;berb1259;kouwenberg-1994
-eni ;;3p-a;3rd Person Plural;49538;;;;berb1259;kouwenberg-1994
-eni ;;3p-s;3rd Person Plural;49537;;;;berb1259;kouwenberg-1994
-eni ;;3p-o;3rd Person Plural;49536;;;;berb1259;kouwenberg-1994
-eni ;;3p-p;3rd Person Plural;49535;;;;berb1259;kouwenberg-1994
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ɛkɛ,,1sg_a,1st (excl) Person Singular,49582,,,,berb1259,kouwenberg-1994
+ɛkɛ,,1sg_s,1st (excl) Person Singular,49581,,,,berb1259,kouwenberg-1994
+ɛkɛ,,1sg_o,1st (excl) Person Singular,49580,,,,berb1259,kouwenberg-1994
+ɛkɛ,,1sg_p,1st (excl) Person Singular,49579,,,,berb1259,kouwenberg-1994
+enʃi,,1du_a,1st (excl) Person Dual,49578,,,,berb1259,kouwenberg-1994
+enʃi,,1du_s,1st (excl) Person Dual,49577,,,,berb1259,kouwenberg-1994
+enʃi,,1du_o,1st (excl) Person Dual,49576,,,,berb1259,kouwenberg-1994
+enʃi,,1du_p,1st (excl) Person Dual,49575,,,,berb1259,kouwenberg-1994
+enʃi,,1pl_a,1st (excl) Person Plural,49574,,,,berb1259,kouwenberg-1994
+enʃi,,1pl_s,1st (excl) Person Plural,49573,,,,berb1259,kouwenberg-1994
+enʃi,,1pl_o,1st (excl) Person Plural,49572,,,,berb1259,kouwenberg-1994
+enʃi,,1pl_p,1st (excl) Person Plural,49571,,,,berb1259,kouwenberg-1994
+enʃi,,12du_a,1st (incl) Person Dual,49570,,,,berb1259,kouwenberg-1994
+enʃi,,12du_s,1st (incl) Person Dual,49569,,,,berb1259,kouwenberg-1994
+enʃi,,12du_o,1st (incl) Person Dual,49568,,,,berb1259,kouwenberg-1994
+enʃi,,12du_p,1st (incl) Person Dual,49567,,,,berb1259,kouwenberg-1994
+enʃi,,12pl_a,1st (incl) Person Plural,49566,,,,berb1259,kouwenberg-1994
+enʃi,,12pl_s,1st (incl) Person Plural,49565,,,,berb1259,kouwenberg-1994
+enʃi,,12pl_o,1st (incl) Person Plural,49564,,,,berb1259,kouwenberg-1994
+enʃi,,12pl_p,1st (incl) Person Plural,49563,,,,berb1259,kouwenberg-1994
+ju,,2sg_a,2nd Person Singular,49562,,,,berb1259,kouwenberg-1994
+ju,,2sg_s,2nd Person Singular,49561,,,,berb1259,kouwenberg-1994
+ju,,2sg_o,2nd Person Singular,49560,,,,berb1259,kouwenberg-1994
+ju,,2sg_p,2nd Person Singular,49559,,,,berb1259,kouwenberg-1994
+jɛndɛ,,2du_a,2nd Person Dual,49558,,,,berb1259,kouwenberg-1994
+jɛndɛ,,2du_s,2nd Person Dual,49557,,,,berb1259,kouwenberg-1994
+jɛndɛ,,2du_o,2nd Person Dual,49556,,,,berb1259,kouwenberg-1994
+jɛndɛ,,2du_p,2nd Person Dual,49555,,,,berb1259,kouwenberg-1994
+jɛndɛ,,2pl_a,2nd Person Plural,49554,,,,berb1259,kouwenberg-1994
+jɛndɛ,,2pl_s,2nd Person Plural,49553,,,,berb1259,kouwenberg-1994
+jɛndɛ,,2pl_o,2nd Person Plural,49552,,,,berb1259,kouwenberg-1994
+jɛndɛ,,2pl_p,2nd Person Plural,49551,,,,berb1259,kouwenberg-1994
+"ori, o, a",,3sg_m_a,3rd Person Singular Masculine,49550,,,,berb1259,kouwenberg-1994
+"ori, o, a",,3sg_m_s,3rd Person Singular Masculine,49549,,,,berb1259,kouwenberg-1994
+"ori, o",,3sg_m_o,3rd Person Singular Masculine,49548,,,,berb1259,kouwenberg-1994
+"ʃi, ori",,3sg_m_p,3rd Person Singular Masculine,49547,,,,berb1259,kouwenberg-1994
+"ori, o, a",,3sg_n_a,3rd Person Singular Neuter,49546,,,,berb1259,kouwenberg-1994
+"ori, o, a",,3sg_n_s,3rd Person Singular Neuter,49545,,,,berb1259,kouwenberg-1994
+"ori, o",,3sg_n_o,3rd Person Singular Neuter,49544,,,,berb1259,kouwenberg-1994
+"ʃi, ori",,3sg_n_p,3rd Person Singular Neuter,49543,,,,berb1259,kouwenberg-1994
+eni,,3d-a,3rd Person Dual,49542,,,,berb1259,kouwenberg-1994
+eni,,3d-s,3rd Person Dual,49541,,,,berb1259,kouwenberg-1994
+eni,,3d-o,3rd Person Dual,49540,,,,berb1259,kouwenberg-1994
+eni,,3d-p,3rd Person Dual,49539,,,,berb1259,kouwenberg-1994
+eni,,3p-a,3rd Person Plural,49538,,,,berb1259,kouwenberg-1994
+eni,,3p-s,3rd Person Plural,49537,,,,berb1259,kouwenberg-1994
+eni,,3p-o,3rd Person Plural,49536,,,,berb1259,kouwenberg-1994
+eni,,3p-p,3rd Person Plural,49535,,,,berb1259,kouwenberg-1994

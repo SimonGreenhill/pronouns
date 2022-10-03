@@ -1,51 +1,51 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-eːn;;1sg_a;1st (excl) Person Singular;44966;;;;kuru1302;hahn-1911
-eːn;;1sg_s;1st (excl) Person Singular;44965;;;;kuru1302;hahn-1911
-engan;;1sg_o;1st (excl) Person Singular;44964;;;;kuru1302;hahn-1911
-enghai;;1sg_p;1st (excl) Person Singular;44963;;;;kuru1302;hahn-1911
-eːm;;1du_a;1st (excl) Person Dual;44962;;;;kuru1302;hahn-1911
-eːm;;1du_s;1st (excl) Person Dual;44961;;;;kuru1302;hahn-1911
-eman;;1du_o;1st (excl) Person Dual;44960;;;;kuru1302;hahn-1911
-emhai;;1du_p;1st (excl) Person Dual;44959;;;;kuru1302;hahn-1911
-eːm;;1pl_a;1st (excl) Person Plural;44958;;;;kuru1302;hahn-1911
-eːm;;1pl_s;1st (excl) Person Plural;44957;;;;kuru1302;hahn-1911
-eman;;1pl_o;1st (excl) Person Plural;44956;;;;kuru1302;hahn-1911
-emhai;;1pl_p;1st (excl) Person Plural;44955;;;;kuru1302;hahn-1911
-naːm;;12du_a;1st (incl) Person Dual;44954;;;;kuru1302;hahn-1911
-naːm;;12du_s;1st (incl) Person Dual;44953;;;;kuru1302;hahn-1911
-naman;;12du_o;1st (incl) Person Dual;44952;;;;kuru1302;hahn-1911
-namhai;;12du_p;1st (incl) Person Dual;44951;;;;kuru1302;hahn-1911
-nanghai;;12du_p;1st (incl) Person Dual;47735;;;;kuru1302;hahn-1911
-naːm;;12pl_a;1st (incl) Person Plural;44950;;;;kuru1302;hahn-1911
-naːm;;12pl_s;1st (incl) Person Plural;44949;;;;kuru1302;hahn-1911
-naman;;12pl_o;1st (incl) Person Plural;44948;;;;kuru1302;hahn-1911
-namhai;;12pl_p;1st (incl) Person Plural;44947;;;;kuru1302;hahn-1911
-nanghai;;12pl_p;1st (incl) Person Plural;47736;;;;kuru1302;hahn-1911
-niːn;;2sg_a;2nd Person Singular;44946;;;;kuru1302;hahn-1911
-niːn;;2sg_s;2nd Person Singular;44945;;;;kuru1302;hahn-1911
-ningan;;2sg_o;2nd Person Singular;44944;;;;kuru1302;hahn-1911
-ninghai;;2sg_p;2nd Person Singular;44943;;;;kuru1302;hahn-1911
-niːm;;2du_a;2nd Person Dual;44942;;;;kuru1302;hahn-1911
-niːm;;2du_s;2nd Person Dual;44941;;;;kuru1302;hahn-1911
-niman;;2du_o;2nd Person Dual;44940;;;;kuru1302;hahn-1911
-nimhai;;2du_p;2nd Person Dual;44939;;;;kuru1302;hahn-1911
-niːm;;2pl_a;2nd Person Plural;44938;;;;kuru1302;hahn-1911
-niːm;;2pl_s;2nd Person Plural;44937;;;;kuru1302;hahn-1911
-niman;;2pl_o;2nd Person Plural;44936;;;;kuru1302;hahn-1911
-nimhai;;2pl_p;2nd Person Plural;44935;;;;kuru1302;hahn-1911
-aːs;;3sg_m_a;3rd Person Singular Masculine;44934;;;;kuru1302;hahn-1911
-aːs;;3sg_m_s;3rd Person Singular Masculine;44933;;;;kuru1302;hahn-1911
-aːsin;;3sg_m_o;3rd Person Singular Masculine;44932;;;;kuru1302;hahn-1911
-aːs gahi;;3sg_m_p;3rd Person Singular Masculine;44931;;;;kuru1302;hahn-1911
-aːd;;3sg_n_a;3rd Person Singular Neuter;44930;;;;kuru1302;hahn-1911
-aːd;;3sg_n_s;3rd Person Singular Neuter;44929;;;;kuru1302;hahn-1911
-aːdin;;3sg_n_o;3rd Person Singular Neuter;44928;;;;kuru1302;hahn-1911
-aːdigahi;;3sg_n_p;3rd Person Singular Neuter;44927;;;;kuru1302;hahn-1911
-aːr;;3d-a;3rd Person Dual;44926;;;;kuru1302;hahn-1911
-aːr;;3d-s;3rd Person Dual;44925;;;;kuru1302;hahn-1911
-aːrin;;3d-o;3rd Person Dual;44924;;;;kuru1302;hahn-1911
-aːrgahi;;3d-p;3rd Person Dual;44923;;;;kuru1302;hahn-1911
-aːr;;3p-a;3rd Person Plural;44922;;;;kuru1302;hahn-1911
-aːr;;3p-s;3rd Person Plural;44921;;;;kuru1302;hahn-1911
-aːrin;;3p-o;3rd Person Plural;44920;;;;kuru1302;hahn-1911
-aːrgahi;;3p-p;3rd Person Plural;44919;;;;kuru1302;hahn-1911
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+eːn,,1sg_a,1st (excl) Person Singular,44966,,,,kuru1302,hahn-1911
+eːn,,1sg_s,1st (excl) Person Singular,44965,,,,kuru1302,hahn-1911
+engan,,1sg_o,1st (excl) Person Singular,44964,,,,kuru1302,hahn-1911
+enghai,,1sg_p,1st (excl) Person Singular,44963,,,,kuru1302,hahn-1911
+eːm,,1du_a,1st (excl) Person Dual,44962,,,,kuru1302,hahn-1911
+eːm,,1du_s,1st (excl) Person Dual,44961,,,,kuru1302,hahn-1911
+eman,,1du_o,1st (excl) Person Dual,44960,,,,kuru1302,hahn-1911
+emhai,,1du_p,1st (excl) Person Dual,44959,,,,kuru1302,hahn-1911
+eːm,,1pl_a,1st (excl) Person Plural,44958,,,,kuru1302,hahn-1911
+eːm,,1pl_s,1st (excl) Person Plural,44957,,,,kuru1302,hahn-1911
+eman,,1pl_o,1st (excl) Person Plural,44956,,,,kuru1302,hahn-1911
+emhai,,1pl_p,1st (excl) Person Plural,44955,,,,kuru1302,hahn-1911
+naːm,,12du_a,1st (incl) Person Dual,44954,,,,kuru1302,hahn-1911
+naːm,,12du_s,1st (incl) Person Dual,44953,,,,kuru1302,hahn-1911
+naman,,12du_o,1st (incl) Person Dual,44952,,,,kuru1302,hahn-1911
+namhai,,12du_p,1st (incl) Person Dual,44951,,,,kuru1302,hahn-1911
+nanghai,,12du_p,1st (incl) Person Dual,47735,,,,kuru1302,hahn-1911
+naːm,,12pl_a,1st (incl) Person Plural,44950,,,,kuru1302,hahn-1911
+naːm,,12pl_s,1st (incl) Person Plural,44949,,,,kuru1302,hahn-1911
+naman,,12pl_o,1st (incl) Person Plural,44948,,,,kuru1302,hahn-1911
+namhai,,12pl_p,1st (incl) Person Plural,44947,,,,kuru1302,hahn-1911
+nanghai,,12pl_p,1st (incl) Person Plural,47736,,,,kuru1302,hahn-1911
+niːn,,2sg_a,2nd Person Singular,44946,,,,kuru1302,hahn-1911
+niːn,,2sg_s,2nd Person Singular,44945,,,,kuru1302,hahn-1911
+ningan,,2sg_o,2nd Person Singular,44944,,,,kuru1302,hahn-1911
+ninghai,,2sg_p,2nd Person Singular,44943,,,,kuru1302,hahn-1911
+niːm,,2du_a,2nd Person Dual,44942,,,,kuru1302,hahn-1911
+niːm,,2du_s,2nd Person Dual,44941,,,,kuru1302,hahn-1911
+niman,,2du_o,2nd Person Dual,44940,,,,kuru1302,hahn-1911
+nimhai,,2du_p,2nd Person Dual,44939,,,,kuru1302,hahn-1911
+niːm,,2pl_a,2nd Person Plural,44938,,,,kuru1302,hahn-1911
+niːm,,2pl_s,2nd Person Plural,44937,,,,kuru1302,hahn-1911
+niman,,2pl_o,2nd Person Plural,44936,,,,kuru1302,hahn-1911
+nimhai,,2pl_p,2nd Person Plural,44935,,,,kuru1302,hahn-1911
+aːs,,3sg_m_a,3rd Person Singular Masculine,44934,,,,kuru1302,hahn-1911
+aːs,,3sg_m_s,3rd Person Singular Masculine,44933,,,,kuru1302,hahn-1911
+aːsin,,3sg_m_o,3rd Person Singular Masculine,44932,,,,kuru1302,hahn-1911
+aːs gahi,,3sg_m_p,3rd Person Singular Masculine,44931,,,,kuru1302,hahn-1911
+aːd,,3sg_n_a,3rd Person Singular Neuter,44930,,,,kuru1302,hahn-1911
+aːd,,3sg_n_s,3rd Person Singular Neuter,44929,,,,kuru1302,hahn-1911
+aːdin,,3sg_n_o,3rd Person Singular Neuter,44928,,,,kuru1302,hahn-1911
+aːdigahi,,3sg_n_p,3rd Person Singular Neuter,44927,,,,kuru1302,hahn-1911
+aːr,,3d-a,3rd Person Dual,44926,,,,kuru1302,hahn-1911
+aːr,,3d-s,3rd Person Dual,44925,,,,kuru1302,hahn-1911
+aːrin,,3d-o,3rd Person Dual,44924,,,,kuru1302,hahn-1911
+aːrgahi,,3d-p,3rd Person Dual,44923,,,,kuru1302,hahn-1911
+aːr,,3p-a,3rd Person Plural,44922,,,,kuru1302,hahn-1911
+aːr,,3p-s,3rd Person Plural,44921,,,,kuru1302,hahn-1911
+aːrin,,3p-o,3rd Person Plural,44920,,,,kuru1302,hahn-1911
+aːrgahi,,3p-p,3rd Person Plural,44919,,,,kuru1302,hahn-1911

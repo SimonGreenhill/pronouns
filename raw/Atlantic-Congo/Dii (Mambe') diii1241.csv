@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mí, -ń;;1sg_a;1st (excl) Person Singular;57200;;;;diii1241;bohnhoff-2010
-mí, -ń;;1sg_s;1st (excl) Person Singular;57199;;;;diii1241;bohnhoff-2010
-mí, -ń;;1sg_o;1st (excl) Person Singular;57198;;;;diii1241;bohnhoff-2010
-míí;;1sg_p;1st (excl) Person Singular;57197;;;;diii1241;bohnhoff-2010
-vɔ́;;1du_a;1st (excl) Person Dual;57196;;;;diii1241;bohnhoff-2010
-vɔ́;;1du_s;1st (excl) Person Dual;57195;;;;diii1241;bohnhoff-2010
-vɔ́;;1du_o;1st (excl) Person Dual;57194;;;;diii1241;bohnhoff-2010
-vóó;;1du_p;1st (excl) Person Dual;57193;;;;diii1241;bohnhoff-2010
-vɔ́;;1pl_a;1st (excl) Person Plural;57192;;;;diii1241;bohnhoff-2010
-vɔ́;;1pl_s;1st (excl) Person Plural;57191;;;;diii1241;bohnhoff-2010
-vɔ́;;1pl_o;1st (excl) Person Plural;57190;;;;diii1241;bohnhoff-2010
-vóó;;1pl_p;1st (excl) Person Plural;57189;;;;diii1241;bohnhoff-2010
-ba, -a;;12du_a;1st (incl) Person Dual;57188;;;;diii1241;bohnhoff-2010
-ba, -a;;12du_s;1st (incl) Person Dual;57187;;;;diii1241;bohnhoff-2010
-ba;;12du_o;1st (incl) Person Dual;57186;;;;diii1241;bohnhoff-2010
-ba;;12du_p;1st (incl) Person Dual;57185;;;;diii1241;bohnhoff-2010
-ba…ví;;12pl_a;1st (incl) Person Plural;57184;;“Discontinuous forms where the verb, its pronominal object, even a set of serial verbs, are insertable between these elements.”;;diii1241;bohnhoff-2010
-ba…ví;;12pl_s;1st (incl) Person Plural;57183;;“Discontinuous forms where the verb, its pronominal object, even a set of serial verbs, are insertable between these elements.”;;diii1241;bohnhoff-2010
-ba ví;;12pl_o;1st (incl) Person Plural;57182;;;;diii1241;bohnhoff-2010
-bàà ví;;12pl_p;1st (incl) Person Plural;57181;;;;diii1241;bohnhoff-2010
-mɔ́, -ḿ;;2sg_a;2nd Person Singular;57180;;;;diii1241;bohnhoff-2010
-mɔ́, -ḿ;;2sg_s;2nd Person Singular;57179;;;;diii1241;bohnhoff-2010
-mɔ́, -ḿ;;2sg_o;2nd Person Singular;57178;;;;diii1241;bohnhoff-2010
-móó;;2sg_p;2nd Person Singular;57177;;;;diii1241;bohnhoff-2010
-ví;;2du_a;2nd Person Dual;57176;;;;diii1241;bohnhoff-2010
-ví;;2du_s;2nd Person Dual;57175;;;;diii1241;bohnhoff-2010
-ví;;2du_o;2nd Person Dual;57174;;;;diii1241;bohnhoff-2010
-víí;;2du_p;2nd Person Dual;57173;;;;diii1241;bohnhoff-2010
-ví;;2pl_a;2nd Person Plural;57172;;;;diii1241;bohnhoff-2010
-ví;;2pl_s;2nd Person Plural;57171;;;;diii1241;bohnhoff-2010
-ví;;2pl_o;2nd Person Plural;57170;;;;diii1241;bohnhoff-2010
-víí;;2pl_p;2nd Person Plural;57169;;;;diii1241;bohnhoff-2010
-Ø;;3sg_m_a;3rd Person Singular Masculine;57168;;3SG A/S expressed by absence of pronoun (zero form);;diii1241;bohnhoff-2010
-Ø;;3sg_m_s;3rd Person Singular Masculine;57167;;3SG A/S expressed by absence of pronoun (zero form);;diii1241;bohnhoff-2010
--wʊ;;3sg_m_o;3rd Person Singular Masculine;57166;;;;diii1241;bohnhoff-2010
-wòò;;3sg_m_p;3rd Person Singular Masculine;57165;;;;diii1241;bohnhoff-2010
-Ø;;3sg_n_a;3rd Person Singular Neuter;57164;;3SG A/S expressed by absence of pronoun (zero form);;diii1241;bohnhoff-2010
-Ø;;3sg_n_s;3rd Person Singular Neuter;57163;;3SG A/S expressed by absence of pronoun (zero form);;diii1241;bohnhoff-2010
--wʊ;;3sg_n_o;3rd Person Singular Neuter;57162;;;;diii1241;bohnhoff-2010
-wòò;;3sg_n_p;3rd Person Singular Neuter;57161;;;;diii1241;bohnhoff-2010
-vʊ;;3d-a;3rd Person Dual;57160;;;;diii1241;bohnhoff-2010
-vʊ;;3d-s;3rd Person Dual;57159;;;;diii1241;bohnhoff-2010
-vʊ;;3d-o;3rd Person Dual;57158;;;;diii1241;bohnhoff-2010
-vòò;;3d-p;3rd Person Dual;57157;;;;diii1241;bohnhoff-2010
-vʊ;;3p-a;3rd Person Plural;57156;;;;diii1241;bohnhoff-2010
-vʊ;;3p-s;3rd Person Plural;57155;;;;diii1241;bohnhoff-2010
-vʊ;;3p-o;3rd Person Plural;57154;;;;diii1241;bohnhoff-2010
-vòò;;3p-p;3rd Person Plural;57153;;;;diii1241;bohnhoff-2010
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+"mí, -ń",,1sg_a,1st (excl) Person Singular,57200,,,,diii1241,bohnhoff-2010
+"mí, -ń",,1sg_s,1st (excl) Person Singular,57199,,,,diii1241,bohnhoff-2010
+"mí, -ń",,1sg_o,1st (excl) Person Singular,57198,,,,diii1241,bohnhoff-2010
+míí,,1sg_p,1st (excl) Person Singular,57197,,,,diii1241,bohnhoff-2010
+vɔ́,,1du_a,1st (excl) Person Dual,57196,,,,diii1241,bohnhoff-2010
+vɔ́,,1du_s,1st (excl) Person Dual,57195,,,,diii1241,bohnhoff-2010
+vɔ́,,1du_o,1st (excl) Person Dual,57194,,,,diii1241,bohnhoff-2010
+vóó,,1du_p,1st (excl) Person Dual,57193,,,,diii1241,bohnhoff-2010
+vɔ́,,1pl_a,1st (excl) Person Plural,57192,,,,diii1241,bohnhoff-2010
+vɔ́,,1pl_s,1st (excl) Person Plural,57191,,,,diii1241,bohnhoff-2010
+vɔ́,,1pl_o,1st (excl) Person Plural,57190,,,,diii1241,bohnhoff-2010
+vóó,,1pl_p,1st (excl) Person Plural,57189,,,,diii1241,bohnhoff-2010
+"ba, -a",,12du_a,1st (incl) Person Dual,57188,,,,diii1241,bohnhoff-2010
+"ba, -a",,12du_s,1st (incl) Person Dual,57187,,,,diii1241,bohnhoff-2010
+ba,,12du_o,1st (incl) Person Dual,57186,,,,diii1241,bohnhoff-2010
+ba,,12du_p,1st (incl) Person Dual,57185,,,,diii1241,bohnhoff-2010
+ba…ví,,12pl_a,1st (incl) Person Plural,57184,,"“Discontinuous forms where the verb, its pronominal object, even a set of serial verbs, are insertable between these elements.”",,diii1241,bohnhoff-2010
+ba…ví,,12pl_s,1st (incl) Person Plural,57183,,"“Discontinuous forms where the verb, its pronominal object, even a set of serial verbs, are insertable between these elements.”",,diii1241,bohnhoff-2010
+ba ví,,12pl_o,1st (incl) Person Plural,57182,,,,diii1241,bohnhoff-2010
+bàà ví,,12pl_p,1st (incl) Person Plural,57181,,,,diii1241,bohnhoff-2010
+"mɔ́, -ḿ",,2sg_a,2nd Person Singular,57180,,,,diii1241,bohnhoff-2010
+"mɔ́, -ḿ",,2sg_s,2nd Person Singular,57179,,,,diii1241,bohnhoff-2010
+"mɔ́, -ḿ",,2sg_o,2nd Person Singular,57178,,,,diii1241,bohnhoff-2010
+móó,,2sg_p,2nd Person Singular,57177,,,,diii1241,bohnhoff-2010
+ví,,2du_a,2nd Person Dual,57176,,,,diii1241,bohnhoff-2010
+ví,,2du_s,2nd Person Dual,57175,,,,diii1241,bohnhoff-2010
+ví,,2du_o,2nd Person Dual,57174,,,,diii1241,bohnhoff-2010
+víí,,2du_p,2nd Person Dual,57173,,,,diii1241,bohnhoff-2010
+ví,,2pl_a,2nd Person Plural,57172,,,,diii1241,bohnhoff-2010
+ví,,2pl_s,2nd Person Plural,57171,,,,diii1241,bohnhoff-2010
+ví,,2pl_o,2nd Person Plural,57170,,,,diii1241,bohnhoff-2010
+víí,,2pl_p,2nd Person Plural,57169,,,,diii1241,bohnhoff-2010
+Ø,,3sg_m_a,3rd Person Singular Masculine,57168,,3SG A/S expressed by absence of pronoun (zero form),,diii1241,bohnhoff-2010
+Ø,,3sg_m_s,3rd Person Singular Masculine,57167,,3SG A/S expressed by absence of pronoun (zero form),,diii1241,bohnhoff-2010
+-wʊ,,3sg_m_o,3rd Person Singular Masculine,57166,,,,diii1241,bohnhoff-2010
+wòò,,3sg_m_p,3rd Person Singular Masculine,57165,,,,diii1241,bohnhoff-2010
+Ø,,3sg_n_a,3rd Person Singular Neuter,57164,,3SG A/S expressed by absence of pronoun (zero form),,diii1241,bohnhoff-2010
+Ø,,3sg_n_s,3rd Person Singular Neuter,57163,,3SG A/S expressed by absence of pronoun (zero form),,diii1241,bohnhoff-2010
+-wʊ,,3sg_n_o,3rd Person Singular Neuter,57162,,,,diii1241,bohnhoff-2010
+wòò,,3sg_n_p,3rd Person Singular Neuter,57161,,,,diii1241,bohnhoff-2010
+vʊ,,3d-a,3rd Person Dual,57160,,,,diii1241,bohnhoff-2010
+vʊ,,3d-s,3rd Person Dual,57159,,,,diii1241,bohnhoff-2010
+vʊ,,3d-o,3rd Person Dual,57158,,,,diii1241,bohnhoff-2010
+vòò,,3d-p,3rd Person Dual,57157,,,,diii1241,bohnhoff-2010
+vʊ,,3p-a,3rd Person Plural,57156,,,,diii1241,bohnhoff-2010
+vʊ,,3p-s,3rd Person Plural,57155,,,,diii1241,bohnhoff-2010
+vʊ,,3p-o,3rd Person Plural,57154,,,,diii1241,bohnhoff-2010
+vòò,,3p-p,3rd Person Plural,57153,,,,diii1241,bohnhoff-2010

@@ -1,55 +1,55 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-aga;;1sg_a;1st (excl) Person Singular;42535;;;;rapo1238;muller-1954
-aru;;1sg_a;1st (excl) Person Singular;42536;;;;rapo1238;muller-1954
-aga;;1sg_s;1st (excl) Person Singular;42533;;;;rapo1238;muller-1954
-aru;;1sg_s;1st (excl) Person Singular;42534;;;;rapo1238;muller-1954
-aga;;1sg_o;1st (excl) Person Singular;42525;;;;rapo1238;muller-1954
-aru;;1sg_o;1st (excl) Person Singular;42526;;;;rapo1238;muller-1954
--ai;;1sg_p;1st (excl) Person Singular;41175;;;;rapo1238;muller-1954
-ioka;;1du_a;1st (excl) Person Dual;41174;;;;rapo1238;muller-1954
-ioka;;1du_s;1st (excl) Person Dual;41173;;;;rapo1238;muller-1954
-ioka;;1du_o;1st (excl) Person Dual;41172;;;;rapo1238;muller-1954
--abi;;1du_p;1st (excl) Person Dual;41171;;;;rapo1238;muller-1954
-ioka;;1pl_a;1st (excl) Person Plural;41170;;;;rapo1238;muller-1954
-ioka;;1pl_s;1st (excl) Person Plural;41169;;;;rapo1238;muller-1954
-ioka;;1pl_o;1st (excl) Person Plural;41168;;;;rapo1238;muller-1954
--abi;;1pl_p;1st (excl) Person Plural;41167;;;;rapo1238;muller-1954
-peka;;12du_a;1st (incl) Person Dual;41166;;;;rapo1238;muller-1954
-peka;;12du_s;1st (incl) Person Dual;41165;;;;rapo1238;muller-1954
-peka;;12du_o;1st (incl) Person Dual;41164;;;;rapo1238;muller-1954
--abi;;12du_p;1st (incl) Person Dual;41163;;;;rapo1238;muller-1954
-bioga;;12pl_a;1st (incl) Person Plural;41162;;;;rapo1238;muller-1954
-bioga;;12pl_s;1st (incl) Person Plural;41161;;;;rapo1238;muller-1954
-bioga;;12pl_o;1st (incl) Person Plural;41160;;;;rapo1238;muller-1954
--abi;;12pl_p;1st (incl) Person Plural;41159;;;;rapo1238;muller-1954
-bira;;2sg_a;2nd Person Singular;42531;;;;rapo1238;muller-1954
-biru;;2sg_a;2nd Person Singular;42532;;;;rapo1238;muller-1954
-bira;;2sg_s;2nd Person Singular;42529;;;;rapo1238;muller-1954
-biru;;2sg_s;2nd Person Singular;42530;;;;rapo1238;muller-1954
-bira;;2sg_o;2nd Person Singular;42527;;;;rapo1238;muller-1954
-biru;;2sg_o;2nd Person Singular;42528;;;;rapo1238;muller-1954
--ari;;2sg_p;2nd Person Singular;41155;;;;rapo1238;muller-1954
-mega;;2du_a;2nd Person Dual;41154;;;;rapo1238;muller-1954
-mega;;2du_s;2nd Person Dual;41153;;;;rapo1238;muller-1954
-mega;;2du_o;2nd Person Dual;41152;;;;rapo1238;muller-1954
--abisi;;2du_p;2nd Person Dual;41151;;;;rapo1238;muller-1954
-itarea;;2pl_a;2nd Person Plural;41150;;;;rapo1238;muller-1954
-itarea;;2pl_s;2nd Person Plural;41149;;;;rapo1238;muller-1954
-itarea;;2pl_o;2nd Person Plural;41148;;;;rapo1238;muller-1954
--abisi;;2pl_p;2nd Person Plural;41147;;;;rapo1238;muller-1954
-ita;;3sg_m_a;3rd Person Singular Masculine;41146;;;;rapo1238;muller-1954
-ita;;3sg_m_s;3rd Person Singular Masculine;41145;;;;rapo1238;muller-1954
-ita;;3sg_m_o;3rd Person Singular Masculine;41144;;;;rapo1238;muller-1954
--ara;;3sg_m_p;3rd Person Singular Masculine;41143;;;;rapo1238;muller-1954
-ia;;3sg_n_a;3rd Person Singular Neuter;41142;;;;rapo1238;muller-1954
-ia;;3sg_n_s;3rd Person Singular Neuter;41141;;;;rapo1238;muller-1954
-ia;;3sg_n_o;3rd Person Singular Neuter;41140;;;;rapo1238;muller-1954
--ʔo;;3sg_n_p;3rd Person Singular Neuter;41139;;;;rapo1238;muller-1954
-siga;;3d-a;3rd Person Dual;41138;;;;rapo1238;muller-1954
-siga;;3d-s;3rd Person Dual;41137;;;;rapo1238;muller-1954
-siga;;3d-o;3rd Person Dual;41136;;;;rapo1238;muller-1954
--ara;;3d-p;3rd Person Dual;41135;;;;rapo1238;muller-1954
-pirio;;3p-a;3rd Person Plural;41134;;;;rapo1238;muller-1954
-pirio;;3p-s;3rd Person Plural;41133;;;;rapo1238;muller-1954
-pirio;;3p-o;3rd Person Plural;41132;;;;rapo1238;muller-1954
--ara;;3p-p;3rd Person Plural;41131;;;;rapo1238;muller-1954
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+aga,,1sg_a,1st (excl) Person Singular,42535,,,,rapo1238,muller-1954
+aru,,1sg_a,1st (excl) Person Singular,42536,,,,rapo1238,muller-1954
+aga,,1sg_s,1st (excl) Person Singular,42533,,,,rapo1238,muller-1954
+aru,,1sg_s,1st (excl) Person Singular,42534,,,,rapo1238,muller-1954
+aga,,1sg_o,1st (excl) Person Singular,42525,,,,rapo1238,muller-1954
+aru,,1sg_o,1st (excl) Person Singular,42526,,,,rapo1238,muller-1954
+-ai,,1sg_p,1st (excl) Person Singular,41175,,,,rapo1238,muller-1954
+ioka,,1du_a,1st (excl) Person Dual,41174,,,,rapo1238,muller-1954
+ioka,,1du_s,1st (excl) Person Dual,41173,,,,rapo1238,muller-1954
+ioka,,1du_o,1st (excl) Person Dual,41172,,,,rapo1238,muller-1954
+-abi,,1du_p,1st (excl) Person Dual,41171,,,,rapo1238,muller-1954
+ioka,,1pl_a,1st (excl) Person Plural,41170,,,,rapo1238,muller-1954
+ioka,,1pl_s,1st (excl) Person Plural,41169,,,,rapo1238,muller-1954
+ioka,,1pl_o,1st (excl) Person Plural,41168,,,,rapo1238,muller-1954
+-abi,,1pl_p,1st (excl) Person Plural,41167,,,,rapo1238,muller-1954
+peka,,12du_a,1st (incl) Person Dual,41166,,,,rapo1238,muller-1954
+peka,,12du_s,1st (incl) Person Dual,41165,,,,rapo1238,muller-1954
+peka,,12du_o,1st (incl) Person Dual,41164,,,,rapo1238,muller-1954
+-abi,,12du_p,1st (incl) Person Dual,41163,,,,rapo1238,muller-1954
+bioga,,12pl_a,1st (incl) Person Plural,41162,,,,rapo1238,muller-1954
+bioga,,12pl_s,1st (incl) Person Plural,41161,,,,rapo1238,muller-1954
+bioga,,12pl_o,1st (incl) Person Plural,41160,,,,rapo1238,muller-1954
+-abi,,12pl_p,1st (incl) Person Plural,41159,,,,rapo1238,muller-1954
+bira,,2sg_a,2nd Person Singular,42531,,,,rapo1238,muller-1954
+biru,,2sg_a,2nd Person Singular,42532,,,,rapo1238,muller-1954
+bira,,2sg_s,2nd Person Singular,42529,,,,rapo1238,muller-1954
+biru,,2sg_s,2nd Person Singular,42530,,,,rapo1238,muller-1954
+bira,,2sg_o,2nd Person Singular,42527,,,,rapo1238,muller-1954
+biru,,2sg_o,2nd Person Singular,42528,,,,rapo1238,muller-1954
+-ari,,2sg_p,2nd Person Singular,41155,,,,rapo1238,muller-1954
+mega,,2du_a,2nd Person Dual,41154,,,,rapo1238,muller-1954
+mega,,2du_s,2nd Person Dual,41153,,,,rapo1238,muller-1954
+mega,,2du_o,2nd Person Dual,41152,,,,rapo1238,muller-1954
+-abisi,,2du_p,2nd Person Dual,41151,,,,rapo1238,muller-1954
+itarea,,2pl_a,2nd Person Plural,41150,,,,rapo1238,muller-1954
+itarea,,2pl_s,2nd Person Plural,41149,,,,rapo1238,muller-1954
+itarea,,2pl_o,2nd Person Plural,41148,,,,rapo1238,muller-1954
+-abisi,,2pl_p,2nd Person Plural,41147,,,,rapo1238,muller-1954
+ita,,3sg_m_a,3rd Person Singular Masculine,41146,,,,rapo1238,muller-1954
+ita,,3sg_m_s,3rd Person Singular Masculine,41145,,,,rapo1238,muller-1954
+ita,,3sg_m_o,3rd Person Singular Masculine,41144,,,,rapo1238,muller-1954
+-ara,,3sg_m_p,3rd Person Singular Masculine,41143,,,,rapo1238,muller-1954
+ia,,3sg_n_a,3rd Person Singular Neuter,41142,,,,rapo1238,muller-1954
+ia,,3sg_n_s,3rd Person Singular Neuter,41141,,,,rapo1238,muller-1954
+ia,,3sg_n_o,3rd Person Singular Neuter,41140,,,,rapo1238,muller-1954
+-ʔo,,3sg_n_p,3rd Person Singular Neuter,41139,,,,rapo1238,muller-1954
+siga,,3d-a,3rd Person Dual,41138,,,,rapo1238,muller-1954
+siga,,3d-s,3rd Person Dual,41137,,,,rapo1238,muller-1954
+siga,,3d-o,3rd Person Dual,41136,,,,rapo1238,muller-1954
+-ara,,3d-p,3rd Person Dual,41135,,,,rapo1238,muller-1954
+pirio,,3p-a,3rd Person Plural,41134,,,,rapo1238,muller-1954
+pirio,,3p-s,3rd Person Plural,41133,,,,rapo1238,muller-1954
+pirio,,3p-o,3rd Person Plural,41132,,,,rapo1238,muller-1954
+-ara,,3p-p,3rd Person Plural,41131,,,,rapo1238,muller-1954

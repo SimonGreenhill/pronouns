@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-me-;;1sg_a;1st (excl) Person Singular;56065;;;;ewee1241;ameka-1991
-me-;;1sg_s;1st (excl) Person Singular;56064;;;;ewee1241;ameka-1991
--m;;1sg_o;1st (excl) Person Singular;56063;;;;ewee1241;ameka-1991
-ɲe;;1sg_p;1st (excl) Person Singular;56062;;;;ewee1241;ameka-1991
-mí, míé;;1du_a;1st (excl) Person Dual;56061;;;;ewee1241;ameka-1991
-mí, míé;;1du_s;1st (excl) Person Dual;56060;;;;ewee1241;ameka-1991
-mí;;1du_o;1st (excl) Person Dual;56059;;;;ewee1241;ameka-1991
-miá, miáwó;;1du_p;1st (excl) Person Dual;56058;;;;ewee1241;ameka-1991
-mí, míé;;1pl_a;1st (excl) Person Plural;56057;;;;ewee1241;ameka-1991
-mí, míé;;1pl_s;1st (excl) Person Plural;56056;;;;ewee1241;ameka-1991
-mí;;1pl_o;1st (excl) Person Plural;56055;;;;ewee1241;ameka-1991
-miá, miáwó;;1pl_p;1st (excl) Person Plural;56054;;;;ewee1241;ameka-1991
-mí, míé;;12du_a;1st (incl) Person Dual;56053;;;;ewee1241;ameka-1991
-mí, míé;;12du_s;1st (incl) Person Dual;56052;;;;ewee1241;ameka-1991
-mí;;12du_o;1st (incl) Person Dual;56051;;;;ewee1241;ameka-1991
-miá, miáwó;;12du_p;1st (incl) Person Dual;56050;;;;ewee1241;ameka-1991
-mí, míé;;12pl_a;1st (incl) Person Plural;56049;;;;ewee1241;ameka-1991
-mí, míé;;12pl_s;1st (incl) Person Plural;56048;;;;ewee1241;ameka-1991
-mí;;12pl_o;1st (incl) Person Plural;56047;;;;ewee1241;ameka-1991
-miá, miáwó;;12pl_p;1st (incl) Person Plural;56046;;;;ewee1241;ameka-1991
-nè-, è-;;2sg_a;2nd Person Singular;56045;;;;ewee1241;ameka-1991
-nè-, è-;;2sg_s;2nd Person Singular;56044;;;;ewee1241;ameka-1991
-wò;;2sg_o;2nd Person Singular;56043;;;;ewee1241;ameka-1991
-wò;;2sg_p;2nd Person Singular;56042;;;;ewee1241;ameka-1991
-mi, mie;;2du_a;2nd Person Dual;56041;;;;ewee1241;ameka-1991
-mi, mie;;2du_s;2nd Person Dual;56040;;;;ewee1241;ameka-1991
-mi;;2du_o;2nd Person Dual;56039;;;;ewee1241;ameka-1991
-mia, miawó;;2du_p;2nd Person Dual;56038;;;;ewee1241;ameka-1991
-mi, mie;;2pl_a;2nd Person Plural;56037;;;;ewee1241;ameka-1991
-mi, mie;;2pl_s;2nd Person Plural;56036;;;;ewee1241;ameka-1991
-mi;;2pl_o;2nd Person Plural;56035;;;;ewee1241;ameka-1991
-mia, miawó;;2pl_p;2nd Person Plural;56034;;;;ewee1241;ameka-1991
-wò, é;;3sg_m_a;3rd Person Singular Masculine;56033;;;;ewee1241;ameka-1991
-wò, é;;3sg_m_s;3rd Person Singular Masculine;56032;;;;ewee1241;ameka-1991
--í;;3sg_m_o;3rd Person Singular Masculine;56031;;;;ewee1241;ameka-1991
-é, eya;;3sg_m_p;3rd Person Singular Masculine;56030;;;;ewee1241;ameka-1991
-wò, é;;3sg_n_a;3rd Person Singular Neuter;56029;;;;ewee1241;ameka-1991
-wò, é;;3sg_n_s;3rd Person Singular Neuter;56028;;;;ewee1241;ameka-1991
--í;;3sg_n_o;3rd Person Singular Neuter;56027;;;;ewee1241;ameka-1991
-é, eya;;3sg_n_p;3rd Person Singular Neuter;56026;;;;ewee1241;ameka-1991
-wó;;3d-a;3rd Person Dual;56025;;;;ewee1241;ameka-1991
-wó;;3d-s;3rd Person Dual;56024;;;;ewee1241;ameka-1991
-wó;;3d-o;3rd Person Dual;56023;;;;ewee1241;ameka-1991
-wó, woá, woáwó;;3d-p;3rd Person Dual;56022;;;;ewee1241;ameka-1991
-wó;;3p-a;3rd Person Plural;56021;;;;ewee1241;ameka-1991
-wó;;3p-s;3rd Person Plural;56020;;;;ewee1241;ameka-1991
-wó;;3p-o;3rd Person Plural;56019;;;;ewee1241;ameka-1991
-wó, woá, woáwó;;3p-p;3rd Person Plural;56018;;;;ewee1241;ameka-1991
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+me-,,1sg_a,1st (excl) Person Singular,56065,,,,ewee1241,ameka-1991
+me-,,1sg_s,1st (excl) Person Singular,56064,,,,ewee1241,ameka-1991
+-m,,1sg_o,1st (excl) Person Singular,56063,,,,ewee1241,ameka-1991
+ɲe,,1sg_p,1st (excl) Person Singular,56062,,,,ewee1241,ameka-1991
+"mí, míé",,1du_a,1st (excl) Person Dual,56061,,,,ewee1241,ameka-1991
+"mí, míé",,1du_s,1st (excl) Person Dual,56060,,,,ewee1241,ameka-1991
+mí,,1du_o,1st (excl) Person Dual,56059,,,,ewee1241,ameka-1991
+"miá, miáwó",,1du_p,1st (excl) Person Dual,56058,,,,ewee1241,ameka-1991
+"mí, míé",,1pl_a,1st (excl) Person Plural,56057,,,,ewee1241,ameka-1991
+"mí, míé",,1pl_s,1st (excl) Person Plural,56056,,,,ewee1241,ameka-1991
+mí,,1pl_o,1st (excl) Person Plural,56055,,,,ewee1241,ameka-1991
+"miá, miáwó",,1pl_p,1st (excl) Person Plural,56054,,,,ewee1241,ameka-1991
+"mí, míé",,12du_a,1st (incl) Person Dual,56053,,,,ewee1241,ameka-1991
+"mí, míé",,12du_s,1st (incl) Person Dual,56052,,,,ewee1241,ameka-1991
+mí,,12du_o,1st (incl) Person Dual,56051,,,,ewee1241,ameka-1991
+"miá, miáwó",,12du_p,1st (incl) Person Dual,56050,,,,ewee1241,ameka-1991
+"mí, míé",,12pl_a,1st (incl) Person Plural,56049,,,,ewee1241,ameka-1991
+"mí, míé",,12pl_s,1st (incl) Person Plural,56048,,,,ewee1241,ameka-1991
+mí,,12pl_o,1st (incl) Person Plural,56047,,,,ewee1241,ameka-1991
+"miá, miáwó",,12pl_p,1st (incl) Person Plural,56046,,,,ewee1241,ameka-1991
+"nè-, è-",,2sg_a,2nd Person Singular,56045,,,,ewee1241,ameka-1991
+"nè-, è-",,2sg_s,2nd Person Singular,56044,,,,ewee1241,ameka-1991
+wò,,2sg_o,2nd Person Singular,56043,,,,ewee1241,ameka-1991
+wò,,2sg_p,2nd Person Singular,56042,,,,ewee1241,ameka-1991
+"mi, mie",,2du_a,2nd Person Dual,56041,,,,ewee1241,ameka-1991
+"mi, mie",,2du_s,2nd Person Dual,56040,,,,ewee1241,ameka-1991
+mi,,2du_o,2nd Person Dual,56039,,,,ewee1241,ameka-1991
+"mia, miawó",,2du_p,2nd Person Dual,56038,,,,ewee1241,ameka-1991
+"mi, mie",,2pl_a,2nd Person Plural,56037,,,,ewee1241,ameka-1991
+"mi, mie",,2pl_s,2nd Person Plural,56036,,,,ewee1241,ameka-1991
+mi,,2pl_o,2nd Person Plural,56035,,,,ewee1241,ameka-1991
+"mia, miawó",,2pl_p,2nd Person Plural,56034,,,,ewee1241,ameka-1991
+"wò, é",,3sg_m_a,3rd Person Singular Masculine,56033,,,,ewee1241,ameka-1991
+"wò, é",,3sg_m_s,3rd Person Singular Masculine,56032,,,,ewee1241,ameka-1991
+-í,,3sg_m_o,3rd Person Singular Masculine,56031,,,,ewee1241,ameka-1991
+"é, eya",,3sg_m_p,3rd Person Singular Masculine,56030,,,,ewee1241,ameka-1991
+"wò, é",,3sg_n_a,3rd Person Singular Neuter,56029,,,,ewee1241,ameka-1991
+"wò, é",,3sg_n_s,3rd Person Singular Neuter,56028,,,,ewee1241,ameka-1991
+-í,,3sg_n_o,3rd Person Singular Neuter,56027,,,,ewee1241,ameka-1991
+"é, eya",,3sg_n_p,3rd Person Singular Neuter,56026,,,,ewee1241,ameka-1991
+wó,,3d-a,3rd Person Dual,56025,,,,ewee1241,ameka-1991
+wó,,3d-s,3rd Person Dual,56024,,,,ewee1241,ameka-1991
+wó,,3d-o,3rd Person Dual,56023,,,,ewee1241,ameka-1991
+"wó, woá, woáwó",,3d-p,3rd Person Dual,56022,,,,ewee1241,ameka-1991
+wó,,3p-a,3rd Person Plural,56021,,,,ewee1241,ameka-1991
+wó,,3p-s,3rd Person Plural,56020,,,,ewee1241,ameka-1991
+wó,,3p-o,3rd Person Plural,56019,,,,ewee1241,ameka-1991
+"wó, woá, woáwó",,3p-p,3rd Person Plural,56018,,,,ewee1241,ameka-1991

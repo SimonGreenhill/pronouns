@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-m;;1sg_a;1st (excl) Person Singular;58252;;;;fare1241;sil-2008
-m;;1sg_s;1st (excl) Person Singular;58251;;;;fare1241;sil-2008
-ma;;1sg_o;1st (excl) Person Singular;58250;;;;fare1241;sil-2008
-m;;1sg_p;1st (excl) Person Singular;58249;;;;fare1241;sil-2008
-tɩ;;1du_a;1st (excl) Person Dual;58248;;;;fare1241;sil-2008
-tɩ;;1du_s;1st (excl) Person Dual;58247;;;;fare1241;sil-2008
-tɩ, tɔ;;1du_o;1st (excl) Person Dual;58246;;;;fare1241;sil-2008
-tɩ;;1du_p;1st (excl) Person Dual;58245;;;;fare1241;sil-2008
-tɩ;;1pl_a;1st (excl) Person Plural;58244;;;;fare1241;sil-2008
-tɩ;;1pl_s;1st (excl) Person Plural;58243;;;;fare1241;sil-2008
-tɩ, tɔ;;1pl_o;1st (excl) Person Plural;58242;;;;fare1241;sil-2008
-tɩ;;1pl_p;1st (excl) Person Plural;58241;;;;fare1241;sil-2008
-tɩ;;12du_a;1st (incl) Person Dual;58240;;;;fare1241;sil-2008
-tɩ;;12du_s;1st (incl) Person Dual;58239;;;;fare1241;sil-2008
-tɩ, tɔ;;12du_o;1st (incl) Person Dual;58238;;;;fare1241;sil-2008
-tɩ;;12du_p;1st (incl) Person Dual;58237;;;;fare1241;sil-2008
-tɩ;;12pl_a;1st (incl) Person Plural;58236;;;;fare1241;sil-2008
-tɩ;;12pl_s;1st (incl) Person Plural;58235;;;;fare1241;sil-2008
-tɩ, tɔ;;12pl_o;1st (incl) Person Plural;58234;;;;fare1241;sil-2008
-tɩ;;12pl_p;1st (incl) Person Plural;58233;;;;fare1241;sil-2008
-fʊ;;2sg_a;2nd Person Singular;58232;;;;fare1241;sil-2008
-fʊ;;2sg_s;2nd Person Singular;58231;;;;fare1241;sil-2008
-fʊ, fɔ;;2sg_o;2nd Person Singular;58230;;;;fare1241;sil-2008
-fʊ;;2sg_p;2nd Person Singular;58229;;;;fare1241;sil-2008
-ya;;2du_a;2nd Person Dual;58228;;;;fare1241;sil-2008
-ya;;2du_s;2nd Person Dual;58227;;;;fare1241;sil-2008
-ya;;2du_o;2nd Person Dual;58226;;;;fare1241;sil-2008
-ya;;2du_p;2nd Person Dual;58225;;;;fare1241;sil-2008
-ya;;2pl_a;2nd Person Plural;58224;;;;fare1241;sil-2008
-ya;;2pl_s;2nd Person Plural;58223;;;;fare1241;sil-2008
-ya;;2pl_o;2nd Person Plural;58222;;;;fare1241;sil-2008
-ya;;2pl_p;2nd Person Plural;58221;;;;fare1241;sil-2008
-a;;3sg_m_a;3rd Person Singular Masculine;58220;;;;fare1241;sil-2008
-a;;3sg_m_s;3rd Person Singular Masculine;58219;;;;fare1241;sil-2008
-ẽ;;3sg_m_o;3rd Person Singular Masculine;58218;;;;fare1241;sil-2008
-a;;3sg_m_p;3rd Person Singular Masculine;58217;;;;fare1241;sil-2008
-la;;3sg_n_a;3rd Person Singular Neuter;58216;;;;fare1241;sil-2008
-la;;3sg_n_s;3rd Person Singular Neuter;58215;;;;fare1241;sil-2008
-Ø;;3sg_n_o;3rd Person Singular Neuter;58214;;zero form;;fare1241;sil-2008
-a;;3sg_n_p;3rd Person Singular Neuter;58213;;;;fare1241;sil-2008
-ba;;3d-a;3rd Person Dual;58212;;;;fare1241;sil-2008
-ba;;3d-s;3rd Person Dual;58211;;;;fare1241;sil-2008
-ba;;3d-o;3rd Person Dual;58210;;;;fare1241;sil-2008
-ba;;3d-p;3rd Person Dual;58209;;;;fare1241;sil-2008
-ba;;3p-a;3rd Person Plural;58208;;;;fare1241;sil-2008
-ba;;3p-s;3rd Person Plural;58207;;;;fare1241;sil-2008
-ba;;3p-o;3rd Person Plural;58206;;;;fare1241;sil-2008
-ba;;3p-p;3rd Person Plural;58205;;;;fare1241;sil-2008
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+m,,1sg_a,1st (excl) Person Singular,58252,,,,fare1241,sil-2008
+m,,1sg_s,1st (excl) Person Singular,58251,,,,fare1241,sil-2008
+ma,,1sg_o,1st (excl) Person Singular,58250,,,,fare1241,sil-2008
+m,,1sg_p,1st (excl) Person Singular,58249,,,,fare1241,sil-2008
+tɩ,,1du_a,1st (excl) Person Dual,58248,,,,fare1241,sil-2008
+tɩ,,1du_s,1st (excl) Person Dual,58247,,,,fare1241,sil-2008
+"tɩ, tɔ",,1du_o,1st (excl) Person Dual,58246,,,,fare1241,sil-2008
+tɩ,,1du_p,1st (excl) Person Dual,58245,,,,fare1241,sil-2008
+tɩ,,1pl_a,1st (excl) Person Plural,58244,,,,fare1241,sil-2008
+tɩ,,1pl_s,1st (excl) Person Plural,58243,,,,fare1241,sil-2008
+"tɩ, tɔ",,1pl_o,1st (excl) Person Plural,58242,,,,fare1241,sil-2008
+tɩ,,1pl_p,1st (excl) Person Plural,58241,,,,fare1241,sil-2008
+tɩ,,12du_a,1st (incl) Person Dual,58240,,,,fare1241,sil-2008
+tɩ,,12du_s,1st (incl) Person Dual,58239,,,,fare1241,sil-2008
+"tɩ, tɔ",,12du_o,1st (incl) Person Dual,58238,,,,fare1241,sil-2008
+tɩ,,12du_p,1st (incl) Person Dual,58237,,,,fare1241,sil-2008
+tɩ,,12pl_a,1st (incl) Person Plural,58236,,,,fare1241,sil-2008
+tɩ,,12pl_s,1st (incl) Person Plural,58235,,,,fare1241,sil-2008
+"tɩ, tɔ",,12pl_o,1st (incl) Person Plural,58234,,,,fare1241,sil-2008
+tɩ,,12pl_p,1st (incl) Person Plural,58233,,,,fare1241,sil-2008
+fʊ,,2sg_a,2nd Person Singular,58232,,,,fare1241,sil-2008
+fʊ,,2sg_s,2nd Person Singular,58231,,,,fare1241,sil-2008
+"fʊ, fɔ",,2sg_o,2nd Person Singular,58230,,,,fare1241,sil-2008
+fʊ,,2sg_p,2nd Person Singular,58229,,,,fare1241,sil-2008
+ya,,2du_a,2nd Person Dual,58228,,,,fare1241,sil-2008
+ya,,2du_s,2nd Person Dual,58227,,,,fare1241,sil-2008
+ya,,2du_o,2nd Person Dual,58226,,,,fare1241,sil-2008
+ya,,2du_p,2nd Person Dual,58225,,,,fare1241,sil-2008
+ya,,2pl_a,2nd Person Plural,58224,,,,fare1241,sil-2008
+ya,,2pl_s,2nd Person Plural,58223,,,,fare1241,sil-2008
+ya,,2pl_o,2nd Person Plural,58222,,,,fare1241,sil-2008
+ya,,2pl_p,2nd Person Plural,58221,,,,fare1241,sil-2008
+a,,3sg_m_a,3rd Person Singular Masculine,58220,,,,fare1241,sil-2008
+a,,3sg_m_s,3rd Person Singular Masculine,58219,,,,fare1241,sil-2008
+ẽ,,3sg_m_o,3rd Person Singular Masculine,58218,,,,fare1241,sil-2008
+a,,3sg_m_p,3rd Person Singular Masculine,58217,,,,fare1241,sil-2008
+la,,3sg_n_a,3rd Person Singular Neuter,58216,,,,fare1241,sil-2008
+la,,3sg_n_s,3rd Person Singular Neuter,58215,,,,fare1241,sil-2008
+Ø,,3sg_n_o,3rd Person Singular Neuter,58214,,zero form,,fare1241,sil-2008
+a,,3sg_n_p,3rd Person Singular Neuter,58213,,,,fare1241,sil-2008
+ba,,3d-a,3rd Person Dual,58212,,,,fare1241,sil-2008
+ba,,3d-s,3rd Person Dual,58211,,,,fare1241,sil-2008
+ba,,3d-o,3rd Person Dual,58210,,,,fare1241,sil-2008
+ba,,3d-p,3rd Person Dual,58209,,,,fare1241,sil-2008
+ba,,3p-a,3rd Person Plural,58208,,,,fare1241,sil-2008
+ba,,3p-s,3rd Person Plural,58207,,,,fare1241,sil-2008
+ba,,3p-o,3rd Person Plural,58206,,,,fare1241,sil-2008
+ba,,3p-p,3rd Person Plural,58205,,,,fare1241,sil-2008

@@ -1,111 +1,111 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-izaho;;1sg_a;1st (excl) Person Singular;32470;;;;plat1254;griffiths-1854
-aho;;1sg_a;1st (excl) Person Singular;32471;;;;plat1254;griffiths-1854
-izaho;;1sg_s;1st (excl) Person Singular;32472;;;;plat1254;griffiths-1854
-aho;;1sg_s;1st (excl) Person Singular;32473;;;;plat1254;griffiths-1854
-ahi;;1sg_o;1st (excl) Person Singular;32474;;;;plat1254;griffiths-1854
-ahi;;1sg_p;1st (excl) Person Singular;32475;;;;plat1254;griffiths-1854
-izahai;;1du_a;1st (excl) Person Dual;32476;;;;plat1254;griffiths-1854
-izahai;;1du_s;1st (excl) Person Dual;32477;;;;plat1254;griffiths-1854
-anai;;1du_o;1st (excl) Person Dual;32478;;;;plat1254;griffiths-1854
-anai;;1du_p;1st (excl) Person Dual;32479;;;;plat1254;griffiths-1854
-izahai;;1pl_a;1st (excl) Person Plural;32480;;;;plat1254;griffiths-1854
-izahai;;1pl_s;1st (excl) Person Plural;32481;;;;plat1254;griffiths-1854
-anai;;1pl_o;1st (excl) Person Plural;32482;;;;plat1254;griffiths-1854
-anai;;1pl_p;1st (excl) Person Plural;32483;;;;plat1254;griffiths-1854
-isikia;;12du_a;1st (incl) Person Dual;32484;;;;plat1254;griffiths-1854
-isikia;;12du_s;1st (incl) Person Dual;32485;;;;plat1254;griffiths-1854
-antsikia;;12du_o;1st (incl) Person Dual;32486;;;;plat1254;griffiths-1854
-antsikia;;12du_p;1st (incl) Person Dual;32487;;;;plat1254;griffiths-1854
-isikia;;12pl_a;1st (incl) Person Plural;32488;;;;plat1254;griffiths-1854
-isikia;;12pl_s;1st (incl) Person Plural;32489;;;;plat1254;griffiths-1854
-antsikia;;12pl_o;1st (incl) Person Plural;32490;;;;plat1254;griffiths-1854
-antsikia;;12pl_p;1st (incl) Person Plural;32491;;;;plat1254;griffiths-1854
-hiano;;2sg_a;2nd Person Singular;32492;;;;plat1254;griffiths-1854
-hiano;;2sg_s;2nd Person Singular;32493;;;;plat1254;griffiths-1854
-anao;;2sg_o;2nd Person Singular;32494;;;;plat1254;griffiths-1854
-anao;;2sg_p;2nd Person Singular;32495;;;;plat1254;griffiths-1854
-hianareo;;2du_a;2nd Person Dual;32496;;;;plat1254;griffiths-1854
-hianareo;;2du_s;2nd Person Dual;32497;;;;plat1254;griffiths-1854
-anareo;;2du_o;2nd Person Dual;32498;;;;plat1254;griffiths-1854
-anareo;;2du_p;2nd Person Dual;32499;;;;plat1254;griffiths-1854
-hianareo;;2pl_a;2nd Person Plural;32500;;;;plat1254;griffiths-1854
-hianareo;;2pl_s;2nd Person Plural;32501;;;;plat1254;griffiths-1854
-anareo;;2pl_o;2nd Person Plural;32502;;;;plat1254;griffiths-1854
-anareo;;2pl_p;2nd Person Plural;32503;;;;plat1254;griffiths-1854
-izi;;3sg_m_a;3rd Person Singular Masculine;32504;;;;plat1254;griffiths-1854
-izi;;3sg_m_s;3rd Person Singular Masculine;32505;;;;plat1254;griffiths-1854
-azi;;3sg_m_o;3rd Person Singular Masculine;32506;;;;plat1254;griffiths-1854
-azi;;3sg_m_p;3rd Person Singular Masculine;32507;;;;plat1254;griffiths-1854
-izi;;3sg_f_a;3rd Person Singular Feminine;32508;;;;plat1254;griffiths-1854
-izi;;3sg_f_s;3rd Person Singular Feminine;32509;;;;plat1254;griffiths-1854
-azi;;3sg_f_o;3rd Person Singular Feminine;32510;;;;plat1254;griffiths-1854
-azi;;3sg_f_p;3rd Person Singular Feminine;32511;;;;plat1254;griffiths-1854
-izi;;3sg_n_a;3rd Person Singular Neuter;32512;;;;plat1254;griffiths-1854
-izi;;3sg_n_s;3rd Person Singular Neuter;32513;;;;plat1254;griffiths-1854
-azi;;3sg_n_o;3rd Person Singular Neuter;32514;;;;plat1254;griffiths-1854
-azi;;3sg_n_p;3rd Person Singular Neuter;32515;;;;plat1254;griffiths-1854
-izi;;3du_m_a;3rd Person Dual Masculine;32516;;;;plat1254;griffiths-1854
-izareo;;3du_m_a;3rd Person Dual Masculine;32517;;;;plat1254;griffiths-1854
-izi;;3du_m_s;3rd Person Dual Masculine;32518;;;;plat1254;griffiths-1854
-izareo;;3du_m_s;3rd Person Dual Masculine;32519;;;;plat1254;griffiths-1854
-azi;;3du_m_o;3rd Person Dual Masculine;32520;;;;plat1254;griffiths-1854
-anjareo;;3du_m_o;3rd Person Dual Masculine;32521;;;;plat1254;griffiths-1854
-azi;;3du_m_p;3rd Person Dual Masculine;32522;;;;plat1254;griffiths-1854
-anjareo;;3du_m_p;3rd Person Dual Masculine;32523;;;;plat1254;griffiths-1854
-izi;;3du_f_a;3rd Person Dual Feminine;32524;;;;plat1254;griffiths-1854
-izareo;;3du_f_a;3rd Person Dual Feminine;32525;;;;plat1254;griffiths-1854
-izi;;3du_f_s;3rd Person Dual Feminine;32526;;;;plat1254;griffiths-1854
-izareo;;3du_f_s;3rd Person Dual Feminine;32527;;;;plat1254;griffiths-1854
-azi;;3du_f_o;3rd Person Dual Feminine;32528;;;;plat1254;griffiths-1854
-anjareo;;3du_f_o;3rd Person Dual Feminine;32529;;;;plat1254;griffiths-1854
-azi;;3du_f_p;3rd Person Dual Feminine;32530;;;;plat1254;griffiths-1854
-anjareo;;3du_f_p;3rd Person Dual Feminine;32531;;;;plat1254;griffiths-1854
-izi;;3du_n_a;3rd Person Dual Neuter;32532;;;;plat1254;griffiths-1854
-izareo;;3du_n_a;3rd Person Dual Neuter;32533;;;;plat1254;griffiths-1854
-izi;;3du_n_s;3rd Person Dual Neuter;32534;;;;plat1254;griffiths-1854
-izareo;;3du_n_s;3rd Person Dual Neuter;32535;;;;plat1254;griffiths-1854
-azi;;3du_n_o;3rd Person Dual Neuter;32536;;;;plat1254;griffiths-1854
-anjareo;;3du_n_o;3rd Person Dual Neuter;32537;;;;plat1254;griffiths-1854
-azi;;3du_n_p;3rd Person Dual Neuter;32538;;;;plat1254;griffiths-1854
-anjareo;;3du_n_p;3rd Person Dual Neuter;32539;;;;plat1254;griffiths-1854
-izi;;3pl_m_a;3rd Person Plural Masculine;32540;;;;plat1254;griffiths-1854
-izareo;;3pl_m_a;3rd Person Plural Masculine;32541;;;;plat1254;griffiths-1854
-izi;;3pl_m_s;3rd Person Plural Masculine;32542;;;;plat1254;griffiths-1854
-izareo;;3pl_m_s;3rd Person Plural Masculine;32543;;;;plat1254;griffiths-1854
-azi;;3pl_m_o;3rd Person Plural Masculine;32544;;;;plat1254;griffiths-1854
-anjareo;;3pl_m_o;3rd Person Plural Masculine;32545;;;;plat1254;griffiths-1854
-azi;;3pl_m_p;3rd Person Plural Masculine;32546;;;;plat1254;griffiths-1854
-anjareo;;3pl_m_p;3rd Person Plural Masculine;32547;;;;plat1254;griffiths-1854
-izi;;3pl_f_a;3rd Person Plural Feminine;32548;;;;plat1254;griffiths-1854
-izareo;;3pl_f_a;3rd Person Plural Feminine;32549;;;;plat1254;griffiths-1854
-izi;;3pl_f_s;3rd Person Plural Feminine;32550;;;;plat1254;griffiths-1854
-izareo;;3pl_f_s;3rd Person Plural Feminine;32551;;;;plat1254;griffiths-1854
-azi;;3pl_f_o;3rd Person Plural Feminine;32552;;;;plat1254;griffiths-1854
-anjareo;;3pl_f_o;3rd Person Plural Feminine;32553;;;;plat1254;griffiths-1854
-azi;;3pl_f_p;3rd Person Plural Feminine;32554;;;;plat1254;griffiths-1854
-anjareo;;3pl_f_p;3rd Person Plural Feminine;32555;;;;plat1254;griffiths-1854
-izi;;3pl_n_a;3rd Person Plural Neuter;32556;;;;plat1254;griffiths-1854
-izareo;;3pl_n_a;3rd Person Plural Neuter;32557;;;;plat1254;griffiths-1854
-izi;;3pl_n_s;3rd Person Plural Neuter;32558;;;;plat1254;griffiths-1854
-izareo;;3pl_n_s;3rd Person Plural Neuter;32559;;;;plat1254;griffiths-1854
-azi;;3pl_n_o;3rd Person Plural Neuter;32560;;;;plat1254;griffiths-1854
-anjareo;;3pl_n_o;3rd Person Plural Neuter;32561;;;;plat1254;griffiths-1854
-azi;;3pl_n_p;3rd Person Plural Neuter;32562;;;;plat1254;griffiths-1854
-anjareo;;3pl_n_p;3rd Person Plural Neuter;32563;;;;plat1254;griffiths-1854
-izareo;;3d-a;3rd Person Dual;36345;;;;plat1254;griffiths-1854
-izi;;3d-a;3rd Person Dual;36346;;;;plat1254;griffiths-1854
-izareo;;3d-s;3rd Person Dual;36572;;;;plat1254;griffiths-1854
-izi;;3d-s;3rd Person Dual;36573;;;;plat1254;griffiths-1854
-anjareo;;3d-o;3rd Person Dual;36798;;;;plat1254;griffiths-1854
-azi;;3d-o;3rd Person Dual;36799;;;;plat1254;griffiths-1854
-anjareo;;3d-p;3rd Person Dual;37008;;;;plat1254;griffiths-1854
-azi;;3d-p;3rd Person Dual;37009;;;;plat1254;griffiths-1854
-izareo;;3p-a;3rd Person Plural;37228;;;;plat1254;griffiths-1854
-izi;;3p-a;3rd Person Plural;37229;;;;plat1254;griffiths-1854
-izareo;;3p-s;3rd Person Plural;37454;;;;plat1254;griffiths-1854
-izi;;3p-s;3rd Person Plural;37455;;;;plat1254;griffiths-1854
-anjareo;;3p-o;3rd Person Plural;37677;;;;plat1254;griffiths-1854
-azi;;3p-o;3rd Person Plural;37678;;;;plat1254;griffiths-1854
-anjareo;;3p-p;3rd Person Plural;37886;;;;plat1254;griffiths-1854
-azi;;3p-p;3rd Person Plural;37887;;;;plat1254;griffiths-1854
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+izaho,,1sg_a,1st (excl) Person Singular,32470,,,,plat1254,griffiths-1854
+aho,,1sg_a,1st (excl) Person Singular,32471,,,,plat1254,griffiths-1854
+izaho,,1sg_s,1st (excl) Person Singular,32472,,,,plat1254,griffiths-1854
+aho,,1sg_s,1st (excl) Person Singular,32473,,,,plat1254,griffiths-1854
+ahi,,1sg_o,1st (excl) Person Singular,32474,,,,plat1254,griffiths-1854
+ahi,,1sg_p,1st (excl) Person Singular,32475,,,,plat1254,griffiths-1854
+izahai,,1du_a,1st (excl) Person Dual,32476,,,,plat1254,griffiths-1854
+izahai,,1du_s,1st (excl) Person Dual,32477,,,,plat1254,griffiths-1854
+anai,,1du_o,1st (excl) Person Dual,32478,,,,plat1254,griffiths-1854
+anai,,1du_p,1st (excl) Person Dual,32479,,,,plat1254,griffiths-1854
+izahai,,1pl_a,1st (excl) Person Plural,32480,,,,plat1254,griffiths-1854
+izahai,,1pl_s,1st (excl) Person Plural,32481,,,,plat1254,griffiths-1854
+anai,,1pl_o,1st (excl) Person Plural,32482,,,,plat1254,griffiths-1854
+anai,,1pl_p,1st (excl) Person Plural,32483,,,,plat1254,griffiths-1854
+isikia,,12du_a,1st (incl) Person Dual,32484,,,,plat1254,griffiths-1854
+isikia,,12du_s,1st (incl) Person Dual,32485,,,,plat1254,griffiths-1854
+antsikia,,12du_o,1st (incl) Person Dual,32486,,,,plat1254,griffiths-1854
+antsikia,,12du_p,1st (incl) Person Dual,32487,,,,plat1254,griffiths-1854
+isikia,,12pl_a,1st (incl) Person Plural,32488,,,,plat1254,griffiths-1854
+isikia,,12pl_s,1st (incl) Person Plural,32489,,,,plat1254,griffiths-1854
+antsikia,,12pl_o,1st (incl) Person Plural,32490,,,,plat1254,griffiths-1854
+antsikia,,12pl_p,1st (incl) Person Plural,32491,,,,plat1254,griffiths-1854
+hiano,,2sg_a,2nd Person Singular,32492,,,,plat1254,griffiths-1854
+hiano,,2sg_s,2nd Person Singular,32493,,,,plat1254,griffiths-1854
+anao,,2sg_o,2nd Person Singular,32494,,,,plat1254,griffiths-1854
+anao,,2sg_p,2nd Person Singular,32495,,,,plat1254,griffiths-1854
+hianareo,,2du_a,2nd Person Dual,32496,,,,plat1254,griffiths-1854
+hianareo,,2du_s,2nd Person Dual,32497,,,,plat1254,griffiths-1854
+anareo,,2du_o,2nd Person Dual,32498,,,,plat1254,griffiths-1854
+anareo,,2du_p,2nd Person Dual,32499,,,,plat1254,griffiths-1854
+hianareo,,2pl_a,2nd Person Plural,32500,,,,plat1254,griffiths-1854
+hianareo,,2pl_s,2nd Person Plural,32501,,,,plat1254,griffiths-1854
+anareo,,2pl_o,2nd Person Plural,32502,,,,plat1254,griffiths-1854
+anareo,,2pl_p,2nd Person Plural,32503,,,,plat1254,griffiths-1854
+izi,,3sg_m_a,3rd Person Singular Masculine,32504,,,,plat1254,griffiths-1854
+izi,,3sg_m_s,3rd Person Singular Masculine,32505,,,,plat1254,griffiths-1854
+azi,,3sg_m_o,3rd Person Singular Masculine,32506,,,,plat1254,griffiths-1854
+azi,,3sg_m_p,3rd Person Singular Masculine,32507,,,,plat1254,griffiths-1854
+izi,,3sg_f_a,3rd Person Singular Feminine,32508,,,,plat1254,griffiths-1854
+izi,,3sg_f_s,3rd Person Singular Feminine,32509,,,,plat1254,griffiths-1854
+azi,,3sg_f_o,3rd Person Singular Feminine,32510,,,,plat1254,griffiths-1854
+azi,,3sg_f_p,3rd Person Singular Feminine,32511,,,,plat1254,griffiths-1854
+izi,,3sg_n_a,3rd Person Singular Neuter,32512,,,,plat1254,griffiths-1854
+izi,,3sg_n_s,3rd Person Singular Neuter,32513,,,,plat1254,griffiths-1854
+azi,,3sg_n_o,3rd Person Singular Neuter,32514,,,,plat1254,griffiths-1854
+azi,,3sg_n_p,3rd Person Singular Neuter,32515,,,,plat1254,griffiths-1854
+izi,,3du_m_a,3rd Person Dual Masculine,32516,,,,plat1254,griffiths-1854
+izareo,,3du_m_a,3rd Person Dual Masculine,32517,,,,plat1254,griffiths-1854
+izi,,3du_m_s,3rd Person Dual Masculine,32518,,,,plat1254,griffiths-1854
+izareo,,3du_m_s,3rd Person Dual Masculine,32519,,,,plat1254,griffiths-1854
+azi,,3du_m_o,3rd Person Dual Masculine,32520,,,,plat1254,griffiths-1854
+anjareo,,3du_m_o,3rd Person Dual Masculine,32521,,,,plat1254,griffiths-1854
+azi,,3du_m_p,3rd Person Dual Masculine,32522,,,,plat1254,griffiths-1854
+anjareo,,3du_m_p,3rd Person Dual Masculine,32523,,,,plat1254,griffiths-1854
+izi,,3du_f_a,3rd Person Dual Feminine,32524,,,,plat1254,griffiths-1854
+izareo,,3du_f_a,3rd Person Dual Feminine,32525,,,,plat1254,griffiths-1854
+izi,,3du_f_s,3rd Person Dual Feminine,32526,,,,plat1254,griffiths-1854
+izareo,,3du_f_s,3rd Person Dual Feminine,32527,,,,plat1254,griffiths-1854
+azi,,3du_f_o,3rd Person Dual Feminine,32528,,,,plat1254,griffiths-1854
+anjareo,,3du_f_o,3rd Person Dual Feminine,32529,,,,plat1254,griffiths-1854
+azi,,3du_f_p,3rd Person Dual Feminine,32530,,,,plat1254,griffiths-1854
+anjareo,,3du_f_p,3rd Person Dual Feminine,32531,,,,plat1254,griffiths-1854
+izi,,3du_n_a,3rd Person Dual Neuter,32532,,,,plat1254,griffiths-1854
+izareo,,3du_n_a,3rd Person Dual Neuter,32533,,,,plat1254,griffiths-1854
+izi,,3du_n_s,3rd Person Dual Neuter,32534,,,,plat1254,griffiths-1854
+izareo,,3du_n_s,3rd Person Dual Neuter,32535,,,,plat1254,griffiths-1854
+azi,,3du_n_o,3rd Person Dual Neuter,32536,,,,plat1254,griffiths-1854
+anjareo,,3du_n_o,3rd Person Dual Neuter,32537,,,,plat1254,griffiths-1854
+azi,,3du_n_p,3rd Person Dual Neuter,32538,,,,plat1254,griffiths-1854
+anjareo,,3du_n_p,3rd Person Dual Neuter,32539,,,,plat1254,griffiths-1854
+izi,,3pl_m_a,3rd Person Plural Masculine,32540,,,,plat1254,griffiths-1854
+izareo,,3pl_m_a,3rd Person Plural Masculine,32541,,,,plat1254,griffiths-1854
+izi,,3pl_m_s,3rd Person Plural Masculine,32542,,,,plat1254,griffiths-1854
+izareo,,3pl_m_s,3rd Person Plural Masculine,32543,,,,plat1254,griffiths-1854
+azi,,3pl_m_o,3rd Person Plural Masculine,32544,,,,plat1254,griffiths-1854
+anjareo,,3pl_m_o,3rd Person Plural Masculine,32545,,,,plat1254,griffiths-1854
+azi,,3pl_m_p,3rd Person Plural Masculine,32546,,,,plat1254,griffiths-1854
+anjareo,,3pl_m_p,3rd Person Plural Masculine,32547,,,,plat1254,griffiths-1854
+izi,,3pl_f_a,3rd Person Plural Feminine,32548,,,,plat1254,griffiths-1854
+izareo,,3pl_f_a,3rd Person Plural Feminine,32549,,,,plat1254,griffiths-1854
+izi,,3pl_f_s,3rd Person Plural Feminine,32550,,,,plat1254,griffiths-1854
+izareo,,3pl_f_s,3rd Person Plural Feminine,32551,,,,plat1254,griffiths-1854
+azi,,3pl_f_o,3rd Person Plural Feminine,32552,,,,plat1254,griffiths-1854
+anjareo,,3pl_f_o,3rd Person Plural Feminine,32553,,,,plat1254,griffiths-1854
+azi,,3pl_f_p,3rd Person Plural Feminine,32554,,,,plat1254,griffiths-1854
+anjareo,,3pl_f_p,3rd Person Plural Feminine,32555,,,,plat1254,griffiths-1854
+izi,,3pl_n_a,3rd Person Plural Neuter,32556,,,,plat1254,griffiths-1854
+izareo,,3pl_n_a,3rd Person Plural Neuter,32557,,,,plat1254,griffiths-1854
+izi,,3pl_n_s,3rd Person Plural Neuter,32558,,,,plat1254,griffiths-1854
+izareo,,3pl_n_s,3rd Person Plural Neuter,32559,,,,plat1254,griffiths-1854
+azi,,3pl_n_o,3rd Person Plural Neuter,32560,,,,plat1254,griffiths-1854
+anjareo,,3pl_n_o,3rd Person Plural Neuter,32561,,,,plat1254,griffiths-1854
+azi,,3pl_n_p,3rd Person Plural Neuter,32562,,,,plat1254,griffiths-1854
+anjareo,,3pl_n_p,3rd Person Plural Neuter,32563,,,,plat1254,griffiths-1854
+izareo,,3d-a,3rd Person Dual,36345,,,,plat1254,griffiths-1854
+izi,,3d-a,3rd Person Dual,36346,,,,plat1254,griffiths-1854
+izareo,,3d-s,3rd Person Dual,36572,,,,plat1254,griffiths-1854
+izi,,3d-s,3rd Person Dual,36573,,,,plat1254,griffiths-1854
+anjareo,,3d-o,3rd Person Dual,36798,,,,plat1254,griffiths-1854
+azi,,3d-o,3rd Person Dual,36799,,,,plat1254,griffiths-1854
+anjareo,,3d-p,3rd Person Dual,37008,,,,plat1254,griffiths-1854
+azi,,3d-p,3rd Person Dual,37009,,,,plat1254,griffiths-1854
+izareo,,3p-a,3rd Person Plural,37228,,,,plat1254,griffiths-1854
+izi,,3p-a,3rd Person Plural,37229,,,,plat1254,griffiths-1854
+izareo,,3p-s,3rd Person Plural,37454,,,,plat1254,griffiths-1854
+izi,,3p-s,3rd Person Plural,37455,,,,plat1254,griffiths-1854
+anjareo,,3p-o,3rd Person Plural,37677,,,,plat1254,griffiths-1854
+azi,,3p-o,3rd Person Plural,37678,,,,plat1254,griffiths-1854
+anjareo,,3p-p,3rd Person Plural,37886,,,,plat1254,griffiths-1854
+azi,,3p-p,3rd Person Plural,37887,,,,plat1254,griffiths-1854

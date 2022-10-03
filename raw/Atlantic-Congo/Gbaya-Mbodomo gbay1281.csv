@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mi˥;;1sg_a;1st (excl) Person Singular;56912;;;;gbay1281;boyd-1997
-mi˥;;1sg_s;1st (excl) Person Singular;56911;;;;gbay1281;boyd-1997
-mi˥;;1sg_o;1st (excl) Person Singular;56910;;;;gbay1281;boyd-1997
-bɔŋ˩;;1sg_p;1st (excl) Person Singular;56909;;;;gbay1281;boyd-1997
-ɛlɛ˥;;1du_a;1st (excl) Person Dual;56908;;;;gbay1281;boyd-1997
-ɛlɛ˥;;1du_s;1st (excl) Person Dual;56907;;;;gbay1281;boyd-1997
-ɛlɛ˥;;1du_o;1st (excl) Person Dual;56906;;;;gbay1281;boyd-1997
-vɛlɛ˩;;1du_p;1st (excl) Person Dual;56905;;;;gbay1281;boyd-1997
-ɛlɛ˥;;1pl_a;1st (excl) Person Plural;56904;;;;gbay1281;boyd-1997
-ɛlɛ˥;;1pl_s;1st (excl) Person Plural;56903;;;;gbay1281;boyd-1997
-ɛlɛ˥;;1pl_o;1st (excl) Person Plural;56902;;;;gbay1281;boyd-1997
-vɛlɛ˩;;1pl_p;1st (excl) Person Plural;56901;;;;gbay1281;boyd-1997
-ɛlɛ˥;;12du_a;1st (incl) Person Dual;56900;;;;gbay1281;boyd-1997
-ɛlɛ˥;;12du_s;1st (incl) Person Dual;56899;;;;gbay1281;boyd-1997
-ɛlɛ˥;;12du_o;1st (incl) Person Dual;56898;;;;gbay1281;boyd-1997
-vɛlɛ˩;;12du_p;1st (incl) Person Dual;56897;;;;gbay1281;boyd-1997
-ɛlɛ˥;;12pl_a;1st (incl) Person Plural;56896;;;;gbay1281;boyd-1997
-ɛlɛ˥;;12pl_s;1st (incl) Person Plural;56895;;;;gbay1281;boyd-1997
-ɛlɛ˥;;12pl_o;1st (incl) Person Plural;56894;;;;gbay1281;boyd-1997
-vɛlɛ˩;;12pl_p;1st (incl) Person Plural;56893;;;;gbay1281;boyd-1997
-mɛ˥;;2sg_a;2nd Person Singular;56892;;;;gbay1281;boyd-1997
-mɛ˥;;2sg_s;2nd Person Singular;56891;;;;gbay1281;boyd-1997
-mɛ˥;;2sg_o;2nd Person Singular;56890;;;;gbay1281;boyd-1997
-mɛ˩;;2sg_p;2nd Person Singular;56889;;;;gbay1281;boyd-1997
-ɛnɛ˥;;2du_a;2nd Person Dual;56888;;;;gbay1281;boyd-1997
-ɛnɛ˥;;2du_s;2nd Person Dual;56887;;;;gbay1281;boyd-1997
-ɛnɛ˥;;2du_o;2nd Person Dual;56886;;;;gbay1281;boyd-1997
-vɛnɛ˩;;2du_p;2nd Person Dual;56885;;;;gbay1281;boyd-1997
-ɛnɛ˥;;2pl_a;2nd Person Plural;56884;;;;gbay1281;boyd-1997
-ɛnɛ˥;;2pl_s;2nd Person Plural;56883;;;;gbay1281;boyd-1997
-ɛnɛ˥;;2pl_o;2nd Person Plural;56882;;;;gbay1281;boyd-1997
-vɛnɛ˩;;2pl_p;2nd Person Plural;56881;;;;gbay1281;boyd-1997
-wɛnɛ˩;;3sg_m_a;3rd Person Singular Masculine;56880;;;;gbay1281;boyd-1997
-wɛnɛ˩;;3sg_m_s;3rd Person Singular Masculine;56879;;;;gbay1281;boyd-1997
-wɛnɛ˩, nɛ˩;;3sg_m_o;3rd Person Singular Masculine;56878;;“The third person singular pronoun wɛ̀nɛ̀ is often abbreviated to nɛ̀ in the non-nominative position.”;;gbay1281;boyd-1997
-wã˩;;3sg_m_p;3rd Person Singular Masculine;56877;;;;gbay1281;boyd-1997
-e˥;;3sg_n_a;3rd Person Singular Neuter;56876;;;;gbay1281;boyd-1997
-e˥;;3sg_n_s;3rd Person Singular Neuter;56875;;;;gbay1281;boyd-1997
-e˥;;3sg_n_o;3rd Person Singular Neuter;56874;;;;gbay1281;boyd-1997
-wã˩;;3sg_n_p;3rd Person Singular Neuter;56873;;;;gbay1281;boyd-1997
-wa˧˥;;3d-a;3rd Person Dual;56872;;;;gbay1281;boyd-1997
-wa˧˥;;3d-s;3rd Person Dual;56871;;;;gbay1281;boyd-1997
-wa˧˥;;3d-o;3rd Person Dual;56870;;;;gbay1281;boyd-1997
-mua˩;;3d-p;3rd Person Dual;56869;;;;gbay1281;boyd-1997
-wa˧˥;;3p-a;3rd Person Plural;56868;;;;gbay1281;boyd-1997
-wa˧˥;;3p-s;3rd Person Plural;56867;;;;gbay1281;boyd-1997
-wa˧˥;;3p-o;3rd Person Plural;56866;;;;gbay1281;boyd-1997
-mua˩;;3p-p;3rd Person Plural;56865;;;;gbay1281;boyd-1997
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mi˥,,1sg_a,1st (excl) Person Singular,56912,,,,gbay1281,boyd-1997
+mi˥,,1sg_s,1st (excl) Person Singular,56911,,,,gbay1281,boyd-1997
+mi˥,,1sg_o,1st (excl) Person Singular,56910,,,,gbay1281,boyd-1997
+bɔŋ˩,,1sg_p,1st (excl) Person Singular,56909,,,,gbay1281,boyd-1997
+ɛlɛ˥,,1du_a,1st (excl) Person Dual,56908,,,,gbay1281,boyd-1997
+ɛlɛ˥,,1du_s,1st (excl) Person Dual,56907,,,,gbay1281,boyd-1997
+ɛlɛ˥,,1du_o,1st (excl) Person Dual,56906,,,,gbay1281,boyd-1997
+vɛlɛ˩,,1du_p,1st (excl) Person Dual,56905,,,,gbay1281,boyd-1997
+ɛlɛ˥,,1pl_a,1st (excl) Person Plural,56904,,,,gbay1281,boyd-1997
+ɛlɛ˥,,1pl_s,1st (excl) Person Plural,56903,,,,gbay1281,boyd-1997
+ɛlɛ˥,,1pl_o,1st (excl) Person Plural,56902,,,,gbay1281,boyd-1997
+vɛlɛ˩,,1pl_p,1st (excl) Person Plural,56901,,,,gbay1281,boyd-1997
+ɛlɛ˥,,12du_a,1st (incl) Person Dual,56900,,,,gbay1281,boyd-1997
+ɛlɛ˥,,12du_s,1st (incl) Person Dual,56899,,,,gbay1281,boyd-1997
+ɛlɛ˥,,12du_o,1st (incl) Person Dual,56898,,,,gbay1281,boyd-1997
+vɛlɛ˩,,12du_p,1st (incl) Person Dual,56897,,,,gbay1281,boyd-1997
+ɛlɛ˥,,12pl_a,1st (incl) Person Plural,56896,,,,gbay1281,boyd-1997
+ɛlɛ˥,,12pl_s,1st (incl) Person Plural,56895,,,,gbay1281,boyd-1997
+ɛlɛ˥,,12pl_o,1st (incl) Person Plural,56894,,,,gbay1281,boyd-1997
+vɛlɛ˩,,12pl_p,1st (incl) Person Plural,56893,,,,gbay1281,boyd-1997
+mɛ˥,,2sg_a,2nd Person Singular,56892,,,,gbay1281,boyd-1997
+mɛ˥,,2sg_s,2nd Person Singular,56891,,,,gbay1281,boyd-1997
+mɛ˥,,2sg_o,2nd Person Singular,56890,,,,gbay1281,boyd-1997
+mɛ˩,,2sg_p,2nd Person Singular,56889,,,,gbay1281,boyd-1997
+ɛnɛ˥,,2du_a,2nd Person Dual,56888,,,,gbay1281,boyd-1997
+ɛnɛ˥,,2du_s,2nd Person Dual,56887,,,,gbay1281,boyd-1997
+ɛnɛ˥,,2du_o,2nd Person Dual,56886,,,,gbay1281,boyd-1997
+vɛnɛ˩,,2du_p,2nd Person Dual,56885,,,,gbay1281,boyd-1997
+ɛnɛ˥,,2pl_a,2nd Person Plural,56884,,,,gbay1281,boyd-1997
+ɛnɛ˥,,2pl_s,2nd Person Plural,56883,,,,gbay1281,boyd-1997
+ɛnɛ˥,,2pl_o,2nd Person Plural,56882,,,,gbay1281,boyd-1997
+vɛnɛ˩,,2pl_p,2nd Person Plural,56881,,,,gbay1281,boyd-1997
+wɛnɛ˩,,3sg_m_a,3rd Person Singular Masculine,56880,,,,gbay1281,boyd-1997
+wɛnɛ˩,,3sg_m_s,3rd Person Singular Masculine,56879,,,,gbay1281,boyd-1997
+"wɛnɛ˩, nɛ˩",,3sg_m_o,3rd Person Singular Masculine,56878,,“The third person singular pronoun wɛ̀nɛ̀ is often abbreviated to nɛ̀ in the non-nominative position.”,,gbay1281,boyd-1997
+wã˩,,3sg_m_p,3rd Person Singular Masculine,56877,,,,gbay1281,boyd-1997
+e˥,,3sg_n_a,3rd Person Singular Neuter,56876,,,,gbay1281,boyd-1997
+e˥,,3sg_n_s,3rd Person Singular Neuter,56875,,,,gbay1281,boyd-1997
+e˥,,3sg_n_o,3rd Person Singular Neuter,56874,,,,gbay1281,boyd-1997
+wã˩,,3sg_n_p,3rd Person Singular Neuter,56873,,,,gbay1281,boyd-1997
+wa˧˥,,3d-a,3rd Person Dual,56872,,,,gbay1281,boyd-1997
+wa˧˥,,3d-s,3rd Person Dual,56871,,,,gbay1281,boyd-1997
+wa˧˥,,3d-o,3rd Person Dual,56870,,,,gbay1281,boyd-1997
+mua˩,,3d-p,3rd Person Dual,56869,,,,gbay1281,boyd-1997
+wa˧˥,,3p-a,3rd Person Plural,56868,,,,gbay1281,boyd-1997
+wa˧˥,,3p-s,3rd Person Plural,56867,,,,gbay1281,boyd-1997
+wa˧˥,,3p-o,3rd Person Plural,56866,,,,gbay1281,boyd-1997
+mua˩,,3p-p,3rd Person Plural,56865,,,,gbay1281,boyd-1997

@@ -1,48 +1,48 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-mə;;1sg_a;1st (excl) Person Singular;56208;;;;akeb1238;wolf-1907
-mə;;1sg_s;1st (excl) Person Singular;56207;;;;akeb1238;wolf-1907
-mə;;1sg_o;1st (excl) Person Singular;56206;;;;akeb1238;wolf-1907
-mə;;1sg_p;1st (excl) Person Singular;56205;;;;akeb1238;wolf-1907
-lə́;;1du_a;1st (excl) Person Dual;56204;;;;akeb1238;wolf-1907
-lə́;;1du_s;1st (excl) Person Dual;56203;;;;akeb1238;wolf-1907
-lə́;;1du_o;1st (excl) Person Dual;56202;;;;akeb1238;wolf-1907
-lə́;;1du_p;1st (excl) Person Dual;56201;;;;akeb1238;wolf-1907
-lə́;;1pl_a;1st (excl) Person Plural;56200;;;;akeb1238;wolf-1907
-lə́;;1pl_s;1st (excl) Person Plural;56199;;;;akeb1238;wolf-1907
-lə́;;1pl_o;1st (excl) Person Plural;56198;;;;akeb1238;wolf-1907
-lə́;;1pl_p;1st (excl) Person Plural;56197;;;;akeb1238;wolf-1907
-lə́;;12du_a;1st (incl) Person Dual;56196;;;;akeb1238;wolf-1907
-lə́;;12du_s;1st (incl) Person Dual;56195;;;;akeb1238;wolf-1907
-lə́;;12du_o;1st (incl) Person Dual;56194;;;;akeb1238;wolf-1907
-lə́;;12du_p;1st (incl) Person Dual;56193;;;;akeb1238;wolf-1907
-lə́;;12pl_a;1st (incl) Person Plural;56192;;;;akeb1238;wolf-1907
-lə́;;12pl_s;1st (incl) Person Plural;56191;;;;akeb1238;wolf-1907
-lə́;;12pl_o;1st (incl) Person Plural;56190;;;;akeb1238;wolf-1907
-lə́;;12pl_p;1st (incl) Person Plural;56189;;;;akeb1238;wolf-1907
-lə;;2sg_a;2nd Person Singular;56188;;;;akeb1238;wolf-1907
-lə;;2sg_s;2nd Person Singular;56187;;;;akeb1238;wolf-1907
-lə;;2sg_o;2nd Person Singular;56186;;;;akeb1238;wolf-1907
-lə;;2sg_p;2nd Person Singular;56185;;;;akeb1238;wolf-1907
-nə;;2du_a;2nd Person Dual;56184;;;;akeb1238;wolf-1907
-nə;;2du_s;2nd Person Dual;56183;;;;akeb1238;wolf-1907
-nə;;2du_o;2nd Person Dual;56182;;;;akeb1238;wolf-1907
-nə;;2du_p;2nd Person Dual;56181;;;;akeb1238;wolf-1907
-nə;;2pl_a;2nd Person Plural;56180;;;;akeb1238;wolf-1907
-nə;;2pl_s;2nd Person Plural;56179;;;;akeb1238;wolf-1907
-nə;;2pl_o;2nd Person Plural;56178;;;;akeb1238;wolf-1907
-nə;;2pl_p;2nd Person Plural;56177;;;;akeb1238;wolf-1907
-ŋu;;3sg_m_a;3rd Person Singular Masculine;56176;;;;akeb1238;wolf-1907
-ŋu;;3sg_m_s;3rd Person Singular Masculine;56175;;;;akeb1238;wolf-1907
-ŋ;;3sg_m_o;3rd Person Singular Masculine;56174;;;;akeb1238;wolf-1907
-ŋunə;;3sg_m_p;3rd Person Singular Masculine;56173;;;;akeb1238;wolf-1907
-ke;;3sg_n_a;3rd Person Singular Neuter;56172;;;;akeb1238;wolf-1907
-ke;;3sg_n_s;3rd Person Singular Neuter;56171;;;;akeb1238;wolf-1907
-kə;;3sg_n_o;3rd Person Singular Neuter;56170;;;;akeb1238;wolf-1907
-plə;;3d-a;3rd Person Dual;56169;;;;akeb1238;wolf-1907
-plə;;3d-s;3rd Person Dual;56168;;;;akeb1238;wolf-1907
-bə;;3d-o;3rd Person Dual;56167;;;;akeb1238;wolf-1907
-plə;;3d-p;3rd Person Dual;56166;;;;akeb1238;wolf-1907
-plə;;3p-a;3rd Person Plural;56165;;;;akeb1238;wolf-1907
-plə;;3p-s;3rd Person Plural;56164;;;;akeb1238;wolf-1907
-bə;;3p-o;3rd Person Plural;56163;;;;akeb1238;wolf-1907
-plə;;3p-p;3rd Person Plural;56162;;;;akeb1238;wolf-1907
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+mə,,1sg_a,1st (excl) Person Singular,56208,,,,akeb1238,wolf-1907
+mə,,1sg_s,1st (excl) Person Singular,56207,,,,akeb1238,wolf-1907
+mə,,1sg_o,1st (excl) Person Singular,56206,,,,akeb1238,wolf-1907
+mə,,1sg_p,1st (excl) Person Singular,56205,,,,akeb1238,wolf-1907
+lə́,,1du_a,1st (excl) Person Dual,56204,,,,akeb1238,wolf-1907
+lə́,,1du_s,1st (excl) Person Dual,56203,,,,akeb1238,wolf-1907
+lə́,,1du_o,1st (excl) Person Dual,56202,,,,akeb1238,wolf-1907
+lə́,,1du_p,1st (excl) Person Dual,56201,,,,akeb1238,wolf-1907
+lə́,,1pl_a,1st (excl) Person Plural,56200,,,,akeb1238,wolf-1907
+lə́,,1pl_s,1st (excl) Person Plural,56199,,,,akeb1238,wolf-1907
+lə́,,1pl_o,1st (excl) Person Plural,56198,,,,akeb1238,wolf-1907
+lə́,,1pl_p,1st (excl) Person Plural,56197,,,,akeb1238,wolf-1907
+lə́,,12du_a,1st (incl) Person Dual,56196,,,,akeb1238,wolf-1907
+lə́,,12du_s,1st (incl) Person Dual,56195,,,,akeb1238,wolf-1907
+lə́,,12du_o,1st (incl) Person Dual,56194,,,,akeb1238,wolf-1907
+lə́,,12du_p,1st (incl) Person Dual,56193,,,,akeb1238,wolf-1907
+lə́,,12pl_a,1st (incl) Person Plural,56192,,,,akeb1238,wolf-1907
+lə́,,12pl_s,1st (incl) Person Plural,56191,,,,akeb1238,wolf-1907
+lə́,,12pl_o,1st (incl) Person Plural,56190,,,,akeb1238,wolf-1907
+lə́,,12pl_p,1st (incl) Person Plural,56189,,,,akeb1238,wolf-1907
+lə,,2sg_a,2nd Person Singular,56188,,,,akeb1238,wolf-1907
+lə,,2sg_s,2nd Person Singular,56187,,,,akeb1238,wolf-1907
+lə,,2sg_o,2nd Person Singular,56186,,,,akeb1238,wolf-1907
+lə,,2sg_p,2nd Person Singular,56185,,,,akeb1238,wolf-1907
+nə,,2du_a,2nd Person Dual,56184,,,,akeb1238,wolf-1907
+nə,,2du_s,2nd Person Dual,56183,,,,akeb1238,wolf-1907
+nə,,2du_o,2nd Person Dual,56182,,,,akeb1238,wolf-1907
+nə,,2du_p,2nd Person Dual,56181,,,,akeb1238,wolf-1907
+nə,,2pl_a,2nd Person Plural,56180,,,,akeb1238,wolf-1907
+nə,,2pl_s,2nd Person Plural,56179,,,,akeb1238,wolf-1907
+nə,,2pl_o,2nd Person Plural,56178,,,,akeb1238,wolf-1907
+nə,,2pl_p,2nd Person Plural,56177,,,,akeb1238,wolf-1907
+ŋu,,3sg_m_a,3rd Person Singular Masculine,56176,,,,akeb1238,wolf-1907
+ŋu,,3sg_m_s,3rd Person Singular Masculine,56175,,,,akeb1238,wolf-1907
+ŋ,,3sg_m_o,3rd Person Singular Masculine,56174,,,,akeb1238,wolf-1907
+ŋunə,,3sg_m_p,3rd Person Singular Masculine,56173,,,,akeb1238,wolf-1907
+ke,,3sg_n_a,3rd Person Singular Neuter,56172,,,,akeb1238,wolf-1907
+ke,,3sg_n_s,3rd Person Singular Neuter,56171,,,,akeb1238,wolf-1907
+kə,,3sg_n_o,3rd Person Singular Neuter,56170,,,,akeb1238,wolf-1907
+plə,,3d-a,3rd Person Dual,56169,,,,akeb1238,wolf-1907
+plə,,3d-s,3rd Person Dual,56168,,,,akeb1238,wolf-1907
+bə,,3d-o,3rd Person Dual,56167,,,,akeb1238,wolf-1907
+plə,,3d-p,3rd Person Dual,56166,,,,akeb1238,wolf-1907
+plə,,3p-a,3rd Person Plural,56165,,,,akeb1238,wolf-1907
+plə,,3p-s,3rd Person Plural,56164,,,,akeb1238,wolf-1907
+bə,,3p-o,3rd Person Plural,56163,,,,akeb1238,wolf-1907
+plə,,3p-p,3rd Person Plural,56162,,,,akeb1238,wolf-1907

@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-(í)ɲaa;;1sg_a;1st (excl) Person Singular;60880;;;;elna1235;casad-1984
-(í)ɲaa;;1sg_s;1st (excl) Person Singular;60879;;;;elna1235;casad-1984
-(í)ɲeeʦi;;1sg_o;1st (excl) Person Singular;60878;;;;elna1235;casad-1984
-(í)ɲeeʦi;;1sg_p;1st (excl) Person Singular;60877;;;;elna1235;casad-1984
-(í)can;;1du_a;1st (excl) Person Dual;60876;;;;elna1235;casad-1984
-(í)can;;1du_s;1st (excl) Person Dual;60875;;;;elna1235;casad-1984
-(í)cehmi;;1du_o;1st (excl) Person Dual;60874;;;;elna1235;casad-1984
-(í)cehmi;;1du_p;1st (excl) Person Dual;60873;;;;elna1235;casad-1984
-(í)can;;1pl_a;1st (excl) Person Plural;60872;;;;elna1235;casad-1984
-(í)can;;1pl_s;1st (excl) Person Plural;60871;;;;elna1235;casad-1984
-(í)cehmi;;1pl_o;1st (excl) Person Plural;60870;;;;elna1235;casad-1984
-(í)cehmi;;1pl_p;1st (excl) Person Plural;60869;;;;elna1235;casad-1984
-(í)can;;12du_a;1st (incl) Person Dual;60868;;;;elna1235;casad-1984
-(í)can;;12du_s;1st (incl) Person Dual;60867;;;;elna1235;casad-1984
-(í)cehmi;;12du_o;1st (incl) Person Dual;60866;;;;elna1235;casad-1984
-(í)cehmi;;12du_p;1st (incl) Person Dual;60865;;;;elna1235;casad-1984
-(í)can;;12pl_a;1st (incl) Person Plural;60864;;;;elna1235;casad-1984
-(í)can;;12pl_s;1st (incl) Person Plural;60863;;;;elna1235;casad-1984
-(í)cehmi;;12pl_o;1st (incl) Person Plural;60862;;;;elna1235;casad-1984
-(í)cehmi;;12pl_p;1st (incl) Person Plural;60861;;;;elna1235;casad-1984
-mwáa;;2sg_a;2nd Person Singular;60860;;;;elna1235;casad-1984
-mwáa;;2sg_s;2nd Person Singular;60859;;;;elna1235;casad-1984
-mwéeʦi;;2sg_o;2nd Person Singular;60858;;;;elna1235;casad-1984
-mwéeʦi;;2sg_p;2nd Person Singular;60857;;;;elna1235;casad-1984
-mwán;;2du_a;2nd Person Dual;60856;;;;elna1235;casad-1984
-mwán;;2du_s;2nd Person Dual;60855;;;;elna1235;casad-1984
-mwéhmi;;2du_o;2nd Person Dual;60854;;;;elna1235;casad-1984
-mwéhmi;;2du_p;2nd Person Dual;60853;;;;elna1235;casad-1984
-mwán;;2pl_a;2nd Person Plural;60852;;;;elna1235;casad-1984
-mwán;;2pl_s;2nd Person Plural;60851;;;;elna1235;casad-1984
-mwéhmi;;2pl_o;2nd Person Plural;60850;;;;elna1235;casad-1984
-mwéhmi;;2pl_p;2nd Person Plural;60849;;;;elna1235;casad-1984
-amɨhna;;3sg_m_a;3rd Person Singular Masculine;60848;;;;elna1235;casad-1984
-amɨhna;;3sg_m_s;3rd Person Singular Masculine;60847;;;;elna1235;casad-1984
-pamɨhna;;3sg_m_o;3rd Person Singular Masculine;60846;;;;elna1235;casad-1984
-pamɨhna;;3sg_m_p;3rd Person Singular Masculine;60845;;;;elna1235;casad-1984
-amɨhna;;3sg_n_a;3rd Person Singular Neuter;60844;;;;elna1235;casad-1984
-amɨhna;;3sg_n_s;3rd Person Singular Neuter;60843;;;;elna1235;casad-1984
-pamɨhna;;3sg_n_o;3rd Person Singular Neuter;60842;;;;elna1235;casad-1984
-pamɨhna;;3sg_n_p;3rd Person Singular Neuter;60841;;;;elna1235;casad-1984
-mamɨhna;;3d-a;3rd Person Dual;60840;;;;elna1235;casad-1984
-mamɨhna;;3d-s;3rd Person Dual;60839;;;;elna1235;casad-1984
-mamɨhna;;3d-o;3rd Person Dual;60838;;;;elna1235;casad-1984
-mamɨhna;;3d-p;3rd Person Dual;60837;;;;elna1235;casad-1984
-mamɨhna;;3p-a;3rd Person Plural;60836;;;;elna1235;casad-1984
-mamɨhna;;3p-s;3rd Person Plural;60835;;;;elna1235;casad-1984
-mamɨhna;;3p-o;3rd Person Plural;60834;;;;elna1235;casad-1984
-mamɨhna;;3p-p;3rd Person Plural;60833;;;;elna1235;casad-1984
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+(í)ɲaa,,1sg_a,1st (excl) Person Singular,60880,,,,elna1235,casad-1984
+(í)ɲaa,,1sg_s,1st (excl) Person Singular,60879,,,,elna1235,casad-1984
+(í)ɲeeʦi,,1sg_o,1st (excl) Person Singular,60878,,,,elna1235,casad-1984
+(í)ɲeeʦi,,1sg_p,1st (excl) Person Singular,60877,,,,elna1235,casad-1984
+(í)can,,1du_a,1st (excl) Person Dual,60876,,,,elna1235,casad-1984
+(í)can,,1du_s,1st (excl) Person Dual,60875,,,,elna1235,casad-1984
+(í)cehmi,,1du_o,1st (excl) Person Dual,60874,,,,elna1235,casad-1984
+(í)cehmi,,1du_p,1st (excl) Person Dual,60873,,,,elna1235,casad-1984
+(í)can,,1pl_a,1st (excl) Person Plural,60872,,,,elna1235,casad-1984
+(í)can,,1pl_s,1st (excl) Person Plural,60871,,,,elna1235,casad-1984
+(í)cehmi,,1pl_o,1st (excl) Person Plural,60870,,,,elna1235,casad-1984
+(í)cehmi,,1pl_p,1st (excl) Person Plural,60869,,,,elna1235,casad-1984
+(í)can,,12du_a,1st (incl) Person Dual,60868,,,,elna1235,casad-1984
+(í)can,,12du_s,1st (incl) Person Dual,60867,,,,elna1235,casad-1984
+(í)cehmi,,12du_o,1st (incl) Person Dual,60866,,,,elna1235,casad-1984
+(í)cehmi,,12du_p,1st (incl) Person Dual,60865,,,,elna1235,casad-1984
+(í)can,,12pl_a,1st (incl) Person Plural,60864,,,,elna1235,casad-1984
+(í)can,,12pl_s,1st (incl) Person Plural,60863,,,,elna1235,casad-1984
+(í)cehmi,,12pl_o,1st (incl) Person Plural,60862,,,,elna1235,casad-1984
+(í)cehmi,,12pl_p,1st (incl) Person Plural,60861,,,,elna1235,casad-1984
+mwáa,,2sg_a,2nd Person Singular,60860,,,,elna1235,casad-1984
+mwáa,,2sg_s,2nd Person Singular,60859,,,,elna1235,casad-1984
+mwéeʦi,,2sg_o,2nd Person Singular,60858,,,,elna1235,casad-1984
+mwéeʦi,,2sg_p,2nd Person Singular,60857,,,,elna1235,casad-1984
+mwán,,2du_a,2nd Person Dual,60856,,,,elna1235,casad-1984
+mwán,,2du_s,2nd Person Dual,60855,,,,elna1235,casad-1984
+mwéhmi,,2du_o,2nd Person Dual,60854,,,,elna1235,casad-1984
+mwéhmi,,2du_p,2nd Person Dual,60853,,,,elna1235,casad-1984
+mwán,,2pl_a,2nd Person Plural,60852,,,,elna1235,casad-1984
+mwán,,2pl_s,2nd Person Plural,60851,,,,elna1235,casad-1984
+mwéhmi,,2pl_o,2nd Person Plural,60850,,,,elna1235,casad-1984
+mwéhmi,,2pl_p,2nd Person Plural,60849,,,,elna1235,casad-1984
+amɨhna,,3sg_m_a,3rd Person Singular Masculine,60848,,,,elna1235,casad-1984
+amɨhna,,3sg_m_s,3rd Person Singular Masculine,60847,,,,elna1235,casad-1984
+pamɨhna,,3sg_m_o,3rd Person Singular Masculine,60846,,,,elna1235,casad-1984
+pamɨhna,,3sg_m_p,3rd Person Singular Masculine,60845,,,,elna1235,casad-1984
+amɨhna,,3sg_n_a,3rd Person Singular Neuter,60844,,,,elna1235,casad-1984
+amɨhna,,3sg_n_s,3rd Person Singular Neuter,60843,,,,elna1235,casad-1984
+pamɨhna,,3sg_n_o,3rd Person Singular Neuter,60842,,,,elna1235,casad-1984
+pamɨhna,,3sg_n_p,3rd Person Singular Neuter,60841,,,,elna1235,casad-1984
+mamɨhna,,3d-a,3rd Person Dual,60840,,,,elna1235,casad-1984
+mamɨhna,,3d-s,3rd Person Dual,60839,,,,elna1235,casad-1984
+mamɨhna,,3d-o,3rd Person Dual,60838,,,,elna1235,casad-1984
+mamɨhna,,3d-p,3rd Person Dual,60837,,,,elna1235,casad-1984
+mamɨhna,,3p-a,3rd Person Plural,60836,,,,elna1235,casad-1984
+mamɨhna,,3p-s,3rd Person Plural,60835,,,,elna1235,casad-1984
+mamɨhna,,3p-o,3rd Person Plural,60834,,,,elna1235,casad-1984
+mamɨhna,,3p-p,3rd Person Plural,60833,,,,elna1235,casad-1984

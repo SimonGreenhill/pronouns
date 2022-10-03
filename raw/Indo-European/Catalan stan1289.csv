@@ -1,77 +1,77 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-jo;;1sg_a;1st (excl) Person Singular;27688;;;;stan1289;wheeler-1988a
-jo;;1sg_s;1st (excl) Person Singular;27689;;;;stan1289;wheeler-1988a
--me;;1sg_o;1st (excl) Person Singular;27690;;;;stan1289;wheeler-1988a
-meu;;1sg_p;1st (excl) Person Singular;27691;;;;stan1289;wheeler-1988a
-nosaltres;;1du_a;1st (excl) Person Dual;27692;;;;stan1289;wheeler-1988a
-nosaltres;;1du_s;1st (excl) Person Dual;27693;;;;stan1289;wheeler-1988a
--nos;;1du_o;1st (excl) Person Dual;27694;;;;stan1289;wheeler-1988a
-nostre;;1du_p;1st (excl) Person Dual;27695;;;;stan1289;wheeler-1988a
-nosaltres;;1pl_a;1st (excl) Person Plural;27696;;;;stan1289;wheeler-1988a
-nosaltres;;1pl_s;1st (excl) Person Plural;27697;;;;stan1289;wheeler-1988a
--nos;;1pl_o;1st (excl) Person Plural;27698;;;;stan1289;wheeler-1988a
-nostre;;1pl_p;1st (excl) Person Plural;27699;;;;stan1289;wheeler-1988a
-nosaltres;;12du_a;1st (incl) Person Dual;27700;;;;stan1289;wheeler-1988a
-nosaltres;;12du_s;1st (incl) Person Dual;27701;;;;stan1289;wheeler-1988a
--nos;;12du_o;1st (incl) Person Dual;27702;;;;stan1289;wheeler-1988a
-nostre;;12du_p;1st (incl) Person Dual;27703;;;;stan1289;wheeler-1988a
-nosaltres;;12pl_a;1st (incl) Person Plural;27704;;;;stan1289;wheeler-1988a
-nosaltres;;12pl_s;1st (incl) Person Plural;27705;;;;stan1289;wheeler-1988a
--nos;;12pl_o;1st (incl) Person Plural;27706;;;;stan1289;wheeler-1988a
-nostre;;12pl_p;1st (incl) Person Plural;27707;;;;stan1289;wheeler-1988a
-tu;;2sg_a;2nd Person Singular;27708;;;;stan1289;wheeler-1988a
-tu;;2sg_s;2nd Person Singular;27709;;;;stan1289;wheeler-1988a
--te;;2sg_o;2nd Person Singular;27710;;;;stan1289;wheeler-1988a
-teu;;2sg_p;2nd Person Singular;27711;;;;stan1289;wheeler-1988a
-vosaltres;;2du_a;2nd Person Dual;27712;;;;stan1289;wheeler-1988a
-vosaltres;;2du_s;2nd Person Dual;27713;;;;stan1289;wheeler-1988a
--vos;;2du_o;2nd Person Dual;27714;;;;stan1289;wheeler-1988a
-vostre;;2du_p;2nd Person Dual;27715;;;;stan1289;wheeler-1988a
-vosaltres;;2pl_a;2nd Person Plural;27716;;;;stan1289;wheeler-1988a
-vosaltres;;2pl_s;2nd Person Plural;27717;;;;stan1289;wheeler-1988a
--vos;;2pl_o;2nd Person Plural;27718;;;;stan1289;wheeler-1988a
-vostre;;2pl_p;2nd Person Plural;27719;;;;stan1289;wheeler-1988a
-ell;;3sg_m_a;3rd Person Singular Masculine;27720;;;;stan1289;wheeler-1988a
-ell;;3sg_m_s;3rd Person Singular Masculine;27721;;;;stan1289;wheeler-1988a
--li;;3sg_m_o;3rd Person Singular Masculine;27722;;;;stan1289;wheeler-1988a
-seu;;3sg_m_p;3rd Person Singular Masculine;27723;;;;stan1289;wheeler-1988a
-ella;;3sg_f_a;3rd Person Singular Feminine;27724;;;;stan1289;wheeler-1988a
-ella;;3sg_f_s;3rd Person Singular Feminine;27725;;;;stan1289;wheeler-1988a
--li;;3sg_f_o;3rd Person Singular Feminine;27726;;;;stan1289;wheeler-1988a
-seu;;3sg_f_p;3rd Person Singular Feminine;27727;;;;stan1289;wheeler-1988a
-això;;3sg_n_a;3rd Person Singular Neuter;27728;;;;stan1289;wheeler-1988a
-això;;3sg_n_s;3rd Person Singular Neuter;27729;;;;stan1289;wheeler-1988a
--hi;;3sg_n_o;3rd Person Singular Neuter;27730;;;;stan1289;wheeler-1988a
-seu;;3sg_n_p;3rd Person Singular Neuter;27731;;;;stan1289;wheeler-1988a
-ells;;3du_m_a;3rd Person Dual Masculine;27732;;;;stan1289;wheeler-1988a
-ells;;3du_m_s;3rd Person Dual Masculine;27733;;;;stan1289;wheeler-1988a
--los;;3du_m_o;3rd Person Dual Masculine;27734;;;;stan1289;wheeler-1988a
-seu;;3du_m_p;3rd Person Dual Masculine;27735;;;;stan1289;wheeler-1988a
-elles;;3du_f_a;3rd Person Dual Feminine;27736;;;;stan1289;wheeler-1988a
-elles;;3du_f_s;3rd Person Dual Feminine;27737;;;;stan1289;wheeler-1988a
--los;;3du_f_o;3rd Person Dual Feminine;27738;;;;stan1289;wheeler-1988a
-seu;;3du_f_p;3rd Person Dual Feminine;27739;;;;stan1289;wheeler-1988a
-ells;;3du_n_a;3rd Person Dual Neuter;27740;;;;stan1289;wheeler-1988a
-ells;;3du_n_s;3rd Person Dual Neuter;27741;;;;stan1289;wheeler-1988a
--los;;3du_n_o;3rd Person Dual Neuter;27742;;;;stan1289;wheeler-1988a
-seu;;3du_n_p;3rd Person Dual Neuter;27743;;;;stan1289;wheeler-1988a
-ells;;3pl_m_a;3rd Person Plural Masculine;27744;;;;stan1289;wheeler-1988a
-ells;;3pl_m_s;3rd Person Plural Masculine;27745;;;;stan1289;wheeler-1988a
--los;;3pl_m_o;3rd Person Plural Masculine;27746;;;;stan1289;wheeler-1988a
-seu;;3pl_m_p;3rd Person Plural Masculine;27747;;;;stan1289;wheeler-1988a
-elles;;3pl_f_a;3rd Person Plural Feminine;27748;;;;stan1289;wheeler-1988a
-elles;;3pl_f_s;3rd Person Plural Feminine;27749;;;;stan1289;wheeler-1988a
--los;;3pl_f_o;3rd Person Plural Feminine;27750;;;;stan1289;wheeler-1988a
-seu;;3pl_f_p;3rd Person Plural Feminine;27751;;;;stan1289;wheeler-1988a
-ells;;3pl_n_a;3rd Person Plural Neuter;27752;;;;stan1289;wheeler-1988a
-ells;;3pl_n_s;3rd Person Plural Neuter;27753;;;;stan1289;wheeler-1988a
--los;;3pl_n_o;3rd Person Plural Neuter;27754;;;;stan1289;wheeler-1988a
-seu;;3pl_n_p;3rd Person Plural Neuter;27755;;;;stan1289;wheeler-1988a
-ells;;3d-a;3rd Person Dual;36222;;;;stan1289;wheeler-1988a
-ells;;3d-s;3rd Person Dual;36442;;;;stan1289;wheeler-1988a
--los;;3d-o;3rd Person Dual;36668;;;;stan1289;wheeler-1988a
-seu;;3d-p;3rd Person Dual;36891;;;;stan1289;wheeler-1988a
-ells;;3p-a;3rd Person Plural;37103;;;;stan1289;wheeler-1988a
-ells;;3p-s;3rd Person Plural;37324;;;;stan1289;wheeler-1988a
--los;;3p-o;3rd Person Plural;37548;;;;stan1289;wheeler-1988a
-seu;;3p-p;3rd Person Plural;37769;;;;stan1289;wheeler-1988a
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+jo,,1sg_a,1st (excl) Person Singular,27688,,,,stan1289,wheeler-1988a
+jo,,1sg_s,1st (excl) Person Singular,27689,,,,stan1289,wheeler-1988a
+-me,,1sg_o,1st (excl) Person Singular,27690,,,,stan1289,wheeler-1988a
+meu,,1sg_p,1st (excl) Person Singular,27691,,,,stan1289,wheeler-1988a
+nosaltres,,1du_a,1st (excl) Person Dual,27692,,,,stan1289,wheeler-1988a
+nosaltres,,1du_s,1st (excl) Person Dual,27693,,,,stan1289,wheeler-1988a
+-nos,,1du_o,1st (excl) Person Dual,27694,,,,stan1289,wheeler-1988a
+nostre,,1du_p,1st (excl) Person Dual,27695,,,,stan1289,wheeler-1988a
+nosaltres,,1pl_a,1st (excl) Person Plural,27696,,,,stan1289,wheeler-1988a
+nosaltres,,1pl_s,1st (excl) Person Plural,27697,,,,stan1289,wheeler-1988a
+-nos,,1pl_o,1st (excl) Person Plural,27698,,,,stan1289,wheeler-1988a
+nostre,,1pl_p,1st (excl) Person Plural,27699,,,,stan1289,wheeler-1988a
+nosaltres,,12du_a,1st (incl) Person Dual,27700,,,,stan1289,wheeler-1988a
+nosaltres,,12du_s,1st (incl) Person Dual,27701,,,,stan1289,wheeler-1988a
+-nos,,12du_o,1st (incl) Person Dual,27702,,,,stan1289,wheeler-1988a
+nostre,,12du_p,1st (incl) Person Dual,27703,,,,stan1289,wheeler-1988a
+nosaltres,,12pl_a,1st (incl) Person Plural,27704,,,,stan1289,wheeler-1988a
+nosaltres,,12pl_s,1st (incl) Person Plural,27705,,,,stan1289,wheeler-1988a
+-nos,,12pl_o,1st (incl) Person Plural,27706,,,,stan1289,wheeler-1988a
+nostre,,12pl_p,1st (incl) Person Plural,27707,,,,stan1289,wheeler-1988a
+tu,,2sg_a,2nd Person Singular,27708,,,,stan1289,wheeler-1988a
+tu,,2sg_s,2nd Person Singular,27709,,,,stan1289,wheeler-1988a
+-te,,2sg_o,2nd Person Singular,27710,,,,stan1289,wheeler-1988a
+teu,,2sg_p,2nd Person Singular,27711,,,,stan1289,wheeler-1988a
+vosaltres,,2du_a,2nd Person Dual,27712,,,,stan1289,wheeler-1988a
+vosaltres,,2du_s,2nd Person Dual,27713,,,,stan1289,wheeler-1988a
+-vos,,2du_o,2nd Person Dual,27714,,,,stan1289,wheeler-1988a
+vostre,,2du_p,2nd Person Dual,27715,,,,stan1289,wheeler-1988a
+vosaltres,,2pl_a,2nd Person Plural,27716,,,,stan1289,wheeler-1988a
+vosaltres,,2pl_s,2nd Person Plural,27717,,,,stan1289,wheeler-1988a
+-vos,,2pl_o,2nd Person Plural,27718,,,,stan1289,wheeler-1988a
+vostre,,2pl_p,2nd Person Plural,27719,,,,stan1289,wheeler-1988a
+ell,,3sg_m_a,3rd Person Singular Masculine,27720,,,,stan1289,wheeler-1988a
+ell,,3sg_m_s,3rd Person Singular Masculine,27721,,,,stan1289,wheeler-1988a
+-li,,3sg_m_o,3rd Person Singular Masculine,27722,,,,stan1289,wheeler-1988a
+seu,,3sg_m_p,3rd Person Singular Masculine,27723,,,,stan1289,wheeler-1988a
+ella,,3sg_f_a,3rd Person Singular Feminine,27724,,,,stan1289,wheeler-1988a
+ella,,3sg_f_s,3rd Person Singular Feminine,27725,,,,stan1289,wheeler-1988a
+-li,,3sg_f_o,3rd Person Singular Feminine,27726,,,,stan1289,wheeler-1988a
+seu,,3sg_f_p,3rd Person Singular Feminine,27727,,,,stan1289,wheeler-1988a
+això,,3sg_n_a,3rd Person Singular Neuter,27728,,,,stan1289,wheeler-1988a
+això,,3sg_n_s,3rd Person Singular Neuter,27729,,,,stan1289,wheeler-1988a
+-hi,,3sg_n_o,3rd Person Singular Neuter,27730,,,,stan1289,wheeler-1988a
+seu,,3sg_n_p,3rd Person Singular Neuter,27731,,,,stan1289,wheeler-1988a
+ells,,3du_m_a,3rd Person Dual Masculine,27732,,,,stan1289,wheeler-1988a
+ells,,3du_m_s,3rd Person Dual Masculine,27733,,,,stan1289,wheeler-1988a
+-los,,3du_m_o,3rd Person Dual Masculine,27734,,,,stan1289,wheeler-1988a
+seu,,3du_m_p,3rd Person Dual Masculine,27735,,,,stan1289,wheeler-1988a
+elles,,3du_f_a,3rd Person Dual Feminine,27736,,,,stan1289,wheeler-1988a
+elles,,3du_f_s,3rd Person Dual Feminine,27737,,,,stan1289,wheeler-1988a
+-los,,3du_f_o,3rd Person Dual Feminine,27738,,,,stan1289,wheeler-1988a
+seu,,3du_f_p,3rd Person Dual Feminine,27739,,,,stan1289,wheeler-1988a
+ells,,3du_n_a,3rd Person Dual Neuter,27740,,,,stan1289,wheeler-1988a
+ells,,3du_n_s,3rd Person Dual Neuter,27741,,,,stan1289,wheeler-1988a
+-los,,3du_n_o,3rd Person Dual Neuter,27742,,,,stan1289,wheeler-1988a
+seu,,3du_n_p,3rd Person Dual Neuter,27743,,,,stan1289,wheeler-1988a
+ells,,3pl_m_a,3rd Person Plural Masculine,27744,,,,stan1289,wheeler-1988a
+ells,,3pl_m_s,3rd Person Plural Masculine,27745,,,,stan1289,wheeler-1988a
+-los,,3pl_m_o,3rd Person Plural Masculine,27746,,,,stan1289,wheeler-1988a
+seu,,3pl_m_p,3rd Person Plural Masculine,27747,,,,stan1289,wheeler-1988a
+elles,,3pl_f_a,3rd Person Plural Feminine,27748,,,,stan1289,wheeler-1988a
+elles,,3pl_f_s,3rd Person Plural Feminine,27749,,,,stan1289,wheeler-1988a
+-los,,3pl_f_o,3rd Person Plural Feminine,27750,,,,stan1289,wheeler-1988a
+seu,,3pl_f_p,3rd Person Plural Feminine,27751,,,,stan1289,wheeler-1988a
+ells,,3pl_n_a,3rd Person Plural Neuter,27752,,,,stan1289,wheeler-1988a
+ells,,3pl_n_s,3rd Person Plural Neuter,27753,,,,stan1289,wheeler-1988a
+-los,,3pl_n_o,3rd Person Plural Neuter,27754,,,,stan1289,wheeler-1988a
+seu,,3pl_n_p,3rd Person Plural Neuter,27755,,,,stan1289,wheeler-1988a
+ells,,3d-a,3rd Person Dual,36222,,,,stan1289,wheeler-1988a
+ells,,3d-s,3rd Person Dual,36442,,,,stan1289,wheeler-1988a
+-los,,3d-o,3rd Person Dual,36668,,,,stan1289,wheeler-1988a
+seu,,3d-p,3rd Person Dual,36891,,,,stan1289,wheeler-1988a
+ells,,3p-a,3rd Person Plural,37103,,,,stan1289,wheeler-1988a
+ells,,3p-s,3rd Person Plural,37324,,,,stan1289,wheeler-1988a
+-los,,3p-o,3rd Person Plural,37548,,,,stan1289,wheeler-1988a
+seu,,3p-p,3rd Person Plural,37769,,,,stan1289,wheeler-1988a

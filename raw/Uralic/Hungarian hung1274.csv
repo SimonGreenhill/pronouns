@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-én;;1sg_a;1st (excl) Person Singular;45734;;;;hung1274;kenesei-et-al-1998
-én;;1sg_s;1st (excl) Person Singular;45733;;;;hung1274;kenesei-et-al-1998
-engem;;1sg_o;1st (excl) Person Singular;45732;;;;hung1274;kenesei-et-al-1998
--om;;1sg_p;1st (excl) Person Singular;45731;;;;hung1274;kenesei-et-al-1998
-mi;;1du_a;1st (excl) Person Dual;45730;;;;hung1274;kenesei-et-al-1998
-mi;;1du_s;1st (excl) Person Dual;45729;;;;hung1274;kenesei-et-al-1998
-minket, bɛnnüket;;1du_o;1st (excl) Person Dual;45728;;;;hung1274;kenesei-et-al-1998
--unk;;1du_p;1st (excl) Person Dual;45727;;;;hung1274;kenesei-et-al-1998
-mi;;1pl_a;1st (excl) Person Plural;45726;;;;hung1274;kenesei-et-al-1998
-mi;;1pl_s;1st (excl) Person Plural;45725;;;;hung1274;kenesei-et-al-1998
-minket, bɛnnüket;;1pl_o;1st (excl) Person Plural;45724;;;;hung1274;kenesei-et-al-1998
--unk;;1pl_p;1st (excl) Person Plural;45723;;;;hung1274;kenesei-et-al-1998
-mi;;12du_a;1st (incl) Person Dual;45722;;;;hung1274;kenesei-et-al-1998
-mi;;12du_s;1st (incl) Person Dual;45721;;;;hung1274;kenesei-et-al-1998
-minket, bɛnnüket;;12du_o;1st (incl) Person Dual;45720;;;;hung1274;kenesei-et-al-1998
--unk;;12du_p;1st (incl) Person Dual;45719;;;;hung1274;kenesei-et-al-1998
-mi;;12pl_a;1st (incl) Person Plural;45718;;;;hung1274;kenesei-et-al-1998
-mi;;12pl_s;1st (incl) Person Plural;45717;;;;hung1274;kenesei-et-al-1998
-mminket, bɛnnüket;;12pl_o;1st (incl) Person Plural;45716;;;;hung1274;kenesei-et-al-1998
--unk;;12pl_p;1st (incl) Person Plural;45715;;;;hung1274;kenesei-et-al-1998
-te;;2sg_a;2nd Person Singular;45714;;;;hung1274;kenesei-et-al-1998
-te;;2sg_s;2nd Person Singular;45713;;;;hung1274;kenesei-et-al-1998
-téged, tégedet;;2sg_o;2nd Person Singular;45712;;;;hung1274;kenesei-et-al-1998
--od;;2sg_p;2nd Person Singular;45711;;;;hung1274;kenesei-et-al-1998
-ti;;2du_a;2nd Person Dual;45710;;;;hung1274;kenesei-et-al-1998
-ti;;2du_s;2nd Person Dual;45709;;;;hung1274;kenesei-et-al-1998
-tikeket, benneteket;;2du_o;2nd Person Dual;45708;;;;hung1274;kenesei-et-al-1998
--otok;;2du_p;2nd Person Dual;45707;;;;hung1274;kenesei-et-al-1998
-ti;;2pl_a;2nd Person Plural;45706;;;;hung1274;kenesei-et-al-1998
-ti;;2pl_s;2nd Person Plural;45705;;;;hung1274;kenesei-et-al-1998
-tikeket, benneteket;;2pl_o;2nd Person Plural;45704;;;;hung1274;kenesei-et-al-1998
--otok;;2pl_p;2nd Person Plural;45703;;;;hung1274;kenesei-et-al-1998
-ő;;3sg_m_a;3rd Person Singular Masculine;45702;;;;hung1274;kenesei-et-al-1998
-ő;;3sg_m_s;3rd Person Singular Masculine;45701;;;;hung1274;kenesei-et-al-1998
-őt;;3sg_m_o;3rd Person Singular Masculine;45700;;;;hung1274;kenesei-et-al-1998
--ja;;3sg_m_p;3rd Person Singular Masculine;45699;;;;hung1274;kenesei-et-al-1998
-ő;;3sg_n_a;3rd Person Singular Neuter;45698;;;;hung1274;kenesei-et-al-1998
-ő;;3sg_n_s;3rd Person Singular Neuter;45697;;;;hung1274;kenesei-et-al-1998
-őt;;3sg_n_o;3rd Person Singular Neuter;45696;;;;hung1274;kenesei-et-al-1998
--ja;;3sg_n_p;3rd Person Singular Neuter;45695;;;;hung1274;kenesei-et-al-1998
-ők;;3d-a;3rd Person Dual;45694;;;;hung1274;kenesei-et-al-1998
-ők;;3d-s;3rd Person Dual;45693;;;;hung1274;kenesei-et-al-1998
-őket;;3d-o;3rd Person Dual;45692;;;;hung1274;kenesei-et-al-1998
--juk;;3d-p;3rd Person Dual;45691;;;;hung1274;kenesei-et-al-1998
-ők;;3p-a;3rd Person Plural;45690;;;;hung1274;kenesei-et-al-1998
-ők;;3p-s;3rd Person Plural;45689;;;;hung1274;kenesei-et-al-1998
-őket;;3p-o;3rd Person Plural;45688;;;;hung1274;kenesei-et-al-1998
--juk;;3p-p;3rd Person Plural;45687;;;;hung1274;kenesei-et-al-1998
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+én,,1sg_a,1st (excl) Person Singular,45734,,,,hung1274,kenesei-et-al-1998
+én,,1sg_s,1st (excl) Person Singular,45733,,,,hung1274,kenesei-et-al-1998
+engem,,1sg_o,1st (excl) Person Singular,45732,,,,hung1274,kenesei-et-al-1998
+-om,,1sg_p,1st (excl) Person Singular,45731,,,,hung1274,kenesei-et-al-1998
+mi,,1du_a,1st (excl) Person Dual,45730,,,,hung1274,kenesei-et-al-1998
+mi,,1du_s,1st (excl) Person Dual,45729,,,,hung1274,kenesei-et-al-1998
+"minket, bɛnnüket",,1du_o,1st (excl) Person Dual,45728,,,,hung1274,kenesei-et-al-1998
+-unk,,1du_p,1st (excl) Person Dual,45727,,,,hung1274,kenesei-et-al-1998
+mi,,1pl_a,1st (excl) Person Plural,45726,,,,hung1274,kenesei-et-al-1998
+mi,,1pl_s,1st (excl) Person Plural,45725,,,,hung1274,kenesei-et-al-1998
+"minket, bɛnnüket",,1pl_o,1st (excl) Person Plural,45724,,,,hung1274,kenesei-et-al-1998
+-unk,,1pl_p,1st (excl) Person Plural,45723,,,,hung1274,kenesei-et-al-1998
+mi,,12du_a,1st (incl) Person Dual,45722,,,,hung1274,kenesei-et-al-1998
+mi,,12du_s,1st (incl) Person Dual,45721,,,,hung1274,kenesei-et-al-1998
+"minket, bɛnnüket",,12du_o,1st (incl) Person Dual,45720,,,,hung1274,kenesei-et-al-1998
+-unk,,12du_p,1st (incl) Person Dual,45719,,,,hung1274,kenesei-et-al-1998
+mi,,12pl_a,1st (incl) Person Plural,45718,,,,hung1274,kenesei-et-al-1998
+mi,,12pl_s,1st (incl) Person Plural,45717,,,,hung1274,kenesei-et-al-1998
+"mminket, bɛnnüket",,12pl_o,1st (incl) Person Plural,45716,,,,hung1274,kenesei-et-al-1998
+-unk,,12pl_p,1st (incl) Person Plural,45715,,,,hung1274,kenesei-et-al-1998
+te,,2sg_a,2nd Person Singular,45714,,,,hung1274,kenesei-et-al-1998
+te,,2sg_s,2nd Person Singular,45713,,,,hung1274,kenesei-et-al-1998
+"téged, tégedet",,2sg_o,2nd Person Singular,45712,,,,hung1274,kenesei-et-al-1998
+-od,,2sg_p,2nd Person Singular,45711,,,,hung1274,kenesei-et-al-1998
+ti,,2du_a,2nd Person Dual,45710,,,,hung1274,kenesei-et-al-1998
+ti,,2du_s,2nd Person Dual,45709,,,,hung1274,kenesei-et-al-1998
+"tikeket, benneteket",,2du_o,2nd Person Dual,45708,,,,hung1274,kenesei-et-al-1998
+-otok,,2du_p,2nd Person Dual,45707,,,,hung1274,kenesei-et-al-1998
+ti,,2pl_a,2nd Person Plural,45706,,,,hung1274,kenesei-et-al-1998
+ti,,2pl_s,2nd Person Plural,45705,,,,hung1274,kenesei-et-al-1998
+"tikeket, benneteket",,2pl_o,2nd Person Plural,45704,,,,hung1274,kenesei-et-al-1998
+-otok,,2pl_p,2nd Person Plural,45703,,,,hung1274,kenesei-et-al-1998
+ő,,3sg_m_a,3rd Person Singular Masculine,45702,,,,hung1274,kenesei-et-al-1998
+ő,,3sg_m_s,3rd Person Singular Masculine,45701,,,,hung1274,kenesei-et-al-1998
+őt,,3sg_m_o,3rd Person Singular Masculine,45700,,,,hung1274,kenesei-et-al-1998
+-ja,,3sg_m_p,3rd Person Singular Masculine,45699,,,,hung1274,kenesei-et-al-1998
+ő,,3sg_n_a,3rd Person Singular Neuter,45698,,,,hung1274,kenesei-et-al-1998
+ő,,3sg_n_s,3rd Person Singular Neuter,45697,,,,hung1274,kenesei-et-al-1998
+őt,,3sg_n_o,3rd Person Singular Neuter,45696,,,,hung1274,kenesei-et-al-1998
+-ja,,3sg_n_p,3rd Person Singular Neuter,45695,,,,hung1274,kenesei-et-al-1998
+ők,,3d-a,3rd Person Dual,45694,,,,hung1274,kenesei-et-al-1998
+ők,,3d-s,3rd Person Dual,45693,,,,hung1274,kenesei-et-al-1998
+őket,,3d-o,3rd Person Dual,45692,,,,hung1274,kenesei-et-al-1998
+-juk,,3d-p,3rd Person Dual,45691,,,,hung1274,kenesei-et-al-1998
+ők,,3p-a,3rd Person Plural,45690,,,,hung1274,kenesei-et-al-1998
+ők,,3p-s,3rd Person Plural,45689,,,,hung1274,kenesei-et-al-1998
+őket,,3p-o,3rd Person Plural,45688,,,,hung1274,kenesei-et-al-1998
+-juk,,3p-p,3rd Person Plural,45687,,,,hung1274,kenesei-et-al-1998

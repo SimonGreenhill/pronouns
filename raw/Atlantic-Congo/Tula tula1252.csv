@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-min;;1sg_a;1st (excl) Person Singular;57344;;;;tula1252;lukas-19551956
-min;;1sg_s;1st (excl) Person Singular;57343;;;;tula1252;lukas-19551956
-min;;1sg_o;1st (excl) Person Singular;57342;;;;tula1252;lukas-19551956
--mi;;1sg_p;1st (excl) Person Singular;57341;;;;tula1252;lukas-19551956
-nin;;1du_a;1st (excl) Person Dual;57340;;;;tula1252;lukas-19551956
-nin;;1du_s;1st (excl) Person Dual;57339;;;;tula1252;lukas-19551956
-nir;;1du_o;1st (excl) Person Dual;57338;;;;tula1252;lukas-19551956
--nin;;1du_p;1st (excl) Person Dual;57337;;;;tula1252;lukas-19551956
-nin;;1pl_a;1st (excl) Person Plural;57336;;;;tula1252;lukas-19551956
-nin;;1pl_s;1st (excl) Person Plural;57335;;;;tula1252;lukas-19551956
-nir;;1pl_o;1st (excl) Person Plural;57334;;;;tula1252;lukas-19551956
--nin;;1pl_p;1st (excl) Person Plural;57333;;;;tula1252;lukas-19551956
-jini, jir;;12du_a;1st (incl) Person Dual;57332;;;;tula1252;lukas-19551956
-jini, jir;;12du_s;1st (incl) Person Dual;57331;;;;tula1252;lukas-19551956
-ni;;12du_o;1st (incl) Person Dual;57330;;;;tula1252;lukas-19551956
--jire;;12du_p;1st (incl) Person Dual;57329;;;;tula1252;lukas-19551956
-jini, jir;;12pl_a;1st (incl) Person Plural;57328;;;;tula1252;lukas-19551956
-jini, jir;;12pl_s;1st (incl) Person Plural;57327;;;;tula1252;lukas-19551956
-ni;;12pl_o;1st (incl) Person Plural;57326;;;;tula1252;lukas-19551956
--jire;;12pl_p;1st (incl) Person Plural;57325;;;;tula1252;lukas-19551956
-mwɔn;;2sg_a;2nd Person Singular;57324;;;;tula1252;lukas-19551956
-mwɔn;;2sg_s;2nd Person Singular;57323;;;;tula1252;lukas-19551956
-mwɔn;;2sg_o;2nd Person Singular;57322;;;;tula1252;lukas-19551956
--lɔ;;2sg_p;2nd Person Singular;57321;;;;tula1252;lukas-19551956
-tən;;2du_a;2nd Person Dual;57320;;;;tula1252;lukas-19551956
-tən;;2du_s;2nd Person Dual;57319;;;;tula1252;lukas-19551956
-jin, jir;;2du_o;2nd Person Dual;57318;;;;tula1252;lukas-19551956
--jin;;2du_p;2nd Person Dual;57317;;;;tula1252;lukas-19551956
-tən;;2pl_a;2nd Person Plural;57316;;;;tula1252;lukas-19551956
-tən;;2pl_s;2nd Person Plural;57315;;;;tula1252;lukas-19551956
-jin, jir;;2pl_o;2nd Person Plural;57314;;;;tula1252;lukas-19551956
--jin;;2pl_p;2nd Person Plural;57313;;;;tula1252;lukas-19551956
-kən;;3sg_m_a;3rd Person Singular Masculine;57312;;;;tula1252;lukas-19551956
-kən;;3sg_m_s;3rd Person Singular Masculine;57311;;;;tula1252;lukas-19551956
-kən;;3sg_m_o;3rd Person Singular Masculine;57310;;;;tula1252;lukas-19551956
--kɔ;;3sg_m_p;3rd Person Singular Masculine;57309;;;;tula1252;lukas-19551956
-kən;;3sg_n_a;3rd Person Singular Neuter;57308;;;;tula1252;lukas-19551956
-kən;;3sg_n_s;3rd Person Singular Neuter;57307;;;;tula1252;lukas-19551956
-kən;;3sg_n_o;3rd Person Singular Neuter;57306;;;;tula1252;lukas-19551956
--kɔ;;3sg_n_p;3rd Person Singular Neuter;57305;;;;tula1252;lukas-19551956
-jin;;3d-a;3rd Person Dual;57304;;;;tula1252;lukas-19551956
-jin;;3d-s;3rd Person Dual;57303;;;;tula1252;lukas-19551956
-ji;;3d-o;3rd Person Dual;57302;;;;tula1252;lukas-19551956
--ji;;3d-p;3rd Person Dual;57301;;;;tula1252;lukas-19551956
-jin;;3p-a;3rd Person Plural;57300;;;;tula1252;lukas-19551956
-jin;;3p-s;3rd Person Plural;57299;;;;tula1252;lukas-19551956
-ji;;3p-o;3rd Person Plural;57298;;;;tula1252;lukas-19551956
--ji;;3p-p;3rd Person Plural;57297;;;;tula1252;lukas-19551956
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+min,,1sg_a,1st (excl) Person Singular,57344,,,,tula1252,lukas-19551956
+min,,1sg_s,1st (excl) Person Singular,57343,,,,tula1252,lukas-19551956
+min,,1sg_o,1st (excl) Person Singular,57342,,,,tula1252,lukas-19551956
+-mi,,1sg_p,1st (excl) Person Singular,57341,,,,tula1252,lukas-19551956
+nin,,1du_a,1st (excl) Person Dual,57340,,,,tula1252,lukas-19551956
+nin,,1du_s,1st (excl) Person Dual,57339,,,,tula1252,lukas-19551956
+nir,,1du_o,1st (excl) Person Dual,57338,,,,tula1252,lukas-19551956
+-nin,,1du_p,1st (excl) Person Dual,57337,,,,tula1252,lukas-19551956
+nin,,1pl_a,1st (excl) Person Plural,57336,,,,tula1252,lukas-19551956
+nin,,1pl_s,1st (excl) Person Plural,57335,,,,tula1252,lukas-19551956
+nir,,1pl_o,1st (excl) Person Plural,57334,,,,tula1252,lukas-19551956
+-nin,,1pl_p,1st (excl) Person Plural,57333,,,,tula1252,lukas-19551956
+"jini, jir",,12du_a,1st (incl) Person Dual,57332,,,,tula1252,lukas-19551956
+"jini, jir",,12du_s,1st (incl) Person Dual,57331,,,,tula1252,lukas-19551956
+ni,,12du_o,1st (incl) Person Dual,57330,,,,tula1252,lukas-19551956
+-jire,,12du_p,1st (incl) Person Dual,57329,,,,tula1252,lukas-19551956
+"jini, jir",,12pl_a,1st (incl) Person Plural,57328,,,,tula1252,lukas-19551956
+"jini, jir",,12pl_s,1st (incl) Person Plural,57327,,,,tula1252,lukas-19551956
+ni,,12pl_o,1st (incl) Person Plural,57326,,,,tula1252,lukas-19551956
+-jire,,12pl_p,1st (incl) Person Plural,57325,,,,tula1252,lukas-19551956
+mwɔn,,2sg_a,2nd Person Singular,57324,,,,tula1252,lukas-19551956
+mwɔn,,2sg_s,2nd Person Singular,57323,,,,tula1252,lukas-19551956
+mwɔn,,2sg_o,2nd Person Singular,57322,,,,tula1252,lukas-19551956
+-lɔ,,2sg_p,2nd Person Singular,57321,,,,tula1252,lukas-19551956
+tən,,2du_a,2nd Person Dual,57320,,,,tula1252,lukas-19551956
+tən,,2du_s,2nd Person Dual,57319,,,,tula1252,lukas-19551956
+"jin, jir",,2du_o,2nd Person Dual,57318,,,,tula1252,lukas-19551956
+-jin,,2du_p,2nd Person Dual,57317,,,,tula1252,lukas-19551956
+tən,,2pl_a,2nd Person Plural,57316,,,,tula1252,lukas-19551956
+tən,,2pl_s,2nd Person Plural,57315,,,,tula1252,lukas-19551956
+"jin, jir",,2pl_o,2nd Person Plural,57314,,,,tula1252,lukas-19551956
+-jin,,2pl_p,2nd Person Plural,57313,,,,tula1252,lukas-19551956
+kən,,3sg_m_a,3rd Person Singular Masculine,57312,,,,tula1252,lukas-19551956
+kən,,3sg_m_s,3rd Person Singular Masculine,57311,,,,tula1252,lukas-19551956
+kən,,3sg_m_o,3rd Person Singular Masculine,57310,,,,tula1252,lukas-19551956
+-kɔ,,3sg_m_p,3rd Person Singular Masculine,57309,,,,tula1252,lukas-19551956
+kən,,3sg_n_a,3rd Person Singular Neuter,57308,,,,tula1252,lukas-19551956
+kən,,3sg_n_s,3rd Person Singular Neuter,57307,,,,tula1252,lukas-19551956
+kən,,3sg_n_o,3rd Person Singular Neuter,57306,,,,tula1252,lukas-19551956
+-kɔ,,3sg_n_p,3rd Person Singular Neuter,57305,,,,tula1252,lukas-19551956
+jin,,3d-a,3rd Person Dual,57304,,,,tula1252,lukas-19551956
+jin,,3d-s,3rd Person Dual,57303,,,,tula1252,lukas-19551956
+ji,,3d-o,3rd Person Dual,57302,,,,tula1252,lukas-19551956
+-ji,,3d-p,3rd Person Dual,57301,,,,tula1252,lukas-19551956
+jin,,3p-a,3rd Person Plural,57300,,,,tula1252,lukas-19551956
+jin,,3p-s,3rd Person Plural,57299,,,,tula1252,lukas-19551956
+ji,,3p-o,3rd Person Plural,57298,,,,tula1252,lukas-19551956
+-ji,,3p-p,3rd Person Plural,57297,,,,tula1252,lukas-19551956

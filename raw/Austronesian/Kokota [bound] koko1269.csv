@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-a;;1sg_a;1st (excl) Person Singular;48622;;;;koko1269;palmer-2009
-a;;1sg_s;1st (excl) Person Singular;48621;;;;koko1269;palmer-2009
-=nau;;1sg_o;1st (excl) Person Singular;48620;;;;koko1269;palmer-2009
--gu;;1sg_p;1st (excl) Person Singular;48619;;;;koko1269;palmer-2009
-a;;1du_a;1st (excl) Person Dual;48618;;;;koko1269;palmer-2009
-a;;1du_s;1st (excl) Person Dual;48617;;;;koko1269;palmer-2009
-=gai;;1du_o;1st (excl) Person Dual;48616;;;;koko1269;palmer-2009
--mai;;1du_p;1st (excl) Person Dual;48615;;;;koko1269;palmer-2009
-a;;1pl_a;1st (excl) Person Plural;48614;;;;koko1269;palmer-2009
-a;;1pl_s;1st (excl) Person Plural;48613;;;;koko1269;palmer-2009
-=gai;;1pl_o;1st (excl) Person Plural;48612;;;;koko1269;palmer-2009
--mai;;1pl_p;1st (excl) Person Plural;48611;;;;koko1269;palmer-2009
-da;;12du_a;1st (incl) Person Dual;48610;;;;koko1269;palmer-2009
-da;;12du_s;1st (incl) Person Dual;48609;;;;koko1269;palmer-2009
-=gita;;12du_o;1st (incl) Person Dual;48608;;;;koko1269;palmer-2009
--da;;12du_p;1st (incl) Person Dual;48607;;;;koko1269;palmer-2009
-da;;12pl_a;1st (incl) Person Plural;48606;;;;koko1269;palmer-2009
-da;;12pl_s;1st (incl) Person Plural;48605;;;;koko1269;palmer-2009
-=gita;;12pl_o;1st (incl) Person Plural;48604;;;;koko1269;palmer-2009
--da;;12pl_p;1st (incl) Person Plural;48603;;;;koko1269;palmer-2009
-o;;2sg_a;2nd Person Singular;48602;;;;koko1269;palmer-2009
-o;;2sg_s;2nd Person Singular;48601;;;;koko1269;palmer-2009
-=nigo;;2sg_o;2nd Person Singular;48600;;;;koko1269;palmer-2009
--mu;;2sg_p;2nd Person Singular;48599;;;;koko1269;palmer-2009
-o;;2du_a;2nd Person Dual;48598;;;;koko1269;palmer-2009
-o;;2du_s;2nd Person Dual;48597;;;;koko1269;palmer-2009
-=gau;;2du_o;2nd Person Dual;48596;;;;koko1269;palmer-2009
--mi;;2du_p;2nd Person Dual;48595;;;;koko1269;palmer-2009
-o;;2pl_a;2nd Person Plural;48594;;;;koko1269;palmer-2009
-o;;2pl_s;2nd Person Plural;48593;;;;koko1269;palmer-2009
-=gau;;2pl_o;2nd Person Plural;48592;;;;koko1269;palmer-2009
--mi;;2pl_p;2nd Person Plural;48591;;;;koko1269;palmer-2009
-e;;3sg_m_a;3rd Person Singular Masculine;48590;;;;koko1269;palmer-2009
-e;;3sg_m_s;3rd Person Singular Masculine;48589;;;;koko1269;palmer-2009
-=ni;;3sg_m_o;3rd Person Singular Masculine;48588;;;;koko1269;palmer-2009
--na;;3sg_m_p;3rd Person Singular Masculine;48587;;;;koko1269;palmer-2009
-0;;3sg_n_a;3rd Person Singular Neuter;48586;;;;koko1269;palmer-2009
-0;;3sg_n_s;3rd Person Singular Neuter;48585;;;;koko1269;palmer-2009
-0;;3sg_n_o;3rd Person Singular Neuter;48584;;;;koko1269;palmer-2009
-0;;3sg_n_p;3rd Person Singular Neuter;48583;;;;koko1269;palmer-2009
-e;;3d-a;3rd Person Dual;48582;;;;koko1269;palmer-2009
-e;;3d-s;3rd Person Dual;48581;;;;koko1269;palmer-2009
-=di;;3d-o;3rd Person Dual;48580;;;;koko1269;palmer-2009
--di;;3d-p;3rd Person Dual;48579;;;;koko1269;palmer-2009
-e;;3p-a;3rd Person Plural;48578;;;;koko1269;palmer-2009
-e;;3p-s;3rd Person Plural;48577;;;;koko1269;palmer-2009
-=di;;3p-o;3rd Person Plural;48576;;;;koko1269;palmer-2009
--di;;3p-p;3rd Person Plural;48575;;;;koko1269;palmer-2009
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+a,,1sg_a,1st (excl) Person Singular,48622,,,,koko1269,palmer-2009
+a,,1sg_s,1st (excl) Person Singular,48621,,,,koko1269,palmer-2009
+=nau,,1sg_o,1st (excl) Person Singular,48620,,,,koko1269,palmer-2009
+-gu,,1sg_p,1st (excl) Person Singular,48619,,,,koko1269,palmer-2009
+a,,1du_a,1st (excl) Person Dual,48618,,,,koko1269,palmer-2009
+a,,1du_s,1st (excl) Person Dual,48617,,,,koko1269,palmer-2009
+=gai,,1du_o,1st (excl) Person Dual,48616,,,,koko1269,palmer-2009
+-mai,,1du_p,1st (excl) Person Dual,48615,,,,koko1269,palmer-2009
+a,,1pl_a,1st (excl) Person Plural,48614,,,,koko1269,palmer-2009
+a,,1pl_s,1st (excl) Person Plural,48613,,,,koko1269,palmer-2009
+=gai,,1pl_o,1st (excl) Person Plural,48612,,,,koko1269,palmer-2009
+-mai,,1pl_p,1st (excl) Person Plural,48611,,,,koko1269,palmer-2009
+da,,12du_a,1st (incl) Person Dual,48610,,,,koko1269,palmer-2009
+da,,12du_s,1st (incl) Person Dual,48609,,,,koko1269,palmer-2009
+=gita,,12du_o,1st (incl) Person Dual,48608,,,,koko1269,palmer-2009
+-da,,12du_p,1st (incl) Person Dual,48607,,,,koko1269,palmer-2009
+da,,12pl_a,1st (incl) Person Plural,48606,,,,koko1269,palmer-2009
+da,,12pl_s,1st (incl) Person Plural,48605,,,,koko1269,palmer-2009
+=gita,,12pl_o,1st (incl) Person Plural,48604,,,,koko1269,palmer-2009
+-da,,12pl_p,1st (incl) Person Plural,48603,,,,koko1269,palmer-2009
+o,,2sg_a,2nd Person Singular,48602,,,,koko1269,palmer-2009
+o,,2sg_s,2nd Person Singular,48601,,,,koko1269,palmer-2009
+=nigo,,2sg_o,2nd Person Singular,48600,,,,koko1269,palmer-2009
+-mu,,2sg_p,2nd Person Singular,48599,,,,koko1269,palmer-2009
+o,,2du_a,2nd Person Dual,48598,,,,koko1269,palmer-2009
+o,,2du_s,2nd Person Dual,48597,,,,koko1269,palmer-2009
+=gau,,2du_o,2nd Person Dual,48596,,,,koko1269,palmer-2009
+-mi,,2du_p,2nd Person Dual,48595,,,,koko1269,palmer-2009
+o,,2pl_a,2nd Person Plural,48594,,,,koko1269,palmer-2009
+o,,2pl_s,2nd Person Plural,48593,,,,koko1269,palmer-2009
+=gau,,2pl_o,2nd Person Plural,48592,,,,koko1269,palmer-2009
+-mi,,2pl_p,2nd Person Plural,48591,,,,koko1269,palmer-2009
+e,,3sg_m_a,3rd Person Singular Masculine,48590,,,,koko1269,palmer-2009
+e,,3sg_m_s,3rd Person Singular Masculine,48589,,,,koko1269,palmer-2009
+=ni,,3sg_m_o,3rd Person Singular Masculine,48588,,,,koko1269,palmer-2009
+-na,,3sg_m_p,3rd Person Singular Masculine,48587,,,,koko1269,palmer-2009
+0,,3sg_n_a,3rd Person Singular Neuter,48586,,,,koko1269,palmer-2009
+0,,3sg_n_s,3rd Person Singular Neuter,48585,,,,koko1269,palmer-2009
+0,,3sg_n_o,3rd Person Singular Neuter,48584,,,,koko1269,palmer-2009
+0,,3sg_n_p,3rd Person Singular Neuter,48583,,,,koko1269,palmer-2009
+e,,3d-a,3rd Person Dual,48582,,,,koko1269,palmer-2009
+e,,3d-s,3rd Person Dual,48581,,,,koko1269,palmer-2009
+=di,,3d-o,3rd Person Dual,48580,,,,koko1269,palmer-2009
+-di,,3d-p,3rd Person Dual,48579,,,,koko1269,palmer-2009
+e,,3p-a,3rd Person Plural,48578,,,,koko1269,palmer-2009
+e,,3p-s,3rd Person Plural,48577,,,,koko1269,palmer-2009
+=di,,3p-o,3rd Person Plural,48576,,,,koko1269,palmer-2009
+-di,,3p-p,3rd Person Plural,48575,,,,koko1269,palmer-2009

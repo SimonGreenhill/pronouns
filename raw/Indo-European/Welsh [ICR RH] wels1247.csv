@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-i, vi, mi;;1sg_a;1st (excl) Person Singular;60736;;;;wels1247;king-2005
-i, vi, mi;;1sg_s;1st (excl) Person Singular;60735;;;;wels1247;king-2005
-vi;;1sg_o;1st (excl) Person Singular;60734;;;;wels1247;king-2005
-və, ən, n ;;1sg_p;1st (excl) Person Singular;60733;;;;wels1247;king-2005
-ni;;1du_a;1st (excl) Person Dual;60732;;;;wels1247;king-2005
-ni;;1du_s;1st (excl) Person Dual;60731;;;;wels1247;king-2005
-ni;;1du_o;1st (excl) Person Dual;60730;;;;wels1247;king-2005
-ən, n;;1du_p;1st (excl) Person Dual;60729;;;;wels1247;king-2005
-ni;;1pl_a;1st (excl) Person Plural;60728;;;;wels1247;king-2005
-ni;;1pl_s;1st (excl) Person Plural;60727;;;;wels1247;king-2005
-ni;;1pl_o;1st (excl) Person Plural;60726;;;;wels1247;king-2005
-ən, n;;1pl_p;1st (excl) Person Plural;60725;;;;wels1247;king-2005
-ni;;12du_a;1st (incl) Person Dual;60724;;;;wels1247;king-2005
-ni;;12du_s;1st (incl) Person Dual;60723;;;;wels1247;king-2005
-ni;;12du_o;1st (incl) Person Dual;60722;;;;wels1247;king-2005
-ən, n;;12du_p;1st (incl) Person Dual;60721;;;;wels1247;king-2005
-ni;;12pl_a;1st (incl) Person Plural;60720;;;;wels1247;king-2005
-ni;;12pl_s;1st (incl) Person Plural;60719;;;;wels1247;king-2005
-ni;;12pl_o;1st (incl) Person Plural;60718;;;;wels1247;king-2005
-ən, n;;12pl_p;1st (incl) Person Plural;60717;;;;wels1247;king-2005
-ti, di, χdi;;2sg_a;2nd Person Singular;60716;;;;wels1247;king-2005
-ti, di, χdi;;2sg_s;2nd Person Singular;60715;;;;wels1247;king-2005
-ti, di, χdi;;2sg_o;2nd Person Singular;60714;;;;wels1247;king-2005
-də, d;;2sg_p;2nd Person Singular;60713;;;;wels1247;king-2005
-χi;;2du_a;2nd Person Dual;60712;;;;wels1247;king-2005
-χi;;2du_s;2nd Person Dual;60711;;;;wels1247;king-2005
-χi;;2du_o;2nd Person Dual;60710;;;;wels1247;king-2005
- əχ, χ;;2du_p;2nd Person Dual;60709;;;;wels1247;king-2005
-χi;;2pl_a;2nd Person Plural;60708;;;;wels1247;king-2005
-χi;;2pl_s;2nd Person Plural;60707;;;;wels1247;king-2005
-χi;;2pl_o;2nd Person Plural;60706;;;;wels1247;king-2005
- əχ, χ;;2pl_p;2nd Person Plural;60705;;;;wels1247;king-2005
-e, o, ve, vo;;3sg_m_a;3rd Person Singular Masculine;60704;;;;wels1247;king-2005
-e, o, ve, vo;;3sg_m_s;3rd Person Singular Masculine;60703;;;;wels1247;king-2005
-e, o, ve, vo;;3sg_m_o;3rd Person Singular Masculine;60702;;;;wels1247;king-2005
-i, u;;3sg_m_p;3rd Person Singular Masculine;60701;;;;wels1247;king-2005
-hi;;3sg_n_a;3rd Person Singular Neuter;60700;;;;wels1247;king-2005
-hi;;3sg_n_s;3rd Person Singular Neuter;60699;;;;wels1247;king-2005
-hi;;3sg_n_o;3rd Person Singular Neuter;60698;;;;wels1247;king-2005
-i, u;;3sg_n_p;3rd Person Singular Neuter;60697;;;;wels1247;king-2005
-nhu, nu ;;3d-a;3rd Person Dual;60696;;;;wels1247;king-2005
-nhu, nu ;;3d-s;3rd Person Dual;60695;;;;wels1247;king-2005
-nhu, nu ;;3d-o;3rd Person Dual;60694;;;;wels1247;king-2005
-i, u;;3d-p;3rd Person Dual;60693;;;;wels1247;king-2005
-nhu, nu ;;3p-a;3rd Person Plural;60692;;;;wels1247;king-2005
-nhu, nu ;;3p-s;3rd Person Plural;60691;;;;wels1247;king-2005
-nhu, nu ;;3p-o;3rd Person Plural;60690;;;;wels1247;king-2005
-i, u;;3p-p;3rd Person Plural;60689;;;;wels1247;king-2005
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+"i, vi, mi",,1sg_a,1st (excl) Person Singular,60736,,,,wels1247,king-2005
+"i, vi, mi",,1sg_s,1st (excl) Person Singular,60735,,,,wels1247,king-2005
+vi,,1sg_o,1st (excl) Person Singular,60734,,,,wels1247,king-2005
+"və, ən, n",,1sg_p,1st (excl) Person Singular,60733,,,,wels1247,king-2005
+ni,,1du_a,1st (excl) Person Dual,60732,,,,wels1247,king-2005
+ni,,1du_s,1st (excl) Person Dual,60731,,,,wels1247,king-2005
+ni,,1du_o,1st (excl) Person Dual,60730,,,,wels1247,king-2005
+"ən, n",,1du_p,1st (excl) Person Dual,60729,,,,wels1247,king-2005
+ni,,1pl_a,1st (excl) Person Plural,60728,,,,wels1247,king-2005
+ni,,1pl_s,1st (excl) Person Plural,60727,,,,wels1247,king-2005
+ni,,1pl_o,1st (excl) Person Plural,60726,,,,wels1247,king-2005
+"ən, n",,1pl_p,1st (excl) Person Plural,60725,,,,wels1247,king-2005
+ni,,12du_a,1st (incl) Person Dual,60724,,,,wels1247,king-2005
+ni,,12du_s,1st (incl) Person Dual,60723,,,,wels1247,king-2005
+ni,,12du_o,1st (incl) Person Dual,60722,,,,wels1247,king-2005
+"ən, n",,12du_p,1st (incl) Person Dual,60721,,,,wels1247,king-2005
+ni,,12pl_a,1st (incl) Person Plural,60720,,,,wels1247,king-2005
+ni,,12pl_s,1st (incl) Person Plural,60719,,,,wels1247,king-2005
+ni,,12pl_o,1st (incl) Person Plural,60718,,,,wels1247,king-2005
+"ən, n",,12pl_p,1st (incl) Person Plural,60717,,,,wels1247,king-2005
+"ti, di, χdi",,2sg_a,2nd Person Singular,60716,,,,wels1247,king-2005
+"ti, di, χdi",,2sg_s,2nd Person Singular,60715,,,,wels1247,king-2005
+"ti, di, χdi",,2sg_o,2nd Person Singular,60714,,,,wels1247,king-2005
+"də, d",,2sg_p,2nd Person Singular,60713,,,,wels1247,king-2005
+χi,,2du_a,2nd Person Dual,60712,,,,wels1247,king-2005
+χi,,2du_s,2nd Person Dual,60711,,,,wels1247,king-2005
+χi,,2du_o,2nd Person Dual,60710,,,,wels1247,king-2005
+"əχ, χ",,2du_p,2nd Person Dual,60709,,,,wels1247,king-2005
+χi,,2pl_a,2nd Person Plural,60708,,,,wels1247,king-2005
+χi,,2pl_s,2nd Person Plural,60707,,,,wels1247,king-2005
+χi,,2pl_o,2nd Person Plural,60706,,,,wels1247,king-2005
+"əχ, χ",,2pl_p,2nd Person Plural,60705,,,,wels1247,king-2005
+"e, o, ve, vo",,3sg_m_a,3rd Person Singular Masculine,60704,,,,wels1247,king-2005
+"e, o, ve, vo",,3sg_m_s,3rd Person Singular Masculine,60703,,,,wels1247,king-2005
+"e, o, ve, vo",,3sg_m_o,3rd Person Singular Masculine,60702,,,,wels1247,king-2005
+"i, u",,3sg_m_p,3rd Person Singular Masculine,60701,,,,wels1247,king-2005
+hi,,3sg_n_a,3rd Person Singular Neuter,60700,,,,wels1247,king-2005
+hi,,3sg_n_s,3rd Person Singular Neuter,60699,,,,wels1247,king-2005
+hi,,3sg_n_o,3rd Person Singular Neuter,60698,,,,wels1247,king-2005
+"i, u",,3sg_n_p,3rd Person Singular Neuter,60697,,,,wels1247,king-2005
+"nhu, nu",,3d-a,3rd Person Dual,60696,,,,wels1247,king-2005
+"nhu, nu",,3d-s,3rd Person Dual,60695,,,,wels1247,king-2005
+"nhu, nu",,3d-o,3rd Person Dual,60694,,,,wels1247,king-2005
+"i, u",,3d-p,3rd Person Dual,60693,,,,wels1247,king-2005
+"nhu, nu",,3p-a,3rd Person Plural,60692,,,,wels1247,king-2005
+"nhu, nu",,3p-s,3rd Person Plural,60691,,,,wels1247,king-2005
+"nhu, nu",,3p-o,3rd Person Plural,60690,,,,wels1247,king-2005
+"i, u",,3p-p,3rd Person Plural,60689,,,,wels1247,king-2005

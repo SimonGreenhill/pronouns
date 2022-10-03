@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ŋabi;;1sg_a;1st (excl) Person Singular;49822;;;;iwai1244;evans-pc
-ŋapi;;1sg_s;1st (excl) Person Singular;49821;;;;iwai1244;evans-pc
-ŋapi;;1sg_o;1st (excl) Person Singular;49820;;;;iwai1244;evans-pc
-ŋapi;;1sg_p;1st (excl) Person Singular;49819;;;;iwai1244;evans-pc
-ŋari;;1du_a;1st (excl) Person Dual;49818;;;;iwai1244;evans-pc
-ŋari;;1du_s;1st (excl) Person Dual;49817;;;;iwai1244;evans-pc
-ŋari;;1du_o;1st (excl) Person Dual;49816;;;;iwai1244;evans-pc
-ŋari;;1du_p;1st (excl) Person Dual;49815;;;;iwai1244;evans-pc
-ŋari;;1pl_a;1st (excl) Person Plural;49814;;;;iwai1244;evans-pc
-ŋari;;1pl_s;1st (excl) Person Plural;49813;;;;iwai1244;evans-pc
-ŋari;;1pl_o;1st (excl) Person Plural;49812;;;;iwai1244;evans-pc
-ŋari;;1pl_p;1st (excl) Person Plural;49811;;;;iwai1244;evans-pc
-ŋaruri;;12du_a;1st (incl) Person Dual;49810;;;;iwai1244;evans-pc
-ŋaruri;;12du_s;1st (incl) Person Dual;49809;;;;iwai1244;evans-pc
-ŋaruri;;12du_o;1st (incl) Person Dual;49808;;;;iwai1244;evans-pc
-ŋaruri;;12du_p;1st (incl) Person Dual;49807;;;;iwai1244;evans-pc
-ŋaruri;;12pl_a;1st (incl) Person Plural;49806;;;;iwai1244;evans-pc
-ŋaruri;;12pl_s;1st (incl) Person Plural;49805;;;;iwai1244;evans-pc
-ŋaruri;;12pl_o;1st (incl) Person Plural;49804;;;;iwai1244;evans-pc
-ŋaruri;;12pl_p;1st (incl) Person Plural;49803;;;;iwai1244;evans-pc
-nuyi;;2sg_a;2nd Person Singular;49802;;;;iwai1244;evans-pc
-nuyi;;2sg_s;2nd Person Singular;49801;;;;iwai1244;evans-pc
-nuyi;;2sg_o;2nd Person Singular;49800;;;;iwai1244;evans-pc
-nuyi;;2sg_p;2nd Person Singular;49799;;;;iwai1244;evans-pc
-nuwuri;;2du_a;2nd Person Dual;49798;;;;iwai1244;evans-pc
-nuwuri;;2du_s;2nd Person Dual;49797;;;;iwai1244;evans-pc
-nuwuri;;2du_o;2nd Person Dual;49796;;;;iwai1244;evans-pc
-nuwuri;;2du_p;2nd Person Dual;49795;;;;iwai1244;evans-pc
-nuwuri;;2pl_a;2nd Person Plural;49794;;;;iwai1244;evans-pc
-nuwuri;;2pl_s;2nd Person Plural;49793;;;;iwai1244;evans-pc
-nuwuri;;2pl_o;2nd Person Plural;49792;;;;iwai1244;evans-pc
-nuwuri;;2pl_p;2nd Person Plural;49791;;;;iwai1244;evans-pc
-canat;;3sg_m_a;3rd Person Singular Masculine;49790;;;;iwai1244;evans-pc
-canat;;3sg_m_s;3rd Person Singular Masculine;49789;;;;iwai1244;evans-pc
-canat;;3sg_m_o;3rd Person Singular Masculine;49788;;;;iwai1244;evans-pc
-canat;;3sg_m_p;3rd Person Singular Masculine;49787;;;;iwai1244;evans-pc
-canat;;3sg_n_a;3rd Person Singular Neuter;49786;;;;iwai1244;evans-pc
-canat;;3sg_n_s;3rd Person Singular Neuter;49785;;;;iwai1244;evans-pc
-canat;;3sg_n_o;3rd Person Singular Neuter;49784;;;;iwai1244;evans-pc
-canat;;3sg_n_p;3rd Person Singular Neuter;49783;;;;iwai1244;evans-pc
-anat;;3d-a;3rd Person Dual;49782;;;;iwai1244;evans-pc
-anat;;3d-s;3rd Person Dual;49781;;;;iwai1244;evans-pc
-anat;;3d-o;3rd Person Dual;49780;;;;iwai1244;evans-pc
-anat;;3d-p;3rd Person Dual;49779;;;;iwai1244;evans-pc
-anat;;3p-a;3rd Person Plural;49778;;;;iwai1244;evans-pc
-anat;;3p-s;3rd Person Plural;49777;;;;iwai1244;evans-pc
-anat;;3p-o;3rd Person Plural;49776;;;;iwai1244;evans-pc
-anat;;3p-p;3rd Person Plural;49775;;;;iwai1244;evans-pc
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋabi,,1sg_a,1st (excl) Person Singular,49822,,,,iwai1244,evans-pc
+ŋapi,,1sg_s,1st (excl) Person Singular,49821,,,,iwai1244,evans-pc
+ŋapi,,1sg_o,1st (excl) Person Singular,49820,,,,iwai1244,evans-pc
+ŋapi,,1sg_p,1st (excl) Person Singular,49819,,,,iwai1244,evans-pc
+ŋari,,1du_a,1st (excl) Person Dual,49818,,,,iwai1244,evans-pc
+ŋari,,1du_s,1st (excl) Person Dual,49817,,,,iwai1244,evans-pc
+ŋari,,1du_o,1st (excl) Person Dual,49816,,,,iwai1244,evans-pc
+ŋari,,1du_p,1st (excl) Person Dual,49815,,,,iwai1244,evans-pc
+ŋari,,1pl_a,1st (excl) Person Plural,49814,,,,iwai1244,evans-pc
+ŋari,,1pl_s,1st (excl) Person Plural,49813,,,,iwai1244,evans-pc
+ŋari,,1pl_o,1st (excl) Person Plural,49812,,,,iwai1244,evans-pc
+ŋari,,1pl_p,1st (excl) Person Plural,49811,,,,iwai1244,evans-pc
+ŋaruri,,12du_a,1st (incl) Person Dual,49810,,,,iwai1244,evans-pc
+ŋaruri,,12du_s,1st (incl) Person Dual,49809,,,,iwai1244,evans-pc
+ŋaruri,,12du_o,1st (incl) Person Dual,49808,,,,iwai1244,evans-pc
+ŋaruri,,12du_p,1st (incl) Person Dual,49807,,,,iwai1244,evans-pc
+ŋaruri,,12pl_a,1st (incl) Person Plural,49806,,,,iwai1244,evans-pc
+ŋaruri,,12pl_s,1st (incl) Person Plural,49805,,,,iwai1244,evans-pc
+ŋaruri,,12pl_o,1st (incl) Person Plural,49804,,,,iwai1244,evans-pc
+ŋaruri,,12pl_p,1st (incl) Person Plural,49803,,,,iwai1244,evans-pc
+nuyi,,2sg_a,2nd Person Singular,49802,,,,iwai1244,evans-pc
+nuyi,,2sg_s,2nd Person Singular,49801,,,,iwai1244,evans-pc
+nuyi,,2sg_o,2nd Person Singular,49800,,,,iwai1244,evans-pc
+nuyi,,2sg_p,2nd Person Singular,49799,,,,iwai1244,evans-pc
+nuwuri,,2du_a,2nd Person Dual,49798,,,,iwai1244,evans-pc
+nuwuri,,2du_s,2nd Person Dual,49797,,,,iwai1244,evans-pc
+nuwuri,,2du_o,2nd Person Dual,49796,,,,iwai1244,evans-pc
+nuwuri,,2du_p,2nd Person Dual,49795,,,,iwai1244,evans-pc
+nuwuri,,2pl_a,2nd Person Plural,49794,,,,iwai1244,evans-pc
+nuwuri,,2pl_s,2nd Person Plural,49793,,,,iwai1244,evans-pc
+nuwuri,,2pl_o,2nd Person Plural,49792,,,,iwai1244,evans-pc
+nuwuri,,2pl_p,2nd Person Plural,49791,,,,iwai1244,evans-pc
+canat,,3sg_m_a,3rd Person Singular Masculine,49790,,,,iwai1244,evans-pc
+canat,,3sg_m_s,3rd Person Singular Masculine,49789,,,,iwai1244,evans-pc
+canat,,3sg_m_o,3rd Person Singular Masculine,49788,,,,iwai1244,evans-pc
+canat,,3sg_m_p,3rd Person Singular Masculine,49787,,,,iwai1244,evans-pc
+canat,,3sg_n_a,3rd Person Singular Neuter,49786,,,,iwai1244,evans-pc
+canat,,3sg_n_s,3rd Person Singular Neuter,49785,,,,iwai1244,evans-pc
+canat,,3sg_n_o,3rd Person Singular Neuter,49784,,,,iwai1244,evans-pc
+canat,,3sg_n_p,3rd Person Singular Neuter,49783,,,,iwai1244,evans-pc
+anat,,3d-a,3rd Person Dual,49782,,,,iwai1244,evans-pc
+anat,,3d-s,3rd Person Dual,49781,,,,iwai1244,evans-pc
+anat,,3d-o,3rd Person Dual,49780,,,,iwai1244,evans-pc
+anat,,3d-p,3rd Person Dual,49779,,,,iwai1244,evans-pc
+anat,,3p-a,3rd Person Plural,49778,,,,iwai1244,evans-pc
+anat,,3p-s,3rd Person Plural,49777,,,,iwai1244,evans-pc
+anat,,3p-o,3rd Person Plural,49776,,,,iwai1244,evans-pc
+anat,,3p-p,3rd Person Plural,49775,,,,iwai1244,evans-pc

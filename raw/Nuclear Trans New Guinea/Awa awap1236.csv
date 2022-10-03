@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ne;;1sg_a;1st (excl) Person Singular;47158;;;;awap1236;ross-1995
-ne;;1sg_s;1st (excl) Person Singular;47157;;;;awap1236;ross-1995
-ni-;;1sg_o;1st (excl) Person Singular;47156;;;;awap1236;ross-1995
-nu-;;1sg_p;1st (excl) Person Singular;47155;;;;awap1236;ross-1995
-ite;;1du_a;1st (excl) Person Dual;47154;;;;awap1236;ross-1995
-ite;;1du_s;1st (excl) Person Dual;47153;;;;awap1236;ross-1995
-i-;;1du_o;1st (excl) Person Dual;47152;;;;awap1236;ross-1995
-i-;;1du_p;1st (excl) Person Dual;60980;;;;awap1236;ross-1995
-ite;;1pl_a;1st (excl) Person Plural;47151;;;;awap1236;ross-1995
-ite;;1pl_s;1st (excl) Person Plural;47150;;;;awap1236;ross-1995
-i-;;1pl_o;1st (excl) Person Plural;47149;;;;awap1236;ross-1995
-i-;;1pl_p;1st (excl) Person Plural;60979;;;;awap1236;ross-1995
-ite;;12du_a;1st (incl) Person Dual;47148;;;;awap1236;ross-1995
-ite;;12du_s;1st (incl) Person Dual;47147;;;;awap1236;ross-1995
-i-;;12du_o;1st (incl) Person Dual;47146;;;;awap1236;ross-1995
-i-;;12du_p;1st (incl) Person Dual;60978;;;;awap1236;ross-1995
-ite;;12pl_a;1st (incl) Person Plural;47145;;;;awap1236;ross-1995
-ite;;12pl_s;1st (incl) Person Plural;47144;;;;awap1236;ross-1995
-i-;;12pl_o;1st (incl) Person Plural;47143;;;;awap1236;ross-1995
-i-;;12pl_p;1st (incl) Person Plural;60977;;;;awap1236;ross-1995
-ade;;2sg_a;2nd Person Singular;47142;;;;awap1236;ross-1995
-ade;;2sg_s;2nd Person Singular;47141;;;;awap1236;ross-1995
-a-;;2sg_o;2nd Person Singular;47140;;;;awap1236;ross-1995
-adena-;;2sg_p;2nd Person Singular;47139;;;;awap1236;ross-1995
-ite;;2du_a;2nd Person Dual;47138;;;;awap1236;ross-1995
-ite;;2du_s;2nd Person Dual;47137;;;;awap1236;ross-1995
-i-;;2du_o;2nd Person Dual;47136;;;;awap1236;ross-1995
-i-;;2du_p;2nd Person Dual;60984;;;;awap1236;ross-1995
-ite;;2pl_a;2nd Person Plural;47135;;;;awap1236;ross-1995
-ite;;2pl_s;2nd Person Plural;47134;;;;awap1236;ross-1995
-i-;;2pl_o;2nd Person Plural;47133;;;;awap1236;ross-1995
-i-;;2pl_p;2nd Person Plural;60983;;;;awap1236;ross-1995
-we;;3sg_m_a;3rd Person Singular Masculine;47132;;;;awap1236;ross-1995
-we;;3sg_m_s;3rd Person Singular Masculine;47131;;;;awap1236;ross-1995
-a-;;3sg_m_o;3rd Person Singular Masculine;47130;;;;awap1236;ross-1995
-wena-;;3sg_m_p;3rd Person Singular Masculine;47129;;;;awap1236;ross-1995
-we;;3sg_n_a;3rd Person Singular Neuter;47128;;;;awap1236;ross-1995
-we;;3sg_n_s;3rd Person Singular Neuter;47127;;;;awap1236;ross-1995
-a-;;3sg_n_o;3rd Person Singular Neuter;47126;;;;awap1236;ross-1995
-wena-;;3sg_n_p;3rd Person Singular Neuter;47125;;;;awap1236;ross-1995
-se;;3d-a;3rd Person Dual;47124;;;;awap1236;ross-1995
-se;;3d-s;3rd Person Dual;47123;;;;awap1236;ross-1995
-i-;;3d-o;3rd Person Dual;47122;;;;awap1236;ross-1995
-si-;;3d-p;3rd Person Dual;60982;;;;awap1236;ross-1995
-se;;3p-a;3rd Person Plural;47121;;;;awap1236;ross-1995
-se;;3p-s;3rd Person Plural;47120;;;;awap1236;ross-1995
-i-;;3p-o;3rd Person Plural;47119;;;;awap1236;ross-1995
-si-;;3p-p;3rd Person Plural;60981;;;;awap1236;ross-1995
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ne,,1sg_a,1st (excl) Person Singular,47158,,,,awap1236,ross-1995
+ne,,1sg_s,1st (excl) Person Singular,47157,,,,awap1236,ross-1995
+ni-,,1sg_o,1st (excl) Person Singular,47156,,,,awap1236,ross-1995
+nu-,,1sg_p,1st (excl) Person Singular,47155,,,,awap1236,ross-1995
+ite,,1du_a,1st (excl) Person Dual,47154,,,,awap1236,ross-1995
+ite,,1du_s,1st (excl) Person Dual,47153,,,,awap1236,ross-1995
+i-,,1du_o,1st (excl) Person Dual,47152,,,,awap1236,ross-1995
+i-,,1du_p,1st (excl) Person Dual,60980,,,,awap1236,ross-1995
+ite,,1pl_a,1st (excl) Person Plural,47151,,,,awap1236,ross-1995
+ite,,1pl_s,1st (excl) Person Plural,47150,,,,awap1236,ross-1995
+i-,,1pl_o,1st (excl) Person Plural,47149,,,,awap1236,ross-1995
+i-,,1pl_p,1st (excl) Person Plural,60979,,,,awap1236,ross-1995
+ite,,12du_a,1st (incl) Person Dual,47148,,,,awap1236,ross-1995
+ite,,12du_s,1st (incl) Person Dual,47147,,,,awap1236,ross-1995
+i-,,12du_o,1st (incl) Person Dual,47146,,,,awap1236,ross-1995
+i-,,12du_p,1st (incl) Person Dual,60978,,,,awap1236,ross-1995
+ite,,12pl_a,1st (incl) Person Plural,47145,,,,awap1236,ross-1995
+ite,,12pl_s,1st (incl) Person Plural,47144,,,,awap1236,ross-1995
+i-,,12pl_o,1st (incl) Person Plural,47143,,,,awap1236,ross-1995
+i-,,12pl_p,1st (incl) Person Plural,60977,,,,awap1236,ross-1995
+ade,,2sg_a,2nd Person Singular,47142,,,,awap1236,ross-1995
+ade,,2sg_s,2nd Person Singular,47141,,,,awap1236,ross-1995
+a-,,2sg_o,2nd Person Singular,47140,,,,awap1236,ross-1995
+adena-,,2sg_p,2nd Person Singular,47139,,,,awap1236,ross-1995
+ite,,2du_a,2nd Person Dual,47138,,,,awap1236,ross-1995
+ite,,2du_s,2nd Person Dual,47137,,,,awap1236,ross-1995
+i-,,2du_o,2nd Person Dual,47136,,,,awap1236,ross-1995
+i-,,2du_p,2nd Person Dual,60984,,,,awap1236,ross-1995
+ite,,2pl_a,2nd Person Plural,47135,,,,awap1236,ross-1995
+ite,,2pl_s,2nd Person Plural,47134,,,,awap1236,ross-1995
+i-,,2pl_o,2nd Person Plural,47133,,,,awap1236,ross-1995
+i-,,2pl_p,2nd Person Plural,60983,,,,awap1236,ross-1995
+we,,3sg_m_a,3rd Person Singular Masculine,47132,,,,awap1236,ross-1995
+we,,3sg_m_s,3rd Person Singular Masculine,47131,,,,awap1236,ross-1995
+a-,,3sg_m_o,3rd Person Singular Masculine,47130,,,,awap1236,ross-1995
+wena-,,3sg_m_p,3rd Person Singular Masculine,47129,,,,awap1236,ross-1995
+we,,3sg_n_a,3rd Person Singular Neuter,47128,,,,awap1236,ross-1995
+we,,3sg_n_s,3rd Person Singular Neuter,47127,,,,awap1236,ross-1995
+a-,,3sg_n_o,3rd Person Singular Neuter,47126,,,,awap1236,ross-1995
+wena-,,3sg_n_p,3rd Person Singular Neuter,47125,,,,awap1236,ross-1995
+se,,3d-a,3rd Person Dual,47124,,,,awap1236,ross-1995
+se,,3d-s,3rd Person Dual,47123,,,,awap1236,ross-1995
+i-,,3d-o,3rd Person Dual,47122,,,,awap1236,ross-1995
+si-,,3d-p,3rd Person Dual,60982,,,,awap1236,ross-1995
+se,,3p-a,3rd Person Plural,47121,,,,awap1236,ross-1995
+se,,3p-s,3rd Person Plural,47120,,,,awap1236,ross-1995
+i-,,3p-o,3rd Person Plural,47119,,,,awap1236,ross-1995
+si-,,3p-p,3rd Person Plural,60981,,,,awap1236,ross-1995

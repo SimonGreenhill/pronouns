@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-jɑːg;;1sg_a;1st (excl) Person Singular;45686;;;;swed1254;bjorkhagen-1966
-jɑːg;;1sg_s;1st (excl) Person Singular;45685;;;;swed1254;bjorkhagen-1966
-miːg;;1sg_o;1st (excl) Person Singular;45684;;;;swed1254;bjorkhagen-1966
-míːnà;;1sg_p;1st (excl) Person Singular;45683;;;;swed1254;bjorkhagen-1966
-vi ;;1du_a;1st (excl) Person Dual;45682;;;;swed1254;bjorkhagen-1966
-vi ;;1du_s;1st (excl) Person Dual;45681;;;;swed1254;bjorkhagen-1966
-ɔsː;;1du_o;1st (excl) Person Dual;45680;;;;swed1254;bjorkhagen-1966
-vóːrà;;1du_p;1st (excl) Person Dual;45679;;;;swed1254;bjorkhagen-1966
-vi ;;1pl_a;1st (excl) Person Plural;45678;;;;swed1254;bjorkhagen-1966
-vi ;;1pl_s;1st (excl) Person Plural;45677;;;;swed1254;bjorkhagen-1966
-ɔsː;;1pl_o;1st (excl) Person Plural;45676;;;;swed1254;bjorkhagen-1966
-vóːrà;;1pl_p;1st (excl) Person Plural;45675;;;;swed1254;bjorkhagen-1966
-vi ;;12du_a;1st (incl) Person Dual;45674;;;;swed1254;bjorkhagen-1966
-vi ;;12du_s;1st (incl) Person Dual;45673;;;;swed1254;bjorkhagen-1966
-ɔsː;;12du_o;1st (incl) Person Dual;45672;;;;swed1254;bjorkhagen-1966
-vóːrà;;12du_p;1st (incl) Person Dual;45671;;;;swed1254;bjorkhagen-1966
-vi ;;12pl_a;1st (incl) Person Plural;45670;;;;swed1254;bjorkhagen-1966
-vi ;;12pl_s;1st (incl) Person Plural;45669;;;;swed1254;bjorkhagen-1966
-ɔsː;;12pl_o;1st (incl) Person Plural;45668;;;;swed1254;bjorkhagen-1966
-vóːrà;;12pl_p;1st (incl) Person Plural;45667;;;;swed1254;bjorkhagen-1966
-dɯː;;2sg_a;2nd Person Singular;45666;;;;swed1254;bjorkhagen-1966
-dɯː;;2sg_s;2nd Person Singular;45665;;;;swed1254;bjorkhagen-1966
-diːg;;2sg_o;2nd Person Singular;45664;;;;swed1254;bjorkhagen-1966
-díːnà;;2sg_p;2nd Person Singular;45663;;;;swed1254;bjorkhagen-1966
-ni;;2du_a;2nd Person Dual;45662;;;;swed1254;bjorkhagen-1966
-ni;;2du_s;2nd Person Dual;45661;;;;swed1254;bjorkhagen-1966
-eːr;;2du_o;2nd Person Dual;45660;;;;swed1254;bjorkhagen-1966
-éːrà;;2du_p;2nd Person Dual;45659;;;;swed1254;bjorkhagen-1966
-ni;;2pl_a;2nd Person Plural;45658;;;;swed1254;bjorkhagen-1966
-ni;;2pl_s;2nd Person Plural;45657;;;;swed1254;bjorkhagen-1966
-eːr;;2pl_o;2nd Person Plural;45656;;;;swed1254;bjorkhagen-1966
-éːrà;;2pl_p;2nd Person Plural;45655;;;;swed1254;bjorkhagen-1966
-han;;3sg_m_a;3rd Person Singular Masculine;45654;;;;swed1254;bjorkhagen-1966
-han;;3sg_m_s;3rd Person Singular Masculine;45653;;;;swed1254;bjorkhagen-1966
-hɔ́nɔ̀m;;3sg_m_o;3rd Person Singular Masculine;45652;;;;swed1254;bjorkhagen-1966
-hans;;3sg_m_p;3rd Person Singular Masculine;45651;;;;swed1254;bjorkhagen-1966
-hʊn;;3sg_n_a;3rd Person Singular Neuter;45650;;;;swed1254;bjorkhagen-1966
-hʊn;;3sg_n_s;3rd Person Singular Neuter;45649;;;;swed1254;bjorkhagen-1966
-hɛnːə;;3sg_n_o;3rd Person Singular Neuter;45648;;;;swed1254;bjorkhagen-1966
-hɛ́nə̀;;3sg_n_p;3rd Person Singular Neuter;45647;;;;swed1254;bjorkhagen-1966
-dɛm;;3d-a;3rd Person Dual;45646;;;;swed1254;bjorkhagen-1966
-dɛm;;3d-s;3rd Person Dual;45645;;;;swed1254;bjorkhagen-1966
-dɛm;;3d-o;3rd Person Dual;45644;;;;swed1254;bjorkhagen-1966
-déːràs;;3d-p;3rd Person Dual;45643;;;;swed1254;bjorkhagen-1966
-dɛm;;3p-a;3rd Person Plural;45642;;;;swed1254;bjorkhagen-1966
-dɛm;;3p-s;3rd Person Plural;45641;;;;swed1254;bjorkhagen-1966
-dɛm;;3p-o;3rd Person Plural;45640;;;;swed1254;bjorkhagen-1966
-déːràs;;3p-p;3rd Person Plural;45639;;;;swed1254;bjorkhagen-1966
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+jɑːg,,1sg_a,1st (excl) Person Singular,45686,,,,swed1254,bjorkhagen-1966
+jɑːg,,1sg_s,1st (excl) Person Singular,45685,,,,swed1254,bjorkhagen-1966
+miːg,,1sg_o,1st (excl) Person Singular,45684,,,,swed1254,bjorkhagen-1966
+míːnà,,1sg_p,1st (excl) Person Singular,45683,,,,swed1254,bjorkhagen-1966
+vi,,1du_a,1st (excl) Person Dual,45682,,,,swed1254,bjorkhagen-1966
+vi,,1du_s,1st (excl) Person Dual,45681,,,,swed1254,bjorkhagen-1966
+ɔsː,,1du_o,1st (excl) Person Dual,45680,,,,swed1254,bjorkhagen-1966
+vóːrà,,1du_p,1st (excl) Person Dual,45679,,,,swed1254,bjorkhagen-1966
+vi,,1pl_a,1st (excl) Person Plural,45678,,,,swed1254,bjorkhagen-1966
+vi,,1pl_s,1st (excl) Person Plural,45677,,,,swed1254,bjorkhagen-1966
+ɔsː,,1pl_o,1st (excl) Person Plural,45676,,,,swed1254,bjorkhagen-1966
+vóːrà,,1pl_p,1st (excl) Person Plural,45675,,,,swed1254,bjorkhagen-1966
+vi,,12du_a,1st (incl) Person Dual,45674,,,,swed1254,bjorkhagen-1966
+vi,,12du_s,1st (incl) Person Dual,45673,,,,swed1254,bjorkhagen-1966
+ɔsː,,12du_o,1st (incl) Person Dual,45672,,,,swed1254,bjorkhagen-1966
+vóːrà,,12du_p,1st (incl) Person Dual,45671,,,,swed1254,bjorkhagen-1966
+vi,,12pl_a,1st (incl) Person Plural,45670,,,,swed1254,bjorkhagen-1966
+vi,,12pl_s,1st (incl) Person Plural,45669,,,,swed1254,bjorkhagen-1966
+ɔsː,,12pl_o,1st (incl) Person Plural,45668,,,,swed1254,bjorkhagen-1966
+vóːrà,,12pl_p,1st (incl) Person Plural,45667,,,,swed1254,bjorkhagen-1966
+dɯː,,2sg_a,2nd Person Singular,45666,,,,swed1254,bjorkhagen-1966
+dɯː,,2sg_s,2nd Person Singular,45665,,,,swed1254,bjorkhagen-1966
+diːg,,2sg_o,2nd Person Singular,45664,,,,swed1254,bjorkhagen-1966
+díːnà,,2sg_p,2nd Person Singular,45663,,,,swed1254,bjorkhagen-1966
+ni,,2du_a,2nd Person Dual,45662,,,,swed1254,bjorkhagen-1966
+ni,,2du_s,2nd Person Dual,45661,,,,swed1254,bjorkhagen-1966
+eːr,,2du_o,2nd Person Dual,45660,,,,swed1254,bjorkhagen-1966
+éːrà,,2du_p,2nd Person Dual,45659,,,,swed1254,bjorkhagen-1966
+ni,,2pl_a,2nd Person Plural,45658,,,,swed1254,bjorkhagen-1966
+ni,,2pl_s,2nd Person Plural,45657,,,,swed1254,bjorkhagen-1966
+eːr,,2pl_o,2nd Person Plural,45656,,,,swed1254,bjorkhagen-1966
+éːrà,,2pl_p,2nd Person Plural,45655,,,,swed1254,bjorkhagen-1966
+han,,3sg_m_a,3rd Person Singular Masculine,45654,,,,swed1254,bjorkhagen-1966
+han,,3sg_m_s,3rd Person Singular Masculine,45653,,,,swed1254,bjorkhagen-1966
+hɔ́nɔ̀m,,3sg_m_o,3rd Person Singular Masculine,45652,,,,swed1254,bjorkhagen-1966
+hans,,3sg_m_p,3rd Person Singular Masculine,45651,,,,swed1254,bjorkhagen-1966
+hʊn,,3sg_n_a,3rd Person Singular Neuter,45650,,,,swed1254,bjorkhagen-1966
+hʊn,,3sg_n_s,3rd Person Singular Neuter,45649,,,,swed1254,bjorkhagen-1966
+hɛnːə,,3sg_n_o,3rd Person Singular Neuter,45648,,,,swed1254,bjorkhagen-1966
+hɛ́nə̀,,3sg_n_p,3rd Person Singular Neuter,45647,,,,swed1254,bjorkhagen-1966
+dɛm,,3d-a,3rd Person Dual,45646,,,,swed1254,bjorkhagen-1966
+dɛm,,3d-s,3rd Person Dual,45645,,,,swed1254,bjorkhagen-1966
+dɛm,,3d-o,3rd Person Dual,45644,,,,swed1254,bjorkhagen-1966
+déːràs,,3d-p,3rd Person Dual,45643,,,,swed1254,bjorkhagen-1966
+dɛm,,3p-a,3rd Person Plural,45642,,,,swed1254,bjorkhagen-1966
+dɛm,,3p-s,3rd Person Plural,45641,,,,swed1254,bjorkhagen-1966
+dɛm,,3p-o,3rd Person Plural,45640,,,,swed1254,bjorkhagen-1966
+déːràs,,3p-p,3rd Person Plural,45639,,,,swed1254,bjorkhagen-1966

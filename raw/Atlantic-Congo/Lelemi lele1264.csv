@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-àmi;;1sg_a;1st (excl) Person Singular;56540;;;;lele1264;allan-1973
-àmi;;1sg_s;1st (excl) Person Singular;56539;;;;lele1264;allan-1973
-mì;;1sg_o;1st (excl) Person Singular;56538;;;;lele1264;allan-1973
-mùnà;;1sg_p;1st (excl) Person Singular;56537;;;;lele1264;allan-1973
-àbu;;1du_a;1st (excl) Person Dual;56536;;;;lele1264;allan-1973
-àbu;;1du_s;1st (excl) Person Dual;56535;;;;lele1264;allan-1973
-bù;;1du_o;1st (excl) Person Dual;56534;;;;lele1264;allan-1973
-bua;;1du_p;1st (excl) Person Dual;56533;;;;lele1264;allan-1973
-àbu;;1pl_a;1st (excl) Person Plural;56532;;;;lele1264;allan-1973
-àbu;;1pl_s;1st (excl) Person Plural;56531;;;;lele1264;allan-1973
-bù;;1pl_o;1st (excl) Person Plural;56530;;;;lele1264;allan-1973
-bua;;1pl_p;1st (excl) Person Plural;56529;;;;lele1264;allan-1973
-àbu;;12du_a;1st (incl) Person Dual;56528;;;;lele1264;allan-1973
-àbu;;12du_s;1st (incl) Person Dual;56527;;;;lele1264;allan-1973
-bù;;12du_o;1st (incl) Person Dual;56526;;;;lele1264;allan-1973
-bua;;12du_p;1st (incl) Person Dual;56525;;;;lele1264;allan-1973
-àbu;;12pl_a;1st (incl) Person Plural;56524;;;;lele1264;allan-1973
-àbu;;12pl_s;1st (incl) Person Plural;56523;;;;lele1264;allan-1973
-bù;;12pl_o;1st (incl) Person Plural;56522;;;;lele1264;allan-1973
-bua;;12pl_p;1st (incl) Person Plural;56521;;;;lele1264;allan-1973
-àwo;;2sg_a;2nd Person Singular;56520;;;;lele1264;allan-1973
-àwo;;2sg_s;2nd Person Singular;56519;;;;lele1264;allan-1973
-ɔ̀;;2sg_o;2nd Person Singular;56518;;;;lele1264;allan-1973
-fùnà;;2sg_p;2nd Person Singular;56517;;;;lele1264;allan-1973
-amì;;2du_a;2nd Person Dual;56516;;;;lele1264;allan-1973
-amì;;2du_s;2nd Person Dual;56515;;;;lele1264;allan-1973
-mi;;2du_o;2nd Person Dual;56514;;;;lele1264;allan-1973
-bina;;2du_p;2nd Person Dual;56513;;;;lele1264;allan-1973
-amì;;2pl_a;2nd Person Plural;56512;;;;lele1264;allan-1973
-amì;;2pl_s;2nd Person Plural;56511;;;;lele1264;allan-1973
-mi;;2pl_o;2nd Person Plural;56510;;;;lele1264;allan-1973
-bina;;2pl_p;2nd Person Plural;56509;;;;lele1264;allan-1973
-àŋu;;3sg_m_a;3rd Person Singular Masculine;56508;;;;lele1264;allan-1973
-àŋu;;3sg_m_s;3rd Person Singular Masculine;56507;;;;lele1264;allan-1973
-ŋ̀;;3sg_m_o;3rd Person Singular Masculine;56506;;;;lele1264;allan-1973
-ŋwa;;3sg_m_p;3rd Person Singular Masculine;56505;;;;lele1264;allan-1973
-àni;;3sg_n_a;3rd Person Singular Neuter;56504;;;;lele1264;allan-1973
-àni;;3sg_n_s;3rd Person Singular Neuter;56503;;;;lele1264;allan-1973
-nì;;3sg_n_o;3rd Person Singular Neuter;56502;;;;lele1264;allan-1973
-aɲa;;3sg_n_p;3rd Person Singular Neuter;56501;;;;lele1264;allan-1973
-àma;;3d-a;3rd Person Dual;56500;;;;lele1264;allan-1973
-àma;;3d-s;3rd Person Dual;56499;;;;lele1264;allan-1973
-mà;;3d-o;3rd Person Dual;56498;;;;lele1264;allan-1973
-bana, mana;;3d-p;3rd Person Dual;56497;;;;lele1264;allan-1973
-àma;;3p-a;3rd Person Plural;56496;;;;lele1264;allan-1973
-àma;;3p-s;3rd Person Plural;56495;;;;lele1264;allan-1973
-mà;;3p-o;3rd Person Plural;56494;;;;lele1264;allan-1973
-bana, mana;;3p-p;3rd Person Plural;56493;;;;lele1264;allan-1973
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+àmi,,1sg_a,1st (excl) Person Singular,56540,,,,lele1264,allan-1973
+àmi,,1sg_s,1st (excl) Person Singular,56539,,,,lele1264,allan-1973
+mì,,1sg_o,1st (excl) Person Singular,56538,,,,lele1264,allan-1973
+mùnà,,1sg_p,1st (excl) Person Singular,56537,,,,lele1264,allan-1973
+àbu,,1du_a,1st (excl) Person Dual,56536,,,,lele1264,allan-1973
+àbu,,1du_s,1st (excl) Person Dual,56535,,,,lele1264,allan-1973
+bù,,1du_o,1st (excl) Person Dual,56534,,,,lele1264,allan-1973
+bua,,1du_p,1st (excl) Person Dual,56533,,,,lele1264,allan-1973
+àbu,,1pl_a,1st (excl) Person Plural,56532,,,,lele1264,allan-1973
+àbu,,1pl_s,1st (excl) Person Plural,56531,,,,lele1264,allan-1973
+bù,,1pl_o,1st (excl) Person Plural,56530,,,,lele1264,allan-1973
+bua,,1pl_p,1st (excl) Person Plural,56529,,,,lele1264,allan-1973
+àbu,,12du_a,1st (incl) Person Dual,56528,,,,lele1264,allan-1973
+àbu,,12du_s,1st (incl) Person Dual,56527,,,,lele1264,allan-1973
+bù,,12du_o,1st (incl) Person Dual,56526,,,,lele1264,allan-1973
+bua,,12du_p,1st (incl) Person Dual,56525,,,,lele1264,allan-1973
+àbu,,12pl_a,1st (incl) Person Plural,56524,,,,lele1264,allan-1973
+àbu,,12pl_s,1st (incl) Person Plural,56523,,,,lele1264,allan-1973
+bù,,12pl_o,1st (incl) Person Plural,56522,,,,lele1264,allan-1973
+bua,,12pl_p,1st (incl) Person Plural,56521,,,,lele1264,allan-1973
+àwo,,2sg_a,2nd Person Singular,56520,,,,lele1264,allan-1973
+àwo,,2sg_s,2nd Person Singular,56519,,,,lele1264,allan-1973
+ɔ̀,,2sg_o,2nd Person Singular,56518,,,,lele1264,allan-1973
+fùnà,,2sg_p,2nd Person Singular,56517,,,,lele1264,allan-1973
+amì,,2du_a,2nd Person Dual,56516,,,,lele1264,allan-1973
+amì,,2du_s,2nd Person Dual,56515,,,,lele1264,allan-1973
+mi,,2du_o,2nd Person Dual,56514,,,,lele1264,allan-1973
+bina,,2du_p,2nd Person Dual,56513,,,,lele1264,allan-1973
+amì,,2pl_a,2nd Person Plural,56512,,,,lele1264,allan-1973
+amì,,2pl_s,2nd Person Plural,56511,,,,lele1264,allan-1973
+mi,,2pl_o,2nd Person Plural,56510,,,,lele1264,allan-1973
+bina,,2pl_p,2nd Person Plural,56509,,,,lele1264,allan-1973
+àŋu,,3sg_m_a,3rd Person Singular Masculine,56508,,,,lele1264,allan-1973
+àŋu,,3sg_m_s,3rd Person Singular Masculine,56507,,,,lele1264,allan-1973
+ŋ̀,,3sg_m_o,3rd Person Singular Masculine,56506,,,,lele1264,allan-1973
+ŋwa,,3sg_m_p,3rd Person Singular Masculine,56505,,,,lele1264,allan-1973
+àni,,3sg_n_a,3rd Person Singular Neuter,56504,,,,lele1264,allan-1973
+àni,,3sg_n_s,3rd Person Singular Neuter,56503,,,,lele1264,allan-1973
+nì,,3sg_n_o,3rd Person Singular Neuter,56502,,,,lele1264,allan-1973
+aɲa,,3sg_n_p,3rd Person Singular Neuter,56501,,,,lele1264,allan-1973
+àma,,3d-a,3rd Person Dual,56500,,,,lele1264,allan-1973
+àma,,3d-s,3rd Person Dual,56499,,,,lele1264,allan-1973
+mà,,3d-o,3rd Person Dual,56498,,,,lele1264,allan-1973
+"bana, mana",,3d-p,3rd Person Dual,56497,,,,lele1264,allan-1973
+àma,,3p-a,3rd Person Plural,56496,,,,lele1264,allan-1973
+àma,,3p-s,3rd Person Plural,56495,,,,lele1264,allan-1973
+mà,,3p-o,3rd Person Plural,56494,,,,lele1264,allan-1973
+"bana, mana",,3p-p,3rd Person Plural,56493,,,,lele1264,allan-1973

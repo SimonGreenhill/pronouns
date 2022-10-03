@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-õt;;1sg_a;1st (excl) Person Singular;60078;;;;saki1248;galucio-2001
-o-;;1sg_s;1st (excl) Person Singular;60077;;;;saki1248;galucio-2001
-o-;;1sg_o;1st (excl) Person Singular;60076;;;;saki1248;galucio-2001
-o-;;1sg_p;1st (excl) Person Singular;60075;;;;saki1248;galucio-2001
-ose;;1du_a;1st (excl) Person Dual;60074;;;;saki1248;galucio-2001
-ose-;;1du_s;1st (excl) Person Dual;60073;;;;saki1248;galucio-2001
-ose-;;1du_o;1st (excl) Person Dual;60072;;;;saki1248;galucio-2001
-ose-;;1du_p;1st (excl) Person Dual;60071;;;;saki1248;galucio-2001
-ose;;1pl_a;1st (excl) Person Plural;60070;;;;saki1248;galucio-2001
-ose-;;1pl_s;1st (excl) Person Plural;60069;;;;saki1248;galucio-2001
-ose-;;1pl_o;1st (excl) Person Plural;60068;;;;saki1248;galucio-2001
-ose-;;1pl_p;1st (excl) Person Plural;60067;;;;saki1248;galucio-2001
-kise;;12du_a;1st (incl) Person Dual;60066;;;;saki1248;galucio-2001
-ki-;;12du_s;1st (incl) Person Dual;60065;;;;saki1248;galucio-2001
-ki-;;12du_o;1st (incl) Person Dual;60064;;;;saki1248;galucio-2001
-ki-;;12du_p;1st (incl) Person Dual;60063;;;;saki1248;galucio-2001
-kise;;12pl_a;1st (incl) Person Plural;60062;;;;saki1248;galucio-2001
-ki-;;12pl_s;1st (incl) Person Plural;60061;;;;saki1248;galucio-2001
-ki-;;12pl_o;1st (incl) Person Plural;60060;;;;saki1248;galucio-2001
-ki-;;12pl_p;1st (incl) Person Plural;60059;;;;saki1248;galucio-2001
-ẽt;;2sg_a;2nd Person Singular;60058;;;;saki1248;galucio-2001
-e-;;2sg_s;2nd Person Singular;60057;;;;saki1248;galucio-2001
-e-;;2sg_o;2nd Person Singular;60056;;;;saki1248;galucio-2001
-e-;;2sg_p;2nd Person Singular;60055;;;;saki1248;galucio-2001
-eyat;;2du_a;2nd Person Dual;60054;;;;saki1248;galucio-2001
-eyat-;;2du_s;2nd Person Dual;60053;;;;saki1248;galucio-2001
-eyat-;;2du_o;2nd Person Dual;60052;;;;saki1248;galucio-2001
-eyat-;;2du_p;2nd Person Dual;60051;;;;saki1248;galucio-2001
-eyat;;2pl_a;2nd Person Plural;60050;;;;saki1248;galucio-2001
-eyat-;;2pl_s;2nd Person Plural;60049;;;;saki1248;galucio-2001
-eyat-;;2pl_o;2nd Person Plural;60048;;;;saki1248;galucio-2001
-eyat-;;2pl_p;2nd Person Plural;60047;;;;saki1248;galucio-2001
-te;;3sg_m_a;3rd Person Singular Masculine;60046;;;;saki1248;galucio-2001
-i-, s-;;3sg_m_s;3rd Person Singular Masculine;60045;;/i-/ occurs with consonant initial stems, and /s-/ occurs with vowel initial stems.;;saki1248;galucio-2001
-i-, s-;;3sg_m_o;3rd Person Singular Masculine;60044;;;;saki1248;galucio-2001
-i-, s-;;3sg_m_p;3rd Person Singular Masculine;60043;;;;saki1248;galucio-2001
-te;;3sg_n_a;3rd Person Singular Neuter;60042;;;;saki1248;galucio-2001
-i-, s-;;3sg_n_s;3rd Person Singular Neuter;60041;;;;saki1248;galucio-2001
-i-, s-;;3sg_n_o;3rd Person Singular Neuter;60040;;;;saki1248;galucio-2001
-i-, s-;;3sg_n_p;3rd Person Singular Neuter;60039;;;;saki1248;galucio-2001
-teyat;;3d-a;3rd Person Dual;60038;;;;saki1248;galucio-2001
-teyat-;;3d-s;3rd Person Dual;60037;;;;saki1248;galucio-2001
-teyat-;;3d-o;3rd Person Dual;60036;;;;saki1248;galucio-2001
-teyat-;;3d-p;3rd Person Dual;60035;;;;saki1248;galucio-2001
-teyat;;3p-a;3rd Person Plural;60034;;;;saki1248;galucio-2001
-teyat-;;3p-s;3rd Person Plural;60033;;;;saki1248;galucio-2001
-teyat-;;3p-o;3rd Person Plural;60032;;;;saki1248;galucio-2001
-teyat-;;3p-p;3rd Person Plural;60031;;;;saki1248;galucio-2001
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+õt,,1sg_a,1st (excl) Person Singular,60078,,,,saki1248,galucio-2001
+o-,,1sg_s,1st (excl) Person Singular,60077,,,,saki1248,galucio-2001
+o-,,1sg_o,1st (excl) Person Singular,60076,,,,saki1248,galucio-2001
+o-,,1sg_p,1st (excl) Person Singular,60075,,,,saki1248,galucio-2001
+ose,,1du_a,1st (excl) Person Dual,60074,,,,saki1248,galucio-2001
+ose-,,1du_s,1st (excl) Person Dual,60073,,,,saki1248,galucio-2001
+ose-,,1du_o,1st (excl) Person Dual,60072,,,,saki1248,galucio-2001
+ose-,,1du_p,1st (excl) Person Dual,60071,,,,saki1248,galucio-2001
+ose,,1pl_a,1st (excl) Person Plural,60070,,,,saki1248,galucio-2001
+ose-,,1pl_s,1st (excl) Person Plural,60069,,,,saki1248,galucio-2001
+ose-,,1pl_o,1st (excl) Person Plural,60068,,,,saki1248,galucio-2001
+ose-,,1pl_p,1st (excl) Person Plural,60067,,,,saki1248,galucio-2001
+kise,,12du_a,1st (incl) Person Dual,60066,,,,saki1248,galucio-2001
+ki-,,12du_s,1st (incl) Person Dual,60065,,,,saki1248,galucio-2001
+ki-,,12du_o,1st (incl) Person Dual,60064,,,,saki1248,galucio-2001
+ki-,,12du_p,1st (incl) Person Dual,60063,,,,saki1248,galucio-2001
+kise,,12pl_a,1st (incl) Person Plural,60062,,,,saki1248,galucio-2001
+ki-,,12pl_s,1st (incl) Person Plural,60061,,,,saki1248,galucio-2001
+ki-,,12pl_o,1st (incl) Person Plural,60060,,,,saki1248,galucio-2001
+ki-,,12pl_p,1st (incl) Person Plural,60059,,,,saki1248,galucio-2001
+ẽt,,2sg_a,2nd Person Singular,60058,,,,saki1248,galucio-2001
+e-,,2sg_s,2nd Person Singular,60057,,,,saki1248,galucio-2001
+e-,,2sg_o,2nd Person Singular,60056,,,,saki1248,galucio-2001
+e-,,2sg_p,2nd Person Singular,60055,,,,saki1248,galucio-2001
+eyat,,2du_a,2nd Person Dual,60054,,,,saki1248,galucio-2001
+eyat-,,2du_s,2nd Person Dual,60053,,,,saki1248,galucio-2001
+eyat-,,2du_o,2nd Person Dual,60052,,,,saki1248,galucio-2001
+eyat-,,2du_p,2nd Person Dual,60051,,,,saki1248,galucio-2001
+eyat,,2pl_a,2nd Person Plural,60050,,,,saki1248,galucio-2001
+eyat-,,2pl_s,2nd Person Plural,60049,,,,saki1248,galucio-2001
+eyat-,,2pl_o,2nd Person Plural,60048,,,,saki1248,galucio-2001
+eyat-,,2pl_p,2nd Person Plural,60047,,,,saki1248,galucio-2001
+te,,3sg_m_a,3rd Person Singular Masculine,60046,,,,saki1248,galucio-2001
+"i-, s-",,3sg_m_s,3rd Person Singular Masculine,60045,,"/i-/ occurs with consonant initial stems, and /s-/ occurs with vowel initial stems.",,saki1248,galucio-2001
+"i-, s-",,3sg_m_o,3rd Person Singular Masculine,60044,,,,saki1248,galucio-2001
+"i-, s-",,3sg_m_p,3rd Person Singular Masculine,60043,,,,saki1248,galucio-2001
+te,,3sg_n_a,3rd Person Singular Neuter,60042,,,,saki1248,galucio-2001
+"i-, s-",,3sg_n_s,3rd Person Singular Neuter,60041,,,,saki1248,galucio-2001
+"i-, s-",,3sg_n_o,3rd Person Singular Neuter,60040,,,,saki1248,galucio-2001
+"i-, s-",,3sg_n_p,3rd Person Singular Neuter,60039,,,,saki1248,galucio-2001
+teyat,,3d-a,3rd Person Dual,60038,,,,saki1248,galucio-2001
+teyat-,,3d-s,3rd Person Dual,60037,,,,saki1248,galucio-2001
+teyat-,,3d-o,3rd Person Dual,60036,,,,saki1248,galucio-2001
+teyat-,,3d-p,3rd Person Dual,60035,,,,saki1248,galucio-2001
+teyat,,3p-a,3rd Person Plural,60034,,,,saki1248,galucio-2001
+teyat-,,3p-s,3rd Person Plural,60033,,,,saki1248,galucio-2001
+teyat-,,3p-o,3rd Person Plural,60032,,,,saki1248,galucio-2001
+teyat-,,3p-p,3rd Person Plural,60031,,,,saki1248,galucio-2001

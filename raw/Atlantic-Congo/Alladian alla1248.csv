@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-me˧;;1sg_a;1st (excl) Person Singular;56396;;;;alla1248;duponchel-1983
-me˧;;1sg_s;1st (excl) Person Singular;56395;;;;alla1248;duponchel-1983
-mẽ˩;;1sg_o;1st (excl) Person Singular;56394;;;;alla1248;duponchel-1983
-mẽ˧;;1sg_p;1st (excl) Person Singular;56393;;;;alla1248;duponchel-1983
-bo˧;;1du_a;1st (excl) Person Dual;56392;;;;alla1248;duponchel-1983
-bo˧;;1du_s;1st (excl) Person Dual;56391;;;;alla1248;duponchel-1983
-bɔ˩;;1du_o;1st (excl) Person Dual;56390;;;;alla1248;duponchel-1983
-bo˧;;1du_p;1st (excl) Person Dual;56389;;;;alla1248;duponchel-1983
-bo˧;;1pl_a;1st (excl) Person Plural;56388;;;;alla1248;duponchel-1983
-bo˧;;1pl_s;1st (excl) Person Plural;56387;;;;alla1248;duponchel-1983
-bɔ˩;;1pl_o;1st (excl) Person Plural;56386;;;;alla1248;duponchel-1983
-bo˧;;1pl_p;1st (excl) Person Plural;56385;;;;alla1248;duponchel-1983
-bo˧;;12du_a;1st (incl) Person Dual;56384;;;;alla1248;duponchel-1983
-bo˧;;12du_s;1st (incl) Person Dual;56383;;;;alla1248;duponchel-1983
-bɔ˩;;12du_o;1st (incl) Person Dual;56382;;;;alla1248;duponchel-1983
-bo˧;;12du_p;1st (incl) Person Dual;56381;;;;alla1248;duponchel-1983
-bo˧;;12pl_a;1st (incl) Person Plural;56380;;;;alla1248;duponchel-1983
-bo˧;;12pl_s;1st (incl) Person Plural;56379;;;;alla1248;duponchel-1983
-bɔ˩;;12pl_o;1st (incl) Person Plural;56378;;;;alla1248;duponchel-1983
-bo˧;;12pl_p;1st (incl) Person Plural;56377;;;;alla1248;duponchel-1983
-e˧;;2sg_a;2nd Person Singular;56376;;;;alla1248;duponchel-1983
-e˧;;2sg_s;2nd Person Singular;56375;;;;alla1248;duponchel-1983
-vẽ˥;;2sg_o;2nd Person Singular;56374;;;;alla1248;duponchel-1983
-vẽ˧;;2sg_p;2nd Person Singular;56373;;;;alla1248;duponchel-1983
-ɲe˧;;2du_a;2nd Person Dual;56372;;;;alla1248;duponchel-1983
-ɲe˧;;2du_s;2nd Person Dual;56371;;;;alla1248;duponchel-1983
-ɲẽ˥;;2du_o;2nd Person Dual;56370;;;;alla1248;duponchel-1983
-ɲẽ˧;;2du_p;2nd Person Dual;56369;;;;alla1248;duponchel-1983
-ɲe˧;;2pl_a;2nd Person Plural;56368;;;;alla1248;duponchel-1983
-ɲe˧;;2pl_s;2nd Person Plural;56367;;;;alla1248;duponchel-1983
-ɲẽ˥;;2pl_o;2nd Person Plural;56366;;;;alla1248;duponchel-1983
-ɲẽ˧;;2pl_p;2nd Person Plural;56365;;;;alla1248;duponchel-1983
-ne˧;;3sg_m_a;3rd Person Singular Masculine;56364;;;;alla1248;duponchel-1983
-ne˧;;3sg_m_s;3rd Person Singular Masculine;56363;;;;alla1248;duponchel-1983
-nẽ˥;;3sg_m_o;3rd Person Singular Masculine;56362;;;;alla1248;duponchel-1983
-ɲẽ˧;;3sg_m_p;3rd Person Singular Masculine;56361;;;;alla1248;duponchel-1983
-ne˧;;3sg_n_a;3rd Person Singular Neuter;60351;;;;alla1248;duponchel-1983
-ne˧;;3sg_n_s;3rd Person Singular Neuter;60350;;;;alla1248;duponchel-1983
-nẽ˥;;3sg_n_o;3rd Person Singular Neuter;60349;;;;alla1248;duponchel-1983
-ɲẽ˧;;3sg_n_p;3rd Person Singular Neuter;60352;;;;alla1248;duponchel-1983
-je˧;;3d-a;3rd Person Dual;56360;;;;alla1248;duponchel-1983
-je˧;;3d-s;3rd Person Dual;56359;;;;alla1248;duponchel-1983
-jɔ˩;;3d-o;3rd Person Dual;56358;;;;alla1248;duponchel-1983
-jo˧;;3d-p;3rd Person Dual;56357;;;;alla1248;duponchel-1983
-je˧;;3p-a;3rd Person Plural;56356;;;;alla1248;duponchel-1983
-je˧;;3p-s;3rd Person Plural;56355;;;;alla1248;duponchel-1983
-jɔ˩;;3p-o;3rd Person Plural;56354;;;;alla1248;duponchel-1983
-jo˧;;3p-p;3rd Person Plural;56353;;;;alla1248;duponchel-1983
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+me˧,,1sg_a,1st (excl) Person Singular,56396,,,,alla1248,duponchel-1983
+me˧,,1sg_s,1st (excl) Person Singular,56395,,,,alla1248,duponchel-1983
+mẽ˩,,1sg_o,1st (excl) Person Singular,56394,,,,alla1248,duponchel-1983
+mẽ˧,,1sg_p,1st (excl) Person Singular,56393,,,,alla1248,duponchel-1983
+bo˧,,1du_a,1st (excl) Person Dual,56392,,,,alla1248,duponchel-1983
+bo˧,,1du_s,1st (excl) Person Dual,56391,,,,alla1248,duponchel-1983
+bɔ˩,,1du_o,1st (excl) Person Dual,56390,,,,alla1248,duponchel-1983
+bo˧,,1du_p,1st (excl) Person Dual,56389,,,,alla1248,duponchel-1983
+bo˧,,1pl_a,1st (excl) Person Plural,56388,,,,alla1248,duponchel-1983
+bo˧,,1pl_s,1st (excl) Person Plural,56387,,,,alla1248,duponchel-1983
+bɔ˩,,1pl_o,1st (excl) Person Plural,56386,,,,alla1248,duponchel-1983
+bo˧,,1pl_p,1st (excl) Person Plural,56385,,,,alla1248,duponchel-1983
+bo˧,,12du_a,1st (incl) Person Dual,56384,,,,alla1248,duponchel-1983
+bo˧,,12du_s,1st (incl) Person Dual,56383,,,,alla1248,duponchel-1983
+bɔ˩,,12du_o,1st (incl) Person Dual,56382,,,,alla1248,duponchel-1983
+bo˧,,12du_p,1st (incl) Person Dual,56381,,,,alla1248,duponchel-1983
+bo˧,,12pl_a,1st (incl) Person Plural,56380,,,,alla1248,duponchel-1983
+bo˧,,12pl_s,1st (incl) Person Plural,56379,,,,alla1248,duponchel-1983
+bɔ˩,,12pl_o,1st (incl) Person Plural,56378,,,,alla1248,duponchel-1983
+bo˧,,12pl_p,1st (incl) Person Plural,56377,,,,alla1248,duponchel-1983
+e˧,,2sg_a,2nd Person Singular,56376,,,,alla1248,duponchel-1983
+e˧,,2sg_s,2nd Person Singular,56375,,,,alla1248,duponchel-1983
+vẽ˥,,2sg_o,2nd Person Singular,56374,,,,alla1248,duponchel-1983
+vẽ˧,,2sg_p,2nd Person Singular,56373,,,,alla1248,duponchel-1983
+ɲe˧,,2du_a,2nd Person Dual,56372,,,,alla1248,duponchel-1983
+ɲe˧,,2du_s,2nd Person Dual,56371,,,,alla1248,duponchel-1983
+ɲẽ˥,,2du_o,2nd Person Dual,56370,,,,alla1248,duponchel-1983
+ɲẽ˧,,2du_p,2nd Person Dual,56369,,,,alla1248,duponchel-1983
+ɲe˧,,2pl_a,2nd Person Plural,56368,,,,alla1248,duponchel-1983
+ɲe˧,,2pl_s,2nd Person Plural,56367,,,,alla1248,duponchel-1983
+ɲẽ˥,,2pl_o,2nd Person Plural,56366,,,,alla1248,duponchel-1983
+ɲẽ˧,,2pl_p,2nd Person Plural,56365,,,,alla1248,duponchel-1983
+ne˧,,3sg_m_a,3rd Person Singular Masculine,56364,,,,alla1248,duponchel-1983
+ne˧,,3sg_m_s,3rd Person Singular Masculine,56363,,,,alla1248,duponchel-1983
+nẽ˥,,3sg_m_o,3rd Person Singular Masculine,56362,,,,alla1248,duponchel-1983
+ɲẽ˧,,3sg_m_p,3rd Person Singular Masculine,56361,,,,alla1248,duponchel-1983
+ne˧,,3sg_n_a,3rd Person Singular Neuter,60351,,,,alla1248,duponchel-1983
+ne˧,,3sg_n_s,3rd Person Singular Neuter,60350,,,,alla1248,duponchel-1983
+nẽ˥,,3sg_n_o,3rd Person Singular Neuter,60349,,,,alla1248,duponchel-1983
+ɲẽ˧,,3sg_n_p,3rd Person Singular Neuter,60352,,,,alla1248,duponchel-1983
+je˧,,3d-a,3rd Person Dual,56360,,,,alla1248,duponchel-1983
+je˧,,3d-s,3rd Person Dual,56359,,,,alla1248,duponchel-1983
+jɔ˩,,3d-o,3rd Person Dual,56358,,,,alla1248,duponchel-1983
+jo˧,,3d-p,3rd Person Dual,56357,,,,alla1248,duponchel-1983
+je˧,,3p-a,3rd Person Plural,56356,,,,alla1248,duponchel-1983
+je˧,,3p-s,3rd Person Plural,56355,,,,alla1248,duponchel-1983
+jɔ˩,,3p-o,3rd Person Plural,56354,,,,alla1248,duponchel-1983
+jo˧,,3p-p,3rd Person Plural,56353,,,,alla1248,duponchel-1983

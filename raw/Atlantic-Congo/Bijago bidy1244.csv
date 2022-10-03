@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-ɛnyɔ;;1sg_a;1st (excl) Person Singular;54976;;;;bidy1244;wilson-2007
-ɛnyɔ;;1sg_s;1st (excl) Person Singular;54975;;;;bidy1244;wilson-2007
-ɛnyɔ;;1sg_o;1st (excl) Person Singular;54974;;;;bidy1244;wilson-2007
--ɲ, -ɛɲ;;1sg_p;1st (excl) Person Singular;54973;;;;bidy1244;wilson-2007
-aatɛ;;1du_a;1st (excl) Person Dual;54972;;;;bidy1244;wilson-2007
-aatɛ;;1du_s;1st (excl) Person Dual;54971;;;;bidy1244;wilson-2007
-aatɛ;;1du_o;1st (excl) Person Dual;54970;;;;bidy1244;wilson-2007
--atɛ;;1du_p;1st (excl) Person Dual;54969;;;;bidy1244;wilson-2007
-aatɛ;;1pl_a;1st (excl) Person Plural;54968;;;;bidy1244;wilson-2007
-aatɛ;;1pl_s;1st (excl) Person Plural;54967;;;;bidy1244;wilson-2007
-aatɛ;;1pl_o;1st (excl) Person Plural;54966;;;;bidy1244;wilson-2007
--atɛ;;1pl_p;1st (excl) Person Plural;54965;;;;bidy1244;wilson-2007
-aatɛ;;12du_a;1st (incl) Person Dual;54964;;;;bidy1244;wilson-2007
-aatɛ;;12du_s;1st (incl) Person Dual;54963;;;;bidy1244;wilson-2007
-aatɛ;;12du_o;1st (incl) Person Dual;54962;;;;bidy1244;wilson-2007
--atɛ;;12du_p;1st (incl) Person Dual;54961;;;;bidy1244;wilson-2007
-aatɛ;;12pl_a;1st (incl) Person Plural;54960;;;;bidy1244;wilson-2007
-aatɛ;;12pl_s;1st (incl) Person Plural;54959;;;;bidy1244;wilson-2007
-aatɛ;;12pl_o;1st (incl) Person Plural;54958;;;;bidy1244;wilson-2007
--atɛ;;12pl_p;1st (incl) Person Plural;54957;;;;bidy1244;wilson-2007
-aamɔ;;2sg_a;2nd Person Singular;54956;;;;bidy1244;wilson-2007
-aamɔ;;2sg_s;2nd Person Singular;54955;;;;bidy1244;wilson-2007
-aamɔ;;2sg_o;2nd Person Singular;54954;;;;bidy1244;wilson-2007
--amɔ;;2sg_p;2nd Person Singular;54953;;;;bidy1244;wilson-2007
-aanɛ;;2du_a;2nd Person Dual;54952;;;;bidy1244;wilson-2007
-aanɛ;;2du_s;2nd Person Dual;54951;;;;bidy1244;wilson-2007
-aanɛ;;2du_o;2nd Person Dual;54950;;;;bidy1244;wilson-2007
--anɛ;;2du_p;2nd Person Dual;54949;;;;bidy1244;wilson-2007
-aanɛ;;2pl_a;2nd Person Plural;54948;;;;bidy1244;wilson-2007
-aanɛ;;2pl_s;2nd Person Plural;54947;;;;bidy1244;wilson-2007
-aanɛ;;2pl_o;2nd Person Plural;54946;;;;bidy1244;wilson-2007
--anɛ;;2pl_p;2nd Person Plural;54945;;;;bidy1244;wilson-2007
-ɔg;;3sg_m_a;3rd Person Singular Masculine;54944;;;;bidy1244;wilson-2007
-ɔg;;3sg_m_s;3rd Person Singular Masculine;54943;;;;bidy1244;wilson-2007
-ɔg;;3sg_m_o;3rd Person Singular Masculine;54942;;;;bidy1244;wilson-2007
--ɔg;;3sg_m_p;3rd Person Singular Masculine;54941;;;;bidy1244;wilson-2007
-ɔg;;3sg_n_a;3rd Person Singular Neuter;54940;;;;bidy1244;wilson-2007
-ɔg;;3sg_n_s;3rd Person Singular Neuter;54939;;;;bidy1244;wilson-2007
-ɔg;;3sg_n_o;3rd Person Singular Neuter;54938;;;;bidy1244;wilson-2007
--ɔg;;3sg_n_p;3rd Person Singular Neuter;54937;;;;bidy1244;wilson-2007
-yag;;3d-a;3rd Person Dual;54936;;;;bidy1244;wilson-2007
-yag;;3d-s;3rd Person Dual;54935;;;;bidy1244;wilson-2007
-yag;;3d-o;3rd Person Dual;54934;;;;bidy1244;wilson-2007
--yag;;3d-p;3rd Person Dual;54933;;;;bidy1244;wilson-2007
-yag;;3p-a;3rd Person Plural;54932;;;;bidy1244;wilson-2007
-yag;;3p-s;3rd Person Plural;54931;;;;bidy1244;wilson-2007
-yag;;3p-o;3rd Person Plural;54930;;;;bidy1244;wilson-2007
--yag;;3p-p;3rd Person Plural;54929;;;;bidy1244;wilson-2007
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ɛnyɔ,,1sg_a,1st (excl) Person Singular,54976,,,,bidy1244,wilson-2007
+ɛnyɔ,,1sg_s,1st (excl) Person Singular,54975,,,,bidy1244,wilson-2007
+ɛnyɔ,,1sg_o,1st (excl) Person Singular,54974,,,,bidy1244,wilson-2007
+"-ɲ, -ɛɲ",,1sg_p,1st (excl) Person Singular,54973,,,,bidy1244,wilson-2007
+aatɛ,,1du_a,1st (excl) Person Dual,54972,,,,bidy1244,wilson-2007
+aatɛ,,1du_s,1st (excl) Person Dual,54971,,,,bidy1244,wilson-2007
+aatɛ,,1du_o,1st (excl) Person Dual,54970,,,,bidy1244,wilson-2007
+-atɛ,,1du_p,1st (excl) Person Dual,54969,,,,bidy1244,wilson-2007
+aatɛ,,1pl_a,1st (excl) Person Plural,54968,,,,bidy1244,wilson-2007
+aatɛ,,1pl_s,1st (excl) Person Plural,54967,,,,bidy1244,wilson-2007
+aatɛ,,1pl_o,1st (excl) Person Plural,54966,,,,bidy1244,wilson-2007
+-atɛ,,1pl_p,1st (excl) Person Plural,54965,,,,bidy1244,wilson-2007
+aatɛ,,12du_a,1st (incl) Person Dual,54964,,,,bidy1244,wilson-2007
+aatɛ,,12du_s,1st (incl) Person Dual,54963,,,,bidy1244,wilson-2007
+aatɛ,,12du_o,1st (incl) Person Dual,54962,,,,bidy1244,wilson-2007
+-atɛ,,12du_p,1st (incl) Person Dual,54961,,,,bidy1244,wilson-2007
+aatɛ,,12pl_a,1st (incl) Person Plural,54960,,,,bidy1244,wilson-2007
+aatɛ,,12pl_s,1st (incl) Person Plural,54959,,,,bidy1244,wilson-2007
+aatɛ,,12pl_o,1st (incl) Person Plural,54958,,,,bidy1244,wilson-2007
+-atɛ,,12pl_p,1st (incl) Person Plural,54957,,,,bidy1244,wilson-2007
+aamɔ,,2sg_a,2nd Person Singular,54956,,,,bidy1244,wilson-2007
+aamɔ,,2sg_s,2nd Person Singular,54955,,,,bidy1244,wilson-2007
+aamɔ,,2sg_o,2nd Person Singular,54954,,,,bidy1244,wilson-2007
+-amɔ,,2sg_p,2nd Person Singular,54953,,,,bidy1244,wilson-2007
+aanɛ,,2du_a,2nd Person Dual,54952,,,,bidy1244,wilson-2007
+aanɛ,,2du_s,2nd Person Dual,54951,,,,bidy1244,wilson-2007
+aanɛ,,2du_o,2nd Person Dual,54950,,,,bidy1244,wilson-2007
+-anɛ,,2du_p,2nd Person Dual,54949,,,,bidy1244,wilson-2007
+aanɛ,,2pl_a,2nd Person Plural,54948,,,,bidy1244,wilson-2007
+aanɛ,,2pl_s,2nd Person Plural,54947,,,,bidy1244,wilson-2007
+aanɛ,,2pl_o,2nd Person Plural,54946,,,,bidy1244,wilson-2007
+-anɛ,,2pl_p,2nd Person Plural,54945,,,,bidy1244,wilson-2007
+ɔg,,3sg_m_a,3rd Person Singular Masculine,54944,,,,bidy1244,wilson-2007
+ɔg,,3sg_m_s,3rd Person Singular Masculine,54943,,,,bidy1244,wilson-2007
+ɔg,,3sg_m_o,3rd Person Singular Masculine,54942,,,,bidy1244,wilson-2007
+-ɔg,,3sg_m_p,3rd Person Singular Masculine,54941,,,,bidy1244,wilson-2007
+ɔg,,3sg_n_a,3rd Person Singular Neuter,54940,,,,bidy1244,wilson-2007
+ɔg,,3sg_n_s,3rd Person Singular Neuter,54939,,,,bidy1244,wilson-2007
+ɔg,,3sg_n_o,3rd Person Singular Neuter,54938,,,,bidy1244,wilson-2007
+-ɔg,,3sg_n_p,3rd Person Singular Neuter,54937,,,,bidy1244,wilson-2007
+yag,,3d-a,3rd Person Dual,54936,,,,bidy1244,wilson-2007
+yag,,3d-s,3rd Person Dual,54935,,,,bidy1244,wilson-2007
+yag,,3d-o,3rd Person Dual,54934,,,,bidy1244,wilson-2007
+-yag,,3d-p,3rd Person Dual,54933,,,,bidy1244,wilson-2007
+yag,,3p-a,3rd Person Plural,54932,,,,bidy1244,wilson-2007
+yag,,3p-s,3rd Person Plural,54931,,,,bidy1244,wilson-2007
+yag,,3p-o,3rd Person Plural,54930,,,,bidy1244,wilson-2007
+-yag,,3p-p,3rd Person Plural,54929,,,,bidy1244,wilson-2007

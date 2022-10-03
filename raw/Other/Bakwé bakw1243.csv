@@ -1,41 +1,41 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-n˥;;1sg_a;1st (excl) Person Singular;56816;;;;bakw1243;yepi-2006
-n˥;;1sg_s;1st (excl) Person Singular;56815;;;;bakw1243;yepi-2006
-mɩ˥;;1sg_o;1st (excl) Person Singular;56814;;;;bakw1243;yepi-2006
-na˥;;1sg_p;1st (excl) Person Singular;56813;;;;bakw1243;yepi-2006
-a˧;;1du_a;1st (excl) Person Dual;56812;;;;bakw1243;yepi-2006
-a˧;;1du_s;1st (excl) Person Dual;56811;;;;bakw1243;yepi-2006
-a˧mɩ˧;;1du_o;1st (excl) Person Dual;56810;;;;bakw1243;yepi-2006
-a˧na˧;;1du_p;1st (excl) Person Dual;56809;;;;bakw1243;yepi-2006
-a˧;;1pl_a;1st (excl) Person Plural;56808;;;;bakw1243;yepi-2006
-a˧;;1pl_s;1st (excl) Person Plural;56807;;;;bakw1243;yepi-2006
-a˧mɩ˧;;1pl_o;1st (excl) Person Plural;56806;;;;bakw1243;yepi-2006
-a˧na˧;;1pl_p;1st (excl) Person Plural;56805;;;;bakw1243;yepi-2006
-a˧;;12du_a;1st (incl) Person Dual;56804;;;;bakw1243;yepi-2006
-a˧;;12du_s;1st (incl) Person Dual;56803;;;;bakw1243;yepi-2006
-a˧mɩ˧;;12du_o;1st (incl) Person Dual;56802;;;;bakw1243;yepi-2006
-a˧na˧;;12du_p;1st (incl) Person Dual;56801;;;;bakw1243;yepi-2006
-a˧;;12pl_a;1st (incl) Person Plural;56800;;;;bakw1243;yepi-2006
-a˧;;12pl_s;1st (incl) Person Plural;56799;;;;bakw1243;yepi-2006
-a˧mɩ˧;;12pl_o;1st (incl) Person Plural;56798;;;;bakw1243;yepi-2006
-a˧na˧;;12pl_p;1st (incl) Person Plural;56797;;;;bakw1243;yepi-2006
-˩;;2sg_a;2nd Person Singular;56796;;pronom sujet de la deuxième personne du singulier “tu” qui consiste à un ton bas qui s'attache à la pémière syllable des verbes ou auxiliaires;;bakw1243;yepi-2006
-˩;;2sg_s;2nd Person Singular;56795;;;;bakw1243;yepi-2006
-mɩ˩;;2sg_o;2nd Person Singular;56794;;;;bakw1243;yepi-2006
-na˩;;2sg_p;2nd Person Singular;56793;;;;bakw1243;yepi-2006
-a˥;;2du_a;2nd Person Dual;56792;;;;bakw1243;yepi-2006
-a˥;;2du_s;2nd Person Dual;56791;;;;bakw1243;yepi-2006
-a˥mɩ˧;;2du_o;2nd Person Dual;56790;;;;bakw1243;yepi-2006
-a˥na˧;;2du_p;2nd Person Dual;56789;;;;bakw1243;yepi-2006
-a˥;;2pl_a;2nd Person Plural;56788;;;;bakw1243;yepi-2006
-a˥;;2pl_s;2nd Person Plural;56787;;;;bakw1243;yepi-2006
-a˥mɩ˧;;2pl_o;2nd Person Plural;56786;;;;bakw1243;yepi-2006
-a˥na˧;;2pl_p;2nd Person Plural;56785;;;;bakw1243;yepi-2006
-ɔ˥;;3sg_m_a;3rd Person Singular Masculine;56784;;;;bakw1243;yepi-2006
-ɔ˥;;3sg_m_s;3rd Person Singular Masculine;56783;;;;bakw1243;yepi-2006
-ɛ˥;;3sg_n_a;3rd Person Singular Neuter;56782;;;;bakw1243;yepi-2006
-ɛ˥;;3sg_n_s;3rd Person Singular Neuter;56781;;;;bakw1243;yepi-2006
-ü˥;;3d-a;3rd Person Dual;56780;;;;bakw1243;yepi-2006
-ü˥;;3d-s;3rd Person Dual;56779;;;;bakw1243;yepi-2006
-ü˥;;3p-a;3rd Person Plural;56778;;;;bakw1243;yepi-2006
-ü˥;;3p-s;3rd Person Plural;56777;;;;bakw1243;yepi-2006
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+n˥,,1sg_a,1st (excl) Person Singular,56816,,,,bakw1243,yepi-2006
+n˥,,1sg_s,1st (excl) Person Singular,56815,,,,bakw1243,yepi-2006
+mɩ˥,,1sg_o,1st (excl) Person Singular,56814,,,,bakw1243,yepi-2006
+na˥,,1sg_p,1st (excl) Person Singular,56813,,,,bakw1243,yepi-2006
+a˧,,1du_a,1st (excl) Person Dual,56812,,,,bakw1243,yepi-2006
+a˧,,1du_s,1st (excl) Person Dual,56811,,,,bakw1243,yepi-2006
+a˧mɩ˧,,1du_o,1st (excl) Person Dual,56810,,,,bakw1243,yepi-2006
+a˧na˧,,1du_p,1st (excl) Person Dual,56809,,,,bakw1243,yepi-2006
+a˧,,1pl_a,1st (excl) Person Plural,56808,,,,bakw1243,yepi-2006
+a˧,,1pl_s,1st (excl) Person Plural,56807,,,,bakw1243,yepi-2006
+a˧mɩ˧,,1pl_o,1st (excl) Person Plural,56806,,,,bakw1243,yepi-2006
+a˧na˧,,1pl_p,1st (excl) Person Plural,56805,,,,bakw1243,yepi-2006
+a˧,,12du_a,1st (incl) Person Dual,56804,,,,bakw1243,yepi-2006
+a˧,,12du_s,1st (incl) Person Dual,56803,,,,bakw1243,yepi-2006
+a˧mɩ˧,,12du_o,1st (incl) Person Dual,56802,,,,bakw1243,yepi-2006
+a˧na˧,,12du_p,1st (incl) Person Dual,56801,,,,bakw1243,yepi-2006
+a˧,,12pl_a,1st (incl) Person Plural,56800,,,,bakw1243,yepi-2006
+a˧,,12pl_s,1st (incl) Person Plural,56799,,,,bakw1243,yepi-2006
+a˧mɩ˧,,12pl_o,1st (incl) Person Plural,56798,,,,bakw1243,yepi-2006
+a˧na˧,,12pl_p,1st (incl) Person Plural,56797,,,,bakw1243,yepi-2006
+˩,,2sg_a,2nd Person Singular,56796,,pronom sujet de la deuxième personne du singulier “tu” qui consiste à un ton bas qui s'attache à la pémière syllable des verbes ou auxiliaires,,bakw1243,yepi-2006
+˩,,2sg_s,2nd Person Singular,56795,,,,bakw1243,yepi-2006
+mɩ˩,,2sg_o,2nd Person Singular,56794,,,,bakw1243,yepi-2006
+na˩,,2sg_p,2nd Person Singular,56793,,,,bakw1243,yepi-2006
+a˥,,2du_a,2nd Person Dual,56792,,,,bakw1243,yepi-2006
+a˥,,2du_s,2nd Person Dual,56791,,,,bakw1243,yepi-2006
+a˥mɩ˧,,2du_o,2nd Person Dual,56790,,,,bakw1243,yepi-2006
+a˥na˧,,2du_p,2nd Person Dual,56789,,,,bakw1243,yepi-2006
+a˥,,2pl_a,2nd Person Plural,56788,,,,bakw1243,yepi-2006
+a˥,,2pl_s,2nd Person Plural,56787,,,,bakw1243,yepi-2006
+a˥mɩ˧,,2pl_o,2nd Person Plural,56786,,,,bakw1243,yepi-2006
+a˥na˧,,2pl_p,2nd Person Plural,56785,,,,bakw1243,yepi-2006
+ɔ˥,,3sg_m_a,3rd Person Singular Masculine,56784,,,,bakw1243,yepi-2006
+ɔ˥,,3sg_m_s,3rd Person Singular Masculine,56783,,,,bakw1243,yepi-2006
+ɛ˥,,3sg_n_a,3rd Person Singular Neuter,56782,,,,bakw1243,yepi-2006
+ɛ˥,,3sg_n_s,3rd Person Singular Neuter,56781,,,,bakw1243,yepi-2006
+ü˥,,3d-a,3rd Person Dual,56780,,,,bakw1243,yepi-2006
+ü˥,,3d-s,3rd Person Dual,56779,,,,bakw1243,yepi-2006
+ü˥,,3p-a,3rd Person Plural,56778,,,,bakw1243,yepi-2006
+ü˥,,3p-s,3rd Person Plural,56777,,,,bakw1243,yepi-2006

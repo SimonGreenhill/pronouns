@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-beta;;1sg_a;1st (excl) Person Singular;61495;;;;band1353;paauw-2009
-beta;;1sg_s;1st (excl) Person Singular;61494;;;;band1353;paauw-2009
-beta;;1sg_o;1st (excl) Person Singular;61493;;;;band1353;paauw-2009
-beta;;1sg_p;1st (excl) Person Singular;61492;;;;band1353;paauw-2009
-katong;;1du_a;1st (excl) Person Dual;61491;;;;band1353;paauw-2009
-katong;;1du_s;1st (excl) Person Dual;61490;;;;band1353;paauw-2009
-katong;;1du_o;1st (excl) Person Dual;61489;;;;band1353;paauw-2009
-katong;;1du_p;1st (excl) Person Dual;61488;;;;band1353;paauw-2009
-katong;;1pl_a;1st (excl) Person Plural;61487;;;;band1353;paauw-2009
-katong;;1pl_s;1st (excl) Person Plural;61486;;;;band1353;paauw-2009
-katong;;1pl_o;1st (excl) Person Plural;61485;;;;band1353;paauw-2009
-katong;;1pl_p;1st (excl) Person Plural;61484;;;;band1353;paauw-2009
-katong;;12du_a;1st (incl) Person Dual;61483;;;;band1353;paauw-2009
-katong;;12du_s;1st (incl) Person Dual;61482;;;;band1353;paauw-2009
-katong;;12du_o;1st (incl) Person Dual;61481;;;;band1353;paauw-2009
-katong;;12du_p;1st (incl) Person Dual;61480;;;;band1353;paauw-2009
-katong;;12pl_a;1st (incl) Person Plural;61479;;;;band1353;paauw-2009
-katong;;12pl_s;1st (incl) Person Plural;61478;;;;band1353;paauw-2009
-katong;;12pl_o;1st (incl) Person Plural;61477;;;;band1353;paauw-2009
-katong;;12pl_p;1st (incl) Person Plural;61476;;;;band1353;paauw-2009
-pane;;2sg_a;2nd Person Singular;61475;;;;band1353;paauw-2009
-pane;;2sg_s;2nd Person Singular;61474;;;;band1353;paauw-2009
-pane;;2sg_o;2nd Person Singular;61473;;;;band1353;paauw-2009
-pane;;2sg_p;2nd Person Singular;61472;;;;band1353;paauw-2009
-kamorang;;2du_a;2nd Person Dual;61471;;;;band1353;paauw-2009
-kamorang;;2du_s;2nd Person Dual;61470;;;;band1353;paauw-2009
-kamorang;;2du_o;2nd Person Dual;61469;;;;band1353;paauw-2009
-kamorang;;2du_p;2nd Person Dual;61468;;;;band1353;paauw-2009
-kamorang;;2pl_a;2nd Person Plural;61467;;;;band1353;paauw-2009
-kamorang;;2pl_s;2nd Person Plural;61466;;;;band1353;paauw-2009
-kamorang;;2pl_o;2nd Person Plural;61465;;;;band1353;paauw-2009
-kamorang;;2pl_p;2nd Person Plural;61464;;;;band1353;paauw-2009
-dia, antua;;3sg_m_a;3rd Person Singular Masculine;61463;;;;band1353;paauw-2009
-dia, antua;;3sg_m_s;3rd Person Singular Masculine;61462;;;;band1353;paauw-2009
-dia, antua;;3sg_m_o;3rd Person Singular Masculine;61461;;;;band1353;paauw-2009
-dia, antua;;3sg_m_p;3rd Person Singular Masculine;61460;;;;band1353;paauw-2009
-dia, antua;;3sg_n_a;3rd Person Singular Neuter;61459;;;;band1353;paauw-2009
-dia, antua;;3sg_n_s;3rd Person Singular Neuter;61458;;;;band1353;paauw-2009
-dia, antua;;3sg_n_o;3rd Person Singular Neuter;61457;;;;band1353;paauw-2009
-dia, antua;;3sg_n_p;3rd Person Singular Neuter;61456;;;;band1353;paauw-2009
-dorang;;3d-a;3rd Person Dual;61455;;;;band1353;paauw-2009
-dorang;;3d-s;3rd Person Dual;61454;;;;band1353;paauw-2009
-dorang;;3d-o;3rd Person Dual;61453;;;;band1353;paauw-2009
-dorang;;3d-p;3rd Person Dual;61452;;;;band1353;paauw-2009
-dorang;;3p-a;3rd Person Plural;61451;;;;band1353;paauw-2009
-dorang;;3p-s;3rd Person Plural;61450;;;;band1353;paauw-2009
-dorang;;3p-o;3rd Person Plural;61449;;;;band1353;paauw-2009
-dorang;;3p-p;3rd Person Plural;61448;;;;band1353;paauw-2009
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+beta,,1sg_a,1st (excl) Person Singular,61495,,,,band1353,paauw-2009
+beta,,1sg_s,1st (excl) Person Singular,61494,,,,band1353,paauw-2009
+beta,,1sg_o,1st (excl) Person Singular,61493,,,,band1353,paauw-2009
+beta,,1sg_p,1st (excl) Person Singular,61492,,,,band1353,paauw-2009
+katong,,1du_a,1st (excl) Person Dual,61491,,,,band1353,paauw-2009
+katong,,1du_s,1st (excl) Person Dual,61490,,,,band1353,paauw-2009
+katong,,1du_o,1st (excl) Person Dual,61489,,,,band1353,paauw-2009
+katong,,1du_p,1st (excl) Person Dual,61488,,,,band1353,paauw-2009
+katong,,1pl_a,1st (excl) Person Plural,61487,,,,band1353,paauw-2009
+katong,,1pl_s,1st (excl) Person Plural,61486,,,,band1353,paauw-2009
+katong,,1pl_o,1st (excl) Person Plural,61485,,,,band1353,paauw-2009
+katong,,1pl_p,1st (excl) Person Plural,61484,,,,band1353,paauw-2009
+katong,,12du_a,1st (incl) Person Dual,61483,,,,band1353,paauw-2009
+katong,,12du_s,1st (incl) Person Dual,61482,,,,band1353,paauw-2009
+katong,,12du_o,1st (incl) Person Dual,61481,,,,band1353,paauw-2009
+katong,,12du_p,1st (incl) Person Dual,61480,,,,band1353,paauw-2009
+katong,,12pl_a,1st (incl) Person Plural,61479,,,,band1353,paauw-2009
+katong,,12pl_s,1st (incl) Person Plural,61478,,,,band1353,paauw-2009
+katong,,12pl_o,1st (incl) Person Plural,61477,,,,band1353,paauw-2009
+katong,,12pl_p,1st (incl) Person Plural,61476,,,,band1353,paauw-2009
+pane,,2sg_a,2nd Person Singular,61475,,,,band1353,paauw-2009
+pane,,2sg_s,2nd Person Singular,61474,,,,band1353,paauw-2009
+pane,,2sg_o,2nd Person Singular,61473,,,,band1353,paauw-2009
+pane,,2sg_p,2nd Person Singular,61472,,,,band1353,paauw-2009
+kamorang,,2du_a,2nd Person Dual,61471,,,,band1353,paauw-2009
+kamorang,,2du_s,2nd Person Dual,61470,,,,band1353,paauw-2009
+kamorang,,2du_o,2nd Person Dual,61469,,,,band1353,paauw-2009
+kamorang,,2du_p,2nd Person Dual,61468,,,,band1353,paauw-2009
+kamorang,,2pl_a,2nd Person Plural,61467,,,,band1353,paauw-2009
+kamorang,,2pl_s,2nd Person Plural,61466,,,,band1353,paauw-2009
+kamorang,,2pl_o,2nd Person Plural,61465,,,,band1353,paauw-2009
+kamorang,,2pl_p,2nd Person Plural,61464,,,,band1353,paauw-2009
+"dia, antua",,3sg_m_a,3rd Person Singular Masculine,61463,,,,band1353,paauw-2009
+"dia, antua",,3sg_m_s,3rd Person Singular Masculine,61462,,,,band1353,paauw-2009
+"dia, antua",,3sg_m_o,3rd Person Singular Masculine,61461,,,,band1353,paauw-2009
+"dia, antua",,3sg_m_p,3rd Person Singular Masculine,61460,,,,band1353,paauw-2009
+"dia, antua",,3sg_n_a,3rd Person Singular Neuter,61459,,,,band1353,paauw-2009
+"dia, antua",,3sg_n_s,3rd Person Singular Neuter,61458,,,,band1353,paauw-2009
+"dia, antua",,3sg_n_o,3rd Person Singular Neuter,61457,,,,band1353,paauw-2009
+"dia, antua",,3sg_n_p,3rd Person Singular Neuter,61456,,,,band1353,paauw-2009
+dorang,,3d-a,3rd Person Dual,61455,,,,band1353,paauw-2009
+dorang,,3d-s,3rd Person Dual,61454,,,,band1353,paauw-2009
+dorang,,3d-o,3rd Person Dual,61453,,,,band1353,paauw-2009
+dorang,,3d-p,3rd Person Dual,61452,,,,band1353,paauw-2009
+dorang,,3p-a,3rd Person Plural,61451,,,,band1353,paauw-2009
+dorang,,3p-s,3rd Person Plural,61450,,,,band1353,paauw-2009
+dorang,,3p-o,3rd Person Plural,61449,,,,band1353,paauw-2009
+dorang,,3p-p,3rd Person Plural,61448,,,,band1353,paauw-2009

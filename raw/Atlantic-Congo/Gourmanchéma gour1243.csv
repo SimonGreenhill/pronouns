@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-m˧;;1sg_a;1st (excl) Person Singular;57728;;;;gour1243;beckett-1974
-m˧;;1sg_s;1st (excl) Person Singular;57727;;;;gour1243;beckett-1974
-ni˩;;1sg_o;1st (excl) Person Singular;57726;;;;gour1243;beckett-1974
-m;;1sg_p;1st (excl) Person Singular;57725;;;;gour1243;beckett-1974
-ti˧;;1du_a;1st (excl) Person Dual;57724;;;;gour1243;beckett-1974
-ti˧;;1du_s;1st (excl) Person Dual;57723;;;;gour1243;beckett-1974
-ti˩;;1du_o;1st (excl) Person Dual;57722;;;;gour1243;beckett-1974
-ti;;1du_p;1st (excl) Person Dual;57721;;;;gour1243;beckett-1974
-ti˧;;1pl_a;1st (excl) Person Plural;57720;;;;gour1243;beckett-1974
-ti˧;;1pl_s;1st (excl) Person Plural;57719;;;;gour1243;beckett-1974
-ti˩;;1pl_o;1st (excl) Person Plural;57718;;;;gour1243;beckett-1974
-ti;;1pl_p;1st (excl) Person Plural;57717;;;;gour1243;beckett-1974
-ti˧;;12du_a;1st (incl) Person Dual;57716;;;;gour1243;beckett-1974
-ti˧;;12du_s;1st (incl) Person Dual;57715;;;;gour1243;beckett-1974
-ti˩;;12du_o;1st (incl) Person Dual;57714;;;;gour1243;beckett-1974
-ti;;12du_p;1st (incl) Person Dual;57713;;;;gour1243;beckett-1974
-ti˧;;12pl_a;1st (incl) Person Plural;57712;;;;gour1243;beckett-1974
-ti˧;;12pl_s;1st (incl) Person Plural;57711;;;;gour1243;beckett-1974
-ti˩;;12pl_o;1st (incl) Person Plural;57710;;;;gour1243;beckett-1974
-ti;;12pl_p;1st (incl) Person Plural;57709;;;;gour1243;beckett-1974
-a˧;;2sg_a;2nd Person Singular;57708;;;;gour1243;beckett-1974
-a˧;;2sg_s;2nd Person Singular;57707;;;;gour1243;beckett-1974
-a˩, ŋa˩;;2sg_o;2nd Person Singular;57706;;;;gour1243;beckett-1974
-a;;2sg_p;2nd Person Singular;57705;;;;gour1243;beckett-1974
-yi˧;;2du_a;2nd Person Dual;57704;;;;gour1243;beckett-1974
-yi˧;;2du_s;2nd Person Dual;57703;;;;gour1243;beckett-1974
-yi˩;;2du_o;2nd Person Dual;57702;;;;gour1243;beckett-1974
-yi;;2du_p;2nd Person Dual;57701;;;;gour1243;beckett-1974
-yi˧;;2pl_a;2nd Person Plural;57700;;;;gour1243;beckett-1974
-yi˧;;2pl_s;2nd Person Plural;57699;;;;gour1243;beckett-1974
-yi˩;;2pl_o;2nd Person Plural;57698;;;;gour1243;beckett-1974
-yi;;2pl_p;2nd Person Plural;57697;;;;gour1243;beckett-1974
-o˩;;3sg_m_a;3rd Person Singular Masculine;57696;;;;gour1243;beckett-1974
-o˩;;3sg_m_s;3rd Person Singular Masculine;57695;;;;gour1243;beckett-1974
-o˩;;3sg_m_o;3rd Person Singular Masculine;57694;;;;gour1243;beckett-1974
-o;;3sg_m_p;3rd Person Singular Masculine;57693;;;;gour1243;beckett-1974
-o˩;;3sg_n_a;3rd Person Singular Neuter;57692;;;;gour1243;beckett-1974
-o˩;;3sg_n_s;3rd Person Singular Neuter;57691;;;;gour1243;beckett-1974
-o˩, yu˩;;3sg_n_o;3rd Person Singular Neuter;57690;;;;gour1243;beckett-1974
-o;;3sg_n_p;3rd Person Singular Neuter;57689;;;;gour1243;beckett-1974
-bi˩;;3d-a;3rd Person Dual;57688;;;;gour1243;beckett-1974
-bi˩;;3d-s;3rd Person Dual;57687;;;;gour1243;beckett-1974
-bi˩;;3d-o;3rd Person Dual;57686;;;;gour1243;beckett-1974
-bi;;3d-p;3rd Person Dual;57685;;;;gour1243;beckett-1974
-bi˩;;3p-a;3rd Person Plural;57684;;;;gour1243;beckett-1974
-bi˩;;3p-s;3rd Person Plural;57683;;;;gour1243;beckett-1974
-bi˩;;3p-o;3rd Person Plural;57682;;;;gour1243;beckett-1974
-bi;;3p-p;3rd Person Plural;57681;;;;gour1243;beckett-1974
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+m˧,,1sg_a,1st (excl) Person Singular,57728,,,,gour1243,beckett-1974
+m˧,,1sg_s,1st (excl) Person Singular,57727,,,,gour1243,beckett-1974
+ni˩,,1sg_o,1st (excl) Person Singular,57726,,,,gour1243,beckett-1974
+m,,1sg_p,1st (excl) Person Singular,57725,,,,gour1243,beckett-1974
+ti˧,,1du_a,1st (excl) Person Dual,57724,,,,gour1243,beckett-1974
+ti˧,,1du_s,1st (excl) Person Dual,57723,,,,gour1243,beckett-1974
+ti˩,,1du_o,1st (excl) Person Dual,57722,,,,gour1243,beckett-1974
+ti,,1du_p,1st (excl) Person Dual,57721,,,,gour1243,beckett-1974
+ti˧,,1pl_a,1st (excl) Person Plural,57720,,,,gour1243,beckett-1974
+ti˧,,1pl_s,1st (excl) Person Plural,57719,,,,gour1243,beckett-1974
+ti˩,,1pl_o,1st (excl) Person Plural,57718,,,,gour1243,beckett-1974
+ti,,1pl_p,1st (excl) Person Plural,57717,,,,gour1243,beckett-1974
+ti˧,,12du_a,1st (incl) Person Dual,57716,,,,gour1243,beckett-1974
+ti˧,,12du_s,1st (incl) Person Dual,57715,,,,gour1243,beckett-1974
+ti˩,,12du_o,1st (incl) Person Dual,57714,,,,gour1243,beckett-1974
+ti,,12du_p,1st (incl) Person Dual,57713,,,,gour1243,beckett-1974
+ti˧,,12pl_a,1st (incl) Person Plural,57712,,,,gour1243,beckett-1974
+ti˧,,12pl_s,1st (incl) Person Plural,57711,,,,gour1243,beckett-1974
+ti˩,,12pl_o,1st (incl) Person Plural,57710,,,,gour1243,beckett-1974
+ti,,12pl_p,1st (incl) Person Plural,57709,,,,gour1243,beckett-1974
+a˧,,2sg_a,2nd Person Singular,57708,,,,gour1243,beckett-1974
+a˧,,2sg_s,2nd Person Singular,57707,,,,gour1243,beckett-1974
+"a˩, ŋa˩",,2sg_o,2nd Person Singular,57706,,,,gour1243,beckett-1974
+a,,2sg_p,2nd Person Singular,57705,,,,gour1243,beckett-1974
+yi˧,,2du_a,2nd Person Dual,57704,,,,gour1243,beckett-1974
+yi˧,,2du_s,2nd Person Dual,57703,,,,gour1243,beckett-1974
+yi˩,,2du_o,2nd Person Dual,57702,,,,gour1243,beckett-1974
+yi,,2du_p,2nd Person Dual,57701,,,,gour1243,beckett-1974
+yi˧,,2pl_a,2nd Person Plural,57700,,,,gour1243,beckett-1974
+yi˧,,2pl_s,2nd Person Plural,57699,,,,gour1243,beckett-1974
+yi˩,,2pl_o,2nd Person Plural,57698,,,,gour1243,beckett-1974
+yi,,2pl_p,2nd Person Plural,57697,,,,gour1243,beckett-1974
+o˩,,3sg_m_a,3rd Person Singular Masculine,57696,,,,gour1243,beckett-1974
+o˩,,3sg_m_s,3rd Person Singular Masculine,57695,,,,gour1243,beckett-1974
+o˩,,3sg_m_o,3rd Person Singular Masculine,57694,,,,gour1243,beckett-1974
+o,,3sg_m_p,3rd Person Singular Masculine,57693,,,,gour1243,beckett-1974
+o˩,,3sg_n_a,3rd Person Singular Neuter,57692,,,,gour1243,beckett-1974
+o˩,,3sg_n_s,3rd Person Singular Neuter,57691,,,,gour1243,beckett-1974
+"o˩, yu˩",,3sg_n_o,3rd Person Singular Neuter,57690,,,,gour1243,beckett-1974
+o,,3sg_n_p,3rd Person Singular Neuter,57689,,,,gour1243,beckett-1974
+bi˩,,3d-a,3rd Person Dual,57688,,,,gour1243,beckett-1974
+bi˩,,3d-s,3rd Person Dual,57687,,,,gour1243,beckett-1974
+bi˩,,3d-o,3rd Person Dual,57686,,,,gour1243,beckett-1974
+bi,,3d-p,3rd Person Dual,57685,,,,gour1243,beckett-1974
+bi˩,,3p-a,3rd Person Plural,57684,,,,gour1243,beckett-1974
+bi˩,,3p-s,3rd Person Plural,57683,,,,gour1243,beckett-1974
+bi˩,,3p-o,3rd Person Plural,57682,,,,gour1243,beckett-1974
+bi,,3p-p,3rd Person Plural,57681,,,,gour1243,beckett-1974

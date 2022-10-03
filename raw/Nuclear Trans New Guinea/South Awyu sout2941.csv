@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-nu;;1sg_a;1st (excl) Person Singular;46926;;;;sout2941;wester-2014
-nu;;1sg_s;1st (excl) Person Singular;46925;;;;sout2941;wester-2014
-nu;;1sg_o;1st (excl) Person Singular;46924;;;;sout2941;wester-2014
-na;;1sg_p;1st (excl) Person Singular;46923;;;;sout2941;wester-2014
-nugu;;1du_a;1st (excl) Person Dual;46922;;;;sout2941;wester-2014
-nugu;;1du_s;1st (excl) Person Dual;46921;;;;sout2941;wester-2014
-nugu;;1du_o;1st (excl) Person Dual;46920;;;;sout2941;wester-2014
-niga-;;1du_p;1st (excl) Person Dual;46919;;;;sout2941;wester-2014
-nugu;;1pl_a;1st (excl) Person Plural;46918;;;;sout2941;wester-2014
-nugu;;1pl_s;1st (excl) Person Plural;46917;;;;sout2941;wester-2014
-nugu;;1pl_o;1st (excl) Person Plural;46916;;;;sout2941;wester-2014
-niga-;;1pl_p;1st (excl) Person Plural;46915;;;;sout2941;wester-2014
-nugu;;12du_a;1st (incl) Person Dual;46914;;;;sout2941;wester-2014
-nugu;;12du_s;1st (incl) Person Dual;46913;;;;sout2941;wester-2014
-nugu;;12du_o;1st (incl) Person Dual;46912;;;;sout2941;wester-2014
-niga-;;12du_p;1st (incl) Person Dual;46911;;;;sout2941;wester-2014
-nugu;;12pl_a;1st (incl) Person Plural;46910;;;;sout2941;wester-2014
-nugu;;12pl_s;1st (incl) Person Plural;46909;;;;sout2941;wester-2014
-nugu;;12pl_o;1st (incl) Person Plural;46908;;;;sout2941;wester-2014
-niga-;;12pl_p;1st (incl) Person Plural;46907;;;;sout2941;wester-2014
-gu;;2sg_a;2nd Person Singular;46906;;;;sout2941;wester-2014
-gu;;2sg_s;2nd Person Singular;46905;;;;sout2941;wester-2014
-gu;;2sg_o;2nd Person Singular;46904;;;;sout2941;wester-2014
-ga-;;2sg_p;2nd Person Singular;46903;;;;sout2941;wester-2014
-gugu;;2du_a;2nd Person Dual;46902;;;;sout2941;wester-2014
-gugu;;2du_s;2nd Person Dual;46901;;;;sout2941;wester-2014
-gugu;;2du_o;2nd Person Dual;46900;;;;sout2941;wester-2014
-giga-;;2du_p;2nd Person Dual;46899;;;;sout2941;wester-2014
-gugu;;2pl_a;2nd Person Plural;46898;;;;sout2941;wester-2014
-gugu;;2pl_s;2nd Person Plural;46897;;;;sout2941;wester-2014
-gugu;;2pl_o;2nd Person Plural;46896;;;;sout2941;wester-2014
-giga-;;2pl_p;2nd Person Plural;46895;;;;sout2941;wester-2014
-ewi;;3sg_m_a;3rd Person Singular Masculine;46894;;;;sout2941;wester-2014
-ewi;;3sg_m_s;3rd Person Singular Masculine;46893;;;;sout2941;wester-2014
-ewi;;3sg_m_o;3rd Person Singular Masculine;46892;;;;sout2941;wester-2014
-wa-;;3sg_m_p;3rd Person Singular Masculine;46891;;;;sout2941;wester-2014
-ewi;;3sg_n_a;3rd Person Singular Neuter;46890;;;;sout2941;wester-2014
-ewi;;3sg_n_s;3rd Person Singular Neuter;46889;;;;sout2941;wester-2014
-ewi;;3sg_n_o;3rd Person Singular Neuter;46888;;;;sout2941;wester-2014
-wa-;;3sg_n_p;3rd Person Singular Neuter;46887;;;;sout2941;wester-2014
-yoxo;;3d-a;3rd Person Dual;46886;;;;sout2941;wester-2014
-yoxo;;3d-s;3rd Person Dual;46885;;;;sout2941;wester-2014
-yoxo;;3d-o;3rd Person Dual;46884;;;;sout2941;wester-2014
-yaxa-;;3d-p;3rd Person Dual;46883;;;;sout2941;wester-2014
-yoxo;;3p-a;3rd Person Plural;46882;;;;sout2941;wester-2014
-yoxo;;3p-s;3rd Person Plural;46881;;;;sout2941;wester-2014
-yoxo;;3p-o;3rd Person Plural;46880;;;;sout2941;wester-2014
-yaxa-;;3p-p;3rd Person Plural;46879;;;;sout2941;wester-2014
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+nu,,1sg_a,1st (excl) Person Singular,46926,,,,sout2941,wester-2014
+nu,,1sg_s,1st (excl) Person Singular,46925,,,,sout2941,wester-2014
+nu,,1sg_o,1st (excl) Person Singular,46924,,,,sout2941,wester-2014
+na,,1sg_p,1st (excl) Person Singular,46923,,,,sout2941,wester-2014
+nugu,,1du_a,1st (excl) Person Dual,46922,,,,sout2941,wester-2014
+nugu,,1du_s,1st (excl) Person Dual,46921,,,,sout2941,wester-2014
+nugu,,1du_o,1st (excl) Person Dual,46920,,,,sout2941,wester-2014
+niga-,,1du_p,1st (excl) Person Dual,46919,,,,sout2941,wester-2014
+nugu,,1pl_a,1st (excl) Person Plural,46918,,,,sout2941,wester-2014
+nugu,,1pl_s,1st (excl) Person Plural,46917,,,,sout2941,wester-2014
+nugu,,1pl_o,1st (excl) Person Plural,46916,,,,sout2941,wester-2014
+niga-,,1pl_p,1st (excl) Person Plural,46915,,,,sout2941,wester-2014
+nugu,,12du_a,1st (incl) Person Dual,46914,,,,sout2941,wester-2014
+nugu,,12du_s,1st (incl) Person Dual,46913,,,,sout2941,wester-2014
+nugu,,12du_o,1st (incl) Person Dual,46912,,,,sout2941,wester-2014
+niga-,,12du_p,1st (incl) Person Dual,46911,,,,sout2941,wester-2014
+nugu,,12pl_a,1st (incl) Person Plural,46910,,,,sout2941,wester-2014
+nugu,,12pl_s,1st (incl) Person Plural,46909,,,,sout2941,wester-2014
+nugu,,12pl_o,1st (incl) Person Plural,46908,,,,sout2941,wester-2014
+niga-,,12pl_p,1st (incl) Person Plural,46907,,,,sout2941,wester-2014
+gu,,2sg_a,2nd Person Singular,46906,,,,sout2941,wester-2014
+gu,,2sg_s,2nd Person Singular,46905,,,,sout2941,wester-2014
+gu,,2sg_o,2nd Person Singular,46904,,,,sout2941,wester-2014
+ga-,,2sg_p,2nd Person Singular,46903,,,,sout2941,wester-2014
+gugu,,2du_a,2nd Person Dual,46902,,,,sout2941,wester-2014
+gugu,,2du_s,2nd Person Dual,46901,,,,sout2941,wester-2014
+gugu,,2du_o,2nd Person Dual,46900,,,,sout2941,wester-2014
+giga-,,2du_p,2nd Person Dual,46899,,,,sout2941,wester-2014
+gugu,,2pl_a,2nd Person Plural,46898,,,,sout2941,wester-2014
+gugu,,2pl_s,2nd Person Plural,46897,,,,sout2941,wester-2014
+gugu,,2pl_o,2nd Person Plural,46896,,,,sout2941,wester-2014
+giga-,,2pl_p,2nd Person Plural,46895,,,,sout2941,wester-2014
+ewi,,3sg_m_a,3rd Person Singular Masculine,46894,,,,sout2941,wester-2014
+ewi,,3sg_m_s,3rd Person Singular Masculine,46893,,,,sout2941,wester-2014
+ewi,,3sg_m_o,3rd Person Singular Masculine,46892,,,,sout2941,wester-2014
+wa-,,3sg_m_p,3rd Person Singular Masculine,46891,,,,sout2941,wester-2014
+ewi,,3sg_n_a,3rd Person Singular Neuter,46890,,,,sout2941,wester-2014
+ewi,,3sg_n_s,3rd Person Singular Neuter,46889,,,,sout2941,wester-2014
+ewi,,3sg_n_o,3rd Person Singular Neuter,46888,,,,sout2941,wester-2014
+wa-,,3sg_n_p,3rd Person Singular Neuter,46887,,,,sout2941,wester-2014
+yoxo,,3d-a,3rd Person Dual,46886,,,,sout2941,wester-2014
+yoxo,,3d-s,3rd Person Dual,46885,,,,sout2941,wester-2014
+yoxo,,3d-o,3rd Person Dual,46884,,,,sout2941,wester-2014
+yaxa-,,3d-p,3rd Person Dual,46883,,,,sout2941,wester-2014
+yoxo,,3p-a,3rd Person Plural,46882,,,,sout2941,wester-2014
+yoxo,,3p-s,3rd Person Plural,46881,,,,sout2941,wester-2014
+yoxo,,3p-o,3rd Person Plural,46880,,,,sout2941,wester-2014
+yaxa-,,3p-p,3rd Person Plural,46879,,,,sout2941,wester-2014

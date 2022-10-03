@@ -1,49 +1,49 @@
-word;ipa;parameter;description;localid;alternative;comment;translation;glottocode;source
-saya, sa;;1sg_a;1st (excl) Person Singular;61223;;;;alor1252;baird-klamer-kratochvil-2004
-saya, sa;;1sg_s;1st (excl) Person Singular;61222;;;;alor1252;baird-klamer-kratochvil-2004
-saya;;1sg_o;1st (excl) Person Singular;61221;;;;alor1252;baird-klamer-kratochvil-2004
-saya, sa;;1sg_p;1st (excl) Person Singular;61220;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;1du_a;1st (excl) Person Dual;61219;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;1du_s;1st (excl) Person Dual;61218;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;1du_o;1st (excl) Person Dual;61217;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;1du_p;1st (excl) Person Dual;61216;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;1pl_a;1st (excl) Person Plural;61215;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;1pl_s;1st (excl) Person Plural;61214;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;1pl_o;1st (excl) Person Plural;61213;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;1pl_p;1st (excl) Person Plural;61212;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;12du_a;1st (incl) Person Dual;61211;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;12du_s;1st (incl) Person Dual;61210;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;12du_o;1st (incl) Person Dual;61209;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;12du_p;1st (incl) Person Dual;61208;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;12pl_a;1st (incl) Person Plural;61207;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;12pl_s;1st (incl) Person Plural;61206;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;12pl_o;1st (incl) Person Plural;61205;;;;alor1252;baird-klamer-kratochvil-2004
-kita;;12pl_p;1st (incl) Person Plural;61204;;;;alor1252;baird-klamer-kratochvil-2004
-lu;;2sg_a;2nd Person Singular;61203;;;;alor1252;baird-klamer-kratochvil-2004
-lu;;2sg_s;2nd Person Singular;61202;;;;alor1252;baird-klamer-kratochvil-2004
-lu;;2sg_o;2nd Person Singular;61201;;;;alor1252;baird-klamer-kratochvil-2004
-lu;;2sg_p;2nd Person Singular;61200;;;;alor1252;baird-klamer-kratochvil-2004
-kamu;;2du_a;2nd Person Dual;61199;;;;alor1252;baird-klamer-kratochvil-2004
-kamu;;2du_s;2nd Person Dual;61198;;;;alor1252;baird-klamer-kratochvil-2004
-kamu;;2du_o;2nd Person Dual;61197;;;;alor1252;baird-klamer-kratochvil-2004
-kamu;;2du_p;2nd Person Dual;61196;;;;alor1252;baird-klamer-kratochvil-2004
-kamu;;2pl_a;2nd Person Plural;61195;;;;alor1252;baird-klamer-kratochvil-2004
-kamu;;2pl_s;2nd Person Plural;61194;;;;alor1252;baird-klamer-kratochvil-2004
-kamu;;2pl_o;2nd Person Plural;61193;;;;alor1252;baird-klamer-kratochvil-2004
-kamu;;2pl_p;2nd Person Plural;61192;;;;alor1252;baird-klamer-kratochvil-2004
-dia, de, beliau;;3sg_m_a;3rd Person Singular Masculine;61191;;;;alor1252;baird-klamer-kratochvil-2004
-dia, de, beliau;;3sg_m_s;3rd Person Singular Masculine;61190;;;;alor1252;baird-klamer-kratochvil-2004
-dia, de, beliau;;3sg_m_o;3rd Person Singular Masculine;61189;;;;alor1252;baird-klamer-kratochvil-2004
-dia, de, beliau;;3sg_m_p;3rd Person Singular Masculine;61188;;;;alor1252;baird-klamer-kratochvil-2004
-dia, de, beliau;;3sg_n_a;3rd Person Singular Neuter;61187;;;;alor1252;baird-klamer-kratochvil-2004
-dia, de, beliau;;3sg_n_s;3rd Person Singular Neuter;61186;;;;alor1252;baird-klamer-kratochvil-2004
-dia, de, beliau;;3sg_n_o;3rd Person Singular Neuter;61185;;;;alor1252;baird-klamer-kratochvil-2004
-dia, de, beliau;;3sg_n_p;3rd Person Singular Neuter;61184;;;;alor1252;baird-klamer-kratochvil-2004
-dorang, dong;;3d-a;3rd Person Dual;61183;;;;alor1252;baird-klamer-kratochvil-2004
-dorang, dong;;3d-s;3rd Person Dual;61182;;;;alor1252;baird-klamer-kratochvil-2004
-dorang;;3d-o;3rd Person Dual;61181;;;;alor1252;baird-klamer-kratochvil-2004
-dorang, dong;;3d-p;3rd Person Dual;61180;;;;alor1252;baird-klamer-kratochvil-2004
-dorang, dong;;3p-a;3rd Person Plural;61179;;;;alor1252;baird-klamer-kratochvil-2004
-dorang, dong;;3p-s;3rd Person Plural;61178;;;;alor1252;baird-klamer-kratochvil-2004
-dorang;;3p-o;3rd Person Plural;61177;;;;alor1252;baird-klamer-kratochvil-2004
-dorang, dong;;3p-p;3rd Person Plural;61176;;;;alor1252;baird-klamer-kratochvil-2004
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+"saya, sa",,1sg_a,1st (excl) Person Singular,61223,,,,alor1252,baird-klamer-kratochvil-2004
+"saya, sa",,1sg_s,1st (excl) Person Singular,61222,,,,alor1252,baird-klamer-kratochvil-2004
+saya,,1sg_o,1st (excl) Person Singular,61221,,,,alor1252,baird-klamer-kratochvil-2004
+"saya, sa",,1sg_p,1st (excl) Person Singular,61220,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,1du_a,1st (excl) Person Dual,61219,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,1du_s,1st (excl) Person Dual,61218,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,1du_o,1st (excl) Person Dual,61217,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,1du_p,1st (excl) Person Dual,61216,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,1pl_a,1st (excl) Person Plural,61215,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,1pl_s,1st (excl) Person Plural,61214,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,1pl_o,1st (excl) Person Plural,61213,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,1pl_p,1st (excl) Person Plural,61212,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,12du_a,1st (incl) Person Dual,61211,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,12du_s,1st (incl) Person Dual,61210,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,12du_o,1st (incl) Person Dual,61209,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,12du_p,1st (incl) Person Dual,61208,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,12pl_a,1st (incl) Person Plural,61207,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,12pl_s,1st (incl) Person Plural,61206,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,12pl_o,1st (incl) Person Plural,61205,,,,alor1252,baird-klamer-kratochvil-2004
+kita,,12pl_p,1st (incl) Person Plural,61204,,,,alor1252,baird-klamer-kratochvil-2004
+lu,,2sg_a,2nd Person Singular,61203,,,,alor1252,baird-klamer-kratochvil-2004
+lu,,2sg_s,2nd Person Singular,61202,,,,alor1252,baird-klamer-kratochvil-2004
+lu,,2sg_o,2nd Person Singular,61201,,,,alor1252,baird-klamer-kratochvil-2004
+lu,,2sg_p,2nd Person Singular,61200,,,,alor1252,baird-klamer-kratochvil-2004
+kamu,,2du_a,2nd Person Dual,61199,,,,alor1252,baird-klamer-kratochvil-2004
+kamu,,2du_s,2nd Person Dual,61198,,,,alor1252,baird-klamer-kratochvil-2004
+kamu,,2du_o,2nd Person Dual,61197,,,,alor1252,baird-klamer-kratochvil-2004
+kamu,,2du_p,2nd Person Dual,61196,,,,alor1252,baird-klamer-kratochvil-2004
+kamu,,2pl_a,2nd Person Plural,61195,,,,alor1252,baird-klamer-kratochvil-2004
+kamu,,2pl_s,2nd Person Plural,61194,,,,alor1252,baird-klamer-kratochvil-2004
+kamu,,2pl_o,2nd Person Plural,61193,,,,alor1252,baird-klamer-kratochvil-2004
+kamu,,2pl_p,2nd Person Plural,61192,,,,alor1252,baird-klamer-kratochvil-2004
+"dia, de, beliau",,3sg_m_a,3rd Person Singular Masculine,61191,,,,alor1252,baird-klamer-kratochvil-2004
+"dia, de, beliau",,3sg_m_s,3rd Person Singular Masculine,61190,,,,alor1252,baird-klamer-kratochvil-2004
+"dia, de, beliau",,3sg_m_o,3rd Person Singular Masculine,61189,,,,alor1252,baird-klamer-kratochvil-2004
+"dia, de, beliau",,3sg_m_p,3rd Person Singular Masculine,61188,,,,alor1252,baird-klamer-kratochvil-2004
+"dia, de, beliau",,3sg_n_a,3rd Person Singular Neuter,61187,,,,alor1252,baird-klamer-kratochvil-2004
+"dia, de, beliau",,3sg_n_s,3rd Person Singular Neuter,61186,,,,alor1252,baird-klamer-kratochvil-2004
+"dia, de, beliau",,3sg_n_o,3rd Person Singular Neuter,61185,,,,alor1252,baird-klamer-kratochvil-2004
+"dia, de, beliau",,3sg_n_p,3rd Person Singular Neuter,61184,,,,alor1252,baird-klamer-kratochvil-2004
+"dorang, dong",,3d-a,3rd Person Dual,61183,,,,alor1252,baird-klamer-kratochvil-2004
+"dorang, dong",,3d-s,3rd Person Dual,61182,,,,alor1252,baird-klamer-kratochvil-2004
+dorang,,3d-o,3rd Person Dual,61181,,,,alor1252,baird-klamer-kratochvil-2004
+"dorang, dong",,3d-p,3rd Person Dual,61180,,,,alor1252,baird-klamer-kratochvil-2004
+"dorang, dong",,3p-a,3rd Person Plural,61179,,,,alor1252,baird-klamer-kratochvil-2004
+"dorang, dong",,3p-s,3rd Person Plural,61178,,,,alor1252,baird-klamer-kratochvil-2004
+dorang,,3p-o,3rd Person Plural,61177,,,,alor1252,baird-klamer-kratochvil-2004
+"dorang, dong",,3p-p,3rd Person Plural,61176,,,,alor1252,baird-klamer-kratochvil-2004
