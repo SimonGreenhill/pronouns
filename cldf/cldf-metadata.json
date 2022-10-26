@@ -9,7 +9,7 @@
         {
             "rdf:about": "pronouns",
             "rdf:type": "prov:Entity",
-            "dc:created": "f5c7fc8",
+            "dc:created": "1ec414e",
             "dc:title": "Repository"
         },
         {
@@ -38,7 +38,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 41983,
+            "dc:extent": 41196,
             "tableSchema": {
                 "columns": [
                     {
@@ -149,7 +149,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 670,
+            "dc:extent": 686,
             "tableSchema": {
                 "columns": [
                     {
@@ -213,6 +213,26 @@
                     {
                         "datatype": "string",
                         "name": "Dialect"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Variant"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Filename"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Analect"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Coder"
                     }
                 ],
                 "primaryKey": [
@@ -280,35 +300,6 @@
                 ]
             },
             "url": "parameters.csv"
-        },
-        {
-            "dc:extent": 699,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "name": "ID"
-                    },
-                    {
-                        "name": "Language_ID"
-                    },
-                    {
-                        "name": "Analect"
-                    },
-                    {
-                        "name": "Label"
-                    },
-                    {
-                        "name": "Source"
-                    },
-                    {
-                        "name": "Comment"
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "paradigms.csv"
         }
     ]
 }

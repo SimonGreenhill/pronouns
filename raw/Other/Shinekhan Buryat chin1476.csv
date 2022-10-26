@@ -1,49 +1,77 @@
-word,ipa,parameter,description,alternative,comment,translation,glottocode,source
-bii,bii,1sg_a,1st singular transitive subject,,,,chin1476,yamakoshi-2011
-bii,bii,1sg_s,1st singular intransitive subject,,,,chin1476,yamakoshi-2011
-nam,nam,1sg_o,1st singular transitive object,,,,chin1476,yamakoshi-2011
-=m(ni),=m(ni),1sg_p,1st singular possessive,,,,chin1476,yamakoshi-2011
-maandood,maandood,12du_a,1st dual inclusive transitive subject,,,,chin1476,yamakoshi-2011
-maandood,maandood,12du_s,1st dual inclusive intransitive subject,,,,chin1476,yamakoshi-2011
-maandood,maandood,12du_o,1st dual inclusive transitive object,,,,chin1476,yamakoshi-2011
-=mnai2,=mnai2,12du_p,1st dual inclusive possessive,,,,chin1476,yamakoshi-2011
-maandood,maandood,1du_a,1st dual exclusive transitive subject,,,,chin1476,yamakoshi-2011
-maandood,maandood,1du_s,1st dual exclusive intransitive subject,,,,chin1476,yamakoshi-2011
-maandood,maandood,1du_o,1st dual exclusive transitive object,,,,chin1476,yamakoshi-2011
-=mnai2,=mnai2,1du_p,1st dual exclusive possessive,,,,chin1476,yamakoshi-2011
-maandood,maandood,12pl_a,1st plural inclusive transitive subject,,,,chin1476,yamakoshi-2011
-maandood,maandood,12pl_s,1st plural inclusive intransitive subject,,,,chin1476,yamakoshi-2011
-maandood,maandood,12pl_o,1st plural inclusive transitive object,,,,chin1476,yamakoshi-2011
-=mnai2,=mnai2,12pl_p,1st plural inclusive possessive,,,,chin1476,yamakoshi-2011
-maandood,maandood,1pl_a,1st plural exclusive transitive subject,,,,chin1476,yamakoshi-2011
-maandood,maandood,1pl_s,1st plural exclusive intransitive subject,,,,chin1476,yamakoshi-2011
-maandood,maandood,1pl_o,1st plural exclusive transitive object,,,,chin1476,yamakoshi-2011
-=mnai2,=mnai2,1pl_p,1st plural exclusive possessive,,,,chin1476,yamakoshi-2011
-sʲii,sʲii,2sg_a,2nd singular transitive subject,,,,chin1476,yamakoshi-2011
-sʲii,sʲii,2sg_s,2nd singular intransitive subject,,,,chin1476,yamakoshi-2011
-sʲam,sʲam,2sg_o,2nd singular transitive object,,,,chin1476,yamakoshi-2011
-=sʲ(ni),=sʲ(ni),2sg_p,2nd singular possessive,,,,chin1476,yamakoshi-2011
-taandood,taandood,2du_a,2nd dual transitive subject,,,,chin1476,yamakoshi-2011
-taandood,taandood,2du_s,2nd dual intransitive subject,,,,chin1476,yamakoshi-2011
-taandood,taandood,2du_o,2nd dual transitive object,,,,chin1476,yamakoshi-2011
-=tnai2,=tnai2,2du_p,2nd dual possessive,,,,chin1476,yamakoshi-2011
-taandood,taandood,2pl_a,2nd plural transitive subject,,,,chin1476,yamakoshi-2011
-taandood,taandood,2pl_s,2nd plural intransitive subject,,,,chin1476,yamakoshi-2011
-taandood,taandood,2pl_o,2nd plural transitive object,,,,chin1476,yamakoshi-2011
-=tnai2,=tnai2,2pl_p,2nd plural possessive,,,,chin1476,yamakoshi-2011
-tere,tere,3sg_m_a,3rd singular gender1 transitive subject,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-tere,tere,3sg_m_s,3rd singular gender1 intransitive subject,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-tereen,tereen,3sg_m_o,3rd singular gender1 transitive object,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-=in(i),=in(i),3sg_m_p,3rd singular gender1 possessive,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-tere,tere,3sg_f_a,3rd singular gender2 transitive subject,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-tere,tere,3sg_f_s,3rd singular gender2 intransitive subject,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-tereen,tereen,3sg_f_o,3rd singular gender2 transitive object,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-=in(i),=in(i),3sg_f_p,3rd singular gender2 possessive,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-tedeen,tedeen,3d-a,3rd dual transitive subject,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-tedeen,tedeen,3d-s,3rd dual intransitive subject,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-tede,tede,3d-o,3rd dual transitive object,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-=in(i),=in(i),3d-p,3rd dual possessive,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-tedeen,tedeen,3p-a,3rd plural transitive subject,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-tedeen,tedeen,3p-s,3rd plural intransitive subject,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-tede,tede,3p-o,3rd plural transitive object,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
-=in(i),=in(i),3p-p,3rd plural possessive,,Third person forms are distal demonstratives.,,chin1476,yamakoshi-2011
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+,bii,1sg_a,1st singular transitive subject,,,This language also has a 2nd person honorific,,,
+,bii,1sg_s,1st singular intransitive subject,,,Third person forms are distal demonstratives. ,,,
+,nam,1sg_o,1st singular transitive object,,,"Yamakoshi, Yasuhiro.(2011) Shinekhen Buryat. In Yasuhiro Yamakoshi(ed.) Grammatical Sketches from the Field, 137-178.Tokyoː Research Institute for Languages and Cultures of Asia and Africa (ILCAA), Tokyo University of Foreign Studies",,,
+,=m(ni),1sg_p,1st singular possessive,,,,,,
+,maandood,12du_a,1st dual inclusive transitive subject,,,,,,
+,maandood,12du_s,1st dual inclusive intransitive subject,,,,,,
+,maandood,12du_o,1st dual inclusive transitive object,,,,,,
+,=mnai2,12du_p,1st dual inclusive possessive,,,,,,
+,maandood,1du_a,1st dual exclusive transitive subject,,,,,,
+,maandood,1du_s,1st dual exclusive intransitive subject,,,,,,
+,maandood,1du_o,1st dual exclusive transitive object,,,,,,
+,=mnai2,1du_p,1st dual exclusive possessive,,,,,,
+,maandood,12pl_a,1st plural inclusive transitive subject,,,,,,
+,maandood,12pl_s,1st plural inclusive intransitive subject,,,,,,
+,maandood,12pl_o,1st plural inclusive transitive object,,,,,,
+,=mnai2,12pl_p,1st plural inclusive possessive,,,,,,
+,maandood,1pl_a,1st plural exclusive transitive subject,,,,,,
+,maandood,1pl_s,1st plural exclusive intransitive subject,,,,,,
+,maandood,1pl_o,1st plural exclusive transitive object,,,,,,
+,=mnai2,1pl_p,1st plural exclusive possessive,,,,,,
+,sʲii,2sg_a,2nd singular transitive subject,,,,,,
+,sʲii,2sg_s,2nd singular intransitive subject,,,,,,
+,sʲam,2sg_o,2nd singular transitive object,,,,,,
+,=sʲ(ni),2sg_p,2nd singular possessive,,,,,,
+,taandood,2du_a,2nd dual transitive subject,,,,,,
+,taandood,2du_s,2nd dual intransitive subject,,,,,,
+,taandood,2du_o,2nd dual transitive object,,,,,,
+,=tnai2,2du_p,2nd dual possessive,,,,,,
+,taandood,2pl_a,2nd plural transitive subject,,,,,,
+,taandood,2pl_s,2nd plural intransitive subject,,,,,,
+,taandood,2pl_o,2nd plural transitive object,,,,,,
+,=tnai2,2pl_p,2nd plural possessive,,,,,,
+,tere,3sg_m_a,3rd singular gender1 transitive subject,,,,,,
+,tere,3sg_m_s,3rd singular gender1 intransitive subject,,,,,,
+,tereen,3sg_m_o,3rd singular gender1 transitive object,,,,,,
+,=in(i),3sg_m_p,3rd singular gender1 possessive,,,,,,
+,tere,3sg_f_a,3rd singular gender2 transitive subject,,,,,,
+,tere,3sg_f_s,3rd singular gender2 intransitive subject,,,,,,
+,tereen,3sg_f_o,3rd singular gender2 transitive object,,,,,,
+,=in(i),3sg_f_p,3rd singular gender2 possessive,,,,,,
+,tedeen,3d-a,3rd dual transitive subject,,,,,,
+,tedeen,3d-s,3rd dual intransitive subject,,,,,,
+,tede,3d-o,3rd dual transitive object,,,,,,
+,=in(i),3d-p,3rd dual possessive,,,,,,
+,tedeen,3p-a,3rd plural transitive subject,,,,,,
+,tedeen,3p-s,3rd plural intransitive subject,,,,,,
+,tede,3p-o,3rd plural transitive object,,,,,,
+,=in(i),3p-p,3rd plural possessive,,,,,,
+,,3du_m_a,3rd dual gender1 transitive subject,,,,,,
+,,3du_m_s,3rd dual gender1 intransitive subject,,,,,,
+,,3du_m_o,3rd dual gender1 transitive object,,,,,,
+,,3du_m_p,3rd dual gender1 possessive,,,,,,
+,,3du_f_a,3rd dual gender2 transitive subject,,,,,,
+,,3du_f_s,3rd dual gender2 intransitive subject,,,,,,
+,,3du_f_o,3rd dual gender2 transitive object,,,,,,
+,,3du_f_p,3rd dual gender2 possessive,,,,,,
+,,3du_n_a,3rd dual gender3 transitive subject,,,,,,
+,,3du_n_s,3rd dual gender3 intransitive subject,,,,,,
+,,3du_n_o,3rd dual gender3 transitive object,,,,,,
+,,3du_n_p,3rd dual gender3 possessive,,,,,,
+,,3pl_m_a,3rd plural gender1 transitive subject,,,,,,
+,,3pl_m_s,3rd plural gender1 intransitive subject,,,,,,
+,,3pl_m_o,3rd plural gender1 transitive object,,,,,,
+,,3pl_m_p,3rd plural gender1 possessive,,,,,,
+,,3pl_f_a,3rd plural gender2 transitive subject,,,,,,
+,,3pl_f_s,3rd plural gender2 intransitive subject,,,,,,
+,,3pl_f_o,3rd plural gender2 transitive object,,,,,,
+,,3pl_f_p,3rd plural gender2 possessive,,,,,,
+,,3pl_n_a,3rd plural gender3 transitive subject,,,,,,
+,,3pl_n_s,3rd plural gender3 intransitive subject,,,,,,
+,,3pl_n_o,3rd plural gender3 transitive object,,,,,,
+,,3pl_n_p,3rd plural gender3 possessive,,,,,,
+,,3sg_n_a,3rd singular gender3 transitive subject,,,,,,
+,,3sg_n_s,3rd singular gender3 intransitive subject,,,,,,
+,,3sg_n_o,3rd singular gender3 transitive object,,,,,,
+,,3sg_n_p,3rd singular gender3 possessive,,,,,,

@@ -1,0 +1,49 @@
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+neda',,1sg_a,1st singular transitive subject,,,"Sonnenschein, Aron Huey. (2004) A Descriptive Grammar of San Bartolomé Zoogogocho Zapotec. University of California doctoral dissertation.",,zoog1238,Sonnenschein2004
+neda',,1sg_s,1st singular intransitive subject,,,,,zoog1238,Sonnenschein2004
+=a',,1sg_o,1st singular transitive object,,,,,zoog1238,Sonnenschein2004
+=a',,1sg_p,1st singular possessive,,,,,zoog1238,Sonnenschein2004
+dxioo,,12du_a,1st dual inclusive transitive subject,,,,,zoog1238,Sonnenschein2004
+dxioo,,12du_s,1st dual inclusive intransitive subject,,,,,zoog1238,Sonnenschein2004
+=dxo,,12du_o,1st dual inclusive transitive object,,,,,zoog1238,Sonnenschein2004
+=dxo,,12du_p,1st dual inclusive possessive,,,,,zoog1238,Sonnenschein2004
+neto,,1du_a,1st dual exclusive transitive subject,,,,,zoog1238,Sonnenschein2004
+neto,,1du_s,1st dual exclusive intransitive subject,,,,,zoog1238,Sonnenschein2004
+=to,,1du_o,1st dual exclusive transitive object,,,,,zoog1238,Sonnenschein2004
+=to,,1du_p,1st dual exclusive possessive,,,,,zoog1238,Sonnenschein2004
+dxioo,,12pl_a,1st plural inclusive transitive subject,,,,,zoog1238,Sonnenschein2004
+dxioo,,12pl_s,1st plural inclusive intransitive subject,,,,,zoog1238,Sonnenschein2004
+=dxo,,12pl_o,1st plural inclusive transitive object,,,,,zoog1238,Sonnenschein2004
+=dxo,,12pl_p,1st plural inclusive possessive,,,,,zoog1238,Sonnenschein2004
+neto,,1pl_a,1st plural exclusive transitive subject,,,,,zoog1238,Sonnenschein2004
+neto,,1pl_s,1st plural exclusive intransitive subject,,,,,zoog1238,Sonnenschein2004
+=to,,1pl_o,1st plural exclusive transitive object,,,,,zoog1238,Sonnenschein2004
+=to,,1pl_p,1st plural exclusive possessive,,,,,zoog1238,Sonnenschein2004
+"lee, loo",,2sg_a,2nd singular transitive subject,,,,,zoog1238,Sonnenschein2004
+"lee, loo",,2sg_s,2nd singular intransitive subject,,,,,zoog1238,Sonnenschein2004
+=o',,2sg_o,2nd singular transitive object,,,,,zoog1238,Sonnenschein2004
+=o',,2sg_p,2nd singular possessive,,,,,zoog1238,Sonnenschein2004
+le,,2du_a,2nd dual transitive subject,,,,,zoog1238,Sonnenschein2004
+le,,2du_s,2nd dual intransitive subject,,,,,zoog1238,Sonnenschein2004
+=le,,2du_o,2nd dual transitive object,,,,,zoog1238,Sonnenschein2004
+=le,,2du_p,2nd dual possessive,,,,,zoog1238,Sonnenschein2004
+le,,2pl_a,2nd plural transitive subject,,,,,zoog1238,Sonnenschein2004
+le,,2pl_s,2nd plural intransitive subject,,,,,zoog1238,Sonnenschein2004
+=le,,2pl_o,2nd plural transitive object,,,,,zoog1238,Sonnenschein2004
+=le,,2pl_p,2nd plural possessive,,,,,zoog1238,Sonnenschein2004
+lhe',,3sg_m_a,3rd singular gender1 transitive subject,,formal form,,,zoog1238,Sonnenschein2004
+lhe',,3sg_m_s,3rd singular gender1 intransitive subject,,formal form,,,zoog1238,Sonnenschein2004
+=e',,3sg_m_o,3rd singular gender1 transitive object,,,,,zoog1238,Sonnenschein2004
+=e',,3sg_m_p,3rd singular gender1 possessive,,,,,zoog1238,Sonnenschein2004
+lhebe',,3sg_f_a,3rd singular gender2 transitive subject,,informal form,,,zoog1238,Sonnenschein2004
+lhebe',,3sg_f_s,3rd singular gender2 intransitive subject,,informal form,,,zoog1238,Sonnenschein2004
+=be',,3sg_f_o,3rd singular gender2 transitive object,,,,,zoog1238,Sonnenschein2004
+=be',,3sg_f_p,3rd singular gender2 possessive,,,,,zoog1238,Sonnenschein2004
+lhegake',,3d-a,3rd dual transitive subject,,,,,zoog1238,Sonnenschein2004
+lhegake',,3d-s,3rd dual intransitive subject,,,,,zoog1238,Sonnenschein2004
+=(gak=)e',,3d-o,3rd dual transitive object,,,,,zoog1238,Sonnenschein2004
+=(gak=)e',,3d-p,3rd dual possessive,,,,,zoog1238,Sonnenschein2004
+lhegake',,3p-a,3rd plural transitive subject,,,,,zoog1238,Sonnenschein2004
+lhegake',,3p-s,3rd plural intransitive subject,,,,,zoog1238,Sonnenschein2004
+=(gak=)e',,3p-o,3rd plural transitive object,,,,,zoog1238,Sonnenschein2004
+=(gak=)e',,3p-p,3rd plural possessive,,,,,,Sonnenschein2004

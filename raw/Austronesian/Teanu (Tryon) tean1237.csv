@@ -1,0 +1,49 @@
+word,ipa,parameter,description,alternative,comment,translation,glottocode,source
+ene,,1sg_a,1st singular transitive subject,,,,tean1237,tryon-2002
+ene,,1sg_s,1st singular intransitive subject,,,,tean1237,tryon-2002
+ene,,1sg_o,1st singular transitive object,,,,tean1237,tryon-2002
+"ene, enone, enaka",,1sg_p,1st singular possessive,,possessive forms listed general first followed by edible,,tean1237,tryon-2002
+kia,,12du_a,1st dual inclusive transitive subject,,,,tean1237,tryon-2002
+kia,,12du_s,1st dual inclusive intransitive subject,,,,tean1237,tryon-2002
+kia,,12du_o,1st dual inclusive transitive object,,,,tean1237,tryon-2002
+"kia, iakia, akia",,12du_p,1st dual inclusive possessive,,,,tean1237,tryon-2002
+keba,,1du_a,1st dual exclusive transitive subject,,,,tean1237,tryon-2002
+keba,,1du_s,1st dual exclusive intransitive subject,,,,tean1237,tryon-2002
+keba,,1du_o,1st dual exclusive transitive object,,,,tean1237,tryon-2002
+"keba, iaba, aiba",,1du_p,1st dual exclusive possessive,,,,tean1237,tryon-2002
+kiapa,,12pl_a,1st plural inclusive transitive subject,,,,tean1237,tryon-2002
+kiapa,,12pl_s,1st plural inclusive intransitive subject,,,,tean1237,tryon-2002
+kiapa,,12pl_o,1st plural inclusive transitive object,,,,tean1237,tryon-2002
+"kiapa, iakapa, akapa",,12pl_p,1st plural inclusive possessive,,,,tean1237,tryon-2002
+kupa,,1pl_a,1st plural exclusive transitive subject,,,,tean1237,tryon-2002
+kupa,,1pl_s,1st plural exclusive intransitive subject,,,,tean1237,tryon-2002
+kupa,,1pl_o,1st plural exclusive transitive object,,,,tean1237,tryon-2002
+"kupa, iupa, upa",,1pl_p,1st plural exclusive possessive,,,,tean1237,tryon-2002
+eo,,2sg_a,2nd singular transitive subject,,,,tean1237,tryon-2002
+eo,,2sg_s,2nd singular intransitive subject,,,,tean1237,tryon-2002
+eo,,2sg_o,2nd singular transitive object,,,,tean1237,tryon-2002
+"eo, iono, ono",,2sg_p,2nd singular possessive,,,,tean1237,tryon-2002
+kela,,2du_a,2nd dual transitive subject,,,,tean1237,tryon-2002
+kela,,2du_s,2nd dual intransitive subject,,,,tean1237,tryon-2002
+kela,,2du_o,2nd dual transitive object,,,,tean1237,tryon-2002
+"kela, iamela, amela",,2du_p,2nd dual possessive,,,,tean1237,tryon-2002
+kaipa,,2pl_a,2nd plural transitive subject,,,,tean1237,tryon-2002
+kaipa,,2pl_s,2nd plural intransitive subject,,,,tean1237,tryon-2002
+kaipa,,2pl_o,2nd plural transitive object,,,,tean1237,tryon-2002
+"kaipa, iaipa, aipa",,2pl_p,2nd plural possessive,,,,tean1237,tryon-2002
+ini,,3sg_m_a,3rd singular gender1 transitive subject,,,,tean1237,tryon-2002
+ini,,3sg_m_s,3rd singular gender1 intransitive subject,,,,tean1237,tryon-2002
+ini,,3sg_m_o,3rd singular gender1 transitive object,,,,tean1237,tryon-2002
+"ini, iape, ape",,3sg_m_p,3rd singular gender1 possessive,,,,tean1237,tryon-2002
+ini,,3sg_f_a,3rd singular gender2 transitive subject,,,,tean1237,tryon-2002
+ini,,3sg_f_s,3rd singular gender2 intransitive subject,,,,tean1237,tryon-2002
+ini,,3sg_f_o,3rd singular gender2 transitive object,,,,tean1237,tryon-2002
+"ini, iape, ape",,3sg_f_p,3rd singular gender2 possessive,,,,tean1237,tryon-2002
+da,,3d-a,3rd dual transitive subject,,,,tean1237,tryon-2002
+da,,3d-s,3rd dual intransitive subject,,,,tean1237,tryon-2002
+da,,3d-o,3rd dual transitive object,,,,tean1237,tryon-2002
+"da, iada, ada",,3d-p,3rd dual possessive,,,,tean1237,tryon-2002
+dapa,,3p-a,3rd plural transitive subject,,,,tean1237,tryon-2002
+dapa,,3p-s,3rd plural intransitive subject,,,,tean1237,tryon-2002
+dapa,,3p-o,3rd plural transitive object,,,,tean1237,tryon-2002
+"dapa, iadapa, adapa",,3p-p,3rd plural possessive,,,,tean1237,tryon-2002

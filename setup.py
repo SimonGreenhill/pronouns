@@ -21,6 +21,7 @@ setup(
     },
     install_requires=[
         'pylexibank>=3.4.0',
+        'openpyxl',
     ],
     extras_require={
         'test': [
