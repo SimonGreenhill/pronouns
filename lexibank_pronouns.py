@@ -78,7 +78,7 @@ def read_text_files(filenames):
                         filename,
                         [e for e in expected_columns if e not in row]
                     ))
-                if row['word'] != '#':
+                if row['word'] and row['word'] not in ('#', '?'):
                     yield (language, glottocode, filename.name, row)
 
 
@@ -125,7 +125,7 @@ class Dataset(pylexibank.Dataset):
                 logging.warn("WARNING: Unknown language filename '%s' - add details to ./etc/languages.tsv" % filename)
             
             if record['parameter'] not in concepts:
-                logging.warn("WARNING: Unknown parameter %s: %s" % (filename, record['parameter']))
+                logging.warn("WARNING: Unknown parameter %s: %r" % (filename, record['parameter']))
                 continue
             
             lex = args.writer.add_forms_from_value(

@@ -9,7 +9,7 @@
         {
             "rdf:about": "pronouns",
             "rdf:type": "prov:Entity",
-            "dc:created": "1ec414e",
+            "dc:created": "d3852f8",
             "dc:title": "Repository"
         },
         {
@@ -38,7 +38,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 41196,
+            "dc:extent": 42855,
             "tableSchema": {
                 "columns": [
                     {
@@ -149,7 +149,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 686,
+            "dc:extent": 715,
             "tableSchema": {
                 "columns": [
                     {
