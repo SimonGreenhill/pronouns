@@ -1,15 +1,19 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist Wordlist
+# Wordlist Parabank Pronoun Dataset
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
 **Sources**: [sources.bib](./sources.bib)
 
+CLDF dataset derived from the Parabank Pronoun Database
+
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="pronouns">pronouns d3852f8</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.6">Glottolog v4.6</a></li></ol>
+[dc:identifier](http://purl.org/dc/terms/identifier) | https://pdb.simon.net.nz
+[dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="pronouns">pronouns 33dee82</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.6">Glottolog v4.6</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.11.0b5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | pronouns
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

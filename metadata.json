@@ -1,16 +1,11 @@
 {
     "id": "pronouns",
-    "title": null,
-    "description": null,
-    "license": null,
-    "url": null,
+    "title": "Parabank Pronoun Dataset",
+    "description": "CLDF dataset derived from the Parabank Pronoun Database",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "url": "https://pdb.simon.net.nz",
     "citation": null,
-    "aboutUrl": null,
-    "conceptlist": [],
-    "lingpy_schema": null,
-    "derived_from": null,
-    "related": null,
+    "aboutUrl": "https://pdb.simon.net.nz",
     "source": null,
-    "patron": null,
-    "version": "3.4.0"
+    "version": "1.0a"
 }

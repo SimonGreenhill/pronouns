@@ -1,15 +1,19 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "aboutUrl": null,
+    "aboutUrl": "https://pdb.simon.net.nz",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "CLDF dataset derived from the Parabank Pronoun Database",
+    "dc:identifier": "https://pdb.simon.net.nz",
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
+    "dc:title": "Parabank Pronoun Dataset",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "pronouns",
             "rdf:type": "prov:Entity",
-            "dc:created": "d3852f8",
+            "dc:created": "33dee82",
             "dc:title": "Repository"
         },
         {

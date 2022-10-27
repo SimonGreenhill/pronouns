@@ -1,19 +1,22 @@
 # Contributors
 
-Name                  | GitHub user               | Role
---------------------- | ------------------------- | --------------------
-Simon J. Greenhill    | @SimonGreenhill           | Author, Maintainer
-Wolfgang Barth        |                           | Author
-Nick Evans            |                           | Author
-Kyla Quinn            |                           | Author
-Louise Baird          |                           | Author
-Owen Edwards          |                           | Author
-Oscar ??              |                           | Author
-Thiago Chaçon         |                           | Author
-Matt Carroll          |                           | Author
-Roberto ??            |                           | Author
-Charlotte van Tongeren|                           | Author
-Stef Spronck          |                           | Author
-Marie-France Duhamel  |                           | Author
-Susan ??              |                           | Author
-Darja Hoenigman       |                           | Author
+Name                   | GitHub user               | Role
+---------------------- | ------------------------- | --------------------
+Simon J. Greenhill     | @SimonGreenhill           | Author, Maintainer
+Wolfgang Barth         |                           | Author, Maintainer
+Kyla Quinn             |                           | Author, Maintainer
+Amos Teo               |                           | Author
+Charlotte van Tongeren |                           | Author
+Darja Hoenigman        |                           | Author
+James Bednall          |                           | Author
+Louise Baird           |                           | Author
+Marie-France Duhamel   |                           | Author
+Matt Carroll           |                           | Author
+Naomi Peck             |                           | Author
+Nick Evans             |                           | Author
+Oscar McLoughlin-Ning  |                           | Author
+Owen Edwards           |                           | Author
+Roberto Herrera        |                           | Author
+Stef Spronck           |                           | Author
+Susan Ford             |                           | Author
+Thiago Chaçon          |                           | Author
