@@ -17,21 +17,22 @@ Available online at https://pdb.simon.net.nz
 ## Statistics
 
 
+[![Build Status](https://travis-ci.org/SimonGreenhill/pronouns.svg?branch=master)](https://travis-ci.org/SimonGreenhill/pronouns)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 99%](https://img.shields.io/badge/Source-99%25-brightgreen.svg "Source: 99%")
 
-- **Varieties:** 715
+- **Varieties:** 717
 - **Concepts:** 76
-- **Lexemes:** 42,855
-- **Sources:** 587
+- **Lexemes:** 42,963
+- **Sources:** 589
 - **Synonymy:** 1.10
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 220/42855 (0.51%)
+- Entries missing sources: 220/42963 (0.51%)
 
 # Contributors
 

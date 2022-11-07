@@ -9,11 +9,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Parabank Pronoun Dataset",
+    "dcat:accessURL": "https://github.com/SimonGreenhill/pronouns",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "pronouns",
+            "rdf:about": "https://github.com/SimonGreenhill/pronouns",
             "rdf:type": "prov:Entity",
-            "dc:created": "33dee82",
+            "dc:created": "1dfc815",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 42855,
+            "dc:extent": 42963,
             "tableSchema": {
                 "columns": [
                     {
@@ -153,7 +154,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 715,
+            "dc:extent": 717,
             "tableSchema": {
                 "columns": [
                     {
