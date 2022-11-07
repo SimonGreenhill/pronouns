@@ -9,24 +9,25 @@ import csvw
 from clldutils.misc import slug
 
 CODERS = [
-    'Louise Baird',
-    'Matt Carroll',
-    'Oscar McLoughlin-Ning',
-    'Owen Edwards',
+    'Amos Teo',
     'Charlotte van Tongeren',
-    'Stef Spronck',
-    'Nick Evans',
-    'Simon Greenhill',
+    'James Bednall',
+    'Keira Mullan',
     'Kyla Quinn',
-    'Wolfgang Barth',
-    'Thiago Chaçon',
-    'Roberto Herrera',
+    'Louise Baird',
     'Luis Miguel Berscia',
     'Marie-France Duhamel',
-    'Amos Teo',
-    'James Bednall',
-    'Susan Ford',
+    'Matt Carroll',
     'Naomi Peck',
+    'Nick Evans',
+    'Oscar McLoughlin-Ning',
+    'Owen Edwards',
+    'Roberto Herrera',
+    'Simon Greenhill',
+    'Stef Spronck',
+    'Susan Ford',
+    'Thiago Chaçon',
+    'Wolfgang Barth',
 ]
 
 
@@ -110,17 +111,22 @@ if __name__ == '__main__':
         print("\t".join(header))
         for f in unseen:
             f = Path(f)
+
+            if ' ' not in f.stem:
+                raise ValueError("needs a space so I can identify file stem and glottocode")
+
             fn, gc = split_filename(f.stem)
-            
+
+            assert len(gc) == 8, 'invalid glottocode?'
             max_id += 1
+            
             print("\t".join([
-                '%d' % max_id,  # ID
-                fn, # LocalID
+                slug(fn),  # ID
+                '%d' % max_id,  # LocalID
                 f.stem, # Name
                 '', # Dialect
                 '', # Variant
                 str(f), # Filename
-                '', # ISO639P3code
                 gc, # Glottocode
                 'Free', # Analect
                 '?', # Coder

@@ -45,6 +45,6 @@ if __name__ == '__main__':
     with csvw.UnicodeWriter(args.csv) as writer:
         writer.writerow(OUTHEADER)
         for row in read(args.xlsx):
-            print(row)
+            #print(row)
             writer.writerow([row.get(h, "") for h in OUTHEADER])
 
