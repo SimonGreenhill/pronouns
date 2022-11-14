@@ -22,17 +22,17 @@ Available online at https://pdb.simon.net.nz
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 99%](https://img.shields.io/badge/Source-99%25-brightgreen.svg "Source: 99%")
 
-- **Varieties:** 717
+- **Varieties:** 718
 - **Concepts:** 76
-- **Lexemes:** 42,963
-- **Sources:** 589
+- **Lexemes:** 43,012
+- **Sources:** 590
 - **Synonymy:** 1.10
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 220/42963 (0.51%)
+- Entries missing sources: 220/43012 (0.51%)
 
 # Contributors
 

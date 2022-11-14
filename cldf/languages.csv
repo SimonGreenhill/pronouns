@@ -9,7 +9,7 @@ taeme,Taeme,tame1238,Taeme,,Papunesia,,,Pahoturi,9,,,Taeme tame1238.csv,,Free,Ni
 ngkolmpu,Ngkolmpu,ngka1235,Ngkontar Ngkolmpu,kcd,Papunesia,-8.87044,140.818,Yam,10,,,Ngkolmpu ngka1235.csv,,Free,Nick Evans
 tamil,Tamil,tami1289,Tamil,tam,Eurasia,10.520219,78.825989,Dravidian,11,,,Tamil tami1289.csv,,Free,Nick Evans
 kannada,Kannada,nucl1305,Kannada,kan,Eurasia,13.5878,76.1198,Dravidian,12,,,Kannada nucl1305.csv,,Free,Nick Evans
-bininjgunwok,Bininj Gun-wok,gunw1252,Bininj Kun-Wok,gup,Australia,-12.3398,133.358,Gunwinyguan,13,,,Bininj Gun-wok gunw1252.csv,,Free,Nick Evans
+bininjgunwok,Bininj Kunwok,gunw1252,Bininj Kun-Wok,gup,Australia,-12.3398,133.358,Gunwinyguan,13,,,Bininj Kunwok gunw1252.csv,,Free,Nick Evans
 ngalakan,Ngalakan,ngal1293,Ngalakgan,nig,Australia,-14.4281,134.716,Gunwinyguan,14,,,Ngalakan ngal1293.csv,,Free,Nick Evans
 suki,Suki,suki1245,Suki,sui,Papunesia,-8.04783,141.842,Suki-Gogodala,15,,,Suki suki1245.csv,Third person inanimates are usually referred to with nouns/demonstratives rather than third person pronouns. I should check again if/to what extent they can be referred to with pronouns at all (CvT).,Free,Nick Evans
 rembarrnga,Rembarrnga,remb1249,Rembarrnga,rmb,Australia,-12.9608,134.308,Gunwinyguan,16,,,Rembarrnga remb1249.csv,,Free,Nick Evans
@@ -32,6 +32,7 @@ ungarinyin,Ungarinyin,ngar1284,Ngarinyin,ung,Australia,-16.4006,126.433,Worrorra
 maranunggu,Maranunggu,mara1386,Maranunggu,zmr,Australia,-13.6754,130.12,Western Daly,36,,,Maranunggu mara1386.csv,,Free,Stef Spronck
 malakmalak,Malak-Malak,mull1237,Mullukmulluk,mpb,Australia,-13.427,130.664,Northern Daly,37,,,Malak-Malak mull1237.csv,,Free,Stef Spronck
 kalkutungu,Kalkutungu,kalk1246,Kalkutung,ktg,Australia,-21.0,139.5,Pama-Nyungan,38,,,Kalkutungu kalk1246.csv,,Free,Stef Spronck
+ritharrngu,Ritharrngu,rita1239,Ritarungo,rit,Australia,-13.4559,135.259,Pama-Nyungan,39,,,Ritharrngu rita1239.csv,,Free,Stef Spronck
 garlali,Garlali,kala1380,Bulloo River,gll,Australia,-28.136,143.929,Pama-Nyungan,41,,,Garlali kala1380.csv,,Free,Stef Spronck
 paakantyi,Paakantyi,darl1243,Paakantyi,drl,Australia,-32.7021,142.695,Pama-Nyungan,42,,,Paakantyi darl1243.csv,,Free,Stef Spronck
 wandarang,Wandarang,wand1263,Wandarang,wnd,Australia,-14.2996,135.705,Mangarrayi-Maran,43,,,Wandarang wand1263.csv,,Free,Stef Spronck
@@ -130,7 +131,7 @@ idaan,Ida'an,idaa1241,Ida'an,dbj,Papunesia,5.29059,118.515,Austronesian,157,,,Id
 rukai,Rukai,ruka1240,Rukai,dru,Papunesia,22.7738,120.844,Austronesian,158,,,Rukai ruka1240.csv,,Free,Owen Edwards
 atayal,Atayal,atay1247,Atayal,tay,Papunesia,24.5209,121.388,Austronesian,159,,,Atayal atay1247.csv,,Free,Charlotte van Tongeren
 bunun,Bunun,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian,160,,,Bunun bunu1267.csv,"Philippine type voice system. S=Focussed Agent, A=Neutral, O=Neutral",Free,Charlotte van Tongeren
-kalalagawya,Kala Lagaw Ya,kala1377,Kala Lagaw Ya,mwp,Australia,-10.6748,142.196,Pama-Nyungan,161,,,Kala Lagaw Ya kala1377.csv,,Free,Charlotte van Tongeren
+kalakawawya,Kala Kawaw Ya,kala1378,Kalaw Kawaw Ya,,Australia,,,Pama-Nyungan,161,,,Kala Kawaw Ya kala1378.csv,,Free,Charlotte van Tongeren
 siraya,Siraya,sira1267,Sirayaic,fos,Papunesia,22.9777,120.315,Austronesian,162,,,Siraya sira1267.csv,,Free,Charlotte van Tongeren
 paiwan,Paiwan,paiw1248,Paiwan,pwn,Papunesia,22.3271,120.806,Austronesian,163,,,Paiwan paiw1248.csv,"S=Fokus, A=Obliquus, O=Obliquus",Free,Charlotte van Tongeren
 amis,Amis,amis1246,Amis,ami,Papunesia,23.0917,121.348,Austronesian,164,,,Amis amis1246.csv,,Free,Owen Edwards
@@ -224,8 +225,8 @@ biangai,Biangai,bian1252,Biangai,big,Papunesia,-7.33882,146.765,Goilalan,259,,,B
 kunimaipa,Kunimaipa,kuni1267,Kunimaipa,kup,Papunesia,-8.09371,146.908,Goilalan,260,,,Kunimaipa kuni1267.csv,,Free,Oscar McLoughlin-Ning
 kakiae,Kaki Ae,kaki1249,Kaki Ae,tbd,Papunesia,-7.9946,145.816,Kaki Ae,261,,,Kaki Ae kaki1249.csv,,Free,Oscar McLoughlin-Ning
 kamula,Kamula,kamu1260,Kamula,xla,Papunesia,-7.28798,142.639,Kamula-Elevala,262,,,Kamula kamu1260.csv,The 1sg forms is transcribed /na:/ in the source where : is length.,Free,Oscar McLoughlin-Ning
-nekiwai,"Kiwai, Northeast",nort2930,Northeast Kiwai,kiw,Papunesia,-7.39215,144.667,Kiwaian,263,,,"Kiwai, Northeast nort2930.csv",,Free,Oscar McLoughlin-Ning
-skiwais,"Kiwai, Southern",sout2949,Southern Kiwai,kjd,Papunesia,-8.64889,143.244,Kiwaian,264,,,"Kiwai, Southern sout2949.csv","The 2sg objective has irregularly lost the initial /r/ (except in one dialect, Mawata). The non-singular forms are the same; it's only the singulars that change. There's some stuff I find surprising here, but (equally as surprising) I can't fault the source too much; what he describes also is attested in provided texts!",Free,Oscar McLoughlin-Ning
+urama,"Kiwai, Northeast",uram1241,Urama,,Papunesia,,,Kiwaian,263,Urama,,Urama uram1241.csv,,Free,Oscar McLoughlin-Ning
+skiwai,"Kiwai, Southern",sout2949,Southern Kiwai,kjd,Papunesia,-8.64889,143.244,Kiwaian,264,,,"Kiwai, Southern sout2949.csv","The 2sg objective has irregularly lost the initial /r/ (except in one dialect, Mawata). The non-singular forms are the same; it's only the singulars that change. There's some stuff I find surprising here, but (equally as surprising) I can't fault the source too much; what he describes also is attested in provided texts!",Free,Oscar McLoughlin-Ning
 koitabu,Koitabu,koit1244,Koitabu,kqi,Papunesia,-9.36877,147.079,Koiarian,265,,,Koitabu koit1244.csv,,Free,Oscar McLoughlin-Ning
 wipim,Wipim,wipi1242,Wipi,gdr,Papunesia,-8.79741,143.064,Eastern Trans-Fly,266,,,Wipim wipi1242.csv,,Free,Nick Evans
 meriam,Meriam,meri1244,Meriam,ulk,Papunesia,-9.59575,143.773,Eastern Trans-Fly,267,,,Meriam meri1244.csv,,Free,Oscar McLoughlin-Ning
@@ -715,3 +716,4 @@ gana,Gana,gana1274,//Gana,gnk,Africa,-21.8555,22.2003,Khoe-Kwadi,888,,,Gana gana
 akabea,Aka Bea,akab1249,Akabea,abj,Eurasia,12.3782,92.7818,Great Andamanese,889,,,Aka Bea akab1249.csv,,Free,Kyla Quinn
 katcha,Katcha,katc1250,Katcha,,Africa,,,Kadugli-Krongo,890,,,Katcha katc1250.csv,,Free,Keira Mullan
 keiga,Keiga,keig1242,Keiga,kec,Africa,11.2064,29.3889,Kadugli-Krongo,891,,,Keiga keig1242.csv,,Free,Keira Mullan
+nekiwai,"Kiwai, Northeast",nort2930,Northeast Kiwai,kiw,Papunesia,-7.39215,144.667,Kiwaian,892,,,NE Kiwai nort2930.csv,,Free,Nick Evans
