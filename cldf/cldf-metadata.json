@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/SimonGreenhill/pronouns",
             "rdf:type": "prov:Entity",
-            "dc:created": "1dfc815",
+            "dc:created": "676a6d0",
             "dc:title": "Repository"
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 717,
+            "dc:extent": 716,
             "tableSchema": {
                 "columns": [
                     {
