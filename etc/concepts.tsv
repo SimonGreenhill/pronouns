@@ -75,3 +75,19 @@ ID	LocalID	Name	English	Alignment	Person	GrammaticalNumber	Gender	Sequence
 2du_s	97	97	2nd Person Dual	S	2	du		26
 2du_o	98	98	2nd Person Dual	O	2	du		27
 2du_p	99	99	2nd Person Dual	P	2	du		28
+1tr_a	148	148	1st (excl) Person Trial	A	1	tr		
+1tr_s	149	149	1st (excl) Person Trial	S	1	tr		
+1tr_o	150	150	1st (excl) Person Trial	O	1	tr		
+1tr_p	151	151	1st (excl) Person Trial	P	1	tr		
+12tr_a	152	152	1st (incl) Person Trial	A	12	tr		
+12tr_s	153	153	1st (incl) Person Trial	S	12	tr		
+12tr_o	154	154	1st (incl) Person Trial	O	12	tr		
+12tr_p	155	155	1st (incl) Person Trial	P	12	tr		
+2tr_a	156	156	2nd Person Trial	A	2	tr		
+2tr_s	157	157	2nd Person Trial	S	2	tr		
+2tr_o	158	158	2nd Person Trial	O	2	tr		
+2tr_p	159	159	2nd Person Trial	P	2	tr		
+3tr_a	160	160	3rd Person Trial	A	3	tr		
+3tr_s	161	161	3rd Person Trial	S	3	tr		
+3tr_o	162	162	3rd Person Trial	O	3	tr		
+3tr_p	163	163	3rd Person Trial	P	3	tr		

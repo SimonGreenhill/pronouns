@@ -23,8 +23,8 @@ Available online at https://pdb.simon.net.nz
 ![Source: 99%](https://img.shields.io/badge/Source-99%25-brightgreen.svg "Source: 99%")
 
 - **Varieties:** 718
-- **Concepts:** 76
-- **Lexemes:** 43,012
+- **Concepts:** 92
+- **Lexemes:** 43,071
 - **Sources:** 590
 - **Synonymy:** 1.10
 
@@ -32,7 +32,7 @@ Available online at https://pdb.simon.net.nz
 
 
 
-- Entries missing sources: 220/43012 (0.51%)
+- Entries missing sources: 220/43071 (0.51%)
 
 # Contributors
 

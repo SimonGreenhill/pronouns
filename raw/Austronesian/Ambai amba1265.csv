@@ -1,11 +1,11 @@
 word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
 amer-,,1pl_a,,,,,,amba1265,Silzer1983
 amer-,,1pl_s,,,,,,amba1265,Silzer1983
-amea,,1pl_o,,,,"'The Ambai pronouns are not used as free forms in Subject position. Person and number information is already marked on the verb by subject prefixes.' Silzer (1983:122) Therefore the subject pronominal forms that are prefixed to verbs are included here.",,amba1265,Silzer1983
+amea,,1pl_o,,,,,,amba1265,Silzer1983
 antor-,,1tr_a,,,,,,amba1265,Silzer1983
-antor-,,1tr_s,,,,"Note the pronominal possessive forms are either circumfixes (duals, trials and plurals) or suffixes (singulars).",,amba1265,Silzer1983
+antor-,,1tr_s,,,,,,amba1265,Silzer1983
 antoru,,1tr_o,,,,,,amba1265,Silzer1983
-tur-,,1du_a,,,,tr stands for trial forms,,amba1265,Silzer1983
+tur-,,1du_a,,,,,,amba1265,Silzer1983
 tur-,,1du_s,,,,,,amba1265,Silzer1983
 auru,,1du_o,,,,,,amba1265,Silzer1983
 cor-,,3tr_a,,,,,,amba1265,Silzer1983

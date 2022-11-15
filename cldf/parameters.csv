@@ -75,3 +75,19 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,LocalID,Slug,Person,Number,Gender,Align
 2du_s,2nd Person Dual,,,97,,2,74,,S,26
 2du_o,2nd Person Dual,,,98,,2,75,,O,27
 2du_p,2nd Person Dual,,,99,,2,76,,P,28
+1tr_a,1st (excl) Person Trial,,,148,,1,77,,A,
+1tr_s,1st (excl) Person Trial,,,149,,1,78,,S,
+1tr_o,1st (excl) Person Trial,,,150,,1,79,,O,
+1tr_p,1st (excl) Person Trial,,,151,,1,80,,P,
+12tr_a,1st (incl) Person Trial,,,152,,12,81,,A,
+12tr_s,1st (incl) Person Trial,,,153,,12,82,,S,
+12tr_o,1st (incl) Person Trial,,,154,,12,83,,O,
+12tr_p,1st (incl) Person Trial,,,155,,12,84,,P,
+2tr_a,2nd Person Trial,,,156,,2,85,,A,
+2tr_s,2nd Person Trial,,,157,,2,86,,S,
+2tr_o,2nd Person Trial,,,158,,2,87,,O,
+2tr_p,2nd Person Trial,,,159,,2,88,,P,
+3tr_a,3rd Person Trial,,,160,,3,89,,A,
+3tr_s,3rd Person Trial,,,161,,3,90,,S,
+3tr_o,3rd Person Trial,,,162,,3,91,,O,
+3tr_p,3rd Person Trial,,,163,,3,92,,P,
