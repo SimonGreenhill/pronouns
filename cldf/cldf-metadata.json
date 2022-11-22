@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/SimonGreenhill/pronouns",
             "rdf:type": "prov:Entity",
-            "dc:created": "e55c2e8",
+            "dc:created": "2e44d69",
             "dc:title": "Repository"
         },
         {
@@ -112,10 +112,6 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "LocalID"
                     },
                     {
                         "datatype": "string",

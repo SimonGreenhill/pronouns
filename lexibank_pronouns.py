@@ -44,7 +44,6 @@ class PronounConcept(pylexibank.Concept):
 
 @attr.s
 class PronounLexeme(pylexibank.Lexeme):
-    LocalID = attr.ib(default=None)
     Comment = attr.ib(default=None)
     Paradigm_ID = attr.ib(default=None)
 
@@ -116,6 +115,11 @@ class Dataset(pylexibank.Dataset):
             lookup_factory=lambda x: x['Filename']
         )
         
+        # get paradigm IDs
+        paradigms = {
+            r['ID']: r['LocalID'] for r in self.etc_dir.read_csv('languages.tsv', delimiter="\t", dicts=True)
+        }
+        
         concepts = args.writer.add_concepts(id_factory="id")
 
         filenames = list(sorted(self.raw_dir.glob("*/*.csv")))
@@ -128,10 +132,13 @@ class Dataset(pylexibank.Dataset):
                 logging.warn("WARNING: Unknown parameter %s: %r" % (filename, record['parameter']))
                 continue
             
+            lang_id = languages.get(filename, slug(language))
+            
             lex = args.writer.add_forms_from_value(
-                Language_ID=languages.get(filename, slug(language)),
+                Language_ID=lang_id,
                 Parameter_ID=record['parameter'],
                 Value=record['word'],
                 Source=record['source'],
                 Comment=record['comment'],
+                Paradigm_ID=paradigms.get(lang_id)
             )
