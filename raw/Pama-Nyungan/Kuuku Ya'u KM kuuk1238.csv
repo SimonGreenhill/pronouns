@@ -1,0 +1,76 @@
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+ŋayu,,1sg_a,1st singular transitive subject,,,,,kuuk1238,thompson-1988
+ŋataana,,1sg_o,1st singular transitive object,,,,,kuuk1238,thompson-1988
+ŋataaŋku,,1sg_p,1st singular possessive,,,,,kuuk1238,thompson-1988
+ŋali,,12du_a,1st dual inclusive transitive subject,,,,,kuuk1238,thompson-1988
+ŋali,,12du_s,1st dual inclusive intransitive subject,,,,,kuuk1238,thompson-1988
+ŋaliina,,12du_o,1st dual inclusive transitive object,,,,,kuuk1238,thompson-1988
+ŋaliiŋku,,12du_p,1st dual inclusive possessive,,,,,kuuk1238,thompson-1988
+,,1du_a,1st dual exclusive transitive subject,,,only dual in the first person and no dual exclusive,,kuuk1238,thompson-1988
+,,1du_s,1st dual exclusive intransitive subject,,,,,kuuk1238,
+,,1du_o,1st dual exclusive transitive object,,,,,kuuk1238,
+,,1du_p,1st dual exclusive possessive,,,,,kuuk1238,
+ŋampula,,12pl_a,1st plural inclusive transitive subject,,,,,kuuk1238,thompson-1988
+ŋampula,,12pl_s,1st plural inclusive intransitive subject,,,,,kuuk1238,thompson-1988
+ŋampulana,,12pl_o,1st plural inclusive transitive object,,,,,kuuk1238,thompson-1988
+ŋampuluŋku,,12pl_p,1st plural inclusive possessive,,,,,kuuk1238,thompson-1988
+ŋana,,1pl_a,1st plural exclusive transitive subject,,,,,kuuk1238,thompson-1988
+ŋana,,1pl_s,1st plural exclusive intransitive subject,,,,,kuuk1238,thompson-1988
+ŋanaana,,1pl_o,1st plural exclusive transitive object,,,,,kuuk1238,thompson-1988
+ŋanaaŋku,,1pl_p,1st plural exclusive possessive,,,,,kuuk1238,thompson-1988
+ŋunu,,2sg_a,2nd singular transitive subject,,,,,kuuk1238,thompson-1988
+ŋunu,,2sg_s,2nd singular intransitive subject,,,,,kuuk1238,thompson-1988
+ŋaŋkaana,,2sg_o,2nd singular transitive object,,,,,kuuk1238,thompson-1988
+"ŋaŋkaaŋku, ŋaŋka",,2sg_p,2nd singular possessive,,,,,kuuk1238,thompson-1988
+,,2du_a,2nd dual transitive subject,,,,,kuuk1238,
+,,2du_s,2nd dual intransitive subject,,,,,kuuk1238,
+,,2du_o,2nd dual transitive object,,,,,kuuk1238,
+,,2du_p,2nd dual possessive,,,,,kuuk1238,
+ŋu'ula,,2pl_a,2nd plural transitive subject,,,,,kuuk1238,thompson-1988
+ŋu'ula,,2pl_s,2nd plural intransitive subject,,,,,kuuk1238,thompson-1988
+ŋu'ulana,,2pl_o,2nd plural transitive object,,,,,kuuk1238,thompson-1988
+ŋu'uluŋku,,2pl_p,2nd plural possessive,,,,,kuuk1238,thompson-1988
+ŋulu,,3sg_m_a,3rd singular gender1 transitive subject,,,no gender distinction,,kuuk1238,thompson-1988
+ŋulu,,3sg_m_s,3rd singular gender1 intransitive subject,,,,,kuuk1238,thompson-1988
+ŋuŋaana,,3sg_m_o,3rd singular gender1 transitive object,,,,,kuuk1238,thompson-1988
+ŋuŋaaŋku,,3sg_m_p,3rd singular gender1 possessive,,,,,kuuk1238,thompson-1988
+,,3sg_f_a,3rd singular gender2 transitive subject,,,,,kuuk1238,
+,,3sg_f_s,3rd singular gender2 intransitive subject,,,,,kuuk1238,
+,,3sg_f_o,3rd singular gender2 transitive object,,,,,kuuk1238,
+,,3sg_f_p,3rd singular gender2 possessive,,,,,kuuk1238,
+,,3d-a,3rd dual transitive subject,,,,,kuuk1238,
+,,3d-s,3rd dual intransitive subject,,,,,kuuk1238,
+,,3d-o,3rd dual transitive object,,,,,kuuk1238,
+,,3d-p,3rd dual possessive,,,,,kuuk1238,
+pula,,3p-a,3rd plural transitive subject,,,,,kuuk1238,thompson-1988
+pula,,3p-s,3rd plural intransitive subject,,,,,kuuk1238,thompson-1988
+pulaana,,3p-o,3rd plural transitive object,,,,,kuuk1238,thompson-1988
+pulaaŋku,,3p-p,3rd plural possessive,,,,,kuuk1238,thompson-1988
+,,3du_m_a,3rd dual gender1 transitive subject,,,,,,
+,,3du_m_s,3rd dual gender1 intransitive subject,,,,,,
+,,3du_m_o,3rd dual gender1 transitive object,,,,,,
+,,3du_m_p,3rd dual gender1 possessive,,,,,,
+,,3du_f_a,3rd dual gender2 transitive subject,,,,,,
+,,3du_f_s,3rd dual gender2 intransitive subject,,,,,,
+,,3du_f_o,3rd dual gender2 transitive object,,,,,,
+,,3du_f_p,3rd dual gender2 possessive,,,,,,
+,,3du_n_a,3rd dual gender3 transitive subject,,,,,,
+,,3du_n_s,3rd dual gender3 intransitive subject,,,,,,
+,,3du_n_o,3rd dual gender3 transitive object,,,,,,
+,,3du_n_p,3rd dual gender3 possessive,,,,,,
+,,3pl_m_a,3rd plural gender1 transitive subject,,,,,,
+,,3pl_m_s,3rd plural gender1 intransitive subject,,,,,,
+,,3pl_m_o,3rd plural gender1 transitive object,,,,,,
+,,3pl_m_p,3rd plural gender1 possessive,,,,,,
+,,3pl_f_a,3rd plural gender2 transitive subject,,,,,,
+,,3pl_f_s,3rd plural gender2 intransitive subject,,,,,,
+,,3pl_f_o,3rd plural gender2 transitive object,,,,,,
+,,3pl_f_p,3rd plural gender2 possessive,,,,,,
+,,3pl_n_a,3rd plural gender3 transitive subject,,,,,,
+,,3pl_n_s,3rd plural gender3 intransitive subject,,,,,,
+,,3pl_n_o,3rd plural gender3 transitive object,,,,,,
+,,3pl_n_p,3rd plural gender3 possessive,,,,,,
+,,3sg_n_a,3rd singular gender3 transitive subject,,,,,,
+,,3sg_n_s,3rd singular gender3 intransitive subject,,,,,,
+,,3sg_n_o,3rd singular gender3 transitive object,,,,,,
+,,3sg_n_p,3rd singular gender3 possessive,,,,,,
