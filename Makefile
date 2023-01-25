@@ -1,5 +1,5 @@
 
-GVER="v4.6"
+GVER="v4.7"
 
 .PHONY: cldf
 cldf:

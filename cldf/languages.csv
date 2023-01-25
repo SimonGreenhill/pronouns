@@ -32,7 +32,7 @@ ungarinyin,Ungarinyin,ngar1284,Ngarinyin,ung,Australia,-16.4006,126.433,Worrorra
 maranunggu,Maranunggu,mara1386,Maranunggu,zmr,Australia,-13.6754,130.12,Western Daly,36,,,Maranunggu mara1386.csv,,Free,Stef Spronck
 malakmalak,Malak-Malak,mull1237,Mullukmulluk,mpb,Australia,-13.427,130.664,Northern Daly,37,,,Malak-Malak mull1237.csv,,Free,Stef Spronck
 kalkutungu,Kalkutungu,kalk1246,Kalkutung,ktg,Australia,-21.0,139.5,Pama-Nyungan,38,,,Kalkutungu kalk1246.csv,,Free,Stef Spronck
-ritharrngu,Ritharrngu,rita1239,Ritarungo,rit,Australia,-13.4559,135.259,Pama-Nyungan,39,,,Ritharrngu rita1239.csv,,Free,Stef Spronck
+ritharrngu,Ritharrngu,rita1239,Ritharrngu,rit,Australia,-13.4559,135.259,Pama-Nyungan,39,,,Ritharrngu rita1239.csv,,Free,Stef Spronck
 garlali,Garlali,kala1380,Bulloo River,gll,Australia,-28.136,143.929,Pama-Nyungan,41,,,Garlali kala1380.csv,,Free,Stef Spronck
 paakantyi,Paakantyi,darl1243,Paakantyi,drl,Australia,-32.7021,142.695,Pama-Nyungan,42,,,Paakantyi darl1243.csv,,Free,Stef Spronck
 wandarang,Wandarang,wand1263,Wandarang,wnd,Australia,-14.2996,135.705,Mangarrayi-Maran,43,,,Wandarang wand1263.csv,,Free,Stef Spronck
@@ -220,9 +220,9 @@ mansim,Mansim,hata1243,Hatam,had,Papunesia,-1.13531,134.037,Hatam-Mansim,254,,,M
 hatam,Hatam,hata1243,Hatam,had,Papunesia,-1.13531,134.037,Hatam-Mansim,255,,,Hatam hata1243.csv,,Free,Nick Evans
 toaripi,Toaripi,toar1246,Toaripi,tqo,Papunesia,-8.07231,146.206,Eleman,256,,,Toaripi toar1246.csv,,Free,Nick Evans
 orokolo,Orokolo,orok1267,Orokolo,oro,Papunesia,-7.81309,145.34,Eleman,257,,,Orokolo orok1267.csv,"The Orokolo dual subject forms show an extraordinary diversity, the second and third person having no less than five variants.",Free,Oscar McLoughlin-Ning
-fuyug,Fuyug,fuyu1242,Fuyug,fuy,Papunesia,-8.6371,147.312,Goilalan,258,,,Fuyug fuyu1242.csv,"The genitive clitic  =l has a variant form =le, which is often used after the third person pronoun",Free,Nick Evans
-biangai,Biangai,bian1252,Biangai,big,Papunesia,-7.33882,146.765,Goilalan,259,,,Biangai bian1252.csv,Free pronouns can't be used for object.,Free,Oscar McLoughlin-Ning
-kunimaipa,Kunimaipa,kuni1267,Kunimaipa,kup,Papunesia,-8.09371,146.908,Goilalan,260,,,Kunimaipa kuni1267.csv,,Free,Oscar McLoughlin-Ning
+fuyug,Fuyug,fuyu1242,Fuyug,fuy,Papunesia,-8.6371,147.312,Fuyug,258,,,Fuyug fuyu1242.csv,"The genitive clitic  =l has a variant form =le, which is often used after the third person pronoun",Free,Nick Evans
+biangai,Biangai,bian1252,Biangai,big,Papunesia,-7.33882,146.765,Kunimaipan,259,,,Biangai bian1252.csv,Free pronouns can't be used for object.,Free,Oscar McLoughlin-Ning
+kunimaipa,Kunimaipa,kuni1267,Kunimaipa,kup,Papunesia,-8.09371,146.908,Kunimaipan,260,,,Kunimaipa kuni1267.csv,,Free,Oscar McLoughlin-Ning
 kakiae,Kaki Ae,kaki1249,Kaki Ae,tbd,Papunesia,-7.9946,145.816,Kaki Ae,261,,,Kaki Ae kaki1249.csv,,Free,Oscar McLoughlin-Ning
 kamula,Kamula,kamu1260,Kamula,xla,Papunesia,-7.28798,142.639,Kamula-Elevala,262,,,Kamula kamu1260.csv,The 1sg forms is transcribed /na:/ in the source where : is length.,Free,Oscar McLoughlin-Ning
 urama,"Kiwai, Northeast",uram1241,Urama,,Papunesia,,,Kiwaian,263,Urama,,Urama uram1241.csv,,Free,Oscar McLoughlin-Ning
@@ -348,7 +348,7 @@ gapapaiwa,Gapapaiwa,gapa1238,Gapapaiwa,pwg,Papunesia,-9.73317,149.854,Austronesi
 gapapaiwa_b,Gapapaiwa,gapa1238,Gapapaiwa,pwg,Papunesia,-9.73317,149.854,Austronesian,394,,,Gapapaiwa [bound] gapa1238.csv,,Bound,Oscar McLoughlin-Ning
 sudest,Sudest,sude1239,Sudest,tgo,Papunesia,-11.5229,153.488,Austronesian,395,,,Sudest sude1239.csv,,Free,Nick Evans
 colljakartan,Indonesian,indo1316,Standard Indonesian,ind,Papunesia,-7.33458,109.716,Austronesian,396,Colloquial Jakartan,,Indonesian (Colloquial Jakartan) indo1316.csv,"The forms listed below are given using the system of transcription employed in Sneddon (2006). The first person singular form 'gua' listed below most commonly occurs in the speech of younger people and in informal situations (Sneddon 2006:59). The form 'saya' is the first person singular pronoun most favoured by older speakers (Sneddon 2006:59). In addition, the form 'gue' is described by Snedden (2006:59) as occurring in free variation with 'gua', although the latter form occurs more frequently in the speech of most people. In addition to this, the first person plural form 'kita' functions as both an exclusive and inclusive form with the Formal Indonesian exclusive pronoun 'kami' occurring very infrequently and often in a way that does not preserve its function as an exclusive pronoun (Sneddon 2006:62). With respect to the second person pronoun 'elu', a range of other forms, including a very seldom occurring set of exclusively plural second person forms, are also described by Sneddon (2006:64-6). Finally, the third person singular pronoun 'dia' can function as a plural form in a certain number of contexts although this usage is not typical for human referents (Sneddon 2006:67-8). ",Free,Nick Evans
-southefate_b,South Efate,sout2856,South Efate,erk,Papunesia,-17.7006,168.377,Austronesian,397,,,South Efate [bound] sout2856.csv,,Bound,Oscar McLoughlin-Ning
+southefate_b,South Efate,sout2856,Nafsan,erk,Papunesia,-17.7006,168.377,Austronesian,397,,,South Efate [bound] sout2856.csv,,Bound,Oscar McLoughlin-Ning
 kokota_b,Kokota,koko1269,Kokota,kkk,Papunesia,-8.16481,159.191,Austronesian,398,,,Kokota [bound] koko1269.csv,,Bound,Oscar McLoughlin-Ning
 mavea_b,Mavea,mafe1237,Mafea,mkv,Papunesia,-15.4316,167.241,Austronesian,399,,,Mavea [bound] mafe1237.csv,,Bound,Oscar McLoughlin-Ning
 iraqiarabic,Iraqi Arabic,meso1252,Gilit Mesopotamian Arabic,acm,Eurasia,33.8178,43.1095,Afro-Asiatic,400,,,Iraqi Arabic meso1252.csv,"A number of the O and P forms listed below have allomorphic alternants that appear when the relevant pronouns are suffixed to a stem with a final vowel, see Erwin (1963:272) for a table displaying these alternate forms.",Free,Oscar McLoughlin-Ning
@@ -627,7 +627,7 @@ guuguyimidhirr,Guugu Yimidhirr,gugu1255,Guugu Yimidhirr,kky,Australia,-14.9424,1
 kuukuyau,Kuuku Ya'u,kuuk1238,Kuuku-Ya'u,kuy,Australia,-12.4947,143.165,Pama-Nyungan,696,,,Kuuku Ya'u kuuk1238.csv,,Free,Louise Baird
 yidiny,Yidiny,yidi1250,Yidiñ,yii,Australia,-17.1332,145.876,Pama-Nyungan,697,,,Yidiny yidi1250.csv,"Deictics are used in a comparable way to third person pronouns in other languages. They have been provided in the cells for third persons. The decitics vary for distance from speaker, whether the referent is human or inanimate, definiteness, as well as case. Here the case-inflected, definite, human, near deictic has been entered.",Free,Louise Baird
 yei,Yei,yeii1239,Yei,jei,Papunesia,-7.87489,140.863,Yam,698,,,Yei yeii1239.csv,Po village,Free,Matt Carroll
-southefate,South Efate,sout2856,South Efate,erk,Papunesia,-17.7006,168.377,Austronesian,700,,,South Efate sout2856.csv,,Free,Louise Baird
+southefate,South Efate,sout2856,Nafsan,erk,Papunesia,-17.7006,168.377,Austronesian,700,,,South Efate sout2856.csv,,Free,Louise Baird
 tauya_b,Tauya,tauy1241,Tauya,tya,Papunesia,-5.74255,145.366,Nuclear Trans New Guinea,701,,,Tauya [bound] tauy1241.csv,"The possessive forms listed below appear as proclitics attached to possessed animate nouns (MacDonald 2013:7). Inanimate possessed nouns are typically not marked (MacDonald 2013:7). Similarly, the object forms listed appear as proclitics attached to transitive verbs (MacDonald 2013:7). In addition, third person singular objects and possessors are typically unmarked in the language (MacDonald 2013:7). Hence, the numeral '0' has been entered in the relevant cells below.",Bound,Louise Baird
 achangxiandao,Achang-Xiandao,xian1249,Xiandao,xia,Eurasia,24.5458,97.9052,Sino-Tibetan,800,,,Achang-Xiandao xian1249.csv,,Free,Kyla Quinn
 achterhoeks,Achterhoeks,acht1238,Achterhoeks,act,Eurasia,52.021,6.47521,Indo-European,801,,,Achterhoeks acht1238.csv,,Free,Kyla Quinn

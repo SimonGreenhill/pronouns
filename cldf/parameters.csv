@@ -1,93 +1,93 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss,LocalID,Slug,Person,Number,Gender,Alignment,Sequence
-2pl_a,2nd Person Plural,,,100,,2,1,,A,29
-2pl_s,2nd Person Plural,,,101,,2,2,,S,30
-2pl_o,2nd Person Plural,,,102,,2,3,,O,31
-2pl_p,2nd Person Plural,,,103,,2,4,,P,32
-3sg_m_a,3rd Person Singular Masculine,,,104,,3,5,M,A,33
-3sg_m_s,3rd Person Singular Masculine,,,105,,3,6,M,S,34
-3sg_m_o,3rd Person Singular Masculine,,,106,,3,7,M,O,35
-3sg_m_p,3rd Person Singular Masculine,,,107,,3,8,M,P,36
-3sg_f_a,3rd Person Singular Feminine,,,108,,3,9,F,A,
-3sg_f_s,3rd Person Singular Feminine,,,109,,3,10,F,S,
-3sg_f_o,3rd Person Singular Feminine,,,110,,3,11,F,O,
-3sg_f_p,3rd Person Singular Feminine,,,111,,3,12,F,O,
-3sg_n_a,3rd Person Singular Neuter,,,112,,3,13,N,A,41
-3sg_n_s,3rd Person Singular Neuter,,,113,,3,14,N,S,42
-3sg_n_o,3rd Person Singular Neuter,,,114,,3,15,N,O,43
-3sg_n_p,3rd Person Singular Neuter,,,115,,3,16,N,P,44
-3du_m_a,3rd Person Dual Masculine,,,116,,3,17,M,A,
-3du_m_s,3rd Person Dual Masculine,,,117,,3,18,M,S,
-3du_m_o,3rd Person Dual Masculine,,,118,,3,19,M,O,
-3du_m_p,3rd Person Dual Masculine,,,119,,3,20,M,P,
-3du_f_a,3rd Person Dual Feminine,,,120,,3,21,F,A,
-3du_f_s,3rd Person Dual Feminine,,,121,,3,22,F,S,
-3du_f_o,3rd Person Dual Feminine,,,122,,3,23,F,O,
-3du_f_p,3rd Person Dual Feminine,,,123,,3,24,F,P,
-3du_n_a,3rd Person Dual Neuter,,,124,,3,25,N,A,
-3du_n_s,3rd Person Dual Neuter,,,125,,3,26,N,S,
-3du_n_o,3rd Person Dual Neuter,,,126,,3,27,N,O,
-3du_n_p,3rd Person Dual Neuter,,,127,,3,28,N,P,
-3pl_m_a,3rd Person Plural Masculine,,,128,,3,29,M,A,
-3pl_m_s,3rd Person Plural Masculine,,,129,,3,30,M,S,
-3pl_m_o,3rd Person Plural Masculine,,,130,,3,31,M,O,
-3pl_m_p,3rd Person Plural Masculine,,,131,,3,32,M,P,
-3pl_f_a,3rd Person Plural Feminine,,,132,,3,33,F,A,
-3pl_f_s,3rd Person Plural Feminine,,,133,,3,34,F,S,
-3pl_f_o,3rd Person Plural Feminine,,,134,,3,35,F,O,
-3pl_f_p,3rd Person Plural Feminine,,,135,,3,36,F,P,
-3pl_n_a,3rd Person Plural Neuter,,,136,,3,37,N,A,
-3pl_n_s,3rd Person Plural Neuter,,,137,,3,38,N,S,
-3pl_n_o,3rd Person Plural Neuter,,,138,,3,39,N,O,
-3pl_n_p,3rd Person Plural Neuter,,,139,,3,40,N,P,
-3d-a,3rd Person Dual,,,140,,3,41,,A,45
-3d-s,3rd Person Dual,,,141,,3,42,,S,46
-3d-o,3rd Person Dual,,,142,,3,43,,O,47
-3d-p,3rd Person Dual,,,143,,3,44,,P,48
-3p-a,3rd Person Plural,,,144,,3,45,,A,57
-3p-s,3rd Person Plural,,,145,,3,46,,S,58
-3p-o,3rd Person Plural,,,146,,3,47,,O,59
-3p-p,3rd Person Plural,,,147,,3,48,,P,60
-1sg_a,1st (excl) Person Singular,,,72,,1,49,,A,1
-1sg_s,1st (excl) Person Singular,,,73,,1,50,,S,2
-1sg_o,1st (excl) Person Singular,,,74,,1,51,,O,3
-1sg_p,1st (excl) Person Singular,,,75,,1,52,,P,4
-1du_a,1st (excl) Person Dual,,,76,,1,53,,A,5
-1du_s,1st (excl) Person Dual,,,77,,1,54,,S,6
-1du_o,1st (excl) Person Dual,,,78,,1,55,,O,7
-1du_p,1st (excl) Person Dual,,,79,,1,56,,P,8
-1pl_a,1st (excl) Person Plural,,,80,,1,57,,A,9
-1pl_s,1st (excl) Person Plural,,,81,,1,58,,S,10
-1pl_o,1st (excl) Person Plural,,,82,,1,59,,O,11
-1pl_p,1st (excl) Person Plural,,,83,,1,60,,P,12
-12du_a,1st (incl) Person Dual,,,84,,12,61,,A,13
-12du_s,1st (incl) Person Dual,,,85,,12,62,,S,14
-12du_o,1st (incl) Person Dual,,,86,,12,63,,O,15
-12du_p,1st (incl) Person Dual,,,87,,12,64,,P,16
-12pl_a,1st (incl) Person Plural,,,88,,12,65,,A,17
-12pl_s,1st (incl) Person Plural,,,89,,12,66,,S,18
-12pl_o,1st (incl) Person Plural,,,90,,12,67,,O,19
-12pl_p,1st (incl) Person Plural,,,91,,12,68,,P,20
-2sg_a,2nd Person Singular,,,92,,2,69,,A,21
-2sg_s,2nd Person Singular,,,93,,2,70,,S,22
-2sg_o,2nd Person Singular,,,94,,2,71,,O,23
-2sg_p,2nd Person Singular,,,95,,2,72,,P,24
-2du_a,2nd Person Dual,,,96,,2,73,,A,25
-2du_s,2nd Person Dual,,,97,,2,74,,S,26
-2du_o,2nd Person Dual,,,98,,2,75,,O,27
-2du_p,2nd Person Dual,,,99,,2,76,,P,28
-1tr_a,1st (excl) Person Trial,,,148,,1,77,,A,
-1tr_s,1st (excl) Person Trial,,,149,,1,78,,S,
-1tr_o,1st (excl) Person Trial,,,150,,1,79,,O,
-1tr_p,1st (excl) Person Trial,,,151,,1,80,,P,
-12tr_a,1st (incl) Person Trial,,,152,,12,81,,A,
-12tr_s,1st (incl) Person Trial,,,153,,12,82,,S,
-12tr_o,1st (incl) Person Trial,,,154,,12,83,,O,
-12tr_p,1st (incl) Person Trial,,,155,,12,84,,P,
-2tr_a,2nd Person Trial,,,156,,2,85,,A,
-2tr_s,2nd Person Trial,,,157,,2,86,,S,
-2tr_o,2nd Person Trial,,,158,,2,87,,O,
-2tr_p,2nd Person Trial,,,159,,2,88,,P,
-3tr_a,3rd Person Trial,,,160,,3,89,,A,
-3tr_s,3rd Person Trial,,,161,,3,90,,S,
-3tr_o,3rd Person Trial,,,162,,3,91,,O,
-3tr_p,3rd Person Trial,,,163,,3,92,,P,
+ID,Name,Concepticon_ID,Concepticon_Gloss,LocalID,English,Alignment,Person,GrammaticalNumber,Gender,Sequence
+2pl_a,2nd Person Plural,,,100,2nd Person Plural,A,2,pl,,29
+2pl_s,2nd Person Plural,,,101,2nd Person Plural,S,2,pl,,30
+2pl_o,2nd Person Plural,,,102,2nd Person Plural,O,2,pl,,31
+2pl_p,2nd Person Plural,,,103,2nd Person Plural,P,2,pl,,32
+3sg_m_a,3rd Person Singular Masculine,,,104,3rd Person Singular Masculine,A,3,sg,M,33
+3sg_m_s,3rd Person Singular Masculine,,,105,3rd Person Singular Masculine,S,3,sg,M,34
+3sg_m_o,3rd Person Singular Masculine,,,106,3rd Person Singular Masculine,O,3,sg,M,35
+3sg_m_p,3rd Person Singular Masculine,,,107,3rd Person Singular Masculine,P,3,sg,M,36
+3sg_f_a,3rd Person Singular Feminine,,,108,3rd Person Singular Feminine,A,3,sg,F,
+3sg_f_s,3rd Person Singular Feminine,,,109,3rd Person Singular Feminine,S,3,sg,F,
+3sg_f_o,3rd Person Singular Feminine,,,110,3rd Person Singular Feminine,O,3,sg,F,
+3sg_f_p,3rd Person Singular Feminine,,,111,3rd Person Singular Feminine,O,3,sg,F,
+3sg_n_a,3rd Person Singular Neuter,,,112,3rd Person Singular Neuter,A,3,sg,N,41
+3sg_n_s,3rd Person Singular Neuter,,,113,3rd Person Singular Neuter,S,3,sg,N,42
+3sg_n_o,3rd Person Singular Neuter,,,114,3rd Person Singular Neuter,O,3,sg,N,43
+3sg_n_p,3rd Person Singular Neuter,,,115,3rd Person Singular Neuter,P,3,sg,N,44
+3du_m_a,3rd Person Dual Masculine,,,116,3rd Person Dual Masculine,A,3,du,M,
+3du_m_s,3rd Person Dual Masculine,,,117,3rd Person Dual Masculine,S,3,du,M,
+3du_m_o,3rd Person Dual Masculine,,,118,3rd Person Dual Masculine,O,3,du,M,
+3du_m_p,3rd Person Dual Masculine,,,119,3rd Person Dual Masculine,P,3,du,M,
+3du_f_a,3rd Person Dual Feminine,,,120,3rd Person Dual Feminine,A,3,du,F,
+3du_f_s,3rd Person Dual Feminine,,,121,3rd Person Dual Feminine,S,3,du,F,
+3du_f_o,3rd Person Dual Feminine,,,122,3rd Person Dual Feminine,O,3,du,F,
+3du_f_p,3rd Person Dual Feminine,,,123,3rd Person Dual Feminine,P,3,du,F,
+3du_n_a,3rd Person Dual Neuter,,,124,3rd Person Dual Neuter,A,3,du,N,
+3du_n_s,3rd Person Dual Neuter,,,125,3rd Person Dual Neuter,S,3,du,N,
+3du_n_o,3rd Person Dual Neuter,,,126,3rd Person Dual Neuter,O,3,du,N,
+3du_n_p,3rd Person Dual Neuter,,,127,3rd Person Dual Neuter,P,3,du,N,
+3pl_m_a,3rd Person Plural Masculine,,,128,3rd Person Plural Masculine,A,3,pl,M,
+3pl_m_s,3rd Person Plural Masculine,,,129,3rd Person Plural Masculine,S,3,pl,M,
+3pl_m_o,3rd Person Plural Masculine,,,130,3rd Person Plural Masculine,O,3,pl,M,
+3pl_m_p,3rd Person Plural Masculine,,,131,3rd Person Plural Masculine,P,3,pl,M,
+3pl_f_a,3rd Person Plural Feminine,,,132,3rd Person Plural Feminine,A,3,pl,F,
+3pl_f_s,3rd Person Plural Feminine,,,133,3rd Person Plural Feminine,S,3,pl,F,
+3pl_f_o,3rd Person Plural Feminine,,,134,3rd Person Plural Feminine,O,3,pl,F,
+3pl_f_p,3rd Person Plural Feminine,,,135,3rd Person Plural Feminine,P,3,pl,F,
+3pl_n_a,3rd Person Plural Neuter,,,136,3rd Person Plural Neuter,A,3,pl,N,
+3pl_n_s,3rd Person Plural Neuter,,,137,3rd Person Plural Neuter,S,3,pl,N,
+3pl_n_o,3rd Person Plural Neuter,,,138,3rd Person Plural Neuter,O,3,pl,N,
+3pl_n_p,3rd Person Plural Neuter,,,139,3rd Person Plural Neuter,P,3,pl,N,
+3d-a,3rd Person Dual,,,140,3rd Person Dual,A,3,du,,45
+3d-s,3rd Person Dual,,,141,3rd Person Dual,S,3,du,,46
+3d-o,3rd Person Dual,,,142,3rd Person Dual,O,3,du,,47
+3d-p,3rd Person Dual,,,143,3rd Person Dual,P,3,du,,48
+3p-a,3rd Person Plural,,,144,3rd Person Plural,A,3,pl,,57
+3p-s,3rd Person Plural,,,145,3rd Person Plural,S,3,pl,,58
+3p-o,3rd Person Plural,,,146,3rd Person Plural,O,3,pl,,59
+3p-p,3rd Person Plural,,,147,3rd Person Plural,P,3,pl,,60
+1sg_a,1st (excl) Person Singular,,,72,1st (excl) Person Singular,A,1,sg,,1
+1sg_s,1st (excl) Person Singular,,,73,1st (excl) Person Singular,S,1,sg,,2
+1sg_o,1st (excl) Person Singular,,,74,1st (excl) Person Singular,O,1,sg,,3
+1sg_p,1st (excl) Person Singular,,,75,1st (excl) Person Singular,P,1,sg,,4
+1du_a,1st (excl) Person Dual,,,76,1st (excl) Person Dual,A,1,du,,5
+1du_s,1st (excl) Person Dual,,,77,1st (excl) Person Dual,S,1,du,,6
+1du_o,1st (excl) Person Dual,,,78,1st (excl) Person Dual,O,1,du,,7
+1du_p,1st (excl) Person Dual,,,79,1st (excl) Person Dual,P,1,du,,8
+1pl_a,1st (excl) Person Plural,,,80,1st (excl) Person Plural,A,1,pl,,9
+1pl_s,1st (excl) Person Plural,,,81,1st (excl) Person Plural,S,1,pl,,10
+1pl_o,1st (excl) Person Plural,,,82,1st (excl) Person Plural,O,1,pl,,11
+1pl_p,1st (excl) Person Plural,,,83,1st (excl) Person Plural,P,1,pl,,12
+12du_a,1st (incl) Person Dual,,,84,1st (incl) Person Dual,A,12,du,,13
+12du_s,1st (incl) Person Dual,,,85,1st (incl) Person Dual,S,12,du,,14
+12du_o,1st (incl) Person Dual,,,86,1st (incl) Person Dual,O,12,du,,15
+12du_p,1st (incl) Person Dual,,,87,1st (incl) Person Dual,P,12,du,,16
+12pl_a,1st (incl) Person Plural,,,88,1st (incl) Person Plural,A,12,pl,,17
+12pl_s,1st (incl) Person Plural,,,89,1st (incl) Person Plural,S,12,pl,,18
+12pl_o,1st (incl) Person Plural,,,90,1st (incl) Person Plural,O,12,pl,,19
+12pl_p,1st (incl) Person Plural,,,91,1st (incl) Person Plural,P,12,pl,,20
+2sg_a,2nd Person Singular,,,92,2nd Person Singular,A,2,sg,,21
+2sg_s,2nd Person Singular,,,93,2nd Person Singular,S,2,sg,,22
+2sg_o,2nd Person Singular,,,94,2nd Person Singular,O,2,sg,,23
+2sg_p,2nd Person Singular,,,95,2nd Person Singular,P,2,sg,,24
+2du_a,2nd Person Dual,,,96,2nd Person Dual,A,2,du,,25
+2du_s,2nd Person Dual,,,97,2nd Person Dual,S,2,du,,26
+2du_o,2nd Person Dual,,,98,2nd Person Dual,O,2,du,,27
+2du_p,2nd Person Dual,,,99,2nd Person Dual,P,2,du,,28
+1tr_a,1st (excl) Person Trial,,,148,1st (excl) Person Trial,A,1,tr,,
+1tr_s,1st (excl) Person Trial,,,149,1st (excl) Person Trial,S,1,tr,,
+1tr_o,1st (excl) Person Trial,,,150,1st (excl) Person Trial,O,1,tr,,
+1tr_p,1st (excl) Person Trial,,,151,1st (excl) Person Trial,P,1,tr,,
+12tr_a,1st (incl) Person Trial,,,152,1st (incl) Person Trial,A,12,tr,,
+12tr_s,1st (incl) Person Trial,,,153,1st (incl) Person Trial,S,12,tr,,
+12tr_o,1st (incl) Person Trial,,,154,1st (incl) Person Trial,O,12,tr,,
+12tr_p,1st (incl) Person Trial,,,155,1st (incl) Person Trial,P,12,tr,,
+2tr_a,2nd Person Trial,,,156,2nd Person Trial,A,2,tr,,
+2tr_s,2nd Person Trial,,,157,2nd Person Trial,S,2,tr,,
+2tr_o,2nd Person Trial,,,158,2nd Person Trial,O,2,tr,,
+2tr_p,2nd Person Trial,,,159,2nd Person Trial,P,2,tr,,
+3tr_a,3rd Person Trial,,,160,3rd Person Trial,A,3,tr,,
+3tr_s,3rd Person Trial,,,161,3rd Person Trial,S,3,tr,,
+3tr_o,3rd Person Trial,,,162,3rd Person Trial,O,3,tr,,
+3tr_p,3rd Person Trial,,,163,3rd Person Trial,P,3,tr,,

@@ -34,11 +34,11 @@ SOURCES_TO_RENAME = {
 @attr.s
 class PronounConcept(pylexibank.Concept):
     LocalID = attr.ib(default=None)
-    Slug = attr.ib(default=None)
-    Person = attr.ib(default=None)
-    Number = attr.ib(default=None)
-    Gender = attr.ib(default=None)
+    English = attr.ib(default=None)
     Alignment = attr.ib(default=None)
+    Person = attr.ib(default=None)
+    GrammaticalNumber = attr.ib(default=None)
+    Gender = attr.ib(default=None)
     Sequence = attr.ib(default=None)
 
 

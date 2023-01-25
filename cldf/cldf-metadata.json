@@ -14,13 +14,13 @@
         {
             "rdf:about": "https://github.com/SimonGreenhill/pronouns",
             "rdf:type": "prov:Entity",
-            "dc:created": "7fcaaea",
+            "dc:created": "d168271",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.6",
+            "dc:created": "v4.7",
             "dc:title": "Glottolog"
         }
     ],
@@ -31,7 +31,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.0b5"
+            "dc:description": "3.11.1"
         },
         {
             "dc:title": "python-packages",
@@ -273,7 +273,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Slug"
+                        "name": "English"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Alignment"
                     },
                     {
                         "datatype": "string",
@@ -281,15 +285,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Number"
+                        "name": "GrammaticalNumber"
                     },
                     {
                         "datatype": "string",
                         "name": "Gender"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Alignment"
                     },
                     {
                         "datatype": "string",
