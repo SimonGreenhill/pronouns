@@ -16,8 +16,7 @@ Available online at https://pdb.simon.net.nz
 
 ## Statistics
 
-
-[![Build Status](https://travis-ci.org/SimonGreenhill/pronouns.svg?branch=master)](https://travis-ci.org/SimonGreenhill/pronouns)
+[![CLDF-validation](https://github.com/SimonGreenhill/pronouns/actions/workflows/python-package.yml/badge.svg)](https://github.com/SimonGreenhill/pronouns/actions/workflows/python-package.yml)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 99%](https://img.shields.io/badge/Source-99%25-brightgreen.svg "Source: 99%")
