@@ -90,7 +90,7 @@ if __name__ == '__main__':
             print("ERROR: L%d - no coder - %s" % (i, s))
         elif row['Coder'] not in CODERS:
             print("ERROR: L%d - bad coder '%s'" % (i, row['Coder']))
-
+        
 
         seen.append(row['Filename'])
         
