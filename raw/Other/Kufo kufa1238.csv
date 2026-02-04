@@ -2,7 +2,7 @@ word,ipa,parameter,description,localid,alternative,comment,translation,glottocod
 "á'á, á",,1sg_a,1st singular transitive subject,,,"ng = /ŋ/, ix = /i/, i = /ɪ/, e = /ɛ/, o = /ɔ/",,kufa1238,mullan2022
 "á'á, á",,1sg_s,1st singular intransitive subject,,,,,kufa1238,mullan2022
 "á'á, á",,1sg_o,1st singular transitive object,,,,,kufa1238,mullan2022
-memé,,1sg_p,1st singular possessive,,,,,kufa1238,mullan2022
+memé,,1sg_p,1st singular possessive,,,,,kufa1238,mullan2022
 ngá,,12du_a,1st dual inclusive transitive subject,,,,,kufa1238,mullan2022
 ngá,,12du_s,1st dual inclusive intransitive subject,,,,,kufa1238,mullan2022
 ngá,,12du_o,1st dual inclusive transitive object,,,,,kufa1238,mullan2022
@@ -39,14 +39,14 @@ maní,,3sg_m_p,3rd singular gender1 possessive,,,,,kufa1238,mullan2022
 "ágú, á",,3sg_f_s,3rd singular gender2 intransitive subject,,,,,kufa1238,mullan2022
 "ágú, á",,3sg_f_o,3rd singular gender2 transitive object,,,,,kufa1238,mullan2022
 manú,,3sg_f_p,3rd singular gender2 possessive,,,,,kufa1238,mullan2022
-"égíx, é",,3d-a,3rd dual transitive subject,,,,,kufa1238,mullan2022
-"égíx, é",,3d-s,3rd dual intransitive subject,,,,,kufa1238,mullan2022
-"égíx, é",,3d-o,3rd dual transitive object,,,,,kufa1238,mullan2022
-mané,,3d-p,3rd dual possessive,,,,,kufa1238,mullan2022
-"égíx, é",,3p-a,3rd plural transitive subject,,,,,kufa1238,mullan2022
-"égíx, é",,3p-s,3rd plural intransitive subject,,,,,kufa1238,mullan2022
-"égíx, é",,3p-o,3rd plural transitive object,,,,,kufa1238,mullan2022
-mané,,3p-p,3rd plural possessive,,,,,kufa1238,mullan2022
+"égíx, é",,3d-a,3rd dual transitive subject,,,,,kufa1238,mullan2022
+"égíx, é",,3d-s,3rd dual intransitive subject,,,,,kufa1238,mullan2022
+"égíx, é",,3d-o,3rd dual transitive object,,,,,kufa1238,mullan2022
+mané,,3d-p,3rd dual possessive,,,,,kufa1238,mullan2022
+"égíx, é",,3p-a,3rd plural transitive subject,,,,,kufa1238,mullan2022
+"égíx, é",,3p-s,3rd plural intransitive subject,,,,,kufa1238,mullan2022
+"égíx, é",,3p-o,3rd plural transitive object,,,,,kufa1238,mullan2022
+mané,,3p-p,3rd plural possessive,,,,,kufa1238,mullan2022
 ,,3du_m_a,3rd dual gender1 transitive subject,,,,,,
 ,,3du_m_s,3rd dual gender1 intransitive subject,,,,,,
 ,,3du_m_o,3rd dual gender1 transitive object,,,,,,
