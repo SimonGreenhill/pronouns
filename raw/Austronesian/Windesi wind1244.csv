@@ -1,52 +1,52 @@
-word,ipa,parameter,description,alternative,comment,translation,glottocode,source
-jau,,1sg_a,,,,,wind1244,1st (excl) Person Singular
-jau,,1sg_s,,,Gaps in the possessive forms are because the grammar doesn't provide all of the forms.,,wind1244,1st (excl) Person Singular
-jau,,1sg_o,,,,,wind1244,1st (excl) Person Singular
-ine,,1sg_p,,,,,wind1244,1st (excl) Person Singular
-nanu,,12du_a,,,,,wind1244,1st (incl) Person Dual
-nanu,,12du_s,,,,,wind1244,1st (incl) Person Dual
-nanu,,12du_o,,,,,wind1244,1st (incl) Person Dual
-tunne,,12du_p,,,,,wind1244,1st (incl) Person Dual
-amu,,1du_a,,,,,wind1244,1st (excl) Person Dual
-amu,,1du_s,,,,,wind1244,1st (excl) Person Dual
-amu,,1du_o,,,,,wind1244,1st (excl) Person Dual
-#,,1du_p,,,,,wind1244,1st (excl) Person Dual
-tata,,12pl_a,,,,,wind1244,1st (incl) Person Plural
-tata,,12pl_s,,,,,wind1244,1st (incl) Person Plural
-tata,,12pl_o,,,,,wind1244,1st (incl) Person Plural
-#,,12pl_p,,,,,wind1244,1st (incl) Person Plural
-ama,,1pl_a,,,,,wind1244,1st (excl) Person Plural
-ama,,1pl_s,,,,,wind1244,1st (excl) Person Plural
-ama,,1pl_o,,,,,wind1244,1st (excl) Person Plural
-#,,1pl_p,,,,,wind1244,1st (excl) Person Plural
-au,,2sg_a,,,,,wind1244,2nd Person Singular
-au,,2sg_s,,,,,wind1244,2nd Person Singular
-au,,2sg_o,,,,,wind1244,2nd Person Singular
-nue,,2sg_p,,,,,wind1244,2nd Person Singular
-manu,,2du_a,,,,,wind1244,2nd Person Dual
-manu,,2du_s,,,,,wind1244,2nd Person Dual
-manu,,2du_o,,,,,wind1244,2nd Person Dual
-munne,,2du_p,,,,,wind1244,2nd Person Dual
-mia,,2pl_a,,,,,wind1244,2nd Person Plural
-mia,,2pl_s,,,,,wind1244,2nd Person Plural
-mia,,2pl_o,,,,,wind1244,2nd Person Plural
-#,,2pl_p,,,,,wind1244,2nd Person Plural
-i,,3sg_m_a,,,,,wind1244,3rd Person Singular Masculine
-i,,3sg_m_s,,,,,wind1244,3rd Person Singular Masculine
-i,,3sg_m_o,,,,,wind1244,3rd Person Singular Masculine
-nie,,3sg_m_p,,,,,wind1244,3rd Person Singular Masculine
-i,,3sg_f_a,,,,,wind1244,3rd Person Singular Feminine
-i,,3sg_f_s,,,,,wind1244,3rd Person Singular Feminine
-i,,3sg_f_o,,,,,wind1244,3rd Person Singular Feminine
-nie,,3sg_f_p,,,,,wind1244,3rd Person Singular Feminine
-sanu,,3d-a,,,,,wind1244,3rd Person Dual
-sanu,,3d-s,,,,,wind1244,3rd Person Dual
-sanu,,3d-o,,,,,wind1244,3rd Person Dual
-senne,,3d-p,,,,,wind1244,3rd Person Dual
-sia,,3p-a,,,human,,wind1244,3rd Person Plural
-sia,,3p-s,,,human,,wind1244,3rd Person Plural
-sia,,3p-o,,,human,,wind1244,3rd Person Plural
-senne,,3p-p,,,human,,wind1244,3rd Person Plural
-si ,,3pl_n_a,,,non-human,,wind1244,3rd Person Plural Neuter
-si ,,3pl_n_s,,,non-human,,wind1244,3rd Person Plural Neuter
-si ,,3pl_n_o,,,non-human,,wind1244,3rd Person Plural Neuter
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+jau,,1sg_a,1st (excl) Person Singular,,,,,wind1244,UNKNOWN
+jau,,1sg_s,1st (excl) Person Singular,,,Gaps in the possessive forms are because the grammar doesn't provide all of the forms.,,wind1244,UNKNOWN
+jau,,1sg_o,1st (excl) Person Singular,,,,,wind1244,UNKNOWN
+ine,,1sg_p,1st (excl) Person Singular,,,,,wind1244,UNKNOWN
+nanu,,12du_a,1st (incl) Person Dual,,,,,wind1244,UNKNOWN
+nanu,,12du_s,1st (incl) Person Dual,,,,,wind1244,UNKNOWN
+nanu,,12du_o,1st (incl) Person Dual,,,,,wind1244,UNKNOWN
+tunne,,12du_p,1st (incl) Person Dual,,,,,wind1244,UNKNOWN
+amu,,1du_a,1st (excl) Person Dual,,,,,wind1244,UNKNOWN
+amu,,1du_s,1st (excl) Person Dual,,,,,wind1244,UNKNOWN
+amu,,1du_o,1st (excl) Person Dual,,,,,wind1244,UNKNOWN
+#,,1du_p,1st (excl) Person Dual,,,,,wind1244,UNKNOWN
+tata,,12pl_a,1st (incl) Person Plural,,,,,wind1244,UNKNOWN
+tata,,12pl_s,1st (incl) Person Plural,,,,,wind1244,UNKNOWN
+tata,,12pl_o,1st (incl) Person Plural,,,,,wind1244,UNKNOWN
+#,,12pl_p,1st (incl) Person Plural,,,,,wind1244,UNKNOWN
+ama,,1pl_a,1st (excl) Person Plural,,,,,wind1244,UNKNOWN
+ama,,1pl_s,1st (excl) Person Plural,,,,,wind1244,UNKNOWN
+ama,,1pl_o,1st (excl) Person Plural,,,,,wind1244,UNKNOWN
+#,,1pl_p,1st (excl) Person Plural,,,,,wind1244,UNKNOWN
+au,,2sg_a,2nd Person Singular,,,,,wind1244,UNKNOWN
+au,,2sg_s,2nd Person Singular,,,,,wind1244,UNKNOWN
+au,,2sg_o,2nd Person Singular,,,,,wind1244,UNKNOWN
+nue,,2sg_p,2nd Person Singular,,,,,wind1244,UNKNOWN
+manu,,2du_a,2nd Person Dual,,,,,wind1244,UNKNOWN
+manu,,2du_s,2nd Person Dual,,,,,wind1244,UNKNOWN
+manu,,2du_o,2nd Person Dual,,,,,wind1244,UNKNOWN
+munne,,2du_p,2nd Person Dual,,,,,wind1244,UNKNOWN
+mia,,2pl_a,2nd Person Plural,,,,,wind1244,UNKNOWN
+mia,,2pl_s,2nd Person Plural,,,,,wind1244,UNKNOWN
+mia,,2pl_o,2nd Person Plural,,,,,wind1244,UNKNOWN
+#,,2pl_p,2nd Person Plural,,,,,wind1244,UNKNOWN
+i,,3sg_m_a,3rd Person Singular Masculine,,,,,wind1244,UNKNOWN
+i,,3sg_m_s,3rd Person Singular Masculine,,,,,wind1244,UNKNOWN
+i,,3sg_m_o,3rd Person Singular Masculine,,,,,wind1244,UNKNOWN
+nie,,3sg_m_p,3rd Person Singular Masculine,,,,,wind1244,UNKNOWN
+i,,3sg_f_a,3rd Person Singular Feminine,,,,,wind1244,UNKNOWN
+i,,3sg_f_s,3rd Person Singular Feminine,,,,,wind1244,UNKNOWN
+i,,3sg_f_o,3rd Person Singular Feminine,,,,,wind1244,UNKNOWN
+nie,,3sg_f_p,3rd Person Singular Feminine,,,,,wind1244,UNKNOWN
+sanu,,3d-a,3rd Person Dual,,,,,wind1244,UNKNOWN
+sanu,,3d-s,3rd Person Dual,,,,,wind1244,UNKNOWN
+sanu,,3d-o,3rd Person Dual,,,,,wind1244,UNKNOWN
+senne,,3d-p,3rd Person Dual,,,,,wind1244,UNKNOWN
+sia,,3p-a,3rd Person Plural,,,human,,wind1244,UNKNOWN
+sia,,3p-s,3rd Person Plural,,,human,,wind1244,UNKNOWN
+sia,,3p-o,3rd Person Plural,,,human,,wind1244,UNKNOWN
+senne,,3p-p,3rd Person Plural,,,human,,wind1244,UNKNOWN
+si ,,3pl_n_a,3rd Person Plural Neuter,,,non-human,,wind1244,UNKNOWN
+si ,,3pl_n_s,3rd Person Plural Neuter,,,non-human,,wind1244,UNKNOWN
+si ,,3pl_n_o,3rd Person Plural Neuter,,,non-human,,wind1244,UNKNOWN
