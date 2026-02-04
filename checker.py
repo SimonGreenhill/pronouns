@@ -8,6 +8,28 @@ from pathlib import Path
 
 EXTENSIONS_TO_IGNORE = ('.py', '.gz', '.zip')
 
+CODERS = [
+    'Amos Teo',
+    'Charlotte van Tongeren',
+    'James Bednall',
+    'Keira Mullan',
+    'Kyla Quinn',
+    'Louise Baird',
+    'Luis Miguel Berscia',
+    'Marie-France Duhamel',
+    'Matt Carroll',
+    'Naomi Peck',
+    'Nick Evans',
+    'Oscar McLoughlin-Ning',
+    'Owen Edwards',
+    'Roberto Herrera',
+    'Simon Greenhill',
+    'Stef Spronck',
+    'Susan Ford',
+    'Thiago Chaçon',
+    'Wolfgang Barth',
+    '?'
+]
 
 def get(filename, delimiter=","):
     with csvw.UnicodeDictReader(filename, delimiter=delimiter) as reader:
@@ -22,17 +44,26 @@ def get_sources(filename):
 
 
 class Checker(object):
+
+    known_files = None   # monkey patch later
+    
     def __init__(self, filename):
         self.filename = filename
         self.errors, self.rows = [], []
         for row in get(filename, ','):
             self.rows.append(row)
-        self.check()
-        self.report()
         
         if filename.suffix != '.csv':
             self.error(f"Invalid suffix: {filename}")
         
+        if filename.name not in self.known_files:
+            self.error(f"File not listed in etc/languages.tsv")
+        else:
+            self.known_files[filename.name] += 1
+
+        self.check()
+        self.report()
+
     def error(self, msg):
         self.errors.append(msg)
 
@@ -77,12 +108,39 @@ class Checker(object):
                     for s in [v for v in value.split(";")]:
                         if s not in SOURCES:
                             self.error(f"Unknown Source in row {i}: '{s}'")
-                        
+
+
+
+def check_languages_tsv(filename="etc/languages.tsv"):
+    for i, row in enumerate(get(filename, "\t"), 2):
+        lid = int(row['LocalID'])
+
+        # checks
+        if not len(row['Filename']):
+            yield f"L{i} - no filename"
+
+        if not row['Filename'].endswith('.csv'):
+            yield f"L{i} - {row['Filename']} should be a CSV file"
+
+        if len(row['Glottocode']) != 8:
+            yield f"L{i} - invalid glottocode '{row['Glottocode']}'"
+
+        if row['Analect'] not in ("Free", "Bound"):
+            yield f"L{i} - invalid analect '{row['Analect']}'"
+
+        if not row['Coder']:
+            yield f"L{i} - no coder"
+        elif row['Coder'] not in CODERS:
+            yield f"L{i} - bad coder '{row['Coder']}'"
+
 
 PARADIGMS = {o['ID']: o['English'] for o in get('etc/concepts.tsv', "\t")}
 
 SOURCES = list(get_sources('./raw/sources.bib'))
 SOURCES.append('UNKNOWN')
+
+Checker.known_files = {o['Filename']: 0 for o in get('etc/languages.tsv', "\t")}
+
 
 if __name__ == '__main__':
     errors = 0
@@ -95,4 +153,16 @@ if __name__ == '__main__':
         except Exception as e:
             print(f"Error reading {p}: {e}")
     
-    print(errors)
+    
+    # check languages.tsv
+    print("\n./etc/languages.tsv:")
+    for e in check_languages_tsv():
+        print(f" {e}")
+        errors += 1
+
+    for f in sorted(Checker.known_files):
+        if Checker.known_files[f] != 1:
+            print(f" `{f}` seen {Checker.known_files[f]} times.")
+            errors += 1
+    
+    print(f"\n\nTOTAL ERRORS: {errors}\n")
