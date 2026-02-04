@@ -1,77 +1,77 @@
 word,ipa,parameter,description,alternative,comment,translation,glottocode,source
-sëë,,1sg_a,1st singular transitive subject,së,,,yura1255,
-sëë,,1sg_s,1st singular intransitive subject,së,,,yura1255,
-sëë,,1sg_o,1st singular transitive object,së,,,yura1255,
-sëë,,1sg_p,1st singular possessive,së,,,yura1255,
-tuwa,,12du_a,1st dual inclusive transitive subject,,"This is just the first person plural, there is no decidated dual.",,yura1255,
-tuwa,,12du_s,1st dual inclusive intransitive subject,,,,yura1255,
-tuwa,,12du_o,1st dual inclusive transitive object,,,,yura1255,
-tuwa,,12du_p,1st dual inclusive possessive,,,,yura1255,
-tuwa,,1du_a,1st dual exclusive transitive subject,,,,yura1255,
-tuwa,,1du_s,1st dual exclusive intransitive subject,,,,yura1255,
-tuwa,,1du_o,1st dual exclusive transitive object,,,,yura1255,
-tuwa,,1du_p,1st dual exclusive possessive,,,,yura1255,
-tuwa,,12pl_a,1st plural inclusive transitive subject,,,,yura1255,
-tuwa,,12pl_s,1st plural inclusive intransitive subject,,,,yura1255,
-tuwa,,12pl_o,1st plural inclusive transitive object,,,,yura1255,
-tuwa,,12pl_p,1st plural inclusive possessive,,,,yura1255,
-tuwa,,1pl_a,1st plural exclusive transitive subject,,,,yura1255,
-tuwa,,1pl_s,1st plural exclusive intransitive subject,,,,yura1255,
-tuwa,,1pl_o,1st plural exclusive transitive object,,,,yura1255,
-tuwa,,1pl_p,1st plural exclusive possessive,,,,yura1255,
-mëë,,2sg_a,2nd singular transitive subject,më,,,yura1255,
-mëë,,2sg_s,2nd singular intransitive subject,më,,,yura1255,
-mëë,,2sg_o,2nd singular transitive object,më,,,yura1255,
-mëë,,2sg_p,2nd singular possessive,më,,,yura1255,
-paa,,2du_a,2nd dual transitive subject,pa,"This is just the second person plural, there is no decidated dual.",,yura1255,
-paa,,2du_s,2nd dual intransitive subject,pa,,,yura1255,
-paa,,2du_o,2nd dual transitive object,pa,,,yura1255,
-paa,,2du_p,2nd dual possessive,pa,,,yura1255,
-paa,,2pl_a,2nd plural transitive subject,pa,,,yura1255,
-paa,,2pl_s,2nd plural intransitive subject,pa,,,yura1255,
-paa,,2pl_o,2nd plural transitive object,pa,,,yura1255,
-paa,,2pl_p,2nd plural possessive,pa,,,yura1255,
-ana/ati/naa,,3sg_m_a,3rd singular gender1 transitive subject,These are the three third person demonstratives. There are no dedicated personal pronouns for third person.,,,yura1255,
-ana/ati/naa,,3sg_m_s,3rd singular gender1 intransitive subject,,,,yura1255,
-ana/ati/naa,,3sg_m_o,3rd singular gender1 transitive object,,,,yura1255,
-ana/ati/naa,,3sg_m_p,3rd singular gender1 possessive,,,,yura1255,
-ana/ati/naa,,3sg_f_a,3rd singular gender2 transitive subject,,,,yura1255,
-ana/ati/naa,,3sg_f_s,3rd singular gender2 intransitive subject,,,,yura1255,
-ana/ati/naa,,3sg_f_o,3rd singular gender2 transitive object,,,,yura1255,
-ana/ati/naa,,3sg_f_p,3rd singular gender2 possessive,,,,yura1255,
-anaw/atiw/naw,,3d-a,3rd dual transitive subject,"These are the plural forms, there is no dedicated dual. They are derived from the singular forms by means of the third person plural marker -w.",,,yura1255,
-anaw/atiw/naw,,3d-s,3rd dual intransitive subject,,,,yura1255,
-anaw/atiw/naw,,3d-o,3rd dual transitive object,,,,yura1255,
-anaw/atiw/naw,,3d-p,3rd dual possessive,,,,yura1255,
-anaw/atiw/naw,,3p-a,3rd plural transitive subject,,,,yura1255,
-anaw/atiw/naw,,3p-s,3rd plural intransitive subject,,,,yura1255,
-anaw/atiw/naw,,3p-o,3rd plural transitive object,,,,yura1255,
-anaw/atiw/naw,,3p-p,3rd plural possessive,,,,yura1255,
-anaw/atiw/naw,,3du_m_a,3rd dual gender1 transitive subject,,,,yura1255,
-anaw/atiw/naw,,3du_m_s,3rd dual gender1 intransitive subject,,,,yura1255,
-anaw/atiw/naw,,3du_m_o,3rd dual gender1 transitive object,,,,yura1255,
-anaw/atiw/naw,,3du_m_p,3rd dual gender1 possessive,,,,yura1255,
-anaw/atiw/naw,,3du_f_a,3rd dual gender2 transitive subject,,,,yura1255,
-anaw/atiw/naw,,3du_f_s,3rd dual gender2 intransitive subject,,,,yura1255,
-anaw/atiw/naw,,3du_f_o,3rd dual gender2 transitive object,,,,yura1255,
-anaw/atiw/naw,,3du_f_p,3rd dual gender2 possessive,,,,yura1255,
-anaw/atiw/naw,,3du_n_a,3rd dual gender3 transitive subject,,,,yura1255,
-anaw/atiw/naw,,3du_n_s,3rd dual gender3 intransitive subject,,,,yura1255,
-anaw/atiw/naw,,3du_n_o,3rd dual gender3 transitive object,,,,yura1255,
-anaw/atiw/naw,,3du_n_p,3rd dual gender3 possessive,,,,yura1255,
-anaw/atiw/naw,,3pl_m_a,3rd plural gender1 transitive subject,,,,yura1255,
-anaw/atiw/naw,,3pl_m_s,3rd plural gender1 intransitive subject,,,,yura1255,
-anaw/atiw/naw,,3pl_m_o,3rd plural gender1 transitive object,,,,yura1255,
-anaw/atiw/naw,,3pl_m_p,3rd plural gender1 possessive,,,,yura1255,
-anaw/atiw/naw,,3pl_f_a,3rd plural gender2 transitive subject,,,,yura1255,
-anaw/atiw/naw,,3pl_f_s,3rd plural gender2 intransitive subject,,,,yura1255,
-anaw/atiw/naw,,3pl_f_o,3rd plural gender2 transitive object,,,,yura1255,
-anaw/atiw/naw,,3pl_f_p,3rd plural gender2 possessive,,,,yura1255,
-anaw/atiw/naw,,3pl_n_a,3rd plural gender3 transitive subject,,,,yura1255,
-anaw/atiw/naw,,3pl_n_s,3rd plural gender3 intransitive subject,,,,yura1255,
-anaw/atiw/naw,,3pl_n_o,3rd plural gender3 transitive object,,,,yura1255,
-anaw/atiw/naw,,3pl_n_p,3rd plural gender3 possessive,,,,yura1255,
-ana/ati/naa,,3sg_n_a,3rd singular gender3 transitive subject,,,,yura1255,
-ana/ati/naa,,3sg_n_s,3rd singular gender3 intransitive subject,,,,yura1255,
-ana/ati/naa,,3sg_n_o,3rd singular gender3 transitive object,,,,yura1255,
-ana/ati/naa,,3sg_n_p,3rd singular gender3 possessive,,,,yura1255,
+sëë,,1sg_a,1st singular transitive subject,së,,,yura1255,UNKNOWN
+sëë,,1sg_s,1st singular intransitive subject,së,,,yura1255,UNKNOWN
+sëë,,1sg_o,1st singular transitive object,së,,,yura1255,UNKNOWN
+sëë,,1sg_p,1st singular possessive,së,,,yura1255,UNKNOWN
+tuwa,,12du_a,1st dual inclusive transitive subject,,"This is just the first person plural, there is no decidated dual.",,yura1255,UNKNOWN
+tuwa,,12du_s,1st dual inclusive intransitive subject,,,,yura1255,UNKNOWN
+tuwa,,12du_o,1st dual inclusive transitive object,,,,yura1255,UNKNOWN
+tuwa,,12du_p,1st dual inclusive possessive,,,,yura1255,UNKNOWN
+tuwa,,1du_a,1st dual exclusive transitive subject,,,,yura1255,UNKNOWN
+tuwa,,1du_s,1st dual exclusive intransitive subject,,,,yura1255,UNKNOWN
+tuwa,,1du_o,1st dual exclusive transitive object,,,,yura1255,UNKNOWN
+tuwa,,1du_p,1st dual exclusive possessive,,,,yura1255,UNKNOWN
+tuwa,,12pl_a,1st plural inclusive transitive subject,,,,yura1255,UNKNOWN
+tuwa,,12pl_s,1st plural inclusive intransitive subject,,,,yura1255,UNKNOWN
+tuwa,,12pl_o,1st plural inclusive transitive object,,,,yura1255,UNKNOWN
+tuwa,,12pl_p,1st plural inclusive possessive,,,,yura1255,UNKNOWN
+tuwa,,1pl_a,1st plural exclusive transitive subject,,,,yura1255,UNKNOWN
+tuwa,,1pl_s,1st plural exclusive intransitive subject,,,,yura1255,UNKNOWN
+tuwa,,1pl_o,1st plural exclusive transitive object,,,,yura1255,UNKNOWN
+tuwa,,1pl_p,1st plural exclusive possessive,,,,yura1255,UNKNOWN
+mëë,,2sg_a,2nd singular transitive subject,më,,,yura1255,UNKNOWN
+mëë,,2sg_s,2nd singular intransitive subject,më,,,yura1255,UNKNOWN
+mëë,,2sg_o,2nd singular transitive object,më,,,yura1255,UNKNOWN
+mëë,,2sg_p,2nd singular possessive,më,,,yura1255,UNKNOWN
+paa,,2du_a,2nd dual transitive subject,pa,"This is just the second person plural, there is no decidated dual.",,yura1255,UNKNOWN
+paa,,2du_s,2nd dual intransitive subject,pa,,,yura1255,UNKNOWN
+paa,,2du_o,2nd dual transitive object,pa,,,yura1255,UNKNOWN
+paa,,2du_p,2nd dual possessive,pa,,,yura1255,UNKNOWN
+paa,,2pl_a,2nd plural transitive subject,pa,,,yura1255,UNKNOWN
+paa,,2pl_s,2nd plural intransitive subject,pa,,,yura1255,UNKNOWN
+paa,,2pl_o,2nd plural transitive object,pa,,,yura1255,UNKNOWN
+paa,,2pl_p,2nd plural possessive,pa,,,yura1255,UNKNOWN
+"ana, ati, naa",,3sg_m_a,3rd singular gender1 transitive subject,These are the three third person demonstratives. There are no dedicated personal pronouns for third person.,,,yura1255,UNKNOWN
+"ana, ati, naa",,3sg_m_s,3rd singular gender1 intransitive subject,,,,yura1255,UNKNOWN
+"ana, ati, naa",,3sg_m_o,3rd singular gender1 transitive object,,,,yura1255,UNKNOWN
+"ana, ati, naa",,3sg_m_p,3rd singular gender1 possessive,,,,yura1255,UNKNOWN
+"ana, ati, naa",,3sg_f_a,3rd singular gender2 transitive subject,,,,yura1255,UNKNOWN
+"ana, ati, naa",,3sg_f_s,3rd singular gender2 intransitive subject,,,,yura1255,UNKNOWN
+"ana, ati, naa",,3sg_f_o,3rd singular gender2 transitive object,,,,yura1255,UNKNOWN
+"ana, ati, naa",,3sg_f_p,3rd singular gender2 possessive,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3d-a,3rd dual transitive subject,"These are the plural forms, there is no dedicated dual. They are derived from the singular forms by means of the third person plural marker -w.",,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3d-s,3rd dual intransitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3d-o,3rd dual transitive object,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3d-p,3rd dual possessive,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3p-a,3rd plural transitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3p-s,3rd plural intransitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3p-o,3rd plural transitive object,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3p-p,3rd plural possessive,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3du_m_a,3rd dual gender1 transitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3du_m_s,3rd dual gender1 intransitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3du_m_o,3rd dual gender1 transitive object,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3du_m_p,3rd dual gender1 possessive,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3du_f_a,3rd dual gender2 transitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3du_f_s,3rd dual gender2 intransitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3du_f_o,3rd dual gender2 transitive object,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3du_f_p,3rd dual gender2 possessive,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3du_n_a,3rd dual gender3 transitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3du_n_s,3rd dual gender3 intransitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3du_n_o,3rd dual gender3 transitive object,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3du_n_p,3rd dual gender3 possessive,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3pl_m_a,3rd plural gender1 transitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3pl_m_s,3rd plural gender1 intransitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3pl_m_o,3rd plural gender1 transitive object,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3pl_m_p,3rd plural gender1 possessive,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3pl_f_a,3rd plural gender2 transitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3pl_f_s,3rd plural gender2 intransitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3pl_f_o,3rd plural gender2 transitive object,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3pl_f_p,3rd plural gender2 possessive,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3pl_n_a,3rd plural gender3 transitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3pl_n_s,3rd plural gender3 intransitive subject,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3pl_n_o,3rd plural gender3 transitive object,,,,yura1255,UNKNOWN
+"anaw, atiw, naw",,3pl_n_p,3rd plural gender3 possessive,,,,yura1255,UNKNOWN
+"ana, ati, naa",,3sg_n_a,3rd singular gender3 transitive subject,,,,yura1255,UNKNOWN
+"ana, ati, naa",,3sg_n_s,3rd singular gender3 intransitive subject,,,,yura1255,UNKNOWN
+"ana, ati, naa",,3sg_n_o,3rd singular gender3 transitive object,,,,yura1255,UNKNOWN
+"ana, ati, naa",,3sg_n_p,3rd singular gender3 possessive,,,,yura1255,UNKNOWN

@@ -1,77 +1,77 @@
 word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
-ni,,1sg_a,1st singular transitive subject,,,,,,
-ni,,1sg_s,1st singular intransitive subject,,,,,,
-nik,,1sg_o,1st singular transitive object,,,,,,
-nik'í,,1sg_p,1st singular possessive,,,,,,
-nisám,,12du_a,1st dual inclusive transitive subject,,,,,,
-nisám,,12du_s,1st dual inclusive intransitive subject,,,,,,
-nisá,,12du_o,1st dual inclusive transitive object,,,,,,
-nisák'i,,12du_p,1st dual inclusive possessive,,,,,,
-nisám,,1du_a,1st dual exclusive transitive subject,,,,,,
-nisám,,1du_s,1st dual exclusive intransitive subject,,,,,,
-nisá,,1du_o,1st dual exclusive transitive object,,,,,,
-nisák'i,,1du_p,1st dual exclusive possessive,,,,,,
-nisém,,12pl_a,1st plural inclusive transitive subject,,,,,,
-nisém,,12pl_s,1st plural inclusive intransitive subject,,,,,,
-nisé,,12pl_o,1st plural inclusive transitive object,,,,,,
-nisék'i,,12pl_p,1st plural inclusive possessive,,,,,,
-nisém,,1pl_a,1st plural exclusive transitive subject,,,,,,
-nisém,,1pl_s,1st plural exclusive intransitive subject,,,,,,
-nisé,,1pl_o,1st plural exclusive transitive object,,,,,,
-nisék'i,,1pl_p,1st plural exclusive possessive,,,,,,
-mi,,2sg_a,2nd singular transitive subject,,,,,,
-mi,,2sg_s,2nd singular intransitive subject,,,,,,
-min,,2sg_o,2nd singular transitive object,,,,,,
-mínk'i,,2sg_p,2nd singular possessive,,,,,,
-mínc'em,,2du_a,2nd dual transitive subject,,,,,,
-mínc'em,,2du_s,2nd dual intransitive subject,,,,,,
-mínc'e,,2du_o,2nd dual transitive object,,,,,,
-mínc'ek'i,,2du_p,2nd dual possessive,,,,,,
-míncïm,,2pl_a,2nd plural transitive subject,,,,,,
-míncïm,,2pl_s,2nd plural intransitive subject,,,,,,
-míncï,,2pl_o,2nd plural transitive object,,,,,,
-míncïk'i,,2pl_p,2nd plural possessive,,,,,,
-mïm,,3sg_m_a,3rd singular gender1 transitive subject,,,"3sg forms translated with 'that one'",,,
-mïm,,3sg_m_s,3rd singular gender1 intransitive subject,,,,,,
-mï,,3sg_m_o,3rd singular gender1 transitive object,,,,,,
-mïk'i,,3sg_m_p,3rd singular gender1 possessive,,,,,,
-mïm,,3sg_f_a,3rd singular gender2 transitive subject,,,,,,
-mïm,,3sg_f_s,3rd singular gender2 intransitive subject,,,,,,
-mï,,3sg_f_o,3rd singular gender2 transitive object,,,,,,
-mïk'i,,3sg_f_p,3rd singular gender2 possessive,,,,,,
-máyc'om,,3d-a,3rd dual transitive subject,,,"3d forms translated with 'they two'. 3d_n forms translated with 'those two'.",,,
-máyc'om,,3d-s,3rd dual intransitive subject,,,,,,
-máyc'o,,3d-o,3rd dual transitive object,,,,,,
-máyc'ok'i,,3d-p,3rd dual possessive,,,,,,
-máysem,,3p-a,3rd plural transitive subject,,,,,,
-máysem,,3p-s,3rd plural intransitive subject,,,,,,
-máyse,,3p-o,3rd plural transitive object,,,,,,
-máysek'i,,3p-p,3rd plural possessive,,,,,,
-máyc'om,,3du_n_a,3rd dual gender3 transitive subject,,,,,,
-máyc'om,,3du_n_s,3rd dual gender3 intransitive subject,,,,,,
-máyc'o,,3du_n_o,3rd dual gender3 transitive object,,,,,,
-máyc'ok'i,,3du_n_p,3rd dual gender3 possessive,,,,,,
-mïsém,,3pl_n_a,3rd plural gender3 transitive subject,,,,,,
-mïsém,,3pl_n_s,3rd plural gender3 intransitive subject,,,,,,
-mïsé,,3pl_n_o,3rd plural gender3 transitive object,,,,,,
-mïsék'i,,3pl_n_p,3rd plural gender3 possessive,,,,,,
-,,3du_m_a,3rd dual gender1 transitive subject,,,,,,
-,,3du_m_s,3rd dual gender1 intransitive subject,,,,,,
-,,3du_m_o,3rd dual gender1 transitive object,,,,,,
-,,3du_m_p,3rd dual gender1 possessive,,,,,,
-,,3du_f_a,3rd dual gender2 transitive subject,,,,,,
-,,3du_f_s,3rd dual gender2 intransitive subject,,,,,,
-,,3du_f_o,3rd dual gender2 transitive object,,,,,,
-,,3du_f_p,3rd dual gender2 possessive,,,,,,
-,,3pl_m_a,3rd plural gender1 transitive subject,,,,,,
-,,3pl_m_s,3rd plural gender1 intransitive subject,,,,,,
-,,3pl_m_o,3rd plural gender1 transitive object,,,,,,
-,,3pl_m_p,3rd plural gender1 possessive,,,,,,
-,,3pl_f_a,3rd plural gender2 transitive subject,,,,,,
-,,3pl_f_s,3rd plural gender2 intransitive subject,,,,,,
-,,3pl_f_o,3rd plural gender2 transitive object,,,,,,
-,,3pl_f_p,3rd plural gender2 possessive,,,,,,
-,,3sg_n_a,3rd singular gender3 transitive subject,,,,,,
-,,3sg_n_s,3rd singular gender3 intransitive subject,,,,,,
-,,3sg_n_o,3rd singular gender3 transitive object,,,,,,
-,,3sg_n_p,3rd singular gender3 possessive,,,,,,
+ni,,1sg_a,1st singular transitive subject,,,,,nort2952,Shipley1990
+ni,,1sg_s,1st singular intransitive subject,,,,,nort2952,Shipley1990
+nik,,1sg_o,1st singular transitive object,,,,,nort2952,Shipley1990
+nik'í,,1sg_p,1st singular possessive,,,,,nort2952,Shipley1990
+nisám,,12du_a,1st dual inclusive transitive subject,,,,,nort2952,Shipley1990
+nisám,,12du_s,1st dual inclusive intransitive subject,,,,,nort2952,Shipley1990
+nisá,,12du_o,1st dual inclusive transitive object,,,,,nort2952,Shipley1990
+nisák'i,,12du_p,1st dual inclusive possessive,,,,,nort2952,Shipley1990
+nisám,,1du_a,1st dual exclusive transitive subject,,,,,nort2952,Shipley1990
+nisám,,1du_s,1st dual exclusive intransitive subject,,,,,nort2952,Shipley1990
+nisá,,1du_o,1st dual exclusive transitive object,,,,,nort2952,Shipley1990
+nisák'i,,1du_p,1st dual exclusive possessive,,,,,nort2952,Shipley1990
+nisém,,12pl_a,1st plural inclusive transitive subject,,,,,nort2952,Shipley1990
+nisém,,12pl_s,1st plural inclusive intransitive subject,,,,,nort2952,Shipley1990
+nisé,,12pl_o,1st plural inclusive transitive object,,,,,nort2952,Shipley1990
+nisék'i,,12pl_p,1st plural inclusive possessive,,,,,nort2952,Shipley1990
+nisém,,1pl_a,1st plural exclusive transitive subject,,,,,nort2952,Shipley1990
+nisém,,1pl_s,1st plural exclusive intransitive subject,,,,,nort2952,Shipley1990
+nisé,,1pl_o,1st plural exclusive transitive object,,,,,nort2952,Shipley1990
+nisék'i,,1pl_p,1st plural exclusive possessive,,,,,nort2952,Shipley1990
+mi,,2sg_a,2nd singular transitive subject,,,,,nort2952,Shipley1990
+mi,,2sg_s,2nd singular intransitive subject,,,,,nort2952,Shipley1990
+min,,2sg_o,2nd singular transitive object,,,,,nort2952,Shipley1990
+mínk'i,,2sg_p,2nd singular possessive,,,,,nort2952,Shipley1990
+mínc'em,,2du_a,2nd dual transitive subject,,,,,nort2952,Shipley1990
+mínc'em,,2du_s,2nd dual intransitive subject,,,,,nort2952,Shipley1990
+mínc'e,,2du_o,2nd dual transitive object,,,,,nort2952,Shipley1990
+mínc'ek'i,,2du_p,2nd dual possessive,,,,,nort2952,Shipley1990
+míncïm,,2pl_a,2nd plural transitive subject,,,,,nort2952,Shipley1990
+míncïm,,2pl_s,2nd plural intransitive subject,,,,,nort2952,Shipley1990
+míncï,,2pl_o,2nd plural transitive object,,,,,nort2952,Shipley1990
+míncïk'i,,2pl_p,2nd plural possessive,,,,,nort2952,Shipley1990
+mïm,,3sg_m_a,3rd singular gender1 transitive subject,,,"3sg forms translated with 'that one'",,nort2952,Shipley1990
+mïm,,3sg_m_s,3rd singular gender1 intransitive subject,,,,,nort2952,Shipley1990
+mï,,3sg_m_o,3rd singular gender1 transitive object,,,,,nort2952,Shipley1990
+mïk'i,,3sg_m_p,3rd singular gender1 possessive,,,,,nort2952,Shipley1990
+mïm,,3sg_f_a,3rd singular gender2 transitive subject,,,,,nort2952,Shipley1990
+mïm,,3sg_f_s,3rd singular gender2 intransitive subject,,,,,nort2952,Shipley1990
+mï,,3sg_f_o,3rd singular gender2 transitive object,,,,,nort2952,Shipley1990
+mïk'i,,3sg_f_p,3rd singular gender2 possessive,,,,,nort2952,Shipley1990
+máyc'om,,3d-a,3rd dual transitive subject,,,"3d forms translated with 'they two'. 3d_n forms translated with 'those two'.",,nort2952,Shipley1990
+máyc'om,,3d-s,3rd dual intransitive subject,,,,,nort2952,Shipley1990
+máyc'o,,3d-o,3rd dual transitive object,,,,,nort2952,Shipley1990
+máyc'ok'i,,3d-p,3rd dual possessive,,,,,nort2952,Shipley1990
+máysem,,3p-a,3rd plural transitive subject,,,,,nort2952,Shipley1990
+máysem,,3p-s,3rd plural intransitive subject,,,,,nort2952,Shipley1990
+máyse,,3p-o,3rd plural transitive object,,,,,nort2952,Shipley1990
+máysek'i,,3p-p,3rd plural possessive,,,,,nort2952,Shipley1990
+máyc'om,,3du_n_a,3rd dual gender3 transitive subject,,,,,nort2952,Shipley1990
+máyc'om,,3du_n_s,3rd dual gender3 intransitive subject,,,,,nort2952,Shipley1990
+máyc'o,,3du_n_o,3rd dual gender3 transitive object,,,,,nort2952,Shipley1990
+máyc'ok'i,,3du_n_p,3rd dual gender3 possessive,,,,,nort2952,Shipley1990
+mïsém,,3pl_n_a,3rd plural gender3 transitive subject,,,,,nort2952,Shipley1990
+mïsém,,3pl_n_s,3rd plural gender3 intransitive subject,,,,,nort2952,Shipley1990
+mïsé,,3pl_n_o,3rd plural gender3 transitive object,,,,,nort2952,Shipley1990
+mïsék'i,,3pl_n_p,3rd plural gender3 possessive,,,,,nort2952,Shipley1990
+,,3du_m_a,3rd dual gender1 transitive subject,,,,,nort2952,Shipley1990
+,,3du_m_s,3rd dual gender1 intransitive subject,,,,,nort2952,Shipley1990
+,,3du_m_o,3rd dual gender1 transitive object,,,,,nort2952,Shipley1990
+,,3du_m_p,3rd dual gender1 possessive,,,,,nort2952,Shipley1990
+,,3du_f_a,3rd dual gender2 transitive subject,,,,,nort2952,Shipley1990
+,,3du_f_s,3rd dual gender2 intransitive subject,,,,,nort2952,Shipley1990
+,,3du_f_o,3rd dual gender2 transitive object,,,,,nort2952,Shipley1990
+,,3du_f_p,3rd dual gender2 possessive,,,,,nort2952,Shipley1990
+,,3pl_m_a,3rd plural gender1 transitive subject,,,,,nort2952,Shipley1990
+,,3pl_m_s,3rd plural gender1 intransitive subject,,,,,nort2952,Shipley1990
+,,3pl_m_o,3rd plural gender1 transitive object,,,,,nort2952,Shipley1990
+,,3pl_m_p,3rd plural gender1 possessive,,,,,nort2952,Shipley1990
+,,3pl_f_a,3rd plural gender2 transitive subject,,,,,nort2952,Shipley1990
+,,3pl_f_s,3rd plural gender2 intransitive subject,,,,,nort2952,Shipley1990
+,,3pl_f_o,3rd plural gender2 transitive object,,,,,nort2952,Shipley1990
+,,3pl_f_p,3rd plural gender2 possessive,,,,,nort2952,Shipley1990
+,,3sg_n_a,3rd singular gender3 transitive subject,,,,,nort2952,Shipley1990
+,,3sg_n_s,3rd singular gender3 intransitive subject,,,,,nort2952,Shipley1990
+,,3sg_n_o,3rd singular gender3 transitive object,,,,,nort2952,Shipley1990
+,,3sg_n_p,3rd singular gender3 possessive,,,,,nort2952,Shipley1990
