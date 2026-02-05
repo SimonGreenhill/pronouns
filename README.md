@@ -16,22 +16,17 @@ Available online at https://pdb.simon.net.nz
 
 ## Statistics
 
-[![CLDF-validation](https://github.com/SimonGreenhill/pronouns/actions/workflows/python-package.yml/badge.svg)](https://github.com/SimonGreenhill/pronouns/actions/workflows/python-package.yml)
+
+[![Build Status](https://travis-ci.org/SimonGreenhill/pronouns.svg?branch=master)](https://travis-ci.org/SimonGreenhill/pronouns)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
-![Source: 99%](https://img.shields.io/badge/Source-99%25-brightgreen.svg "Source: 99%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 722
-- **Concepts:** 92
-- **Lexemes:** 43,250
-- **Sources:** 592
+- **Varieties:** 726 (linked to 674 different Glottocodes)
+- **Concepts:** 92 (linked to 0 different Concepticon concept sets)
+- **Lexemes:** 43,522
+- **Sources:** 596
 - **Synonymy:** 1.10
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 220/43250 (0.51%)
 
 # Contributors
 

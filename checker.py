@@ -8,6 +8,8 @@ from pathlib import Path
 
 EXTENSIONS_TO_IGNORE = ('.py', '.gz', '.zip')
 
+EXPECTED_COLUMNS = ('word', 'ipa', 'parameter', 'comment', 'glottocode', 'source')
+
 CODERS = [
     'Amos Teo',
     'Charlotte van Tongeren',
@@ -79,6 +81,10 @@ class Checker(object):
     
     def check(self):
         for i, row in enumerate(self.rows, 1):
+            for e in EXPECTED_COLUMNS:
+                if e not in row:
+                    self.error(f"Missing expect column {e}")
+            
             # some checks are only valid if we have a stored lexical item in `word`
             entry = row.get('word', '#')
             if entry == '#' or len(entry) == 0:

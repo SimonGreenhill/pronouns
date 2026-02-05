@@ -11,26 +11,6 @@ from clldutils.misc import slug
 from pylexibank.util import progressbar
 
 
-# remove duplicates and replace "in press's" etc with published versions
-SOURCES_TO_RENAME = {
-    # OLD -> NEW
-    'Evans_et_al_to_appear': 'EvansEtAl_2017',
-    'green-rebecca-1987': 'green-1987',
-    'casad-eugene-1984': 'casad-1984',
-    'casad-eugene-h': 'casad-1984',
-    'aikhenvald-2003b': 'aikhenvald-2003',
-    'matthew-j-carroll-2017': 'carroll-2017',
-    'carroll-mj-2017': 'carroll-2017',
-    'tsunoda-1988': 'tsunoda-1981',  # wrong year
-    'evans-personal-communication-1': 'evans-2013',
-    'evans-personal-communication-2': 'evans-2013',
-    'doehler': 'doehler-2013',
-    'doehler-christian': 'doehler-2013',
-    'doehler-spreadsheet': 'doehler-2013',
-    
-}
-
-
 @attr.s
 class PronounConcept(pylexibank.Concept):
     LocalID = attr.ib(default=None)

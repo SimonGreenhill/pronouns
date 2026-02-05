@@ -1,0 +1,83 @@
+{
+    "title": "Parabank Pronoun Dataset",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Simon J. Greenhill"
+        },
+        {
+            "name": "Simon J. Greenhill"
+        },
+        {
+            "name": "Wolfgang Barth"
+        },
+        {
+            "name": "Wolfgang Barth"
+        },
+        {
+            "name": "Kyla Quinn"
+        },
+        {
+            "name": "Kyla Quinn"
+        },
+        {
+            "name": "Amos Teo"
+        },
+        {
+            "name": "Charlotte van Tongeren"
+        },
+        {
+            "name": "Darja Hoenigman"
+        },
+        {
+            "name": "James Bednall"
+        },
+        {
+            "name": "Louise Baird"
+        },
+        {
+            "name": "Marie-France Duhamel"
+        },
+        {
+            "name": "Matt Carroll"
+        },
+        {
+            "name": "Naomi Peck"
+        },
+        {
+            "name": "Nick Evans"
+        },
+        {
+            "name": "Oscar McLoughlin-Ning"
+        },
+        {
+            "name": "Owen Edwards"
+        },
+        {
+            "name": "Roberto Herrera"
+        },
+        {
+            "name": "Stef Spronck"
+        },
+        {
+            "name": "Susan Ford"
+        },
+        {
+            "name": "Thiago Cha\u00e7on"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
