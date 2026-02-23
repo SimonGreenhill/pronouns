@@ -22,11 +22,17 @@ Available online at https://pdb.simon.net.nz
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 726 (linked to 674 different Glottocodes)
-- **Concepts:** 92 (linked to 0 different Concepticon concept sets)
-- **Lexemes:** 43,522
-- **Sources:** 596
-- **Synonymy:** 1.10
+- **Varieties:** 733 (linked to 681 different Glottocodes)
+- **Concepts:** 100 (linked to 0 different Concepticon concept sets)
+- **Lexemes:** 46,915
+- **Sources:** 603
+- **Synonymy:** 1.16
+
+## Possible Improvements:
+
+
+
+- Entries missing sources: 78/46915 (0.17%)
 
 # Contributors
 

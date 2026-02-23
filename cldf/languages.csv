@@ -678,7 +678,7 @@ westernbukidnonmanabo,Western Bukidnon Manabo,west2555,Western Bukidnon Manobo,m
 windesi,Windesi,wind1244,Windesi,,Papunesia,,,Austronesian,849,,,Windesi wind1244.csv,,Free,Kyla Quinn
 woleaian,Woleaian,wole1240,Woleaian,woe,Papunesia,7.37957,143.916,Austronesian,850,,,Woleaian wole1240.csv,,Free,Kyla Quinn
 wolio,Wolio,woli1241,Wolio,wlo,Papunesia,-5.33,122.67,Austronesian,851,,,Wolio woli1241.csv,,Free,Kyla Quinn
-yuracare,Yuracare,yura1255,Yuracaré,yuz,South America,-16.7479,-65.1224,Yuracaré,852,,,Yuracare yura1255.csv,,Free,Kyla Quinn
+yuracare,Yuracare,yura1255,Yuracaré,yuz,South America,-16.7479,-65.1224,Yuracaré,852,,,Yurakaré yura1255.csv,,Free,Kyla Quinn
 kriol_barunga,Kriol,krio1252,Kriol,rop,Australia,-18.135,137.669,Indo-European,853,Barunga,,Barunga Kriol krio1252.csv,,Free,Kyla Quinn
 mungbam_missong,Mungbam,abar1238,Mungbam,mij,Africa,6.5805,10.2267,Atlantic-Congo,854,Missong,,Mungbam (Missong) abar1238.csv,"The preverbal forms of the first person singular pronouns show a discontinuous form mV- followed by a homorganic nasal. ˥ = super-high, ˦ = High",Free,Owen Edwards
 zaysezergulla,Zayse Zergulla,zays1235,Zayse-Zergulla,zay,Africa,5.83747,37.3409,Ta-Ne-Omotic,855,,,Zayse Zergulla zays1235.csv,,Free,Naomi Peck
@@ -727,7 +727,9 @@ kusaghe,Kusaghe kusa1251,kusa1251,Kusaghe-Njela,ksg,Papunesia,-8.04056,157.463,A
 guuguyimidhirrcoastal,Guugu Yimidhirr coastal gugu1255,gugu1255,Guugu Yimidhirr,kky,Australia,-14.9424,144.831,Pama-Nyungan,900,,,Guugu Yimidhirr coastal gugu1255.csv,,Free,Louise Baird
 guuguyimidhirrinland,Guugu Yimidhirr inland gugu1255,gugu1255,Guugu Yimidhirr,kky,Australia,-14.9424,144.831,Pama-Nyungan,911,,,Guugu Yimidhirr inland gugu1255.csv,,Free,Louise Baird
 standardarabic,Standard Arabic stan1318,stan1318,Standard Arabic,arb,Eurasia,27.9625,43.8525,Afro-Asiatic,901,,,Standard Arabic stan1318.csv,,Free,?
-kalalagawya,Kala Lagaw Ya kala1377,kala1377,Kala Lagaw Ya,mwp,Australia,-10.6748,142.196,Pama-Nyungan,902,,,Kala Lagaw Ya kala1377.csv,,Free,?
+kalalagawya,Kala Lagaw Ya kala1377,kala1377,Kala Lagaw Ya,mwp,Australia,-10.6748,142.196,Pama-Nyungan,902,,,Kala Lagaw Ya kala1377.csv,,Free,Nick Evans
 maoriharlow,Maori [Harlow] maor1246,maor1246,Maori,mri,Papunesia,-38.2881,176.541,Austronesian,908,,,Maori [Harlow] maor1246.csv,"In all clause types A and S pronouns appear unmarked while O pronouns are marked by the preposition /i/ (Harlow 1996:27). Since /i/ is not analysed as incorporated into the head of the marked object phrase, this element has not been included with the O forms listed below. In addition, when acting as possessives, the forms listed below appear following one of four possessive prepositions and immediately precede the possessed noun phrase (Harlow 1996:20-2). Each of the four possessive prepositions index a certain form of possession as discussed by Harlow (1996:20-2).",Free,Roberto Herrera
 avestan,Avestan aves1237,aves1237,Avestan,ave,Eurasia,34.217,62.112,Indo-European,910,,,Avestan aves1237.csv,,Free,?
 maoribaueretal,Maori [Bauer et al] maor1246,maor1246,Maori,mri,Papunesia,-38.2881,176.541,Austronesian,912,,,Maori [Bauer et al] maor1246.csv,,Free,?
+swahili,Swahili swah1253,swah1253,Swahili,swh,Africa,-8.25605,37.624,Atlantic-Congo,913,,,Swahili swah1253.csv,,Free,?
+southernkisi,Southern Kisi sout2778,sout2778,Southern Kisi,kss,Africa,8.32448,-10.3377,Atlantic-Congo,914,,,Southern Kisi sout2778.csv,,Free,?

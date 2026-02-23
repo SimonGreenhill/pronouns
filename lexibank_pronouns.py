@@ -57,7 +57,7 @@ def read_text_files(filenames):
                         filename,
                         [e for e in expected_columns if e not in row]
                     ))
-                if row['word'] and row['word'] not in ('#', '?'):
+                if row['word'] and row['word'] not in ('', '?'):
                     yield (language, glottocode, filename.name, row)
 
 
@@ -114,10 +114,14 @@ class Dataset(pylexibank.Dataset):
             
             lang_id = languages.get(filename, slug(language))
             
+            value = record['word']
+            if value in ('-', '#'):
+                value = '∅'
+            
             lex = args.writer.add_forms_from_value(
                 Language_ID=lang_id,
                 Parameter_ID=record['parameter'],
-                Value=record['word'],
+                Value=value,
                 Source=record['source'],
                 Comment=record['comment'],
                 Paradigm_ID=paradigms.get(lang_id)
