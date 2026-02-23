@@ -1,53 +1,53 @@
-word,ipa,parameter,description,alternative,comment,translation,glottocode,source
-"inau, nau, u",,1sg_a,,,,,bugh1239,Ivens1933
-"inau, nau, u",,1sg_s,,,,,bugh1239,Ivens1933
--u,,1sg_o,,,,,bugh1239,Ivens1933
-"-nggua, -nggu",,1sg_p,,,,,bugh1239,Ivens1933
-"irogita, rogita",,12du_a,,,,,bugh1239,Ivens1933
-"irogita, rogita",,12du_s,,,,,bugh1239,Ivens1933
--gita,,12du_o,,,,,bugh1239,Ivens1933
--da,,12du_p,,,,,bugh1239,Ivens1933
-"irogami, rogami",,1du_a,,,,,bugh1239,Ivens1933
-"irogami, rogami",,1du_s,,,,,bugh1239,Ivens1933
--gami,,1du_o,,,,,bugh1239,Ivens1933
--mami,,1du_p,,,,,bugh1239,Ivens1933
-"igita, gita",,12pl_a,,,,,bugh1239,Ivens1933
-"igita, gita",,12pl_s,,,,,bugh1239,Ivens1933
--gita,,12pl_o,,,,,bugh1239,Ivens1933
--da,,12pl_p,,,,,bugh1239,Ivens1933
-"igami, gami",,1pl_a,,,,,bugh1239,Ivens1933
-"igami, gami",,1pl_s,,,,,bugh1239,Ivens1933
--gami,,1pl_o,,,,,bugh1239,Ivens1933
--mami,,1pl_p,,,,,bugh1239,Ivens1933
-"igoe, o",,2sg_a,,,,,bugh1239,Ivens1933
-"igoe, o",,2sg_s,,,,,bugh1239,Ivens1933
--go,,2sg_o,,,,,bugh1239,Ivens1933
-"-mu, -mua",,2sg_p,,,,,bugh1239,Ivens1933
-"irogamu, rogamu",,2du_a,,,,,bugh1239,Ivens1933
-"irogamu, rogamu",,2du_s,,,,,bugh1239,Ivens1933
--gamu,,2du_o,,,,,bugh1239,Ivens1933
--miu,,2du_p,,,,,bugh1239,Ivens1933
-"igamu, gamu",,2pl_a,,,,,bugh1239,Ivens1933
-"igamu, gamu",,2pl_s,,,,,bugh1239,Ivens1933
--gamu,,2pl_o,,,,,bugh1239,Ivens1933
--miu,,2pl_p,,,,,bugh1239,Ivens1933
-"imanea, manea",,3sg_m_a,,,,,bugh1239,Ivens1933
-"imanea, manea",,3sg_m_s,,,,,bugh1239,Ivens1933
--a,,3sg_m_o,,,,,bugh1239,Ivens1933
--gna,,3sg_m_p,,,,,bugh1239,Ivens1933
-iia,,3sg_f_a,,,,,bugh1239,Ivens1933
-iia,,3sg_f_s,,,,,bugh1239,Ivens1933
--a,,3sg_f_o,,,,,bugh1239,Ivens1933
--gna,,3sg_f_p,,,,,bugh1239,Ivens1933
-"iromaraira, romaraira, romarea",,3d-a,m,,,,bugh1239,Ivens1933
-"iroiira, roiira",,3d-a,f,,,,bugh1239,Ivens1933
-"iromaraira, romaraira, romarea",,3d-s,m,,,,bugh1239,Ivens1933
-"iroiira, roiira",,3d-s,f,,,,bugh1239,Ivens1933
--ra,,3d-o,,,,,bugh1239,Ivens1933
--dia,,3d-p,,,,,bugh1239,Ivens1933
-"imaraira, maraira, imarea, marea, maria, timara, timarea",,3p-a,m,,,,bugh1239,Ivens1933
-iira,,3p-a,f,,,,bugh1239,Ivens1933
-"imaraira, maraira, imarea, marea, maria, timara, timarea",,3p-s,m,,,,bugh1239,Ivens1933
-iira,,3p-s,f,,,,bugh1239,Ivens1933
--ra,,3p-o,,,,,bugh1239,Ivens1933
--dia,,3p-p,,,,,bugh1239,Ivens1933
+word,ipa,parameter,description,localid,alternative,comment,translation,glottocode,source
+"inau, nau, u",,1sg_a,1st (excl) Person Singular,,,,,bugh1239,Ivens1933
+"inau, nau, u",,1sg_s,1st (excl) Person Singular,,,,,bugh1239,Ivens1933
+-u,,1sg_o,1st (excl) Person Singular,,,,,bugh1239,Ivens1933
+"-nggua, -nggu",,1sg_p,1st (excl) Person Singular,,,,,bugh1239,Ivens1933
+"irogita, rogita",,12du_a,1st (incl) Person Dual,,,,,bugh1239,Ivens1933
+"irogita, rogita",,12du_s,1st (incl) Person Dual,,,,,bugh1239,Ivens1933
+-gita,,12du_o,1st (incl) Person Dual,,,,,bugh1239,Ivens1933
+-da,,12du_p,1st (incl) Person Dual,,,,,bugh1239,Ivens1933
+"irogami, rogami",,1du_a,1st (excl) Person Dual,,,,,bugh1239,Ivens1933
+"irogami, rogami",,1du_s,1st (excl) Person Dual,,,,,bugh1239,Ivens1933
+-gami,,1du_o,1st (excl) Person Dual,,,,,bugh1239,Ivens1933
+-mami,,1du_p,1st (excl) Person Dual,,,,,bugh1239,Ivens1933
+"igita, gita",,12pl_a,1st (incl) Person Plural,,,,,bugh1239,Ivens1933
+"igita, gita",,12pl_s,1st (incl) Person Plural,,,,,bugh1239,Ivens1933
+-gita,,12pl_o,1st (incl) Person Plural,,,,,bugh1239,Ivens1933
+-da,,12pl_p,1st (incl) Person Plural,,,,,bugh1239,Ivens1933
+"igami, gami",,1pl_a,1st (excl) Person Plural,,,,,bugh1239,Ivens1933
+"igami, gami",,1pl_s,1st (excl) Person Plural,,,,,bugh1239,Ivens1933
+-gami,,1pl_o,1st (excl) Person Plural,,,,,bugh1239,Ivens1933
+-mami,,1pl_p,1st (excl) Person Plural,,,,,bugh1239,Ivens1933
+"igoe, o",,2sg_a,2nd Person Singular,,,,,bugh1239,Ivens1933
+"igoe, o",,2sg_s,2nd Person Singular,,,,,bugh1239,Ivens1933
+-go,,2sg_o,2nd Person Singular,,,,,bugh1239,Ivens1933
+"-mu, -mua",,2sg_p,2nd Person Singular,,,,,bugh1239,Ivens1933
+"irogamu, rogamu",,2du_a,2nd Person Dual,,,,,bugh1239,Ivens1933
+"irogamu, rogamu",,2du_s,2nd Person Dual,,,,,bugh1239,Ivens1933
+-gamu,,2du_o,2nd Person Dual,,,,,bugh1239,Ivens1933
+-miu,,2du_p,2nd Person Dual,,,,,bugh1239,Ivens1933
+"igamu, gamu",,2pl_a,2nd Person Plural,,,,,bugh1239,Ivens1933
+"igamu, gamu",,2pl_s,2nd Person Plural,,,,,bugh1239,Ivens1933
+-gamu,,2pl_o,2nd Person Plural,,,,,bugh1239,Ivens1933
+-miu,,2pl_p,2nd Person Plural,,,,,bugh1239,Ivens1933
+"imanea, manea",,3sg_m_a,3rd Person Singular Masculine,,,,,bugh1239,Ivens1933
+"imanea, manea",,3sg_m_s,3rd Person Singular Masculine,,,,,bugh1239,Ivens1933
+-a,,3sg_m_o,3rd Person Singular Masculine,,,,,bugh1239,Ivens1933
+-gna,,3sg_m_p,3rd Person Singular Masculine,,,,,bugh1239,Ivens1933
+iia,,3sg_f_a,3rd Person Singular Feminine,,,,,bugh1239,Ivens1933
+iia,,3sg_f_s,3rd Person Singular Feminine,,,,,bugh1239,Ivens1933
+-a,,3sg_f_o,3rd Person Singular Feminine,,,,,bugh1239,Ivens1933
+-gna,,3sg_f_p,3rd Person Singular Feminine,,,,,bugh1239,Ivens1933
+"iromaraira, romaraira, romarea",,3d-a_m,3rd Person Dual,,,,,bugh1239,Ivens1933
+"iroiira, roiira",,3d-a_f,3rd Person Dual,,,,,bugh1239,Ivens1933
+"iromaraira, romaraira, romarea",,3d-s_m,3rd Person Dual Masculine,,,,,bugh1239,Ivens1933
+"iroiira, roiira",,3d-s_f,3rd Person Dual Feminine,,,,,bugh1239,Ivens1933
+-ra,,3d-o,3rd Person Dual,,,,,bugh1239,Ivens1933
+-dia,,3d-p,3rd Person Dual,,,,,bugh1239,Ivens1933
+"imaraira, maraira, imarea, marea, maria, timara, timarea",,3p-a_m,3rd Person Plural Masculine,,,,,bugh1239,Ivens1933
+iira,,3p-a_f,3rd Person Plural Feminine,,,,,bugh1239,Ivens1933
+"imaraira, maraira, imarea, marea, maria, timara, timarea",,3p-s_m,3rd Person Plural Masculine,,,,,bugh1239,Ivens1933
+iira,,3p-s_f,3rd Person Plural Feminine,,,,,bugh1239,Ivens1933
+-ra,,3p-o,3rd Person Plural,,,,,bugh1239,Ivens1933
+-dia,,3p-p,3rd Person Plural,,,,,bugh1239,Ivens1933

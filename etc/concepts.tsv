@@ -40,11 +40,21 @@ ID	LocalID	English	Alignment	Person	GrammaticalNumber	Gender	Sequence
 3pl_n_o	138	3rd Person Plural Neuter	O	3	pl	N	
 3pl_n_p	139	3rd Person Plural Neuter	P	3	pl	N	
 3d-a	140	3rd Person Dual	A	3	du		45
+3d-a_m	140	3rd Person Dual	A Masculine	3	du	M	45
+3d-a_f	140	3rd Person Dual	A Feminine	3	du	F	45
 3d-s	141	3rd Person Dual	S	3	du		46
+3d-s_m	141	3rd Person Dual Masculine	S	3	du	M	46
+3d-s_f	141	3rd Person Dual Feminine	S	3	du	F	46
 3d-o	142	3rd Person Dual	O	3	du		47
 3d-p	143	3rd Person Dual	P	3	du		48
+3d-p_m	143	3rd Person Dual Masculine	P	3	du	M	48
+3d-p_f	143	3rd Person Dual Feminine	P	3	du	F	48
 3p-a	144	3rd Person Plural	A	3	pl		57
+3p-a_m	144	3rd Person Plural Masculine	A	3	pl	M	57
+3p-a_f	144	3rd Person Plural Feminine	A	3	pl	F	57
 3p-s	145	3rd Person Plural	S	3	pl		58
+3p-s_m	145	3rd Person Plural Masculine	S	3	pl	M	58
+3p-s_f	145	3rd Person Plural Feminine	S	3	pl	F	58
 3p-o	146	3rd Person Plural	O	3	pl		59
 3p-p	147	3rd Person Plural	P	3	pl		60
 1sg_a	72	1st (excl) Person Singular	A	1	sg		1
