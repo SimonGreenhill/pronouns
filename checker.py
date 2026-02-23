@@ -45,8 +45,11 @@ def get_sources(filename):
     with open(filename, 'r') as handle:
         for line in handle:
             if line.startswith("@"):
-                yield line.split("{")[1].strip().strip(',')
-
+                try:
+                    yield line.split("{")[1].strip().strip(',')
+                except:
+                    print(line)
+                    raise
 
 class Checker(object):
 
@@ -83,6 +86,7 @@ class Checker(object):
         return unicodedata.normalize('NFC', text)
     
     def check(self):
+        entries = 0
         for i, row in enumerate(self.rows, 1):
             for e in EXPECTED_COLUMNS:
                 if e not in row:
@@ -94,6 +98,7 @@ class Checker(object):
                 has_entry = False
             else:
                 has_entry = True
+                entries += 1
             
             for col, value in row.items():
                 if col == 'parameter':
@@ -114,10 +119,13 @@ class Checker(object):
                     # if we have an entry in `word` we should have a source
                     if value is None or len(value) == 0:
                         self.error(f"Empty Source in row {i}: '{value}'")
-                    for s in [v for v in value.split(";")]:
-                        if s not in SOURCES:
-                            self.error(f"Unknown Source in row {i}: '{s}'")
+                    else:
+                        for s in [v for v in value.split(";")]:
+                            if s not in SOURCES:
+                                self.error(f"Unknown Source in row {i}: '{s}'")
 
+        if entries == 0:
+            self.error(f"Empty file!")
 
 
 def check_languages_tsv(filename="etc/languages.tsv"):
@@ -141,7 +149,7 @@ def check_languages_tsv(filename="etc/languages.tsv"):
             yield f"L{i} - no coder"
         elif row['Coder'] not in CODERS:
             yield f"L{i} - bad coder '{row['Coder']}'"
-
+        
 
 PARAMETERS = {o['ID']: o['English'] for o in get('etc/concepts.tsv', "\t")}
 
@@ -161,7 +169,7 @@ if __name__ == '__main__':
             errors += len(c.errors)
         except Exception as e:
             print(f"Error reading {p}: {e}")
-    
+            raise
     
     # check languages.tsv
     print("\n./etc/languages.tsv:")
