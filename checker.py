@@ -7,6 +7,9 @@ import unicodedata
 from pathlib import Path
 
 EXTENSIONS_TO_IGNORE = ('.py', '.gz', '.zip')
+FILENAMES_TO_IGNORE = (
+    'template.csv',
+)
 
 EXPECTED_COLUMNS = ('word', 'ipa', 'parameter', 'comment', 'glottocode', 'source')
 
@@ -94,11 +97,11 @@ class Checker(object):
             
             for col, value in row.items():
                 if col == 'parameter':
-                    if value not in PARADIGMS.keys():
+                    if value not in PARAMETERS.keys():
                         self.error(f"Unknown Parameter in row {i}: '{value}'")
                 elif col == 'description':
                     pass # Not checked
-                    # if value not in PARADIGMS.values():
+                    # if value not in PARAMETERS.values():
                     #     self.error(f"Unknown Description in row {i}: '{value}'")
                 elif col in ('word', 'ipa', 'comment', 'translation'):
                     if value != self.normalise(value):
@@ -140,7 +143,7 @@ def check_languages_tsv(filename="etc/languages.tsv"):
             yield f"L{i} - bad coder '{row['Coder']}'"
 
 
-PARADIGMS = {o['ID']: o['English'] for o in get('etc/concepts.tsv', "\t")}
+PARAMETERS = {o['ID']: o['English'] for o in get('etc/concepts.tsv', "\t")}
 
 SOURCES = list(get_sources('./raw/sources.bib'))
 SOURCES.append('UNKNOWN')
@@ -151,7 +154,7 @@ Checker.known_files = {o['Filename']: 0 for o in get('etc/languages.tsv', "\t")}
 if __name__ == '__main__':
     errors = 0
     for p in sorted(Path("raw").glob("*/*")):
-        if p.is_dir() or p.suffix in EXTENSIONS_TO_IGNORE:
+        if p.is_dir() or p.suffix in EXTENSIONS_TO_IGNORE or p.name in FILENAMES_TO_IGNORE:
             continue
         try:
             c = Checker(p)
