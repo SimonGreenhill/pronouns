@@ -1,42 +1,48 @@
 import gzip
 import json
 import logging
+import dataclasses
 from collections import defaultdict
 from pathlib import Path
+from typing import Optional
 
 import csvw
-import attr
 import pylexibank
 from clldutils.misc import slug
 from pylexibank.util import progressbar
 
 
-@attr.s
+@dataclasses.dataclass
 class PronounConcept(pylexibank.Concept):
-    LocalID = attr.ib(default=None)
-    English = attr.ib(default=None)
-    Alignment = attr.ib(default=None)
-    Person = attr.ib(default=None)
-    GrammaticalNumber = attr.ib(default=None)
-    Gender = attr.ib(default=None)
-    Sequence = attr.ib(default=None)
+    LocalID: Optional[str] = None
+    English: Optional[str] = None
+    Alignment: Optional[str] = None
+    Person: Optional[str] = None
+    GrammaticalNumber: Optional[str] = None
+    Gender: Optional[str] = None
+    Sequence: Optional[str] = None
 
 
-@attr.s
+@dataclasses.dataclass
 class PronounLexeme(pylexibank.Lexeme):
-    Comment = attr.ib(default=None)
-    Paradigm_ID = attr.ib(default=None)
+    Comment: Optional[str] = None
+    Paradigm_ID: Optional[str] = None
 
 
-@attr.s
+@dataclasses.dataclass
 class PronounLanguage(pylexibank.Language):
-    LocalID = attr.ib(default=None)
-    Dialect = attr.ib(default=None)
-    Variant = attr.ib(default=None)
-    Filename = attr.ib(default=None)
-    Comment = attr.ib(default=None)
-    Analect = attr.ib(default='Free', validator=attr.validators.in_(['Free', 'Bound']))
-    Coder = attr.ib(default=None)
+    LocalID: Optional[str] = None
+    Dialect: Optional[str] = None
+    Variant: Optional[str] = None
+    Filename: Optional[str] = None
+    Comment: Optional[str] = None
+    Analect: str = 'Free'
+    Coder: Optional[str] = None
+
+    def __post_init__(self):
+        if self.Analect not in ('Free', 'Bound'):
+            raise ValueError(
+                "Analect must be 'Free' or 'Bound', got %r" % (self.Analect,))
 
 
 
