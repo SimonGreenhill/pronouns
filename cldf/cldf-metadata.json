@@ -4,9 +4,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "CLDF dataset derived from the Parabank Pronoun Database",
     "dc:identifier": "https://pdb.simon.net.nz",
-    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
-    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Parabank Pronoun Dataset",
     "dcat:accessURL": "https://github.com/SimonGreenhill/pronouns",
@@ -14,7 +12,7 @@
         {
             "rdf:about": "https://github.com/SimonGreenhill/pronouns",
             "rdf:type": "prov:Entity",
-            "dc:created": "3c4abfa",
+            "dc:created": "c968322",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +41,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.14.0"
+            "dc:description": "3.12.13"
         },
         {
             "dc:title": "python-packages",
@@ -55,6 +53,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:description": "PronounLexeme(ID: str, Form: str, Value: str, Language_ID: str, Parameter_ID: str, Local_ID: Optional[str] = None, Segments: list[str] = <factory>, Graphemes: Optional[list[str]] = None, Profile: Optional[str] = None, Source: list[str] = <factory>, Comment: Optional[str] = None, Cognacy: Optional[str] = None, Loan: Optional[bool] = None, Paradigm_ID: Optional[str] = None)",
             "dc:extent": 46915,
             "tableSchema": {
                 "columns": [
@@ -162,7 +161,8 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 734,
+            "dc:description": "PronounLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, LocalID: Optional[str] = None, Dialect: Optional[str] = None, Variant: Optional[str] = None, Filename: Optional[str] = None, Comment: Optional[str] = None, Analect: str = 'Free', Coder: Optional[str] = None)",
+            "dc:extent": 735,
             "tableSchema": {
                 "columns": [
                     {
@@ -256,6 +256,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "PronounConcept(ID: Optional[str] = '', Name: Optional[str] = '', Concepticon_ID: Optional[str] = None, Concepticon_Gloss: Optional[str] = None, LocalID: Optional[str] = None, English: Optional[str] = None, Alignment: Optional[str] = None, Person: Optional[str] = None, GrammaticalNumber: Optional[str] = None, Gender: Optional[str] = None, Sequence: Optional[str] = None)",
             "dc:extent": 102,
             "tableSchema": {
                 "columns": [
