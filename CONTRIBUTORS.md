@@ -2,9 +2,10 @@
 
 Name                   | GitHub user               | Role
 ---------------------- | ------------------------- | --------------------
-Simon J. Greenhill     | @SimonGreenhill           | Author, Maintainer
-Wolfgang Barth         |                           | Author, Maintainer
-Kyla Quinn             |                           | Author, Maintainer
+Simon J. Greenhill     | @SimonGreenhill           | Author, Editor, Maintainer
+Wolfgang Barth         |                           | Author, Editor
+Kyla Quinn             |                           | Author, Editor
+Nick Evans             |                           | Author, Editor
 Amos Teo               |                           | Author
 Charlotte van Tongeren |                           | Author
 Darja Hoenigman        |                           | Author
@@ -13,7 +14,6 @@ Louise Baird           |                           | Author
 Marie-France Duhamel   |                           | Author
 Matt Carroll           |                           | Author
 Naomi Peck             |                           | Author
-Nick Evans             |                           | Author
 Oscar McLoughlin-Ning  |                           | Author
 Owen Edwards           |                           | Author
 Roberto Herrera        |                           | Author
