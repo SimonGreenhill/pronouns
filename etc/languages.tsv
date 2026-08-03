@@ -730,13 +730,14 @@ guuguyimidhirrcoastal	900	Guugu Yimidhirr coastal gugu1255			Guugu Yimidhirr coa
 guuguyimidhirrinland	911	Guugu Yimidhirr inland gugu1255			Guugu Yimidhirr inland gugu1255.csv	gugu1255	Free	Louise Baird
 standardarabic	901	Standard Arabic stan1318			Standard Arabic stan1318.csv	stan1318	Free	?
 kalalagawya	902	Kala Lagaw Ya kala1377			Kala Lagaw Ya kala1377.csv	kala1377	Free	Nick Evans
-chimariko	903	Chimariko chim1301			Chimariko chim1301.csv	chim1301	Free	?
-ekegusii	905	Ekegusii gusi1247			Ekegusii gusi1247.csv	gusi1247	Free	?
-bullomso	906	Bullom So bull1247			Bullom So bull1247.csv	bull1247	Free	?
-saotomense	907	Sãotomense saot1239			Sãotomense saot1239.csv	saot1239	Free	?
+chimariko	903	Chimariko chim1301			Chimariko chim1301.csv	chim1301	Free	?	
+ekegusii	905	Ekegusii gusi1247			Ekegusii gusi1247.csv	gusi1247	Free	?	
+bullomso	906	Bullom So bull1247			Bullom So bull1247.csv	bull1247	Free	?	
+saotomense	907	Sãotomense saot1239			Sãotomense saot1239.csv	saot1239	Free	?	
 maoriharlow	908	Maori [Harlow] maor1246			Maori [Harlow] maor1246.csv	maor1246	Free	Roberto Herrera	In all clause types A and S pronouns appear unmarked while O pronouns are marked by the preposition /i/ (Harlow 1996:27). Since /i/ is not analysed as incorporated into the head of the marked object phrase, this element has not been included with the O forms listed below. In addition, when acting as possessives, the forms listed below appear following one of four possessive prepositions and immediately precede the possessed noun phrase (Harlow 1996:20-2). Each of the four possessive prepositions index a certain form of possession as discussed by Harlow (1996:20-2).
 adamawafulani	909	Adamawa Fulani adam1253			Adamawa Fulani adam1253.csv	adam1253	Free	?
-avestan	910	Avestan aves1237			Avestan aves1237.csv	aves1237	Free	?
+avestan	910	Avestan aves1237			Avestan aves1237.csv	aves1237	Free	?	
 maoribaueretal	912	Maori [Bauer et al] maor1246			Maori [Bauer et al] maor1246.csv	maor1246	Free	?
-swahili	913	Swahili swah1253			Swahili swah1253.csv	swah1253	Free	?
+swahili	913	Swahili swah1253			Swahili swah1253.csv	swah1253	Free	?	
 southernkisi	914	Southern Kisi sout2778			Southern Kisi sout2778.csv	sout2778	Free	?
+oldavestan	915	Old Avestan			Old Avestan aves1237.csv	aves1237	Free	Nick Evans	"Entered by Nicholas Evans (20260215). Source: Hoffman, Karl. 2019. AVESTAN LANGUAGE iii. The Grammar of Avestan. Encyclopaedia Iranica.  https://www.iranicaonline.org/articles/avestan-language/avestan-language-iii-the-grammar-of-avestan/. I have converted his symbols to standard IPA values on the basis of https://en.wikipedia.org/wiki/Avestan_alphabet. Further source: Hoffmann, Karl & Forssmann, Bernhard.  2004. Avestische Laut- und Flexionslehre . 2. durchgeshene und erweiterte Auflage. Innsbruck. Old Avestan forms (OAv) in the source are used \n\n No dual forms for A, S or O in the 2nd person are listed in the sources. NE checked this with Avestar specialist Almut Hinze and received the following response confirming the lack of attestion of these forms: NE Query In the second person, the only dual form mentioned is the genitive: ' Dual: gen. YAv. yauuākəm \n\n How are other second person dual forms, namely 2nd dual nominative, 2nd dual accusative, and is there an enclitic form?'. HA response:r: There are forms which are not attested in our sources. Some of them can be reconstructed by comparing Vedic grammar.: The abbreviation '?' is used for these gaps."
